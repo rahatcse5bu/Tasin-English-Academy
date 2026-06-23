@@ -1,0 +1,184 @@
+{
+  "chapters": [
+    {
+      "id": "parts-of-speech",
+      "title": "Parts of Speech",
+      "titleBn": "পদ প্রকরণ",
+      "icon": "category",
+      "intro": "Every English word belongs to one of eight parts of speech, decided by the job it does in a sentence.",
+      "introBn": "ইংরেজির প্রতিটি শব্দ বাক্যে তার কাজ অনুযায়ী আটটি Parts of Speech-এর একটিতে পড়ে।",
+      "lessons": [
+        {"heading": "Noun (বিশেষ্য)", "body": "A noun names a person, place, thing, animal or idea.", "bodyBn": "ব্যক্তি, স্থান, বস্তু বা ভাবের নাম।", "examples": ["Rahim lives in Barishal.", "Honesty is a great virtue."]},
+        {"heading": "Pronoun (সর্বনাম)", "body": "A pronoun is used instead of a noun.", "bodyBn": "বিশেষ্যের পরিবর্তে যে শব্দ বসে।", "examples": ["He is my friend.", "They are playing."]},
+        {"heading": "Verb (ক্রিয়া)", "body": "A verb expresses an action or a state of being.", "bodyBn": "কাজ করা বা থাকা বোঝায়।", "examples": ["She writes a letter.", "We are happy."]},
+        {"heading": "Adjective (বিশেষণ)", "body": "An adjective describes or qualifies a noun or pronoun.", "bodyBn": "বিশেষ্য বা সর্বনামের দোষ-গুণ প্রকাশ করে।", "examples": ["It is a beautiful flower.", "He is a brave boy."]},
+        {"heading": "Adverb (ক্রিয়া-বিশেষণ)", "body": "An adverb modifies a verb, adjective or another adverb.", "bodyBn": "ক্রিয়া, বিশেষণ বা অন্য adverb-কে বিশেষিত করে।", "examples": ["He runs fast.", "She is very clever."]},
+        {"heading": "Preposition (পদান্বয়ী অব্যয়)", "body": "A preposition shows the relation of a noun/pronoun to another word.", "bodyBn": "বিশেষ্য/সর্বনামের সাথে অন্য শব্দের সম্পর্ক বোঝায়।", "examples": ["The book is on the table.", "He went to school."]},
+        {"heading": "Conjunction (সংযোজক অব্যয়)", "body": "A conjunction joins words, phrases or clauses.", "bodyBn": "শব্দ, বাক্যাংশ বা বাক্যকে যুক্ত করে।", "examples": ["Rahim and Karim are friends.", "He is poor but honest."]},
+        {"heading": "Interjection (আবেগসূচক অব্যয়)", "body": "An interjection expresses sudden emotion.", "bodyBn": "হঠাৎ আবেগ প্রকাশ করে।", "examples": ["Hurrah! We have won.", "Alas! He is dead."]}
+      ],
+      "quiz": [
+        {"q": "What part of speech is the underlined word: 'He runs QUICKLY.'", "options": ["Adjective", "Adverb", "Verb", "Noun"], "answer": 1, "explain": "'Quickly' tells how he runs, so it modifies the verb — it is an adverb."},
+        {"q": "Identify the noun: 'Dhaka is a big city.'", "options": ["is", "big", "Dhaka", "a"], "answer": 2, "explain": "'Dhaka' names a place, so it is a noun."},
+        {"q": "Which word is a conjunction? 'He is poor but honest.'", "options": ["poor", "but", "honest", "is"], "answer": 1, "explain": "'But' joins two ideas, so it is a conjunction."},
+        {"q": "'WOW! What a beautiful scene.' — 'Wow' is a/an:", "options": ["Adverb", "Interjection", "Pronoun", "Adjective"], "answer": 1, "explain": "It expresses sudden emotion — an interjection."},
+        {"q": "Identify the pronoun: 'They play football.'", "options": ["They", "play", "football", "none"], "answer": 0, "explain": "'They' stands for a noun, so it is a pronoun."},
+        {"q": "What part of speech is 'on' in 'The cat is on the roof.'?", "options": ["Conjunction", "Adverb", "Preposition", "Verb"], "answer": 2, "explain": "'On' shows position/relation — a preposition."}
+      ]
+    },
+    {
+      "id": "tenses",
+      "title": "Tenses",
+      "titleBn": "কাল",
+      "icon": "schedule",
+      "intro": "Tense shows the time of an action. There are three main tenses — present, past and future — each with four forms.",
+      "introBn": "Tense ক্রিয়ার সময় বোঝায়। প্রধান তিনটি কাল — present, past, future — প্রতিটির চারটি রূপ আছে।",
+      "lessons": [
+        {"heading": "Present Tense", "body": "Simple (I eat), Continuous (I am eating), Perfect (I have eaten), Perfect Continuous (I have been eating).", "bodyBn": "চলমান বা অভ্যাসগত ঘটনা।", "examples": ["She goes to school every day.", "They are playing now.", "I have finished my work."]},
+        {"heading": "Past Tense", "body": "Simple (I ate), Continuous (I was eating), Perfect (I had eaten), Perfect Continuous (I had been eating).", "bodyBn": "অতীতের ঘটনা।", "examples": ["He came yesterday.", "We were reading when he called.", "She had left before I arrived."]},
+        {"heading": "Future Tense", "body": "Simple (I shall/will eat), Continuous (I will be eating), Perfect (I will have eaten), Perfect Continuous (I will have been eating).", "bodyBn": "ভবিষ্যতের ঘটনা।", "examples": ["I will help you.", "They will be travelling tomorrow."]},
+        {"heading": "Signal words (সংকেত শব্দ)", "body": "every day, usually -> Simple Present; now, at present -> Present Continuous; already, just, yet -> Present Perfect; yesterday, ago -> Simple Past; tomorrow -> Future.", "bodyBn": "এই শব্দগুলো দেখে সঠিক tense চেনা যায়।", "examples": ["He has ALREADY gone.", "I met him two days AGO."]}
+      ],
+      "quiz": [
+        {"q": "She ____ to school every day.", "options": ["go", "goes", "is going", "gone"], "answer": 1, "explain": "'Every day' signals a habit -> Simple Present, and the subject 'she' takes 'goes'."},
+        {"q": "Look! The baby ____ .", "options": ["cries", "cried", "is crying", "has cried"], "answer": 2, "explain": "'Look!' shows an action happening now -> Present Continuous."},
+        {"q": "I ____ my lunch already.", "options": ["have eaten", "eat", "ate", "am eating"], "answer": 0, "explain": "'Already' signals Present Perfect."},
+        {"q": "He ____ the work before I came.", "options": ["finishes", "had finished", "finish", "has finished"], "answer": 1, "explain": "An earlier past action before another past -> Past Perfect."},
+        {"q": "We ____ him tomorrow.", "options": ["meet", "met", "will meet", "have met"], "answer": 2, "explain": "'Tomorrow' signals the future -> 'will meet'."},
+        {"q": "They ____ football when it started to rain.", "options": ["play", "were playing", "have played", "will play"], "answer": 1, "explain": "An ongoing past action interrupted by another -> Past Continuous."}
+      ]
+    },
+    {
+      "id": "voice",
+      "title": "Active & Passive Voice",
+      "titleBn": "বাচ্য",
+      "icon": "swap_horiz",
+      "intro": "Voice shows whether the subject does the action (Active) or receives it (Passive).",
+      "introBn": "Voice বোঝায় subject নিজে কাজ করে (Active) নাকি কাজটি ভোগ করে (Passive)।",
+      "lessons": [
+        {"heading": "The basic idea", "body": "Active: Subject + Verb + Object. Passive: Object + be + past participle (V3) + by + Subject.", "bodyBn": "Active-এর object passive-এ subject হয়।", "examples": ["Active: Rahim eats rice.", "Passive: Rice is eaten by Rahim."]},
+        {"heading": "Steps to change", "body": "1) Object becomes the subject. 2) Use the right form of 'be' + V3. 3) Put the old subject after 'by'.", "bodyBn": "Object আগে, be + V3, তারপর by + কর্তা।", "examples": ["Active: She wrote a letter.", "Passive: A letter was written by her."]},
+        {"heading": "'be' by tense", "body": "Simple Present -> is/am/are; Present Continuous -> is/am/are being; Past -> was/were; Present Perfect -> has/have been; Future -> will be.", "bodyBn": "tense অনুযায়ী be-এর রূপ বদলায়।", "examples": ["Passive (cont.): The work is being done.", "Passive (perfect): The work has been done."]},
+        {"heading": "Questions & imperatives", "body": "Interrogative: keep the question form. Imperative: 'Let + object + be + V3'.", "bodyBn": "আদেশসূচক বাক্যে 'Let ... be + V3'।", "examples": ["Active: Do it now. Passive: Let it be done now.", "Active: Who broke the glass? Passive: By whom was the glass broken?"]}
+      ],
+      "quiz": [
+        {"q": "Passive of 'Rahim eats rice.'", "options": ["Rice is eaten by Rahim.", "Rice was eaten by Rahim.", "Rice eaten by Rahim.", "Rice is eat by Rahim."], "answer": 0, "explain": "Simple Present passive -> is/am/are + V3: 'is eaten'."},
+        {"q": "Passive of 'She is writing a letter.'", "options": ["A letter is written by her.", "A letter is being written by her.", "A letter was written by her.", "A letter being written by her."], "answer": 1, "explain": "Present Continuous passive -> is being + V3."},
+        {"q": "Passive of 'Do the work.'", "options": ["The work is done.", "Let the work be done.", "The work be done.", "Do be the work."], "answer": 1, "explain": "Imperative passive -> 'Let + object + be + V3'."},
+        {"q": "Active of 'The thief was caught by the police.'", "options": ["The police catch the thief.", "The police caught the thief.", "The police has caught the thief.", "The police catching the thief."], "answer": 1, "explain": "'was ... by' is Past passive -> active Simple Past 'caught'."},
+        {"q": "Passive of 'They have finished the project.'", "options": ["The project is finished.", "The project was finished.", "The project has been finished.", "The project had finished."], "answer": 2, "explain": "Present Perfect passive -> has/have been + V3."},
+        {"q": "Choose the correct passive: 'Who wrote this poem?'", "options": ["By whom was this poem written?", "Who was written this poem?", "By whom this poem written?", "Whom this poem is written?"], "answer": 0, "explain": "Past passive of a 'who' question -> 'By whom was ... written?'"}
+      ]
+    },
+    {
+      "id": "narration",
+      "title": "Narration (Direct & Indirect)",
+      "titleBn": "উক্তি",
+      "icon": "record_voice_over",
+      "intro": "Narration is reporting someone's words — either the exact words (Direct) or in our own words (Indirect).",
+      "introBn": "কারও কথা বলা — হুবহু (Direct) অথবা নিজের ভাষায় (Indirect)।",
+      "lessons": [
+        {"heading": "Direct vs Indirect", "body": "Direct keeps the exact words inside quotation marks. Indirect reports them without quotation marks.", "bodyBn": "Direct-এ inverted comma থাকে, Indirect-এ থাকে না।", "examples": ["Direct: He said, 'I am ill.'", "Indirect: He said that he was ill."]},
+        {"heading": "Key changes", "body": "1) Reporting verb may change (say to/tell, ask, order, request). 2) Use a linker (that / if / to). 3) Change pronouns to suit the speaker. 4) Back-shift the tense if the reporting verb is past.", "bodyBn": "Pronoun, tense ও সময়-স্থানবাচক শব্দ বদলায়।", "examples": ["now -> then, today -> that day, here -> there, this -> that, ago -> before"]},
+        {"heading": "Sentence types", "body": "Assertive: say/tell + that. Interrogative: ask + if/whether (or wh-word), change to statement order. Imperative: tell/order/request/advise + to + verb.", "bodyBn": "প্রশ্নবোধক -> if/whether; আদেশ -> 'to + verb'।", "examples": ["Direct: He said to me, 'Are you happy?' -> Indirect: He asked me if I was happy.", "Direct: He said to me, 'Go away.' -> Indirect: He ordered me to go away."]},
+        {"heading": "Optative & Exclamatory", "body": "Use 'wish/pray' for optative; 'exclaim with joy/sorrow that' for exclamatory.", "bodyBn": "ইচ্ছা/প্রার্থনা -> wish/pray; বিস্ময় -> exclaim ... that।", "examples": ["Direct: He said, 'May you live long!' -> Indirect: He prayed that I might live long."]}
+      ],
+      "quiz": [
+        {"q": "Indirect: He said, 'I am happy.'", "options": ["He said that he is happy.", "He said that he was happy.", "He says he was happy.", "He said he is happy."], "answer": 1, "explain": "Past reporting verb back-shifts 'am' to 'was'; 'I' becomes 'he'."},
+        {"q": "Indirect: She said to me, 'Are you ready?'", "options": ["She asked me if I was ready.", "She said that I was ready.", "She asked me that I am ready.", "She told me if I am ready."], "answer": 0, "explain": "Yes/no question -> ask + if + statement order, tense back-shifts."},
+        {"q": "Indirect: He said to me, 'Please help me.'", "options": ["He told me help him.", "He requested me to help him.", "He said to help me.", "He asked that help him."], "answer": 1, "explain": "'Please' + command -> request + to + verb; pronoun changes."},
+        {"q": "'now' in indirect speech (past) becomes:", "options": ["then", "today", "here", "soon"], "answer": 0, "explain": "Time word change: now -> then."},
+        {"q": "Indirect: The teacher said, 'The earth moves round the sun.'", "options": ["said that the earth moved", "said that the earth moves round the sun", "told the earth moves", "asked the earth moves"], "answer": 1, "explain": "A universal truth does NOT change tense."},
+        {"q": "Indirect: He said, 'What a nice bird!'", "options": ["He said the bird is nice.", "He exclaimed with joy that it was a very nice bird.", "He asked what a nice bird.", "He told a nice bird."], "answer": 1, "explain": "Exclamatory -> 'exclaimed with joy that ...'"}
+      ]
+    },
+    {
+      "id": "transformation",
+      "title": "Sentence Transformation",
+      "titleBn": "বাক্য রূপান্তর",
+      "icon": "transform",
+      "intro": "Transformation changes the FORM of a sentence while keeping the same MEANING.",
+      "introBn": "অর্থ ঠিক রেখে বাক্যের গঠন পরিবর্তন করা।",
+      "lessons": [
+        {"heading": "Simple, Complex, Compound", "body": "Simple: one clause. Complex: one main + one or more subordinate clause (with because, although, that, if...). Compound: two main clauses joined by and, but, so, or.", "bodyBn": "একটি clause -> Simple; main+sub -> Complex; দুটি main -> Compound।", "examples": ["Simple: Being ill, he could not come.", "Complex: As he was ill, he could not come.", "Compound: He was ill and could not come."]},
+        {"heading": "Affirmative <-> Negative", "body": "Keep the meaning by using opposite words: only/alone -> none but; must -> cannot but; every -> there is no ... that ... not.", "bodyBn": "অর্থ ঠিক রেখে না-বোধক করা।", "examples": ["Aff: Only Allah can help us.", "Neg: None but Allah can help us."]},
+        {"heading": "Assertive <-> Interrogative", "body": "Turn a statement into a question that means the same: 'Everybody loves flowers.' -> 'Who does not love flowers?'", "bodyBn": "একই অর্থে প্রশ্নবোধক করা।", "examples": ["Assertive: It is no use crying.", "Interrogative: What is the use of crying?"]},
+        {"heading": "Degree (Positive/Comparative/Superlative)", "body": "No other ... as ... as (positive); ...-er than any other (comparative); the ...-est (superlative).", "bodyBn": "তুলনার তিন স্তর।", "examples": ["Superlative: Dhaka is the biggest city in Bangladesh.", "Comparative: Dhaka is bigger than any other city in Bangladesh.", "Positive: No other city in Bangladesh is as big as Dhaka."]}
+      ],
+      "quiz": [
+        {"q": "Make negative: 'Only Allah can save us.'", "options": ["Allah cannot save us.", "None but Allah can save us.", "Nobody can save us.", "Allah can not save."], "answer": 1, "explain": "'Only' (a person) -> 'None but' keeps the meaning."},
+        {"q": "Complex form of 'Being ill, he could not come.'", "options": ["He was ill and could not come.", "As he was ill, he could not come.", "He could not come for illness.", "Ill he could not come."], "answer": 1, "explain": "Adding the subordinate clause 'As he was ill' makes it complex."},
+        {"q": "Comparative of 'Dhaka is the biggest city in Bangladesh.'", "options": ["Dhaka is bigger than any other city in Bangladesh.", "Dhaka is big city.", "No city is big as Dhaka.", "Dhaka is biggest than cities."], "answer": 0, "explain": "Superlative -> comparative: '...-er than any other ...'."},
+        {"q": "Interrogative of 'Everybody wants to be happy.'", "options": ["Does everybody happy?", "Who does not want to be happy?", "Is everybody happy?", "Why everybody happy?"], "answer": 1, "explain": "Affirmative-assertive -> negative-interrogative keeps the meaning."},
+        {"q": "Compound form of 'As he is honest, he is loved by all.'", "options": ["He is honest and is loved by all.", "He is honest but loved.", "Being honest loved by all.", "He is loved as honest."], "answer": 0, "explain": "Two main clauses joined by 'and' -> compound."},
+        {"q": "Simple form of 'When the sun rose, the fog disappeared.'", "options": ["The sun rose and fog gone.", "At sunrise, the fog disappeared.", "As sun rose fog gone.", "Sun rose so fog disappeared."], "answer": 1, "explain": "Reducing the clause to a phrase 'At sunrise' makes it a simple sentence."}
+      ]
+    },
+    {
+      "id": "modals",
+      "title": "Modal Verbs",
+      "titleBn": "মোডাল ভার্ব",
+      "icon": "bolt",
+      "intro": "Modal verbs (can, could, may, might, shall, should, will, would, must, ought to) are helping verbs that express ability, permission, possibility, obligation, advice and more.",
+      "introBn": "Modal verb দিয়ে সামর্থ্য, অনুমতি, সম্ভাবনা, বাধ্যবাধকতা ও উপদেশ বোঝানো হয়।",
+      "lessons": [
+        {"heading": "can / could", "body": "can -> present ability or permission; could -> past ability or polite request.", "bodyBn": "সামর্থ্য/অনুমতি; could অতীত বা ভদ্র অনুরোধ।", "examples": ["I can swim.", "Could you help me, please?"]},
+        {"heading": "may / might", "body": "may -> permission or possibility; might -> weaker possibility or wish.", "bodyBn": "অনুমতি/সম্ভাবনা; might দুর্বল সম্ভাবনা।", "examples": ["May I come in?", "It might rain today."]},
+        {"heading": "shall / should", "body": "should -> advice, duty or suggestion (ought to).", "bodyBn": "should -> উপদেশ/কর্তব্য।", "examples": ["You should respect your teachers.", "We should not waste time."]},
+        {"heading": "must / have to / ought to", "body": "must -> strong obligation or certainty; have to -> necessity; ought to -> moral duty.", "bodyBn": "must -> জোরালো বাধ্যবাধকতা।", "examples": ["You must obey the law.", "We ought to help the poor."]},
+        {"heading": "will / would", "body": "will -> future or willingness; would -> polite request, past habit or condition.", "bodyBn": "will -> ভবিষ্যৎ; would -> ভদ্র অনুরোধ/অতীত অভ্যাস।", "examples": ["I will call you tomorrow.", "Would you mind closing the door?"]}
+      ],
+      "quiz": [
+        {"q": "____ you help me, please? (polite request)", "options": ["Must", "Could", "Shall", "May"], "answer": 1, "explain": "'Could' makes a polite request."},
+        {"q": "You ____ respect your parents. (advice/duty)", "options": ["should", "might", "can", "will"], "answer": 0, "explain": "'Should' gives advice or expresses duty."},
+        {"q": "It ____ rain today; take an umbrella. (possibility)", "options": ["must", "may", "shall", "would"], "answer": 1, "explain": "'May' expresses possibility."},
+        {"q": "Every citizen ____ obey the law. (strong obligation)", "options": ["may", "could", "must", "might"], "answer": 2, "explain": "'Must' expresses strong obligation."},
+        {"q": "I ____ swim when I was five. (past ability)", "options": ["can", "could", "should", "must"], "answer": 1, "explain": "'Could' expresses past ability."},
+        {"q": "We ____ help the helpless. (moral duty)", "options": ["ought to", "can", "may", "will"], "answer": 0, "explain": "'Ought to' expresses moral duty."}
+      ]
+    },
+    {
+      "id": "articles",
+      "title": "Articles (a, an, the)",
+      "titleBn": "আর্টিকেল",
+      "icon": "article",
+      "intro": "Articles come before nouns. 'a' and 'an' are indefinite; 'the' is definite.",
+      "introBn": "Article বিশেষ্যের আগে বসে। a/an অনির্দিষ্ট, the নির্দিষ্ট।",
+      "lessons": [
+        {"heading": "a vs an (by SOUND)", "body": "Use 'a' before a consonant sound, 'an' before a vowel sound — judge by sound, not spelling.", "bodyBn": "উচ্চারণ অনুযায়ী, বানান নয়।", "examples": ["a university (yu- sound)", "an hour (silent h)", "an MP, a one-taka coin"]},
+        {"heading": "the (definite)", "body": "Use 'the' for something specific or already mentioned, unique things, superlatives, rivers/seas, and nationalities.", "bodyBn": "নির্দিষ্ট, অদ্বিতীয়, superlative ইত্যাদিতে the।", "examples": ["the sun, the Padma, the best student", "the rich, the poor"]},
+        {"heading": "Zero article (no article)", "body": "Use no article before proper nouns, languages, meals, and general plural/uncountable nouns.", "bodyBn": "ভাষা, খাবার, সাধারণ অর্থে article বসে না।", "examples": ["I like rice.", "He speaks Bangla.", "We had lunch."]}
+      ],
+      "quiz": [
+        {"q": "He is ____ university student.", "options": ["a", "an", "the", "no article"], "answer": 0, "explain": "'University' starts with a 'yu' consonant sound -> 'a'."},
+        {"q": "I waited for ____ hour.", "options": ["a", "an", "the", "no article"], "answer": 1, "explain": "'Hour' has a silent 'h' (vowel sound) -> 'an'."},
+        {"q": "____ Padma is a big river.", "options": ["A", "An", "The", "No article"], "answer": 2, "explain": "Rivers take 'the'."},
+        {"q": "He is ____ best boy in the class.", "options": ["a", "an", "the", "no article"], "answer": 2, "explain": "Superlatives take 'the'."},
+        {"q": "She speaks ____ English fluently.", "options": ["a", "an", "the", "no article"], "answer": 3, "explain": "Names of languages take no article."},
+        {"q": "I bought ____ honest man's book — he is ____ MP.", "options": ["a / a", "an / a", "an / an", "a / an"], "answer": 2, "explain": "'honest' (silent h) and 'MP' (em- vowel sound) both take 'an'."}
+      ]
+    },
+    {
+      "id": "agreement",
+      "title": "Subject-Verb Agreement",
+      "titleBn": "Subject-Verb মিল",
+      "icon": "link",
+      "intro": "A verb must agree with its subject in number and person.",
+      "introBn": "Verb তার subject-এর সাথে number ও person-এ মিল রাখে।",
+      "lessons": [
+        {"heading": "Number agreement", "body": "A singular subject takes a singular verb; a plural subject takes a plural verb.", "bodyBn": "একবচন -> singular verb; বহুবচন -> plural verb।", "examples": ["The boy plays.", "The boys play."]},
+        {"heading": "Each / every / either / neither", "body": "These are followed by a singular verb.", "bodyBn": "এদের পরে singular verb বসে।", "examples": ["Each of the boys was present.", "Every student has a book."]},
+        {"heading": "either...or / neither...nor", "body": "The verb agrees with the subject NEARER to it.", "bodyBn": "Verb কাছের subject অনুযায়ী হয়।", "examples": ["Neither he nor his friends were there.", "Either the boys or the teacher is to blame."]},
+        {"heading": "Tricky subjects", "body": "'A number of' + plural verb; 'The number of' + singular verb. Uncountable nouns and 'each/everyone' take singular.", "bodyBn": "A number of -> plural; The number of -> singular।", "examples": ["A number of students are absent.", "The number of students is large."]}
+      ],
+      "quiz": [
+        {"q": "Each of the students ____ a pen.", "options": ["have", "has", "are having", "were"], "answer": 1, "explain": "'Each' takes a singular verb -> 'has'."},
+        {"q": "Neither he nor his brothers ____ present.", "options": ["was", "is", "were", "has"], "answer": 2, "explain": "Verb agrees with the nearer subject 'brothers' (plural) -> 'were'."},
+        {"q": "The number of students ____ increasing.", "options": ["are", "is", "have", "were"], "answer": 1, "explain": "'The number of' takes a singular verb -> 'is'."},
+        {"q": "A number of people ____ waiting outside.", "options": ["is", "was", "are", "has"], "answer": 2, "explain": "'A number of' takes a plural verb -> 'are'."},
+        {"q": "Every boy and girl ____ to follow the rules.", "options": ["have", "has", "are", "were"], "answer": 1, "explain": "'Every ... and ...' is treated as singular -> 'has'."},
+        {"q": "Mathematics ____ my favourite subject.", "options": ["are", "were", "is", "have"], "answer": 2, "explain": "'Mathematics' is singular though it ends in -s -> 'is'."}
+      ]
+    }
+  ]
+}
