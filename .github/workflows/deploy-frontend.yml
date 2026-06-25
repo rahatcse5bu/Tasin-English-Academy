@@ -46,6 +46,13 @@ jobs:
           mkdir -p .next/standalone/tmp
           date -u +"%Y-%m-%dT%H:%M:%SZ" > .next/standalone/tmp/restart.txt
 
+      - name: Normalize server dir (ensure trailing slash)
+        id: dir
+        run: |
+          D="${{ secrets.FTP_FRONTEND_DIR }}"
+          [ "${D: -1}" = "/" ] || D="$D/"
+          echo "path=$D" >> "$GITHUB_OUTPUT"
+
       - name: Deploy via FTP (delta sync)
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
@@ -54,4 +61,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftps
           local-dir: ./frontend/.next/standalone/
-          server-dir: ${{ secrets.FTP_FRONTEND_DIR }}
+          server-dir: ${{ steps.dir.outputs.path }}

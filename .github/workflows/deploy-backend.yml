@@ -46,6 +46,13 @@ jobs:
           # Restart trigger for cPanel/Passenger after upload.
           date -u +"%Y-%m-%dT%H:%M:%SZ" > ../deploy/tmp/restart.txt
 
+      - name: Normalize server dir (ensure trailing slash)
+        id: dir
+        run: |
+          D="${{ secrets.FTP_BACKEND_DIR }}"
+          [ "${D: -1}" = "/" ] || D="$D/"
+          echo "path=$D" >> "$GITHUB_OUTPUT"
+
       - name: Deploy via FTP (delta sync)
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
@@ -54,7 +61,7 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftps
           local-dir: ./deploy/
-          server-dir: ${{ secrets.FTP_BACKEND_DIR }}
+          server-dir: ${{ steps.dir.outputs.path }}
           # NEVER overwrite the server's real .env (holds DB creds / JWT secret).
           exclude: |
             **/.env
