@@ -33,16 +33,27 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Strip dev dependencies
-        run: npm prune --omit=dev
+      - name: Bundle into a single file (no node_modules to FTP)
+        # nest build (tsc) already emitted decorator metadata into dist/*.js,
+        # so bundling JS->JS keeps NestJS DI intact. Result: one ~3.4 MB main.js
+        # instead of 187 MB / 20k files — uploads in seconds, not hours.
+        run: npx --yes @vercel/ncc@0.44.0 build dist/main.js -o bundle -m
 
       - name: Stage deploy artifacts
         run: |
           rm -rf ../deploy
           mkdir -p ../deploy/tmp
-          cp -r dist ../deploy/dist
-          cp -r node_modules ../deploy/node_modules
-          cp package.json package-lock.json ../deploy/
+          cp bundle/index.js ../deploy/main.js
+          # Minimal package.json so cPanel's Node.js App manager is happy.
+          # No dependencies -> nothing for the server to install.
+          cat > ../deploy/package.json <<'JSON'
+          {
+            "name": "tasin-english-academy-backend",
+            "version": "1.0.0",
+            "main": "main.js",
+            "scripts": { "start": "node main.js" }
+          }
+          JSON
           # Restart trigger for cPanel/Passenger after upload.
           date -u +"%Y-%m-%dT%H:%M:%SZ" > ../deploy/tmp/restart.txt
 
