@@ -72,7 +72,7 @@ export async function seedDecks(
 
         const existing: any = await model
           .findOne({ slug: meta.id })
-          .select('_id placementLocked')
+          .select('_id placementLocked contentLocked')
           .lean();
 
         // a teacher may have re-assigned this chapter in the app — refresh the
@@ -81,6 +81,8 @@ export async function seedDecks(
         if (existing?.placementLocked) {
           for (const k of PLACEMENT) delete set[k];
         }
+        // questions/table/summary edited in the app outrank the bundled JSON
+        if (existing?.contentLocked) delete set.content;
 
         await model.updateOne(
           { slug: meta.id },

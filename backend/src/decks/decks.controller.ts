@@ -1,6 +1,6 @@
-import { Body, Controller, Get, Param, Patch, UseGuards } from '@nestjs/common';
+import { Body, Controller, Delete, Get, Param, Patch, Query, UseGuards } from '@nestjs/common';
 import { DecksService } from './decks.service';
-import { PlacementDto, UnitDto } from './decks.dto';
+import { ContentDto, PlacementDto, UnitDto } from './decks.dto';
 import { JwtAuthGuard, Roles, RolesGuard } from '../common/guards';
 
 /**
@@ -18,6 +18,10 @@ import { JwtAuthGuard, Roles, RolesGuard } from '../common/guards';
  *   GET   /api/decks/:id/neighbours → previous / next chapter in the same paper
  *   PATCH /api/decks/unit           → rename / renumber a whole unit
  *   PATCH /api/decks/:id/placement  → move one chapter to another unit or lesson
+ *   PATCH /api/decks/:id/content    → edit its passage, questions, tables and summary
+ *   PATCH /api/decks/:id/visible    → hide a chapter from the class list, or show it
+ *   PATCH /api/decks/:id/restore    → undo a removal
+ *   DELETE /api/decks/:id           → remove a chapter (soft, so it can come back)
  *
  * The two PATCH routes are how a mentor corrects the syllabus mapping (e.g.
  * "Adolescence is Unit 09, not Unit 03") without a redeploy. Editing sets
@@ -31,8 +35,9 @@ export class DecksController {
   constructor(private service: DecksService) {}
 
   @Get()
-  catalogue() {
-    return this.service.catalogue();
+  catalogue(@Query('deleted') deleted?: string) {
+    // ?deleted=1 lists the removed chapters so they can be restored
+    return this.service.catalogue(deleted === '1');
   }
 
   @Get('index')
@@ -65,5 +70,27 @@ export class DecksController {
   @Patch(':id/placement')
   setPlacement(@Param('id') id: string, @Body() dto: PlacementDto) {
     return this.service.setPlacement(id, dto);
+  }
+
+  /** Add or edit the questions, table and summary a mentor maintains. */
+  @Patch(':id/content')
+  setContent(@Param('id') id: string, @Body() dto: ContentDto) {
+    return this.service.setContent(id, dto);
+  }
+
+  /** Hide a chapter from the class list without losing it. */
+  @Patch(':id/visible')
+  setVisible(@Param('id') id: string, @Body() body: { isPublished: boolean }) {
+    return this.service.setVisible(id, body.isPublished !== false);
+  }
+
+  @Patch(':id/restore')
+  restore(@Param('id') id: string) {
+    return this.service.restore(id);
+  }
+
+  @Delete(':id')
+  remove(@Param('id') id: string) {
+    return this.service.remove(id);
   }
 }

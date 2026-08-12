@@ -68,6 +68,14 @@ export class Deck {
   @Prop({ default: false })
   placementLocked: boolean;
 
+  /**
+   * Set when a teacher edits the questions, table or summary from the app, so
+   * `npm run seed:decks` stops overwriting `content` for this chapter. Their
+   * work outranks the bundled JSON.
+   */
+  @Prop({ default: false })
+  contentLocked: boolean;
+
   /* ---- chapter ---- */
   @Prop({ required: true })
   title: string;
@@ -91,9 +99,17 @@ export class Deck {
   @Prop({ default: 0 })
   order: number;
 
-  /** hide a chapter from the public library without deleting it */
+  /** hide a chapter from the library without deleting it */
   @Prop({ default: true })
   isPublished: boolean;
+
+  /**
+   * Removed by a mentor. Kept as a tombstone rather than dropped, because the
+   * chapter still exists in the bundled JSON and a hard delete would simply
+   * come back on the next `npm run seed:decks`. Also makes the removal undoable.
+   */
+  @Prop({ default: false })
+  isDeleted: boolean;
 
   /** the full teaching content — shape depends on the lesson type */
   @Prop({ type: MongooseSchema.Types.Mixed, required: true })

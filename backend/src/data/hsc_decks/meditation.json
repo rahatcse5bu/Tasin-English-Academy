@@ -1,0 +1,178 @@
+{
+  "id": "meditation",
+  "paper": "paper1",
+  "paperName": "English 1st Paper",
+  "unit": "Extra 03",
+  "unitName": "Mind, Health & Well-being",
+  "lesson": 1,
+  "title": "Meditation — Training the Mind for Flow",
+  "titleBn": "ধ্যান — মনকে অনুশীলন করানো",
+  "lede": "ধ্যানের একটাই লক্ষ্য — মনকে শান্ত করা, ভাবনা ও অনুভূতি লক্ষ করা, আর একটি বিন্দুতে মনোযোগ আনা। শুরু করার নিয়ম, সাধারণ ভুল এবং alpha-theta তরঙ্গের গল্প।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
+    { "t": "State the one shared objective of all meditation", "d": "calming the mind, observing thoughts, centering focus" },
+    { "t": "Describe the basic practice in two lines", "d": "straight back + focus on the breath" },
+    { "t": "Correct the commonest beginner's mistake", "d": "‘doing it right’ নয়, ==journey== গুরুত্বপূর্ণ" },
+    { "t": "Use the passage's images in answers", "d": "torrent, centrifuge, cloud, spa" }
+  ],
+
+  "passage": [
+    {
+      "tag": "Paragraph 1 — What meditation is, and how to begin",
+      "s": [
+        { "en": "Training the mind can get us to a ==place of flow== more quickly; ==meditation is one way to exercise our mental muscles==.", "bn": "মনকে অনুশীলন করালে আমরা দ্রুত ==একাগ্রতার (flow) অবস্থায়== পৌঁছাতে পারি; ==ধ্যান হলো আমাদের মানসিক পেশি অনুশীলনের একটি উপায়==।" },
+        { "en": "There are ==many types of meditation==, but they all have the ==same objective: calming the mind, observing our thoughts and emotions, and centering our focus on a single object==.", "bn": "==ধ্যানের অনেক ধরন== আছে, কিন্তু সবগুলোরই ==একই লক্ষ্য: মনকে শান্ত করা, নিজের ভাবনা ও অনুভূতি লক্ষ করা এবং একটিমাত্র বিষয়ে মনোযোগ কেন্দ্রীভূত করা==।" },
+        { "en": "The basic practice involves ==sitting with a straight back and focusing on your breath==.", "bn": "মূল অনুশীলনটি হলো ==সোজা হয়ে বসে নিজের শ্বাসের উপর মনোযোগ দেওয়া==।" },
+        { "en": "==Anyone can do it==, and you ==feel a difference after just one session==.", "bn": "==যে কেউ এটি করতে পারে==, আর ==একটিমাত্র অধিবেশনের পরেই তুমি পার্থক্য টের পাবে==।" },
+        { "en": "By fixing your attention on the ==air moving in and out of your nose==, you can ==slow the torrent of thoughts and clear your mental horizons==.", "bn": "==নাক দিয়ে ভিতরে-বাইরে যাওয়া বাতাসের== উপর মনোযোগ স্থির করে তুমি ==ভাবনার স্রোত ধীর করতে ও মনের দিগন্ত পরিষ্কার করতে== পারো।" },
+        { "en": "If we want to get better at reaching a state of flow, meditation is an ==excellent antidote to our smartphones and their notifications constantly clamoring for our attention==.", "bn": "আমরা যদি একাগ্রতার অবস্থায় পৌঁছাতে আরও দক্ষ হতে চাই, তবে ধ্যান হলো ==আমাদের স্মার্টফোন ও তার নোটিফিকেশনগুলোর — যেগুলো অনবরত আমাদের মনোযোগ দাবি করে — চমৎকার প্রতিষেধক==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — The mistake beginners make",
+      "s": [
+        { "en": "One of the ==most common mistakes among people starting to meditate is worrying about doing it \"right\"==.", "bn": "==ধ্যান শুরু করা মানুষের সবচেয়ে সাধারণ ভুলগুলোর একটি হলো এটি \"ঠিকভাবে\" করা হচ্ছে কি না তা নিয়ে দুশ্চিন্তা করা==।" },
+        { "en": "==Achieving absolute mental silence, or reaching \"nirvana\", is not the most important thing==; the most important thing is to ==focus on the journey==.", "bn": "==সম্পূর্ণ মানসিক নীরবতা অর্জন বা \"নির্বাণে\" পৌঁছানো সবচেয়ে গুরুত্বপূর্ণ নয়==; সবচেয়ে গুরুত্বপূর্ণ হলো ==যাত্রাপথের দিকে মনোযোগ দেওয়া==।" },
+        { "en": "Since the mind is a ==constant swirl of thoughts, ideas and emotions==, ==slowing down the \"centrifuge\" — even for just a few seconds — can help us feel more rested and leave us with a sense of clarity==.", "bn": "যেহেতু মন ==ভাবনা, ধারণা ও আবেগের এক অবিরাম ঘূর্ণি==, তাই ==সেই \"সেন্ট্রিফিউজ\" কয়েক সেকেন্ডের জন্য ধীর করে দিলেও আমরা বেশি বিশ্রাম বোধ করি এবং মনে স্বচ্ছতা আসে==।" },
+        { "en": "In fact, one of the things we learn in the practice of meditation is ==not to worry about anything that flits across our mental screen==.", "bn": "বরং ধ্যানের অনুশীলনে আমরা যা শিখি তার একটি হলো ==মনের পর্দায় যা কিছু ভেসে যায় তা নিয়ে দুশ্চিন্তা না করা==।" },
+        { "en": "The idea of killing our boss might flash into our mind, but ==we simply label it as a thought and let it pass like a cloud, without judging or rejecting it==.", "bn": "বসকে খুন করার ভাবনাও হয়তো মনে ঝিলিক দিয়ে উঠতে পারে, কিন্তু ==আমরা সেটিকে কেবল ‘একটি ভাবনা’ বলে চিহ্নিত করি এবং বিচার বা প্রত্যাখ্যান না করে মেঘের মতো ভেসে যেতে দিই==।" },
+        { "en": "It is only a thought — ==one of the sixty thousand we have every day==, according to some experts.", "bn": "এটি কেবলই একটি ভাবনা — কিছু বিশেষজ্ঞের মতে ==প্রতিদিনের ষাট হাজার ভাবনার একটি==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — The spa we carry with us",
+      "s": [
+        { "en": "Meditation generates ==alpha and theta brain waves==.", "bn": "ধ্যান ==আলফা ও থিটা মস্তিষ্ক-তরঙ্গ== তৈরি করে।" },
+        { "en": "For those ==experienced in meditation, these waves appear right away==, while it might take ==half an hour for a beginner== to experience them.", "bn": "==অভিজ্ঞ ধ্যানীদের ক্ষেত্রে এই তরঙ্গগুলো সঙ্গে সঙ্গেই দেখা দেয়==, আর ==নতুনদের ক্ষেত্রে আধা ঘণ্টা== লেগে যেতে পারে।" },
+        { "en": "These relaxing brain waves are the ones that are activated ==right before we fall asleep, as we lie in the sun, or right after taking a hot bath==.", "bn": "এই আরামদায়ক তরঙ্গগুলোই সক্রিয় হয় ==ঘুমিয়ে পড়ার ঠিক আগে, রোদে শুয়ে থাকলে, কিংবা গরম পানিতে গোসলের ঠিক পরে==।" },
+        { "en": "==We all carry a spa with us everywhere we go==; it's just a matter of ==knowing how to get in== — something anyone can do, with a bit of practice.", "bn": "==আমরা সবাই যেখানেই যাই, সঙ্গে একটি স্পা বয়ে নিয়ে যাই==; কেবল ==ভিতরে ঢোকার উপায়টি জানা== দরকার — সামান্য অনুশীলনেই যে কেউ তা পারে।" }
+      ]
+    }
+  ],
+
+  "words": [
+    { "w": "flow", "pos": "noun", "pron": "/fləʊ/", "bn": "সম্পূর্ণ নিমগ্নতার অবস্থা", "en": "a state of complete absorption in what one is doing", "ex": "Training the mind can get us to a place of flow." },
+    { "w": "meditation", "pos": "noun", "pron": "/ˌmedɪˈteɪʃn/", "bn": "ধ্যান", "en": "the practice of focusing the mind in silence", "ex": "Meditation is one way to exercise our mental muscles." },
+    { "w": "objective", "pos": "noun", "pron": "/əbˈdʒektɪv/", "bn": "লক্ষ্য, উদ্দেশ্য", "en": "the aim one wants to achieve", "ex": "they all have the same objective" },
+    { "w": "observe", "pos": "verb", "pron": "/əbˈzɜːv/", "bn": "লক্ষ করা", "en": "to watch carefully without interfering", "ex": "observing our thoughts and emotions" },
+    { "w": "centre / center", "pos": "verb", "pron": "/ˈsentə(r)/", "bn": "কেন্দ্রীভূত করা", "en": "to bring to one point", "ex": "centering our focus on a single object" },
+    { "w": "torrent", "pos": "noun", "pron": "/ˈtɒrənt/", "bn": "প্রবল স্রোত", "en": "a strong, fast-moving stream", "ex": "slow the torrent of thoughts" },
+    { "w": "horizon", "pos": "noun", "pron": "/həˈraɪzn/", "bn": "দিগন্ত; ভাবনার পরিসর", "en": "the limit of one's view or thinking", "ex": "clear your mental horizons" },
+    { "w": "antidote", "pos": "noun", "pron": "/ˈæntidəʊt/", "bn": "প্রতিষেধক, প্রতিকার", "en": "something that counteracts an unpleasant effect", "ex": "an excellent antidote to our smartphones" },
+    { "w": "clamour", "pos": "verb", "pron": "/ˈklæmə(r)/", "bn": "সোরগোল করে দাবি করা", "en": "to demand something loudly and insistently", "ex": "notifications constantly clamoring for our attention" },
+    { "w": "absolute", "pos": "adj", "pron": "/ˈæbsəluːt/", "bn": "সম্পূর্ণ, নিরঙ্কুশ", "en": "complete, total", "ex": "achieving absolute mental silence" },
+    { "w": "nirvana", "pos": "noun", "pron": "/nɪəˈvɑːnə/", "bn": "নির্বাণ, পরম শান্তি", "en": "a state of perfect peace and freedom from desire", "ex": "or reaching \"nirvana\"" },
+    { "w": "swirl", "pos": "noun", "pron": "/swɜːl/", "bn": "ঘূর্ণি, পাক", "en": "a twisting, circling movement", "ex": "a constant swirl of thoughts" },
+    { "w": "centrifuge", "pos": "noun", "pron": "/ˈsentrɪfjuːdʒ/", "bn": "দ্রুত ঘূর্ণায়মান যন্ত্র (এখানে রূপক)", "en": "a machine that spins rapidly; here, the spinning mind", "ex": "slowing down the \"centrifuge\"" },
+    { "w": "clarity", "pos": "noun", "pron": "/ˈklærəti/", "bn": "স্বচ্ছতা, পরিষ্কার বোধ", "en": "the quality of being clear", "ex": "leave us with a sense of clarity" },
+    { "w": "flit", "pos": "verb", "pron": "/flɪt/", "bn": "ঝিলিক দিয়ে ভেসে যাওয়া", "en": "to move lightly and quickly", "ex": "anything that flits across our mental screen" },
+    { "w": "label", "pos": "verb", "pron": "/ˈleɪbl/", "bn": "নাম দেওয়া, চিহ্নিত করা", "en": "to describe something as belonging to a class", "ex": "we simply label it as a thought" },
+    { "w": "generate", "pos": "verb", "pron": "/ˈdʒenəreɪt/", "bn": "উৎপন্ন করা", "en": "to produce", "ex": "Meditation generates alpha and theta brain waves." }
+  ],
+
+  "synant": [
+    { "w": "calm", "bn": "শান্ত", "syn": ["soothe", "quieten", "still"], "ant": ["agitate", "disturb"] },
+    { "w": "antidote", "bn": "প্রতিষেধক", "syn": ["remedy", "cure", "counteragent"], "ant": ["poison", "toxin"] },
+    { "w": "clamour", "bn": "সোরগোল করা", "syn": ["demand loudly", "shout", "clamor"], "ant": ["hush", "whisper"] },
+    { "w": "absolute", "bn": "সম্পূর্ণ", "syn": ["total", "complete", "utter"], "ant": ["partial", "limited"] },
+    { "w": "clarity", "bn": "স্বচ্ছতা", "syn": ["lucidity", "clearness", "transparency"], "ant": ["confusion", "vagueness"] },
+    { "w": "constant", "bn": "অবিরাম", "syn": ["continual", "ceaseless", "unending"], "ant": ["occasional", "intermittent"] },
+    { "w": "rested", "bn": "বিশ্রাম পাওয়া", "syn": ["refreshed", "relaxed", "restored"], "ant": ["exhausted", "weary"] },
+    { "w": "experienced", "bn": "অভিজ্ঞ", "syn": ["skilled", "practised", "seasoned"], "ant": ["novice", "inexperienced"] }
+  ],
+
+  "summaryEn": "Training the mind brings us to a state of flow more quickly, and meditation is the way to exercise those mental muscles. Its many types share one objective: calming the mind, observing our thoughts and emotions, and centering our focus on a single object. The basic practice is simply to sit with a straight back and follow the breath; anyone can do it and a difference is felt after a single session, because fixing attention on the air moving through the nose slows the torrent of thoughts and clears the mental horizon. It is therefore an excellent antidote to smartphones whose notifications constantly clamour for attention. Beginners commonly make the mistake of worrying about doing it \"right\": absolute mental silence, or nirvana, is not the point — the journey is. Since the mind is a constant swirl, slowing that centrifuge even for a few seconds brings rest and clarity, and part of the practice is to label whatever crosses the mental screen as merely a thought — one of some sixty thousand a day — and let it pass like a cloud without judgement. Meditation generates alpha and theta brain waves, instantly for the experienced and after about half an hour for a beginner. These are the same relaxing waves we feel before sleep, in the sun, or after a hot bath: we all carry a spa with us, and only need to learn how to get in.",
+  "summaryBn": "মনকে অনুশীলন করালে আমরা দ্রুত একাগ্রতার অবস্থায় পৌঁছাই, আর সেই মানসিক পেশি অনুশীলনের উপায় হলো ধ্যান। এর নানা ধরন থাকলেও লক্ষ্য একটিই: মনকে শান্ত করা, ভাবনা ও অনুভূতি লক্ষ করা এবং একটিমাত্র বিষয়ে মনোযোগ কেন্দ্রীভূত করা। মূল অনুশীলন কেবল সোজা হয়ে বসে শ্বাস অনুসরণ করা; যে কেউ পারে এবং একটি অধিবেশনের পরেই পার্থক্য বোঝা যায়, কারণ নাক দিয়ে যাওয়া-আসা বাতাসে মনোযোগ স্থির করলে ভাবনার স্রোত ধীর হয় ও মনের দিগন্ত পরিষ্কার হয়। তাই যেসব স্মার্টফোন-নোটিফিকেশন অনবরত মনোযোগ দাবি করে, ধ্যান তার চমৎকার প্রতিষেধক। নতুনরা সচরাচর ভুল করে এই ভেবে যে এটি “ঠিকভাবে” হচ্ছে কি না: সম্পূর্ণ নীরবতা বা নির্বাণ মূল বিষয় নয় — যাত্রাপথই আসল। মন যেহেতু অবিরাম ঘূর্ণি, সেই সেন্ট্রিফিউজ কয়েক সেকেন্ডের জন্য ধীর করলেও বিশ্রাম ও স্বচ্ছতা আসে; আর অনুশীলনের অংশ হলো মনের পর্দায় যা আসে তাকে কেবল ‘একটি ভাবনা’ বলে চিহ্নিত করে — দৈনিক প্রায় ষাট হাজারের একটি — বিচার না করে মেঘের মতো ভেসে যেতে দেওয়া। ধ্যান আলফা ও থিটা তরঙ্গ তৈরি করে; অভিজ্ঞদের ক্ষেত্রে সঙ্গে সঙ্গে, নতুনদের ক্ষেত্রে প্রায় আধা ঘণ্টায়। এগুলোই সেই আরামদায়ক তরঙ্গ যা ঘুমের আগে, রোদে শুয়ে বা গরম পানিতে গোসলের পরে জাগে: আমরা সবাই সঙ্গে একটি স্পা বয়ে বেড়াই, শুধু ভিতরে ঢোকার পথটি শিখতে হয়।",
+  "summaryTip": "**রূপকগুলো (torrent, centrifuge, cloud, spa) summary-তে ==এক-দুটির বেশি নয়==** — বাকিগুলো সাধারণ ভাষায় লিখবে। শেষ বাক্যে ‘spa’ রাখলে উপসংহার সুন্দর হয়।",
+
+  "mcq": [
+    { "q": "What does the term ‘constant swirl’ imply about the mind?", "opts": ["It is peaceful.", "It is always calm.", "It is always active and busy.", "It is focused."], "ans": 2, "why": "swirl = ঘূর্ণি; মন সবসময় ভাবনা-আবেগে ==ঘুরপাক খাচ্ছে==।" },
+    { "q": "The term ‘centrifuge’ in the text refers to —", "opts": ["a physical device", "the swirling nature of thoughts", "a meditation technique", "a type of brain wave"], "ans": 1, "why": "এখানে centrifuge ==রূপক== — ঘূর্ণায়মান মন; আসল যন্ত্র নয়।" },
+    { "q": "What is the main objective of meditation?", "opts": ["distracting the mind", "calming the mind", "overthinking emotions", "ignoring thoughts"], "ans": 1, "why": "‘calming the mind, observing our thoughts… centering our focus’ — প্রথমটিই মূল।" },
+    { "q": "What is the main benefit of focusing on breath during meditation?", "opts": ["It enhances physical strength.", "It allows one to think clearly.", "It increases distractions.", "It makes one sleepy."], "ans": 1, "why": "‘slow the torrent of thoughts and clear your mental horizons’ = স্বচ্ছভাবে ভাবা।" },
+    { "q": "What does the phrase ‘letting thoughts pass like a cloud’ suggest?", "opts": ["We should ignore our thoughts completely.", "We should accept and not judge our thoughts.", "Thoughts are harmful.", "Thoughts should be written down."], "ans": 1, "why": "‘without judging or rejecting it’ — উপেক্ষা নয়, ==বিচার না করে মেনে নেওয়া==।" },
+    { "q": "According to the text, what is the basic practice of meditation?", "opts": ["lying down with eyes closed", "sitting with a straight back and focusing on breath", "walking in nature", "listening to music"], "ans": 1, "why": "‘The basic practice involves sitting with a straight back and focusing on your breath.’" },
+    { "q": "What is one common mistake beginners make when meditating?", "opts": ["meditating too long", "worrying about doing it ‘right’", "focusing too much", "practising with others"], "ans": 1, "why": "সঠিকভাবে হচ্ছে কি না — এই দুশ্চিন্তাই সবচেয়ে সাধারণ ভুল।" },
+    { "q": "What, as the text says, is the most important aspect of meditation?", "opts": ["achieving perfect silence", "focusing on the journey", "competing with others", "meditating for a long time"], "ans": 1, "why": "‘The most important thing is to focus on the journey’ — নির্বাণ নয়।" },
+    { "q": "Which of the following is NOT a type or element of meditation mentioned in the text?", "opts": ["focusing on the breath", "observing thoughts and emotions", "centering focus on a single object", "stress meditation"], "ans": 3, "why": "‘stress meditation’ passage-এ নেই — বাকি তিনটিই আছে।" },
+    { "q": "What can help us feel more rested according to the text?", "opts": ["stopping all thoughts", "slowing down the centrifuge for a few seconds", "avoiding meditation", "focusing on distractions"], "ans": 1, "why": "ভাবনা ==থামানো নয়==, কেবল ধীর করা — ‘even for just a few seconds’।" }
+  ],
+
+  "shortQ": [
+    { "q": "What is the common goal of different types of meditation as described in the text?", "a": "Although there are many types of meditation, the text says they all share a single objective. That objective has three parts: calming the mind, observing our own thoughts and emotions rather than being carried away by them, and centering our focus on a single object. In other words, whatever the method, the destination is the same — a quiet, attentive mind that is under our own control.", "bn": "ধ্যানের নানা ধরন থাকলেও লেখাটি বলে, সবগুলোর লক্ষ্য একটিই। সেই লক্ষ্যের তিনটি অংশ: মনকে শান্ত করা, নিজের ভাবনা ও আবেগে ভেসে না গিয়ে সেগুলোকে লক্ষ করা, এবং একটিমাত্র বিষয়ে মনোযোগ কেন্দ্রীভূত করা। অর্থাৎ পদ্ধতি যাই হোক, গন্তব্য এক — শান্ত, মনোযোগী এবং নিজের নিয়ন্ত্রণে থাকা একটি মন।" },
+    { "q": "Describe the basic practice of meditation mentioned in the text.", "a": "The basic practice is remarkably simple: sit with a straight back and focus on your breath. Nothing else is required — no equipment, no special place and no long training. The writer insists that anyone can do it, and that a difference is felt after just one session. Attention is fixed on the air moving in and out of the nose, and that single point of focus is enough to begin slowing the mind.", "bn": "মূল অনুশীলনটি আশ্চর্য রকম সহজ: সোজা হয়ে বসো এবং নিজের শ্বাসের উপর মনোযোগ দাও। আর কিছুই লাগে না — কোনো সরঞ্জাম নয়, বিশেষ জায়গা নয়, দীর্ঘ প্রশিক্ষণও নয়। লেখক জোর দিয়ে বলেন, যে কেউ এটি করতে পারে এবং একটিমাত্র অধিবেশনের পরেই পার্থক্য টের পাওয়া যায়। মনোযোগ স্থির করতে হয় নাক দিয়ে ভিতরে-বাইরে যাওয়া বাতাসের উপর, আর মনকে ধীর করতে শুরু করার জন্য ওই একটিমাত্র বিন্দুই যথেষ্ট।" },
+    { "q": "How does focusing on breath during meditation benefit the mind?", "a": "By fixing attention on the air moving in and out of the nose, we slow what the writer calls the torrent of thoughts and clear our mental horizons. The mind is normally a constant swirl of thoughts, ideas and emotions; giving it one simple thing to hold on to slows that swirl down. Even a few seconds of this leaves us feeling more rested and gives us a sense of clarity, and with practice it produces the alpha and theta brain waves associated with deep relaxation.", "bn": "নাক দিয়ে যাওয়া-আসা বাতাসের উপর মনোযোগ স্থির করে আমরা লেখকের ভাষায় ‘ভাবনার স্রোত’ ধীর করি এবং মনের দিগন্ত পরিষ্কার করি। মন সাধারণত ভাবনা, ধারণা ও আবেগের অবিরাম ঘূর্ণি; তাকে ধরে রাখার মতো একটি সরল অবলম্বন দিলে সেই ঘূর্ণি ধীর হয়ে আসে। কয়েক সেকেন্ডের এই অনুশীলনেও আমরা বেশি বিশ্রাম বোধ করি ও মনে স্বচ্ছতা আসে; আর অনুশীলনে তা গভীর শিথিলতার সঙ্গে যুক্ত আলফা ও থিটা তরঙ্গ তৈরি করে।" },
+    { "q": "In what way does meditation serve as an antidote to smartphone distractions?", "a": "Smartphones work in exactly the opposite way to meditation: their notifications constantly clamour for our attention and pull the mind in many directions at once, making a state of flow almost impossible. Meditation trains the same attention in the opposite direction — to rest voluntarily on one object, the breath. It is called an antidote because it does not merely remove the phone; it rebuilds the very ability the phone weakens, so that we can reach flow more easily.", "bn": "স্মার্টফোন কাজ করে ধ্যানের ঠিক উল্টোভাবে: এর নোটিফিকেশনগুলো অনবরত আমাদের মনোযোগ দাবি করে এবং মনকে একসঙ্গে নানা দিকে টেনে নেয়, ফলে একাগ্রতার অবস্থায় পৌঁছানো প্রায় অসম্ভব হয়ে ওঠে। ধ্যান সেই একই মনোযোগকে বিপরীত দিকে অনুশীলন করায় — স্বেচ্ছায় একটিমাত্র বিষয়ে, শ্বাসের উপর, স্থির হতে শেখায়। একে প্রতিষেধক বলা হয় কারণ এটি কেবল ফোনটি সরিয়ে দেয় না; ফোন যে ক্ষমতাটি দুর্বল করে, ধ্যান সেই ক্ষমতাই আবার গড়ে তোলে, যাতে আমরা সহজে একাগ্রতায় পৌঁছাতে পারি।" },
+    { "q": "What common mistake do beginners often make when starting to meditate?", "a": "The commonest mistake is worrying about doing it \"right\". Beginners assume that meditation has succeeded only if they achieve absolute mental silence or reach nirvana, and they judge themselves whenever a thought appears. The writer says this is not the most important thing at all — the journey is. Since sixty thousand thoughts cross the mind every day, the correct response to a stray thought is simply to label it a thought and let it pass like a cloud, without judging or rejecting it.", "bn": "সবচেয়ে সাধারণ ভুল হলো এটি “ঠিকভাবে” হচ্ছে কি না তা নিয়ে দুশ্চিন্তা করা। নতুনরা ধরে নেয়, সম্পূর্ণ মানসিক নীরবতা বা নির্বাণে পৌঁছালেই কেবল ধ্যান সফল, আর যখনই কোনো ভাবনা আসে তখনই তারা নিজেদের বিচার করতে বসে। লেখক বলেন, এটিই মোটেই সবচেয়ে গুরুত্বপূর্ণ নয় — গুরুত্বপূর্ণ হলো যাত্রাপথ। যেহেতু প্রতিদিন ষাট হাজার ভাবনা মনের ভিতর দিয়ে যায়, তাই এলোমেলো কোনো ভাবনার সঠিক জবাব হলো সেটিকে কেবল ‘একটি ভাবনা’ বলে চিহ্নিত করা এবং বিচার বা প্রত্যাখ্যান না করে মেঘের মতো ভেসে যেতে দেওয়া।" }
+  ],
+
+  "tables": [
+    {
+      "title": "Meditation",
+      "headers": ["Who / What", "Event / Activity", "What / Where", "When / Why"],
+      "rows": [
+        ["(i) @Meditation", "(ii) @is one way of", "training the mind", "(iii) @to reach a place of flow more quickly"],
+        ["Anyone", "can do meditation", "(iv) @sitting with a straight back", "one (v) @session is enough"],
+        ["A difference", "(vi) @is felt", "in the mind", "after just one session"],
+        ["Meditation", "is of (vii) @many types", "(viii) @but all of them", "have the same objective"],
+        ["People doing meditation", "(ix) @focus their attention", "on the air moving in and out of their nose", "to slow the torrent of thoughts"],
+        ["(x) @Smartphones and their notifications", "constantly clamour for", "our attention", "so meditation is an antidote"]
+      ],
+      "note": "‘one session’, ‘many types’, ‘the same objective’ — ==হুবহু== শব্দে লিখবে।"
+    }
+  ],
+
+  "flow": {
+    "title": "How meditation works — ধ্যান যেভাবে কাজ করে",
+    "items": [
+      { "t": "Sitting with a straight back", "bn": "সোজা হয়ে বসা (দেওয়া আছে)" },
+      { "t": "Fixing attention on the breath", "bn": "শ্বাসের উপর মনোযোগ স্থির করা" },
+      { "t": "Slowing the torrent of thoughts", "bn": "ভাবনার স্রোত ধীর করা" },
+      { "t": "Letting each thought pass like a cloud", "bn": "প্রতিটি ভাবনা মেঘের মতো ভেসে যেতে দেওয়া" },
+      { "t": "Generating alpha and theta brain waves", "bn": "আলফা ও থিটা তরঙ্গ তৈরি হওয়া" },
+      { "t": "Feeling rested, with a sense of clarity", "bn": "বিশ্রাম ও মানসিক স্বচ্ছতা লাভ" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "The four images of the passage <span class='sub'>— রূপক চিনে রাখলে উত্তর সহজ</span>",
+      "key": "Image Map",
+      "table": {
+        "headers": ["রূপক", "কী বোঝায়", "বাংলা"],
+        "rows": [
+          ["torrent of thoughts", "ভাবনার অবিরাম প্রবাহ", "ভাবনার স্রোত"],
+          ["centrifuge", "ঘূর্ণায়মান, অস্থির মন", "সেন্ট্রিফিউজ"],
+          ["pass like a cloud", "বিচার না করে ভাবনা ছেড়ে দেওয়া", "মেঘের মতো ভেসে যাওয়া"],
+          ["mental screen", "মনের পর্দা, যেখানে ভাবনা ভেসে ওঠে", "মনের পর্দা"],
+          ["we all carry a spa", "শান্তি বাইরে নয়, ভিতরেই আছে", "সঙ্গে বয়ে চলা স্পা"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "🌀", "t": "centrifuge = রূপক", "type": "warn", "d": "MCQ-তে ‘a physical device’ থাকবেই — কিন্তু এখানে এটি ==অস্থির মনের== প্রতীক।" },
+    { "em": "🧘", "t": "উদ্দেশ্য তিনটি একসঙ্গে", "d": "==calming== + ==observing== + ==centering== — short question-এ তিনটিই লিখবে, একটি নয়।" },
+    { "em": "🚫", "t": "ভাবনা থামানো নয়", "d": "লেখক বলেন ভাবনা ==থামাতে হবে না==, শুধু ধীর করতে হবে ও বিচার না করে ছেড়ে দিতে হবে।" },
+    { "em": "⏱️", "t": "সংখ্যা দুটি মনে রেখো", "d": "==60,000== ভাবনা প্রতিদিন; নতুনদের ==half an hour== লাগে alpha-theta তরঙ্গ পেতে।" },
+    { "em": "💆", "t": "শেষ বাক্যটি শিখে রাখো", "d": "‘We all carry a spa with us everywhere we go’ — উপসংহার বা মতামতের প্রশ্নে দারুণ কাজে লাগে।" }
+  ],
+
+  "recap": [
+    "ধ্যান = মানসিক পেশির ব্যায়াম; লক্ষ্য — শান্ত করা, লক্ষ করা, কেন্দ্রীভূত করা।",
+    "মূল নিয়ম: সোজা হয়ে বসা + শ্বাসে মনোযোগ; একটি অধিবেশনেই পার্থক্য।",
+    "স্মার্টফোনের নোটিফিকেশনের প্রতিষেধক — মনোযোগ ফিরিয়ে আনে।",
+    "নতুনদের ভুল: ‘ঠিকভাবে’ করার দুশ্চিন্তা; আসল কথা — journey।",
+    "alpha ও theta তরঙ্গ — অভিজ্ঞদের সঙ্গে সঙ্গে, নতুনদের আধা ঘণ্টায়; ‘we all carry a spa’।"
+  ],
+
+  "homework": [
+    "পাঁচ দিন প্রতিদিন ৫ মিনিট শ্বাসে মনোযোগ দিয়ে অভিজ্ঞতা লিখে আনবে।",
+    "চারটি রূপক (torrent, centrifuge, cloud, spa) ব্যাখ্যা করে লিখবে।",
+    "টেবিলের (i)–(x) নিজে পূরণ করবে।",
+    "Summary ১৪০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ]
+}

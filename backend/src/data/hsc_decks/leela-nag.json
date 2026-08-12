@@ -1,0 +1,175 @@
+{
+  "id": "leela-nag",
+  "paper": "paper1",
+  "paperName": "English 1st Paper",
+  "unit": "Unit 01",
+  "unitName": "People or Institutions Making History",
+  "lesson": 4,
+  "title": "Leela Nag — Breaking Patriarchal Barriers",
+  "titleBn": "লীলা নাগ — পুরুষতান্ত্রিক বাধা ভেঙে",
+  "lede": "ঢাকা বিশ্ববিদ্যালয়ের ইংরেজি বিভাগে ভর্তি হওয়া প্রথম নারী — যিনি শ্রেণিকক্ষেই থেমে থাকেননি: বন্যার্তদের জন্য তহবিল, দীপালি সংঘ, মেয়েদের আত্মরক্ষা প্রতিষ্ঠান ও ১২টি বিনামূল্যের স্কুল।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
+    { "t": "Follow a reformer's life in dates", "d": "1921 ভর্তি → 1923 MA ও দীপালি সংঘ → 1927-28 আত্মরক্ষা → 1929 ১২ স্কুল → 1946-47 শিবির" },
+    { "t": "Understand two key metaphors", "d": "patriarchal barriers, glass ceiling" },
+    { "t": "Separate education from activism", "d": "শ্রেণিকক্ষের ভিতরে ও বাইরে দুই ধরনের অর্জন" },
+    { "t": "Complete the table with exact phrases", "d": "Anil Chandra Roy, Philip Hartog, beyond the confines of classrooms" }
+  ],
+
+  "passage": [
+    {
+      "tag": "Paragraph 1 — The first woman in the Department of English",
+      "s": [
+        { "en": "In ==1921==, Leela Nag (also known as ==Leela Roy== for her marriage with ==Anil Chandra Roy==, an Indian National Congress leader) was the ==first woman to be admitted to the MA in English at the University of Dhaka==.", "bn": "==১৯২১== সালে লীলা নাগ (ভারতীয় জাতীয় কংগ্রেস নেতা ==অনিল চন্দ্র রায়ের== সঙ্গে বিবাহসূত্রে যিনি ==লীলা রায়== নামেও পরিচিত) ছিলেন ==ঢাকা বিশ্ববিদ্যালয়ের ইংরেজিতে এমএ-তে ভর্তি হওয়া প্রথম নারী==।" },
+        { "en": "==Breaking patriarchal barriers==, Leela Nag established the identity of the Department of English from the very beginning as a ==platform for progressive and liberal ideas==.", "bn": "==পুরুষতান্ত্রিক বাধা ভেঙে== লীলা নাগ শুরু থেকেই ইংরেজি বিভাগের পরিচয় গড়ে তোলেন ==প্রগতিশীল ও উদার ভাবনার মঞ্চ== হিসেবে।" },
+        { "en": "Although her decision to join the Department of English was initially ==met with resistance==, she achieved her goal with a ==special permission from the then Vice Chancellor Philip Hartog== and fulfilled her dream of graduating from the University of Dhaka.", "bn": "ইংরেজি বিভাগে যোগ দেওয়ার সিদ্ধান্ত প্রথমে ==বাধার মুখে পড়লেও==, ==তৎকালীন উপাচার্য ফিলিপ হার্টগের বিশেষ অনুমতিতে== তিনি লক্ষ্যে পৌঁছান এবং ঢাকা বিশ্ববিদ্যালয় থেকে স্নাতক হওয়ার স্বপ্ন পূরণ করেন।" },
+        { "en": "In ==1923==, she was the ==first woman to receive an M.A. from the Department of English==.", "bn": "==১৯২৩== সালে তিনিই ==ইংরেজি বিভাগ থেকে এমএ ডিগ্রি পাওয়া প্রথম নারী==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — Beyond the classroom",
+      "s": [
+        { "en": "But Leela Nag's ==legacy goes beyond the confines of classrooms==.", "bn": "কিন্তু লীলা নাগের ==উত্তরাধিকার শ্রেণিকক্ষের গণ্ডি ছাড়িয়ে যায়==।" },
+        { "en": "While she was a student, she formed the ==Dhaka Women's Committee== and ==raised funds for the 1921 Bengal flood victims==.", "bn": "ছাত্রী থাকা অবস্থাতেই তিনি ==ঢাকা মহিলা কমিটি== গঠন করেন এবং ==১৯২১ সালের বাংলার বন্যার্তদের জন্য তহবিল সংগ্রহ করেন==।" },
+        { "en": "She was ==actively involved in the empowerment of women in society==.", "bn": "তিনি ==সমাজে নারীর ক্ষমতায়নে সক্রিয়ভাবে যুক্ত== ছিলেন।" },
+        { "en": "In ==1923==, she founded ==Deepali Sangha==, which served as a ==training institute for anti-colonial activists==.", "bn": "==১৯২৩== সালে তিনি ==দীপালি সংঘ== প্রতিষ্ঠা করেন, যা ==ঔপনিবেশিকতাবিরোধী কর্মীদের প্রশিক্ষণ প্রতিষ্ঠান== হিসেবে কাজ করত।" },
+        { "en": "Between ==1927 and 1928==, she established the ==first self-defence institute for girls in Bengal==.", "bn": "==১৯২৭ থেকে ১৯২৮== সালের মধ্যে তিনি ==বাংলার প্রথম মেয়েদের আত্মরক্ষা প্রতিষ্ঠান== গড়ে তোলেন।" },
+        { "en": "Then, at the ==1928 Calcutta Congress Session==, she presented a paper on the ==history of women's movement in Bengal== as a delegate, and by ==1929== she had successfully founded ==12 free primary schools for girls==.", "bn": "এরপর ==১৯২৮ সালের কলকাতা কংগ্রেস অধিবেশনে== প্রতিনিধি হিসেবে তিনি ==বাংলায় নারী আন্দোলনের ইতিহাস== নিয়ে একটি প্রবন্ধ উপস্থাপন করেন, আর ==১৯২৯== সালের মধ্যে তিনি সফলভাবে ==মেয়েদের জন্য ১২টি বিনামূল্যের প্রাথমিক বিদ্যালয়== প্রতিষ্ঠা করেন।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — Politics, prison and Partition",
+      "s": [
+        { "en": "Apart from her contribution to ==women's emancipation==, Leela consistently ==voiced her opinions in politics== as well; she had been ==imprisoned on several occasions==.", "bn": "==নারীমুক্তিতে== অবদানের পাশাপাশি লীলা ==রাজনীতিতেও নিয়মিত নিজের মত প্রকাশ করতেন==; ==বেশ কয়েকবার তিনি কারাবরণ করেছেন==।" },
+        { "en": "When the Subcontinent was ==embroiled in turmoil during the Partition==, Leela Nag ==set up camps for victims of the Noakhali riots and refugees from East Bengal in 1946==.", "bn": "==দেশভাগের সময় উপমহাদেশ যখন অস্থিরতায় জর্জরিত==, তখন ==১৯৪৬ সালে লীলা নাগ নোয়াখালী দাঙ্গার শিকার ও পূর্ববঙ্গের শরণার্থীদের জন্য শিবির স্থাপন করেন==।" },
+        { "en": "She was the ==only Bengali woman elected to the Constituent Assembly of Bengal==.", "bn": "তিনিই ছিলেন ==বাংলার গণপরিষদে নির্বাচিত একমাত্র বাঙালি নারী==।" },
+        { "en": "Leela Nag ==broke the glass ceiling on so many levels== and fulfilled all the criteria of a ==citizen, reformer, feminist and social activist==.", "bn": "লীলা নাগ ==বহু স্তরে অদৃশ্য প্রতিবন্ধকতার ছাদ ভেঙেছেন== এবং ==নাগরিক, সংস্কারক, নারীবাদী ও সমাজকর্মীর== সব মানদণ্ড পূরণ করেছেন।" },
+        { "en": "She is considered a ==rebel, reformer, social activist and change agent, whose legacy remains in East Bengal==; in ==1947==, she set up camps for the ==victims of Partition==.", "bn": "তাঁকে গণ্য করা হয় ==বিদ্রোহী, সংস্কারক, সমাজকর্মী ও পরিবর্তনের কারিগর হিসেবে, যাঁর উত্তরাধিকার পূর্ববঙ্গে রয়ে গেছে==; ==১৯৪৭== সালে তিনি ==দেশভাগের শিকার মানুষদের জন্য== শিবির স্থাপন করেন।" }
+      ]
+    }
+  ],
+
+  "words": [
+    { "w": "patriarchal", "pos": "adj", "pron": "/ˌpeɪtriˈɑːkl/", "bn": "পুরুষতান্ত্রিক", "en": "of a system in which men hold the power", "ex": "Breaking patriarchal barriers…" },
+    { "w": "barrier", "pos": "noun", "pron": "/ˈbæriə(r)/", "bn": "বাধা, প্রতিবন্ধক", "en": "something that prevents progress", "ex": "breaking patriarchal barriers" },
+    { "w": "legacy", "pos": "noun", "pron": "/ˈleɡəsi/", "bn": "উত্তরাধিকার, রেখে যাওয়া প্রভাব", "en": "a lasting influence left by someone", "ex": "Leela Nag's legacy goes beyond the classrooms." },
+    { "w": "confines", "pos": "noun", "pron": "/ˈkɒnfaɪnz/", "bn": "গণ্ডি, সীমা", "en": "the limits or borders of a place", "ex": "beyond the confines of classrooms" },
+    { "w": "progressive", "pos": "adj", "pron": "/prəˈɡresɪv/", "bn": "প্রগতিশীল", "en": "favouring new ideas and social reform", "ex": "a platform for progressive and liberal ideas" },
+    { "w": "resistance", "pos": "noun", "pron": "/rɪˈzɪstəns/", "bn": "বাধা, প্রতিরোধ", "en": "refusal to accept something", "ex": "initially met with resistance" },
+    { "w": "Vice Chancellor", "pos": "noun", "pron": "/ˌvaɪs ˈtʃɑːnsələ(r)/", "bn": "উপাচার্য", "en": "the head of a university", "ex": "the then Vice Chancellor Philip Hartog" },
+    { "w": "empowerment", "pos": "noun", "pron": "/ɪmˈpaʊəmənt/", "bn": "ক্ষমতায়ন", "en": "the process of giving people control over their lives", "ex": "the empowerment of women in society" },
+    { "w": "anti-colonial", "pos": "adj", "pron": "/ˌænti kəˈləʊniəl/", "bn": "ঔপনিবেশিকতাবিরোধী", "en": "opposing rule by a foreign power", "ex": "a training institute for anti-colonial activists" },
+    { "w": "self-defence", "pos": "noun", "pron": "/ˌself dɪˈfens/", "bn": "আত্মরক্ষা", "en": "the act of protecting oneself from attack", "ex": "the first self-defence institute for girls" },
+    { "w": "delegate", "pos": "noun", "pron": "/ˈdelɪɡət/", "bn": "প্রতিনিধি", "en": "a person chosen to represent others at a meeting", "ex": "she presented a paper as a delegate" },
+    { "w": "emancipation", "pos": "noun", "pron": "/ɪˌmænsɪˈpeɪʃn/", "bn": "মুক্তি, স্বাধীনতা লাভ", "en": "the act of setting someone free from restriction", "ex": "her contribution to women's emancipation" },
+    { "w": "imprison", "pos": "verb", "pron": "/ɪmˈprɪzn/", "bn": "কারারুদ্ধ করা", "en": "to put in prison", "ex": "She had been imprisoned on several occasions." },
+    { "w": "turmoil", "pos": "noun", "pron": "/ˈtɜːmɔɪl/", "bn": "অস্থিরতা, গোলযোগ", "en": "a state of great disturbance", "ex": "embroiled in turmoil during the Partition" },
+    { "w": "glass ceiling", "pos": "noun", "pron": "/ɡlɑːs ˈsiːlɪŋ/", "bn": "অদৃশ্য প্রতিবন্ধকতা (নারীর উন্নতিতে)", "en": "an unseen barrier stopping women from rising", "ex": "she broke the glass ceiling on so many levels" },
+    { "w": "reformer", "pos": "noun", "pron": "/rɪˈfɔːmə(r)/", "bn": "সংস্কারক", "en": "a person who works to improve a system", "ex": "a rebel, reformer, social activist" }
+  ],
+
+  "synant": [
+    { "w": "patriarchal", "bn": "পুরুষতান্ত্রিক", "syn": ["male-dominated", "androcentric"], "ant": ["matriarchal", "egalitarian"] },
+    { "w": "legacy", "bn": "উত্তরাধিকার", "syn": ["lasting influence", "heritage", "bequest"], "ant": ["oblivion"] },
+    { "w": "resistance", "bn": "বাধা", "syn": ["opposition", "objection", "defiance"], "ant": ["acceptance", "support"] },
+    { "w": "empowerment", "bn": "ক্ষমতায়ন", "syn": ["enablement", "authorisation"], "ant": ["oppression", "suppression"] },
+    { "w": "emancipation", "bn": "মুক্তি", "syn": ["liberation", "freedom", "release"], "ant": ["bondage", "subjugation"] },
+    { "w": "turmoil", "bn": "অস্থিরতা", "syn": ["upheaval", "unrest", "chaos"], "ant": ["calm", "order"] },
+    { "w": "progressive", "bn": "প্রগতিশীল", "syn": ["forward-looking", "reformist", "liberal"], "ant": ["conservative", "reactionary"] },
+    { "w": "rebel", "bn": "বিদ্রোহী", "syn": ["insurgent", "dissenter", "nonconformist"], "ant": ["conformist", "loyalist"] }
+  ],
+
+  "summaryEn": "In 1921 Leela Nag — later known as Leela Roy after marrying the Congress leader Anil Chandra Roy — became the first woman admitted to the MA in English at the University of Dhaka. Her admission was resisted at first, but a special permission from the Vice Chancellor, Philip Hartog, opened the way, and in 1923 she became the first woman to take an MA from that department, which she helped shape from the beginning as a platform for progressive and liberal ideas. Her work, however, went far beyond the classroom. As a student she formed the Dhaka Women's Committee and raised funds for the victims of the 1921 Bengal flood; in 1923 she founded Deepali Sangha, a training institute for anti-colonial activists; between 1927 and 1928 she opened the first self-defence institute for girls in Bengal; at the 1928 Calcutta Congress Session she presented a paper on the history of the women's movement in Bengal; and by 1929 she had established twelve free primary schools for girls. She also spoke out in politics and was imprisoned several times. During the turmoil of Partition she set up camps for the victims of the Noakhali riots and for refugees from East Bengal in 1946 and again in 1947, and she was the only Bengali woman elected to the Constituent Assembly of Bengal. She is remembered as a rebel, reformer, feminist and change agent whose legacy remains in East Bengal.",
+  "summaryBn": "১৯২১ সালে লীলা নাগ — কংগ্রেস নেতা অনিল চন্দ্র রায়ের সঙ্গে বিবাহের পর যিনি লীলা রায় নামে পরিচিত — ঢাকা বিশ্ববিদ্যালয়ের ইংরেজিতে এমএ-তে ভর্তি হওয়া প্রথম নারী হন। প্রথমে তাঁর ভর্তিতে বাধা এলেও উপাচার্য ফিলিপ হার্টগের বিশেষ অনুমতি পথ খুলে দেয়, আর ১৯২৩ সালে তিনিই ওই বিভাগ থেকে এমএ করা প্রথম নারী হন; শুরু থেকেই তিনি বিভাগটিকে প্রগতিশীল ও উদার ভাবনার মঞ্চ হিসেবে গড়ে তুলতে সাহায্য করেন। তবে তাঁর কাজ শ্রেণিকক্ষ ছাড়িয়ে অনেক দূর গিয়েছিল। ছাত্রী থাকতেই তিনি ঢাকা মহিলা কমিটি গঠন করে ১৯২১ সালের বাংলার বন্যার্তদের জন্য তহবিল সংগ্রহ করেন; ১৯২৩ সালে প্রতিষ্ঠা করেন দীপালি সংঘ, যা ছিল ঔপনিবেশিকতাবিরোধী কর্মীদের প্রশিক্ষণ প্রতিষ্ঠান; ১৯২৭-২৮ সালে খোলেন বাংলার প্রথম মেয়েদের আত্মরক্ষা প্রতিষ্ঠান; ১৯২৮ সালের কলকাতা কংগ্রেস অধিবেশনে বাংলায় নারী আন্দোলনের ইতিহাস নিয়ে প্রবন্ধ উপস্থাপন করেন; আর ১৯২৯ সালের মধ্যে গড়ে তোলেন মেয়েদের জন্য ১২টি বিনামূল্যের প্রাথমিক বিদ্যালয়। রাজনীতিতেও তিনি সোচ্চার ছিলেন এবং কয়েকবার কারাবরণ করেন। দেশভাগের অস্থিরতায় ১৯৪৬ ও পরে ১৯৪৭ সালে তিনি নোয়াখালী দাঙ্গার শিকার ও পূর্ববঙ্গের শরণার্থীদের জন্য শিবির স্থাপন করেন এবং বাংলার গণপরিষদে নির্বাচিত একমাত্র বাঙালি নারী ছিলেন। বিদ্রোহী, সংস্কারক, নারীবাদী ও পরিবর্তনের কারিগর হিসেবে পূর্ববঙ্গে আজও তাঁর উত্তরাধিকার বেঁচে আছে।",
+  "summaryTip": "**অনেক সাল থাকলে ==দুই ভাগে== লেখো:** প্রথমে শিক্ষা (1921, 1923), তারপর সমাজকর্ম (1923 দীপালি, 1927-28 আত্মরক্ষা, 1929 স্কুল, 1946-47 শিবির)। এতে summary গোছানো থাকে।",
+
+  "mcq": [
+    { "q": "What does the term ‘patriarchal’ refer to in the context of the passage?", "opts": ["A system where men hold power", "A capitalist society", "A temporary achievement", "A financial inheritance"], "ans": 0, "why": "patriarchal = পুরুষতান্ত্রিক; ‘barriers’ শব্দটিই বলে দেয় এটি একটি ==ব্যবস্থা==।" },
+    { "q": "The word ‘legacy’ in the passage stands for —", "opts": ["A lasting influence", "A personal conflict", "A financial inheritance", "An elite group"], "ans": 0, "why": "এখানে সম্পত্তি নয় — ‘legacy remains in East Bengal’ মানে ==স্থায়ী প্রভাব==।" },
+    { "q": "Who was the first woman to be admitted to the MA in English at the University of Dhaka?", "opts": ["Sarojini Naidu", "Leela Nag", "Kamala Das", "Rani Lakshmibai"], "ans": 1, "why": "প্রথম বাক্যেই আছে — ১৯২১ সালে লীলা নাগ।" },
+    { "q": "What committee did Leela Nag form while still a student?", "opts": ["Dhaka Women's Committee", "Kolkata Women's Committee", "Bengal Women's Committee", "All India Women's Committee"], "ans": 0, "why": "‘While she was a student, she formed the Dhaka Women's Committee.’" },
+    { "q": "What does the phrase ‘breaking patriarchal barriers’ imply in the passage?", "opts": ["Creating new societal norms", "Building schools for girls", "Fighting against male-dominated systems", "Disobeying academic rules"], "ans": 2, "why": "সরাসরি অর্থ — ==পুরুষশাসিত ব্যবস্থার বিরুদ্ধে লড়াই==; স্কুল গড়া তার একটি ফল মাত্র।" },
+    { "q": "Who gave Leela Nag special permission to join the Department of English?", "opts": ["Anil Chandra Roy", "Philip Hartog", "Rabindranath Tagore", "Sheikh Mujibur Rahman"], "ans": 1, "why": "‘special permission from the then Vice Chancellor Philip Hartog’।" },
+    { "q": "Deepali Sangha, founded in 1923, served as —", "opts": ["a girls' school", "a training institute for anti-colonial activists", "a flood relief fund", "a women's hostel"], "ans": 1, "why": "স্কুলগুলো এসেছে ==১৯২৯== সালে; দীপালি সংঘ ছিল প্রশিক্ষণ প্রতিষ্ঠান।" },
+    { "q": "By 1929, how many free primary schools for girls had Leela Nag founded?", "opts": ["2", "10", "12", "21"], "ans": 2, "why": "‘by 1929, Leela Nag had successfully founded 12 free primary schools for girls’।" },
+    { "q": "‘She broke the glass ceiling’ means she —", "opts": ["damaged university property", "overcame invisible barriers to women's advancement", "built a glass house", "refused to study further"], "ans": 1, "why": "glass ceiling = ==অদৃশ্য প্রতিবন্ধকতা== যা নারীর উন্নতি আটকায়।" },
+    { "q": "Leela Nag set up camps in 1946 for —", "opts": ["flood victims of Bengal", "victims of the Noakhali riots and refugees from East Bengal", "anti-colonial activists", "students of Dhaka University"], "ans": 1, "why": "১৯২১ ছিল বন্যা; ১৯৪৬-এর শিবির ছিল ==দাঙ্গা ও দেশভাগের== শিকারদের জন্য।" }
+  ],
+
+  "shortQ": [
+    { "q": "What was the significance of Leela Nag's admission to the University of Dhaka?", "a": "Its significance was that it opened a door that had been closed to women. In 1921 she became the first woman admitted to the MA in English at the University of Dhaka, and she did so against real resistance, entering only with a special permission from the then Vice Chancellor, Philip Hartog. Her presence changed the character of the department itself, which she helped establish from the very beginning as a platform for progressive and liberal ideas, and in 1923 she became the first woman to receive an MA from it. After her, a woman's right to that classroom was no longer a question.", "bn": "এর তাৎপর্য হলো, তিনি নারীদের জন্য বন্ধ থাকা একটি দরজা খুলে দিয়েছিলেন। ১৯২১ সালে তিনি ঢাকা বিশ্ববিদ্যালয়ের ইংরেজিতে এমএ-তে ভর্তি হওয়া প্রথম নারী হন, আর তা ঘটেছিল প্রকৃত বাধা পেরিয়ে — তৎকালীন উপাচার্য ফিলিপ হার্টগের বিশেষ অনুমতিতেই কেবল তিনি ঢুকতে পেরেছিলেন। তাঁর উপস্থিতি বিভাগটির চরিত্রও বদলে দেয়; শুরু থেকেই তিনি একে প্রগতিশীল ও উদার ভাবনার মঞ্চ হিসেবে গড়ে তুলতে সাহায্য করেন এবং ১৯২৩ সালে সেখান থেকে এমএ পাওয়া প্রথম নারী হন। তাঁর পরে ওই শ্রেণিকক্ষে নারীর অধিকার আর প্রশ্নের বিষয় থাকেনি।" },
+    { "q": "How did Leela Nag's efforts in the Bengal flood reflect her commitment to social activism?", "a": "They showed that her activism began before her career did. She was still a student when the Bengal flood struck in 1921, with no money, position or authority of her own; yet instead of waiting, she formed the Dhaka Women's Committee and raised funds for the flood victims. Two things are significant in this. First, she organised rather than merely donated, which is the mark of a leader. Second, she chose to organise women, giving them a public role at a time when they were expected to remain at home — so the relief work was itself an act of empowerment.", "bn": "সেগুলো দেখায়, তাঁর সমাজকর্ম তাঁর কর্মজীবনের আগেই শুরু হয়েছিল। ১৯২১ সালে বাংলায় বন্যা যখন আঘাত হানে, তিনি তখনও ছাত্রী — নিজের টাকা, পদ বা কর্তৃত্ব কিছুই নেই; তবু অপেক্ষা না করে তিনি ঢাকা মহিলা কমিটি গঠন করে বন্যার্তদের জন্য তহবিল সংগ্রহ করেন। এতে দুটি বিষয় তাৎপর্যপূর্ণ। প্রথমত, তিনি কেবল দান করেননি, সংগঠিত করেছেন — যা নেতৃত্বের লক্ষণ। দ্বিতীয়ত, তিনি নারীদেরই সংগঠিত করতে বেছে নিয়েছিলেন, এমন এক সময়ে তাঁদের প্রকাশ্য ভূমিকা দিয়েছিলেন যখন নারীদের ঘরে থাকাই প্রত্যাশিত ছিল — ফলে ত্রাণকাজটি নিজেই হয়ে উঠেছিল ক্ষমতায়নের কাজ।" },
+    { "q": "What role did the Deepali Sangha play in the anti-colonial struggle?", "a": "Deepali Sangha, which Leela Nag founded in 1923, served as a training institute for anti-colonial activists. Its importance lies in the word \"training\": it did not merely hold meetings or make speeches but prepared people, and especially young women, for organised work against colonial rule. It gave the movement in East Bengal a steady supply of trained workers, and it gave women a place inside the freedom struggle rather than at its edges.", "bn": "১৯২৩ সালে লীলা নাগের প্রতিষ্ঠিত দীপালি সংঘ ছিল ঔপনিবেশিকতাবিরোধী কর্মীদের প্রশিক্ষণ প্রতিষ্ঠান। এর গুরুত্ব ‘প্রশিক্ষণ’ শব্দটিতেই: এটি কেবল সভা করা বা বক্তৃতা দেওয়ার সংগঠন ছিল না, বরং মানুষকে — বিশেষত তরুণীদের — ঔপনিবেশিক শাসনের বিরুদ্ধে সংগঠিত কাজের জন্য তৈরি করত। এটি পূর্ববঙ্গের আন্দোলনকে প্রশিক্ষিত কর্মীর নিয়মিত জোগান দিয়েছিল, আর নারীদের দিয়েছিল স্বাধীনতা সংগ্রামের প্রান্তে নয়, ভিতরে একটি জায়গা।" },
+    { "q": "Why was the first self-defence institute for girls in Bengal important?", "a": "It was important because it treated a girl's safety as her own responsibility and her own right. Established between 1927 and 1928, it was the first of its kind in Bengal, and in a patriarchal society it carried a double meaning: practically, it taught girls to protect themselves; symbolically, it declared that girls need not depend on male protection at all. It also fitted her larger work — a girl confident of her physical safety could attend school, join Deepali Sangha and take part in public life, so self-defence was the ground on which her other reforms could stand.", "bn": "এটি গুরুত্বপূর্ণ ছিল কারণ এটি মেয়েদের নিরাপত্তাকে তাদের নিজেদের দায়িত্ব ও নিজেদের অধিকার হিসেবে গণ্য করেছিল। ১৯২৭ থেকে ১৯২৮ সালের মধ্যে প্রতিষ্ঠিত এটিই ছিল বাংলার প্রথম এমন প্রতিষ্ঠান, আর পুরুষতান্ত্রিক সমাজে এর অর্থ ছিল দ্বিমুখী: বাস্তবে এটি মেয়েদের নিজেদের রক্ষা করতে শেখাত; প্রতীকীভাবে এটি ঘোষণা করত যে মেয়েদের পুরুষের সুরক্ষার উপর নির্ভর করার দরকারই নেই। এটি তাঁর বৃহত্তর কাজের সঙ্গেও মিলে যেত — নিজের শারীরিক নিরাপত্তায় আত্মবিশ্বাসী মেয়েই স্কুলে যেতে, দীপালি সংঘে যোগ দিতে ও প্রকাশ্য জীবনে অংশ নিতে পারত; তাই আত্মরক্ষাই ছিল সেই ভিত্তি যার উপর তাঁর অন্য সংস্কারগুলো দাঁড়াতে পারত।" },
+    { "q": "Why is Leela Nag called a rebel, reformer and change agent?", "a": "She is called a rebel because she refused the limits placed on her: she forced her way into a department that resisted her, spoke out in politics and was imprisoned several times. She is called a reformer because she built institutions rather than merely protesting — Deepali Sangha, the first self-defence institute for girls, twelve free primary schools. And she is called a change agent because what she changed did not end with her: she was the only Bengali woman elected to the Constituent Assembly of Bengal, she broke the glass ceiling on many levels, and her legacy remains in East Bengal to this day.", "bn": "তাঁকে বিদ্রোহী বলা হয় কারণ তিনি তাঁর উপর চাপানো সীমা মানতে অস্বীকার করেছিলেন: যে বিভাগ তাঁকে বাধা দিয়েছিল সেখানে জোর করে ঢুকেছেন, রাজনীতিতে সোচ্চার থেকেছেন এবং কয়েকবার কারাবরণ করেছেন। তাঁকে সংস্কারক বলা হয় কারণ তিনি কেবল প্রতিবাদ না করে প্রতিষ্ঠান গড়েছেন — দীপালি সংঘ, মেয়েদের প্রথম আত্মরক্ষা প্রতিষ্ঠান, ১২টি বিনামূল্যের প্রাথমিক বিদ্যালয়। আর তাঁকে পরিবর্তনের কারিগর বলা হয় কারণ তিনি যা বদলেছেন তা তাঁর সঙ্গে শেষ হয়ে যায়নি: তিনিই বাংলার গণপরিষদে নির্বাচিত একমাত্র বাঙালি নারী, বহু স্তরে ভেঙেছেন অদৃশ্য প্রতিবন্ধকতার ছাদ, আর আজও পূর্ববঙ্গে তাঁর উত্তরাধিকার বেঁচে আছে।" }
+  ],
+
+  "tables": [
+    {
+      "title": "Leela Nag's life and work",
+      "headers": ["Who / What", "Event / Activity", "Where / Place / Whom", "When / How / Why"],
+      "rows": [
+        ["Leela Nag", "married", "(i) @Anil Chandra Roy, an Indian National Congress leader", "and became known as Leela Roy"],
+        ["She", "was the first woman MA student", "(ii) @at the University of Dhaka", "(iii) @in 1921"],
+        ["(iv) @Philip Hartog, the then Vice Chancellor", "gave special permission to Leela Nag", "(v) @to join the Department of English", "(vi) @because her decision was met with resistance"],
+        ["Dhaka University", "(vii) @admitted her to the MA in English", "Leela Nag", "(viii) @with special permission from the authority"],
+        ["Her legacy", "goes (ix) @beyond the confines of classrooms", "in East Bengal", "even today"],
+        ["She", "was involved in the empowerment of women", "(x) @in society", "throughout her life"]
+      ],
+      "note": "নামের বানান ==হুবহু==: Anil Chandra Roy, Philip Hartog, Deepali Sangha।"
+    }
+  ],
+
+  "flow": {
+    "title": "Leela Nag's struggling life — লীলা নাগের সংগ্রামী জীবন",
+    "items": [
+      { "t": "Admitted to MA in Dhaka University (1921)", "bn": "ঢাকা বিশ্ববিদ্যালয়ে এমএ-তে ভর্তি (দেওয়া আছে)" },
+      { "t": "Formed the Dhaka Women's Committee for flood victims", "bn": "বন্যার্তদের জন্য ঢাকা মহিলা কমিটি গঠন" },
+      { "t": "Took her MA and founded Deepali Sangha (1923)", "bn": "এমএ ডিগ্রি ও দীপালি সংঘ প্রতিষ্ঠা" },
+      { "t": "Opened the first self-defence institute for girls (1927–28)", "bn": "মেয়েদের প্রথম আত্মরক্ষা প্রতিষ্ঠান" },
+      { "t": "Founded 12 free primary schools for girls (1929)", "bn": "মেয়েদের জন্য ১২টি বিনামূল্যের বিদ্যালয়" },
+      { "t": "Set up camps for riot and Partition victims (1946–47)", "bn": "দাঙ্গা ও দেশভাগের শিকারদের জন্য শিবির" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "Her firsts <span class='sub'>— ‘first’ শব্দটি এই passage-এ চারবার</span>",
+      "key": "Firsts",
+      "table": {
+        "headers": ["Year", "First", "বাংলা"],
+        "rows": [
+          ["1921", "First woman admitted to MA in English, DU", "ইংরেজিতে এমএ-তে ভর্তি প্রথম নারী"],
+          ["1923", "First woman to receive an MA from the department", "বিভাগ থেকে এমএ পাওয়া প্রথম নারী"],
+          ["1927–28", "First self-defence institute for girls in Bengal", "মেয়েদের প্রথম আত্মরক্ষা প্রতিষ্ঠান"],
+          ["—", "Only Bengali woman in the Constituent Assembly of Bengal", "গণপরিষদে একমাত্র বাঙালি নারী"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "🎓", "t": "1921 আর 1923 আলাদা", "type": "warn", "d": "==1921 = ভর্তি==, ==1923 = ডিগ্রি ও দীপালি সংঘ==। MCQ-তে এই দুটি বদলে দেওয়া হয়।" },
+    { "em": "🪞", "t": "glass ceiling মানে", "d": "চোখে দেখা যায় না এমন বাধা, যা নারীকে উপরে উঠতে দেয় না — কাচ ভাঙা মানে সেই বাধা অতিক্রম।" },
+    { "em": "🏫", "t": "দীপালি সংঘ ≠ স্কুল", "d": "দীপালি সংঘ (১৯২৩) = ==কর্মী প্রশিক্ষণ==; ১২টি স্কুল (১৯২৯) = ==মেয়েদের প্রাথমিক শিক্ষা==।" },
+    { "em": "💧", "t": "১৯২১-এর বন্যা", "d": "যে বছর তিনি ভর্তি হন সেই বছরই বন্যা — ছাত্রী অবস্থাতেই তহবিল সংগ্রহ। এই মিলটি short question-এ কাজে লাগে।" },
+    { "em": "✍️", "t": "চারটি বিশেষণ মুখস্থ", "d": "==citizen, reformer, feminist, social activist== — ‘How is she remembered?’ প্রশ্নের প্রস্তুত উত্তর।" }
+  ],
+
+  "recap": [
+    "১৯২১ — ঢাকা বিশ্ববিদ্যালয়ে ইংরেজিতে এমএ-তে ভর্তি প্রথম নারী; হার্টগের বিশেষ অনুমতি।",
+    "১৯২৩ — বিভাগ থেকে এমএ পাওয়া প্রথম নারী; দীপালি সংঘ প্রতিষ্ঠা।",
+    "ছাত্রী অবস্থাতেই ঢাকা মহিলা কমিটি ও ১৯২১-এর বন্যার্তদের জন্য তহবিল।",
+    "১৯২৭-২৮ আত্মরক্ষা প্রতিষ্ঠান; ১৯২৮ কলকাতা কংগ্রেসে প্রবন্ধ; ১৯২৯ ১২টি স্কুল।",
+    "কয়েকবার কারাবরণ; ১৯৪৬-৪৭ শিবির; গণপরিষদে একমাত্র বাঙালি নারী।"
+  ],
+
+  "homework": [
+    "সব সাল ও ঘটনা টেবিল আকারে লিখে আনবে।",
+    "‘patriarchal barriers’ ও ‘glass ceiling’ — দুটি রূপক ব্যাখ্যা করে লিখবে।",
+    "টেবিলের (i)–(x) নিজে পূরণ করবে।",
+    "Summary ১৪০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ]
+}

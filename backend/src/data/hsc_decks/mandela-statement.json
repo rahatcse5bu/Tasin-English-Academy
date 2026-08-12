@@ -1,0 +1,174 @@
+{
+  "id": "mandela-statement",
+  "paper": "paper1",
+  "paperName": "English 1st Paper",
+  "unit": "Unit 01",
+  "unitName": "People or Institutions Making History",
+  "lesson": 2,
+  "title": "Nelson Mandela's Statement at the 1964 Trial",
+  "titleBn": "১৯৬৪ সালের বিচারে নেলসন ম্যান্ডেলার বিবৃতি",
+  "lede": "কাঠগড়ায় দাঁড়িয়ে ম্যান্ডেলা বলেছিলেন — তাঁর সংগ্রাম বিদেশি বা কমিউনিস্টদের প্ররোচনায় নয়, বরং নিজের আফ্রিকান উত্তরাধিকার থেকে জন্ম নেওয়া।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
+    { "t": "Read a courtroom statement as evidence", "d": "‘I am the First Accused’ — প্রথম পুরুষে দেওয়া সাক্ষ্য" },
+    { "t": "Separate the charges from the conviction", "d": "convicted: permit + inciting strike; charged 1964: sabotage, treason, conspiracy" },
+    { "t": "Understand his central denial", "d": "‘not because of what any outsider might have said’" },
+    { "t": "Handle legal vocabulary", "d": "accused, attorney, convicted, permit, inciting, sabotage, treason" }
+  ],
+
+  "passage": [
+    {
+      "tag": "Paragraph 1 — The background of the trial",
+      "s": [
+        { "en": "The following speech is a selection from Nelson Mandela's statement at a ==trial in 1964==.", "bn": "নিচের ভাষণটি ==১৯৬৪ সালের এক বিচারে== দেওয়া নেলসন ম্যান্ডেলার বিবৃতি থেকে নেওয়া।" },
+        { "en": "He had been ==arrested by South African security police in 1962== for his opposition to the white government and the policy of ==racial, economic and political separatism that is called 'apartheid'==.", "bn": "শ্বেতাঙ্গ সরকার এবং ==‘বর্ণবাদ’ নামে পরিচিত জাতিগত, অর্থনৈতিক ও রাজনৈতিক পৃথকীকরণ নীতির== বিরোধিতার জন্য ==১৯৬২ সালে দক্ষিণ আফ্রিকার নিরাপত্তা পুলিশ তাঁকে গ্রেপ্তার করেছিল==।" },
+        { "en": "In 1964, further charges were brought against Mandela, including ==sabotage, high treason, and conspiracy to overthrow the government==.", "bn": "১৯৬৪ সালে ম্যান্ডেলার বিরুদ্ধে আরও অভিযোগ আনা হয় — ==অন্তর্ঘাত, রাষ্ট্রদ্রোহ এবং সরকার উৎখাতের ষড়যন্ত্র==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — “I am the First Accused”",
+      "s": [
+        { "en": "==“I am the First Accused.==", "bn": "==“আমিই প্রথম অভিযুক্ত।==" },
+        { "en": "I hold a ==Bachelor's Degree in Arts== and practised as an ==attorney in Johannesburg== for a number of years in partnership with ==Oliver Tambo==.", "bn": "আমার ==কলা বিভাগে স্নাতক ডিগ্রি== আছে এবং ==অলিভার টাম্বোর== সঙ্গে অংশীদারিত্বে বেশ কয়েক বছর ==জোহানেসবার্গে আইনজীবী== হিসেবে কাজ করেছি।" },
+        { "en": "I am a ==convicted prisoner serving five years== for ==leaving the country without a permit== and for ==inciting people to go on strike at the end of May 1961==.", "bn": "আমি একজন ==দণ্ডপ্রাপ্ত বন্দি, পাঁচ বছরের সাজা ভোগ করছি== — ==অনুমতিপত্র ছাড়া দেশ ত্যাগ== করা এবং ==১৯৬১ সালের মে মাসের শেষে মানুষকে ধর্মঘটে যেতে প্ররোচিত করার== জন্য।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — “Not because of what any outsider might have said”",
+      "s": [
+        { "en": "At the outset, I want to say that the suggestion made by the State in its opening that ==the struggle in South Africa is under the influence of foreigners or communists is wholly incorrect==.", "bn": "শুরুতেই আমি বলতে চাই, রাষ্ট্রপক্ষ তাদের সূচনা বক্তব্যে যে ইঙ্গিত দিয়েছে — ==দক্ষিণ আফ্রিকার সংগ্রাম বিদেশি বা কমিউনিস্টদের প্রভাবাধীন — তা সম্পূর্ণ ভুল==।" },
+        { "en": "I have done whatever I did, ==both as an individual and as a leader of my people==, because of ==my experience in South Africa and my own proudly felt African background==, and ==not because of what any outsider might have said==.", "bn": "আমি যা কিছু করেছি, ==ব্যক্তি হিসেবে এবং আমার জনগণের নেতা হিসেবেও==, তা করেছি ==দক্ষিণ আফ্রিকায় আমার নিজের অভিজ্ঞতা এবং গর্বভরে অনুভব করা আমার আফ্রিকান উত্তরাধিকারের== কারণে — ==কোনো বাইরের লোক কী বলেছে সেজন্য নয়==।" },
+        { "en": "In my youth in the ==Transkei== I listened to the ==elders of my tribe telling stories of the old days==.", "bn": "==ট্রান্সকাইয়ে== আমার তারুণ্যে আমি ==আমার গোত্রের প্রবীণদের কাছে পুরোনো দিনের গল্প== শুনতাম।" },
+        { "en": "Amongst the names of ==Dingane and Bambata, Hintsa and Makana, Squintghi and Dalasile, Moshoeshoe and Sekhukhuni==, were praised as ==the glory of the entire African nation==.", "bn": "==ডিঙ্গানে ও বাম্বাটা, হিন্টসা ও মাকানা, স্কুইন্টঘি ও দালাসিলে, মোশোয়েশোয়ে ও সেখুখুনি== — এই নামগুলো ==গোটা আফ্রিকান জাতির গৌরব== হিসেবে প্রশংসিত হতো।" },
+        { "en": "I hoped then that ==life might offer me the opportunity to serve my people and make my own humble contribution to their freedom struggle==.", "bn": "তখন আমি আশা করতাম ==জীবন হয়তো আমাকে সুযোগ দেবে আমার জনগণের সেবা করার এবং তাদের স্বাধীনতা সংগ্রামে নিজের বিনীত অবদান রাখার==।" },
+        { "en": "==This is what has motivated me in all that I have done in relation to the charges made against me in this case.”==", "bn": "==এই মামলায় আমার বিরুদ্ধে আনা অভিযোগগুলোর সঙ্গে সম্পর্কিত সবকিছুতেই এটিই আমাকে অনুপ্রাণিত করেছে।”==" }
+      ]
+    }
+  ],
+
+  "words": [
+    { "w": "statement", "pos": "noun", "pron": "/ˈsteɪtmənt/", "bn": "বিবৃতি, জবানবন্দি", "en": "a formal account given in court", "ex": "Mandela's statement at a trial in 1964" },
+    { "w": "trial", "pos": "noun", "pron": "/ˈtraɪəl/", "bn": "বিচার", "en": "the legal examination of a case in court", "ex": "a trial in 1964" },
+    { "w": "separatism", "pos": "noun", "pron": "/ˈseprətɪzəm/", "bn": "পৃথকীকরণ নীতি", "en": "the policy of keeping groups apart", "ex": "racial, economic and political separatism" },
+    { "w": "apartheid", "pos": "noun", "pron": "/əˈpɑːtaɪt/", "bn": "বর্ণবাদ (দক্ষিণ আফ্রিকার বর্ণবৈষম্য নীতি)", "en": "the former South African policy of racial separation", "ex": "the policy that is called 'apartheid'" },
+    { "w": "sabotage", "pos": "noun", "pron": "/ˈsæbətɑːʒ/", "bn": "অন্তর্ঘাত, গোপনে ক্ষতিসাধন", "en": "deliberate damage done to weaken an enemy or government", "ex": "further charges, including sabotage" },
+    { "w": "high treason", "pos": "noun", "pron": "/haɪ ˈtriːzn/", "bn": "রাষ্ট্রদ্রোহ", "en": "the crime of betraying one's own country", "ex": "sabotage, high treason, and conspiracy" },
+    { "w": "conspiracy", "pos": "noun", "pron": "/kənˈspɪrəsi/", "bn": "ষড়যন্ত্র", "en": "a secret plan by a group to do something unlawful", "ex": "conspiracy to overthrow the government" },
+    { "w": "accused", "pos": "noun", "pron": "/əˈkjuːzd/", "bn": "অভিযুক্ত ব্যক্তি", "en": "a person charged with a crime", "ex": "I am the First Accused." },
+    { "w": "attorney", "pos": "noun", "pron": "/əˈtɜːni/", "bn": "আইনজীবী", "en": "a lawyer", "ex": "practised as an attorney in Johannesburg" },
+    { "w": "convicted", "pos": "adj", "pron": "/kənˈvɪktɪd/", "bn": "দণ্ডপ্রাপ্ত, দোষী সাব্যস্ত", "en": "found guilty by a court", "ex": "I am a convicted prisoner." },
+    { "w": "permit", "pos": "noun", "pron": "/ˈpɜːmɪt/", "bn": "অনুমতিপত্র", "en": "an official document allowing something", "ex": "leaving the country without a permit" },
+    { "w": "incite", "pos": "verb", "pron": "/ɪnˈsaɪt/", "bn": "প্ররোচিত করা, উসকে দেওয়া", "en": "to encourage people to act, often unlawfully", "ex": "inciting people to go on strike" },
+    { "w": "at the outset", "pos": "phrase", "pron": "/ˈaʊtset/", "bn": "শুরুতেই", "en": "at the beginning", "ex": "At the outset, I want to say…" },
+    { "w": "communist", "pos": "noun", "pron": "/ˈkɒmjənɪst/", "bn": "সাম্যবাদী", "en": "a member of a political party believing in common ownership", "ex": "under the influence of foreigners or communists" },
+    { "w": "tribe", "pos": "noun", "pron": "/traɪb/", "bn": "গোত্র, উপজাতি", "en": "a group of people sharing ancestry and customs", "ex": "the elders of my tribe" },
+    { "w": "humble", "pos": "adj", "pron": "/ˈhʌmbl/", "bn": "বিনীত, সামান্য", "en": "modest, not proud", "ex": "my own humble contribution" },
+    { "w": "motivate", "pos": "verb", "pron": "/ˈməʊtɪveɪt/", "bn": "অনুপ্রাণিত করা", "en": "to give someone a reason to act", "ex": "This is what has motivated me." }
+  ],
+
+  "synant": [
+    { "w": "accused", "bn": "অভিযুক্ত", "syn": ["defendant", "charged person"], "ant": ["accuser", "plaintiff"] },
+    { "w": "convicted", "bn": "দণ্ডপ্রাপ্ত", "syn": ["found guilty", "sentenced"], "ant": ["acquitted", "exonerated"] },
+    { "w": "incite", "bn": "প্ররোচিত করা", "syn": ["provoke", "instigate", "stir up"], "ant": ["discourage", "restrain"] },
+    { "w": "conspiracy", "bn": "ষড়যন্ত্র", "syn": ["plot", "scheme", "intrigue"], "ant": ["openness", "transparency"] },
+    { "w": "humble", "bn": "বিনীত", "syn": ["modest", "unassuming"], "ant": ["arrogant", "boastful"] },
+    { "w": "glory", "bn": "গৌরব", "syn": ["honour", "renown", "splendour"], "ant": ["shame", "disgrace"] },
+    { "w": "opposition", "bn": "বিরোধিতা", "syn": ["resistance", "defiance"], "ant": ["support", "compliance"] },
+    { "w": "incorrect", "bn": "ভুল", "syn": ["wrong", "mistaken", "false"], "ant": ["accurate", "correct"] }
+  ],
+
+  "summaryEn": "This passage introduces and then quotes Nelson Mandela's statement at his 1964 trial. He had been arrested in 1962 by the South African security police for opposing the white government and apartheid — the policy of racial, economic and political separatism — and in 1964 he faced further charges of sabotage, high treason and conspiracy to overthrow the government. Speaking as the First Accused, Mandela records that he holds a Bachelor's Degree in Arts and practised for several years as an attorney in Johannesburg in partnership with Oliver Tambo, and that he is already serving five years for leaving the country without a permit and for inciting a strike at the end of May 1961. He then rejects the State's central suggestion, declaring it wholly incorrect that the struggle in South Africa is directed by foreigners or communists. Whatever he did, as an individual and as a leader of his people, came from his own experience in South Africa and from his proudly felt African background, not from any outsider's advice. In his youth in the Transkei he had heard the elders of his tribe praise Dingane, Bambata, Hintsa, Makana and others as the glory of the African nation, and had hoped that life would let him serve his people and make his own humble contribution to their freedom struggle — and it is this, he says, that has motivated everything for which he now stands charged.",
+  "summaryBn": "এই অংশটি ১৯৬৪ সালের বিচারে দেওয়া নেলসন ম্যান্ডেলার বিবৃতির পটভূমি ও উদ্ধৃতি তুলে ধরে। শ্বেতাঙ্গ সরকার ও বর্ণবাদ — জাতিগত, অর্থনৈতিক ও রাজনৈতিক পৃথকীকরণ নীতি — বিরোধিতার জন্য ১৯৬২ সালে দক্ষিণ আফ্রিকার নিরাপত্তা পুলিশ তাঁকে গ্রেপ্তার করে, আর ১৯৬৪ সালে তাঁর বিরুদ্ধে আনা হয় অন্তর্ঘাত, রাষ্ট্রদ্রোহ ও সরকার উৎখাতের ষড়যন্ত্রের অভিযোগ। প্রথম অভিযুক্ত হিসেবে কথা বলতে গিয়ে ম্যান্ডেলা জানান, তাঁর কলা বিভাগে স্নাতক ডিগ্রি আছে এবং অলিভার টাম্বোর সঙ্গে অংশীদারিত্বে তিনি কয়েক বছর জোহানেসবার্গে আইনজীবী ছিলেন; অনুমতিপত্র ছাড়া দেশত্যাগ ও ১৯৬১ সালের মে মাসের শেষে ধর্মঘটে প্ররোচনার দায়ে তিনি ইতিমধ্যেই পাঁচ বছরের সাজা ভোগ করছেন। এরপর তিনি রাষ্ট্রপক্ষের মূল ইঙ্গিতটি নাকচ করে বলেন, দক্ষিণ আফ্রিকার সংগ্রাম বিদেশি বা কমিউনিস্টদের দ্বারা পরিচালিত — এ কথা সম্পূর্ণ ভুল। ব্যক্তি হিসেবে ও জনগণের নেতা হিসেবে তিনি যা করেছেন তা এসেছে দক্ষিণ আফ্রিকায় তাঁর নিজের অভিজ্ঞতা ও গর্বভরে অনুভব করা আফ্রিকান উত্তরাধিকার থেকে, বাইরের কারও পরামর্শ থেকে নয়। ট্রান্সকাইয়ে তারুণ্যে তিনি গোত্রের প্রবীণদের মুখে ডিঙ্গানে, বাম্বাটা, হিন্টসা, মাকানা প্রমুখের নাম আফ্রিকান জাতির গৌরব হিসেবে শুনেছিলেন এবং আশা করেছিলেন জীবন তাঁকে জনগণের সেবা ও স্বাধীনতা সংগ্রামে বিনীত অবদান রাখার সুযোগ দেবে — তাঁর ভাষায়, এটিই তাঁকে অনুপ্রাণিত করেছে সেই সবকিছুতে যার জন্য আজ তিনি অভিযুক্ত।",
+  "summaryTip": "**Speech/statement-এর summary indirect speech-এ লিখবে:** ‘He said that he was the first accused…’। ==অভিযোগ== আর ==দণ্ড== আলাদা করে লেখো — নইলে তথ্যগত ভুল হবে।",
+
+  "mcq": [
+    { "q": "What does the word ‘accused’ refer to in the context of the passage?", "opts": ["A person who defends someone", "A person who witnesses a crime", "A person charged with a crime", "A person who judges a crime"], "ans": 2, "why": "accused = অভিযুক্ত; আইনজীবী (defends), সাক্ষী (witnesses) বা বিচারক (judges) নয়।" },
+    { "q": "What was Nelson Mandela convicted of?", "opts": ["The act of revolution", "The involvement in cybercrime", "The act of treachery", "The act of murder"], "ans": 2, "why": "তিনি সাজা ভোগ করছিলেন অনুমতি ছাড়া দেশত্যাগ ও ধর্মঘটে প্ররোচনার জন্য — যা রাষ্ট্রের চোখে ==বিশ্বাসঘাতকতা/treachery==; খুন নয়।" },
+    { "q": "What does the word ‘permit’ mean in the context of the passage?", "opts": ["A request", "A written accusation", "An oral permission", "A legal document allowing entry or exit"], "ans": 3, "why": "‘leaving the country without a permit’ — মৌখিক নয়, ==লিখিত সরকারি নথি==।" },
+    { "q": "Which of the following statements is NOT false?", "opts": ["The struggle in South Africa was against apartheid.", "The struggle was under the influence of the communists.", "The struggle was under the influence of foreigners.", "The struggle was against the negroes."], "ans": 0, "why": "‘NOT false’ = ==সত্য==। ম্যান্ডেলা বিদেশি/কমিউনিস্ট প্রভাবের কথা অস্বীকার করেছেন।" },
+    { "q": "What does the word ‘inciting’ substitute for in the context of the passage?", "opts": ["Encouraging unlawful activity", "Preventing a dispute", "Observing a conflict", "Supporting a lawful cause"], "ans": 0, "why": "incite = উসকে দেওয়া; ধর্মঘট তৎকালীন আইনে ==অবৈধ== ছিল।" },
+    { "q": "Who is the author of the statement, ‘I am the First Accused’?", "opts": ["Nelson Mandela", "Oliver Tambo", "Bambata", "Dingane"], "ans": 0, "why": "কাঠগড়ায় দাঁড়িয়ে ম্যান্ডেলা নিজেই এই কথা বলেন।" },
+    { "q": "What degree does Nelson Mandela hold?", "opts": ["Master's Degree", "Bachelor's Degree in Arts", "Bachelor's Degree in Science", "Doctorate in Law"], "ans": 1, "why": "‘I hold a Bachelor's Degree in Arts’ — আইন পেশায় থাকলেও ডিগ্রি কলা বিভাগে।" },
+    { "q": "What does ‘communists’ mean?", "opts": ["A group of social workers", "A group of religious workers", "A party of political activists", "A group of rights activists"], "ans": 2, "why": "communist = একটি ==রাজনৈতিক== মতাদর্শের অনুসারী।" },
+    { "q": "Who was Nelson Mandela's partner in his legal practice?", "opts": ["Dingane", "Bambata", "Oliver Tambo", "Hintsa"], "ans": 2, "why": "‘in partnership with Oliver Tambo’; বাকি নামগুলো গোত্রের বীরদের।" },
+    { "q": "How long was Nelson Mandela serving for his convictions?", "opts": ["Three years", "Five years", "Seven years", "Ten years"], "ans": 1, "why": "‘a convicted prisoner serving five years’।" }
+  ],
+
+  "shortQ": [
+    { "q": "What did Mandela hope for in his youth?", "a": "In his youth in the Transkei he listened to the elders of his tribe telling stories of the old days, in which the names of Dingane, Bambata, Hintsa, Makana and others were praised as the glory of the entire African nation. Hearing them, he hoped that life might offer him the opportunity to serve his people and to make his own humble contribution to their freedom struggle. He was not hoping for fame or office, but for a chance to be useful to his nation.", "bn": "ট্রান্সকাইয়ে তারুণ্যে তিনি গোত্রের প্রবীণদের মুখে পুরোনো দিনের গল্প শুনতেন, যেখানে ডিঙ্গানে, বাম্বাটা, হিন্টসা, মাকানা প্রমুখের নাম গোটা আফ্রিকান জাতির গৌরব হিসেবে প্রশংসিত হতো। সেসব শুনে তিনি আশা করতেন, জীবন হয়তো তাঁকে জনগণের সেবা করার এবং তাদের স্বাধীনতা সংগ্রামে নিজের বিনীত অবদান রাখার সুযোগ দেবে। তিনি খ্যাতি বা পদ চাননি, চেয়েছিলেন জাতির কাজে লাগার একটি সুযোগ।" },
+    { "q": "What does Mandela mean by “my own proudly felt African background”?", "a": "He means the inheritance of history, memory and dignity that he received simply by being an African. It was not a borrowed idea but something felt, and felt with pride: the stories of his tribe's elders, the heroes praised as the glory of the African nation, and his own experience of life under apartheid in South Africa. He uses the phrase to answer the State directly — his politics grew out of his own soil and his own people, and no foreigner or communist had to teach it to him.", "bn": "তিনি বোঝাতে চান ইতিহাস, স্মৃতি ও মর্যাদার সেই উত্তরাধিকার যা আফ্রিকান হয়ে জন্মানোর সূত্রেই তিনি পেয়েছেন। এটি ধার করা কোনো ভাবনা নয়, বরং অনুভব করা — এবং গর্বের সঙ্গে অনুভব করা: গোত্রের প্রবীণদের গল্প, আফ্রিকান জাতির গৌরব হিসেবে প্রশংসিত বীরেরা, আর বর্ণবাদের অধীনে দক্ষিণ আফ্রিকায় তাঁর নিজের অভিজ্ঞতা। কথাটি দিয়ে তিনি রাষ্ট্রপক্ষকে সরাসরি জবাব দেন — তাঁর রাজনীতি জন্মেছে নিজের মাটি ও নিজের মানুষ থেকে, কোনো বিদেশি বা কমিউনিস্টকে তা শেখাতে হয়নি।" },
+    { "q": "What was the significance of the stories told by elders in Mandela's early life?", "a": "Those stories were his first political education. Before he ever read law or joined a movement, the elders of his tribe in the Transkei had taught him that Africans had a history of their own, full of leaders — Dingane and Bambata, Hintsa and Makana, Moshoeshoe and Sekhukhuni — who were remembered as the glory of the entire African nation. This gave him pride instead of the inferiority apartheid tried to impose, and it planted the hope of one day serving his people. In court, the stories also became his proof that his motives were African in origin.", "bn": "ওই গল্পগুলোই ছিল তাঁর প্রথম রাজনৈতিক শিক্ষা। আইন পড়া বা কোনো আন্দোলনে যোগ দেওয়ার অনেক আগেই ট্রান্সকাইয়ে তাঁর গোত্রের প্রবীণেরা তাঁকে শিখিয়েছিলেন যে আফ্রিকানদের নিজস্ব একটি ইতিহাস আছে, যা ভরা এমন নেতাদের নামে — ডিঙ্গানে ও বাম্বাটা, হিন্টসা ও মাকানা, মোশোয়েশোয়ে ও সেখুখুনি — যাঁরা গোটা আফ্রিকান জাতির গৌরব হিসেবে স্মরণীয়। বর্ণবাদ যে হীনম্মন্যতা চাপিয়ে দিতে চেয়েছিল, এতে তার বদলে এসেছিল গর্ব, আর জন্মেছিল একদিন জনগণের সেবা করার আশা। আদালতে এই গল্পগুলোই আবার তাঁর প্রমাণ হয়ে ওঠে যে তাঁর প্রেরণা আফ্রিকান উৎস থেকেই এসেছে।" },
+    { "q": "How does Mandela perceive the role of leadership in the struggle for freedom?", "a": "He treats leadership as service and as responsibility, not as privilege. He says he acted \"both as an individual and as a leader of my people\", which means a leader is answerable twice over — for his own conscience and for the cause he carries. He also calls what he offered a \"humble contribution\", refusing to place himself above the heroes his elders praised. And by standing in the dock and explaining rather than denying, he shows that a leader must be willing to bear the punishment that his people's struggle brings.", "bn": "তিনি নেতৃত্বকে দেখেন সেবা ও দায়িত্ব হিসেবে, বিশেষাধিকার হিসেবে নয়। তিনি বলেন, তিনি কাজ করেছেন “ব্যক্তি হিসেবে এবং আমার জনগণের নেতা হিসেবেও” — অর্থাৎ নেতাকে দুইবার জবাবদিহি করতে হয়: নিজের বিবেকের কাছে এবং যে আদর্শ তিনি বহন করছেন তার কাছে। নিজের অবদানকে তিনি বলেন “বিনীত অবদান”, প্রবীণদের প্রশংসিত বীরদের চেয়ে নিজেকে উঁচুতে বসাতে অস্বীকার করেন। আর কাঠগড়ায় দাঁড়িয়ে অস্বীকার না করে ব্যাখ্যা দিয়ে তিনি দেখান, জনগণের সংগ্রাম যে শাস্তি ডেকে আনে, নেতাকে তা বহন করতে প্রস্তুত থাকতে হয়।" },
+    { "q": "What does Mandela suggest about personal motivation in activism?", "a": "He suggests that genuine activism must grow from a person's own life, not from outside instruction. He states plainly that the State's suggestion — that the South African struggle is under the influence of foreigners or communists — is wholly incorrect, and that he did what he did because of his experience in South Africa and his proudly felt African background, \"not because of what any outsider might have said\". A movement borrowed from abroad can be discredited by naming its foreign source; a movement born of a people's own suffering and memory cannot.", "bn": "তিনি বোঝাতে চান, প্রকৃত সক্রিয়তা জন্ম নিতে হয় মানুষের নিজের জীবন থেকে, বাইরের নির্দেশ থেকে নয়। তিনি স্পষ্ট বলেন, রাষ্ট্রপক্ষের ইঙ্গিত — দক্ষিণ আফ্রিকার সংগ্রাম বিদেশি বা কমিউনিস্টদের প্রভাবাধীন — সম্পূর্ণ ভুল; তিনি যা করেছেন তা করেছেন দক্ষিণ আফ্রিকায় নিজের অভিজ্ঞতা ও গর্বভরে অনুভব করা আফ্রিকান উত্তরাধিকারের কারণে, “কোনো বাইরের লোক কী বলেছে সেজন্য নয়”। বিদেশ থেকে ধার করা আন্দোলনকে তার বিদেশি উৎস দেখিয়ে বদনাম করা যায়; কিন্তু যে আন্দোলন জন্মায় একটি জাতির নিজের দুর্ভোগ ও স্মৃতি থেকে, তাকে যায় না।" }
+  ],
+
+  "tables": [
+    {
+      "title": "Mandela at the 1964 trial",
+      "headers": ["What / Who", "Event / Activity", "Where / Place", "When / How"],
+      "rows": [
+        ["Nelson Mandela", "(i) @practised as an attorney", "Johannesburg", "(ii) @in partnership with Oliver Tambo"],
+        ["Mandela", "incited people to go on strike", "(iii) @in South Africa", "(iv) @at the end of May 1961"],
+        ["Mandela", "has (v) @a Bachelor's Degree in Arts", "from a university", "before practising law"],
+        ["The security police", "(vi) @arrested Mandela", "in South Africa", "(vii) @in 1962"],
+        ["The State", "(viii) @suggested that the struggle was under foreign or communist influence", "at the trial", "which Mandela called wholly incorrect"],
+        ["The elders of his tribe", "told stories of the old days", "(ix) @in the Transkei", "(x) @in his youth"]
+      ],
+      "note": "সাল দুটি আলাদা রেখো — গ্রেপ্তার ==1962==, বিচার ==1964==, ধর্মঘট ==May 1961==।"
+    }
+  ],
+
+  "flow": {
+    "title": "Mandela's account of himself — ম্যান্ডেলার নিজের বয়ান",
+    "items": [
+      { "t": "Heard tribal elders praise African heroes in the Transkei", "bn": "ট্রান্সকাইয়ে প্রবীণদের মুখে আফ্রিকান বীরদের গল্প শোনা (দেওয়া আছে)" },
+      { "t": "Hoped to serve his people and their freedom struggle", "bn": "জনগণ ও তাদের স্বাধীনতা সংগ্রামের সেবার আশা" },
+      { "t": "Took a Bachelor's Degree and practised as an attorney with Oliver Tambo", "bn": "স্নাতক ডিগ্রি ও টাম্বোর সঙ্গে আইন পেশা" },
+      { "t": "Left the country without a permit and incited a strike in May 1961", "bn": "অনুমতি ছাড়া দেশত্যাগ ও ১৯৬১-র ধর্মঘটে প্ররোচনা" },
+      { "t": "Arrested in 1962 and sentenced to five years", "bn": "১৯৬২-তে গ্রেপ্তার ও পাঁচ বছরের সাজা" },
+      { "t": "Charged in 1964 with sabotage, treason and conspiracy", "bn": "১৯৬৪-তে অন্তর্ঘাত, রাষ্ট্রদ্রোহ ও ষড়যন্ত্রের অভিযোগ" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "Charges vs. conviction <span class='sub'>— এই দুটি গুলিয়ে ফেললেই নম্বর যায়</span>",
+      "key": "Legal Facts",
+      "table": {
+        "headers": ["বিষয়", "কী", "সাল"],
+        "rows": [
+          ["ইতিমধ্যে দণ্ডপ্রাপ্ত (৫ বছর)", "অনুমতি ছাড়া দেশত্যাগ + ধর্মঘটে প্ররোচনা", "ধর্মঘট: মে ১৯৬১"],
+          ["গ্রেপ্তার", "শ্বেতাঙ্গ সরকার ও বর্ণবাদ বিরোধিতা", "১৯৬২"],
+          ["নতুন অভিযোগ", "sabotage, high treason, conspiracy", "১৯৬৪"],
+          ["পেশা", "attorney, Johannesburg (Oliver Tambo-র সঙ্গে)", "—"],
+          ["ডিগ্রি", "Bachelor's Degree in Arts", "—"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "⚖️", "t": "‘NOT false’ = সত্য", "type": "warn", "d": "এমন প্রশ্নে দুইবার নেতিবাচক থাকে। ==যেটি সত্য== সেটিই উত্তর — এখানে ‘against apartheid’।" },
+    { "em": "📜", "t": "permit = লিখিত নথি", "d": "‘oral permission’ option-টি ফাঁদ; ==legal document== ই সঠিক।" },
+    { "em": "🗓️", "t": "তিনটি সাল আলাদা", "d": "==1961== ধর্মঘট, ==1962== গ্রেপ্তার, ==1964== বিচার ও নতুন অভিযোগ।" },
+    { "em": "👥", "t": "নাম দুই ভাগে", "d": "==Oliver Tambo== = আইন-অংশীদার; ==Dingane, Bambata, Hintsa, Makana== = গোত্রের বীর।" },
+    { "em": "✍️", "t": "Statement লিখতে indirect", "d": "‘He said that he had done whatever he did because of his own experience…’ — উদ্ধৃতি হুবহু তুলো না।" }
+  ],
+
+  "recap": [
+    "১৯৬২-তে গ্রেপ্তার; ১৯৬৪-তে sabotage, high treason ও conspiracy-র অভিযোগ।",
+    "‘I am the First Accused’ — BA ডিগ্রি, জোহানেসবার্গে Oliver Tambo-র সঙ্গে আইন পেশা।",
+    "ইতিমধ্যেই ৫ বছরের সাজা — অনুমতি ছাড়া দেশত্যাগ ও মে ১৯৬১-র ধর্মঘটে প্ররোচনা।",
+    "রাষ্ট্রপক্ষের ‘বিদেশি/কমিউনিস্ট প্রভাব’ দাবি তিনি সম্পূর্ণ ভুল বলেন।",
+    "প্রেরণা — ট্রান্সকাইয়ের প্রবীণদের গল্প ও গর্বিত আফ্রিকান উত্তরাধিকার।"
+  ],
+
+  "homework": [
+    "‘Charges’ ও ‘conviction’ আলাদা কলামে লিখে আনবে।",
+    "‘my own proudly felt African background’ — ৬ বাক্যে ব্যাখ্যা করবে।",
+    "টেবিলের (i)–(x) নিজে পূরণ করবে।",
+    "Summary ১৪০ শব্দে indirect speech-এ লিখে আনবে।"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": "artificial-intelligence",
+  "paper": "paper1",
+  "paperName": "English 1st Paper",
+  "unit": "Unit 12",
+  "unitName": "Education and Life",
+  "lesson": 4,
+  "title": "Artificial Intelligence in the Classroom",
+  "titleBn": "শ্রেণিকক্ষে কৃত্রিম বুদ্ধিমত্তা",
+  "lede": "AI কীভাবে শেখা ও শেখানোর ধরন বদলে দিচ্ছে — ব্যক্তিগতকৃত শিক্ষা, তাৎক্ষণিক ফিডব্যাক, স্বয়ংক্রিয় খাতা দেখা; আর কেন এটি শিক্ষকের বিকল্প নয়।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
+    { "t": "State the three advantages precisely", "d": "personalised learning, instant feedback, automating repetitive tasks" },
+    { "t": "Name the six AI tools and what each does", "d": "Ahura, Knewton, Querium, ALEKS, Carnegie Learning, Smart Sparrow" },
+    { "t": "Take a balanced position", "d": "‘assist, not replace’ — এটিই লেখকের মূল বক্তব্য" },
+    { "t": "Handle technology vocabulary", "d": "revolutionise, automate, tailored, adaptive, edtech" }
+  ],
+
+  "passage": [
+    {
+      "tag": "Paragraph 1 — Promise and limits",
+      "s": [
+        { "en": "Artificial intelligence has the potential to ==revolutionise the way we learn and teach==.", "bn": "কৃত্রিম বুদ্ধিমত্তার সেই সম্ভাবনা আছে যা ==আমাদের শেখা ও শেখানোর ধরনকে আমূল বদলে দিতে== পারে।" },
+        { "en": "As a tool in the classroom, AI can provide students with ==personalised learning experiences==, ==automate repetitive tasks==, and provide ==instant feedback==.", "bn": "শ্রেণিকক্ষে একটি উপকরণ হিসেবে AI শিক্ষার্থীদের দিতে পারে ==ব্যক্তিগতকৃত শেখার অভিজ্ঞতা==, ==পুনরাবৃত্ত কাজ স্বয়ংক্রিয় করা== এবং ==তাৎক্ষণিক ফিডব্যাক==।" },
+        { "en": "However, it also has ==its limitations==.", "bn": "তবে এরও ==কিছু সীমাবদ্ধতা== আছে।" },
+        { "en": "Let us explore the ==pros and cons== of AI as a tool in the classroom, address the concern that ==AI could be a threat to teachers' and instructors' jobs==, and discuss the role of ==edtech companies== in advancing this AI use case.", "bn": "চলুন শ্রেণিকক্ষে AI-এর ==সুবিধা ও অসুবিধা== খতিয়ে দেখি, ==AI শিক্ষক ও প্রশিক্ষকদের চাকরির জন্য হুমকি হতে পারে== — এই উদ্বেগটি নিয়ে কথা বলি, এবং এই ব্যবহারকে এগিয়ে নিতে ==এডটেক কোম্পানিগুলোর== ভূমিকা আলোচনা করি।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — Advantages of AI in the classroom",
+      "s": [
+        { "en": "One of the main advantages of AI in the classroom is ==personalised learning==.", "bn": "শ্রেণিকক্ষে AI-এর অন্যতম প্রধান সুবিধা হলো ==ব্যক্তিগতকৃত শিক্ষা==।" },
+        { "en": "AI-powered educational tools can ==analyse data on student performance== and provide ==tailored support to improve their grades==.", "bn": "AI-চালিত শিক্ষা-উপকরণ ==শিক্ষার্থীর ফলাফলের তথ্য বিশ্লেষণ== করে ==নম্বর বাড়াতে উপযোগী সহায়তা== দিতে পারে।" },
+        { "en": "AI can also provide ==instant feedback==: AI-powered educational tools can give students immediate feedback on their work, ==allowing them to identify and correct mistakes quickly==.", "bn": "AI ==তাৎক্ষণিক ফিডব্যাকও== দিতে পারে: AI-চালিত উপকরণ শিক্ষার্থীদের কাজের উপর সঙ্গে সঙ্গে মতামত দেয়, ==যাতে তারা দ্রুত ভুল চিহ্নিত করে শুধরে নিতে পারে==।" },
+        { "en": "Another advantage of AI is its ability to ==automate repetitive tasks==: it can ==grade assignments and quizzes==, which can ==free up teachers' time== for other tasks, such as ==lesson planning and providing more one-on-one attention to students==.", "bn": "AI-এর আরেকটি সুবিধা হলো ==পুনরাবৃত্ত কাজ স্বয়ংক্রিয় করার== ক্ষমতা: এটি ==অ্যাসাইনমেন্ট ও কুইজের খাতা দেখতে== পারে, যা ==শিক্ষকের সময় বাঁচিয়ে দেয়== অন্য কাজের জন্য — যেমন ==পাঠ পরিকল্পনা এবং শিক্ষার্থীদের এক-একজনকে বেশি মনোযোগ দেওয়া==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — Tools already in use",
+      "s": [
+        { "en": "There are already a few AI tools that support learning in classroom or workplace contexts.", "bn": "শ্রেণিকক্ষ বা কর্মক্ষেত্রে শেখায় সহায়তা করে এমন কয়েকটি AI-উপকরণ ইতিমধ্যেই আছে।" },
+        { "en": "==Ahura== is an AI-powered learning assistant that ==tracks learning habits by observing attention and engagement==.", "bn": "==আহুরা== একটি AI-চালিত শিখন সহকারী, যা ==মনোযোগ ও সম্পৃক্ততা পর্যবেক্ষণ করে শেখার অভ্যাস অনুসরণ করে==।" },
+        { "en": "==Knewton== offers an ==adaptive learning platform== that provides personalised learning experiences for students.", "bn": "==নিউটন== একটি ==অভিযোজনক্ষম শিখন প্ল্যাটফর্ম== দেয়, যা শিক্ষার্থীদের ব্যক্তিগতকৃত শেখার অভিজ্ঞতা দেয়।" },
+        { "en": "==Querium== is an AI-powered tutor that provides tutoring on ==math problems== and builds personalised lesson plans, while ==ALEKS== provides ==individualised learning paths based on students' strengths and weaknesses==.", "bn": "==কোয়েরিয়াম== একটি AI-চালিত গৃহশিক্ষক, যা ==গণিতের সমস্যায়== সহায়তা করে ও ব্যক্তিগত পাঠ-পরিকল্পনা তৈরি করে; আর ==অ্যালেক্স== দেয় ==শিক্ষার্থীর সবলতা ও দুর্বলতা অনুযায়ী আলাদা শিখন-পথ==।" },
+        { "en": "==Carnegie Learning== offers an AI-powered tutor that helps students improve their ==math skills== based on their performance, and there is also ==Smart Sparrow==, which allows users to provide ==more individualised attention to students==.", "bn": "==কার্নেগি লার্নিং== এমন এক AI-চালিত গৃহশিক্ষক দেয় যা ফলাফলের ভিত্তিতে শিক্ষার্থীর ==গণিতের দক্ষতা== বাড়াতে সাহায্য করে; আর আছে ==স্মার্ট স্প্যারো==, যা ব্যবহারকারীকে ==শিক্ষার্থীদের আরও ব্যক্তিগত মনোযোগ দিতে== দেয়।" },
+        { "en": "These are just a few examples of AI tools with applications in the classroom. It is important to note that ==these tools should not replace teachers but rather assist them in their work==.", "bn": "শ্রেণিকক্ষে ব্যবহারযোগ্য AI-উপকরণের এগুলো কেবল কয়েকটি উদাহরণ। মনে রাখা জরুরি যে ==এই উপকরণগুলো শিক্ষকের বিকল্প হওয়া উচিত নয়, বরং তাঁদের কাজে সহায়তা করা উচিত==।" }
+      ]
+    }
+  ],
+
+  "words": [
+    { "w": "artificial intelligence", "pos": "noun", "pron": "/ˌɑːtɪˈfɪʃl ɪnˈtelɪdʒəns/", "bn": "কৃত্রিম বুদ্ধিমত্তা", "en": "computer systems that can perform tasks needing human intelligence", "ex": "Artificial intelligence has the potential to revolutionise learning." },
+    { "w": "potential", "pos": "noun", "pron": "/pəˈtenʃl/", "bn": "সম্ভাবনা", "en": "the possibility of developing or achieving something", "ex": "AI has the potential to revolutionise…" },
+    { "w": "revolutionise", "pos": "verb", "pron": "/ˌrevəˈluːʃənaɪz/", "bn": "আমূল বদলে দেওয়া", "en": "to change something completely and for the better", "ex": "revolutionise the way we learn and teach" },
+    { "w": "personalised", "pos": "adj", "pron": "/ˈpɜːsənəlaɪzd/", "bn": "ব্যক্তিগতকৃত, একেকজনের জন্য আলাদা", "en": "designed for one particular person", "ex": "personalised learning experiences" },
+    { "w": "automate", "pos": "verb", "pron": "/ˈɔːtəmeɪt/", "bn": "স্বয়ংক্রিয় করা", "en": "to make a machine do a job without human effort", "ex": "automate repetitive tasks" },
+    { "w": "repetitive", "pos": "adj", "pron": "/rɪˈpetətɪv/", "bn": "পুনরাবৃত্ত, বারবার একই রকম", "en": "done again and again in the same way", "ex": "repetitive tasks" },
+    { "w": "instant feedback", "pos": "noun", "pron": "/ˈɪnstənt ˈfiːdbæk/", "bn": "তাৎক্ষণিক মতামত", "en": "a response given immediately", "ex": "AI can also provide instant feedback." },
+    { "w": "limitation", "pos": "noun", "pron": "/ˌlɪmɪˈteɪʃn/", "bn": "সীমাবদ্ধতা", "en": "a thing that restricts what can be done", "ex": "it also has its limitations" },
+    { "w": "pros and cons", "pos": "phrase", "pron": "/prəʊz ənd kɒnz/", "bn": "সুবিধা ও অসুবিধা", "en": "advantages and disadvantages", "ex": "explore the pros and cons of AI" },
+    { "w": "threat", "pos": "noun", "pron": "/θret/", "bn": "হুমকি", "en": "a person or thing likely to cause damage", "ex": "a threat to teachers' jobs" },
+    { "w": "edtech", "pos": "noun", "pron": "/ˈedtek/", "bn": "শিক্ষা-প্রযুক্তি প্রতিষ্ঠান", "en": "companies making educational technology", "ex": "the role of edtech companies" },
+    { "w": "tailored", "pos": "adj", "pron": "/ˈteɪləd/", "bn": "উপযোগী করে বানানো", "en": "made specially to suit a particular need", "ex": "tailored support to improve their grades" },
+    { "w": "adaptive", "pos": "adj", "pron": "/əˈdæptɪv/", "bn": "অভিযোজনক্ষম, শিক্ষার্থী অনুযায়ী বদলে যায় এমন", "en": "able to change to suit new conditions", "ex": "an adaptive learning platform" },
+    { "w": "engagement", "pos": "noun", "pron": "/ɪnˈɡeɪdʒmənt/", "bn": "সম্পৃক্ততা, মনোযোগসহ অংশগ্রহণ", "en": "the state of being involved and interested", "ex": "observing attention and engagement" },
+    { "w": "individualised", "pos": "adj", "pron": "/ˌɪndɪˈvɪdʒuəlaɪzd/", "bn": "একেকজনের জন্য আলাদা করা", "en": "designed for the needs of one person", "ex": "individualised learning paths" },
+    { "w": "assist", "pos": "verb", "pron": "/əˈsɪst/", "bn": "সহায়তা করা", "en": "to help", "ex": "assist them in their work" }
+  ],
+
+  "synant": [
+    { "w": "revolutionise", "bn": "আমূল বদলানো", "syn": ["transform", "overhaul", "reshape"], "ant": ["preserve", "maintain"] },
+    { "w": "automate", "bn": "স্বয়ংক্রিয় করা", "syn": ["mechanise", "computerise"], "ant": ["do manually", "handcraft"] },
+    { "w": "personalised", "bn": "ব্যক্তিগতকৃত", "syn": ["tailored", "customised", "individualised"], "ant": ["standardised", "uniform"] },
+    { "w": "instant", "bn": "তাৎক্ষণিক", "syn": ["immediate", "prompt", "instantaneous"], "ant": ["delayed", "late"] },
+    { "w": "limitation", "bn": "সীমাবদ্ধতা", "syn": ["restriction", "drawback", "constraint"], "ant": ["advantage", "strength"] },
+    { "w": "assist", "bn": "সহায়তা করা", "syn": ["aid", "support", "facilitate"], "ant": ["hinder", "obstruct"] },
+    { "w": "replace", "bn": "বদলে বসানো", "syn": ["substitute", "supersede", "displace"], "ant": ["retain", "keep"] },
+    { "w": "advantage", "bn": "সুবিধা", "syn": ["benefit", "merit", "asset"], "ant": ["drawback", "disadvantage"] }
+  ],
+
+  "summaryEn": "Artificial intelligence has the potential to change the way we learn and teach completely. Used as a classroom tool it can offer personalised learning, automate repetitive work and give instant feedback, though it has limitations too, and there is a genuine concern that it may threaten the jobs of teachers and instructors. Its chief advantage is personalisation: AI-powered tools analyse data on student performance and provide tailored support to improve grades. They also give immediate feedback, so learners can find and correct their mistakes quickly. In addition they can grade assignments and quizzes, freeing teachers to plan lessons and give students more one-to-one attention. Several such tools already exist — Ahura tracks learning habits by observing attention and engagement, Knewton offers an adaptive learning platform, Querium tutors students in mathematics and builds personalised lesson plans, ALEKS designs individualised learning paths from a student's strengths and weaknesses, Carnegie Learning improves mathematical skill from performance data, and Smart Sparrow allows more individualised attention. The essential point is that these tools should not replace teachers but assist them in their work.",
+  "summaryBn": "কৃত্রিম বুদ্ধিমত্তার সেই সম্ভাবনা আছে যা আমাদের শেখা ও শেখানোর ধরন সম্পূর্ণ বদলে দিতে পারে। শ্রেণিকক্ষের উপকরণ হিসেবে এটি ব্যক্তিগতকৃত শিক্ষা দিতে পারে, পুনরাবৃত্ত কাজ স্বয়ংক্রিয় করতে পারে এবং তাৎক্ষণিক ফিডব্যাক দিতে পারে; তবে এর সীমাবদ্ধতাও আছে, আর শিক্ষক ও প্রশিক্ষকদের চাকরির জন্য এটি হুমকি হতে পারে — এমন প্রকৃত উদ্বেগও রয়েছে। এর প্রধান সুবিধা ব্যক্তিগতকরণ: AI-চালিত উপকরণ শিক্ষার্থীর ফলাফলের তথ্য বিশ্লেষণ করে নম্বর বাড়ানোর উপযোগী সহায়তা দেয়। সেগুলো সঙ্গে সঙ্গে মতামতও দেয়, ফলে শিক্ষার্থী দ্রুত ভুল খুঁজে শুধরে নিতে পারে। এছাড়া অ্যাসাইনমেন্ট ও কুইজের খাতা দেখে দেওয়ায় শিক্ষক পাঠ পরিকল্পনা ও একেকজন শিক্ষার্থীকে আলাদা মনোযোগ দেওয়ার সময় পান। এমন কয়েকটি উপকরণ ইতিমধ্যেই আছে — আহুরা মনোযোগ ও সম্পৃক্ততা দেখে শেখার অভ্যাস অনুসরণ করে, নিউটন দেয় অভিযোজনক্ষম প্ল্যাটফর্ম, কোয়েরিয়াম গণিতে সহায়তা করে ও পাঠ-পরিকল্পনা বানায়, অ্যালেক্স সবলতা-দুর্বলতা অনুযায়ী আলাদা শিখন-পথ তৈরি করে, কার্নেগি লার্নিং ফলাফলের ভিত্তিতে গণিতের দক্ষতা বাড়ায় এবং স্মার্ট স্প্যারো আরও ব্যক্তিগত মনোযোগ দিতে দেয়। মূল কথা হলো — এই উপকরণগুলো শিক্ষকের বিকল্প নয়, সহায়ক।",
+  "summaryTip": "**Argumentative passage-এ ==দুই দিকই== রাখো:** সুবিধা তিনটি + সীমাবদ্ধতা/উদ্বেগ + শেষ বাক্যে লেখকের সিদ্ধান্ত (‘assist, not replace’)। ছয়টি টুলের নাম summary-তে দরকার নেই, এক-দুটি উদাহরণই যথেষ্ট।",
+
+  "mcq": [
+    { "q": "What does the word ‘revolutionise’ mean in the context of the passage?", "opts": ["to make something worse", "to change something completely", "to ignore something", "to simplify something"], "ans": 1, "why": "revolutionise = আমূল পরিবর্তন আনা — শুধু সহজ করা নয়।" },
+    { "q": "What does ‘automate’ mean in “automate repetitive tasks”?", "opts": ["to perform tasks manually", "to ignore tasks", "to complete tasks without human effort", "to make tasks harder"], "ans": 2, "why": "automate = মানুষের হাত ছাড়াই যন্ত্র দিয়ে কাজ করানো।" },
+    { "q": "What is the role of AI-powered educational tools in learning?", "opts": ["They provide standardised learning experiences.", "They analyse data for personalised support.", "They automate lesson planning.", "They focus on group learning."], "ans": 1, "why": "‘analyse data on student performance and provide tailored support’ — standardised-এর ঠিক ==উল্টো==।" },
+    { "q": "What do the authors suggest about the relationship between AI and teachers?", "opts": ["AI should completely replace teachers.", "AI can support teachers' efforts.", "Teachers are unnecessary with AI.", "AI makes teaching easier for everyone."], "ans": 1, "why": "শেষ বাক্য: ‘should not replace teachers but rather assist them’।" },
+    { "q": "Which of the following is a concern about AI in education?", "opts": ["AI being too expensive", "AI promoting student collaboration", "AI could threaten teachers' jobs", "AI reducing study time"], "ans": 2, "why": "প্রথম অনুচ্ছেদে স্পষ্ট: ‘a threat to teachers' and instructors' jobs’।" },
+    { "q": "What is one of the main advantages of AI in the classroom?", "opts": ["standardised testing", "personalised learning", "increased workload for teachers", "reduced student engagement"], "ans": 1, "why": "‘One of the main advantages… is personalised learning.’" },
+    { "q": "How can AI provide immediate support to students?", "opts": ["by providing standard feedback", "by offering instant feedback", "by eliminating homework", "by increasing class sizes"], "ans": 1, "why": "instant feedback — সঙ্গে সঙ্গে মতামত, যাতে ভুল দ্রুত শোধরানো যায়।" },
+    { "q": "What tasks can AI automate to help teachers?", "opts": ["grading assignments", "conducting parent-teacher meetings", "creating lesson plans", "supervising classrooms"], "ans": 0, "why": "AI খাতা দেখে; ==lesson planning শিক্ষকের== জন্য বাঁচানো সময়, AI-এর কাজ নয়।" },
+    { "q": "What is Ahura designed to do?", "opts": ["provide grading services", "track learning habits", "develop curriculum", "teach students directly"], "ans": 1, "why": "‘tracks learning habits by observing attention and engagement’।" },
+    { "q": "Which platform offers adaptive learning experiences?", "opts": ["Gradescope", "Knewton", "Smart Sparrow", "Carnegie Learning"], "ans": 1, "why": "‘Knewton offers an adaptive learning platform’ — শব্দটি হুবহু Knewton-এর সঙ্গে।" }
+  ],
+
+  "shortQ": [
+    { "q": "What is the potential of AI in revolutionising the way we learn and teach?", "a": "Its potential lies in three things the passage names. As a classroom tool, AI can give students personalised learning experiences instead of one lesson for everybody, it can automate repetitive tasks such as grading, and it can provide instant feedback on a student's work. Together these change the classroom from a place where every learner moves at the same speed into one where teaching adjusts itself to each learner — while the teacher is freed for the work only a human can do.", "bn": "এর সম্ভাবনা তিনটি বিষয়ে, যেগুলোর কথা প্যাসেজেই আছে। শ্রেণিকক্ষের উপকরণ হিসেবে AI সবার জন্য এক পাঠের বদলে শিক্ষার্থীদের ব্যক্তিগতকৃত শেখার অভিজ্ঞতা দিতে পারে, খাতা দেখার মতো পুনরাবৃত্ত কাজ স্বয়ংক্রিয় করতে পারে এবং শিক্ষার্থীর কাজের উপর তাৎক্ষণিক মতামত দিতে পারে। এগুলো মিলে শ্রেণিকক্ষকে বদলে দেয় — যেখানে সবাই একই গতিতে এগোত, সেখানে এখন শিক্ষাই প্রতিটি শিক্ষার্থীর সঙ্গে খাপ খাইয়ে নেয়, আর শিক্ষক সময় পান কেবল মানুষই করতে পারে এমন কাজের জন্য।" },
+    { "q": "How can AI provide personalised learning experiences for students?", "a": "AI-powered educational tools work from data. They analyse data on each student's performance — what has been answered correctly, where mistakes repeat, how much attention the learner gives — and then provide tailored support designed to improve that particular student's grades. Knewton does this through an adaptive learning platform, while ALEKS builds individualised learning paths based on a student's own strengths and weaknesses, so no two learners necessarily follow the same route.", "bn": "AI-চালিত শিক্ষা-উপকরণ কাজ করে তথ্যের ভিত্তিতে। এগুলো প্রতিটি শিক্ষার্থীর ফলাফলের তথ্য বিশ্লেষণ করে — কোনটি ঠিক হয়েছে, কোথায় ভুল বারবার হচ্ছে, শিক্ষার্থী কতটা মনোযোগ দিচ্ছে — এবং তারপর সেই নির্দিষ্ট শিক্ষার্থীর নম্বর বাড়ানোর উপযোগী সহায়তা দেয়। নিউটন এটি করে অভিযোজনক্ষম প্ল্যাটফর্মের মাধ্যমে, আর অ্যালেক্স শিক্ষার্থীর নিজস্ব সবলতা ও দুর্বলতার ভিত্তিতে আলাদা শিখন-পথ তৈরি করে; ফলে দুজন শিক্ষার্থীকে একই পথে চলতে হয় না।" },
+    { "q": "What are some repetitive tasks that AI can automate in the classroom?", "a": "The passage mentions grading assignments and quizzes. These are tasks a teacher must repeat identically for every student in every class, and they consume a great deal of time without demanding judgement. When AI takes them over, the teacher's time is freed up for work that does demand judgement — lesson planning, and providing more one-on-one attention to students who need it.", "bn": "প্যাসেজে উল্লেখ আছে অ্যাসাইনমেন্ট ও কুইজের খাতা দেখার কথা। এগুলো এমন কাজ যা শিক্ষককে প্রতিটি ক্লাসের প্রতিটি শিক্ষার্থীর জন্য একইভাবে বারবার করতে হয়, আর এতে বিচারবুদ্ধি না লাগলেও প্রচুর সময় যায়। AI এই কাজ নিয়ে নিলে শিক্ষকের সময় বাঁচে সেই কাজগুলোর জন্য যেখানে বিচারবুদ্ধি লাগে — পাঠ পরিকল্পনা এবং যাদের প্রয়োজন তাদের এক-একজনকে আলাদা মনোযোগ দেওয়া।" },
+    { "q": "Why is it important for AI to provide instant feedback to students?", "a": "Because a mistake is easiest to correct while it is still fresh. If a student waits days for a corrected script, the wrong method has often been practised several times over and has become a habit. AI-powered tools give immediate feedback on a piece of work, allowing learners to identify and correct their mistakes quickly, so errors are removed before they harden and confidence is not lost in the waiting.", "bn": "কারণ ভুল শোধরানো সবচেয়ে সহজ যখন সেটি টাটকা থাকে। শিক্ষার্থী যদি সংশোধিত খাতার জন্য কয়েক দিন অপেক্ষা করে, তত দিনে ভুল পদ্ধতিটি সে কয়েকবার অনুশীলন করে ফেলে এবং তা অভ্যাসে দাঁড়িয়ে যায়। AI-চালিত উপকরণ কাজের উপর সঙ্গে সঙ্গে মতামত দেয়, ফলে শিক্ষার্থী দ্রুত ভুল চিহ্নিত করে শুধরে নিতে পারে; ভুল পাকা হওয়ার আগেই দূর হয় এবং অপেক্ষায় আত্মবিশ্বাসও নষ্ট হয় না।" },
+    { "q": "When can AI tools be used effectively in the classroom?", "a": "They are used effectively when they assist the teacher rather than replace him. The passage is clear on this point: these tools should not replace teachers but rather assist them in their work. So AI works well for analysing performance data, giving tailored support, marking quizzes and offering instant feedback — that is, for the repetitive and the measurable. Judgement, encouragement, discipline and the human relationship of a classroom remain the teacher's, and the concern about AI threatening teachers' jobs is answered only if that line is respected.", "bn": "সেগুলো তখনই কার্যকরভাবে ব্যবহৃত হয় যখন সেগুলো শিক্ষকের বিকল্প না হয়ে সহায়ক হয়। প্যাসেজ এ বিষয়ে স্পষ্ট: এই উপকরণগুলোর শিক্ষকের জায়গা নেওয়া উচিত নয়, বরং তাঁদের কাজে সহায়তা করা উচিত। তাই ফলাফলের তথ্য বিশ্লেষণ, উপযোগী সহায়তা দেওয়া, কুইজ দেখা ও তাৎক্ষণিক মতামত — অর্থাৎ পুনরাবৃত্ত ও পরিমাপযোগ্য কাজে AI ভালো কাজ করে। বিচারবুদ্ধি, উৎসাহ, শৃঙ্খলা এবং শ্রেণিকক্ষের মানবিক সম্পর্ক শিক্ষকেরই থাকে; এই সীমারেখা মানা হলেই কেবল চাকরি হারানোর উদ্বেগের জবাব মেলে।" }
+  ],
+
+  "tables": [
+    {
+      "title": "AI in the classroom",
+      "headers": ["What / Who", "Events / Activity", "Where / Place", "When / How"],
+      "rows": [
+        ["AI", "(i) @can be used as a tool", "in the classroom", "(ii) @to revolutionise the way we learn and teach"],
+        ["AI", "(iii) @has limitations", "in education", "though it has great potential"],
+        ["We", "(iv) @explore the pros and cons of AI", "in the classroom", "(v) @to address the concern about teachers' jobs"],
+        ["Personalised learning", "is one of the main advantages", "(vi) @of AI in the classroom", "(vii) @because tools give tailored support"],
+        ["AI-powered educational tools", "can give students immediate feedback", "(viii) @on their work", "(ix) @allowing them to identify and correct mistakes quickly"],
+        ["Ahura", "tracks learning habits", "in classroom or workplace contexts", "(x) @by observing attention and engagement"]
+      ],
+      "note": "টুলের নাম ও কাজ জোড়ায় মনে রেখো — ==Ahura/attention==, ==Knewton/adaptive==, ==ALEKS/individualised paths==।"
+    }
+  ],
+
+  "flow": {
+    "title": "How AI helps a classroom — AI যেভাবে শ্রেণিকক্ষে কাজে লাগে",
+    "items": [
+      { "t": "Analysing data on student performance", "bn": "শিক্ষার্থীর ফলাফলের তথ্য বিশ্লেষণ (দেওয়া আছে)" },
+      { "t": "Providing tailored support to improve grades", "bn": "নম্বর বাড়াতে উপযোগী সহায়তা" },
+      { "t": "Giving instant feedback on their work", "bn": "কাজের উপর তাৎক্ষণিক মতামত" },
+      { "t": "Helping students identify and correct mistakes quickly", "bn": "দ্রুত ভুল চিহ্নিত করে শোধরানো" },
+      { "t": "Automating repetitive tasks like grading", "bn": "খাতা দেখার মতো পুনরাবৃত্ত কাজ স্বয়ংক্রিয় করা" },
+      { "t": "Freeing teachers for lesson planning and one-on-one attention", "bn": "শিক্ষককে পাঠ পরিকল্পনা ও ব্যক্তিগত মনোযোগের সময় দেওয়া" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "The six tools <span class='sub'>— নাম আর কাজ গুলিয়ে ফেলা যাবে না</span>",
+      "key": "AI Tool Bank",
+      "table": {
+        "headers": ["Tool", "কী করে", "বাংলা"],
+        "rows": [
+          ["Ahura", "tracks learning habits by observing attention and engagement", "মনোযোগ দেখে অভ্যাস অনুসরণ"],
+          ["Knewton", "adaptive learning platform", "অভিযোজনক্ষম প্ল্যাটফর্ম"],
+          ["Querium", "tutors math problems, builds lesson plans", "গণিতের গৃহশিক্ষক"],
+          ["ALEKS", "individualised learning paths from strengths and weaknesses", "আলাদা শিখন-পথ"],
+          ["Carnegie Learning", "improves math skills from performance", "ফলাফল দেখে গণিতের দক্ষতা"],
+          ["Smart Sparrow", "more individualised attention to students", "বেশি ব্যক্তিগত মনোযোগ"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "⚖️", "t": "লেখকের অবস্থান এক লাইনে", "d": "==assist, not replace== — যেকোনো মতামতভিত্তিক প্রশ্নে এই বাক্যটি দিয়ে শেষ করবে।" },
+    { "em": "🔁", "t": "automate কী কী?", "type": "warn", "d": "AI ==grading== করে; ==lesson planning== নয় — ওটা শিক্ষকের জন্য বাঁচানো সময়। MCQ-তে এই ফাঁদ পাতা হয়।" },
+    { "em": "🎯", "t": "personalised ↔ standardised", "d": "Synonym/antonym প্রশ্নে জোড়াটি মনে রেখো: personalised = tailored = individualised; বিপরীত = standardised।" },
+    { "em": "🏷️", "t": "‘adaptive’ শব্দটি কার", "d": "শুধু ==Knewton==-এর সঙ্গেই ‘adaptive’ শব্দটি আছে — MCQ-তে সরাসরি কাজে লাগে।" },
+    { "em": "✍️", "t": "Short question-এ উদাহরণ দাও", "d": "নিয়ম বলার পর একটি টুলের নাম লিখলে উত্তর ‘passage-based’ হয় ও নম্বর বাড়ে।" }
+  ],
+
+  "recap": [
+    "AI শেখা-শেখানোর ধরন আমূল বদলে দিতে পারে, তবে সীমাবদ্ধতাও আছে।",
+    "তিন সুবিধা: personalised learning, instant feedback, automating repetitive tasks।",
+    "খাতা দেখা AI করলে শিক্ষক পান পাঠ পরিকল্পনা ও ব্যক্তিগত মনোযোগের সময়।",
+    "ছয় টুল: Ahura, Knewton, Querium, ALEKS, Carnegie Learning, Smart Sparrow।",
+    "মূল কথা: এগুলো শিক্ষকের বিকল্প নয়, সহায়ক।"
+  ],
+
+  "homework": [
+    "ছয়টি টুলের নাম ও কাজ টেবিল আকারে লিখে আনবে।",
+    "‘Can AI replace teachers?’ — পক্ষে ৩টি ও বিপক্ষে ৩টি যুক্তি লিখবে।",
+    "টেবিলের (i)–(x) নিজে পূরণ করবে।",
+    "Summary ১৪০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ]
+}

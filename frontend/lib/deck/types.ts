@@ -20,6 +20,9 @@ export interface ChapterMeta {
   tag: string;
   level: 'Easy' | 'Medium' | 'Hard';
   available?: boolean;
+  /** taken out of the class list but not removed */
+  hidden?: boolean;
+  deleted?: boolean;
   /** lesson within the unit — several chapters may share one */
   lesson?: number | null;
   lessonName?: string | null;
@@ -105,8 +108,8 @@ export interface Deck {
   summaryEn?: string;
   summaryBn?: string;
   summaryTip?: string;
-  mcq?: { q: string; opts: string[]; ans: number; why: string }[];
-  shortQ?: { q: string; a: string; bn: string }[];
+  mcq?: { q: string; opts: string[]; ans: number; why?: string }[];
+  shortQ?: { q: string; a: string; bn?: string }[];
   table?: { headers: string[]; rows: string[][]; note?: string };
   flow?: { title: string; items: (string | { t: string; bn?: string })[] };
 

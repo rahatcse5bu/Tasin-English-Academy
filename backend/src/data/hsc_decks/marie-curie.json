@@ -1,0 +1,192 @@
+{
+  "id": "marie-curie",
+  "paper": "paper1",
+  "paperName": "English 1st Paper",
+  "unit": "Unit 01",
+  "unitName": "People or Institutions Making History",
+  "lesson": 3,
+  "title": "Marie Curie — A Life Devoted to Science",
+  "titleBn": "মেরি কুরি — বিজ্ঞানে উৎসর্গিত এক জীবন",
+  "lede": "ওয়ারশ-র এক দরিদ্র ছাত্রী থেকে দুইবার নোবেলজয়ী বিজ্ঞানী — polonium ও radium আবিষ্কারের গল্প, বাক্যভিত্তিক বাংলা অর্থসহ।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
+    { "t": "Follow a biography in date order", "d": "1867 জন্ম → 1891 প্যারিস → 1895 বিয়ে → 1898 আবিষ্কার → 1903 নোবেল" },
+    { "t": "Guess hard words from context", "d": "prodigious, clandestinely, garret, pitchblende, ore" },
+    { "t": "Fill a table with exact words from the passage", "d": "নিজের ভাষায় নয় — passage-এর শব্দ" },
+    { "t": "Write a 5-box flow chart of her early life", "d": "ছোট phrase-এ, passage-এর ক্রমে" }
+  ],
+
+  "passage": [
+    {
+      "tag": "Paragraph 1 — Childhood in Warsaw",
+      "s": [
+        { "en": "Marie Curie, née Maria Sklodowska, was born in ==Warsaw== on ==November 7, 1867==, the daughter of a secondary school teacher.", "bn": "মেরি কুরি, জন্মসূত্রে মারিয়া স্ক্লোদোভস্কা, ==ওয়ারশ== শহরে ==৭ নভেম্বর ১৮৬৭== সালে জন্মগ্রহণ করেন; তিনি ছিলেন এক মাধ্যমিক বিদ্যালয়ের শিক্ষকের কন্যা।" },
+        { "en": "From childhood, she was remarkable for her ==prodigious memory==, and at the age of ==16== she won a ==gold medal== on completion of her secondary education at the Russian lycée.", "bn": "শৈশব থেকেই তিনি তাঁর ==অসাধারণ স্মৃতিশক্তির== জন্য বিখ্যাত ছিলেন, এবং ==১৬== বছর বয়সে রুশ লিসে থেকে মাধ্যমিক শিক্ষা শেষ করে ==স্বর্ণপদক== জেতেন।" },
+        { "en": "Because her father, a teacher of mathematics and physics, ==lost his savings through bad investments==, she had to take work as a teacher and, at the same time, took part ==clandestinely== in the nationalist \"free university\".", "bn": "তাঁর বাবা — একজন গণিত ও পদার্থবিজ্ঞানের শিক্ষক — ==ভুল বিনিয়োগে সঞ্চয় হারানোয়== তাঁকে শিক্ষকতার কাজ নিতে হয়, আর একই সময়ে তিনি ==গোপনে== জাতীয়তাবাদী \"মুক্ত বিশ্ববিদ্যালয়ে\" অংশ নিতেন।" },
+        { "en": "From her earnings, she was able to ==finance her sister Bronisława's medical studies in Paris==, with the understanding that Bronisława would in turn later help her to get an education.", "bn": "নিজের উপার্জন থেকে তিনি ==বোন ব্রনিস্লাভার প্যারিসে ডাক্তারি পড়ার খরচ চালাতে== পেরেছিলেন — এই বোঝাপড়ায় যে ব্রনিস্লাভা পরে তাঁর পড়াশোনায় সাহায্য করবেন।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — The struggling student in Paris",
+      "s": [
+        { "en": "In ==1891==, Sklodowska went to ==Paris== and, now using the name Marie, began to follow the lectures of Paul Appell, Gabriel Lippmann and Edmond Bouty at the ==Sorbonne==.", "bn": "==১৮৯১== সালে স্ক্লোদোভস্কা ==প্যারিসে== যান এবং মেরি নাম নিয়ে ==সরবোনে== পল আপেল, গ্যাব্রিয়েল লিপম্যান ও এদমন্ড বুতির ক্লাস করতে শুরু করেন।" },
+        { "en": "There she met many physicists who were already well known.", "bn": "সেখানে তিনি বহু খ্যাতনামা পদার্থবিজ্ঞানীর সঙ্গে পরিচিত হন।" },
+        { "en": "Sklodowska worked far into the night in her student-quarter's ==garret== and virtually ==lived on bread and butter and tea==.", "bn": "স্ক্লোদোভস্কা ছাত্রাবাসের ==চিলেকোঠায়== গভীর রাত পর্যন্ত পড়াশোনা করতেন এবং কার্যত ==রুটি-মাখন আর চা খেয়েই বেঁচে থাকতেন==।" },
+        { "en": "She ==came first== in the licence examination of physical sciences in ==1893==, began to work in Lippmann's research laboratory, and in ==1894== was placed ==second== in the licence examination of mathematical sciences.", "bn": "==১৮৯৩== সালে তিনি পদার্থবিজ্ঞানের লাইসেন্স পরীক্ষায় ==প্রথম== হন, লিপম্যানের গবেষণাগারে কাজ শুরু করেন, এবং ==১৮৯৪== সালে গণিতের লাইসেন্স পরীক্ষায় ==দ্বিতীয়== হন।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — Partnership and discovery",
+      "s": [
+        { "en": "It was in the spring of that year that she met ==Pierre Curie==.", "bn": "সেই বছরের বসন্তেই তিনি ==পিয়ের কুরির== সঙ্গে পরিচিত হন।" },
+        { "en": "Their marriage on ==July 25, 1895== marked the start of a partnership that was soon to achieve results of ==world significance== — in particular the discovery of ==polonium== (so called by Marie in honour of her native land) in the summer of ==1898== and that of ==radium== a few months later.", "bn": "==২৫ জুলাই ১৮৯৫== সালে তাঁদের বিবাহ এমন এক যৌথ কর্মজীবনের সূচনা করে যা শিগগিরই ==বিশ্বজোড়া গুরুত্বপূর্ণ== ফল এনে দেয় — বিশেষত ==১৮৯৮== সালের গ্রীষ্মে ==পোলোনিয়াম== (মেরি নিজের জন্মভূমির সম্মানে এই নাম দেন) এবং কয়েক মাস পরে ==রেডিয়াম== আবিষ্কার।" },
+        { "en": "Following Henri Becquerel's discovery in ==1896== of a new phenomenon (which she later called ==radioactivity==), Marie Curie, looking for a subject for a thesis, decided to find out if the property discovered in uranium was to be found in other matter.", "bn": "==১৮৯৬== সালে অঁরি বেকেরেলের নতুন এক ঘটনার আবিষ্কারের পর (যাকে মেরি পরে ==তেজস্ক্রিয়তা== নাম দেন), থিসিসের বিষয় খুঁজতে গিয়ে মেরি কুরি স্থির করেন — ইউরেনিয়ামে পাওয়া ধর্মটি অন্য পদার্থেও আছে কি না তা তিনি খুঁজে দেখবেন।" },
+        { "en": "Turning her attention to minerals, she found her interest drawn to ==pitchblende==, a mineral whose activity, superior to that of pure uranium, could be explained only by the presence in the ==ore== of small quantities of an ==unknown substance of very high activity==.", "bn": "খনিজের দিকে মনোযোগ দিয়ে তিনি ==পিচব্লেন্ডে== আকৃষ্ট হন — এমন এক খনিজ যার তেজস্ক্রিয়তা বিশুদ্ধ ইউরেনিয়ামের চেয়েও বেশি, আর তার ব্যাখ্যা একটাই: ঐ ==আকরিকে== অল্প পরিমাণে ==অত্যন্ত তেজস্ক্রিয় কোনো অজানা পদার্থ== আছে।" },
+        { "en": "Pierre Curie then joined her in the work that she had undertaken to resolve this problem and that led to the discovery of the new elements, polonium and radium.", "bn": "এরপর পিয়ের কুরি তাঁর সেই কাজে যোগ দেন যা এই সমস্যার সমাধানের জন্য শুরু হয়েছিল এবং যা পোলোনিয়াম ও রেডিয়াম — এই নতুন মৌল দুটির আবিষ্কারে পৌঁছে দেয়।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 4 — Recognition, and work that never stopped",
+      "s": [
+        { "en": "While Pierre Curie devoted himself chiefly to the physical study of the new radiations, Marie Curie ==struggled to obtain pure radium in the metallic state== — achieved with the help of the chemist André-Louis Debierne.", "bn": "পিয়ের কুরি যখন মূলত নতুন বিকিরণের ভৌত গবেষণায় নিয়োজিত, মেরি কুরি তখন ==ধাতব অবস্থায় বিশুদ্ধ রেডিয়াম পাওয়ার জন্য সংগ্রাম করছিলেন== — রসায়নবিদ আঁদ্রে-লুই দেবিয়ের্নের সহায়তায় যা সম্ভব হয়।" },
+        { "en": "On the results of this research, Marie Curie received her ==doctorate of science in June 1903== and, with Pierre, was awarded the ==Davy Medal== of the Royal Society.", "bn": "এই গবেষণার ফলাফলের ভিত্তিতে মেরি কুরি ==১৯০৩ সালের জুনে বিজ্ঞানে ডক্টরেট== লাভ করেন এবং পিয়েরের সঙ্গে রয়্যাল সোসাইটির ==ডেভি পদক== পান।" },
+        { "en": "Also in ==1903==, they shared with Becquerel the ==Nobel Prize for Physics== for the discovery of radioactivity.", "bn": "==১৯০৩== সালেই তাঁরা তেজস্ক্রিয়তা আবিষ্কারের জন্য বেকেরেলের সঙ্গে যৌথভাবে ==পদার্থবিজ্ঞানে নোবেল পুরস্কার== ভাগ করে নেন।" },
+        { "en": "The birth of her two daughters, Irène and Ève, in 1897 and 1904, ==did not interrupt Marie's intensive scientific work==.", "bn": "১৮৯৭ ও ১৯০৪ সালে দুই কন্যা ইরেন ও এভের জন্মও ==মেরির নিবিড় বৈজ্ঞানিক কাজে বাধা দিতে পারেনি==।" },
+        { "en": "She was appointed lecturer in physics at the École Normale Supérieure for girls in Sèvres in ==1900== and introduced there a method of teaching based on ==experimental demonstrations==; in December ==1904== she was appointed chief assistant in the laboratory directed by Pierre Curie.", "bn": "==১৯০০== সালে তিনি সেভ্র-এর মেয়েদের একোল নরমাল সুপেরিয়রে পদার্থবিজ্ঞানের প্রভাষক নিযুক্ত হন এবং সেখানে ==হাতে-কলমে পরীক্ষানির্ভর== শিক্ষাপদ্ধতি চালু করেন; ==১৯০৪== সালের ডিসেম্বরে তিনি পিয়ের কুরি পরিচালিত গবেষণাগারের প্রধান সহকারী নিযুক্ত হন।" }
+      ]
+    }
+  ],
+
+  "words": [
+    { "w": "née", "pos": "adj", "pron": "/neɪ/", "bn": "জন্মসূত্রে নাম ছিল", "en": "born with the name (used before a married woman's family name)", "ex": "Marie Curie, née Maria Sklodowska" },
+    { "w": "prodigious", "pos": "adj", "pron": "/prəˈdɪdʒəs/", "bn": "অসাধারণ, বিস্ময়কর রকমের বড়", "en": "extremely large or impressive", "ex": "remarkable for her prodigious memory" },
+    { "w": "lycée", "pos": "noun", "pron": "/ˈliːseɪ/", "bn": "মাধ্যমিক বিদ্যালয় (ফরাসি)", "en": "a secondary school", "ex": "her secondary education at the Russian lycée" },
+    { "w": "savings", "pos": "noun", "pron": "/ˈseɪvɪŋz/", "bn": "সঞ্চয়", "en": "money kept for future use", "ex": "lost his savings through bad investments" },
+    { "w": "investment", "pos": "noun", "pron": "/ɪnˈvestmənt/", "bn": "বিনিয়োগ", "en": "money put into a business hoping for profit", "ex": "bad investments" },
+    { "w": "clandestinely", "pos": "adv", "pron": "/klænˈdestɪnli/", "bn": "গোপনে, লুকিয়ে", "en": "secretly, especially because it is not allowed", "ex": "took part clandestinely in the free university" },
+    { "w": "finance", "pos": "verb", "pron": "/ˈfaɪnæns/", "bn": "অর্থ জোগানো, খরচ চালানো", "en": "to provide money for something", "ex": "finance her sister's medical studies" },
+    { "w": "garret", "pos": "noun", "pron": "/ˈɡærət/", "bn": "চিলেকোঠা, ছাদের নিচের ছোট ঘর", "en": "a small, poor room at the top of a house", "ex": "worked far into the night in her garret" },
+    { "w": "physicist", "pos": "noun", "pron": "/ˈfɪzɪsɪst/", "bn": "পদার্থবিজ্ঞানী", "en": "a scientist who studies physics", "ex": "she met many physicists" },
+    { "w": "licence examination", "pos": "noun", "pron": "/ˈlaɪsns/", "bn": "ফরাসি স্নাতক ডিগ্রির পরীক্ষা", "en": "the French university degree examination", "ex": "came first in the licence examination" },
+    { "w": "significance", "pos": "noun", "pron": "/sɪɡˈnɪfɪkəns/", "bn": "গুরুত্ব, তাৎপর্য", "en": "importance", "ex": "results of world significance" },
+    { "w": "phenomenon", "pos": "noun", "pron": "/fəˈnɒmɪnən/", "bn": "ঘটনা, প্রপঞ্চ", "en": "a fact or event that can be observed", "ex": "the discovery of a new phenomenon" },
+    { "w": "radioactivity", "pos": "noun", "pron": "/ˌreɪdiəʊækˈtɪvəti/", "bn": "তেজস্ক্রিয়তা", "en": "the sending out of harmful radiation by some substances", "ex": "which she later called radioactivity" },
+    { "w": "pitchblende", "pos": "noun", "pron": "/ˈpɪtʃblend/", "bn": "পিচব্লেন্ড (ইউরেনিয়ামের আকরিক)", "en": "a dark mineral that contains uranium", "ex": "her interest drawn to pitchblende" },
+    { "w": "ore", "pos": "noun", "pron": "/ɔːr/", "bn": "আকরিক", "en": "rock or earth from which metal is obtained", "ex": "small quantities in the ore" },
+    { "w": "undertake", "pos": "verb", "pron": "/ˌʌndəˈteɪk/", "bn": "হাতে নেওয়া, দায়িত্ব নেওয়া", "en": "to begin a piece of work", "ex": "the work she had undertaken" },
+    { "w": "devote", "pos": "verb", "pron": "/dɪˈvəʊt/", "bn": "উৎসর্গ করা, নিয়োজিত করা", "en": "to give all your time or effort to something", "ex": "devoted himself chiefly to physical study" },
+    { "w": "intensive", "pos": "adj", "pron": "/ɪnˈtensɪv/", "bn": "নিবিড়, একাগ্র", "en": "involving a lot of effort in a short time", "ex": "Marie's intensive scientific work" },
+    { "w": "demonstration", "pos": "noun", "pron": "/ˌdemənˈstreɪʃn/", "bn": "হাতে-কলমে প্রদর্শন", "en": "a practical showing of how something works", "ex": "teaching based on experimental demonstrations" }
+  ],
+
+  "synant": [
+    { "w": "prodigious", "bn": "অসাধারণ", "syn": ["enormous", "extraordinary", "phenomenal"], "ant": ["ordinary", "insignificant", "tiny"] },
+    { "w": "clandestinely", "bn": "গোপনে", "syn": ["secretly", "covertly", "stealthily"], "ant": ["openly", "publicly"] },
+    { "w": "remarkable", "bn": "উল্লেখযোগ্য", "syn": ["notable", "outstanding", "striking"], "ant": ["unremarkable", "commonplace"] },
+    { "w": "significance", "bn": "গুরুত্ব", "syn": ["importance", "consequence", "weight"], "ant": ["triviality", "insignificance"] },
+    { "w": "devote", "bn": "উৎসর্গ করা", "syn": ["dedicate", "commit", "consecrate"], "ant": ["neglect", "withhold"] },
+    { "w": "intensive", "bn": "নিবিড়", "syn": ["concentrated", "thorough", "rigorous"], "ant": ["casual", "superficial"] },
+    { "w": "superior", "bn": "শ্রেষ্ঠতর", "syn": ["greater", "higher", "better"], "ant": ["inferior", "lower"] },
+    { "w": "interrupt", "bn": "বাধা দেওয়া", "syn": ["disturb", "hinder", "break off"], "ant": ["continue", "assist"] }
+  ],
+
+  "summaryEn": "Marie Curie was born Maria Sklodowska in Warsaw in 1867. Gifted from childhood, she won a gold medal at sixteen, but her father's financial ruin forced her to work as a teacher and to study secretly at a nationalist \"free university\". She paid for her sister's medical studies in Paris on the promise of being helped in return, and in 1891 followed her to the Sorbonne, where she lived in a garret on bread, butter and tea while coming first in physics and second in mathematics. Her marriage to Pierre Curie in 1895 began a partnership of world significance. Investigating Becquerel's new phenomenon, which she named radioactivity, she traced the unusual activity of pitchblende to two unknown elements and, with Pierre, discovered polonium and radium in 1898. She took her doctorate and shared the 1903 Nobel Prize for Physics, and neither motherhood nor poverty ever interrupted her work.",
+  "summaryBn": "মেরি কুরির জন্ম ১৮৬৭ সালে ওয়ারশ শহরে, নাম ছিল মারিয়া স্ক্লোদোভস্কা। ছোটবেলা থেকেই মেধাবী — ষোলো বছরে স্বর্ণপদক পান; কিন্তু বাবার আর্থিক ক্ষতির কারণে তাঁকে শিক্ষকতা করতে হয় ও গোপনে \"মুক্ত বিশ্ববিদ্যালয়ে\" পড়তে হয়। নিজের উপার্জনে বোনের ডাক্তারি পড়ার খরচ চালিয়ে ১৮৯১ সালে তিনি প্যারিসের সরবোনে যান, চিলেকোঠায় থেকে রুটি-মাখন-চা খেয়ে পড়াশোনা করে পদার্থবিজ্ঞানে প্রথম ও গণিতে দ্বিতীয় হন। ১৮৯৫ সালে পিয়ের কুরির সঙ্গে বিবাহ এক ঐতিহাসিক যৌথ গবেষণার সূচনা করে। বেকেরেলের আবিষ্কৃত যে ঘটনাকে তিনি \"তেজস্ক্রিয়তা\" নাম দেন, তা অনুসরণ করে পিচব্লেন্ড থেকে ১৮৯৮ সালে তাঁরা পোলোনিয়াম ও রেডিয়াম আবিষ্কার করেন। ১৯০৩ সালে ডক্টরেট ও নোবেল পুরস্কার পান — মাতৃত্ব বা দারিদ্র্য কোনোটিই তাঁর কাজ থামাতে পারেনি।",
+  "summaryTip": "**Biography summary-র নিয়ম:** সাল ও নাম বাদ দিও না, কিন্তু প্রতিটি সাল লিখতে যেয়ো না — জন্ম, বড় আবিষ্কার আর পুরস্কার — এই তিনটি সাল যথেষ্ট। ==নিজের ভাষায়== লিখবে, passage থেকে বাক্য তুলে দেবে না।",
+
+  "mcq": [
+    { "q": "The word ‘prodigious’ refers to —", "opts": ["very weak", "extremely large or impressive", "ordinary", "unnoticeable"], "ans": 1, "why": "prodigious = অসাধারণ রকমের বড়। ‘remarkable for her prodigious memory’ — তাঁর স্মৃতিশক্তি ছিল বিস্ময়কর।" },
+    { "q": "The word ‘clandestinely’ refers to something that is done —", "opts": ["in secret", "openly", "quickly", "without care"], "ans": 0, "why": "clandestinely = গোপনে। রুশ শাসনে ‘free university’ নিষিদ্ধ ছিল, তাই লুকিয়ে অংশ নিতে হতো।" },
+    { "q": "Marie Curie's father lost his savings because of —", "opts": ["political issues", "family disputes", "bad investment", "personal health expenses"], "ans": 2, "why": "‘lost his savings through bad investments’ — passage-এ হুবহু আছে।" },
+    { "q": "A physicist is —", "opts": ["a scientist who studies physics", "a scientist who studies chemistry", "a historian", "a philosopher"], "ans": 0, "why": "physics + -ist = পদার্থবিজ্ঞানী। রসায়নবিদ হলে chemist হতো।" },
+    { "q": "Marie Curie was basically —", "opts": ["a scientist", "a poetess", "an engineer", "a physician"], "ans": 0, "why": "physician (চিকিৎসক) আর physicist (পদার্থবিজ্ঞানী) গুলিয়ে ফেলো না — তিনি বিজ্ঞানী ছিলেন, ডাক্তার নন।" },
+    { "q": "Marie Curie supported her sister's education by —", "opts": ["working as a teacher", "borrowing money from relatives", "receiving government aid", "joining a university"], "ans": 0, "why": "‘she had to take work as a teacher… From her earnings, she was able to finance her sister's medical studies’।" },
+    { "q": "Marie Curie's early interest in education is shown through her involvement in —", "opts": ["the Russian lycée", "the nationalist “free university”", "university studies in Paris", "her father's school"], "ans": 1, "why": "লিসে ছিল তাঁর নিজের স্কুল; ==আগ্রহ== প্রকাশ পেয়েছে গোপন ‘free university’-তে যোগ দেওয়ায়।" },
+    { "q": "Marie Curie's remarkable talent as a student was evident when she —", "opts": ["won a gold medal at 16", "completed her PhD", "published scientific papers", "taught physics at a university"], "ans": 0, "why": "প্রশ্নে ‘as a student’ — ছাত্রজীবনের প্রমাণ চাই, তাই ১৬ বছরে স্বর্ণপদক।" },
+    { "q": "What does the passage suggest about Marie Curie's financial situation in her youth?", "opts": ["She struggled due to family financial problems.", "She had enough money from her teaching.", "She relied on scholarships.", "She received help from the government."], "ans": 0, "why": "বাবার সঞ্চয় নষ্ট, চিলেকোঠায় বাস, রুটি-চা খেয়ে জীবন — সবই আর্থিক কষ্টের ইঙ্গিত।" },
+    { "q": "Marie Curie struggled to obtain pure radium in the ______ state.", "opts": ["floating", "waning", "burning", "metallic"], "ans": 3, "why": "‘struggled to obtain pure radium in the metallic state’ — ধাতব অবস্থায়।" }
+  ],
+
+  "shortQ": [
+    { "q": "How did Marie Curie contribute to her sister's education, and what was the agreement between them?", "a": "Marie took work as a teacher and used her own earnings to finance her elder sister Bronisława's medical studies in Paris. The agreement between them was a mutual one: Bronisława would complete her degree first, and would in turn later help Marie to get an education of her own. It was an act of sacrifice and trust, and it was honoured — a few years later Marie was able to go to Paris and study at the Sorbonne.", "bn": "মেরি শিক্ষকতা করে নিজের উপার্জন দিয়ে বড় বোন ব্রনিস্লাভার প্যারিসে ডাক্তারি পড়ার খরচ চালান। বোঝাপড়া ছিল পারস্পরিক — ব্রনিস্লাভা আগে ডিগ্রি শেষ করবেন, পরে মেরির পড়াশোনায় সাহায্য করবেন। এই ত্যাগ ও বিশ্বাস রক্ষিত হয়েছিল; কয়েক বছর পর মেরি প্যারিসে গিয়ে সরবোনে পড়তে পারেন।" },
+    { "q": "How did Marie Curie's early academic achievements influence her future career?", "a": "Her early achievements proved that she could compete with anyone, and they opened the doors she needed. The gold medal at sixteen showed her prodigious ability; coming first in the licence examination of physical sciences in 1893 and second in mathematical sciences in 1894 won her a place in Lippmann's research laboratory. That laboratory work led directly to her meeting Pierre Curie, to her thesis on radioactivity, and finally to the discovery of polonium and radium.", "bn": "প্রাথমিক সাফল্যই প্রমাণ করেছিল তিনি যে কারও সঙ্গে প্রতিযোগিতা করতে পারেন, আর সেগুলোই দরজা খুলে দিয়েছিল। ষোলো বছরে স্বর্ণপদক তাঁর অসাধারণ মেধার প্রমাণ; ১৮৯৩-এ পদার্থবিজ্ঞানে প্রথম ও ১৮৯৪-এ গণিতে দ্বিতীয় হওয়ায় তিনি লিপম্যানের গবেষণাগারে সুযোগ পান। সেই গবেষণাই পিয়ের কুরির সঙ্গে পরিচয়, তেজস্ক্রিয়তার থিসিস এবং শেষ পর্যন্ত পোলোনিয়াম ও রেডিয়াম আবিষ্কারে পৌঁছে দেয়।" },
+    { "q": "Do you think Marie Curie's early hardship helped shape her determination to pursue higher education? Why or why not?", "a": "Yes, I think it did. Poverty did not weaken her; it taught her to work without comfort. She had already earned her own living as a teacher, studied secretly when study was forbidden, and paid for someone else's education before her own. So when she reached Paris, living in a cold garret on bread, butter and tea seemed a small price to pay, and she could work far into the night. A student who had been given everything easily might not have endured those years.", "bn": "হ্যাঁ, আমি মনে করি সাহায্য করেছিল। দারিদ্র্য তাঁকে দুর্বল করেনি, বরং আরাম ছাড়া কাজ করতে শিখিয়েছিল। তিনি আগেই শিক্ষকতা করে নিজের খরচ চালিয়েছেন, নিষিদ্ধ অবস্থায় গোপনে পড়েছেন, নিজের আগে অন্যের পড়ার খরচ দিয়েছেন। তাই প্যারিসে গিয়ে ঠান্ডা চিলেকোঠায় রুটি-মাখন-চা খেয়ে থাকা তাঁর কাছে বড় কিছু মনে হয়নি এবং গভীর রাত পর্যন্ত কাজ করতে পেরেছিলেন। সহজে সব পাওয়া ছাত্র হয়তো এই বছরগুলো সহ্য করতে পারত না।" },
+    { "q": "When did Sklodowska go to Paris and what did she begin to do there?", "a": "She went to Paris in 1891. There, now using the French form of her name, Marie, she began to follow the lectures of Paul Appell, Gabriel Lippmann and Edmond Bouty at the Sorbonne, met many well-known physicists, and worked far into the night in her student-quarter's garret. She sat the licence examinations, coming first in physical sciences in 1893, and then began research in Lippmann's laboratory.", "bn": "তিনি ১৮৯১ সালে প্যারিসে যান। সেখানে ফরাসি রূপ ‘মেরি’ নাম নিয়ে তিনি সরবোনে পল আপেল, গ্যাব্রিয়েল লিপম্যান ও এদমন্ড বুতির ক্লাস করতে শুরু করেন, বহু খ্যাতনামা পদার্থবিজ্ঞানীর সঙ্গে পরিচিত হন এবং ছাত্রাবাসের চিলেকোঠায় গভীর রাত পর্যন্ত পড়াশোনা করেন। লাইসেন্স পরীক্ষায় বসে ১৮৯৩ সালে পদার্থবিজ্ঞানে প্রথম হন, তারপর লিপম্যানের গবেষণাগারে গবেষণা শুরু করেন।" },
+    { "q": "Why did she work so hard and what was her achievement?", "a": "She worked so hard because she was poor, because study had been denied to her at home, and above all because she wanted to answer a scientific question that no one had answered — whether the strange activity found in uranium existed in other matter as well. Her achievement was extraordinary: she named the phenomenon radioactivity, traced it in pitchblende to unknown elements, discovered polonium and radium with Pierre, obtained pure radium in the metallic state, took her doctorate of science in 1903, and in the same year shared the Nobel Prize for Physics with Pierre and Becquerel.", "bn": "তিনি এত পরিশ্রম করেছিলেন কারণ তিনি দরিদ্র ছিলেন, দেশে তাঁর পড়ার অধিকার ছিল না, আর সবচেয়ে বড় কথা — তিনি এমন এক বৈজ্ঞানিক প্রশ্নের উত্তর চাইছিলেন যা কেউ দেয়নি: ইউরেনিয়ামে পাওয়া অদ্ভুত ধর্মটি অন্য পদার্থেও আছে কি না। তাঁর অর্জন অসাধারণ — তিনি ঘটনাটির নাম দেন তেজস্ক্রিয়তা, পিচব্লেন্ডে অজানা মৌলের সন্ধান পান, পিয়েরের সঙ্গে পোলোনিয়াম ও রেডিয়াম আবিষ্কার করেন, ধাতব অবস্থায় বিশুদ্ধ রেডিয়াম পান, ১৯০৩ সালে ডক্টরেট এবং একই বছর পিয়ের ও বেকেরেলের সঙ্গে পদার্থবিজ্ঞানে নোবেল পুরস্কার লাভ করেন।" }
+  ],
+
+  "tables": [
+    {
+      "title": "Marie Curie's life",
+      "headers": ["What / Who", "Events / Activity", "Where / Place", "When / How / Why"],
+      "rows": [
+        ["Marie Curie", "was born", "(i) @in Warsaw", "(ii) @on November 7, 1867"],
+        ["Her father", "was a school teacher", "(iii) @at a secondary school", "—"],
+        ["Marie Curie", "was remarkable", "(iv) @from childhood", "(v) @for her prodigious memory"],
+        ["She", "won a gold medal", "(vi) @at the Russian lycée", "(vii) @at the age of 16"],
+        ["She", "had to work as a teacher", "in Poland", "(viii) @because her father lost his savings"],
+        ["She", "(ix) @took part clandestinely in the \"free university\"", "in Russian-ruled Poland", "as a young woman"],
+        ["She", "was able to finance her sister's education", "(x) @in Paris", "from her earnings"]
+      ],
+      "note": "সাল ও স্থান passage থেকে ==হুবহু== তুলবে। ‘Where’ কলামে preposition (in / at) বাদ দিয়ো না।"
+    }
+  ],
+
+  "flow": {
+    "title": "Marie Curie's early life — মেরি কুরির প্রথম জীবন",
+    "items": [
+      { "t": "Had her birth in Warsaw (1867)", "bn": "ওয়ারশে জন্ম (দেওয়া আছে)" },
+      { "t": "Won a gold medal at sixteen", "bn": "ষোলো বছরে স্বর্ণপদক" },
+      { "t": "Worked as a teacher after her father's loss", "bn": "বাবার ক্ষতির পর শিক্ষকতা" },
+      { "t": "Financed her sister's studies in Paris", "bn": "বোনের প্যারিসে পড়ার খরচ বহন" },
+      { "t": "Went to the Sorbonne in 1891", "bn": "১৮৯১ সালে সরবোনে গমন" },
+      { "t": "Came first in the licence examination (1893)", "bn": "১৮৯৩ সালে পরীক্ষায় প্রথম" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "Dates you must not mix up <span class='sub'>— যে সালগুলো গুলিয়ে যায়</span>",
+      "key": "Date Bank",
+      "table": {
+        "headers": ["Year", "Event", "বাংলা"],
+        "rows": [
+          ["1867", "Born in Warsaw", "ওয়ারশে জন্ম"],
+          ["1883", "Gold medal at 16", "১৬ বছরে স্বর্ণপদক"],
+          ["1891", "Went to Paris / Sorbonne", "প্যারিসে গমন"],
+          ["1893", "First in physical sciences", "পদার্থবিজ্ঞানে প্রথম"],
+          ["1894", "Second in mathematical sciences; met Pierre", "গণিতে দ্বিতীয়; পিয়েরের সঙ্গে পরিচয়"],
+          ["1895", "Marriage to Pierre Curie", "পিয়ের কুরির সঙ্গে বিবাহ"],
+          ["1896", "Becquerel's discovery", "বেকেরেলের আবিষ্কার"],
+          ["1898", "Polonium, then radium", "পোলোনিয়াম, পরে রেডিয়াম"],
+          ["1903", "Doctorate + Nobel Prize (Physics)", "ডক্টরেট ও নোবেল"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "🧪", "t": "physicist ≠ physician", "type": "warn", "d": "physicist = পদার্থবিজ্ঞানী, physician = চিকিৎসক। MCQ-তে এই দুটি প্রায়ই পাশাপাশি option হিসেবে থাকে।" },
+    { "em": "🇵🇱", "t": "polonium-এর নামের গল্প", "d": "মেরি নিজের জন্মভূমি ==Poland==-এর সম্মানে মৌলটির নাম দেন polonium — এটি ছোট প্রশ্নে খুব আসে।" },
+    { "em": "📅", "t": "1903 = দুটি ঘটনা", "d": "একই বছরে ==doctorate== এবং ==Nobel Prize== — একটি লিখে অন্যটি বাদ দিয়ো না।" },
+    { "em": "✍️", "t": "née মানে বিয়ের আগের নাম", "d": "‘Marie Curie, née Maria Sklodowska’ — Curie ছিল স্বামীর পদবি।" },
+    { "em": "🔍", "t": "Table-এ preposition", "d": "‘Where’ কলামে ==in Warsaw==, ==at the Russian lycée== — শুধু ‘Warsaw’ লিখলে অর্ধেক নম্বর কাটা যেতে পারে।" }
+  ],
+
+  "recap": [
+    "১৮৬৭ — ওয়ারশে জন্ম; বাবা মাধ্যমিক স্কুলের শিক্ষক।",
+    "বাবার সঞ্চয় নষ্ট হওয়ায় শিক্ষকতা + গোপনে ‘free university’-তে পড়া।",
+    "নিজের উপার্জনে বোনের ডাক্তারি পড়ার খরচ — শর্ত ছিল পরে বোন সাহায্য করবে।",
+    "১৮৯১ প্যারিস → চিলেকোঠায় বাস → ১৮৯৩ প্রথম, ১৮৯৪ দ্বিতীয়।",
+    "১৮৯৫ বিবাহ → ১৮৯৮ polonium ও radium → ১৯০৩ ডক্টরেট ও নোবেল।"
+  ],
+
+  "homework": [
+    "Passage-টি পড়ে ৯টি সাল ও তার ঘটনা মুখস্থ না করে টেবিল আকারে লিখে আনবে।",
+    "১০টি MCQ-র উত্তর ব্যাখ্যাসহ খাতায় লিখবে।",
+    "Flow chart-টি ৬ ঘরে নিজে সাজিয়ে আনবে।",
+    "Summary ১৩০-১৪০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ]
+}

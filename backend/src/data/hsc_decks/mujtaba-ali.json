@@ -1,0 +1,180 @@
+{
+  "id": "mujtaba-ali",
+  "paper": "paper1",
+  "paperName": "English 1st Paper",
+  "unit": "Extra 02",
+  "unitName": "Travel & Colonial Literature",
+  "lesson": 3,
+  "title": "Syed Mujtaba Ali — Tales of a Voyager",
+  "titleBn": "সৈয়দ মুজতবা আলী — জলে ডাঙায়",
+  "lede": "দুই বিশ্বযুদ্ধের মাঝামাঝি জাহাজে ইউরোপযাত্রা, আর সেই পথে খাবার নিয়ে এক রসিক পর্যবেক্ষণ — বাঙালি, ইংরেজ ও মিশরীয় রান্নার তুলনা, ‘রান্নার তাজমহল’-এর গল্প।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
+    { "t": "Follow the route of the voyage", "d": "India → Sri Lanka → Arabian Sea → coast of Africa → Suez Port → Egypt" },
+    { "t": "Compare three cuisines from the text", "d": "Bengali (৫ স্বাদ), English (২ স্বাদ), Egyptian (Mughlai-ঘনিষ্ঠ)" },
+    { "t": "Read humour and idiom", "d": "‘cannot stomach’, ‘go bananas over’, ‘the Taj Mahal of cooking’" },
+    { "t": "Recognise a translated travelogue", "d": "লেখক মুজতবা আলী, অনুবাদক নাজেস আফরোজ" }
+  ],
+
+  "passage": [
+    {
+      "tag": "Paragraph 1 — The traveller and the voyage",
+      "s": [
+        { "en": "Syed Mujtaba Ali was an ==acclaimed Bengali author, academic and linguist==.", "bn": "সৈয়দ মুজতবা আলী ছিলেন একজন ==প্রশংসিত বাঙালি লেখক, শিক্ষাবিদ ও ভাষাবিজ্ঞানী==।" },
+        { "en": "He was a ==travel enthusiast== and his ==travelogues are regarded as precious gems in our Bangla literature==.", "bn": "তিনি ছিলেন ==ভ্রমণপ্রেমী==, আর তাঁর ==ভ্রমণকাহিনিগুলোকে আমাদের বাংলা সাহিত্যের মূল্যবান রত্ন== হিসেবে গণ্য করা হয়।" },
+        { "en": "At some point of time ==between the two World Wars==, Syed Mujtaba Ali set out ==on a ship from India on a journey to Europe==.", "bn": "==দুই বিশ্বযুদ্ধের মাঝামাঝি== কোনো এক সময়ে সৈয়দ মুজতবা আলী ==ভারত থেকে জাহাজে ইউরোপ যাত্রা== শুরু করেন।" },
+        { "en": "Leaving ==Sri Lanka== behind, he sailed ==across the Arabian Sea, then along the coast of Africa, before crossing the Suez Port==.", "bn": "==শ্রীলঙ্কা== পেছনে ফেলে তিনি ==আরব সাগর পেরিয়ে, তারপর আফ্রিকার উপকূল ধরে, সুয়েজ বন্দর অতিক্রম করেন==।" },
+        { "en": "Syed Mujtaba Ali's time in Egypt was ==punctuated by a number of funny anecdotes==, both about the people and the pyramids.", "bn": "মিশরে কাটানো তাঁর সময়টি ==নানা মজার ঘটনায় ভরা ছিল== — মানুষ ও পিরামিড দুই নিয়েই।" },
+        { "en": "The following excerpt is from his travelogue, ==Tales of a Voyager (Jolay Dangay)==, where he gives a ==charming and insightful description of Egyptian food and language==; ==Nazes Afroz== translates the excerpt.", "bn": "নিচের অংশটি তাঁর ভ্রমণকাহিনি ==Tales of a Voyager (জলে ডাঙায়)== থেকে নেওয়া, যেখানে তিনি ==মিশরীয় খাবার ও ভাষার এক মনোহর ও অন্তর্দৃষ্টিসম্পন্ন বর্ণনা== দিয়েছেন; অংশটি অনুবাদ করেছেন ==নাজেস আফরোজ==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — Five flavours, and only two",
+      "s": [
+        { "en": "==Most Bengali meals consist of five flavours of food — bitter, savoury, hot, sour sides and desserts.==", "bn": "==অধিকাংশ বাঙালি খাবারে থাকে পাঁচ রকম স্বাদ — তেতো, নোনতা, ঝাল, টক পদ এবং মিষ্টি।==" },
+        { "en": "==The English eat only sweet and savoury preparations.==", "bn": "==ইংরেজরা কেবল মিষ্টি ও নোনতা পদই খায়।==" },
+        { "en": "They ==cannot stomach the hot stuff==, and even less the bitter, and possibly ==never even know that bitters could be consumed==.", "bn": "তারা ==ঝাল জিনিস হজম করতে পারে না==, তেতো তো আরও কম, আর সম্ভবত ==তেতো যে খাওয়া যায় তা তারা জানেই না==।" },
+        { "en": "==Hence English cuisine seems bland and tasteless to us.==", "bn": "==তাই ইংরেজ রান্না আমাদের কাছে পানসে ও স্বাদহীন মনে হয়।==" },
+        { "en": "But the English can ==bake good cake-pastry-pudding==, something they ==learned from the Italians==.", "bn": "তবে ইংরেজরা ==ভালো কেক-পেস্ট্রি-পুডিং বানাতে== পারে, যা তারা ==ইতালীয়দের কাছ থেকে শিখেছে==।" },
+        { "en": "In my opinion, ==our sandesh and rasogolla are such delicacies that there is no reason to go bananas over those desserts==.", "bn": "আমার মতে, ==আমাদের সন্দেশ আর রসগোল্লা এমনই উপাদেয় যে ঐসব মিষ্টান্ন নিয়ে মাতামাতি করার কোনো কারণ নেই==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — The Taj Mahal of cooking",
+      "s": [
+        { "en": "==Egyptian cuisine is a close cousin of Indian food of the Mughlai variety.==", "bn": "==মিশরীয় রান্না মোগলাই ঘরানার ভারতীয় খাবারের নিকট আত্মীয়।==" },
+        { "en": "I might not be able to prove the theory, but after tasting food in many countries it is my ==firm belief== that, ==imitating the Taj Mahal of cooking that the Mughals perfected after coming to India==, the people in ==Afghanistan, Iran, the Arab land, Egypt, even Spain== have been trying to ==build their own little Taj of cuisine==.", "bn": "তত্ত্বটি হয়তো প্রমাণ করতে পারব না, তবে বহু দেশের খাবার চেখে দেখে এটি আমার ==দৃঢ় বিশ্বাস== যে, ==ভারতে এসে মোগলরা রান্নার যে তাজমহল নিখুঁত করে তুলেছিলেন তারই অনুকরণে==, ==আফগানিস্তান, ইরান, আরব ভূখণ্ড, মিশর, এমনকি স্পেনের== মানুষ ==নিজেদের ছোট ছোট রান্নার তাজমহল গড়তে== চেষ্টা করেছে।" },
+        { "en": "(One should not forget that ==they could not discover it in their own land as the Indian spices were unavailable in their motherland of Turkestan==.)", "bn": "(ভুললে চলবে না, ==নিজেদের দেশে তাঁরা এটি আবিষ্কার করতে পারেননি, কারণ তাঁদের মাতৃভূমি তুর্কিস্তানে ভারতীয় মশলা পাওয়া যেত না==।)" },
+        { "en": "==The reach of this gastronomy has spread to East Europe's Greece, Hungary, Rumania, Yugoslavia, Albania and even Italy.==", "bn": "==এই রন্ধনশৈলীর বিস্তার পৌঁছেছে পূর্ব ইউরোপের গ্রিস, হাঙ্গেরি, রুমানিয়া, যুগোস্লাভিয়া, আলবেনিয়া, এমনকি ইতালি পর্যন্ত।==" }
+      ]
+    }
+  ],
+
+  "words": [
+    { "w": "acclaimed", "pos": "adj", "pron": "/əˈkleɪmd/", "bn": "প্রশংসিত", "en": "publicly praised", "ex": "an acclaimed Bengali author" },
+    { "w": "linguist", "pos": "noun", "pron": "/ˈlɪŋɡwɪst/", "bn": "ভাষাবিজ্ঞানী", "en": "a person who studies languages", "ex": "an author, academic and linguist" },
+    { "w": "enthusiast", "pos": "noun", "pron": "/ɪnˈθjuːziæst/", "bn": "অনুরাগী, উৎসাহী", "en": "a person who is very interested in something", "ex": "He was a travel enthusiast." },
+    { "w": "travelogue", "pos": "noun", "pron": "/ˈtrævəlɒɡ/", "bn": "ভ্রমণকাহিনি", "en": "a book or film about someone's travels", "ex": "his travelogues are precious gems" },
+    { "w": "excerpt", "pos": "noun", "pron": "/ˈeksɜːpt/", "bn": "নির্বাচিত অংশ", "en": "a short passage taken from a longer work", "ex": "The following excerpt is from his travelogue." },
+    { "w": "anecdote", "pos": "noun", "pron": "/ˈænɪkdəʊt/", "bn": "ছোট মজার ঘটনা", "en": "a short amusing true story", "ex": "punctuated by a number of funny anecdotes" },
+    { "w": "punctuate", "pos": "verb", "pron": "/ˈpʌŋktʃueɪt/", "bn": "মাঝে মাঝে ছেদ ফেলা, ভরে দেওয়া", "en": "to interrupt at intervals", "ex": "his time was punctuated by funny anecdotes" },
+    { "w": "insightful", "pos": "adj", "pron": "/ˈɪnsaɪtfl/", "bn": "অন্তর্দৃষ্টিসম্পন্ন", "en": "showing deep understanding", "ex": "a charming and insightful description" },
+    { "w": "savoury", "pos": "adj", "pron": "/ˈseɪvəri/", "bn": "নোনতা, ঝাঁঝালো (মিষ্টি নয়)", "en": "salty or spicy rather than sweet", "ex": "bitter, savoury, hot, sour sides" },
+    { "w": "cannot stomach", "pos": "phrase", "pron": "/ˈstʌmək/", "bn": "সহ্য/হজম করতে না পারা", "en": "to be unable to accept or tolerate", "ex": "They cannot stomach the hot stuff." },
+    { "w": "bland", "pos": "adj", "pron": "/blænd/", "bn": "পানসে, স্বাদহীন", "en": "without a strong taste", "ex": "English cuisine seems bland and tasteless" },
+    { "w": "cuisine", "pos": "noun", "pron": "/kwɪˈziːn/", "bn": "রন্ধনশৈলী, খাবারের ধরন", "en": "a style of cooking", "ex": "Egyptian cuisine is a close cousin of Indian food." },
+    { "w": "delicacy", "pos": "noun", "pron": "/ˈdelɪkəsi/", "bn": "উপাদেয় খাবার", "en": "a rare and expensive food that tastes very good", "ex": "our sandesh and rasogolla are such delicacies" },
+    { "w": "go bananas over", "pos": "idiom", "pron": "/bəˈnɑːnəz/", "bn": "মাতামাতি করা, পাগল হওয়া", "en": "to become extremely excited about", "ex": "no reason to go bananas over those desserts" },
+    { "w": "imitate", "pos": "verb", "pron": "/ˈɪmɪteɪt/", "bn": "অনুকরণ করা", "en": "to copy someone or something", "ex": "imitating the Taj Mahal of cooking" },
+    { "w": "gastronomy", "pos": "noun", "pron": "/ɡæˈstrɒnəmi/", "bn": "রন্ধনশিল্প, ভালো খাবারের চর্চা", "en": "the art and practice of good eating and cooking", "ex": "The reach of this gastronomy has spread…" }
+  ],
+
+  "synant": [
+    { "w": "acclaimed", "bn": "প্রশংসিত", "syn": ["celebrated", "renowned", "praised"], "ant": ["unknown", "criticised"] },
+    { "w": "enthusiast", "bn": "অনুরাগী", "syn": ["lover", "devotee", "fan"], "ant": ["opponent", "critic"] },
+    { "w": "bland", "bn": "পানসে", "syn": ["tasteless", "insipid", "flavourless"], "ant": ["spicy", "flavourful", "tasty"] },
+    { "w": "delicacy", "bn": "উপাদেয় খাবার", "syn": ["treat", "dainty", "speciality"], "ant": ["staple", "plain fare"] },
+    { "w": "imitate", "bn": "অনুকরণ করা", "syn": ["copy", "emulate", "mimic"], "ant": ["originate", "invent"] },
+    { "w": "insightful", "bn": "অন্তর্দৃষ্টিসম্পন্ন", "syn": ["perceptive", "shrewd", "discerning"], "ant": ["shallow", "superficial"] },
+    { "w": "charming", "bn": "মনোহর", "syn": ["delightful", "engaging", "pleasing"], "ant": ["repellent", "dull"] },
+    { "w": "firm belief", "bn": "দৃঢ় বিশ্বাস", "syn": ["conviction", "certainty"], "ant": ["doubt", "scepticism"] }
+  ],
+
+  "summaryEn": "Syed Mujtaba Ali was an acclaimed Bengali author, academic and linguist, and a travel enthusiast whose travelogues are regarded as precious gems of Bangla literature. Some time between the two World Wars he sailed from India towards Europe, passing Sri Lanka, crossing the Arabian Sea and following the coast of Africa before reaching the Suez Port; his stay in Egypt produced many funny anecdotes about its people and its pyramids. The excerpt, translated by Nazes Afroz, comes from his travelogue Tales of a Voyager and describes Egyptian food and language. He observes that most Bengali meals carry five flavours — bitter, savoury, hot, sour sides and desserts — whereas the English eat only sweet and savoury dishes. They cannot stomach hot food, still less bitter, and probably do not know that bitters can be eaten at all, which is why English cuisine seems bland and tasteless to Bengalis; their one strength, baking cake, pastry and pudding, was learned from the Italians, and in any case sandesh and rasogolla are fine enough that there is no reason to go bananas over such desserts. Egyptian cuisine, he says, is a close cousin of Mughlai Indian food. He cannot prove it, but he firmly believes that the Mughals perfected the \"Taj Mahal of cooking\" only after coming to India, since the spices were unavailable in their native Turkestan, and that Afghanistan, Iran, the Arab lands, Egypt and even Spain have since tried to build their own little Taj of cuisine — a tradition whose reach extends to Greece, Hungary, Rumania, Yugoslavia, Albania and Italy.",
+  "summaryBn": "সৈয়দ মুজতবা আলী ছিলেন প্রশংসিত বাঙালি লেখক, শিক্ষাবিদ ও ভাষাবিজ্ঞানী এবং এমন এক ভ্রমণপ্রেমী যাঁর ভ্রমণকাহিনিগুলো বাংলা সাহিত্যের মূল্যবান রত্ন হিসেবে গণ্য। দুই বিশ্বযুদ্ধের মাঝামাঝি কোনো এক সময়ে তিনি ভারত থেকে জাহাজে ইউরোপের পথে রওনা হন — শ্রীলঙ্কা পেরিয়ে, আরব সাগর অতিক্রম করে, আফ্রিকার উপকূল ধরে সুয়েজ বন্দরে পৌঁছান; মিশরে থাকার সময় সেখানকার মানুষ ও পিরামিড নিয়ে জন্ম নেয় নানা মজার ঘটনা। নাজেস আফরোজের অনুবাদে নেওয়া এই অংশটি তাঁর ভ্রমণকাহিনি Tales of a Voyager থেকে, যেখানে মিশরীয় খাবার ও ভাষার বর্ণনা আছে। তিনি লক্ষ করেন, অধিকাংশ বাঙালি খাবারে থাকে পাঁচ স্বাদ — তেতো, নোনতা, ঝাল, টক পদ ও মিষ্টি — অথচ ইংরেজরা খায় কেবল মিষ্টি ও নোনতা পদ। তারা ঝাল সহ্য করতে পারে না, তেতো তো আরও কম, আর সম্ভবত তেতো যে খাওয়া যায় তা জানেই না; এজন্যই বাঙালির কাছে ইংরেজ রান্না পানসে ও স্বাদহীন লাগে। তাদের একমাত্র কৃতিত্ব কেক-পেস্ট্রি-পুডিং, যা তারা শিখেছে ইতালীয়দের কাছ থেকে; আর যাই হোক, সন্দেশ-রসগোল্লা এমনই উপাদেয় যে ঐসব মিষ্টান্ন নিয়ে মাতামাতির কারণ নেই। তাঁর মতে মিশরীয় রান্না মোগলাই ভারতীয় খাবারের নিকট আত্মীয়। প্রমাণ করতে না পারলেও তাঁর দৃঢ় বিশ্বাস, ভারতে এসেই মোগলরা ‘রান্নার তাজমহল’ নিখুঁত করেছিলেন — কারণ তাঁদের নিজভূমি তুর্কিস্তানে ভারতীয় মশলা মিলত না — আর তারপর থেকে আফগানিস্তান, ইরান, আরব ভূখণ্ড, মিশর, এমনকি স্পেনও নিজেদের ছোট তাজমহল গড়তে চেয়েছে; এই ধারার বিস্তার গ্রিস, হাঙ্গেরি, রুমানিয়া, যুগোস্লাভিয়া, আলবেনিয়া ও ইতালি পর্যন্ত।",
+  "summaryTip": "**হাস্যরসাত্মক লেখার summary-তে ==রসিকতা ব্যাখ্যা করতে যেয়ো না==** — তথ্যটুকু নাও: পাঁচ স্বাদ বনাম দুই স্বাদ, ইতালীয়দের কাছে শেখা, মোগল-তাজমহল তত্ত্ব, বিস্তারের তালিকা।",
+
+  "mcq": [
+    { "q": "Syed Mujtaba Ali was a/an —", "opts": ["musician", "scientist", "author and linguist", "politician"], "ans": 2, "why": "‘an acclaimed Bengali author, academic and linguist’।" },
+    { "q": "What did he do at some point between the two World Wars?", "opts": ["He stayed in India", "He travelled to Europe", "He went to America", "He wrote novels"], "ans": 1, "why": "‘set out on a ship from India on a journey to Europe’।" },
+    { "q": "English cuisine appears bland because —", "opts": ["it uses too much spice", "it is based on Mughal cooking", "it lacks hot and bitter flavours", "it is always served cold"], "ans": 2, "why": "ইংরেজরা কেবল ==মিষ্টি ও নোনতা== খায়; ঝাল ও তেতো নেই বলেই পানসে লাগে।" },
+    { "q": "The book ‘Tales of a Voyager’ was —", "opts": ["written by Nazes Afroz", "written in English by Mujtaba Ali", "written by Mujtaba Ali and translated by Nazes Afroz", "a collection of poems"], "ans": 2, "why": "লেখক ==মুজতবা আলী==, অনুবাদক ==নাজেস আফরোজ== — দুটি ভূমিকা আলাদা।" },
+    { "q": "How many flavours do most Bengali meals consist of?", "opts": ["three", "four", "five", "six"], "ans": 2, "why": "bitter, savoury, hot, sour sides, desserts — ==পাঁচটি==।" },
+    { "q": "The English learned to bake cake, pastry and pudding from the —", "opts": ["Mughals", "Egyptians", "Italians", "Bengalis"], "ans": 2, "why": "‘something they learned from the Italians’।" },
+    { "q": "The phrase ‘cannot stomach’ here means —", "opts": ["cannot digest physically", "cannot tolerate or accept", "cannot cook", "cannot afford"], "ans": 1, "why": "এটি একটি ==বাগধারা== — সহ্য করতে না পারা।" },
+    { "q": "‘There is no reason to go bananas over those desserts’ means the writer —", "opts": ["dislikes all desserts", "thinks our own sweets are just as good", "prefers bananas", "wants more English desserts"], "ans": 1, "why": "সন্দেশ-রসগোল্লা যথেষ্ট উপাদেয়, তাই বিদেশি মিষ্টান্ন নিয়ে ==অতিরিক্ত উচ্ছ্বাসের== দরকার নেই।" },
+    { "q": "Why could the Mughals not perfect their cuisine in their own land?", "opts": ["They had no cooks", "Indian spices were unavailable in Turkestan", "They did not like cooking", "They were always at war"], "ans": 1, "why": "‘the Indian spices were unavailable in their motherland of Turkestan’।" },
+    { "q": "According to the writer, the reach of this gastronomy has spread to —", "opts": ["only Egypt and Iran", "East Europe including Greece, Hungary and Italy", "only Afghanistan", "South America"], "ans": 1, "why": "গ্রিস, হাঙ্গেরি, রুমানিয়া, যুগোস্লাভিয়া, আলবেনিয়া ও ইতালি।" }
+  ],
+
+  "shortQ": [
+    { "q": "Who was Syed Mujtaba Ali and why are his travelogues valued?", "a": "Syed Mujtaba Ali was an acclaimed Bengali author, academic and linguist, and above all a travel enthusiast. His travelogues are regarded as precious gems of our Bangla literature because he did not merely record places and dates: he watched people closely, noticed the small comic details of daily life, and wrote with charm, humour and insight. This excerpt, taken from Tales of a Voyager and translated by Nazes Afroz, shows exactly that — a whole culture explained through its food.", "bn": "সৈয়দ মুজতবা আলী ছিলেন প্রশংসিত বাঙালি লেখক, শিক্ষাবিদ ও ভাষাবিজ্ঞানী এবং সর্বোপরি ভ্রমণপ্রেমী। তাঁর ভ্রমণকাহিনিগুলোকে বাংলা সাহিত্যের মূল্যবান রত্ন গণ্য করা হয়, কারণ তিনি কেবল জায়গা আর তারিখ লিখে যাননি: মানুষকে গভীরভাবে দেখেছেন, দৈনন্দিন জীবনের ছোট ছোট কৌতুককর খুঁটিনাটি লক্ষ করেছেন এবং লিখেছেন মাধুর্য, রসবোধ ও অন্তর্দৃষ্টি নিয়ে। Tales of a Voyager থেকে নেওয়া ও নাজেস আফরোজের অনুবাদ করা এই অংশটিই তার প্রমাণ — খাবারের মধ্য দিয়ে গোটা একটি সংস্কৃতির ব্যাখ্যা।" },
+    { "q": "Describe the route of his voyage.", "a": "He set out on a ship from India, at some point between the two World Wars, on a journey to Europe. Leaving Sri Lanka behind, he sailed across the Arabian Sea, then followed the coast of Africa, and finally crossed the Suez Port. It was in Egypt, on this route, that he gathered the funny anecdotes about the people and the pyramids which fill this part of his travelogue.", "bn": "দুই বিশ্বযুদ্ধের মাঝামাঝি কোনো এক সময়ে তিনি ভারত থেকে জাহাজে ইউরোপের উদ্দেশে যাত্রা করেন। শ্রীলঙ্কা পেছনে ফেলে তিনি আরব সাগর পাড়ি দেন, তারপর আফ্রিকার উপকূল ধরে এগিয়ে শেষে সুয়েজ বন্দর অতিক্রম করেন। এই পথেই মিশরে তিনি সেখানকার মানুষ ও পিরামিড নিয়ে সেই মজার ঘটনাগুলো সংগ্রহ করেন, যেগুলো তাঁর ভ্রমণকাহিনির এই অংশ জুড়ে আছে।" },
+    { "q": "How does the writer compare Bengali food with English food?", "a": "He compares them by counting flavours. Most Bengali meals consist of five — bitter, savoury, hot, sour sides and desserts — while the English eat only sweet and savoury preparations. The English cannot stomach hot food and still less the bitter, and probably never even know that bitters can be eaten; that is why their cuisine seems bland and tasteless to a Bengali palate. He does allow them one skill — they bake good cake, pastry and pudding — but adds, half-teasing, that they learned even that from the Italians, and that our own sandesh and rasogolla are delicacies fine enough that there is no reason to go bananas over foreign desserts.", "bn": "তিনি স্বাদ গুনে তুলনা করেন। অধিকাংশ বাঙালি খাবারে থাকে পাঁচ স্বাদ — তেতো, নোনতা, ঝাল, টক পদ ও মিষ্টি — অথচ ইংরেজরা খায় কেবল মিষ্টি ও নোনতা পদ। ইংরেজরা ঝাল সহ্য করতে পারে না, তেতো তো আরও কম, আর সম্ভবত তেতো যে খাওয়া যায় তা জানেই না; এজন্যই বাঙালির রসনায় তাদের রান্না পানসে ও স্বাদহীন ঠেকে। তবে একটি দক্ষতা তিনি তাদের দেন — তারা ভালো কেক, পেস্ট্রি ও পুডিং বানাতে পারে — কিন্তু আধা-রসিকতা করে যোগ করেন, সেটিও তারা শিখেছে ইতালীয়দের কাছ থেকে; আর আমাদের সন্দেশ-রসগোল্লা এমনই উপাদেয় যে বিদেশি মিষ্টান্ন নিয়ে মাতামাতির কোনো কারণ নেই।" },
+    { "q": "What does the writer mean by ‘the Taj Mahal of cooking’?", "a": "He uses the Taj Mahal as an image of the highest possible achievement in an art. By \"the Taj Mahal of cooking\" he means the perfected Mughlai cuisine, which the Mughals were able to create only after coming to India, because the spices it needs were unavailable in their motherland of Turkestan. His claim is that Afghanistan, Iran, the Arab lands, Egypt and even Spain have all been trying, ever since, to build their own little Taj of cuisine in imitation of it — and that its reach now extends as far as Greece, Hungary, Rumania, Yugoslavia, Albania and Italy.", "bn": "তিনি তাজমহলকে ব্যবহার করেন কোনো শিল্পের সর্বোচ্চ অর্জনের প্রতীক হিসেবে। ‘রান্নার তাজমহল’ বলতে তিনি বোঝান নিখুঁত মোগলাই রন্ধনশৈলী, যা মোগলরা তৈরি করতে পেরেছিলেন কেবল ভারতে আসার পরেই — কারণ এর প্রয়োজনীয় মশলা তাঁদের মাতৃভূমি তুর্কিস্তানে পাওয়া যেত না। তাঁর দাবি, তারপর থেকে আফগানিস্তান, ইরান, আরব ভূখণ্ড, মিশর, এমনকি স্পেনও তার অনুকরণে নিজেদের ছোট ছোট রান্নার তাজমহল গড়তে চেষ্টা করেছে — আর এর বিস্তার এখন গ্রিস, হাঙ্গেরি, রুমানিয়া, যুগোস্লাভিয়া, আলবেনিয়া ও ইতালি পর্যন্ত পৌঁছেছে।" },
+    { "q": "What kind of humour does the writer use in this excerpt?", "a": "His humour is gentle and comes from exaggeration and understatement rather than from mockery. He says the English \"cannot stomach\" hot food and \"possibly never even know that bitters could be consumed\" — a comic overstatement that still carries a real observation. He praises their baking and then immediately takes half the credit away by noting they learned it from the Italians. And in saying there is \"no reason to go bananas over those desserts\", he defends sandesh and rasogolla with the mock seriousness of a man arguing a scholarly point. The result is affectionate teasing, never insult.", "bn": "তাঁর রসিকতা মৃদু এবং তা আসে অতিশয়োক্তি ও সংযত বর্ণনা থেকে, বিদ্রূপ থেকে নয়। তিনি বলেন ইংরেজরা ঝাল খাবার “হজম করতে পারে না” এবং “সম্ভবত তেতো যে খাওয়া যায় তা জানেই না” — এটি কৌতুককর অতিশয়োক্তি, তবু এর ভিতরে একটি সত্যি পর্যবেক্ষণ আছে। তিনি তাদের বেকিংয়ের প্রশংসা করেন, আর সঙ্গে সঙ্গেই অর্ধেক কৃতিত্ব কেড়ে নেন এই বলে যে সেটিও তারা ইতালীয়দের কাছে শিখেছে। আর ‘ঐসব মিষ্টান্ন নিয়ে মাতামাতির কারণ নেই’ বলে তিনি সন্দেশ-রসগোল্লার পক্ষে দাঁড়ান এমন ভানসর্বস্ব গাম্ভীর্যে, যেন পণ্ডিতি তর্ক করছেন। ফলে যা দাঁড়ায় তা স্নেহভরা ঠাট্টা, কখনোই অপমান নয়।" }
+  ],
+
+  "tables": [
+    {
+      "title": "The voyage and the flavours",
+      "headers": ["What / Who", "Event / Activity", "Where / Place", "When / How"],
+      "rows": [
+        ["Syed Mujtaba Ali", "was (i) @an author, academic and linguist", "in Bengal", "and a travel enthusiast"],
+        ["He", "set out on a ship for Europe", "(ii) @from India", "(iii) @between the two World Wars"],
+        ["He", "sailed across the Arabian Sea", "(iv) @leaving Sri Lanka behind", "then along the coast of Africa"],
+        ["He", "crossed (v) @the Suez Port", "before reaching Egypt", "on his way to Europe"],
+        ["Most Bengali meals", "consist of (vi) @five flavours", "in Bengal", "bitter, savoury, hot, sour and sweet"],
+        ["The English", "eat only (vii) @sweet and savoury preparations", "in England", "so their cuisine seems bland"],
+        ["They", "learned to bake cake-pastry-pudding", "(viii) @from the Italians", "as the writer notes"],
+        ["Egyptian cuisine", "is (ix) @a close cousin of Mughlai Indian food", "in Egypt", "according to the writer"],
+        ["The Mughals", "perfected the Taj Mahal of cooking", "after coming to India", "(x) @because Indian spices were unavailable in Turkestan"]
+      ],
+      "note": "স্থান ও দেশের নাম ==হুবহু== লিখবে: Sri Lanka, Arabian Sea, Suez Port, Turkestan।"
+    }
+  ],
+
+  "flow": {
+    "title": "The writer's voyage — লেখকের যাত্রাপথ",
+    "items": [
+      { "t": "Set out on a ship from India", "bn": "ভারত থেকে জাহাজে যাত্রা শুরু (দেওয়া আছে)" },
+      { "t": "Left Sri Lanka behind", "bn": "শ্রীলঙ্কা পেছনে ফেলা" },
+      { "t": "Sailed across the Arabian Sea", "bn": "আরব সাগর পাড়ি" },
+      { "t": "Followed the coast of Africa", "bn": "আফ্রিকার উপকূল ধরে চলা" },
+      { "t": "Crossed the Suez Port", "bn": "সুয়েজ বন্দর অতিক্রম" },
+      { "t": "Reached Egypt and collected funny anecdotes", "bn": "মিশরে পৌঁছে মজার ঘটনা সংগ্রহ" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "Three cuisines at a glance <span class='sub'>— তুলনামূলক প্রশ্নের প্রস্তুত ছক</span>",
+      "key": "Cuisine Chart",
+      "table": {
+        "headers": ["Cuisine", "Flavours / Features", "লেখকের মন্তব্য"],
+        "rows": [
+          ["Bengali", "bitter, savoury, hot, sour sides, desserts (5)", "সবচেয়ে পূর্ণ স্বাদ; সন্দেশ-রসগোল্লা শ্রেষ্ঠ"],
+          ["English", "sweet and savoury only (2)", "পানসে ও স্বাদহীন; বেকিং শিখেছে ইতালীয়দের কাছে"],
+          ["Egyptian", "close cousin of Mughlai Indian food", "‘নিজের ছোট তাজমহল’ গড়ার চেষ্টা"],
+          ["Mughlai", "the ‘Taj Mahal of cooking’", "ভারতে এসেই নিখুঁত — মশলার কারণে"],
+          ["Spread", "Afghanistan, Iran, Arab lands, Egypt, Spain → Greece, Hungary, Rumania, Yugoslavia, Albania, Italy", "রন্ধনশৈলীর বিস্তার"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "🍛", "t": "পাঁচ বনাম দুই", "type": "warn", "d": "বাঙালি ==৫== স্বাদ, ইংরেজ ==২== স্বাদ — এই দুটি সংখ্যা মনে রাখলেই অর্ধেক প্রশ্নের উত্তর হয়ে যায়।" },
+    { "em": "🖋️", "t": "লেখক ≠ অনুবাদক", "d": "লিখেছেন ==Syed Mujtaba Ali==, অনুবাদ করেছেন ==Nazes Afroz== — MCQ-তে বদলে দেওয়া হয়।" },
+    { "em": "🗣️", "t": "দুটি বাগধারা শিখে রাখো", "d": "==cannot stomach== = সহ্য করতে না পারা; ==go bananas over== = মাতামাতি করা।" },
+    { "em": "🕌", "t": "‘Taj Mahal of cooking’ রূপক", "d": "এটি কোনো ভবন নয় — ==রন্ধনশিল্পের সর্বোচ্চ শিখর== বোঝাতে ব্যবহৃত।" },
+    { "em": "🌍", "t": "দুই তালিকা আলাদা", "d": "==অনুকরণকারী==: Afghanistan, Iran, Arab land, Egypt, Spain। ==বিস্তার==: Greece, Hungary, Rumania, Yugoslavia, Albania, Italy।" }
+  ],
+
+  "recap": [
+    "মুজতবা আলী — প্রশংসিত লেখক, শিক্ষাবিদ, ভাষাবিজ্ঞানী ও ভ্রমণপ্রেমী।",
+    "দুই বিশ্বযুদ্ধের মাঝে ভারত → শ্রীলঙ্কা → আরব সাগর → আফ্রিকা উপকূল → সুয়েজ → মিশর।",
+    "বাঙালি খাবারে ৫ স্বাদ; ইংরেজদের কেবল ২ — তাই পানসে; বেকিং শেখা ইতালীয়দের কাছে।",
+    "মিশরীয় রান্না মোগলাই ভারতীয় খাবারের নিকট আত্মীয়।",
+    "‘রান্নার তাজমহল’ ভারতেই নিখুঁত — তুর্কিস্তানে মশলা ছিল না; বিস্তার ইতালি পর্যন্ত।"
+  ],
+
+  "homework": [
+    "তিন রন্ধনশৈলীর তুলনামূলক ছক নিজে বানিয়ে আনবে।",
+    "যাত্রাপথটি মানচিত্রে দেখিয়ে ৬টি ধাপে লিখবে।",
+    "‘cannot stomach’ ও ‘go bananas over’ দিয়ে দুটি করে বাক্য লিখবে।",
+    "Summary ১৪০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ]
+}

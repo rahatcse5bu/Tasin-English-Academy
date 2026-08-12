@@ -6,6 +6,7 @@
  * Ported from the standalone deck engine; keep the two in step.
  */
 import type { Deck, Slide } from './types';
+import { buildLexicon, linkHtml, type Lexicon } from './lexicon';
 
 const BRAND = { name: 'Tasin English Academy', phone: '01722335722' };
 
@@ -25,6 +26,8 @@ function fmt(s: any): string {
     .replace(/`([^`]+)`/g, "<code>$1</code>");
 }
 function bn(s: any) { return '<span class="bn">' + fmt(s) + "</span>"; }
+/** fmt(), plus every vocabulary word turned into a tappable lookup. */
+function fmtV(s: any, lex: Lexicon | null): string { return linkHtml(fmt(s), lex); }
 function chunk(arr: any[], n: number): any[][] {
   var out = [], i;
   for (i = 0; i < arr.length; i += n) out.push(arr.slice(i, i + n));
@@ -104,13 +107,13 @@ function sRoadmap(D: any): any {
   return { kind: "plan", title: "আজকের ক্লাস-প্ল্যান <span class='sub'>/ Lesson Roadmap</span>", key: "Roadmap", html: html, bnTitle: true };
 }
 
-function sPassage(D: any): any[] {
+function sPassage(D: any, lex: Lexicon | null): any[] {
   var out = [];
   (D.passage || []).forEach(function (para, pi) {
     var body = '<div class="passage">' +
       '<div class="para-tag"><i></i>' + esc(para.tag || ("Paragraph " + (pi + 1))) + "</div><p>" +
       (para.s || []).map(function (s, si) {
-        return '<span class="snum">' + (s.no || si + 1) + "</span>" + fmt(s.en);
+        return '<span class="snum">' + (s.no || si + 1) + "</span>" + fmtV(s.en, lex);
       }).join(" ") +
       "</p></div>";
     out.push({
@@ -196,13 +199,13 @@ function sSynAnt(D: any): any[] {
   });
 }
 
-function sSummary(D: any): any[] {
+function sSummary(D: any, lex: Lexicon | null): any[] {
   var out = [];
   if (D.summaryEn || D.summaryBn) {
     var html = '<div class="grid g2 sum-grid">';
     if (D.summaryEn) {
       html += '<div><span class="sum-label">EN — Model Summary <i style="text-transform:none;font-weight:600">(write in ONE paragraph)</i></span>' +
-        '<div class="sum-en">' + fmt(D.summaryEn) + "</div></div>";
+        '<div class="sum-en">' + fmtV(D.summaryEn, lex) + "</div></div>";
     }
     if (D.summaryBn) {
       html += '<div><span class="sum-label bn">বাংলা — অর্থ বুঝে নাও, মুখস্থ করো না</span>' +
@@ -265,33 +268,42 @@ function sShortQ(D: any): any[] {
 }
 
 function sTable(D: any): any[] {
-  if (!D.table) return [];
-  var t = D.table;
-  var html = '<div class="tw"><table class="t"><thead><tr>' +
-    t.headers.map(function (h) { return "<th>" + esc(h) + "</th>"; }).join("") +
-    "</tr></thead><tbody>" +
-    t.rows.map(function (r) {
-      return "<tr>" + r.map(function (c) {
-        var s = String(c == null ? "" : c);
-        /* Everything after the first "@" in a cell is the answer — e.g. "(i) @his people's emancipation".
-           Each blank is its own reveal step, so (i), (ii), (iii) open one after another even when
-           they sit side by side in the same row. */
-        var at = s.indexOf("@");
-        if (at > -1) {
-          return "<td data-rev>" + fmt(s.slice(0, at)) +
-            '<span class="rev-ph">— ? —</span><span class="ans rev-ans inline">' + fmt(s.slice(at + 1)) + "</span></td>";
-        }
-        return "<td>" + fmt(s) + "</td>";
-      }).join("") + "</tr>";
-    }).join("") +
-    "</tbody></table></div>" +
-    '<div class="callout" style="margin-top:12px"><span>🟢</span><div><b>R</b> চেপে (i), (ii), (iii) — একটি করে খালিঘরের উত্তর খোলো। সবুজ লেখাগুলোই তোমার উত্তর। ' +
-    esc(t.note || "খালিঘর পূরণের সময় passage-এর হুবহু শব্দ ব্যবহার করবে, নিজের ভাষায় লিখবে না।") + "</div></div>";
-  return [{
-    kind: "table",
-    title: "২ : Information Transfer <span class='sub'>— টেবিল সমাধান · 10×0.5 = 5</span>",
-    key: "Table", html: html
-  }];
+  /* a chapter may drill several tables; older ones carry a single `table` */
+  var list = (D.tables && D.tables.length ? D.tables : D.table ? [D.table] : []).filter(Boolean);
+  if (!list.length) return [];
+
+  return list.map(function (t: any, ti: number) {
+    var html = '<div class="tw"><table class="t"><thead><tr>' +
+      t.headers.map(function (h: string) { return "<th>" + esc(h) + "</th>"; }).join("") +
+      "</tr></thead><tbody>" +
+      t.rows.map(function (r: string[]) {
+        return "<tr>" + r.map(function (c) {
+          var s = String(c == null ? "" : c);
+          /* Everything after the first "@" in a cell is the answer — e.g. "(i) @his people's emancipation".
+             Each blank is its own reveal step, so (i), (ii), (iii) open one after another even when
+             they sit side by side in the same row. */
+          var at = s.indexOf("@");
+          if (at > -1) {
+            return "<td data-rev>" + fmt(s.slice(0, at)) +
+              '<span class="rev-ph">— ? —</span><span class="ans rev-ans inline">' + fmt(s.slice(at + 1)) + "</span></td>";
+          }
+          return "<td>" + fmt(s) + "</td>";
+        }).join("") + "</tr>";
+      }).join("") +
+      "</tbody></table></div>" +
+      '<div class="callout" style="margin-top:12px"><span>🟢</span><div><b>R</b> চেপে (i), (ii), (iii) — একটি করে খালিঘরের উত্তর খোলো, <b>Shift+R</b> চাপলে শেষটি আবার লুকাবে। ' +
+      esc(t.note || "খালিঘর পূরণের সময় passage-এর হুবহু শব্দ ব্যবহার করবে, নিজের ভাষায় লিখবে না।") + "</div></div>";
+
+    var many = list.length > 1;
+    return {
+      kind: "table",
+      title: "২ : Information Transfer <span class='sub'>— " +
+        (t.title ? esc(t.title) + " · " : "টেবিল সমাধান · ") +
+        (many ? (ti + 1) + "/" + list.length + " · " : "") + "10×0.5 = 5</span>",
+      key: many ? "Table " + (ti + 1) : "Table",
+      html: html
+    };
+  });
 }
 
 function sFlow(D: any): any[] {
@@ -308,7 +320,8 @@ function sFlow(D: any): any[] {
         (b ? '<span class="bn">' + fmt(b) + "</span>" : "") + "</span></div>";
     }).join("") + "</div></div>" +
     '<div class="callout" style="margin-top:14px"><span>🧭</span><div><b>Flow chart rule:</b> ' +
-    "১ নম্বর ঘর দেওয়া থাকে — বাকি ঘরগুলো <b>passage-এর ক্রম অনুসারে</b>, ছোট ছোট phrase-এ (full sentence নয়) লিখতে হবে।</div></div>";
+    "১ নম্বর ঘর দেওয়া থাকে — বাকি ঘরগুলো <b>passage-এর ক্রম অনুসারে</b>, ছোট ছোট phrase-এ (full sentence নয়) লিখতে হবে। " +
+    "<b>R</b> = পরের ঘর, <b>Shift+R</b> = আগেরটি আবার লুকাও।</div></div>";
   return [{
     kind: "flow",
     title: "২ (Or) : Flow Chart <span class='sub'>— ফ্লো-চার্ট সমাধান · 1×5 = 5</span>",
@@ -478,16 +491,18 @@ function sBoard(D: any): any[] {
    ============================================================ */
 function build(D: Deck): Slide[] {
   var s: Slide[] = [];
+  /* the chapter's own vocabulary, so a word in the passage can be tapped */
+  var lex = D.passage ? buildLexicon(D) : null;
   s.push(sCover(D));
   s.push(sRoadmap(D));
   s = s.concat(sRules(D));
   s = s.concat(sBoard(D));
   s = s.concat(sDrill(D));
-  s = s.concat(sPassage(D));
+  s = s.concat(sPassage(D, lex));
   s = s.concat(sTranslation(D));
   s = s.concat(sWords(D));
   s = s.concat(sSynAnt(D));
-  s = s.concat(sSummary(D));
+  s = s.concat(sSummary(D, lex));
   s = s.concat(sMCQ(D));
   s = s.concat(sShortQ(D));
   s = s.concat(sTable(D));

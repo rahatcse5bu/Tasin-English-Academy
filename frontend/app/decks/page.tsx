@@ -30,17 +30,41 @@ function DecksLibrary() {
   const [editing, setEditing] = useState<
     { mode: 'unit' | 'chapter'; unit: DeckUnit; chapter?: ChapterMeta } | null
   >(null);
+  const [bin, setBin] = useState(false); // show removed chapters instead
+  const [busy, setBusy] = useState('');
 
   const reload = () => {
     if (!token) return;
-    api<DeckCatalogue>('/decks', { token }).then(setData).catch(() => setErr(true));
+    api<DeckCatalogue>(bin ? '/decks?deleted=1' : '/decks', { token })
+      .then(setData)
+      .catch(() => setErr(true));
     api<UnitSummary[]>('/decks/units', { token }).then(setUnitList).catch(() => {});
+  };
+
+  /** Hide, remove or bring back one chapter. */
+  const act = async (c: ChapterMeta, what: 'hide' | 'show' | 'remove' | 'restore') => {
+    if (what === 'remove' && !confirm(`"${plain(c.title)}" ক্লাসের তালিকা থেকে সরানো হবে। পরে ফিরিয়ে আনা যাবে।`))
+      return;
+    setBusy(c.id);
+    try {
+      if (what === 'remove') await api(`/decks/${c.id}`, { method: 'DELETE', token: token || undefined });
+      else if (what === 'restore') await api(`/decks/${c.id}/restore`, { method: 'PATCH', token: token || undefined });
+      else
+        await api(`/decks/${c.id}/visible`, {
+          method: 'PATCH',
+          token: token || undefined,
+          body: JSON.stringify({ isPublished: what === 'show' }),
+        });
+      reload();
+    } finally {
+      setBusy('');
+    }
   };
 
   useEffect(() => {
     reload();
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [token]);
+  }, [token, bin]);
 
   const active = data?.papers[paper];
 
@@ -109,6 +133,16 @@ function DecksLibrary() {
         <span className="badge bg-slate-100 text-slate-700">প্রজেক্টর-রেডি</span>
         <span className="badge bg-slate-100 text-slate-700">প্রিন্ট করা যায়</span>
         <span className="badge bg-slate-100 text-slate-700">হোয়াইটবোর্ড</span>
+        {edit && (
+          <button
+            onClick={() => setBin(!bin)}
+            className={`badge transition ${
+              bin ? 'bg-rose-600 text-white' : 'bg-white border border-slate-300 text-slate-600 hover:border-rose-400'
+            }`}
+          >
+            {bin ? '← ক্লাসের তালিকায় ফিরুন' : '🗑 মুছে ফেলা অধ্যায়'}
+          </button>
+        )}
         <button
           onClick={() => setEdit(!edit)}
           className={`badge transition ${
@@ -202,17 +236,50 @@ function DecksLibrary() {
                 {g.chapters.map((c) => (
                   <div key={c.id} className="relative">
                     {edit && (
-                      <button
-                        onClick={() => setEditing({ mode: 'chapter', unit: u, chapter: c })}
-                        className="absolute top-2 right-2 z-10 w-7 h-7 rounded-lg bg-white border border-brand-300 text-brand-700 text-xs shadow-sm hover:bg-brand-50"
-                        title="ইউনিট / লেসন বদলান"
-                      >
-                        ✎
-                      </button>
+                      <div className="absolute top-2 right-2 z-10 flex gap-1">
+                        {bin ? (
+                          <button
+                            onClick={() => act(c, 'restore')}
+                            disabled={busy === c.id}
+                            className="h-7 px-2 rounded-lg bg-white border border-emerald-300 text-emerald-700 text-xs shadow-sm hover:bg-emerald-50"
+                            title="ফিরিয়ে আনুন"
+                          >
+                            ↩ ফিরিয়ে আনুন
+                          </button>
+                        ) : (
+                          <>
+                            <button
+                              onClick={() => setEditing({ mode: 'chapter', unit: u, chapter: c })}
+                              className="w-7 h-7 rounded-lg bg-white border border-brand-300 text-brand-700 text-xs shadow-sm hover:bg-brand-50"
+                              title="ইউনিট / লেসন বদলান"
+                            >
+                              ✎
+                            </button>
+                            <button
+                              onClick={() => act(c, c.hidden ? 'show' : 'hide')}
+                              disabled={busy === c.id}
+                              className="w-7 h-7 rounded-lg bg-white border border-slate-300 text-slate-600 text-xs shadow-sm hover:bg-slate-50"
+                              title={c.hidden ? 'ক্লাসের তালিকায় দেখান' : 'ক্লাসের তালিকা থেকে লুকান'}
+                            >
+                              {c.hidden ? '🙈' : '👁'}
+                            </button>
+                            <button
+                              onClick={() => act(c, 'remove')}
+                              disabled={busy === c.id}
+                              className="w-7 h-7 rounded-lg bg-white border border-rose-300 text-rose-600 text-xs shadow-sm hover:bg-rose-50"
+                              title="অধ্যায়টি সরান"
+                            >
+                              🗑
+                            </button>
+                          </>
+                        )}
+                      </div>
                     )}
                     <Link
                       href={`/decks/${c.id}`}
-                      className="card block h-full hover:border-brand-400 hover:shadow-md transition group"
+                      className={`card block h-full hover:border-brand-400 hover:shadow-md transition group ${
+                        c.hidden || c.deleted ? 'opacity-60 border-dashed' : ''
+                      }`}
                     >
                       <div className="flex items-center gap-2">
                         <span className="text-[11px] font-bold tracking-wide text-slate-400">
@@ -230,6 +297,9 @@ function DecksLibrary() {
                         {plain(c.title)}
                       </div>
                       <div className="mt-1 text-sm text-emerald-700">{plain(c.titleBn)}</div>
+                      {c.hidden && !c.deleted && (
+                        <div className="mt-2 badge bg-slate-100 text-slate-600">লুকানো — ক্লাসের তালিকায় নেই</div>
+                      )}
 
                       <div className="mt-3 pt-3 border-t border-dashed border-slate-200 flex items-center gap-3 text-xs text-slate-500">
                         {c.stats?.kind === 'grammar' ? (

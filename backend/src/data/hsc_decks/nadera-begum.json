@@ -1,0 +1,177 @@
+{
+  "id": "nadera-begum",
+  "paper": "paper1",
+  "paperName": "English 1st Paper",
+  "unit": "Unit 01",
+  "unitName": "People or Institutions Making History",
+  "lesson": 5,
+  "title": "Nadera Begum and Razia Khan Amin — Women Who Broke the Barricades",
+  "titleBn": "নাদেরা বেগম ও রাজিয়া খান আমিন — যাঁরা ব্যারিকেড ভেঙেছিলেন",
+  "lede": "১৯৪৯-এর প্রতিবাদে চতুর্থ শ্রেণির কর্মচারীদের পাশে দাঁড়ানো নাদেরা বেগম, আর কবিতায় ১৯৭১-এর নিষ্ঠুরতা তুলে ধরা রাজিয়া খান আমিন — ঢাকা বিশ্ববিদ্যালয়ের ইংরেজি বিভাগের বহু-প্রজন্মের নারীবাদ।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
+    { "t": "Keep two women's stories apart", "d": "নাদেরা বেগম (১৯৪৯, প্রতিবাদ) ও রাজিয়া খান আমিন (১৯৬২, সাহিত্য)" },
+    { "t": "Read ‘multigenerational feminism’ correctly", "d": "লীলা নাগ → নাদেরা বেগম → রাজিয়া খান — এক ধারাবাহিকতা" },
+    { "t": "Use poetry as evidence", "d": "‘Argus Under Anaesthesia’ ও ‘God in the Goblet’" },
+    { "t": "Complete the table with exact names and years", "d": "1949, 1962, 1971; PEN 1956, Ekushey Padak 1997" }
+  ],
+
+  "passage": [
+    {
+      "tag": "Paragraph 1 — Nadera Begum, 1949",
+      "s": [
+        { "en": "While Leela Nag made headlines during the ==1947 Partition==, ==Nadera Begum==, another student of the Department of English, was making headlines in ==1949==.", "bn": "লীলা নাগ যখন ==১৯৪৭ সালের দেশভাগের== সময় শিরোনামে, ইংরেজি বিভাগের আরেক ছাত্রী ==নাদেরা বেগম== তখন শিরোনামে আসছিলেন ==১৯৪৯== সালে।" },
+        { "en": "Coming from an ==affluent political family==, Nadera Begum was a ==strong Marxist== who was among the ==leading women rebels of her time==.", "bn": "==সচ্ছল রাজনৈতিক পরিবার== থেকে আসা নাদেরা বেগম ছিলেন ==দৃঢ় মার্কসবাদী== এবং ==তাঁর সময়ের অগ্রণী নারী বিদ্রোহীদের== একজন।" },
+        { "en": "In 1949, she was ==expelled from the University of Dhaka for fighting for the rights of the fourth-class employees of the University==.", "bn": "১৯৪৯ সালে ==বিশ্ববিদ্যালয়ের চতুর্থ শ্রেণির কর্মচারীদের অধিকারের জন্য লড়াই করায় তাঁকে ঢাকা বিশ্ববিদ্যালয় থেকে বহিষ্কার করা হয়==।" },
+        { "en": "She was the ==only woman seen standing near Sheikh Mujibur Rahman during those protests==.", "bn": "==ওই প্রতিবাদগুলোর সময় শেখ মুজিবুর রহমানের পাশে দাঁড়ানো একমাত্র নারী== ছিলেন তিনি।" },
+        { "en": "In Cheman Ara's article entitled ==‘The Women who broke the barricades’== (published in ==The Daily Star, Feb 21, 2020==), her name appears with those of ==Hamida Khatun and Nurjahan Murshid==; Nadera Begum was a ==shining example of the multigenerational feminism== that was evident among the women — both students and teachers — of the Department of English.", "bn": "চেমন আরার ==‘The Women who broke the barricades’== শীর্ষক প্রবন্ধে (==দ্য ডেইলি স্টার, ২১ ফেব্রুয়ারি ২০২০==) তাঁর নাম আসে ==হামিদা খাতুন ও নূরজাহান মুর্শিদের== সঙ্গে; নাদেরা বেগম ছিলেন ইংরেজি বিভাগের নারীদের — ছাত্রী ও শিক্ষক উভয়ের — মধ্যে দৃশ্যমান ==বহু-প্রজন্মের নারীবাদের উজ্জ্বল উদাহরণ==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — Razia Khan Amin, scholar and artist",
+      "s": [
+        { "en": "==Razia Khan Amin==, who joined as a ==faculty member of the department in 1962==, showcased her activism ==through her writing and her cultural interests==.", "bn": "==রাজিয়া খান আমিন==, যিনি ==১৯৬২ সালে বিভাগের শিক্ষক হিসেবে== যোগ দেন, তাঁর সক্রিয়তা প্রকাশ করেছেন ==নিজের লেখালেখি ও সাংস্কৃতিক আগ্রহের মধ্য দিয়ে==।" },
+        { "en": "She had completed her ==B.A. and M.A. in English from the Department of English, University of Dhaka==, and proceeded to do her ==M.A. in English from the University of Birmingham on a scholarship from the British Council==.", "bn": "তিনি ==ঢাকা বিশ্ববিদ্যালয়ের ইংরেজি বিভাগ থেকে বিএ ও এমএ== সম্পন্ন করেন এবং পরে ==ব্রিটিশ কাউন্সিলের বৃত্তি নিয়ে বার্মিংহাম বিশ্ববিদ্যালয় থেকে ইংরেজিতে এমএ== করেন।" },
+        { "en": "She was simultaneously an ==educationist, a theatre actor, a journalist, a columnist, a poet and a celebrated writer==.", "bn": "তিনি একই সঙ্গে ছিলেন ==শিক্ষাবিদ, মঞ্চ অভিনেত্রী, সাংবাদিক, কলাম লেখক, কবি ও খ্যাতিমান লেখক==।" },
+        { "en": "Among the prestigious awards she received are the ==PEN Lay Writing Award (1956)==, the ==Pope Gold Medal (1957)==, the ==Bangla Academy Literary Award (1975)==, the ==Ekushey Padak (1997)== and the ==Anannya Literature Award (2003)==.", "bn": "তাঁর পাওয়া মর্যাদাপূর্ণ পুরস্কারগুলোর মধ্যে আছে ==পেন লে রাইটিং অ্যাওয়ার্ড (১৯৫৬)==, ==পোপ স্বর্ণপদক (১৯৫৭)==, ==বাংলা একাডেমি সাহিত্য পুরস্কার (১৯৭৫)==, ==একুশে পদক (১৯৯৭)== এবং ==অনন্যা সাহিত্য পুরস্কার (২০০৩)==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — Poetry as testimony",
+      "s": [
+        { "en": "Amin ==exposes the brutality of the 1971 Liberation War through stark images in her poems==.", "bn": "আমিন ==নিজের কবিতায় নির্মম চিত্রকল্পের মধ্য দিয়ে ১৯৭১ সালের মুক্তিযুদ্ধের নিষ্ঠুরতা উন্মোচন করেন==।" },
+        { "en": "In her poem ==‘Argus Under Anaesthesia’==, she writes: ==“A mother frenzied by the roar of mortars / Throttled her whining infant. / Its life for the life of millions.”==", "bn": "==‘Argus Under Anaesthesia’== কবিতায় তিনি লেখেন: ==“মর্টারের গর্জনে উন্মাদ এক মা / তার কাঁদতে থাকা শিশুকে শ্বাসরোধ করে মারল। / লক্ষ প্রাণের বিনিময়ে একটি প্রাণ।”==" },
+        { "en": "In yet another poem, ==‘God in the Goblet’==, a ==melancholic tone addresses all the martyrs and the intellectuals who were mercilessly killed in 1971==.", "bn": "আরেকটি কবিতা ==‘God in the Goblet’==-এ ==বিষণ্ন সুরে ১৯৭১ সালে নির্মমভাবে নিহত সব শহিদ ও বুদ্ধিজীবীকে সম্বোধন করা হয়==।" },
+        { "en": "References to names address the ==sacrifices of scholars of Bangladesh==; being a scholar herself, Amin had a unique approach to depicting the horror, and she also wrote ==against child marriage and sexual oppression==.", "bn": "নামের উল্লেখগুলো ==বাংলাদেশের পণ্ডিতদের আত্মত্যাগকে== স্মরণ করায়; নিজে পণ্ডিত হওয়ায় সেই ভয়াবহতা চিত্রায়ণে আমিনের ছিল স্বতন্ত্র দৃষ্টিভঙ্গি, আর তিনি লিখেছেন ==বাল্যবিবাহ ও যৌন নিপীড়নের বিরুদ্ধেও==।" }
+      ]
+    }
+  ],
+
+  "words": [
+    { "w": "affluent", "pos": "adj", "pron": "/ˈæfluənt/", "bn": "সচ্ছল, ধনী", "en": "having plenty of money", "ex": "Coming from an affluent political family…" },
+    { "w": "Marxist", "pos": "noun", "pron": "/ˈmɑːksɪst/", "bn": "মার্কসবাদী", "en": "a follower of Karl Marx's political theory", "ex": "Nadera Begum was a strong Marxist." },
+    { "w": "rebel", "pos": "noun", "pron": "/ˈrebl/", "bn": "বিদ্রোহী", "en": "a person who opposes authority", "ex": "among the leading women rebels of her time" },
+    { "w": "expel", "pos": "verb", "pron": "/ɪkˈspel/", "bn": "বহিষ্কার করা", "en": "to officially force someone to leave a school or organisation", "ex": "she was expelled from the University of Dhaka" },
+    { "w": "fourth-class employee", "pos": "noun", "pron": "/fɔːθ klɑːs/", "bn": "চতুর্থ শ্রেণির কর্মচারী", "en": "the lowest-grade staff of an institution", "ex": "the rights of the fourth-class employees" },
+    { "w": "barricade", "pos": "noun", "pron": "/ˈbærɪkeɪd/", "bn": "ব্যারিকেড, প্রতিবন্ধক দেয়াল", "en": "a barrier put up to block a road or protest", "ex": "The Women who broke the barricades" },
+    { "w": "multigenerational", "pos": "adj", "pron": "/ˌmʌltidʒenəˈreɪʃənl/", "bn": "বহু-প্রজন্মব্যাপী", "en": "involving several generations", "ex": "a shining example of multigenerational feminism" },
+    { "w": "faculty member", "pos": "noun", "pron": "/ˈfæklti/", "bn": "শিক্ষক, অনুষদ সদস্য", "en": "a teacher at a university", "ex": "joined as a faculty member in 1962" },
+    { "w": "educationist", "pos": "noun", "pron": "/ˌedʒuˈkeɪʃənɪst/", "bn": "শিক্ষাবিদ", "en": "an expert in education", "ex": "She was simultaneously an educationist…" },
+    { "w": "columnist", "pos": "noun", "pron": "/ˈkɒləmnɪst/", "bn": "কলাম লেখক", "en": "a person who writes a regular newspaper article", "ex": "a journalist, a columnist, a poet" },
+    { "w": "prestigious", "pos": "adj", "pron": "/preˈstɪdʒəs/", "bn": "মর্যাদাপূর্ণ", "en": "respected and admired", "ex": "Among the prestigious awards she received…" },
+    { "w": "brutality", "pos": "noun", "pron": "/bruːˈtæləti/", "bn": "নিষ্ঠুরতা", "en": "cruel and violent behaviour", "ex": "the brutality of the 1971 Liberation War" },
+    { "w": "stark", "pos": "adj", "pron": "/stɑːk/", "bn": "কঠোর, অলংকারহীন", "en": "harsh and plain, with nothing softened", "ex": "through stark images in her poems" },
+    { "w": "frenzied", "pos": "adj", "pron": "/ˈfrenzid/", "bn": "উন্মাদ, উন্মত্ত", "en": "wildly excited or out of control", "ex": "A mother frenzied by the roar of mortars" },
+    { "w": "throttle", "pos": "verb", "pron": "/ˈθrɒtl/", "bn": "শ্বাসরোধ করা", "en": "to strangle", "ex": "Throttled her whining infant" },
+    { "w": "melancholic", "pos": "adj", "pron": "/ˌmelənˈkɒlɪk/", "bn": "বিষণ্ন", "en": "deeply sad", "ex": "a melancholic tone addresses all the martyrs" },
+    { "w": "martyr", "pos": "noun", "pron": "/ˈmɑːtə(r)/", "bn": "শহিদ", "en": "a person killed for a cause or belief", "ex": "addresses all the martyrs and the intellectuals" },
+    { "w": "oppression", "pos": "noun", "pron": "/əˈpreʃn/", "bn": "নিপীড়ন", "en": "cruel and unjust treatment", "ex": "against child marriage and sexual oppression" }
+  ],
+
+  "synant": [
+    { "w": "affluent", "bn": "সচ্ছল", "syn": ["wealthy", "prosperous", "well-off"], "ant": ["poor", "impoverished"] },
+    { "w": "expel", "bn": "বহিষ্কার করা", "syn": ["dismiss", "throw out", "banish"], "ant": ["admit", "enrol"] },
+    { "w": "rebel", "bn": "বিদ্রোহী", "syn": ["dissenter", "insurgent", "nonconformist"], "ant": ["conformist", "loyalist"] },
+    { "w": "prestigious", "bn": "মর্যাদাপূর্ণ", "syn": ["distinguished", "esteemed", "renowned"], "ant": ["obscure", "lowly"] },
+    { "w": "brutality", "bn": "নিষ্ঠুরতা", "syn": ["cruelty", "savagery", "barbarity"], "ant": ["kindness", "mercy"] },
+    { "w": "stark", "bn": "কঠোর, অকপট", "syn": ["harsh", "bleak", "unadorned"], "ant": ["gentle", "ornate"] },
+    { "w": "melancholic", "bn": "বিষণ্ন", "syn": ["sorrowful", "mournful", "gloomy"], "ant": ["cheerful", "joyful"] },
+    { "w": "oppression", "bn": "নিপীড়ন", "syn": ["tyranny", "persecution", "repression"], "ant": ["freedom", "liberation"] }
+  ],
+
+  "summaryEn": "The passage continues the story of the women of the Department of English at the University of Dhaka. While Leela Nag made headlines during the 1947 Partition, Nadera Begum was making them in 1949. She came from an affluent political family, was a strong Marxist and one of the leading women rebels of her time, and in 1949 she was expelled from the University for fighting for the rights of its fourth-class employees; she was the only woman seen standing near Sheikh Mujibur Rahman during those protests. Cheman Ara's article \"The Women who broke the barricades\", published in The Daily Star on 21 February 2020, places her beside Hamida Khatun and Nurjahan Murshid as a shining example of the multigenerational feminism found among both students and teachers of the department. Razia Khan Amin, who joined the department as a faculty member in 1962, expressed her activism through writing and cultural work. She took her BA and MA at Dhaka and a further MA at Birmingham on a British Council scholarship, and was at once an educationist, theatre actor, journalist, columnist, poet and celebrated writer, honoured with the PEN Lay Writing Award, the Pope Gold Medal, the Bangla Academy Literary Award, the Ekushey Padak and the Anannya Literature Award. In poems such as \"Argus Under Anaesthesia\" and \"God in the Goblet\" she exposed the brutality of 1971 through stark images and mourned the martyrs and murdered intellectuals, and she also wrote against child marriage and sexual oppression.",
+  "summaryBn": "এই অংশটি ঢাকা বিশ্ববিদ্যালয়ের ইংরেজি বিভাগের নারীদের গল্প এগিয়ে নেয়। লীলা নাগ যখন ১৯৪৭ সালের দেশভাগের সময় শিরোনামে, নাদেরা বেগম তখন শিরোনামে আসছিলেন ১৯৪৯ সালে। সচ্ছল রাজনৈতিক পরিবার থেকে আসা এই দৃঢ় মার্কসবাদী ছিলেন সময়ের অগ্রণী নারী বিদ্রোহীদের একজন; ১৯৪৯ সালে বিশ্ববিদ্যালয়ের চতুর্থ শ্রেণির কর্মচারীদের অধিকারের জন্য লড়াই করায় তাঁকে বহিষ্কার করা হয়, আর ওই প্রতিবাদগুলোতে শেখ মুজিবুর রহমানের পাশে দাঁড়ানো একমাত্র নারী ছিলেন তিনিই। ২১ ফেব্রুয়ারি ২০২০-এ দ্য ডেইলি স্টারে প্রকাশিত চেমন আরার ‘The Women who broke the barricades’ প্রবন্ধে তাঁকে হামিদা খাতুন ও নূরজাহান মুর্শিদের পাশে রেখে বিভাগের ছাত্রী ও শিক্ষকদের মধ্যকার বহু-প্রজন্মের নারীবাদের উজ্জ্বল উদাহরণ বলা হয়েছে। ১৯৬২ সালে বিভাগে শিক্ষক হিসেবে যোগ দেওয়া রাজিয়া খান আমিন তাঁর সক্রিয়তা প্রকাশ করেছেন লেখালেখি ও সাংস্কৃতিক কাজে। ঢাকায় বিএ ও এমএ এবং ব্রিটিশ কাউন্সিলের বৃত্তিতে বার্মিংহামে আরেকটি এমএ করা এই নারী একই সঙ্গে ছিলেন শিক্ষাবিদ, মঞ্চ অভিনেত্রী, সাংবাদিক, কলাম লেখক, কবি ও খ্যাতিমান লেখক; পেয়েছেন পেন লে রাইটিং অ্যাওয়ার্ড, পোপ স্বর্ণপদক, বাংলা একাডেমি সাহিত্য পুরস্কার, একুশে পদক ও অনন্যা সাহিত্য পুরস্কার। ‘Argus Under Anaesthesia’ ও ‘God in the Goblet’-এর মতো কবিতায় তিনি নির্মম চিত্রকল্পে ১৯৭১-এর নিষ্ঠুরতা উন্মোচন করেছেন, শহিদ ও নিহত বুদ্ধিজীবীদের জন্য শোক জানিয়েছেন এবং বাল্যবিবাহ ও যৌন নিপীড়নের বিরুদ্ধেও লিখেছেন।",
+  "summaryTip": "**দুই নারীকে ==আলাদা অনুচ্ছেদে== রাখো:** প্রথমে নাদেরা বেগম (১৯৪৯, প্রতিবাদ, বহিষ্কার), তারপর রাজিয়া খান আমিন (১৯৬২, সাহিত্য, পুরস্কার, কবিতা)। পাঁচটি পুরস্কারের নাম দরকার নেই — দুটিই যথেষ্ট।",
+
+  "mcq": [
+    { "q": "The term ‘Marxist’ refers to —", "opts": ["a follower of Adam Smith", "a follower of Vladimir Lenin", "a follower of Karl Marx", "a follower of Mahatma Gandhi"], "ans": 2, "why": "Marx + -ist = কার্ল মার্কসের অনুসারী।" },
+    { "q": "Why was Nadera Begum expelled from the University of Dhaka?", "opts": ["for failing her examinations", "for fighting for the rights of the fourth-class employees", "for joining a political party", "for writing against the government"], "ans": 1, "why": "‘expelled… for fighting for the rights of the fourth-class employees of the University’।" },
+    { "q": "Nadera Begum was the only woman seen standing near —", "opts": ["Sheikh Mujibur Rahman", "Leela Nag", "Cheman Ara", "Razia Khan Amin"], "ans": 0, "why": "১৯৪৯-এর প্রতিবাদে শেখ মুজিবুর রহমানের পাশে।" },
+    { "q": "The article ‘The Women who broke the barricades’ was written by —", "opts": ["Razia Khan Amin", "Cheman Ara", "Nurjahan Murshid", "Hamida Khatun"], "ans": 1, "why": "চেমন আরার লেখা, The Daily Star, ২১ ফেব্রুয়ারি ২০২০।" },
+    { "q": "‘Multigenerational feminism’ in the passage means feminism —", "opts": ["practised only by students", "passed on across several generations of women", "limited to one family", "invented in 2020"], "ans": 1, "why": "লীলা নাগ → নাদেরা বেগম → রাজিয়া খান — ==প্রজন্ম থেকে প্রজন্মে== ধারাবাহিকতা।" },
+    { "q": "Razia Khan Amin joined the Department of English as a faculty member in —", "opts": ["1949", "1956", "1962", "1975"], "ans": 2, "why": "‘who joined as a faculty member of the department in 1962’।" },
+    { "q": "Razia Khan Amin did her second M.A. at Birmingham on a scholarship from —", "opts": ["the University of Dhaka", "the British Council", "Bangla Academy", "the Government of Pakistan"], "ans": 1, "why": "‘on a scholarship from the British Council’।" },
+    { "q": "Which award did Razia Khan Amin receive in 1997?", "opts": ["PEN Lay Writing Award", "Pope Gold Medal", "Bangla Academy Literary Award", "Ekushey Padak"], "ans": 3, "why": "PEN 1956, Pope 1957, Bangla Academy 1975, ==Ekushey Padak 1997==, Anannya 2003।" },
+    { "q": "In ‘Argus Under Anaesthesia’, the mother throttles her infant because —", "opts": ["she is cruel by nature", "its crying could betray many others hiding", "she is ill", "she wants to escape alone"], "ans": 1, "why": "‘Its life for the life of millions’ — একটি প্রাণের বিনিময়ে বহু প্রাণ বাঁচানো।" },
+    { "q": "The tone of the poem ‘God in the Goblet’ is —", "opts": ["humorous", "melancholic", "angry", "hopeful"], "ans": 1, "why": "‘a melancholic tone addresses all the martyrs and the intellectuals’।" }
+  ],
+
+  "shortQ": [
+    { "q": "Who was Nadera Begum and why is she remembered?", "a": "Nadera Begum was a student of the Department of English at the University of Dhaka who came from an affluent political family and was a strong Marxist, counted among the leading women rebels of her time. She is remembered because in 1949 she was expelled from the University for fighting for the rights of its fourth-class employees, and because she was the only woman seen standing near Sheikh Mujibur Rahman during those protests. Cheman Ara's article names her as a shining example of the multigenerational feminism of the department.", "bn": "নাদেরা বেগম ছিলেন ঢাকা বিশ্ববিদ্যালয়ের ইংরেজি বিভাগের ছাত্রী, সচ্ছল রাজনৈতিক পরিবার থেকে আসা দৃঢ় মার্কসবাদী এবং সময়ের অগ্রণী নারী বিদ্রোহীদের একজন। তাঁকে মনে রাখা হয় কারণ ১৯৪৯ সালে বিশ্ববিদ্যালয়ের চতুর্থ শ্রেণির কর্মচারীদের অধিকারের জন্য লড়াই করায় তাঁকে বহিষ্কার করা হয়, আর ওই প্রতিবাদগুলোতে শেখ মুজিবুর রহমানের পাশে দাঁড়ানো একমাত্র নারী ছিলেন তিনি। চেমন আরার প্রবন্ধে তাঁকে বিভাগের বহু-প্রজন্মের নারীবাদের উজ্জ্বল উদাহরণ বলা হয়েছে।" },
+    { "q": "What does ‘multigenerational feminism’ mean in the context of the passage?", "a": "It means a feminism that did not belong to one woman or one moment but was handed on from one generation of the department's women to the next. Leela Nag made headlines in 1947, Nadera Begum in 1949, and Razia Khan Amin joined as a teacher in 1962 — students and teachers alike, each continuing the work in her own way, through admission, protest and finally literature. The phrase matters because it shows that the department produced not isolated exceptions but a tradition.", "bn": "এর অর্থ এমন এক নারীবাদ যা কোনো একজন নারীর বা একটি মুহূর্তের নয়, বরং বিভাগের এক প্রজন্মের নারীদের কাছ থেকে পরের প্রজন্মে হস্তান্তরিত হয়েছে। লীলা নাগ শিরোনামে আসেন ১৯৪৭-এ, নাদেরা বেগম ১৯৪৯-এ, আর রাজিয়া খান আমিন শিক্ষক হিসেবে যোগ দেন ১৯৬২-তে — ছাত্রী ও শিক্ষক উভয়েই, প্রত্যেকে নিজের মতো করে কাজটি এগিয়ে নিয়েছেন: ভর্তি, প্রতিবাদ এবং শেষে সাহিত্যের মধ্য দিয়ে। কথাটি গুরুত্বপূর্ণ কারণ এতে বোঝা যায়, বিভাগটি বিচ্ছিন্ন ব্যতিক্রম নয়, একটি ঐতিহ্য তৈরি করেছিল।" },
+    { "q": "How did Razia Khan Amin express her activism?", "a": "She expressed it through her writing and her cultural interests rather than on the street. She was at once an educationist, a theatre actor, a journalist, a columnist, a poet and a celebrated writer, and she used all of these to speak. In her poems she exposed the brutality of the 1971 Liberation War through stark images, mourned the martyrs and the intellectuals who were mercilessly killed, and wrote against child marriage and sexual oppression. Being a scholar herself, she brought a unique approach to depicting that horror.", "bn": "তিনি সক্রিয়তা প্রকাশ করেছেন রাজপথে নয়, নিজের লেখালেখি ও সাংস্কৃতিক আগ্রহের মধ্য দিয়ে। তিনি একই সঙ্গে ছিলেন শিক্ষাবিদ, মঞ্চ অভিনেত্রী, সাংবাদিক, কলাম লেখক, কবি ও খ্যাতিমান লেখক — এবং কথা বলতে এই সবকটিকেই কাজে লাগিয়েছেন। কবিতায় তিনি নির্মম চিত্রকল্পে ১৯৭১ সালের মুক্তিযুদ্ধের নিষ্ঠুরতা উন্মোচন করেছেন, নির্মমভাবে নিহত শহিদ ও বুদ্ধিজীবীদের জন্য শোক জানিয়েছেন এবং বাল্যবিবাহ ও যৌন নিপীড়নের বিরুদ্ধে লিখেছেন। নিজে পণ্ডিত হওয়ায় সেই ভয়াবহতা চিত্রায়ণে তাঁর দৃষ্টিভঙ্গি ছিল স্বতন্ত্র।" },
+    { "q": "Explain the lines from ‘Argus Under Anaesthesia’.", "a": "The lines are: \"A mother frenzied by the roar of mortars / Throttled her whining infant. / Its life for the life of millions.\" They describe an unbearable choice during the 1971 war. A mother hiding with others hears the mortars; her baby is crying, and the cry will reveal where everyone is. Driven out of her senses by terror, she silences the child for ever. The last line refuses to judge her — one life was given so that millions might live. The image is deliberately stark, because the poet wants the reader to feel the brutality of the war rather than merely be told about it.", "bn": "পঙ্‌ক্তিগুলো হলো: “মর্টারের গর্জনে উন্মাদ এক মা / তার কাঁদতে থাকা শিশুকে শ্বাসরোধ করে মারল। / লক্ষ প্রাণের বিনিময়ে একটি প্রাণ।” এতে ১৯৭১ সালের যুদ্ধের এক অসহনীয় সিদ্ধান্তের ছবি আঁকা হয়েছে। অন্যদের সঙ্গে লুকিয়ে থাকা এক মা মর্টারের শব্দ শোনেন; তাঁর শিশু কাঁদছে, আর সেই কান্নাই জানিয়ে দেবে সবাই কোথায় আছে। আতঙ্কে হতবুদ্ধি হয়ে তিনি শিশুটিকে চিরতরে নিস্তব্ধ করে দেন। শেষ পঙ্‌ক্তিটি তাঁকে বিচার করতে অস্বীকার করে — লক্ষ মানুষ যেন বাঁচে, সেজন্য একটি প্রাণ দেওয়া হলো। চিত্রকল্পটি ইচ্ছাকৃতভাবে নির্মম, কারণ কবি চান পাঠক যুদ্ধের নিষ্ঠুরতা কেবল জানুক না, অনুভব করুক।" },
+    { "q": "What do the two women together tell us about the Department of English?", "a": "Together they show that the department was never only a place of study. Nadera Begum used it as a base for direct political action and paid for it with expulsion; Razia Khan Amin used it as a base for scholarship, teaching and literature, and won the Ekushey Padak among many honours. One broke barricades in the street, the other in print. Their two careers, along with Leela Nag's before them, explain why the passage calls the department a home of multigenerational feminism and progressive, liberal ideas.", "bn": "দুজনে মিলে দেখান, বিভাগটি কখনোই কেবল পড়াশোনার জায়গা ছিল না। নাদেরা বেগম একে সরাসরি রাজনৈতিক কর্মকাণ্ডের ঘাঁটি হিসেবে ব্যবহার করেছেন এবং তার মূল্য দিয়েছেন বহিষ্কারের মধ্য দিয়ে; রাজিয়া খান আমিন একে ব্যবহার করেছেন পাণ্ডিত্য, শিক্ষকতা ও সাহিত্যের ভিত্তি হিসেবে এবং বহু সম্মাননার মধ্যে পেয়েছেন একুশে পদক। একজন ব্যারিকেড ভেঙেছেন রাজপথে, অন্যজন ছাপার অক্ষরে। তাঁদের আগে লীলা নাগসহ এই দুই কর্মজীবনই ব্যাখ্যা করে কেন প্যাসেজে বিভাগটিকে বহু-প্রজন্মের নারীবাদ এবং প্রগতিশীল ও উদার ভাবনার আবাস বলা হয়েছে।" }
+  ],
+
+  "tables": [
+    {
+      "title": "Two women of the Department of English",
+      "headers": ["Who / What", "Event / Activity", "Where / Whom", "When / Why"],
+      "rows": [
+        ["Nadera Begum", "(i) @was expelled from the University", "the University of Dhaka", "(ii) @in 1949"],
+        ["She", "fought for the rights of", "(iii) @the fourth-class employees", "of the University"],
+        ["She", "was the only woman seen standing near", "(iv) @Sheikh Mujibur Rahman", "(v) @during those protests"],
+        ["Cheman Ara", "wrote (vi) @‘The Women who broke the barricades’", "in The Daily Star", "(vii) @on Feb 21, 2020"],
+        ["Razia Khan Amin", "joined as a faculty member", "of the Department of English", "(viii) @in 1962"],
+        ["She", "did her second M.A.", "(ix) @at the University of Birmingham", "on a scholarship from the British Council"],
+        ["She", "exposed the brutality of the Liberation War", "(x) @through stark images in her poems", "of 1971"]
+      ],
+      "note": "সাল আলাদা রেখো — ==1947== দেশভাগ, ==1949== বহিষ্কার, ==1962== শিক্ষকতা, ==1971== মুক্তিযুদ্ধ।"
+    }
+  ],
+
+  "flow": {
+    "title": "Women of the department across generations — প্রজন্ম পেরিয়ে",
+    "items": [
+      { "t": "Leela Nag makes headlines during the 1947 Partition", "bn": "১৯৪৭-এর দেশভাগে লীলা নাগ (দেওয়া আছে)" },
+      { "t": "Nadera Begum fights for fourth-class employees (1949)", "bn": "১৯৪৯-এ চতুর্থ শ্রেণির কর্মচারীদের পক্ষে লড়াই" },
+      { "t": "She is expelled, yet stands beside Sheikh Mujibur Rahman", "bn": "বহিষ্কৃত, তবু শেখ মুজিবের পাশে" },
+      { "t": "Razia Khan Amin joins the department as a teacher (1962)", "bn": "১৯৬২-তে রাজিয়া খান আমিনের শিক্ষকতা শুরু" },
+      { "t": "She exposes the brutality of 1971 in her poems", "bn": "কবিতায় ১৯৭১-এর নিষ্ঠুরতা উন্মোচন" },
+      { "t": "She wins the Ekushey Padak and other honours", "bn": "একুশে পদকসহ নানা সম্মাননা লাভ" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "Awards of Razia Khan Amin <span class='sub'>— সাল-সহ মনে রাখো</span>",
+      "key": "Award Bank",
+      "table": {
+        "headers": ["Award", "Year", "বাংলা"],
+        "rows": [
+          ["PEN Lay Writing Award", "1956", "পেন লে রাইটিং অ্যাওয়ার্ড"],
+          ["Pope Gold Medal", "1957", "পোপ স্বর্ণপদক"],
+          ["Bangla Academy Literary Award", "1975", "বাংলা একাডেমি সাহিত্য পুরস্কার"],
+          ["Ekushey Padak", "1997", "একুশে পদক"],
+          ["Anannya Literature Award", "2003", "অনন্যা সাহিত্য পুরস্কার"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "👥", "t": "দুজনকে গুলিয়ে ফেলো না", "type": "warn", "d": "==নাদেরা বেগম== = ১৯৪৯, প্রতিবাদ, বহিষ্কার। ==রাজিয়া খান আমিন== = ১৯৬২, শিক্ষকতা, কবিতা, পুরস্কার।" },
+    { "em": "📰", "t": "প্রবন্ধের তথ্য", "d": "লেখক ==Cheman Ara==, পত্রিকা ==The Daily Star==, তারিখ ==21 Feb 2020== — MCQ-তে তিনটিই আসতে পারে।" },
+    { "em": "📜", "t": "দুই কবিতার নাম", "d": "==Argus Under Anaesthesia== (মা ও শিশু) এবং ==God in the Goblet== (শহিদ ও বুদ্ধিজীবী)।" },
+    { "em": "🎓", "t": "দুটি এমএ", "d": "প্রথমটি ==ঢাকা==, দ্বিতীয়টি ==বার্মিংহাম==, বৃত্তি দিয়েছিল ==British Council==।" },
+    { "em": "✍️", "t": "কবিতা উদ্ধৃত করলে", "d": "পঙ্‌ক্তি হুবহু লিখে তারপর ==এক বাক্যে ব্যাখ্যা== দাও — শুধু উদ্ধৃতি দিলে নম্বর পুরো মেলে না।" }
+  ],
+
+  "recap": [
+    "নাদেরা বেগম — সচ্ছল রাজনৈতিক পরিবার, দৃঢ় মার্কসবাদী, অগ্রণী নারী বিদ্রোহী।",
+    "১৯৪৯ — চতুর্থ শ্রেণির কর্মচারীদের অধিকারের জন্য লড়ে বহিষ্কৃত; মুজিবের পাশে একমাত্র নারী।",
+    "Cheman Ara-র ‘The Women who broke the barricades’ (Daily Star, 21 Feb 2020)।",
+    "রাজিয়া খান আমিন — ১৯৬২-তে শিক্ষক; ঢাকা ও বার্মিংহামে এমএ; বহুমুখী প্রতিভা।",
+    "কবিতায় ১৯৭১-এর নিষ্ঠুরতা; পুরস্কার — PEN 1956, Ekushey Padak 1997 প্রভৃতি।"
+  ],
+
+  "homework": [
+    "দুই নারীর তথ্য দুই কলামে আলাদা করে লিখে আনবে।",
+    "‘Argus Under Anaesthesia’-র পঙ্‌ক্তিগুলো ব্যাখ্যা করে ৬ বাক্যে লিখবে।",
+    "টেবিলের (i)–(x) নিজে পূরণ করবে।",
+    "Summary ১৪০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ]
+}

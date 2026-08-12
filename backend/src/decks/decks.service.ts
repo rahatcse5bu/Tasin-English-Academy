@@ -4,13 +4,19 @@ import { Model } from 'mongoose';
 import { Deck as DeckContent, DECKS, MANIFEST } from './decks.data';
 import { Deck as DeckDoc, DeckDocument } from './schemas/deck.schema';
 import { seedDecks } from './decks.seed';
-import { PlacementDto, UnitDto } from './decks.dto';
+import { ContentDto, PlacementDto, UnitDto } from './decks.dto';
 
 /**
  * How many things a mentor can actually teach from this chapter.
  * Passage lessons and grammar lessons advertise different numbers, so the
  * catalogue cards can show something meaningful for both.
  */
+/** A chapter may carry one legacy `table` or several in `tables`. */
+function allTables(d: DeckContent): { headers: string[]; rows: string[][] }[] {
+  if (d.tables && d.tables.length) return d.tables;
+  return d.table ? [d.table] : [];
+}
+
 function stats(d: DeckContent) {
   if (d.rules) {
     return {
@@ -27,6 +33,7 @@ function stats(d: DeckContent) {
     words: (d.words || []).length,
     mcq: (d.mcq || []).length,
     shortQ: (d.shortQ || []).length,
+    tables: allTables(d).length,
   };
 }
 
@@ -37,11 +44,8 @@ function answerCount(d: DeckContent): number {
   n += (d.shortQ || []).length;
   n += (d.drills || []).reduce((s, x) => s + x.items.length, 0);
   n += d.boardQ ? d.boardQ.items.length : 0;
-  if (d.table) {
-    n += d.table.rows.reduce(
-      (s, row) => s + row.filter((c) => String(c ?? '').includes('@')).length,
-      0,
-    );
+  for (const t of allTables(d)) {
+    n += t.rows.reduce((s, row) => s + row.filter((c) => String(c ?? '').includes('@')).length, 0);
   }
   if (d.flow) n += Math.max(0, d.flow.items.length - 1); // box 1 is given
   return n;
@@ -66,16 +70,22 @@ export class DecksService implements OnModuleInit {
     }
   }
 
-  private async published() {
+  /**
+   * Every chapter a mentor may see. The whole /decks section is staff-only, so
+   * hidden chapters are included and flagged rather than filtered out — a
+   * chapter you cannot see is a chapter you cannot un-hide. Deleted ones are
+   * excluded unless explicitly asked for.
+   */
+  private async published(opts: { deleted?: boolean } = {}) {
     return this.model
-      .find({ isPublished: true })
+      .find({ isDeleted: opts.deleted ? true : { $ne: true } })
       .sort({ paperOrder: 1, unitOrder: 1, lessonNo: 1, order: 1 })
       .lean();
   }
 
   /** The library: papers → units → chapters, each with teaching counts. */
-  async catalogue() {
-    const docs = await this.published();
+  async catalogue(deleted = false) {
+    const docs = await this.published({ deleted });
 
     const papers: any[] = [];
     for (const d of docs) {
@@ -115,6 +125,8 @@ export class DecksService implements OnModuleInit {
         lessonName: d.lessonName ?? null,
         order: d.order,
         available: true,
+        hidden: d.isPublished === false,
+        deleted: d.isDeleted === true,
         minutes: d.minutes ?? null,
         marks: d.marks ?? null,
         answers: answerCount(content),
@@ -147,7 +159,7 @@ export class DecksService implements OnModuleInit {
 
   /** The full teaching content of one chapter. */
   async get(id: string): Promise<DeckContent> {
-    const d = await this.model.findOne({ slug: id, isPublished: true }).lean();
+    const d = await this.model.findOne({ slug: id, isDeleted: { $ne: true } }).lean();
     if (!d) {
       // a chapter can exist in the bundle but not yet in the DB (fresh deploy)
       if (DECKS[id]) return DECKS[id];
@@ -318,6 +330,184 @@ export class DecksService implements OnModuleInit {
 
     this.logger.log(`unit: ${dto.unitNo} "${dto.unitName}" → ${set.unitNo ?? dto.unitNo} (${modifiedCount} chapters)`);
     return { chapters: modifiedCount, unitNo: set.unitNo ?? dto.unitNo };
+  }
+
+  /* ------------------------------------------------------------------
+     Content editing — a mentor adds questions, table rows, a summary
+     ------------------------------------------------------------------ */
+
+  /**
+   * Replace the sections a mentor maintains: short questions, MCQ, the
+   * information-transfer table and the summary (English + Bangla).
+   *
+   * Only the keys present in the request are touched — the passage, the
+   * sentence-wise Bangla and the vocabulary stay exactly as they were, since
+   * those are transcribed from the book and are not a mentor's to change here.
+   * Sending an empty array for a section clears it.
+   */
+  async setContent(slug: string, dto: ContentDto) {
+    const deck: any = await this.model.findOne({ slug });
+    if (!deck) throw new NotFoundException('Deck not found');
+
+    const content = { ...(deck.content as any) };
+    const text = (v?: string) => (v === undefined ? undefined : v.trim());
+
+    for (const k of ['summaryEn', 'summaryBn', 'summaryTip'] as const) {
+      const v = text(dto[k]);
+      if (v === undefined) continue;
+      v ? (content[k] = v) : delete content[k];
+    }
+
+    if (dto.shortQ) {
+      content.shortQ = dto.shortQ.map((x) => ({
+        q: x.q.trim(),
+        a: x.a.trim(),
+        ...(x.bn?.trim() ? { bn: x.bn.trim() } : {}),
+      }));
+      if (!content.shortQ.length) delete content.shortQ;
+    }
+
+    if (dto.mcq) {
+      content.mcq = dto.mcq.map((x) => ({
+        q: x.q.trim(),
+        opts: x.opts.map((o) => String(o).trim()),
+        // a correct index past the end of the option list would hide the answer
+        ans: Math.min(x.ans, x.opts.length - 1),
+        ...(x.why?.trim() ? { why: x.why.trim() } : {}),
+      }));
+      if (!content.mcq.length) delete content.mcq;
+    }
+
+    if (dto.tables) {
+      const tables = dto.tables
+        .map((t) => {
+          const headers = t.headers.map((h) => String(h).trim());
+          const rows = (t.rows || [])
+            // pad/trim so every row lines up with the header count
+            .map((r) => headers.map((_, i) => String((r as any)?.[i] ?? '').trim()))
+            .filter((r) => r.some(Boolean));
+          return {
+            ...(t.title?.trim() ? { title: t.title.trim() } : {}),
+            headers,
+            rows,
+            ...(t.note?.trim() ? { note: t.note.trim() } : {}),
+          };
+        })
+        .filter((t) => t.rows.length);
+
+      // one shape from here on; the legacy single `table` is folded in
+      delete content.table;
+      if (tables.length) content.tables = tables;
+      else delete content.tables;
+    }
+
+    if (dto.passage) {
+      content.passage = dto.passage
+        .map((p) => ({
+          tag: p.tag?.trim() || '',
+          s: (p.s || [])
+            .filter((x) => x.en?.trim())
+            .map((x) => ({
+              en: x.en.trim(),
+              bn: (x.bn || '').trim(),
+              ...(x.no ? { no: x.no } : {}),
+            })),
+        }))
+        .filter((p) => p.s.length);
+      if (!content.passage.length) delete content.passage;
+    }
+
+    if (dto.words) {
+      content.words = dto.words
+        .filter((w) => w.w?.trim())
+        .map((w) => ({
+          w: w.w.trim(),
+          ...(w.pos?.trim() ? { pos: w.pos.trim() } : {}),
+          ...(w.pron?.trim() ? { pron: w.pron.trim() } : {}),
+          ...(w.bn?.trim() ? { bn: w.bn.trim() } : {}),
+          ...(w.en?.trim() ? { en: w.en.trim() } : {}),
+          ...(w.ex?.trim() ? { ex: w.ex.trim() } : {}),
+        }));
+      if (!content.words.length) delete content.words;
+    }
+
+    if (dto.synant) {
+      const list = (a?: string[]) => (a || []).map((x) => String(x).trim()).filter(Boolean);
+      content.synant = dto.synant
+        .filter((x) => x.w?.trim())
+        .map((x) => ({
+          w: x.w.trim(),
+          ...(x.bn?.trim() ? { bn: x.bn.trim() } : {}),
+          syn: list(x.syn),
+          ant: list(x.ant),
+        }));
+      if (!content.synant.length) delete content.synant;
+    }
+
+    if (dto.flow) {
+      const items = (dto.flow.items || [])
+        .filter((x) => x.t?.trim())
+        .map((x) => ({ t: x.t.trim(), ...(x.bn?.trim() ? { bn: x.bn.trim() } : {}) }));
+      if (items.length >= 2) {
+        content.flow = { title: dto.flow.title?.trim() || content.flow?.title || '', items };
+      } else {
+        delete content.flow;
+      }
+    }
+
+    deck.content = content;
+    deck.markModified('content'); // Mixed: mongoose cannot see inside it
+    deck.contentLocked = true; // survive the next re-seed
+    await deck.save();
+
+    this.logger.log(
+      `content: ${slug} — ${(content.shortQ || []).length} shortQ, ${(content.mcq || []).length} MCQ, ` +
+        `${(content.tables || []).length} tables`,
+    );
+    return { slug, stats: stats(content), answers: answerCount(content) };
+  }
+
+  /* ------------------------------------------------------------------
+     Hiding and removing a chapter
+     ------------------------------------------------------------------ */
+
+  /** Take a chapter out of the class list, or put it back. */
+  async setVisible(slug: string, isPublished: boolean) {
+    const d = await this.model.findOneAndUpdate(
+      { slug },
+      { $set: { isPublished, placementLocked: true } },
+      { new: true },
+    );
+    if (!d) throw new NotFoundException('Deck not found');
+    this.logger.log(`visibility: ${slug} → ${isPublished ? 'visible' : 'hidden'}`);
+    return { slug, isPublished };
+  }
+
+  /**
+   * Remove a chapter. Soft, on purpose: the chapter still exists in the bundled
+   * JSON, so a hard delete would simply reappear at the next `seed:decks` — and
+   * a mentor who removes the wrong lesson gets it back with one click.
+   */
+  async remove(slug: string) {
+    const d = await this.model.findOneAndUpdate(
+      { slug },
+      { $set: { isDeleted: true, isPublished: false, placementLocked: true, contentLocked: true } },
+      { new: true },
+    );
+    if (!d) throw new NotFoundException('Deck not found');
+    this.logger.log(`removed: ${slug}`);
+    return { slug, deleted: true };
+  }
+
+  async restore(slug: string) {
+    const d = await this.model.findOneAndUpdate(
+      { slug },
+      { $set: { isDeleted: false, isPublished: true } },
+      { new: true },
+    );
+    if (!d) throw new NotFoundException('Deck not found');
+    this.logger.log(`restored: ${slug}`);
+    return { slug, deleted: false };
   }
 
   /** Admin/ops: re-import the bundled JSON into Mongo. */

@@ -161,81 +161,73 @@ export function buildLexicon(deck: Deck): Lexicon {
 }
 
 /* ------------------------------------------------------------------ */
-/* DOM linking                                                         */
+/* HTML linking                                                        */
 /* ------------------------------------------------------------------ */
 
 const WORD_RE = /[A-Za-z][A-Za-z'’-]*/g;
+const TAG_SPLIT = /(<[^>]*>)/;
+const ENTITY_SPLIT = /(&(?:[a-zA-Z]+|#\d+);)/;
+
+function attr(s: string): string {
+  return String(s ?? '').replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+}
+
+/** Wrap known words in one run of plain (already escaped) text. */
+function linkRun(text: string, lex: Lexicon): string {
+  const tokens: { s: number; e: number; t: string }[] = [];
+  WORD_RE.lastIndex = 0;
+  for (let m = WORD_RE.exec(text); m; m = WORD_RE.exec(text)) {
+    tokens.push({ s: m.index, e: m.index + m[0].length, t: m[0] });
+  }
+  if (!tokens.length) return text;
+
+  let out = '';
+  let at = 0;
+  for (let i = 0; i < tokens.length; i++) {
+    // longest match wins, so "drop out of school" beats "school"
+    for (let len = Math.min(lex.maxLen, tokens.length - i); len >= 1; len--) {
+      const key = norm(tokens.slice(i, i + len).map((x) => x.t).join(' '));
+      const entry = lex.lookup.get(key);
+      if (!entry) continue;
+
+      const from = tokens[i].s;
+      const to = tokens[i + len - 1].e;
+      out +=
+        text.slice(at, from) +
+        '<span class="wq" role="button" tabindex="0" data-word="' + attr(key) + '"' +
+        (entry.bn ? ' data-bn="' + attr(entry.bn) + '"' : '') + '>' +
+        text.slice(from, to) +
+        '</span>';
+      at = to;
+      i += len - 1;
+      break;
+    }
+  }
+  return out + text.slice(at);
+}
 
 /**
- * Wraps every known word in `root`'s text with a clickable span.
+ * Makes every known word in a formatted fragment clickable.
  *
- * Works on the rendered DOM rather than on the HTML string, so the deck's own
- * markup (`<mark>`, `<b>`, sentence numbers) is never re-parsed or broken, and
- * a highlighted phrase can still contain several separately clickable words.
+ * This runs while the slide HTML is being built rather than on the rendered
+ * page: the slide body is injected with `dangerouslySetInnerHTML`, so React
+ * owns that subtree and re-creating it would throw away anything added to the
+ * DOM afterwards.
+ *
+ * Splits on tags first so attributes are never touched, then on entities so a
+ * `&amp;` cannot be read as the word "amp".
  */
-export function linkWords(root: HTMLElement, lex: Lexicon): number {
-  if (!lex.size || root.dataset.wordsLinked === '1') return 0;
-  root.dataset.wordsLinked = '1';
-
-  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
-    acceptNode(node) {
-      const p = node.parentElement;
-      if (!p) return NodeFilter.FILTER_REJECT;
-      // sentence numbers and anything already linked
-      if (p.closest('.snum, .wq, script, style')) return NodeFilter.FILTER_REJECT;
-      return /[A-Za-z]/.test(node.nodeValue || '')
-        ? NodeFilter.FILTER_ACCEPT
-        : NodeFilter.FILTER_REJECT;
-    },
-  });
-
-  const texts: Text[] = [];
-  for (let n = walker.nextNode(); n; n = walker.nextNode()) texts.push(n as Text);
-
-  let linked = 0;
-
-  for (const node of texts) {
-    const text = node.nodeValue || '';
-    const tokens: { s: number; e: number; t: string }[] = [];
-    for (let m = WORD_RE.exec(text); m; m = WORD_RE.exec(text)) {
-      tokens.push({ s: m.index, e: m.index + m[0].length, t: m[0] });
-    }
-    if (!tokens.length) continue;
-
-    // longest match wins, so "drop out of school" beats "school"
-    const hits: { s: number; e: number; key: string }[] = [];
-    for (let i = 0; i < tokens.length; i++) {
-      for (let len = Math.min(lex.maxLen, tokens.length - i); len >= 1; len--) {
-        const key = norm(tokens.slice(i, i + len).map((x) => x.t).join(' '));
-        if (lex.lookup.has(key)) {
-          hits.push({ s: tokens[i].s, e: tokens[i + len - 1].e, key });
-          i += len - 1;
-          break;
-        }
-      }
-    }
-    if (!hits.length) continue;
-
-    const frag = document.createDocumentFragment();
-    let at = 0;
-    for (const h of hits) {
-      if (h.s > at) frag.append(text.slice(at, h.s));
-      const span = document.createElement('span');
-      span.className = 'wq';
-      span.dataset.word = h.key;
-      span.setAttribute('role', 'button');
-      span.setAttribute('tabindex', '0');
-      // hover shows just the Bangla; the full card needs a click
-      const bn = lex.lookup.get(h.key)?.bn;
-      if (bn) span.dataset.bn = bn;
-      span.textContent = text.slice(h.s, h.e);
-      frag.append(span);
-      at = h.e;
-      linked++;
-    }
-    if (at < text.length) frag.append(text.slice(at));
-    node.replaceWith(frag);
-  }
-
-  return linked;
+export function linkHtml(html: string, lex: Lexicon | null): string {
+  if (!lex || !lex.size) return html;
+  return html
+    .split(TAG_SPLIT)
+    .map((part) =>
+      part.startsWith('<')
+        ? part
+        : part
+            .split(ENTITY_SPLIT)
+            .map((bit) => (bit.startsWith('&') ? bit : linkRun(bit, lex)))
+            .join(''),
+    )
+    .join('');
 }

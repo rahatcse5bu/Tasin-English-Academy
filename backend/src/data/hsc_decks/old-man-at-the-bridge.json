@@ -1,0 +1,179 @@
+{
+  "id": "old-man-at-the-bridge",
+  "paper": "paper1",
+  "paperName": "English 1st Paper",
+  "unit": "Unit 11",
+  "unitName": "Peace and Conflict",
+  "lesson": 2,
+  "title": "An Old Man at the Bridge — Ernest Hemingway",
+  "titleBn": "সেতুর ধারে এক বৃদ্ধ",
+  "lede": "যুদ্ধের সময় সেতুর ধারে বসে থাকা এক ক্লান্ত বৃদ্ধ — যিনি নিজের জন্য নয়, ফেলে আসা পশুপাখিদের জন্য চিন্তিত। হেমিংওয়ের ছোট গল্প, বাক্যভিত্তিক বাংলা অর্থসহ।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
+    { "t": "Read a war story through one small character", "d": "যুদ্ধের বিশালতা বোঝানো হয়েছে একজন সাধারণ বৃদ্ধের চোখে" },
+    { "t": "Separate the narrator from the writer", "d": "‘I’ এখানে একজন scout/সৈনিক, লেখক নন" },
+    { "t": "Collect wartime vocabulary", "d": "pontoon bridge, bridgehead, plod, stagger, spokes" },
+    { "t": "Answer the table with exact words", "d": "pontoon, soldiers', bridgehead, dust — passage থেকে হুবহু" }
+  ],
+
+  "passage": [
+    {
+      "tag": "Paragraph 1 — The road, the bridge and the man who could not move",
+      "s": [
+        { "en": "An old man with ==steel-rimmed spectacles== and very ==dusty clothes== sat by the side of the road.", "bn": "==ইস্পাতের ফ্রেমের চশমা== আর খুব ==ধুলোমাখা পোশাক== পরা এক বৃদ্ধ রাস্তার পাশে বসে ছিলেন।" },
+        { "en": "There was a ==pontoon bridge== across the river and carts, trucks, and men, women and children were crossing it.", "bn": "নদীর উপরে ছিল একটি ==ভাসমান (পন্টুন) সেতু==, আর তার উপর দিয়ে গরুর গাড়ি, ট্রাক এবং নারী-পুরুষ-শিশুরা পার হচ্ছিল।" },
+        { "en": "The mule-drawn carts ==staggered up the steep bank== from the bridge with soldiers helping push against the spokes of the wheels.", "bn": "খচ্চরে টানা গাড়িগুলো সেতু থেকে ==খাড়া পাড় বেয়ে টলতে টলতে উঠছিল==, সৈন্যরা চাকার শিক ঠেলে সাহায্য করছিল।" },
+        { "en": "The trucks ground up and away heading out of it all and the peasants ==plodded along in the ankle-deep dust==.", "bn": "ট্রাকগুলো গর্জন করে উঠে গিয়ে এই সবকিছু ছেড়ে বেরিয়ে যাচ্ছিল, আর কৃষকেরা ==গোড়ালি-ডোবা ধুলোর মধ্যে ভারী পায়ে হাঁটছিল==।" },
+        { "en": "But the old man ==sat there without moving==. He was ==too tired to go any farther==.", "bn": "কিন্তু বৃদ্ধ ==নড়াচড়া না করে সেখানেই বসে ছিলেন==। তিনি ==এতটাই ক্লান্ত ছিলেন যে আর এক পাও এগোতে পারছিলেন না==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — The narrator's duty",
+      "s": [
+        { "en": "It was my business to ==cross the bridge, explore the bridgehead beyond and find out to what point the enemy had advanced==.", "bn": "আমার কাজ ছিল ==সেতু পার হয়ে ওপারের সেতুমুখ পর্যবেক্ষণ করা এবং শত্রুপক্ষ কতদূর এগিয়েছে তা খুঁজে বের করা==।" },
+        { "en": "I did this and returned over the bridge.", "bn": "আমি তা করলাম এবং সেতু পেরিয়ে ফিরে এলাম।" },
+        { "en": "There were not so many carts now and very few people on foot, but ==the old man was still there==.", "bn": "এখন গাড়ির সংখ্যা কম, পায়ে হাঁটা মানুষও খুব কম — কিন্তু ==বৃদ্ধ তখনও সেখানেই ছিলেন==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — The conversation",
+      "s": [
+        { "en": "“Where do you come from?” I asked him. “==From San Carlos==,” he said, and smiled.", "bn": "“আপনি কোথা থেকে আসছেন?” আমি জিজ্ঞেস করলাম। “==সান কার্লোস থেকে==,” তিনি বললেন, এবং হাসলেন।" },
+        { "en": "That was ==his native town== and so it gave him ==pleasure to mention it== and he smiled.", "bn": "ওটাই ছিল ==তাঁর জন্মশহর==, তাই ==তার নাম বলতেই তিনি আনন্দ পেয়েছিলেন== এবং হেসেছিলেন।" },
+        { "en": "“I was ==taking care of animals==,” he explained. “Oh,” I said, ==not quite understanding==.", "bn": "“আমি ==পশুদের দেখাশোনা করতাম==,” তিনি ব্যাখ্যা করলেন। “ও,” আমি বললাম, ==পুরোপুরি না বুঝেই==।" },
+        { "en": "“Yes,” he said, “I stayed, you see, taking care of animals. I was ==the last one to leave the town of San Carlos==.”", "bn": "“হ্যাঁ,” তিনি বললেন, “দেখুন, আমি থেকে গিয়েছিলাম, পশুদের দেখাশোনা করছিলাম। ==সান কার্লোস শহর ছাড়া সর্বশেষ ব্যক্তি ছিলাম আমিই==।”" },
+        { "en": "He did not look like a ==shepherd nor a herdsman== and I looked at his black dusty clothes and his ==gray dusty face== and his steel-rimmed spectacles and said, “What animals were they?”", "bn": "তাঁকে দেখে ==রাখাল বা পশুপালক== বলে মনে হচ্ছিল না; আমি তাঁর কালো ধুলোমাখা পোশাক, ==ধূসর ধুলোমাখা মুখ== আর ইস্পাতের ফ্রেমের চশমার দিকে তাকিয়ে বললাম, “কী পশু ছিল সেগুলো?”" },
+        { "en": "“There were ==three animals altogether==,” he explained. “There were ==two goats and a cat== and then there were ==four pairs of pigeons==.”", "bn": "“==সব মিলিয়ে তিনটি প্রাণী== ছিল,” তিনি বুঝিয়ে বললেন। “==দুটি ছাগল আর একটি বিড়াল==, আর তারপর ছিল ==চার জোড়া কবুতর==।”" }
+      ]
+    }
+  ],
+
+  "words": [
+    { "w": "steel-rimmed", "pos": "adj", "pron": "/stiːl rɪmd/", "bn": "ইস্পাতের ফ্রেমের", "en": "having a frame made of steel", "ex": "steel-rimmed spectacles" },
+    { "w": "spectacles", "pos": "noun", "pron": "/ˈspektəklz/", "bn": "চশমা", "en": "glasses worn to help one see", "ex": "an old man with steel-rimmed spectacles" },
+    { "w": "pontoon bridge", "pos": "noun", "pron": "/pɒnˈtuːn/", "bn": "ভাসমান সেতু (নৌকা/ভেলার উপর)", "en": "a temporary bridge floating on boats or hollow drums", "ex": "There was a pontoon bridge across the river." },
+    { "w": "mule-drawn", "pos": "adj", "pron": "/mjuːl drɔːn/", "bn": "খচ্চরে টানা", "en": "pulled by mules", "ex": "the mule-drawn carts" },
+    { "w": "stagger", "pos": "verb", "pron": "/ˈstæɡə(r)/", "bn": "টলতে টলতে চলা", "en": "to move unsteadily as if about to fall", "ex": "the carts staggered up the steep bank" },
+    { "w": "steep", "pos": "adj", "pron": "/stiːp/", "bn": "খাড়া, ঢালু", "en": "rising sharply", "ex": "up the steep bank" },
+    { "w": "spokes", "pos": "noun", "pron": "/spəʊks/", "bn": "চাকার শিক", "en": "the bars joining the centre of a wheel to its rim", "ex": "push against the spokes of the wheels" },
+    { "w": "plod", "pos": "verb", "pron": "/plɒd/", "bn": "ভারী ক্লান্ত পায়ে হাঁটা", "en": "to walk slowly and with heavy steps", "ex": "the peasants plodded along in the dust" },
+    { "w": "peasant", "pos": "noun", "pron": "/ˈpeznt/", "bn": "কৃষক, গ্রামের গরিব মানুষ", "en": "a poor farmer of low social rank", "ex": "the peasants plodded along" },
+    { "w": "ankle-deep", "pos": "adj", "pron": "/ˈæŋkl diːp/", "bn": "গোড়ালি পর্যন্ত ডোবা", "en": "deep enough to reach the ankles", "ex": "in the ankle-deep dust" },
+    { "w": "bridgehead", "pos": "noun", "pron": "/ˈbrɪdʒhed/", "bn": "সেতুমুখ, সেতুর ওপারের রক্ষিত এলাকা", "en": "a strong position held on the enemy's side of a bridge", "ex": "explore the bridgehead beyond" },
+    { "w": "advance", "pos": "verb", "pron": "/ədˈvɑːns/", "bn": "এগিয়ে আসা", "en": "to move forward, especially of an army", "ex": "to what point the enemy had advanced" },
+    { "w": "native town", "pos": "noun", "pron": "/ˈneɪtɪv/", "bn": "জন্মশহর", "en": "the town where one was born", "ex": "That was his native town." },
+    { "w": "shepherd", "pos": "noun", "pron": "/ˈʃepəd/", "bn": "মেষপালক", "en": "a person who looks after sheep", "ex": "He did not look like a shepherd." },
+    { "w": "herdsman", "pos": "noun", "pron": "/ˈhɜːdzmən/", "bn": "পশুপালক", "en": "a person who looks after a herd of animals", "ex": "nor a herdsman" },
+    { "w": "pigeon", "pos": "noun", "pron": "/ˈpɪdʒɪn/", "bn": "কবুতর", "en": "a common grey bird", "ex": "four pairs of pigeons" },
+    { "w": "altogether", "pos": "adv", "pron": "/ˌɔːltəˈɡeðə(r)/", "bn": "সব মিলিয়ে", "en": "in total", "ex": "There were three animals altogether." }
+  ],
+
+  "synant": [
+    { "w": "dusty", "bn": "ধুলোমাখা", "syn": ["grimy", "powdery", "dirty"], "ant": ["clean", "spotless"] },
+    { "w": "stagger", "bn": "টলতে টলতে চলা", "syn": ["totter", "lurch", "reel"], "ant": ["stride", "march"] },
+    { "w": "steep", "bn": "খাড়া", "syn": ["sharp", "abrupt", "sheer"], "ant": ["gentle", "gradual", "flat"] },
+    { "w": "plod", "bn": "ভারী পায়ে হাঁটা", "syn": ["trudge", "lumber", "tramp"], "ant": ["dash", "sprint"] },
+    { "w": "advance", "bn": "এগিয়ে আসা", "syn": ["proceed", "press on", "move forward"], "ant": ["retreat", "withdraw"] },
+    { "w": "explore", "bn": "অনুসন্ধান করা", "syn": ["examine", "survey", "investigate"], "ant": ["ignore", "overlook"] },
+    { "w": "pleasure", "bn": "আনন্দ", "syn": ["delight", "joy", "gladness"], "ant": ["sorrow", "displeasure"] },
+    { "w": "tired", "bn": "ক্লান্ত", "syn": ["exhausted", "weary", "worn out"], "ant": ["fresh", "energetic"] }
+  ],
+
+  "summaryEn": "During a war, the narrator finds an old man in steel-rimmed spectacles and dusty clothes sitting by the road near a pontoon bridge. Around him carts, trucks and frightened families are crossing the river, soldiers pushing the mule-drawn carts up the steep bank while peasants plod through the ankle-deep dust. Only the old man does not move; he is too tired to go any farther. The narrator's duty is to cross the bridge, examine the bridgehead and find out how far the enemy has come, and when he returns the old man is still sitting there. In their short conversation the old man says he is from San Carlos, and he smiles at the name of his native town. He had stayed behind to look after his animals — two goats, a cat and four pairs of pigeons — and was the last person to leave the town. He does not look like a shepherd, and he speaks not of himself but of the creatures he was forced to abandon.",
+  "summaryBn": "যুদ্ধের সময় কথক এক পন্টুন সেতুর কাছে রাস্তার পাশে বসে থাকা এক বৃদ্ধকে দেখতে পান — ইস্পাতের ফ্রেমের চশমা আর ধুলোমাখা পোশাক পরা। তাঁর চারপাশে গরুর গাড়ি, ট্রাক আর ভীত পরিবারগুলো নদী পার হচ্ছে; সৈন্যরা খচ্চরে টানা গাড়িগুলোকে খাড়া পাড় বেয়ে ঠেলে তুলছে, কৃষকেরা গোড়ালি-ডোবা ধুলোয় ভারী পায়ে হাঁটছে। শুধু বৃদ্ধই নড়েন না; তিনি এতটাই ক্লান্ত যে আর এগোতে পারেন না। কথকের দায়িত্ব ছিল সেতু পার হয়ে সেতুমুখ পর্যবেক্ষণ করা ও শত্রু কতদূর এসেছে তা জানা; ফিরে এসেও তিনি বৃদ্ধকে সেখানেই বসে থাকতে দেখেন। সংক্ষিপ্ত কথোপকথনে বৃদ্ধ জানান তিনি সান কার্লোস থেকে এসেছেন, আর নিজের জন্মশহরের নাম বলতেই তিনি হাসেন। পশুদের দেখাশোনার জন্য তিনি থেকে গিয়েছিলেন — দুটি ছাগল, একটি বিড়াল ও চার জোড়া কবুতর — এবং শহর ছাড়া সর্বশেষ মানুষ ছিলেন তিনিই। তাঁকে রাখাল মনে হয় না, আর তিনি নিজের কথা নয়, ফেলে আসা প্রাণীগুলোর কথাই বলেন।",
+  "summaryTip": "**গল্পের summary-তে ==সংলাপ হুবহু তুলবে না==** — indirect করে ভাব লিখবে: ‘He said that he had come from San Carlos’। শেষে যুদ্ধের নিষ্ঠুরতার ইঙ্গিতটুকু এক বাক্যে রাখলে নম্বর বাড়ে।",
+
+  "mcq": [
+    { "q": "What was the old man wearing?", "opts": ["A uniform and boots", "Dusty clothes and spectacles", "Black coat and hat", "New clothes and sandals"], "ans": 1, "why": "প্রথম বাক্য: ‘An old man with steel-rimmed spectacles and very dusty clothes’।" },
+    { "q": "Why was there a pontoon bridge?", "opts": ["It was a market area", "The main bridge was broken", "Soldiers were retreating", "To help people cross during war"], "ans": 3, "why": "Pontoon bridge = যুদ্ধকালীন ==অস্থায়ী== ভাসমান সেতু, মানুষজন ও গাড়ি পার করার জন্য।" },
+    { "q": "What was the narrator's task?", "opts": ["To help the old man", "To inspect the enemy's advancement", "To guard the bridge", "To lead the villagers"], "ans": 1, "why": "‘find out to what point the enemy had advanced’ — শত্রু কতদূর এসেছে তা দেখা।" },
+    { "q": "Why was the old man unable to move?", "opts": ["He was wounded", "He had no transport", "He was tired", "He was waiting for someone"], "ans": 2, "why": "‘He was too tired to go any farther’ — আহত নন, ক্লান্ত।" },
+    { "q": "What animals did the old man mention?", "opts": ["Dogs and goats", "Goats, a cat, and pigeons", "Horses and cows", "Cats and rabbits"], "ans": 1, "why": "‘two goats and a cat and then there were four pairs of pigeons’।" },
+    { "q": "The word ‘plodded’ in the passage is closest in meaning to —", "opts": ["ran quickly", "walked slowly and heavily", "rode", "rested"], "ans": 1, "why": "plod = ক্লান্ত ভারী পায়ে হাঁটা; ধুলোর মধ্যে দ্রুত হাঁটা সম্ভব নয়।" },
+    { "q": "‘He was the last one to leave the town of San Carlos’ suggests that the old man —", "opts": ["was braver than the soldiers", "stayed behind out of care for his animals", "did not know about the war", "wanted to meet the enemy"], "ans": 1, "why": "তিনি থেকে গিয়েছিলেন কারণ ==পশুদের ছেড়ে যেতে পারছিলেন না==; সাহস দেখানো তাঁর উদ্দেশ্য ছিল না।" },
+    { "q": "Why did the old man smile when he named San Carlos?", "opts": ["He was going back there", "It was his native town", "The narrator knew the town", "He had met a friend"], "ans": 1, "why": "‘That was his native town and so it gave him pleasure to mention it’।" },
+    { "q": "The word ‘bridgehead’ means —", "opts": ["the beginning of a bridge", "a position held beyond a bridge", "the head engineer of a bridge", "a broken bridge"], "ans": 1, "why": "bridgehead = সেতুর ওপারে দখল করে রাখা রক্ষিত এলাকা।" },
+    { "q": "The overall tone of the passage is —", "opts": ["humorous", "quietly sad", "angry", "hopeful"], "ans": 1, "why": "হেমিংওয়ে চিৎকার করেন না — শান্ত, সংযত ভাষায় যুদ্ধের ==করুণতা== ফুটিয়ে তোলেন।" }
+  ],
+
+  "shortQ": [
+    { "q": "Where was the old man sitting and in what condition?", "a": "The old man was sitting by the side of the road, close to a pontoon bridge that crossed the river. He wore steel-rimmed spectacles and very dusty clothes, and his face was grey with dust. While everyone else — carts, trucks, men, women and children — kept moving across the bridge, he sat there without moving at all, because he was simply too tired to go any farther.", "bn": "বৃদ্ধ রাস্তার পাশে বসে ছিলেন, নদীর উপরের একটি পন্টুন সেতুর কাছেই। তাঁর চোখে ছিল ইস্পাতের ফ্রেমের চশমা, পরনে খুব ধুলোমাখা পোশাক, মুখ ধুলোয় ধূসর। অন্য সবাই — গাড়ি, ট্রাক, নারী-পুরুষ-শিশু — সেতু পার হয়ে যাচ্ছিল, কিন্তু তিনি একটুও না নড়ে বসে ছিলেন, কারণ তিনি এতটাই ক্লান্ত ছিলেন যে আর এগোতে পারছিলেন না।" },
+    { "q": "What made the old man happy when he spoke of San Carlos?", "a": "San Carlos was his native town, the place he belonged to. Even in the middle of a war, and even after being driven out of it, simply saying its name gave him pleasure, and he smiled. It shows how deeply an ordinary person is attached to his own soil — the town was all he had left, and the memory of it was still sweet.", "bn": "সান কার্লোস ছিল তাঁর জন্মশহর, তাঁর নিজের জায়গা। যুদ্ধের মাঝেও, শহর ছেড়ে চলে আসার পরেও, শুধু নামটি উচ্চারণ করেই তিনি আনন্দ পেয়েছিলেন এবং হেসেছিলেন। এতে বোঝা যায় সাধারণ মানুষ নিজের মাটির সঙ্গে কত গভীরভাবে জড়িয়ে থাকে — শহরটিই ছিল তাঁর একমাত্র সম্বল, আর তার স্মৃতি তখনও মধুর।" },
+    { "q": "What was happening on the bridge during the war?", "a": "The bridge was crowded with people escaping the fighting. Carts, trucks and men, women and children were crossing the river over the pontoon bridge. Mule-drawn carts staggered up the steep bank on the far side while soldiers pushed against the spokes of their wheels to help them, trucks ground their way up and out of the area, and the peasants trudged along on foot through dust that reached their ankles. Later, when the narrator returned, the crowd had thinned — but the old man was still there.", "bn": "সেতুটি যুদ্ধ থেকে পালিয়ে আসা মানুষে ভরা ছিল। গাড়ি, ট্রাক এবং নারী-পুরুষ-শিশুরা পন্টুন সেতু দিয়ে নদী পার হচ্ছিল। খচ্চরে টানা গাড়িগুলো ওপারে খাড়া পাড় বেয়ে টলতে টলতে উঠছিল, সৈন্যরা চাকার শিক ঠেলে সাহায্য করছিল; ট্রাকগুলো গর্জন করে এলাকা ছেড়ে বেরিয়ে যাচ্ছিল, আর কৃষকেরা গোড়ালি-ডোবা ধুলোয় ভারী পায়ে হেঁটে যাচ্ছিল। পরে কথক ফিরে এসে দেখেন ভিড় কমে গেছে — কিন্তু বৃদ্ধ তখনও সেখানেই।" },
+    { "q": "Why did the narrator speak to the old man?", "a": "The narrator was a soldier whose duty was to cross the bridge, explore the bridgehead beyond and find out how far the enemy had advanced. Having finished that duty and come back, he noticed that the old man alone had not moved. Out of curiosity and human concern he asked him where he had come from, and the conversation went on because the old man's answers — that he had stayed behind to take care of animals — were not what a tired refugee was expected to say.", "bn": "কথক ছিলেন একজন সৈনিক, যাঁর দায়িত্ব ছিল সেতু পার হয়ে ওপারের সেতুমুখ দেখা এবং শত্রু কতদূর এগিয়েছে তা জানা। সেই কাজ শেষ করে ফিরে এসে তিনি লক্ষ করেন, একমাত্র বৃদ্ধই নড়েননি। কৌতূহল ও মানবিক উদ্বেগ থেকে তিনি জিজ্ঞেস করেন তিনি কোথা থেকে এসেছেন, আর কথা এগোতে থাকে কারণ বৃদ্ধের উত্তর — যে তিনি পশুদের দেখাশোনার জন্য থেকে গিয়েছিলেন — ক্লান্ত উদ্বাস্তুর কাছ থেকে প্রত্যাশিত ছিল না।" },
+    { "q": "How did the old man describe the animals?", "a": "He said there were three animals altogether: two goats and a cat, and besides them four pairs of pigeons. He spoke of them plainly, as though giving an account of his family. He had stayed in San Carlos to take care of them and was the last person to leave the town, and it is clear from the way he counts them that his worry is not for himself but for the creatures he has been forced to leave behind.", "bn": "তিনি বলেছিলেন সব মিলিয়ে তিনটি প্রাণী ছিল: দুটি ছাগল ও একটি বিড়াল, আর তার সঙ্গে চার জোড়া কবুতর। তিনি সহজভাবে তাদের কথা বলেছিলেন — যেন নিজের পরিবারের হিসাব দিচ্ছেন। তাদের দেখাশোনার জন্যই তিনি সান কার্লোসে থেকে গিয়েছিলেন এবং শহর ছাড়া সর্বশেষ মানুষ ছিলেন। যেভাবে তিনি গুনে গুনে বলেন, তাতে স্পষ্ট — তাঁর দুশ্চিন্তা নিজের জন্য নয়, বাধ্য হয়ে ফেলে আসা প্রাণীগুলোর জন্য।" }
+  ],
+
+  "tables": [
+    {
+      "title": "The old man and the bridge",
+      "headers": ["What / Who", "Event / Description", "What / Where", "When / How"],
+      "rows": [
+        ["The old man", "sitting by the road", "near a (i) @pontoon bridge", "during wartime"],
+        ["People", "crossing with carts and luggage", "with (ii) @soldiers' help", "slowly and in dust"],
+        ["Narrator", "explored the (iii) @bridgehead", "returned back", "after checking enemy movement"],
+        ["Old man", "came from San Carlos", "felt (iv) @pleasure / happy about it", "when asked"],
+        ["Old man's duty", "taking care of (v) @animals", "back in San Carlos", "before evacuation"],
+        ["The animals", "included two goats and a (vi) @cat", "also had (vii) @four pairs of pigeons", "left behind"],
+        ["Old man's appearance", "dusty face, (viii) @steel-rimmed spectacles", "sat by the road", "unmoving due to tiredness"],
+        ["The peasants", "plodded along the road", "covered in (ix) @ankle-deep dust", "with their belongings"],
+        ["Soldiers", "helped push the (x) @mule-drawn carts", "uphill from the bridge", "with effort"]
+      ],
+      "note": "‘(vi) cat’ আর ‘(vii) four pairs’ — সংখ্যা বাদ দিয়ো না। ==pontoon==, ==bridgehead== বানান ঠিক রেখো।"
+    }
+  ],
+
+  "flow": {
+    "title": "What happens in the story — গল্পের ঘটনাক্রম",
+    "items": [
+      { "t": "An old man sits by the road near the bridge", "bn": "বৃদ্ধ সেতুর কাছে রাস্তার পাশে বসে আছেন (দেওয়া আছে)" },
+      { "t": "Everyone else crosses the pontoon bridge in fear", "bn": "বাকি সবাই ভয়ে পন্টুন সেতু পার হচ্ছে" },
+      { "t": "The narrator goes to explore the bridgehead", "bn": "কথক সেতুমুখ দেখতে যান" },
+      { "t": "He returns and finds the old man still there", "bn": "ফিরে এসে দেখেন বৃদ্ধ তখনও সেখানেই" },
+      { "t": "The old man says he comes from San Carlos", "bn": "বৃদ্ধ বলেন তিনি সান কার্লোস থেকে এসেছেন" },
+      { "t": "He reveals he stayed behind to care for his animals", "bn": "জানান পশুদের দেখাশোনার জন্য তিনি থেকে গিয়েছিলেন" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "Hemingway's quiet method <span class='sub'>— যে কৌশলে গল্পটি হৃদয় ছোঁয়</span>",
+      "key": "Style Notes",
+      "table": {
+        "headers": ["কৌশল", "গল্পে যেভাবে এসেছে", "প্রভাব"],
+        "rows": [
+          ["Understatement", "‘He was too tired to go any farther.’", "একটিও আবেগী শব্দ নেই, তবু করুণ"],
+          ["Ordinary detail", "steel-rimmed spectacles, dusty clothes", "বৃদ্ধকে বাস্তব মানুষ করে তোলে"],
+          ["Dialogue only", "লেখক ব্যাখ্যা করেন না, কথা বলতে দেন", "পাঠক নিজেই সিদ্ধান্ত নেন"],
+          ["The animals", "দুটি ছাগল, একটি বিড়াল, চার জোড়া কবুতর", "যুদ্ধের নিরপরাধ শিকারদের প্রতীক"],
+          ["No name", "বৃদ্ধের নাম কখনও বলা হয় না", "তিনি সব যুদ্ধভুক্ত সাধারণ মানুষের প্রতিনিধি"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "🌉", "t": "pontoon bridge মানে কী", "d": "নৌকা বা ফাঁপা ড্রামের উপর ভাসমান ==অস্থায়ী== সেতু — যুদ্ধে দ্রুত বানানো হয়। MCQ-তে ‘temporary’ শব্দটি খেয়াল রেখো।" },
+    { "em": "🙍", "t": "narrator ≠ Hemingway", "type": "warn", "d": "‘I’ এখানে একজন ==সৈনিক/scout==। উত্তরে ‘the writer’ না লিখে ‘the narrator’ লিখবে।" },
+    { "em": "🐐", "t": "৩টি না ৮টি?", "d": "বৃদ্ধ বলেন ‘three animals altogether’ — কিন্তু গুনলে দাঁড়ায় ২ ছাগল + ১ বিড়াল + ৮ কবুতর। প্রশ্নে যা লেখা আছে ==হুবহু== সেটাই লিখবে।" },
+    { "em": "💬", "t": "Short question-এ সংলাপ", "d": "উদ্ধৃতি না দিয়ে indirect speech-এ লিখো: ‘He said that he had come from San Carlos.’" },
+    { "em": "🕊️", "t": "Symbol মনে রেখো", "d": "==pigeons== = শান্তির প্রতীক; যুদ্ধে তাদের ফেলে আসাই গল্পের কেন্দ্রীয় বেদনা।" }
+  ],
+
+  "recap": [
+    "যুদ্ধকালীন এক পন্টুন সেতুর ধারে ক্লান্ত বৃদ্ধ — ইস্পাতের চশমা, ধুলোমাখা পোশাক।",
+    "সবাই পালাচ্ছে; সৈন্যরা গাড়ি ঠেলছে, কৃষকেরা ধুলোয় হাঁটছে — কেবল তিনি নড়েন না।",
+    "কথকের দায়িত্ব: সেতু পার হয়ে bridgehead দেখা ও শত্রুর অগ্রগতি জানা।",
+    "বৃদ্ধ সান কার্লোস থেকে এসেছেন; জন্মশহরের নামেই তাঁর মুখে হাসি।",
+    "তিনি থেকে গিয়েছিলেন পশুদের জন্য — ২ ছাগল, ১ বিড়াল, ৪ জোড়া কবুতর।"
+  ],
+
+  "homework": [
+    "Passage থেকে ১০টি war-vocabulary বের করে বাংলা অর্থসহ লিখবে।",
+    "টেবিলের (i)–(x) নিজে পূরণ করে আনবে।",
+    "‘Why is the old man's concern for animals more moving than a description of the battle?’ — ৫ বাক্যে লিখবে।",
+    "Summary ১২০-১৪০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ]
+}

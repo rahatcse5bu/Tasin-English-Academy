@@ -1,0 +1,178 @@
+{
+  "id": "college-students-flood",
+  "paper": "paper1",
+  "paperName": "English 1st Paper",
+  "unit": "Unit 07",
+  "unitName": "Youthful Achievers",
+  "lesson": 4,
+  "title": "A Group of College Students — Standing Beside the Flood Victims",
+  "titleBn": "একদল কলেজছাত্র — বন্যার্তদের পাশে",
+  "lede": "টেলিভিশনের খবর দেখে চার বন্ধুর সুনামগঞ্জ যাত্রা — টাকা জোগাড়, ত্রাণ কেনা, প্রবীণ ও শিশুদের অগ্রাধিকার; তরুণ স্বেচ্ছাসেবার একটি বাস্তব গল্প।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
+    { "t": "Read a report of civic action", "d": "খবর দেখা → সিদ্ধান্ত → অর্থ সংগ্রহ → ত্রাণ → প্রত্যাবর্তন" },
+    { "t": "Understand idioms in context", "d": "touched by the plight, pooling contributions, immensely rewarded" },
+    { "t": "Argue about the role of youth in disaster", "d": "‘Can the government face disasters alone?’ — মতামতের প্রশ্ন" },
+    { "t": "Complete the table with exact phrases", "d": "television news, rivers and water bodies, schools on higher grounds" }
+  ],
+
+  "passage": [
+    {
+      "tag": "Paragraph 1 — The news that would not let them sit still",
+      "s": [
+        { "en": "A group of college students were watching ==television news== in their hostel.", "bn": "একদল কলেজছাত্র তাদের হোস্টেলে ==টেলিভিশনের খবর== দেখছিল।" },
+        { "en": "They were ==touched by the plight== of the ==flood-affected people in Sunamganj==.", "bn": "==সুনামগঞ্জের বন্যাদুর্গত মানুষের দুর্দশায়== তারা ==ব্যথিত হয়েছিল==।" },
+        { "en": "All the rivers and water bodies there had ==overflowed their banks== because of the ==onrush of flood water from the hills beyond our border==.", "bn": "==সীমান্তের ওপারের পাহাড় থেকে নেমে আসা বন্যার পানির তোড়ে== সেখানকার সব নদী ও জলাশয় ==কূল ছাপিয়ে গিয়েছিল==।" },
+        { "en": "Their homes, haats, bazaars, shops and crop lands were ==under several feet of water==.", "bn": "তাদের ঘরবাড়ি, হাট, বাজার, দোকান ও ফসলের জমি ==কয়েক ফুট পানির নিচে== ছিল।" },
+        { "en": "The local administration had rescued the people and ==accommodated them in schools that were on higher grounds==.", "bn": "স্থানীয় প্রশাসন মানুষজনকে উদ্ধার করে ==উঁচু জায়গার স্কুলগুলোতে আশ্রয় দিয়েছিল==।" },
+        { "en": "Villagers in the nearby areas were ==helping these people in all possible ways==; yet ensuring ==drinking water, cleanliness and hygiene was a big challenge==, and the schools had toilets but these were ==clearly not enough==.", "bn": "আশপাশের গ্রামবাসীরা ==সব রকমভাবে তাদের সাহায্য করছিল==; তবু ==খাবার পানি, পরিচ্ছন্নতা ও স্বাস্থ্যবিধি নিশ্চিত করা ছিল বড় চ্যালেঞ্জ==, আর স্কুলগুলোতে শৌচাগার থাকলেও তা ==স্পষ্টতই যথেষ্ট ছিল না==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — From feeling to funding",
+      "s": [
+        { "en": "Seeing this situation, ==Ahmed, Swapan, Rakib and Niladri== quickly decided to go to Sunamganj and work for the flood victims.", "bn": "এই অবস্থা দেখে ==আহমেদ, স্বপন, রাকিব ও নীলাদ্রি== দ্রুত সিদ্ধান্ত নেয় সুনামগঞ্জে গিয়ে বন্যার্তদের জন্য কাজ করবে।" },
+        { "en": "But to do that, they ==needed money which they did not have==.", "bn": "কিন্তু তা করতে হলে ==টাকা দরকার ছিল, যা তাদের ছিল না==।" },
+        { "en": "They began by ==pooling their own contributions== and talked with their ==classmates, teachers, local law makers and civil society members== for assistance.", "bn": "তারা প্রথমে ==নিজেদের চাঁদা একত্র করে== এবং সাহায্যের জন্য ==সহপাঠী, শিক্ষক, স্থানীয় আইনপ্রণেতা ও সুশীল সমাজের সদস্যদের== সঙ্গে কথা বলে।" },
+        { "en": "==Everyone came forward to help them==; some guardians also contributed.", "bn": "==সবাই তাদের সাহায্য করতে এগিয়ে আসে==; কিছু অভিভাবকও চাঁদা দেন।" },
+        { "en": "Their collection was not bad — ==about Taka 3,00,000== — with which they could provide some ==substantial help== to the flood victims.", "bn": "তাদের সংগ্রহ মন্দ হয়নি — ==প্রায় তিন লক্ষ টাকা== — যা দিয়ে তারা বন্যার্তদের ==উল্লেখযোগ্য সাহায্য== করতে পেরেছিল।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — What they bought, whom they served",
+      "s": [
+        { "en": "They could buy dry food like ==high-protein biscuits, gur (molasses), chira (beaten rice)==, drinking water, ==water purification tablets, toilet cleaners and liquid soaps==.", "bn": "তারা কিনতে পেরেছিল শুকনো খাবার — ==উচ্চ-প্রোটিন বিস্কুট, গুড়, চিড়া==, খাবার পানি, ==পানি বিশুদ্ধকরণ ট্যাবলেট, টয়লেট ক্লিনার ও তরল সাবান==।" },
+        { "en": "Their priority was ==senior citizens, who were over 70 years of age, and children==.", "bn": "তাদের অগ্রাধিকার ছিল ==সত্তর বছরের বেশি বয়সী প্রবীণ নাগরিক ও শিশুরা==।" },
+        { "en": "They stayed there for ==more than a week== and then came back after ==government agencies took over== and some flood-affected people started going back home.", "bn": "তারা সেখানে ==এক সপ্তাহেরও বেশি== ছিল, তারপর ==সরকারি সংস্থাগুলো দায়িত্ব নেওয়ার== পর এবং কিছু বন্যাদুর্গত মানুষ ঘরে ফিরতে শুরু করলে তারা ফিরে আসে।" },
+        { "en": "When the four friends were back in their town, they ==seemed to have lost some weight but were happy and satisfied== that ==their efforts had been immensely rewarded==.", "bn": "চার বন্ধু নিজেদের শহরে ফিরে এলে দেখা গেল ==তাদের ওজন কিছুটা কমেছে, কিন্তু তারা খুশি ও তৃপ্ত== — কারণ ==তাদের পরিশ্রম অসামান্যভাবে সার্থক হয়েছিল==।" }
+      ]
+    }
+  ],
+
+  "words": [
+    { "w": "plight", "pos": "noun", "pron": "/plaɪt/", "bn": "দুর্দশা, শোচনীয় অবস্থা", "en": "a difficult and sad situation", "ex": "touched by the plight of the flood-affected people" },
+    { "w": "touched", "pos": "adj", "pron": "/tʌtʃt/", "bn": "ব্যথিত, মর্মাহত", "en": "emotionally moved, made to feel sad or grateful", "ex": "They were touched by the plight." },
+    { "w": "flood-affected", "pos": "adj", "pron": "/flʌd əˈfektɪd/", "bn": "বন্যাদুর্গত", "en": "harmed by a flood", "ex": "flood-affected people in Sunamganj" },
+    { "w": "water body", "pos": "noun", "pron": "/ˈwɔːtə ˈbɒdi/", "bn": "জলাশয়", "en": "a lake, river, canal or pond", "ex": "All the rivers and water bodies had overflowed." },
+    { "w": "overflow", "pos": "verb", "pron": "/ˌəʊvəˈfləʊ/", "bn": "কূল ছাপিয়ে যাওয়া", "en": "to flow over the edges", "ex": "overflowed their banks" },
+    { "w": "onrush", "pos": "noun", "pron": "/ˈɒnrʌʃ/", "bn": "তীব্র তোড়, প্রবল ধাক্কা", "en": "a strong, fast forward movement", "ex": "the onrush of flood water from the hills" },
+    { "w": "administration", "pos": "noun", "pron": "/ədˌmɪnɪˈstreɪʃn/", "bn": "প্রশাসন", "en": "the officials who manage a place", "ex": "the local administration had rescued the people" },
+    { "w": "accommodate", "pos": "verb", "pron": "/əˈkɒmədeɪt/", "bn": "আশ্রয় দেওয়া, জায়গা দেওয়া", "en": "to provide a place to stay", "ex": "accommodated them in schools" },
+    { "w": "hygiene", "pos": "noun", "pron": "/ˈhaɪdʒiːn/", "bn": "স্বাস্থ্যবিধি", "en": "the practice of keeping clean to stay healthy", "ex": "cleanliness and hygiene was a big challenge" },
+    { "w": "pool", "pos": "verb", "pron": "/puːl/", "bn": "একত্র করা (চাঁদা/সম্পদ)", "en": "to put money or resources together for a common purpose", "ex": "pooling their own contributions" },
+    { "w": "contribution", "pos": "noun", "pron": "/ˌkɒntrɪˈbjuːʃn/", "bn": "চাঁদা, অবদান", "en": "money or help given to a common fund", "ex": "some guardians also contributed" },
+    { "w": "law maker", "pos": "noun", "pron": "/ˈlɔː meɪkə(r)/", "bn": "আইনপ্রণেতা, সংসদ সদস্য", "en": "a member of parliament", "ex": "talked with local law makers" },
+    { "w": "civil society", "pos": "noun", "pron": "/ˈsɪvl səˈsaɪəti/", "bn": "সুশীল সমাজ", "en": "citizens' groups working outside government and business", "ex": "civil society members" },
+    { "w": "substantial", "pos": "adj", "pron": "/səbˈstænʃl/", "bn": "উল্লেখযোগ্য, যথেষ্ট পরিমাণ", "en": "large enough to be important", "ex": "some substantial help" },
+    { "w": "purification", "pos": "noun", "pron": "/ˌpjʊərɪfɪˈkeɪʃn/", "bn": "বিশুদ্ধকরণ, পরিশোধন", "en": "the removal of harmful matter", "ex": "water purification tablets" },
+    { "w": "priority", "pos": "noun", "pron": "/praɪˈɒrəti/", "bn": "অগ্রাধিকার", "en": "the thing treated as most important", "ex": "Their priority was senior citizens and children." },
+    { "w": "immensely", "pos": "adv", "pron": "/ɪˈmensli/", "bn": "অসামান্যভাবে, প্রচণ্ড রকম", "en": "extremely, very greatly", "ex": "their efforts had been immensely rewarded" }
+  ],
+
+  "synant": [
+    { "w": "plight", "bn": "দুর্দশা", "syn": ["predicament", "distress", "hardship"], "ant": ["comfort", "well-being"] },
+    { "w": "substantial", "bn": "উল্লেখযোগ্য", "syn": ["considerable", "significant", "sizeable"], "ant": ["petty", "trivial", "meagre"] },
+    { "w": "purification", "bn": "বিশুদ্ধকরণ", "syn": ["refinement", "cleansing", "filtration"], "ant": ["adulteration", "contamination"] },
+    { "w": "accommodate", "bn": "আশ্রয় দেওয়া", "syn": ["house", "shelter", "lodge"], "ant": ["evict", "expel"] },
+    { "w": "assistance", "bn": "সহায়তা", "syn": ["aid", "support", "help"], "ant": ["hindrance", "obstruction"] },
+    { "w": "immensely", "bn": "অসামান্যভাবে", "syn": ["enormously", "greatly", "hugely"], "ant": ["slightly", "barely"] },
+    { "w": "rescue", "bn": "উদ্ধার করা", "syn": ["save", "deliver", "recover"], "ant": ["abandon", "endanger"] },
+    { "w": "spontaneously", "bn": "স্বতঃস্ফূর্তভাবে", "syn": ["willingly", "voluntarily", "instinctively"], "ant": ["reluctantly", "forcibly"] }
+  ],
+
+  "summaryEn": "A group of college students watching television news in their hostel were moved by the plight of flood victims in Sunamganj, where rivers had burst their banks after an onrush of water from the hills across the border and homes, markets, shops and crop lands lay under several feet of water. The administration had rescued people into schools on higher ground and villagers were helping in every way, but drinking water, cleanliness and toilets remained a serious problem. Four friends — Ahmed, Swapan, Rakib and Niladri — decided at once to go and help, though they had no money. They pooled their own contributions and appealed to classmates, teachers, local law makers, civil society members and guardians, and everyone came forward, so that about three lakh taka was collected. With it they bought dry food such as high-protein biscuits, molasses and beaten rice, along with drinking water, water purification tablets, toilet cleaners and liquid soaps, giving priority to citizens over seventy and to children. They worked there for more than a week and returned only when government agencies took over. They came home thinner, but happy and satisfied that their effort had been immensely rewarded.",
+  "summaryBn": "হোস্টেলে টেলিভিশনের খবর দেখতে গিয়ে একদল কলেজছাত্র সুনামগঞ্জের বন্যার্তদের দুর্দশায় ব্যথিত হয়। সীমান্তের ওপারের পাহাড় থেকে নেমে আসা পানির তোড়ে সেখানকার নদীগুলো কূল ছাপিয়ে গিয়েছিল এবং ঘরবাড়ি, বাজার, দোকান ও ফসলের জমি কয়েক ফুট পানির নিচে ছিল। প্রশাসন মানুষজনকে উদ্ধার করে উঁচু জায়গার স্কুলে আশ্রয় দিয়েছিল, গ্রামবাসীরাও সব রকম সাহায্য করছিল; তবু খাবার পানি, পরিচ্ছন্নতা ও শৌচাগার নিয়ে গুরুতর সমস্যা ছিল। চার বন্ধু — আহমেদ, স্বপন, রাকিব ও নীলাদ্রি — টাকা না থাকা সত্ত্বেও সঙ্গে সঙ্গে সাহায্যে যাওয়ার সিদ্ধান্ত নেয়। তারা নিজেদের চাঁদা একত্র করে সহপাঠী, শিক্ষক, স্থানীয় আইনপ্রণেতা, সুশীল সমাজ ও অভিভাবকদের কাছে আবেদন জানায়; সবাই এগিয়ে আসায় প্রায় তিন লক্ষ টাকা সংগৃহীত হয়। সেই টাকায় তারা উচ্চ-প্রোটিন বিস্কুট, গুড়, চিড়ার মতো শুকনো খাবার, খাবার পানি, পানি বিশুদ্ধকরণ ট্যাবলেট, টয়লেট ক্লিনার ও তরল সাবান কেনে এবং সত্তরোর্ধ্ব প্রবীণ ও শিশুদের অগ্রাধিকার দেয়। এক সপ্তাহেরও বেশি কাজ করে সরকারি সংস্থা দায়িত্ব নেওয়ার পরই তারা ফেরে — শরীরে ওজন কমেছিল, কিন্তু মনে ছিল তৃপ্তি, কারণ তাদের পরিশ্রম অসামান্যভাবে সার্থক হয়েছিল।",
+  "summaryTip": "**Report-ধরনের passage-এ ক্রম ধরে লিখবে:** খবর → সিদ্ধান্ত → টাকা সংগ্রহ → ত্রাণসামগ্রী → অগ্রাধিকার → প্রত্যাবর্তন। চারজনের ==নাম== আর ==৩ লক্ষ টাকা== রাখলে উত্তর নির্দিষ্ট হয়।",
+
+  "mcq": [
+    { "q": "“They were touched by the plight” indicates that —", "opts": ["People in the flooded areas were suffering very much.", "They touched the flooded areas under water.", "Students were upset about the flood victims.", "Most people died in the flood."], "ans": 0, "why": "‘plight’ শব্দটিই বলে দিচ্ছে মানুষ ==ভীষণ দুর্দশায়== ছিল; ছাত্রদের মন খারাপ হওয়া তার ফল।" },
+    { "q": "“Pooling their own contributions” implies that —", "opts": ["The students collected money from their respective vaults.", "They contributed everything of their own.", "They put their own money together into one fund.", "They donated all their money."], "ans": 2, "why": "pool = ==একত্র করা==; সবটুকু দান করা বা ব্যাংক থেকে তোলা বোঝায় না।" },
+    { "q": "The word “touched” in line 1 could be best replaced by —", "opts": ["oppressed", "suppressed", "repressed", "depressed"], "ans": 3, "why": "এখানে touched = মন খারাপ হওয়া; বাকি তিনটি মানে দমন করা।" },
+    { "q": "The word “purification” mentioned in the passage means —", "opts": ["adulteration", "clearness", "refinement", "garbage"], "ans": 2, "why": "purification = ==পরিশোধন / refinement==; adulteration ঠিক উল্টো।" },
+    { "q": "What could be an appropriate title of the passage?", "opts": ["Civic engagement rescues flood victims", "Heroism of youth in Sunamganj", "Flood-affected people in Sunamganj", "Success in alleviating flood disasters"], "ans": 1, "why": "লেখাটির কেন্দ্র বন্যা নয়, ==তরুণদের উদ্যোগ== — তাই ‘Heroism of youth’।" },
+    { "q": "The help that the students gave to the people was not —", "opts": ["significant", "substantial", "petty", "great"], "ans": 2, "why": "প্রশ্নে ‘not’ আছে। সাহায্য ছিল substantial, তাই ==petty (তুচ্ছ)== নয়।" },
+    { "q": "What is the purpose of the author of this passage?", "opts": ["to describe the flood-affected people of Sunamganj", "to explain the humanitarian work of the local leaders", "to show the sufferings of the flood-affected people", "to highlight the humanitarian work of the college students"], "ans": 3, "why": "বন্যার বর্ণনা কেবল প্রেক্ষাপট; লেখকের ==উদ্দেশ্য== ছাত্রদের মানবিক কাজ তুলে ধরা।" },
+    { "q": "Villagers of the nearby areas —", "opts": ["supplied foods", "helped them in all possible ways", "supplied medicines", "provided drinking water"], "ans": 1, "why": "‘helping these people in all possible ways’ — নির্দিষ্ট কোনো একটি নয়।" },
+    { "q": "The schools had some toilets but —", "opts": ["they were sufficient", "they were not enough", "they were dirty", "they were unusable"], "ans": 1, "why": "‘these were clearly not enough’ — নোংরা বা অব্যবহারযোগ্য বলা হয়নি।" },
+    { "q": "“Their efforts had been immensely rewarded” implies that —", "opts": ["their hard work was greatly worthwhile", "people highly praised the students", "students were highly rewarded", "people awarded the youth for their contribution"], "ans": 0, "why": "পুরস্কার নয়, ==পরিশ্রমের সার্থকতা== — তারা খুশি ও তৃপ্ত ছিল।" }
+  ],
+
+  "shortQ": [
+    { "q": "What is the moral of the story?", "a": "The moral is that sympathy is worth nothing until it becomes action. The four friends had no money and no organisation, only the sight of suffering on a television screen; yet by pooling what little they had and asking others honestly, they raised three lakh taka and carried real relief to Sunamganj. It teaches that young people need not wait for the government or for wealth to serve their country, and that work done for others returns as a satisfaction that no reward can buy.", "bn": "নীতিশিক্ষা হলো — সহানুভূতি ততক্ষণ মূল্যহীন যতক্ষণ তা কাজে পরিণত না হয়। চার বন্ধুর টাকা ছিল না, সংগঠন ছিল না; ছিল কেবল টেলিভিশনের পর্দায় দেখা দুর্দশা। তবু নিজেদের সামান্য সঞ্চয় একত্র করে এবং সৎভাবে অন্যদের কাছে চেয়ে তারা তিন লক্ষ টাকা তোলে ও সুনামগঞ্জে প্রকৃত ত্রাণ পৌঁছে দেয়। এটি শেখায়, দেশের সেবা করতে তরুণদের সরকারের বা সম্পদের অপেক্ষায় বসে থাকতে হয় না, আর অন্যের জন্য করা কাজ এমন তৃপ্তি হয়ে ফিরে আসে যা কোনো পুরস্কারে কেনা যায় না।" },
+    { "q": "Why were they touched?", "a": "They were touched because the news showed them a suffering they could not ignore. All the rivers and water bodies of Sunamganj had overflowed their banks after an onrush of water from the hills beyond the border, and homes, haats, bazaars, shops and crop lands lay under several feet of water. People had been rescued into schools on higher ground, but drinking water, cleanliness and hygiene were still a big challenge and the few toilets were clearly not enough. Seeing helpless families living like that moved the students deeply.", "bn": "তারা ব্যথিত হয়েছিল কারণ খবরে এমন দুর্দশা দেখেছিল যা উপেক্ষা করা যায় না। সীমান্তের ওপারের পাহাড় থেকে নেমে আসা পানির তোড়ে সুনামগঞ্জের সব নদী ও জলাশয় কূল ছাপিয়ে গিয়েছিল এবং ঘরবাড়ি, হাট, বাজার, দোকান ও ফসলের জমি কয়েক ফুট পানির নিচে ছিল। মানুষকে উদ্ধার করে উঁচু জায়গার স্কুলে রাখা হলেও খাবার পানি, পরিচ্ছন্নতা ও স্বাস্থ্যবিধি তখনও বড় চ্যালেঞ্জ ছিল এবং অল্প কয়েকটি শৌচাগার স্পষ্টতই যথেষ্ট ছিল না। অসহায় পরিবারগুলোর এমন জীবন দেখে ছাত্ররা গভীরভাবে আলোড়িত হয়।" },
+    { "q": "Why, do you think, students as well as people spontaneously lent their hands?", "a": "Because the cause was visible, urgent and honest. The suffering was real and everyone had seen it on television; the students were not asking for themselves but for families sitting in flooded schools without clean water. Their sincerity was convincing — they had already given their own money before asking anyone else. Bengalis also have a long tradition of standing beside neighbours in disaster. So classmates, teachers, law makers, civil society members and even guardians all came forward without being pressed.", "bn": "কারণ উদ্দেশ্যটি ছিল দৃশ্যমান, জরুরি ও সৎ। দুর্ভোগটি ছিল বাস্তব এবং সবাই টেলিভিশনে তা দেখেছিল; ছাত্ররা নিজেদের জন্য নয়, বরং পানিবন্দি স্কুলে বিশুদ্ধ পানি ছাড়া বসে থাকা পরিবারগুলোর জন্য চাইছিল। তাদের আন্তরিকতা বিশ্বাসযোগ্য ছিল — অন্যদের কাছে চাওয়ার আগেই তারা নিজেদের টাকা দিয়েছিল। তাছাড়া দুর্যোগে প্রতিবেশীর পাশে দাঁড়ানো বাঙালির দীর্ঘদিনের ঐতিহ্য। তাই সহপাঠী, শিক্ষক, আইনপ্রণেতা, সুশীল সমাজ, এমনকি অভিভাবকরাও চাপ ছাড়াই এগিয়ে এসেছিলেন।" },
+    { "q": "“The government can solely face natural disasters.” Do you agree or disagree? Give reasons.", "a": "I disagree. The passage itself shows why. The local administration did its part — it rescued people and accommodated them in schools on higher ground — yet drinking water, cleanliness and toilets remained a big challenge, and villagers and students had to fill the gap. A disaster strikes thousands of households at once, and no single agency can reach every one of them in time. What worked in Sunamganj was a partnership: government rescue, community support and volunteer relief, until government agencies were finally able to take over.", "bn": "আমি একমত নই। প্যাসেজটিই তার কারণ দেখায়। স্থানীয় প্রশাসন নিজের কাজ করেছিল — মানুষকে উদ্ধার করে উঁচু জায়গার স্কুলে আশ্রয় দিয়েছিল — তবু খাবার পানি, পরিচ্ছন্নতা ও শৌচাগার বড় সমস্যা থেকে গিয়েছিল, আর সেই ঘাটতি পূরণ করতে হয়েছিল গ্রামবাসী ও ছাত্রদের। দুর্যোগ একসঙ্গে হাজারো পরিবারে আঘাত হানে, কোনো একক সংস্থার পক্ষে সময়মতো সবার কাছে পৌঁছানো সম্ভব নয়। সুনামগঞ্জে যা কাজ করেছিল তা হলো অংশীদারত্ব — সরকারি উদ্ধার, সমাজের সহায়তা ও স্বেচ্ছাসেবী ত্রাণ, যতক্ষণ না সরকারি সংস্থাগুলো দায়িত্ব নিতে পারল।" },
+    { "q": "What can you infer from the incident about the roles of youth in society?", "a": "I can infer that the youth are society's fastest and most flexible force. These students noticed the problem while others merely watched the news; they decided within hours, raised money without any office or budget, chose their relief goods sensibly — dry food, purification tablets, soap — and gave priority to those least able to help themselves, the over-seventies and the children. They also knew when to stop, coming home once government agencies took over. Youth, then, are not merely the leaders of tomorrow; given a cause, they are useful citizens today.", "bn": "আমি বুঝতে পারি, তরুণরাই সমাজের সবচেয়ে দ্রুত ও নমনীয় শক্তি। অন্যরা যখন শুধু খবর দেখছিল, এই ছাত্ররা তখন সমস্যাটি লক্ষ করেছিল; কয়েক ঘণ্টার মধ্যে সিদ্ধান্ত নিয়েছে, অফিস বা বাজেট ছাড়াই টাকা তুলেছে, বুদ্ধি খাটিয়ে ত্রাণসামগ্রী বেছেছে — শুকনো খাবার, বিশুদ্ধকরণ ট্যাবলেট, সাবান — এবং যারা নিজেদের সবচেয়ে কম সাহায্য করতে পারে, সেই সত্তরোর্ধ্ব ও শিশুদের অগ্রাধিকার দিয়েছে। কখন থামতে হয় তাও তারা জানত — সরকারি সংস্থা দায়িত্ব নেওয়ার পরই ফিরে এসেছে। অর্থাৎ তরুণরা কেবল ‘আগামী দিনের নেতা’ নয়; উপলক্ষ পেলে তারা আজকের দিনেই কাজের নাগরিক।" }
+  ],
+
+  "tables": [
+    {
+      "title": "Students beside the flood victims",
+      "headers": ["What / Who", "Event / Activity", "Why / What", "When / How"],
+      "rows": [
+        ["A group of college students", "were watching (i) @television news", "(ii) @in their hostel", "the plight of flood victims"],
+        ["(iii) @Ahmed, Swapan, Rakib and Niladri", "the college students", "(iv) @decided to go to Sunamganj", "(v) @after seeing the situation on TV"],
+        ["All the rivers and water bodies", "overflowed their banks", "(vi) @because of the onrush of flood water from the hills", "beyond our border"],
+        ["Homes, haats, bazaars and crop lands", "went (vii) @under several feet of water", "during the flood", "in Sunamganj"],
+        ["The local administration", "(viii) @rescued and accommodated", "the flood victims", "(ix) @in schools on higher grounds"],
+        ["Villagers", "(x) @helped these people", "in all possible ways", "nearby areas"]
+      ],
+      "note": "‘in all possible ways’, ‘on higher grounds’ — preposition-সহ ==হুবহু== লিখবে।"
+    }
+  ],
+
+  "flow": {
+    "title": "The plights of the flood-affected people — বন্যার্তদের দুর্দশা",
+    "items": [
+      { "t": "Homelessness", "bn": "গৃহহীনতা (দেওয়া আছে)" },
+      { "t": "Homes, haats, bazaars and crop lands under several feet of water", "bn": "ঘরবাড়ি, হাট, বাজার ও ফসলের জমি কয়েক ফুট পানির নিচে" },
+      { "t": "Taking shelter in schools on higher grounds", "bn": "উঁচু জায়গার স্কুলে আশ্রয়" },
+      { "t": "Scarcity of safe drinking water", "bn": "বিশুদ্ধ খাবার পানির অভাব" },
+      { "t": "Lack of cleanliness, hygiene and enough toilets", "bn": "পরিচ্ছন্নতা, স্বাস্থ্যবিধি ও পর্যাপ্ত শৌচাগারের অভাব" },
+      { "t": "Loss of crops and livelihood", "bn": "ফসল ও জীবিকার ক্ষতি" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "What they bought and why <span class='sub'>— ত্রাণের তালিকা মুখস্থ নয়, যুক্তি বোঝো</span>",
+      "key": "Relief Logic",
+      "table": {
+        "headers": ["সামগ্রী", "কেন এটি", "বাংলা"],
+        "rows": [
+          ["High-protein biscuits", "রান্না ছাড়াই খাওয়া যায়, শক্তি দেয়", "উচ্চ-প্রোটিন বিস্কুট"],
+          ["Gur (molasses), chira", "দীর্ঘদিন নষ্ট হয় না, পানি লাগে না", "গুড় ও চিড়া"],
+          ["Drinking water", "চারদিকে পানি, তবু পান করার মতো নয়", "খাবার পানি"],
+          ["Water purification tablets", "স্থানীয় পানি নিরাপদ করে তোলে", "পানি বিশুদ্ধকরণ ট্যাবলেট"],
+          ["Toilet cleaners, liquid soaps", "শৌচাগার কম — রোগ ঠেকাতে", "টয়লেট ক্লিনার ও তরল সাবান"],
+          ["Priority: 70+ and children", "সবচেয়ে দুর্বল ও ঝুঁকিপূর্ণ", "প্রবীণ ও শিশু অগ্রাধিকার"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "💧", "t": "‘purification’ vs ‘adulteration’", "type": "warn", "d": "purification = ==পরিশোধন==, adulteration = ভেজাল মেশানো — ঠিক উল্টো। MCQ-তে পাশাপাশি থাকে।" },
+    { "em": "🏷️", "t": "Title-এর প্রশ্নে কেন্দ্র খোঁজো", "d": "Passage-এর ==নায়ক== কে? — ছাত্ররা। তাই title-এ ‘youth’ থাকা option-ই সঠিক।" },
+    { "em": "🚫", "t": "‘not’ থাকা MCQ", "d": "‘The help… was not:’ — এমন প্রশ্নে ==উল্টোটা== খোঁজো। substantial-এর বিপরীত petty।" },
+    { "em": "💰", "t": "টাকার অঙ্ক", "d": "==Taka 3,00,000== (তিন লক্ষ) — short question ও টেবিল দুই জায়গাতেই কাজে লাগে।" },
+    { "em": "👴", "t": "অগ্রাধিকার কারা", "d": "==senior citizens over 70== এবং ==children== — ‘all people’ লিখলে নম্বর কাটা যাবে।" }
+  ],
+
+  "recap": [
+    "হোস্টেলে টিভির খবরে সুনামগঞ্জের বন্যা দেখে চার বন্ধু সিদ্ধান্ত নেয়।",
+    "সীমান্তের ওপারের পাহাড় থেকে পানির তোড়ে নদী কূল ছাপিয়ে যায়; সব পানির নিচে।",
+    "নিজেদের চাঁদা + শিক্ষক, সহপাঠী, আইনপ্রণেতা, সুশীল সমাজ = প্রায় ৩ লক্ষ টাকা।",
+    "শুকনো খাবার, খাবার পানি, বিশুদ্ধকরণ ট্যাবলেট, সাবান — অগ্রাধিকার প্রবীণ ও শিশু।",
+    "এক সপ্তাহের বেশি কাজ; সরকারি সংস্থা দায়িত্ব নেওয়ার পর ফিরে আসা — ক্লান্ত কিন্তু তৃপ্ত।"
+  ],
+
+  "homework": [
+    "চার বন্ধুর নাম ও ত্রাণসামগ্রীর তালিকা মুখস্থ করে লিখে আনবে।",
+    "‘The government can solely face natural disasters’ — বিপক্ষে ৬ বাক্যে যুক্তি লিখবে।",
+    "টেবিলের (i)–(x) নিজে পূরণ করবে।",
+    "Summary ১৪০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ]
+}

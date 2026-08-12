@@ -23,7 +23,40 @@
               "title": "Nelson Mandela — From Apartheid to Democracy",
               "titleBn": "নেলসন ম্যান্ডেলা",
               "tag": "Biography",
-              "level": "Hard"
+              "level": "Hard",
+              "lesson": 1
+            },
+            {
+              "id": "mandela-statement",
+              "title": "Nelson Mandela's Statement at the 1964 Trial",
+              "titleBn": "ম্যান্ডেলার বিবৃতি",
+              "tag": "Speech",
+              "level": "Hard",
+              "lesson": 2
+            },
+            {
+              "id": "marie-curie",
+              "title": "Marie Curie — A Life Devoted to Science",
+              "titleBn": "মেরি কুরি",
+              "tag": "Biography",
+              "level": "Hard",
+              "lesson": 3
+            },
+            {
+              "id": "leela-nag",
+              "title": "Leela Nag — Breaking Patriarchal Barriers",
+              "titleBn": "লীলা নাগ",
+              "tag": "Biography",
+              "level": "Medium",
+              "lesson": 4
+            },
+            {
+              "id": "nadera-begum",
+              "title": "Nadera Begum and Razia Khan Amin",
+              "titleBn": "নাদেরা বেগম ও রাজিয়া খান",
+              "tag": "Feature",
+              "level": "Medium",
+              "lesson": 5
             }
           ]
         },
@@ -62,14 +95,32 @@
               "title": "The Success of Kalsindur Girls",
               "titleBn": "কলসিন্দুরের মেয়েরা",
               "tag": "Feature",
-              "level": "Easy"
+              "level": "Easy",
+              "lesson": 1
             },
             {
               "id": "nishat-mazumder",
               "title": "Nishat Mazumder — Conquering the Peak",
               "titleBn": "নিশাত মজুমদার",
               "tag": "Biography",
-              "level": "Easy"
+              "level": "Easy",
+              "lesson": 1
+            },
+            {
+              "id": "greta-thunberg",
+              "title": "Greta Thunberg — One Girl, One Sign",
+              "titleBn": "গ্রেটা থুনবার্গ",
+              "tag": "Biography",
+              "level": "Medium",
+              "lesson": 3
+            },
+            {
+              "id": "college-students-flood",
+              "title": "A Group of College Students — Standing Beside the Flood Victims",
+              "titleBn": "একদল কলেজছাত্র",
+              "tag": "Report",
+              "level": "Easy",
+              "lesson": 4
             }
           ]
         },
@@ -137,16 +188,16 @@
               "level": "Hard"
             },
             {
-              "id": "negro-not-free",
-              "title": "I Have a Dream — Part 1 (The Negro is Still Not Free)",
-              "titleBn": "আমার একটি স্বপ্ন আছে (১)",
+              "id": "i-have-a-dream",
+              "title": "I Have a Dream — Part 2 (Let Freedom Ring)",
+              "titleBn": "আমার একটি স্বপ্ন আছে (২)",
               "tag": "Speech",
               "level": "Hard"
             },
             {
-              "id": "i-have-a-dream",
-              "title": "I Have a Dream — Part 2 (Let Freedom Ring)",
-              "titleBn": "আমার একটি স্বপ্ন আছে (২)",
+              "id": "negro-not-free",
+              "title": "I Have a Dream — Part 1 (The Negro is Still Not Free)",
+              "titleBn": "আমার একটি স্বপ্ন আছে (১)",
               "tag": "Speech",
               "level": "Hard"
             }
@@ -169,6 +220,31 @@
           ]
         },
         {
+          "no": "Unit 11",
+          "name": "Peace and Conflict",
+          "nameBn": "শান্তি ও সংঘাত",
+          "em": "🕊️",
+          "accent": "rose",
+          "chapters": [
+            {
+              "id": "old-man-at-the-bridge",
+              "title": "An Old Man at the Bridge — Ernest Hemingway",
+              "titleBn": "সেতুর ধারে এক বৃদ্ধ",
+              "tag": "Fiction",
+              "level": "Medium",
+              "lesson": 2
+            },
+            {
+              "id": "ash-shatt-camp",
+              "title": "Ash-Shatt Camp — A Diary from Gaza",
+              "titleBn": "আশ-শাত্ত শিবির",
+              "tag": "Diary",
+              "level": "Medium",
+              "lesson": 3
+            }
+          ]
+        },
+        {
           "no": "Unit 12",
           "name": "Education and Life",
           "nameBn": "শিক্ষা ও জীবন",
@@ -176,25 +252,36 @@
           "accent": "navy",
           "chapters": [
             {
-              "id": "education-gives",
-              "title": "Education Gives Us Knowledge",
-              "titleBn": "শিক্ষা আমাদের যা দেয়",
-              "tag": "Expository",
-              "level": "Medium"
+              "id": "alex-romania",
+              "title": "Alex — A Young Hero from California",
+              "titleBn": "অ্যালেক্সের গল্প",
+              "tag": "Story",
+              "level": "Easy",
+              "lesson": 1
             },
             {
               "id": "education-aims",
               "title": "Education Aims to Bring Positive Changes — Civic Engagement",
               "titleBn": "শিক্ষা ও নাগরিক সম্পৃক্ততা",
               "tag": "Expository",
-              "level": "Medium"
+              "level": "Medium",
+              "lesson": 1
             },
             {
-              "id": "alex-romania",
-              "title": "Alex — A Young Hero from California",
-              "titleBn": "অ্যালেক্সের গল্প",
-              "tag": "Story",
-              "level": "Easy"
+              "id": "education-gives",
+              "title": "Education Gives Us Knowledge",
+              "titleBn": "শিক্ষা আমাদের যা দেয়",
+              "tag": "Expository",
+              "level": "Medium",
+              "lesson": 1
+            },
+            {
+              "id": "artificial-intelligence",
+              "title": "Artificial Intelligence in the Classroom",
+              "titleBn": "শ্রেণিকক্ষে কৃত্রিম বুদ্ধিমত্তা",
+              "tag": "Expository",
+              "level": "Medium",
+              "lesson": 4
             }
           ]
         },
@@ -233,14 +320,41 @@
               "title": "Elizabeth's Voyage to India",
               "titleBn": "এলিজাবেথের ভারত যাত্রা",
               "tag": "Fiction",
-              "level": "Hard"
+              "level": "Hard",
+              "lesson": 1
             },
             {
               "id": "khorshed-village",
               "title": "Khorshed Set Me Up a Camp",
               "titleBn": "গ্রামে বিদেশিনী",
               "tag": "Travelogue",
-              "level": "Hard"
+              "level": "Hard",
+              "lesson": 1
+            },
+            {
+              "id": "mujtaba-ali",
+              "title": "Syed Mujtaba Ali — Tales of a Voyager",
+              "titleBn": "সৈয়দ মুজতবা আলী",
+              "tag": "Travelogue",
+              "level": "Hard",
+              "lesson": 3
+            }
+          ]
+        },
+        {
+          "no": "Extra 03",
+          "name": "Mind, Health & Well-being",
+          "nameBn": "মন, স্বাস্থ্য ও সুস্থতা",
+          "em": "🧘",
+          "accent": "teal",
+          "chapters": [
+            {
+              "id": "meditation",
+              "title": "Meditation — Training the Mind for Flow",
+              "titleBn": "ধ্যান",
+              "tag": "Expository",
+              "level": "Medium",
+              "lesson": 1
             }
           ]
         }

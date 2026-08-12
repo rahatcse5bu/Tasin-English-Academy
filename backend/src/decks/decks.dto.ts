@@ -1,4 +1,8 @@
+import { Type } from 'class-transformer';
 import {
+  ArrayMaxSize,
+  ArrayMinSize,
+  IsArray,
   IsBoolean,
   IsIn,
   IsInt,
@@ -7,6 +11,7 @@ import {
   IsString,
   Max,
   Min,
+  ValidateNested,
 } from 'class-validator';
 
 const ACCENTS = ['navy', 'teal', 'amber', 'rose', 'violet'];
@@ -76,4 +81,169 @@ export class UnitDto {
 
   @IsOptional() @IsIn(ACCENTS)
   accent?: string;
+}
+
+
+/* ------------------------------------------------------------------ */
+/* Teaching content — the parts a mentor keeps adding to               */
+/* ------------------------------------------------------------------ */
+
+/** One short question (প্রশ্ন ১-খ): answer in English, then in Bangla. */
+export class ShortQDto {
+  @IsString() @IsNotEmpty()
+  q!: string;
+
+  @IsString() @IsNotEmpty()
+  a!: string;
+
+  @IsOptional() @IsString()
+  bn?: string;
+}
+
+/** One multiple-choice question (প্রশ্ন ১-ক). */
+export class McqDto {
+  @IsString() @IsNotEmpty()
+  q!: string;
+
+  @IsArray() @ArrayMinSize(2) @ArrayMaxSize(6) @IsString({ each: true })
+  opts!: string[];
+
+  /** index into `opts` */
+  @IsInt() @Min(0) @Max(5)
+  ans!: number;
+
+  @IsOptional() @IsString()
+  why?: string;
+}
+
+/**
+ * The information-transfer table. A cell may hide its answer behind `@`:
+ * `"(i) @his people's emancipation"` prints the label and reveals the rest
+ * on the mentor's cue, one cell at a time.
+ */
+export class TableDto {
+  /** shown on the slide when a chapter has more than one table */
+  @IsOptional() @IsString()
+  title?: string;
+
+  @IsArray() @ArrayMinSize(2) @ArrayMaxSize(8) @IsString({ each: true })
+  headers!: string[];
+
+  @IsArray() @ArrayMaxSize(40)
+  rows!: string[][];
+
+  @IsOptional() @IsString()
+  note?: string;
+}
+
+/** One sentence of the passage: English, its Bangla, and the printed number. */
+export class SentenceDto {
+  @IsString() @IsNotEmpty()
+  en!: string;
+
+  @IsOptional() @IsString()
+  bn?: string;
+
+  @IsOptional() @IsInt() @Min(1)
+  no?: number;
+}
+
+/** One paragraph of the passage. */
+export class ParaDto {
+  @IsOptional() @IsString()
+  tag?: string;
+
+  @IsArray() @ArrayMaxSize(40)
+  @ValidateNested({ each: true }) @Type(() => SentenceDto)
+  s!: SentenceDto[];
+}
+
+/** One vocabulary entry — this is also what the clickable words in the passage show. */
+export class WordDto {
+  @IsString() @IsNotEmpty()
+  w!: string;
+
+  @IsOptional() @IsString() pos?: string;
+  @IsOptional() @IsString() pron?: string;
+  @IsOptional() @IsString() bn?: string;
+  @IsOptional() @IsString() en?: string;
+  @IsOptional() @IsString() ex?: string;
+}
+
+/** Synonyms and antonyms for one headword. */
+export class SynAntDto {
+  @IsString() @IsNotEmpty()
+  w!: string;
+
+  @IsOptional() @IsString() bn?: string;
+
+  @IsOptional() @IsArray() @ArrayMaxSize(10) @IsString({ each: true })
+  syn?: string[];
+
+  @IsOptional() @IsArray() @ArrayMaxSize(10) @IsString({ each: true })
+  ant?: string[];
+}
+
+export class FlowItemDto {
+  @IsString() @IsNotEmpty()
+  t!: string;
+
+  @IsOptional() @IsString()
+  bn?: string;
+}
+
+/** The flow chart. Box 1 is given; the rest are revealed one at a time. */
+export class FlowDto {
+  @IsOptional() @IsString()
+  title?: string;
+
+  @IsArray() @ArrayMinSize(2) @ArrayMaxSize(12)
+  @ValidateNested({ each: true }) @Type(() => FlowItemDto)
+  items!: FlowItemDto[];
+}
+
+/**
+ * Edit the teaching content of one chapter. Only the sections sent are
+ * replaced, so the passage and vocabulary are never touched by accident.
+ */
+export class ContentDto {
+  @IsOptional() @IsString()
+  summaryEn?: string;
+
+  @IsOptional() @IsString()
+  summaryBn?: string;
+
+  @IsOptional() @IsString()
+  summaryTip?: string;
+
+  @IsOptional() @IsArray() @ArrayMaxSize(60)
+  @ValidateNested({ each: true }) @Type(() => ShortQDto)
+  shortQ?: ShortQDto[];
+
+  @IsOptional() @IsArray() @ArrayMaxSize(60)
+  @ValidateNested({ each: true }) @Type(() => McqDto)
+  mcq?: McqDto[];
+
+  /**
+   * Information-transfer tables. A chapter may drill several, so this replaces
+   * the whole set; sending an empty array removes them all.
+   */
+  @IsOptional() @IsArray() @ArrayMaxSize(8)
+  @ValidateNested({ each: true }) @Type(() => TableDto)
+  tables?: TableDto[];
+
+  @IsOptional() @IsArray() @ArrayMaxSize(12)
+  @ValidateNested({ each: true }) @Type(() => ParaDto)
+  passage?: ParaDto[];
+
+  @IsOptional() @IsArray() @ArrayMaxSize(80)
+  @ValidateNested({ each: true }) @Type(() => WordDto)
+  words?: WordDto[];
+
+  @IsOptional() @IsArray() @ArrayMaxSize(80)
+  @ValidateNested({ each: true }) @Type(() => SynAntDto)
+  synant?: SynAntDto[];
+
+  @IsOptional() @ValidateNested() @Type(() => FlowDto)
+  flow?: FlowDto;
 }

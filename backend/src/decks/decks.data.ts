@@ -19,8 +19,11 @@ import d_affirmative_negative from "../data/hsc_decks/affirmative-negative.json"
 import d_alex_romania from "../data/hsc_decks/alex-romania.json";
 import d_application_email from "../data/hsc_decks/application-email.json";
 import d_article_gap_filling from "../data/hsc_decks/article-gap-filling.json";
+import d_artificial_intelligence from "../data/hsc_decks/artificial-intelligence.json";
+import d_ash_shatt_camp from "../data/hsc_decks/ash-shatt-camp.json";
 import d_beauty_is from "../data/hsc_decks/beauty-is.json";
 import d_bullying from "../data/hsc_decks/bullying.json";
+import d_college_students_flood from "../data/hsc_decks/college-students-flood.json";
 import d_completing_sentences from "../data/hsc_decks/completing-sentences.json";
 import d_completing_story from "../data/hsc_decks/completing-story.json";
 import d_composition_essay from "../data/hsc_decks/composition-essay.json";
@@ -32,15 +35,23 @@ import d_education_aims from "../data/hsc_decks/education-aims.json";
 import d_education_gives from "../data/hsc_decks/education-gives.json";
 import d_elizabeth_voyage from "../data/hsc_decks/elizabeth-voyage.json";
 import d_graph_chart from "../data/hsc_decks/graph-chart.json";
+import d_greta_thunberg from "../data/hsc_decks/greta-thunberg.json";
 import d_i_have_a_dream from "../data/hsc_decks/i-have-a-dream.json";
 import d_kalsindur_girls from "../data/hsc_decks/kalsindur-girls.json";
 import d_khorshed_village from "../data/hsc_decks/khorshed-village.json";
+import d_leela_nag from "../data/hsc_decks/leela-nag.json";
 import d_man_social_animal from "../data/hsc_decks/man-social-animal.json";
+import d_mandela_statement from "../data/hsc_decks/mandela-statement.json";
+import d_marie_curie from "../data/hsc_decks/marie-curie.json";
+import d_meditation from "../data/hsc_decks/meditation.json";
 import d_modifiers from "../data/hsc_decks/modifiers.json";
+import d_mujtaba_ali from "../data/hsc_decks/mujtaba-ali.json";
+import d_nadera_begum from "../data/hsc_decks/nadera-begum.json";
 import d_narrative_style from "../data/hsc_decks/narrative-style.json";
 import d_negro_not_free from "../data/hsc_decks/negro-not-free.json";
 import d_nelson_mandela from "../data/hsc_decks/nelson-mandela.json";
 import d_nishat_mazumder from "../data/hsc_decks/nishat-mazumder.json";
+import d_old_man_at_the_bridge from "../data/hsc_decks/old-man-at-the-bridge.json";
 import d_paragraph_writing from "../data/hsc_decks/paragraph-writing.json";
 import d_polite_words_machine from "../data/hsc_decks/polite-words-machine.json";
 import d_preposition_gap_filling from "../data/hsc_decks/preposition-gap-filling.json";
@@ -88,6 +99,8 @@ export interface Deck {
   mcq?: { q: string; opts: string[]; ans: number; why: string }[];
   shortQ?: { q: string; a: string; bn: string }[];
   table?: { headers: string[]; rows: string[][]; note?: string };
+  /** a chapter may drill more than one information-transfer table */
+  tables?: { title?: string; headers: string[]; rows: string[][]; note?: string }[];
   flow?: { title: string; items: any[] };
   /* 2nd Paper — grammar lessons */
   rules?: any[]; rulesTitle?: string; rulesPerSlide?: number; mcqMarks?: string;
@@ -106,8 +119,11 @@ export const DECKS: Record<string, Deck> = {
   "alex-romania": d_alex_romania as unknown as Deck,
   "application-email": d_application_email as unknown as Deck,
   "article-gap-filling": d_article_gap_filling as unknown as Deck,
+  "artificial-intelligence": d_artificial_intelligence as unknown as Deck,
+  "ash-shatt-camp": d_ash_shatt_camp as unknown as Deck,
   "beauty-is": d_beauty_is as unknown as Deck,
   "bullying": d_bullying as unknown as Deck,
+  "college-students-flood": d_college_students_flood as unknown as Deck,
   "completing-sentences": d_completing_sentences as unknown as Deck,
   "completing-story": d_completing_story as unknown as Deck,
   "composition-essay": d_composition_essay as unknown as Deck,
@@ -119,15 +135,23 @@ export const DECKS: Record<string, Deck> = {
   "education-gives": d_education_gives as unknown as Deck,
   "elizabeth-voyage": d_elizabeth_voyage as unknown as Deck,
   "graph-chart": d_graph_chart as unknown as Deck,
+  "greta-thunberg": d_greta_thunberg as unknown as Deck,
   "i-have-a-dream": d_i_have_a_dream as unknown as Deck,
   "kalsindur-girls": d_kalsindur_girls as unknown as Deck,
   "khorshed-village": d_khorshed_village as unknown as Deck,
+  "leela-nag": d_leela_nag as unknown as Deck,
   "man-social-animal": d_man_social_animal as unknown as Deck,
+  "mandela-statement": d_mandela_statement as unknown as Deck,
+  "marie-curie": d_marie_curie as unknown as Deck,
+  "meditation": d_meditation as unknown as Deck,
   "modifiers": d_modifiers as unknown as Deck,
+  "mujtaba-ali": d_mujtaba_ali as unknown as Deck,
+  "nadera-begum": d_nadera_begum as unknown as Deck,
   "narrative-style": d_narrative_style as unknown as Deck,
   "negro-not-free": d_negro_not_free as unknown as Deck,
   "nelson-mandela": d_nelson_mandela as unknown as Deck,
   "nishat-mazumder": d_nishat_mazumder as unknown as Deck,
+  "old-man-at-the-bridge": d_old_man_at_the_bridge as unknown as Deck,
   "paragraph-writing": d_paragraph_writing as unknown as Deck,
   "polite-words-machine": d_polite_words_machine as unknown as Deck,
   "preposition-gap-filling": d_preposition_gap_filling as unknown as Deck,

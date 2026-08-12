@@ -1,0 +1,178 @@
+{
+  "id": "ash-shatt-camp",
+  "paper": "paper1",
+  "paperName": "English 1st Paper",
+  "unit": "Unit 11",
+  "unitName": "Peace and Conflict",
+  "lesson": 3,
+  "title": "Ash-Shatt Camp — A Diary from Gaza",
+  "titleBn": "আশ-শাত্ত শিবির — গাজা থেকে লেখা ডায়েরি",
+  "lede": "মাহমুদ বালাউই-র চোখে গাজার শরণার্থী শিবির — দারিদ্র্য, অবরোধ, ভয়, আর সমুদ্রের ধারে দাঁড়িয়ে দেখা একমাত্র স্বপ্ন।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
+    { "t": "Read a first-person war diary", "d": "তথ্য নয়, একজন কিশোরের ==অনুভূতি== এখানে মূল বিষয়" },
+    { "t": "Trace the contrast that runs through the passage", "d": "সমুদ্র = স্বপ্ন ↔ শিবির = বাস্তবতা" },
+    { "t": "Understand why small things frighten him", "d": "ঘড়ি ও মাছি কেন যুদ্ধের স্মৃতি জাগায়" },
+    { "t": "Answer the table in the writer's own words", "d": "beautiful words, two, reality, flies — passage থেকে" }
+  ],
+
+  "passage": [
+    {
+      "tag": "Paragraph 1 — Words that will not come",
+      "s": [
+        { "en": "I want to write the most beautiful words about Gaza but ==I can't==.", "bn": "আমি গাজাকে নিয়ে সবচেয়ে সুন্দর কথাগুলো লিখতে চাই, কিন্তু ==আমি পারি না==।" },
+        { "en": "I can't see the ==poverty, siege and famine==, especially when all Gaza city flooded into ==Al-Areesh== and emptied it from all goods ==in two hours==.", "bn": "আমি ==দারিদ্র্য, অবরোধ আর দুর্ভিক্ষ== দেখতে পারি না — বিশেষত যখন গোটা গাজা শহর ==আল-আরিশে== ঢুকে পড়ে ==দুই ঘণ্টায়== সব পণ্য শেষ করে দেয়।" },
+        { "en": "I can't see the ==deprivation in every house==, the fear and the sickness.", "bn": "আমি ==প্রতিটি ঘরের বঞ্চনা==, ভয় আর অসুস্থতা দেখতে পারি না।" },
+        { "en": "What do you want me to say about Gaza? From when I became aware of it, ==I was sad about everything inside it== — especially the kids and even the adults, youth, women, girls.", "bn": "গাজা সম্পর্কে আপনি আমাকে কী বলতে বলেন? যেদিন থেকে আমি বুঝতে শিখেছি, ==এর ভিতরের সবকিছু নিয়েই আমি বিষণ্ন== — বিশেষ করে শিশুদের নিয়ে, এমনকি বড়রা, তরুণ, নারী ও মেয়েদের নিয়েও।" },
+        { "en": "I'm looking for nice words to say but I can't find them.", "bn": "আমি বলার মতো সুন্দর শব্দ খুঁজি, কিন্তু খুঁজে পাই না।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — The sea, and the return to reality",
+      "s": [
+        { "en": "When I stand on the shore I can ==imagine Cyprus, travel to Paris, fly to Rome==.", "bn": "যখন আমি সমুদ্রতীরে দাঁড়াই, আমি ==সাইপ্রাস কল্পনা করতে পারি, প্যারিসে যেতে পারি, রোমে উড়ে যেতে পারি==।" },
+        { "en": "==The sea is the only thing that helps me dream.==", "bn": "==সমুদ্রই একমাত্র জিনিস যা আমাকে স্বপ্ন দেখতে সাহায্য করে।==" },
+        { "en": "When I stand on the shore I can imagine the whole world and ==at the end I go back to the reality of Gaza==.", "bn": "সমুদ্রতীরে দাঁড়িয়ে আমি গোটা পৃথিবী কল্পনা করতে পারি, আর ==শেষমেশ ফিরে আসি গাজার বাস্তবতায়==।" },
+        { "en": "I go around the ==refugee camp==. I go back to the small house, the ==dirty market==, ==overflowing sewage==, the carts, the ==suffocating smell==, and the ==silent people who can't speak==.", "bn": "আমি ==শরণার্থী শিবিরের== চারপাশে ঘুরে বেড়াই। ফিরে যাই ছোট্ট ঘরটিতে, ==নোংরা বাজারে==, ==উপচে পড়া নর্দমায়==, ঠেলাগাড়িগুলোর কাছে, ==দমবন্ধ করা গন্ধে==, আর ==নীরব মানুষগুলোর কাছে যারা কথা বলতে পারে না==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — Fear of the clock, fear of the flies",
+      "s": [
+        { "en": "When I look at the clock, ==my heart beats faster==. I feel that ==the war started again==.", "bn": "যখন আমি ঘড়ির দিকে তাকাই, ==আমার হৃৎস্পন্দন দ্রুত হয়ে যায়==। মনে হয় ==যুদ্ধ আবার শুরু হয়ে গেছে==।" },
+        { "en": "Not only the clock scares me — ==everything that flies does, even the flies==.", "bn": "শুধু ঘড়িই আমাকে ভয় দেখায় না — ==যা কিছু ওড়ে সবই ভয় দেখায়, এমনকি মাছিও==।" },
+        { "en": "I can't tell anyone about my fear so they don't call me a ==wimp or a sissy==.", "bn": "আমি কাউকে আমার ভয়ের কথা বলতে পারি না, পাছে তারা আমাকে ==ভীতু বা মেয়েলি== বলে ডাকে।" },
+        { "en": "==I'm most scared for my older brothers.== When a fly lands on any of them, I feel it's going to kill him.", "bn": "==আমার সবচেয়ে বেশি ভয় আমার বড় ভাইদের জন্য।== তাদের কারও গায়ে একটা মাছি বসলেই আমার মনে হয় সেটি তাকে মেরে ফেলবে।" },
+        { "en": "I start shouting and I run away from the place. That's why ==I'm now escaping outside the house all the time==, because of the many flies.", "bn": "আমি চিৎকার করতে শুরু করি আর জায়গাটা ছেড়ে দৌড়ে পালাই। এজন্যই ==আমি এখন সারাক্ষণ ঘরের বাইরে পালিয়ে থাকি==, কারণ মাছির সংখ্যা অনেক।" }
+      ]
+    }
+  ],
+
+  "words": [
+    { "w": "siege", "pos": "noun", "pron": "/siːdʒ/", "bn": "অবরোধ", "en": "the surrounding of a place to cut off supplies", "ex": "the poverty, siege and famine" },
+    { "w": "famine", "pos": "noun", "pron": "/ˈfæmɪn/", "bn": "দুর্ভিক্ষ", "en": "an extreme shortage of food", "ex": "poverty, siege and famine" },
+    { "w": "deprivation", "pos": "noun", "pron": "/ˌdeprɪˈveɪʃn/", "bn": "বঞ্চনা, অভাব", "en": "the lack of what is needed for a decent life", "ex": "the deprivation in every house" },
+    { "w": "flood", "pos": "verb", "pron": "/flʌd/", "bn": "প্লাবিত হওয়া, হুড়মুড় করে ঢোকা", "en": "to arrive in very large numbers", "ex": "all Gaza city flooded into Al-Areesh" },
+    { "w": "refugee camp", "pos": "noun", "pron": "/ˌrefjuˈdʒiː/", "bn": "শরণার্থী শিবির", "en": "a temporary settlement for people forced to flee", "ex": "I go around the refugee camp." },
+    { "w": "sewage", "pos": "noun", "pron": "/ˈsuːɪdʒ/", "bn": "নর্দমার ময়লা পানি", "en": "waste water and human waste carried in drains", "ex": "overflowing sewage" },
+    { "w": "overflowing", "pos": "adj", "pron": "/ˌəʊvəˈfləʊɪŋ/", "bn": "উপচে পড়া", "en": "flowing over the edge because it is too full", "ex": "overflowing sewage" },
+    { "w": "suffocating", "pos": "adj", "pron": "/ˈsʌfəkeɪtɪŋ/", "bn": "দমবন্ধ করা", "en": "so unpleasant that it makes breathing difficult", "ex": "the suffocating smell" },
+    { "w": "shore", "pos": "noun", "pron": "/ʃɔː(r)/", "bn": "তীর, সৈকত", "en": "the land along the edge of the sea", "ex": "When I stand on the shore…" },
+    { "w": "reality", "pos": "noun", "pron": "/riˈæləti/", "bn": "বাস্তবতা", "en": "things as they actually are", "ex": "I go back to the reality of Gaza." },
+    { "w": "aware", "pos": "adj", "pron": "/əˈweə(r)/", "bn": "সচেতন, বুঝতে শেখা", "en": "knowing that something exists", "ex": "From when I became aware of it…" },
+    { "w": "wimp", "pos": "noun", "pron": "/wɪmp/", "bn": "ভীতু, দুর্বলচেতা", "en": "a person who is not brave (informal)", "ex": "so they don't call me a wimp" },
+    { "w": "sissy", "pos": "noun", "pron": "/ˈsɪsi/", "bn": "ভীরু, মেয়েলি স্বভাবের (তিরস্কারসূচক)", "en": "an insulting word for a boy thought to be weak", "ex": "a wimp or a sissy" },
+    { "w": "scare", "pos": "verb", "pron": "/skeə(r)/", "bn": "ভয় দেখানো", "en": "to frighten", "ex": "Not only the clock scares me." },
+    { "w": "escape", "pos": "verb", "pron": "/ɪˈskeɪp/", "bn": "পালানো, রেহাই পাওয়া", "en": "to get away from an unpleasant place or feeling", "ex": "I'm now escaping outside the house." }
+  ],
+
+  "synant": [
+    { "w": "siege", "bn": "অবরোধ", "syn": ["blockade", "encirclement"], "ant": ["liberation", "relief"] },
+    { "w": "famine", "bn": "দুর্ভিক্ষ", "syn": ["starvation", "hunger", "scarcity"], "ant": ["plenty", "abundance"] },
+    { "w": "deprivation", "bn": "বঞ্চনা", "syn": ["hardship", "want", "destitution"], "ant": ["prosperity", "plenty"] },
+    { "w": "suffocating", "bn": "দমবন্ধ করা", "syn": ["stifling", "choking", "oppressive"], "ant": ["fresh", "airy"] },
+    { "w": "silent", "bn": "নীরব", "syn": ["speechless", "mute", "quiet"], "ant": ["vocal", "noisy"] },
+    { "w": "scare", "bn": "ভয় দেখানো", "syn": ["frighten", "terrify", "alarm"], "ant": ["comfort", "reassure"] },
+    { "w": "imagine", "bn": "কল্পনা করা", "syn": ["envisage", "picture", "dream of"], "ant": ["ignore", "forget"] },
+    { "w": "reality", "bn": "বাস্তবতা", "syn": ["actuality", "fact", "truth"], "ant": ["fantasy", "illusion"] }
+  ],
+
+  "summaryEn": "In this diary from Gaza the young writer says he wants to write the most beautiful words about his city but cannot, because he cannot bear to look at its poverty, siege and famine — a hunger so sharp that the whole of Gaza once poured into Al-Areesh and emptied its shops in two hours. Ever since he became aware of the world he has been sad about everyone in Gaza, children and adults alike, and he can find no pleasant words. Only the sea lets him dream: standing on the shore he can imagine Cyprus, Paris and Rome, and then the whole world, before he must come back to reality — the small house, the dirty market, the overflowing sewage, the suffocating smell and the silent people of the refugee camp. Fear governs his day. When he looks at the clock his heart beats faster, as though the war has started again, and everything that flies frightens him, even flies. He hides this fear so that no one will call him a wimp, but he is most afraid for his older brothers: when a fly settles on one of them he shouts and runs away, and now he stays outside the house all the time.",
+  "summaryBn": "গাজা থেকে লেখা এই ডায়েরিতে তরুণ লেখক বলছেন, তিনি নিজের শহর নিয়ে সবচেয়ে সুন্দর কথাগুলো লিখতে চান কিন্তু পারেন না — কারণ এর দারিদ্র্য, অবরোধ আর দুর্ভিক্ষের দিকে তাকাতে পারেন না; সেই ক্ষুধা এতটাই তীব্র যে একবার গোটা গাজা আল-আরিশে ঢুকে দুই ঘণ্টায় দোকানগুলো খালি করে দিয়েছিল। বুঝতে শেখার পর থেকেই গাজার সব মানুষকে নিয়ে তিনি বিষণ্ন — শিশু হোক বা বড়রা — আর কোনো সুন্দর শব্দ তিনি খুঁজে পান না। কেবল সমুদ্রই তাঁকে স্বপ্ন দেখতে দেয়: তীরে দাঁড়িয়ে তিনি সাইপ্রাস, প্যারিস, রোম, এমনকি গোটা পৃথিবী কল্পনা করেন — তারপর ফিরতে হয় বাস্তবে: ছোট্ট ঘর, নোংরা বাজার, উপচে পড়া নর্দমা, দমবন্ধ করা গন্ধ আর শিবিরের নীরব মানুষগুলোর কাছে। তাঁর দিন কাটে ভয়ে। ঘড়ির দিকে তাকালেই হৃৎস্পন্দন বেড়ে যায়, মনে হয় যুদ্ধ আবার শুরু হয়েছে; যা কিছু ওড়ে সবই তাঁকে ভয় দেখায়, এমনকি মাছিও। ভীতু বলে যাতে কেউ না ডাকে তাই তিনি ভয়টা লুকিয়ে রাখেন, কিন্তু সবচেয়ে বেশি ভয় বড় ভাইদের জন্য — তাদের গায়ে মাছি বসলেই তিনি চিৎকার করে দৌড়ে পালান, আর এখন সারাক্ষণ ঘরের বাইরেই থাকেন।",
+  "summaryTip": "**Diary/personal essay-র summary:** ঘটনার তালিকা নয়, ==অনুভূতির ক্রম== ধরে লিখবে — চাওয়া (সুন্দর কথা) → বাধা (দারিদ্র্য) → পালানোর পথ (সমুদ্র) → ফিরে আসা (শিবির) → ভয় (ঘড়ি ও মাছি)।",
+
+  "mcq": [
+    { "q": "What is the passage mostly about?", "opts": ["Dreams of a refugee", "Life in Rome", "Love for Gaza", "The suffering in Gaza"], "ans": 3, "why": "স্বপ্ন ও ভালোবাসা দুটোই আছে, কিন্তু পুরো লেখাটির ==মূল বিষয়== গাজার দুর্ভোগ।" },
+    { "q": "What helps the writer escape reality?", "opts": ["Silence in the camp", "Imagining the sea", "Talking to his brothers", "Watching the flies"], "ans": 1, "why": "‘The sea is the only thing that helps me dream.’" },
+    { "q": "What scares the narrator most?", "opts": ["War sounds", "The dark", "Flies", "Big houses"], "ans": 2, "why": "‘everything that flies does, even the flies’ — মাছিই তাঁর সবচেয়ে বড় ভয়।" },
+    { "q": "Where does the writer imagine travelling to?", "opts": ["Gaza City and Al-Areesh", "Turkey and Syria", "Rome and Paris", "Dhaka and Delhi"], "ans": 2, "why": "‘imagine Cyprus, travel to Paris, fly to Rome’।" },
+    { "q": "What makes the writer feel worse when he looks at the clock?", "opts": ["Hunger", "The clock and the flies", "Seeing the sky", "Watching others leave"], "ans": 1, "why": "ঘড়ি দেখলে মনে হয় যুদ্ধ শুরু হয়েছে, আর মাছিও ভয় দেখায় — দুটোই।" },
+    { "q": "The word ‘siege’ in the passage means —", "opts": ["a festival", "a blockade cutting off supplies", "a kind of illness", "a market"], "ans": 1, "why": "siege = অবরোধ; সরবরাহ বন্ধ করে দেওয়া হয় বলেই দুর্ভিক্ষ আসে।" },
+    { "q": "Gaza city emptied Al-Areesh of all goods in —", "opts": ["two days", "two weeks", "two hours", "two months"], "ans": 2, "why": "‘emptied it from all goods in two hours’ — ক্ষুধার তীব্রতা বোঝাতেই সময়টি উল্লেখ।" },
+    { "q": "‘The silent people who can't speak’ suggests that the people are —", "opts": ["physically unable to talk", "silenced by fear and suffering", "not interested in talking", "speaking another language"], "ans": 1, "why": "শারীরিক নয়, ==মানসিক== নীরবতা — ভয় ও দুর্দশাই তাদের চুপ করিয়ে রেখেছে।" },
+    { "q": "Why does the writer hide his fear?", "opts": ["He wants to look strong to his brothers", "He is afraid of being called a wimp or a sissy", "He does not trust anyone", "He has been told not to speak"], "ans": 1, "why": "‘so they don't call me a wimp or a sissy’ — হুবহু passage-এ আছে।" },
+    { "q": "The overall tone of the passage is —", "opts": ["cheerful", "sad and fearful", "angry and violent", "indifferent"], "ans": 1, "why": "শুরু থেকে শেষ পর্যন্ত বিষণ্নতা ও ভয় — কিন্তু ক্রোধ বা সহিংসতা নেই।" }
+  ],
+
+  "shortQ": [
+    { "q": "Why can't the writer say beautiful words about Gaza?", "a": "He cannot say beautiful words because what he actually sees will not allow them. Gaza is a place of poverty, siege and famine — a hunger so extreme that the whole city once poured into Al-Areesh and emptied its shops in two hours. There is deprivation in every house, along with fear and sickness. Ever since he became aware of the world he has been sad about everyone inside the city, so although he keeps looking for nice words, he cannot find them.", "bn": "তিনি সুন্দর কথা বলতে পারেন না, কারণ তিনি যা দেখেন তা তা বলতে দেয় না। গাজা দারিদ্র্য, অবরোধ আর দুর্ভিক্ষের জায়গা — সেই ক্ষুধা এতটাই চরম যে একবার গোটা শহর আল-আরিশে ঢুকে দুই ঘণ্টায় দোকানগুলো খালি করে দিয়েছিল। প্রতিটি ঘরে আছে বঞ্চনা, সেই সঙ্গে ভয় আর অসুস্থতা। বুঝতে শেখার পর থেকেই শহরের ভিতরের সবাইকে নিয়ে তিনি বিষণ্ন, তাই সুন্দর শব্দ খুঁজলেও তিনি তা খুঁজে পান না।" },
+    { "q": "How does the writer describe the refugee camp?", "a": "He describes it through the senses rather than through statistics. Going around the camp he returns to a small house, a dirty market, overflowing sewage, the carts, and a suffocating smell. Worst of all are the people: they are silent and cannot speak, as though suffering has taken their voices away. It is a crowded, unclean and hopeless place, and it is the reality he must come back to whenever he stops dreaming.", "bn": "তিনি পরিসংখ্যান দিয়ে নয়, ইন্দ্রিয় দিয়ে শিবিরটিকে বর্ণনা করেন। শিবিরের চারপাশে ঘুরে তিনি ফিরে আসেন ছোট্ট এক ঘরে, নোংরা বাজারে, উপচে পড়া নর্দমায়, ঠেলাগাড়িগুলোর কাছে আর দমবন্ধ করা গন্ধে। সবচেয়ে করুণ হলো মানুষগুলো — তারা নীরব, কথা বলতে পারে না, যেন দুর্ভোগ তাদের কণ্ঠ কেড়ে নিয়েছে। এটি ভিড়ে ঠাসা, অপরিচ্ছন্ন ও আশাহীন এক জায়গা, আর স্বপ্ন দেখা থামলেই এই বাস্তবতাতেই তাঁকে ফিরতে হয়।" },
+    { "q": "What gives the writer the power to dream?", "a": "The sea gives him that power; he says plainly that it is the only thing that helps him dream. When he stands on the shore the horizon opens and he can imagine Cyprus, travel to Paris and fly to Rome — indeed he can imagine the whole world. The sea is the one part of Gaza that is not fenced in, and so it becomes his only window out of the siege. But the escape is brief: at the end of it he always goes back to the reality of Gaza.", "bn": "সমুদ্রই তাঁকে সেই শক্তি দেয়; তিনি স্পষ্টই বলেন, সমুদ্রই একমাত্র জিনিস যা তাঁকে স্বপ্ন দেখতে সাহায্য করে। তীরে দাঁড়ালে দিগন্ত খুলে যায় — তিনি সাইপ্রাস কল্পনা করতে পারেন, প্যারিসে যেতে পারেন, রোমে উড়ে যেতে পারেন; আসলে গোটা পৃথিবীই কল্পনা করতে পারেন। গাজার একমাত্র অংশ যা বেড়া দিয়ে ঘেরা নয় তা হলো সমুদ্র, তাই সেটিই অবরোধ থেকে তাঁর একমাত্র জানালা। কিন্তু সেই মুক্তি ক্ষণস্থায়ী — শেষে তাঁকে গাজার বাস্তবতাতেই ফিরতে হয়।" },
+    { "q": "What effect do flies have on the narrator?", "a": "They terrify him out of all proportion, because after the bombing everything that flies has become a reminder of war. He is not chiefly afraid for himself but for his older brothers: when a fly lands on one of them he feels it is going to kill him, so he starts shouting and runs away from the place. The fear has changed the way he lives — because there are so many flies indoors, he now escapes outside the house all the time.", "bn": "মাছি তাঁকে অস্বাভাবিক রকম আতঙ্কিত করে, কারণ বোমাবর্ষণের পর যা কিছু ওড়ে সবই তাঁর কাছে যুদ্ধের স্মারক হয়ে গেছে। তাঁর ভয় মূলত নিজের জন্য নয়, বড় ভাইদের জন্য — তাদের কারও গায়ে মাছি বসলেই তাঁর মনে হয় সেটি তাকে মেরে ফেলবে, তাই তিনি চিৎকার করে জায়গা ছেড়ে দৌড়ে পালান। এই ভয় তাঁর জীবনযাপনই বদলে দিয়েছে — ঘরে অনেক মাছি বলে তিনি এখন সারাক্ষণ ঘরের বাইরে পালিয়ে থাকেন।" },
+    { "q": "Why is the narrator afraid of being called a sissy?", "a": "He is a boy living in a society at war, where boys are expected to be brave and to bear everything without complaint. His own fear is real and constant, but if he admitted it he thinks people would call him a wimp or a sissy — that is, weak and unmanly. So he keeps the fear inside and tells no one. This detail is important because it shows a second wound of war: the child suffers, and then has to suffer silently.", "bn": "তিনি যুদ্ধকবলিত এক সমাজের কিশোর, যেখানে ছেলেদের কাছ থেকে সাহসী হওয়া আর নালিশ ছাড়া সব সহ্য করা প্রত্যাশিত। তাঁর ভয় সত্যি ও অবিরাম, কিন্তু স্বীকার করলে লোকে তাঁকে ভীতু বা মেয়েলি — অর্থাৎ দুর্বল ও অপুরুষোচিত — বলবে বলে তিনি মনে করেন। তাই ভয়টা ভিতরেই চেপে রাখেন, কাউকে বলেন না। এই খুঁটিনাটিটি গুরুত্বপূর্ণ, কারণ এতে যুদ্ধের দ্বিতীয় ক্ষতটি ধরা পড়ে: শিশু কষ্ট পায়, আর সেই কষ্ট তাকে নীরবে সইতে হয়।" }
+  ],
+
+  "tables": [
+    {
+      "title": "The realities of Gaza",
+      "headers": ["What / Who", "Events / Descriptions", "What / Where", "When / How"],
+      "rows": [
+        ["Writer", "wants to write about Gaza", "but can't say (i) @beautiful words", "due to war and deprivation"],
+        ["Gaza city", "flooded into Al-Areesh", "emptied the shops", "in (ii) @two hours"],
+        ["Sea", "inspires dreaming", "while standing at the shore", "helps escape (iii) @reality"],
+        ["Writer's fear", "triggered by time", "especially (iv) @when the war seems to start again", "looking at the clock"],
+        ["Refugee camp", "described as overcrowded", "with sewage and (v) @a suffocating smell", "writer roams there"],
+        ["People", "silent and helpless", "can't (vi) @speak", "due to ongoing trauma"],
+        ["Flies", "cause panic and fear", "remind of (vii) @war / everything that flies", "writer runs away from them"],
+        ["Writer's imagination", "travels the world", "goes to (viii) @Cyprus, Paris and Rome", "while standing by the sea"],
+        ["Writer's brothers", "target of his fear", "when flies land on (ix) @any of them", "he feels they will get harmed"],
+        ["Market", "overflowing and dirty", "part of the refugee camp", "adds to suffocating (x) @smell"]
+      ],
+      "note": "উত্তর passage-এর ==হুবহু== শব্দে লিখবে — ‘two hours’, ‘beautiful words’, ‘speak’।"
+    }
+  ],
+
+  "flow": {
+    "title": "The realities of Gaza — গাজার বাস্তবতা",
+    "items": [
+      { "t": "The dirty market of the refugee camp", "bn": "শিবিরের নোংরা বাজার (দেওয়া আছে)" },
+      { "t": "Poverty, siege and famine in every house", "bn": "প্রতিটি ঘরে দারিদ্র্য, অবরোধ ও দুর্ভিক্ষ" },
+      { "t": "Overflowing sewage and a suffocating smell", "bn": "উপচে পড়া নর্দমা ও দমবন্ধ করা গন্ধ" },
+      { "t": "Silent people who cannot speak", "bn": "নীরব মানুষ, যারা কথা বলতে পারে না" },
+      { "t": "Constant fear — the clock feels like war returning", "bn": "অবিরাম ভয় — ঘড়ি দেখলেই যুদ্ধ ফিরে আসার অনুভূতি" },
+      { "t": "Even flies bring panic, so he escapes outside", "bn": "মাছিও আতঙ্ক আনে, তাই তিনি বাইরে পালিয়ে থাকেন" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "The two worlds of the passage <span class='sub'>— পুরো লেখাটি দাঁড়িয়ে আছে একটি বৈপরীত্যের উপর</span>",
+      "key": "Contrast Map",
+      "table": {
+        "headers": ["সমুদ্রের দিক (স্বপ্ন)", "শিবিরের দিক (বাস্তবতা)"],
+        "rows": [
+          ["standing on the shore", "going around the refugee camp"],
+          ["Cyprus, Paris, Rome", "the small house, the dirty market"],
+          ["the whole world", "overflowing sewage, suffocating smell"],
+          ["freedom to imagine", "silent people who can't speak"],
+          ["open horizon", "siege, famine, deprivation"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "🌊", "t": "সমুদ্রের ভূমিকা মনে রেখো", "d": "প্রশ্ন যেভাবেই আসুক — ‘escape’, ‘dream’, ‘hope’ — উত্তর একটাই: ==the sea==।" },
+    { "em": "🪰", "t": "মাছি কেন ভয়ের", "type": "warn", "d": "‘everything that flies’ — বিমান ও বোমার স্মৃতি। মাছি নিজে বিপজ্জনক নয়, ==যুদ্ধের ট্রমাই== ভয়ের কারণ।" },
+    { "em": "⏰", "t": "ঘড়ির প্রতীক", "d": "ঘড়ি দেখলে হৃৎস্পন্দন বাড়ে কারণ হামলাগুলো নির্দিষ্ট সময়ে হতো — সময়ই আতঙ্কের সংকেত।" },
+    { "em": "🧒", "t": "narrator একজন কিশোর", "d": "‘wimp or a sissy’ শব্দ দুটি প্রমাণ করে বক্তা তরুণ — উত্তরে ‘the young writer/narrator’ লিখবে।" },
+    { "em": "✍️", "t": "Tone শব্দ শিখে রাখো", "d": "==melancholic==, ==helpless==, ==traumatised== — tone-এর প্রশ্নে এই শব্দগুলো নম্বর বাড়ায়।" }
+  ],
+
+  "recap": [
+    "লেখক গাজা নিয়ে সুন্দর কিছু লিখতে চান, কিন্তু দারিদ্র্য-অবরোধ-দুর্ভিক্ষ তা হতে দেয় না।",
+    "গোটা গাজা আল-আরিশে ঢুকে দুই ঘণ্টায় দোকান খালি করে দিয়েছিল।",
+    "সমুদ্রই একমাত্র স্বপ্নের জায়গা — সাইপ্রাস, প্যারিস, রোম।",
+    "বাস্তবতা: ছোট ঘর, নোংরা বাজার, উপচে পড়া নর্দমা, নীরব মানুষ।",
+    "ঘড়ি ও মাছি — দুটোই যুদ্ধের ভয় ফিরিয়ে আনে; ভাইদের জন্যই তাঁর সবচেয়ে বেশি ভয়।"
+  ],
+
+  "homework": [
+    "‘The sea’ ও ‘the camp’ — দুই কলামে ৫টি করে বিপরীত ছবি লিখে আনবে।",
+    "টেবিলের (i)–(x) নিজে পূরণ করবে।",
+    "‘Why does the narrator fear flies?’ — ৬ বাক্যে ব্যাখ্যা করে লিখবে।",
+    "Summary ১৩০-১৫০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ]
+}

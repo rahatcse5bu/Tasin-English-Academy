@@ -14,16 +14,34 @@
  *   W is a whiteboard: pen, highlighter, laser pointer, eraser.
  */
 
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { memo, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import { build } from '@/lib/deck/build';
 import { plain } from '@/lib/deck/text';
-import { buildLexicon, linkWords, norm, type WordEntry } from '@/lib/deck/lexicon';
+import { buildLexicon, norm, type WordEntry } from '@/lib/deck/lexicon';
 import WordModal from './WordModal';
 import type { Deck, Neighbours } from '@/lib/deck/types';
 
 const BRAND = { name: 'Tasin English Academy', phone: '01722335722' };
+
+/**
+ * The injected slide markup, memoised on the HTML alone.
+ *
+ * Without this React re-creates the subtree on every re-render of the player —
+ * which detaches whatever the mouse is currently over, so a hover tooltip
+ * anchored to a word would flicker. It also lets refit()'s `centered` class
+ * survive, since React never touches an element it did not re-render.
+ */
+const SlideBody = memo(function SlideBody({ html, bare }: { html: string; bare?: boolean }) {
+  return bare ? (
+    <div className="slide-body" style={{ display: 'flex', alignItems: 'center' }}>
+      <div style={{ width: '100%' }} dangerouslySetInnerHTML={{ __html: html }} />
+    </div>
+  ) : (
+    <div className="slide-body" dangerouslySetInnerHTML={{ __html: html }} />
+  );
+});
 const WB_COLORS = ['#d9242b', '#24528f', '#111827', '#0f9d58', '#d98324', '#7c3aed'];
 const WB_SIZES = [2, 3, 4, 6, 9, 14, 22];
 
@@ -109,6 +127,28 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
     p[0].scrollIntoView({ block: 'nearest' });
   }, [pending, revealNode]);
 
+  /**
+   * Undo the last reveal on this slide — the mirror of revealNext(), so a mentor
+   * can walk a table or a flow chart in both directions while explaining it.
+   */
+  const revealPrev = useCallback(() => {
+    const cur = slideEl();
+    if (!cur) return;
+    const opened = Array.from(
+      cur.querySelectorAll<HTMLElement>('[data-rev].revealed, [data-mcq].revealed, [data-qa]:not(.collapsed)'),
+    ).filter((n) => !n.classList.contains('given')); // box 1 of a flow chart is given
+    const last = opened[opened.length - 1];
+    if (!last) return;
+    if (last.hasAttribute('data-qa')) last.classList.add('collapsed');
+    else {
+      last.classList.remove('revealed');
+      last.querySelectorAll('.wrongpick').forEach((o) => o.classList.remove('wrongpick'));
+    }
+    last.scrollIntoView({ block: 'nearest' });
+    refit();
+    countAnswers();
+  }, [slideEl, refit, countAnswers]);
+
   const revealAll = useCallback(() => {
     stageRef.current
       ?.querySelectorAll('[data-mcq], [data-rev]')
@@ -119,19 +159,6 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
     refit();
     countAnswers();
   }, [refit, countAnswers]);
-
-  /**
-   * Make the vocabulary in the passage tappable. Runs once per deck, after the
-   * slides are in the DOM — the linker rewrites text nodes, so it must not see
-   * markup React still owns.
-   */
-  useEffect(() => {
-    const stage = stageRef.current;
-    if (!stage) return;
-    stage
-      .querySelectorAll<HTMLElement>('.slide[data-kind="passage"] .passage, .slide[data-kind="summary"] .sum-en')
-      .forEach((el) => linkWords(el, lex));
-  }, [lex]);
 
   const openWord = useCallback(
     (key: string) => {
@@ -363,7 +390,8 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
       else if (k === 'Home') { e.preventDefault(); go(0); }
       else if (k === 'End') { e.preventDefault(); go(slides.length - 1); }
       else if (k === 'Escape') { setOverview(false); setHelp(false); setWbOn(false); }
-      else if (k === 'r' || k === 'R') { e.preventDefault(); revealNext(); }
+      else if (k === 'r' || k === 'R') { e.preventDefault(); e.shiftKey ? revealPrev() : revealNext(); }
+      else if (k === 'Backspace') { e.preventDefault(); revealPrev(); }
       else if (k === 'a' || k === 'A') revealAll();
       else if (k === 'o' || k === 'O') setOverview((v) => !v);
       else if (k === 'b' || k === 'B') setHideBn((v) => !v);
@@ -374,7 +402,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [i, slides.length, go, revealNext, revealAll, openWord, word]);
+  }, [i, slides.length, go, revealNext, revealPrev, revealAll, openWord, word]);
 
   useEffect(() => {
     try { localStorage.setItem('tea:theme', dark ? 'dark' : 'light'); } catch {}
@@ -531,6 +559,10 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
           <button className="tbtn" onClick={toggleFull} title="Fullscreen (F)">
             <span className="ico">⛶</span>
           </button>
+          <Link className="tbtn no-print" href={`/decks/${deck.id}/edit`} title="প্রশ্ন / টেবিল / সারাংশ সম্পাদনা">
+            <span className="ico">✎</span>
+            <span>সম্পাদনা</span>
+          </Link>
           <button className="tbtn" onClick={() => setHelp(true)} title="Shortcuts (?)">
             <span className="ico">?</span>
           </button>
@@ -545,7 +577,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
           ref={stageRef}
           onClick={onStageClick}
           onMouseOver={onStageOver}
-          onMouseOut={() => setHint(null)}
+          onMouseLeave={() => setHint(null)}
           onTouchStart={onTouchStart}
           onTouchEnd={onTouchEnd}
         >
@@ -558,9 +590,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
             >
               {s.bare ? (
                 <>
-                  <div className="slide-body" style={{ display: 'flex', alignItems: 'center' }}>
-                    <div style={{ width: '100%' }} dangerouslySetInnerHTML={{ __html: s.html }} />
-                  </div>
+                  <SlideBody html={s.html} bare />
                   {foot(n)}
                 </>
               ) : (
@@ -574,7 +604,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
                       dangerouslySetInnerHTML={{ __html: s.title }}
                     />
                   </div>
-                  <div className="slide-body" dangerouslySetInnerHTML={{ __html: s.html }} />
+                  <SlideBody html={s.html} />
                   {foot(n)}
                 </>
               )}
@@ -692,6 +722,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
             ['Whiteboard (draw / highlight / laser)', 'W'],
             ['ডার্ক মোড', 'D'],
             ['ফুলস্ক্রিন', 'F'],
+            ['আগের উত্তর লুকাও', 'Shift+R / Backspace'],
             ['প্রথম / শেষ স্লাইড', 'Home / End'],
             ['বন্ধ করো', 'Esc'],
           ].map(([label, key]) => (

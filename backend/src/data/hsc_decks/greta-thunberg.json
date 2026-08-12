@@ -1,0 +1,182 @@
+{
+  "id": "greta-thunberg",
+  "paper": "paper1",
+  "paperName": "English 1st Paper",
+  "unit": "Unit 07",
+  "unitName": "Youthful Achievers",
+  "lesson": 3,
+  "title": "Greta Thunberg — One Girl, One Sign",
+  "titleBn": "গ্রেটা থুনবার্গ — একা এক কিশোরীর প্ল্যাকার্ড",
+  "lede": "আট বছরে জলবায়ু নিয়ে জানা, এগারো বছরে কথা বলা বন্ধ, পনেরো বছরে সংসদের সামনে একা বসে পড়া — আর তারপর ১২৫টি দেশে ছড়িয়ে পড়া আন্দোলন।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
+    { "t": "Follow a young activist's timeline", "d": "2003 জন্ম → 8 বছরে জানা → 11 বছরে নীরবতা → 2018 ধর্মঘট → 2019 বিশ্ব ধর্মঘট" },
+    { "t": "See difference as strength, not weakness", "d": "Asperger's syndrome-কে গ্রেটা বলেন ‘superpower’" },
+    { "t": "Learn climate vocabulary", "d": "baffled, strike, extinction, campaigner, whirlwind" },
+    { "t": "Fill the table with exact figures", "d": "125 countries, 1.6 million, 15 days" }
+  ],
+
+  "passage": [
+    {
+      "tag": "Paragraph 1 — A child who could not understand the silence of adults",
+      "s": [
+        { "en": "Greta Thunberg is an ==environmental activist==. She was born in ==Stockholm, Sweden, in 2003==.", "bn": "গ্রেটা থুনবার্গ একজন ==পরিবেশ আন্দোলনকর্মী==। তাঁর জন্ম ==২০০৩ সালে সুইডেনের স্টকহোমে==।" },
+        { "en": "When she was ==eight==, she started learning about ==climate change==.", "bn": "যখন তাঁর বয়স ==আট==, তখন থেকেই তিনি ==জলবায়ু পরিবর্তন== নিয়ে জানতে শুরু করেন।" },
+        { "en": "The more she learned, the more ==baffled== she became as to why so little was being done about it.", "bn": "যত বেশি তিনি জানতে থাকেন, তত বেশি ==হতভম্ব== হন — এ নিয়ে এত কম কাজ হচ্ছে কেন।" },
+        { "en": "At the age of ==11==, Greta became so sad about climate change that she ==temporarily stopped speaking==.", "bn": "==১১== বছর বয়সে জলবায়ু পরিবর্তন নিয়ে গ্রেটা এতটাই বিষণ্ন হয়ে পড়েন যে তিনি ==সাময়িকভাবে কথা বলা বন্ধ করে দেন==।" },
+        { "en": "Greta has ==Asperger's syndrome==, a condition that affects how people socialise, but Greta ==views her condition as a superpower==.", "bn": "গ্রেটার আছে ==অ্যাসপারজার্স সিনড্রোম==, যা মানুষের সামাজিক মেলামেশার ধরনকে প্রভাবিত করে; কিন্তু গ্রেটা ==নিজের এই অবস্থাকে একটি পরাশক্তি বলে মনে করেন==।" },
+        { "en": "She says it helps her ==see the world in black and white==, and that there is ==“no grey area”== when it comes to climate change.", "bn": "তিনি বলেন, এটি তাঁকে ==পৃথিবীকে সাদা-কালোয় দেখতে== সাহায্য করে, আর জলবায়ু পরিবর্তনের প্রশ্নে ==“কোনো ধূসর এলাকা নেই”==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — The school strike",
+      "s": [
+        { "en": "In ==August 2018==, Greta decided to take action.", "bn": "==২০১৮ সালের আগস্টে== গ্রেটা পদক্ষেপ নেওয়ার সিদ্ধান্ত নেন।" },
+        { "en": "Instead of going to school, she made a large sign that read ==“Skolstrejk för klimatet: SCHOOL STRIKE FOR CLIMATE,”== and calmly sat down ==outside the Swedish parliament==.", "bn": "স্কুলে যাওয়ার বদলে তিনি একটি বড় প্ল্যাকার্ড বানান যাতে লেখা ছিল ==“Skolstrejk för klimatet: জলবায়ুর জন্য স্কুল ধর্মঘট”==, এবং শান্তভাবে ==সুইডিশ সংসদের বাইরে== বসে পড়েন।" },
+        { "en": "Her aim? To ==make politicians take notice, and act to stop global warming==.", "bn": "তাঁর উদ্দেশ্য? ==রাজনীতিবিদদের নজরে আনা এবং বিশ্ব উষ্ণায়ন থামাতে পদক্ষেপ নেওয়ানো==।" },
+        { "en": "Greta's strike was picked up by the Swedish media, and the word started to spread; soon enough, ==tens of thousands of students== from around the world joined her.", "bn": "গ্রেটার ধর্মঘট সুইডিশ গণমাধ্যমে উঠে আসে, খবর ছড়াতে থাকে; খুব দ্রুতই বিশ্বজুড়ে ==হাজার হাজার শিক্ষার্থী== তাঁর সঙ্গে যোগ দেয়।" },
+        { "en": "==#FridaysForFuture== strikes — skipping school on Fridays to protest — began in more than ==125 countries==.", "bn": "==#FridaysForFuture== ধর্মঘট — প্রতিবাদ জানাতে শুক্রবারে স্কুল কামাই — শুরু হয় ==১২৫টিরও বেশি দেশে==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — From one sign to a global movement",
+      "s": [
+        { "en": "In ==March 2019==, climate campaigners across the world, inspired by Greta, came together to coordinate the ==first Global Strike for Climate==; over ==1.6 million people from 125 countries== took part.", "bn": "==২০১৯ সালের মার্চে== গ্রেটার অনুপ্রেরণায় বিশ্বজুড়ে জলবায়ু আন্দোলনকর্মীরা একত্র হয়ে ==প্রথম বৈশ্বিক জলবায়ু ধর্মঘটের== আয়োজন করেন; ==১২৫টি দেশের ১৬ লাখেরও বেশি মানুষ== এতে অংশ নেয়।" },
+        { "en": "Since her strike began, Greta's life has become a ==whirlwind==: she has appeared in documentaries and books, addressed the ==UK parliament, the US parliament== and given rousing speeches to ==UN== politicians, and she has even been ==nominated for a Nobel Peace Prize==.", "bn": "ধর্মঘট শুরুর পর থেকে গ্রেটার জীবন ==ঘূর্ণিঝড়ের== মতো: তিনি তথ্যচিত্র ও বইয়ে এসেছেন, ==যুক্তরাজ্য ও যুক্তরাষ্ট্রের সংসদে== বক্তৃতা দিয়েছেন, ==জাতিসংঘের== রাজনীতিবিদদের সামনে জ্বালাময়ী ভাষণ দিয়েছেন, এমনকি ==নোবেল শান্তি পুরস্কারের জন্য মনোনীতও== হয়েছেন।" },
+        { "en": "In ==August 2019==, Greta travelled on a ==solar-powered boat== from Plymouth, UK, to New York, USA — the journey took ==15 days==.", "bn": "==২০১৯ সালের আগস্টে== গ্রেটা যুক্তরাজ্যের প্লিমাউথ থেকে যুক্তরাষ্ট্রের নিউইয়র্কে যান একটি ==সৌরচালিত নৌযানে== — যাত্রাটি নিয়েছিল ==১৫ দিন==।" },
+        { "en": "Her passionate speech warned of a mass extinction: ==“We are in the beginning of a mass extinction, and all you can talk about is money and fairy tales of eternal economic growth. How dare you!”==", "bn": "তাঁর আবেগঘন ভাষণ এক ব্যাপক বিলুপ্তির বিষয়ে সতর্ক করে: ==“আমরা এক গণবিলুপ্তির শুরুতে দাঁড়িয়ে, অথচ আপনারা কেবল টাকা আর চিরস্থায়ী অর্থনৈতিক প্রবৃদ্ধির রূপকথা নিয়ে কথা বলছেন। আপনাদের এত সাহস!”==" },
+        { "en": "Greta has drawn much attention from all over the world, changing how some people think and act about climate change; her impact is called the ==“Greta Effect.”==", "bn": "গ্রেটা সারা বিশ্বের দৃষ্টি আকর্ষণ করেছেন এবং জলবায়ু নিয়ে অনেকের ভাবনা ও আচরণ বদলে দিয়েছেন; তাঁর এই প্রভাবকে বলা হয় ==“গ্রেটা ইফেক্ট”==।" },
+        { "en": "Greta has named ==Rosa Parks==, the civil rights activist, as one of her greatest inspirations; in the 1950s Rosa sparked a civil rights movement that improved the lives of millions of African Americans.", "bn": "গ্রেটা নাগরিক অধিকার আন্দোলনকর্মী ==রোজা পার্কসকে== তাঁর অন্যতম বড় অনুপ্রেরণা বলে উল্লেখ করেছেন; ১৯৫০-এর দশকে রোজা এমন এক নাগরিক অধিকার আন্দোলনের সূচনা করেন যা লাখ লাখ আফ্রিকান-আমেরিকানের জীবন উন্নত করেছিল।" }
+      ]
+    }
+  ],
+
+  "words": [
+    { "w": "activist", "pos": "noun", "pron": "/ˈæktɪvɪst/", "bn": "আন্দোলনকর্মী", "en": "a person who campaigns for social or political change", "ex": "Greta Thunberg is an environmental activist." },
+    { "w": "climate change", "pos": "noun", "pron": "/ˈklaɪmət/", "bn": "জলবায়ু পরিবর্তন", "en": "long-term change in the earth's weather patterns", "ex": "she started learning about climate change" },
+    { "w": "baffled", "pos": "adj", "pron": "/ˈbæfld/", "bn": "হতভম্ব, বিভ্রান্ত", "en": "completely puzzled and unable to understand", "ex": "the more baffled she became" },
+    { "w": "syndrome", "pos": "noun", "pron": "/ˈsɪndrəʊm/", "bn": "উপসর্গসমষ্টি, সিনড্রোম", "en": "a set of symptoms that occur together", "ex": "Greta has Asperger's syndrome." },
+    { "w": "socialise", "pos": "verb", "pron": "/ˈsəʊʃəlaɪz/", "bn": "মেলামেশা করা", "en": "to mix with other people", "ex": "a condition that affects how people socialise" },
+    { "w": "grey area", "pos": "noun", "pron": "/ɡreɪ ˈeəriə/", "bn": "অস্পষ্ট/দ্বিধাগ্রস্ত অংশ", "en": "a situation where the rules are not clear", "ex": "there is no grey area" },
+    { "w": "strike", "pos": "noun", "pron": "/straɪk/", "bn": "ধর্মঘট", "en": "a refusal to work or study as a protest", "ex": "SCHOOL STRIKE FOR CLIMATE" },
+    { "w": "parliament", "pos": "noun", "pron": "/ˈpɑːləmənt/", "bn": "সংসদ", "en": "the group of people who make a country's laws", "ex": "sat down outside the Swedish parliament" },
+    { "w": "global warming", "pos": "noun", "pron": "/ˈɡləʊbl ˈwɔːmɪŋ/", "bn": "বৈশ্বিক উষ্ণায়ন", "en": "the rise in the earth's temperature", "ex": "act to stop global warming" },
+    { "w": "campaigner", "pos": "noun", "pron": "/kæmˈpeɪnə(r)/", "bn": "আন্দোলনকারী", "en": "a person who works for a cause", "ex": "climate campaigners across the world" },
+    { "w": "coordinate", "pos": "verb", "pron": "/kəʊˈɔːdɪneɪt/", "bn": "সমন্বয় করা", "en": "to organise different parts to work together", "ex": "came together to coordinate the first Global Strike" },
+    { "w": "whirlwind", "pos": "noun", "pron": "/ˈwɜːlwɪnd/", "bn": "ঘূর্ণিঝড়; অতি দ্রুত ঘটনাপ্রবাহ", "en": "a very fast and busy series of events", "ex": "Greta's life has become a whirlwind" },
+    { "w": "rousing", "pos": "adj", "pron": "/ˈraʊzɪŋ/", "bn": "উদ্দীপক, জ্বালাময়ী", "en": "exciting and full of energy", "ex": "rousing speeches to UN politicians" },
+    { "w": "nominate", "pos": "verb", "pron": "/ˈnɒmɪneɪt/", "bn": "মনোনীত করা", "en": "to formally suggest someone for a prize or post", "ex": "nominated for a Nobel Peace Prize" },
+    { "w": "mass extinction", "pos": "noun", "pron": "/ɪkˈstɪŋkʃn/", "bn": "গণবিলুপ্তি", "en": "the dying out of very many species at once", "ex": "the beginning of a mass extinction" },
+    { "w": "eternal", "pos": "adj", "pron": "/ɪˈtɜːnl/", "bn": "চিরস্থায়ী", "en": "lasting for ever", "ex": "fairy tales of eternal economic growth" },
+    { "w": "spark", "pos": "verb", "pron": "/spɑːk/", "bn": "সূচনা করা, জ্বালিয়ে দেওয়া", "en": "to cause something to start", "ex": "Rosa sparked a civil rights movement" }
+  ],
+
+  "synant": [
+    { "w": "baffled", "bn": "হতভম্ব", "syn": ["perplexed", "puzzled", "bewildered"], "ant": ["enlightened", "clear", "certain"] },
+    { "w": "activist", "bn": "আন্দোলনকর্মী", "syn": ["campaigner", "reformer", "advocate"], "ant": ["bystander", "onlooker"] },
+    { "w": "temporarily", "bn": "সাময়িকভাবে", "syn": ["briefly", "for a while"], "ant": ["permanently", "for ever"] },
+    { "w": "rousing", "bn": "উদ্দীপক", "syn": ["stirring", "inspiring", "passionate"], "ant": ["dull", "boring"] },
+    { "w": "coordinate", "bn": "সমন্বয় করা", "syn": ["organise", "arrange", "harmonise"], "ant": ["disorganise", "scatter"] },
+    { "w": "inspiration", "bn": "অনুপ্রেরণা", "syn": ["motivation", "stimulus", "example"], "ant": ["discouragement"] },
+    { "w": "protest", "bn": "প্রতিবাদ", "syn": ["demonstration", "objection", "dissent"], "ant": ["approval", "consent"] },
+    { "w": "extinction", "bn": "বিলুপ্তি", "syn": ["dying out", "annihilation"], "ant": ["survival", "preservation"] }
+  ],
+
+  "summaryEn": "Greta Thunberg, an environmental activist, was born in Stockholm in 2003 and began learning about climate change at the age of eight. The more she learned, the more baffled she became that so little was being done, and at eleven she grew so sad that she stopped speaking for a time. She has Asperger's syndrome, which affects how people socialise, but she treats it as a superpower because it lets her see the issue in black and white, with no grey area. In August 2018 she stopped going to school, made a sign reading \"School Strike for Climate\" and sat outside the Swedish parliament to force politicians to act. The Swedish media reported it, tens of thousands of students joined her, and #FridaysForFuture strikes spread to more than 125 countries. In March 2019 over 1.6 million people took part in the first Global Strike for Climate. Since then Greta has appeared in books and documentaries, addressed the UK and US parliaments and the UN, sailed to New York on a solar-powered boat in fifteen days, and been nominated for the Nobel Peace Prize. Her influence is now called the \"Greta Effect\", and she names Rosa Parks as one of her greatest inspirations.",
+  "summaryBn": "পরিবেশ আন্দোলনকর্মী গ্রেটা থুনবার্গের জন্ম ২০০৩ সালে স্টকহোমে; আট বছর বয়সেই তিনি জলবায়ু পরিবর্তন নিয়ে জানতে শুরু করেন। যত জেনেছেন, তত হতভম্ব হয়েছেন — এত কম কাজ হচ্ছে কেন; এগারো বছর বয়সে এতটাই বিষণ্ন হয়ে পড়েন যে কিছুদিন কথা বলা বন্ধ করে দেন। তাঁর অ্যাসপারজার্স সিনড্রোম আছে, যা সামাজিক মেলামেশাকে প্রভাবিত করে; কিন্তু তিনি একে পরাশক্তি মনে করেন, কারণ এতে বিষয়টি তিনি সাদা-কালোয় দেখতে পান, কোনো ধূসর এলাকা থাকে না। ২০১৮ সালের আগস্টে স্কুলে যাওয়া বন্ধ করে “জলবায়ুর জন্য স্কুল ধর্মঘট” লেখা প্ল্যাকার্ড নিয়ে তিনি সুইডিশ সংসদের বাইরে বসে পড়েন, যাতে রাজনীতিবিদরা পদক্ষেপ নিতে বাধ্য হন। সুইডিশ গণমাধ্যমে খবরটি আসে, হাজার হাজার শিক্ষার্থী যোগ দেয় এবং #FridaysForFuture ধর্মঘট ছড়িয়ে পড়ে ১২৫টিরও বেশি দেশে। ২০১৯ সালের মার্চে প্রথম বৈশ্বিক জলবায়ু ধর্মঘটে অংশ নেয় ১৬ লাখেরও বেশি মানুষ। এরপর গ্রেটা বই ও তথ্যচিত্রে এসেছেন, যুক্তরাজ্য-যুক্তরাষ্ট্রের সংসদ ও জাতিসংঘে বক্তৃতা দিয়েছেন, সৌরচালিত নৌযানে পনেরো দিনে নিউইয়র্কে গেছেন এবং নোবেল শান্তি পুরস্কারের জন্য মনোনীত হয়েছেন। তাঁর প্রভাবকে এখন বলা হয় “গ্রেটা ইফেক্ট”, আর তিনি রোজা পার্কসকে নিজের অন্যতম অনুপ্রেরণা বলেন।",
+  "summaryTip": "**সংখ্যা লিখো, কিন্তু সব নয়:** ==125 countries==, ==1.6 million==, ==15 days== — এই তিনটি রাখলেই যথেষ্ট। উদ্ধৃতি (‘How dare you!’) summary-তে না দিয়ে ভাব লিখবে।",
+
+  "mcq": [
+    { "q": "Why is Greta Thunberg renowned?", "opts": ["because she has been nominated for a Nobel Peace Prize", "for supporting the Civil Rights Movement", "for her role in eternal economic growth", "for raising her voice against global climate change"], "ans": 3, "why": "নোবেল মনোনয়ন তাঁর খ্যাতির ==ফল==, কারণ নয়। খ্যাতির কারণ জলবায়ু আন্দোলন।" },
+    { "q": "‘Asperger's syndrome’ is —", "opts": ["a condition that affects physical development", "a disease that slows down a child's intellectual growth", "a mental disorder causing violence", "a developmental disorder causing difficulties in social interaction and non-verbal communication"], "ans": 3, "why": "Passage বলে ‘a condition that affects how people socialise’ — অর্থাৎ সামাজিক মেলামেশায় সমস্যা।" },
+    { "q": "Greta started learning about climate change in —", "opts": ["2008", "2011", "2019", "2003"], "ans": 1, "why": "জন্ম ২০০৩, শেখা শুরু ৮ বছরে → ২০০৩ + ৮ = ==২০১১==।" },
+    { "q": "The synonym of the word ‘baffled’ is —", "opts": ["struggled", "combated", "perplexed", "amazed"], "ans": 2, "why": "baffled = হতভম্ব/বিভ্রান্ত = perplexed। ‘amazed’ মানে বিস্মিত (ইতিবাচক) — এক নয়।" },
+    { "q": "Greta stopped speaking for the time being because —", "opts": ["she became physically disabled", "she was extremely sad and shocked at severe global climate change", "she fell victim to Asperger's syndrome", "she found the issue too difficult to control"], "ans": 1, "why": "‘became so sad about climate change that she temporarily stopped speaking’ — Asperger's আলাদা বিষয়।" },
+    { "q": "Greta's school strike began in —", "opts": ["March 2019", "August 2018", "August 2019", "2003"], "ans": 1, "why": "‘In August 2018, Greta decided to take action.’" },
+    { "q": "#FridaysForFuture strikes began in more than —", "opts": ["25 countries", "125 countries", "1.6 million countries", "15 countries"], "ans": 1, "why": "১২৫টি দেশ; ১৬ লাখ হলো ==মানুষের== সংখ্যা, দেশের নয়।" },
+    { "q": "Greta travelled to New York on a solar-powered boat in —", "opts": ["5 days", "15 days", "50 days", "2 days"], "ans": 1, "why": "‘the journey took 15 days’ — বিমান এড়াতেই এই দীর্ঘ যাত্রা।" },
+    { "q": "‘How dare you!’ expresses Greta's —", "opts": ["fear of politicians", "anger at leaders who talk only of money", "joy at being nominated", "regret for missing school"], "ans": 1, "why": "নেতারা গণবিলুপ্তির মুখেও টাকার কথা বলছেন — এই ==ক্ষোভই== ‘How dare you!’।" },
+    { "q": "Whom does Greta name as one of her greatest inspirations?", "opts": ["Rosa Parks", "Marie Curie", "Nelson Mandela", "Martin Luther King"], "ans": 0, "why": "‘Greta has named Rosa Parks, the civil rights activist, as one of her greatest inspirations.’" }
+  ],
+
+  "shortQ": [
+    { "q": "Who was Greta Thunberg? What did she begin to learn from her early life?", "a": "Greta Thunberg is a Swedish environmental activist, born in Stockholm in 2003. From her early life — from the age of eight — she began to learn about climate change. The more she learned, the more baffled she became that so little was being done about a danger so great, and that puzzlement eventually turned into the school strike that made her known all over the world.", "bn": "গ্রেটা থুনবার্গ একজন সুইডিশ পরিবেশ আন্দোলনকর্মী, ২০০৩ সালে স্টকহোমে তাঁর জন্ম। জীবনের শুরুতেই — আট বছর বয়স থেকে — তিনি জলবায়ু পরিবর্তন নিয়ে জানতে শুরু করেন। যত জেনেছেন, তত হতভম্ব হয়েছেন যে এত বড় বিপদ নিয়ে এত কম কাজ হচ্ছে; সেই বিস্ময়ই শেষ পর্যন্ত সেই স্কুল ধর্মঘটে রূপ নেয় যা তাঁকে সারা বিশ্বে পরিচিত করেছে।" },
+    { "q": "What does the statement “The more she learned, the more baffled she became” mean?", "a": "It means that knowledge did not bring her comfort but confusion. Normally the more we learn about a problem, the better we understand it; in Greta's case the opposite happened. The more facts she gathered about the damage being done to the earth, the less she could understand why adults, governments and politicians were doing so little to stop it. Her bewilderment was therefore not about the science but about the silence of the grown-up world.", "bn": "এর অর্থ, জ্ঞান তাঁকে স্বস্তি নয়, বিভ্রান্তি এনে দিয়েছিল। সাধারণত কোনো সমস্যা সম্পর্কে যত জানি, তত ভালো বুঝি; গ্রেটার ক্ষেত্রে হয়েছিল উল্টো। পৃথিবীর ক্ষতি নিয়ে যত তথ্য তিনি জোগাড় করেছেন, তত কম বুঝতে পেরেছেন কেন বড়রা, সরকার ও রাজনীতিবিদরা তা থামাতে এত কম কিছু করছেন। তাই তাঁর হতবুদ্ধি হওয়া বিজ্ঞান নিয়ে নয়, বড়দের নীরবতা নিয়ে।" },
+    { "q": "What caused Greta's stopping speaking temporarily?", "a": "It was caused by grief, not by illness. At the age of eleven she had learned enough about climate change to feel that the earth was in serious danger, and she became so sad about it that she temporarily stopped speaking. It was a child's response to a fear that the adults around her did not seem to share — a silence that later turned into the loudest protest of her generation.", "bn": "এর কারণ ছিল শোক, কোনো অসুখ নয়। এগারো বছর বয়সে জলবায়ু পরিবর্তন নিয়ে তিনি এতটাই জেনে ফেলেছিলেন যে পৃথিবী গুরুতর বিপদে আছে বলে মনে হয়েছিল, আর তা নিয়ে এতটাই বিষণ্ন হয়ে পড়েন যে সাময়িকভাবে কথা বলা বন্ধ করে দেন। এটি ছিল এমন এক ভয়ের প্রতি শিশুর প্রতিক্রিয়া যা তাঁর চারপাশের বড়রা অনুভব করছিলেন বলে মনে হয়নি — সেই নীরবতাই পরে তাঁর প্রজন্মের সবচেয়ে জোরালো প্রতিবাদে পরিণত হয়।" },
+    { "q": "What is Asperger's syndrome? How does Greta consider her Asperger's syndrome?", "a": "Asperger's syndrome is a developmental condition that affects the way a person socialises and communicates with others. Greta refuses to treat it as a disability. She views her condition as a superpower, because it helps her see the world in black and white: for her there is \"no grey area\" when it comes to climate change. Where others hesitate, compromise and delay, she sees one clear truth and says it plainly — and that clarity is exactly what made her protest so powerful.", "bn": "অ্যাসপারজার্স সিনড্রোম একটি বিকাশজনিত অবস্থা, যা একজন মানুষের সামাজিক মেলামেশা ও যোগাযোগের ধরনকে প্রভাবিত করে। গ্রেটা একে প্রতিবন্ধকতা মানতে রাজি নন। তিনি নিজের এই অবস্থাকে পরাশক্তি মনে করেন, কারণ এটি তাঁকে পৃথিবীকে সাদা-কালোয় দেখতে সাহায্য করে: জলবায়ু পরিবর্তনের প্রশ্নে তাঁর কাছে “কোনো ধূসর এলাকা নেই”। অন্যরা যেখানে দ্বিধা করে, আপস করে, দেরি করে, তিনি সেখানে একটিই স্পষ্ট সত্য দেখেন এবং সোজাসুজি বলেন — এই স্পষ্টতাই তাঁর প্রতিবাদকে এত শক্তিশালী করেছে।" },
+    { "q": "“How dare you!” — Explain this fiery voice of Greta.", "a": "These words come from her speech to UN politicians and they are an accusation, not a request. She had just said, \"We are in the beginning of a mass extinction, and all you can talk about is money and fairy tales of eternal economic growth.\" \"How dare you!\" is the anger of a young person who has been told to trust the adults in charge and has found them talking about profit while her future is being destroyed. It is fiery because she is not asking politely any longer; she is holding the powerful responsible before the whole world.", "bn": "কথাগুলো জাতিসংঘের রাজনীতিবিদদের উদ্দেশে দেওয়া তাঁর ভাষণ থেকে নেওয়া, আর এটি অনুরোধ নয় — অভিযোগ। ঠিক আগেই তিনি বলেছিলেন, “আমরা এক গণবিলুপ্তির শুরুতে দাঁড়িয়ে, অথচ আপনারা কেবল টাকা আর চিরস্থায়ী অর্থনৈতিক প্রবৃদ্ধির রূপকথা নিয়ে কথা বলছেন।” “How dare you!” হলো এমন এক তরুণীর ক্রোধ, যাকে বলা হয়েছিল দায়িত্বে থাকা বড়দের বিশ্বাস করতে, অথচ তিনি দেখলেন তাঁর ভবিষ্যৎ ধ্বংস হওয়ার সময়ও তাঁরা মুনাফার কথা বলছেন। এটি জ্বালাময়ী, কারণ তিনি আর ভদ্রভাবে অনুরোধ করছেন না; গোটা বিশ্বের সামনে ক্ষমতাবানদের দায়ী করছেন।" }
+  ],
+
+  "tables": [
+    {
+      "title": "Greta Thunberg",
+      "headers": ["What / Who", "Events / Activity", "Where / Why", "When / How"],
+      "rows": [
+        ["Greta, an environmental activist", "(i) @was born", "(ii) @in Stockholm, Sweden", "in 2003"],
+        ["This activist", "started to learn about climate change", "(iii) @in Sweden", "(iv) @when she was eight"],
+        ["Tens of thousands of students", "joined Greta's Fridays for Future strikes", "(v) @in more than 125 countries", "(vi) @after the Swedish media spread the word"],
+        ["“School Strike for Climate”", "was written on a large sign she made", "outside the Swedish parliament", "in August 2018"],
+        ["Asperger's syndrome", "(vii) @is a superpower", "to Greta", "because she sees no grey area"],
+        ["Greta", "made decisions to take action", "(viii) @outside the Swedish parliament", "in August 2018"],
+        ["Her aim of sitting outside the Swedish parliament", "(ix) @was to make politicians take notice and act", "to stop global warming", "(x) @after she became sad enough about climate change to stop speaking"]
+      ],
+      "note": "সাল ও সংখ্যা ==হুবহু== লিখবে: 2003, 2011, August 2018, 125 countries, 1.6 million, 15 days।"
+    }
+  ],
+
+  "flow": {
+    "title": "Greta's reactions to climate change — গ্রেটার প্রতিক্রিয়া",
+    "items": [
+      { "t": "Learning about climate change at eight", "bn": "আট বছরে জলবায়ু নিয়ে জানা (দেওয়া আছে)" },
+      { "t": "Becoming baffled that so little was being done", "bn": "এত কম কাজ হচ্ছে দেখে হতভম্ব হওয়া" },
+      { "t": "Growing so sad at eleven that she stopped speaking", "bn": "এগারো বছরে বিষণ্ন হয়ে কথা বলা বন্ধ" },
+      { "t": "Striking alone outside the Swedish parliament (2018)", "bn": "২০১৮-তে সংসদের বাইরে একা ধর্মঘট" },
+      { "t": "Inspiring #FridaysForFuture in 125 countries", "bn": "১২৫ দেশে #FridaysForFuture ছড়িয়ে দেওয়া" },
+      { "t": "Warning world leaders at the UN — “How dare you!”", "bn": "জাতিসংঘে বিশ্বনেতাদের হুঁশিয়ারি" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "Numbers &amp; dates bank <span class='sub'>— যে তথ্যগুলো MCQ ও টেবিলে বারবার আসে</span>",
+      "key": "Fact Bank",
+      "table": {
+        "headers": ["তথ্য", "সংখ্যা / সাল", "মনে রাখার সূত্র"],
+        "rows": [
+          ["জন্ম", "2003, Stockholm", "শতকের শুরুতে জন্ম"],
+          ["জলবায়ু নিয়ে জানা শুরু", "at 8 → 2011", "2003 + 8"],
+          ["কথা বলা বন্ধ", "at 11", "জানার ৩ বছর পর"],
+          ["প্রথম ধর্মঘট", "August 2018", "একা, সংসদের বাইরে"],
+          ["#FridaysForFuture", "125+ countries", "দেশের সংখ্যা"],
+          ["Global Strike", "March 2019, 1.6 million", "মানুষের সংখ্যা"],
+          ["নৌযাত্রা", "August 2019, 15 days", "Plymouth → New York"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "🔢", "t": "125 কীসের সংখ্যা?", "type": "warn", "d": "==125 = দেশ==, ==1.6 million = মানুষ==। MCQ-তে এই দুটি বদলে দিয়ে ফাঁদ পাতা হয়।" },
+    { "em": "🧩", "t": "Asperger's = superpower", "d": "প্রশ্ন এলে দুটো কথা লিখবে — এটি ==সামাজিক মেলামেশাকে== প্রভাবিত করে, আর গ্রেটা একে ==দুর্বলতা নয়, শক্তি== মনে করেন।" },
+    { "em": "⛵", "t": "সৌরচালিত নৌযান কেন", "d": "বিমানের কার্বন নিঃসরণ এড়াতে — নিজের কথার সঙ্গে ==কাজের মিল== রাখার উদাহরণ।" },
+    { "em": "✊", "t": "Rosa Parks সংযোগ", "d": "দুজনেই ==একা বসে পড়ে== আন্দোলন শুরু করেছিলেন — তুলনামূলক প্রশ্নে এই মিলটি লিখলে নম্বর বাড়ে।" },
+    { "em": "📝", "t": "baffled ≠ amazed", "d": "baffled = বুঝতে না পারা (নেতিবাচক); amazed = বিস্মিত (ইতিবাচক)। Synonym প্রশ্নে ==perplexed== বেছো।" }
+  ],
+
+  "recap": [
+    "২০০৩ স্টকহোমে জন্ম; ৮ বছরে জলবায়ু নিয়ে জানা শুরু।",
+    "১১ বছরে বিষণ্নতায় সাময়িক নীরবতা; Asperger's-কে তিনি বলেন superpower।",
+    "আগস্ট ২০১৮ — একা প্ল্যাকার্ড নিয়ে সুইডিশ সংসদের বাইরে ধর্মঘট।",
+    "#FridaysForFuture ১২৫+ দেশে; মার্চ ২০১৯ বিশ্ব ধর্মঘটে ১৬ লাখ মানুষ।",
+    "সৌরচালিত নৌকায় ১৫ দিনে নিউইয়র্ক; জাতিসংঘে ‘How dare you!’; প্রভাবের নাম ‘Greta Effect’।"
+  ],
+
+  "homework": [
+    "সাল ও সংখ্যাগুলো টেবিল আকারে লিখে আনবে।",
+    "‘Is Asperger's syndrome a weakness or a strength for Greta?’ — ৫ বাক্যে যুক্তিসহ লিখবে।",
+    "Flow chart-এর ৬টি ঘর নিজে সাজিয়ে আনবে।",
+    "Summary ১৪০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ]
+}
