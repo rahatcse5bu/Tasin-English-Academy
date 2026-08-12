@@ -10,6 +10,8 @@ import { BatchSchema } from './batches/schemas/batch.schema';
 import { ClassSessionSchema } from './classes/schemas/class.schema';
 import { ResourceSchema } from './resources/schemas/resource.schema';
 import { ExamSchema, ExamResultSchema } from './exams/schemas/exam.schema';
+import { DeckSchema } from './decks/schemas/deck.schema';
+import { seedDecks } from './decks/decks.seed';
 
 async function main() {
   const uri = process.env.MONGODB_URI;
@@ -24,6 +26,7 @@ async function main() {
   const Resource = mongoose.model('Resource', ResourceSchema);
   const Exam = mongoose.model('Exam', ExamSchema);
   const ExamResult = mongoose.model('ExamResult', ExamResultSchema);
+  const Deck = mongoose.model('Deck', DeckSchema);
 
   // Wipe (be careful in prod)
   if (process.env.SEED_WIPE === '1') {
@@ -35,6 +38,7 @@ async function main() {
       Resource.deleteMany({}),
       Exam.deleteMany({}),
       ExamResult.deleteMany({}),
+      Deck.deleteMany({}),
     ]);
     console.log('Wiped collections');
   }
@@ -318,6 +322,9 @@ async function main() {
     }
   }
   console.log('Seeded exams + results');
+
+  // HSC slide decks (1st & 2nd Paper)
+  await seedDecks(Deck as any, { log: (m) => console.log(m) });
 
   console.log('\nSeed complete. Login: admin@tasin.edu.bd / admin1234');
   await mongoose.disconnect();

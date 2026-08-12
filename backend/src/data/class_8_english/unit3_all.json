@@ -1,0 +1,2717 @@
+{
+  "unit": {
+    "id": "u3",
+    "number": 3,
+    "title": "Health and Hygiene",
+    "bangla_title": "স্বাস্থ্য ও পরিচ্ছন্নতা",
+    "lessons": [
+      {
+        "id": "u3l1",
+        "unit": 3,
+        "unit_title": "Health and Hygiene",
+        "number": 1,
+        "title": "Health",
+        "keywords": [
+          "disease",
+          "essential",
+          "concentrate",
+          "possession"
+        ],
+        "learn_line": "What health is, why it is essential, and the habits that keep us healthy in body and mind.",
+        "minutes": 10,
+        "warmup": [
+          "How often do you wash your hands, and why?",
+          "What does the proverb 'Health is Wealth' mean to you?",
+          "Do you go to bed early and rise early? How does it make you feel?",
+          "Can a wealthy person be unhappy if they are not healthy?"
+        ],
+        "reading": {
+          "summary_en": "Health is the condition of our body and mind, and it may be good or bad. Good health means a healthy body that is free from diseases, and it is essential for everyone to lead a happy life. If we are not in good health, we cannot concentrate on any activity. A proverb says 'Health is Wealth', meaning health is as valuable as gold or any other possession; we may have great wealth, but if we are not healthy we cannot enjoy it. To stay healthy we must take a balanced diet, exercise regularly, follow the saying 'early to bed and early to rise', and keep peace of mind by not worrying over small things.",
+          "gist_bn": "স্বাস্থ্য হলো আমাদের দেহ ও মনের অবস্থা, যা ভালো বা খারাপ হতে পারে। সুস্বাস্থ্য মানে রোগমুক্ত সুস্থ দেহ, যা সুখী জীবনযাপনের জন্য অপরিহার্য। অসুস্থ হলে কোনো কাজে মন বসানো যায় না। 'Health is Wealth' প্রবাদটি বোঝায় স্বাস্থ্য সোনা বা যেকোনো সম্পদের মতোই মূল্যবান। সুস্থ থাকতে হলে সুষম খাবার, নিয়মিত ব্যায়াম, রাত জেগে না থেকে তাড়াতাড়ি ঘুমানো ও ভোরে ওঠা এবং মানসিক শান্তি প্রয়োজন।",
+          "book_page": 21
+        },
+        "vocab": [
+          {
+            "word": "health",
+            "pos": "noun",
+            "bangla": "স্বাস্থ্য",
+            "synonym": "fitness, wellness",
+            "antonym": "sickness",
+            "meaning_en": "the condition of the body and mind",
+            "example": "Good health is essential for everyone."
+          },
+          {
+            "word": "disease",
+            "pos": "noun",
+            "bangla": "রোগ",
+            "synonym": "illness, sickness",
+            "antonym": "health",
+            "meaning_en": "an illness of the body",
+            "example": "Good health keeps the body free from disease."
+          },
+          {
+            "word": "essential",
+            "pos": "adj",
+            "bangla": "অপরিহার্য",
+            "synonym": "necessary, vital",
+            "antonym": "unnecessary",
+            "meaning_en": "absolutely necessary",
+            "example": "Good health is essential for a happy life."
+          },
+          {
+            "word": "concentrate",
+            "pos": "verb",
+            "bangla": "মনোযোগ দেওয়া",
+            "synonym": "focus",
+            "antonym": "be distracted",
+            "meaning_en": "to give full attention to one thing",
+            "example": "We cannot concentrate when we are ill."
+          },
+          {
+            "word": "possession",
+            "pos": "noun",
+            "bangla": "সম্পত্তি, অধিকারে থাকা বস্তু",
+            "synonym": "property, belongings",
+            "antonym": "—",
+            "meaning_en": "a thing that someone owns",
+            "example": "Health is as valuable as any possession."
+          },
+          {
+            "word": "proverb",
+            "pos": "noun",
+            "bangla": "প্রবাদ",
+            "synonym": "saying, maxim",
+            "antonym": "—",
+            "meaning_en": "a short well-known wise saying",
+            "example": "The proverb says 'Health is Wealth'."
+          },
+          {
+            "word": "balanced diet",
+            "pos": "phrase",
+            "bangla": "সুষম খাদ্য",
+            "synonym": "healthy diet",
+            "antonym": "—",
+            "meaning_en": "food with the right mix of all nutrients",
+            "example": "We must take a balanced diet."
+          },
+          {
+            "word": "regularly",
+            "pos": "adverb",
+            "bangla": "নিয়মিতভাবে",
+            "synonym": "routinely",
+            "antonym": "rarely",
+            "meaning_en": "at fixed, repeated times",
+            "example": "We should exercise regularly."
+          },
+          {
+            "word": "wealth",
+            "pos": "noun",
+            "bangla": "সম্পদ, ধন",
+            "synonym": "riches, fortune",
+            "antonym": "poverty",
+            "meaning_en": "a large amount of money or property",
+            "example": "Health is more important than wealth."
+          },
+          {
+            "word": "peace of mind",
+            "pos": "phrase",
+            "bangla": "মনের শান্তি",
+            "synonym": "calmness",
+            "antonym": "worry, anxiety",
+            "meaning_en": "a calm and untroubled mind",
+            "example": "Peace of mind is needed for good health."
+          },
+          {
+            "word": "enjoy",
+            "pos": "verb",
+            "bangla": "উপভোগ করা",
+            "synonym": "relish",
+            "antonym": "dislike",
+            "meaning_en": "to get pleasure from something",
+            "example": "We cannot enjoy wealth without health."
+          },
+          {
+            "word": "worry",
+            "pos": "verb",
+            "bangla": "দুশ্চিন্তা করা",
+            "synonym": "fret",
+            "antonym": "relax",
+            "meaning_en": "to feel anxious about something",
+            "example": "We must not worry over small things."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Health means the condition of —",
+            "options": [
+              "our body",
+              "our mind",
+              "our body and mind",
+              "our environment"
+            ],
+            "answer_index": 2,
+            "explain": "Health is the condition of both body and mind."
+          },
+          {
+            "q": "A healthy person is one who —",
+            "options": [
+              "is physically and mentally sound",
+              "eats good food",
+              "has a lot of wealth",
+              "is overweight"
+            ],
+            "answer_index": 0,
+            "explain": "A healthy person is physically and mentally sound."
+          },
+          {
+            "q": "To stay healthy we need to eat —",
+            "options": [
+              "rich food",
+              "balanced food",
+              "little food",
+              "a lot of food"
+            ],
+            "answer_index": 1,
+            "explain": "We need a balanced diet."
+          },
+          {
+            "q": "The phrase 'to keep late hours' means —",
+            "options": [
+              "to go to bed late",
+              "to wake up late",
+              "to do things late always",
+              "to be late for class"
+            ],
+            "answer_index": 0,
+            "explain": "It means going to bed late at night."
+          },
+          {
+            "q": "'Health is Wealth' means health is as valuable as —",
+            "options": [
+              "fame",
+              "gold or any possession",
+              "friends",
+              "knowledge"
+            ],
+            "answer_index": 1,
+            "explain": "Health is equally valuable as gold or other possessions."
+          },
+          {
+            "q": "If we are not in good health, we cannot —",
+            "options": [
+              "sleep at all",
+              "concentrate on any activity",
+              "eat any food",
+              "talk to anyone"
+            ],
+            "answer_index": 1,
+            "explain": "Poor health stops us concentrating on activities."
+          },
+          {
+            "q": "Which of these helps keep good health?",
+            "options": [
+              "worrying a lot",
+              "keeping late hours",
+              "regular exercise",
+              "eating too much"
+            ],
+            "answer_index": 2,
+            "explain": "Regular exercise keeps the body fit."
+          },
+          {
+            "q": "'Early to bed and early to rise makes a man —'",
+            "options": [
+              "lazy and dull",
+              "healthy, wealthy and wise",
+              "rich and proud",
+              "tired and weak"
+            ],
+            "answer_index": 1,
+            "explain": "The old saying ends 'healthy, wealthy and wise'."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Why is good health essential for us?",
+            "model": "Good health is essential because it keeps the body free from disease and lets us lead a happy life. Without good health we cannot concentrate on any activity."
+          },
+          {
+            "q": "What does the proverb 'Health is Wealth' mean?",
+            "model": "It means health is just as valuable as gold or any other possession. We may have great wealth, but if we are not healthy we cannot enjoy it."
+          },
+          {
+            "q": "What should we do to keep ourselves healthy?",
+            "model": "To stay healthy we should take a balanced diet, exercise regularly, go to bed early and rise early, and keep peace of mind by not worrying over small things."
+          },
+          {
+            "q": "Why is physical exercise necessary?",
+            "model": "Physical exercise is necessary because it keeps our body fit for work. It helps us stay strong and free from disease."
+          },
+          {
+            "q": "What is meant by 'peace of mind' and why is it important?",
+            "model": "Peace of mind means a calm, untroubled mind. It is important because worry harms our health, so we must not worry over small things."
+          },
+          {
+            "q": "Can a wealthy person enjoy life without good health? Why?",
+            "model": "No. The lesson shows that even with great wealth and property, a person who is not healthy cannot enjoy them, because health is the real wealth."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Health is only the condition of our body.",
+            "is_true": false,
+            "correction": "Health is the condition of both our body and mind."
+          },
+          {
+            "statement": "Good health is essential to lead a happy life.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "A healthy person is one who has a lot of wealth.",
+            "is_true": false,
+            "correction": "A healthy person is one who is physically and mentally sound."
+          },
+          {
+            "statement": "We should keep late hours to stay healthy.",
+            "is_true": false,
+            "correction": "We should go to bed early and rise early, not keep late hours."
+          },
+          {
+            "statement": "Peace of mind is a condition for good health.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "We can enjoy our wealth even without good health.",
+            "is_true": false,
+            "correction": "Without good health we cannot enjoy our wealth."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "Health is the condition of our body and (1)____. Good health is (2)____ for a happy life. A proverb says 'Health is (3)____'. To stay healthy we must take a balanced (4)____ and exercise (5)____.",
+          "blanks": [
+            "mind",
+            "essential",
+            "Wealth",
+            "diet",
+            "regularly"
+          ]
+        },
+        "table": {
+          "headers": [
+            "For good health",
+            "What to do"
+          ],
+          "rows": [
+            [
+              "Food",
+              "take a balanced diet"
+            ],
+            [
+              "Body",
+              "exercise regularly"
+            ],
+            [
+              "Sleep",
+              "go to bed early, rise early"
+            ],
+            [
+              "Mind",
+              "keep peace of mind"
+            ],
+            [
+              "Worry",
+              "do not worry over small things"
+            ]
+          ],
+          "blanks": [
+            "take a balanced diet",
+            "exercise regularly",
+            "go to bed early, rise early",
+            "keep peace of mind",
+            "do not worry over small things"
+          ]
+        },
+        "match": {
+          "left": [
+            "Health is the condition of",
+            "Good health is",
+            "Health is as valuable as",
+            "We must take a",
+            "Peace of mind is needed for"
+          ],
+          "right": [
+            "a balanced diet.",
+            "good health.",
+            "essential for a happy life.",
+            "our body and mind.",
+            "gold or possessions."
+          ],
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "Health, the condition of our body and mind, may be good or bad, and good health is essential to lead a happy life because an unhealthy person cannot concentrate on anything. The proverb 'Health is Wealth' reminds us that health is as valuable as any possession, since wealth cannot be enjoyed without it. To stay healthy we should take a balanced diet, exercise regularly, sleep and rise early, and keep peace of mind.",
+          "skeleton": "Health is the condition of our ____ and mind. Good health is ____ for a happy life. To keep it we need a balanced ____, regular ____, early sleep and ____ of mind."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'How to Maintain Good Health' (about 180-200 words).",
+          "model": "Good health is the greatest blessing in life, for without it nothing else can be enjoyed. Health is the condition of both our body and mind, and to keep it good we must follow some simple rules every day. First, we should take a balanced diet that contains the right amount of carbohydrate, protein, fat, vitamins and minerals, and we must avoid overeating. Secondly, we should do regular physical exercise, such as walking, swimming or freehand exercises, because it keeps the body fit, gives us energy and makes us strong and cheerful. We should also follow the old saying, 'Early to bed and early to rise, makes a man healthy, wealthy and wise', so we must not keep late hours but sleep enough at night and rise early in the morning. Cleanliness is equally important; we should keep our body, clothes and surroundings clean to stay free from germs and disease. Finally, we need peace of mind, so we should not worry over small things of life. If we follow all these rules properly, we will be able to lead a healthy, active and happy life."
+        }
+      },
+      {
+        "id": "u3l2",
+        "unit": 3,
+        "unit_title": "Health and Hygiene",
+        "number": 2,
+        "title": "Ode on Solitude",
+        "is_poem": true,
+        "poet": "Alexander Pope",
+        "keywords": [
+          "solitude",
+          "content",
+          "paternal",
+          "meditation"
+        ],
+        "learn_line": "What a truly happy, peaceful life looks like, according to the poet Alexander Pope.",
+        "minutes": 8,
+        "warmup": [
+          "What do you think makes a person truly happy?",
+          "Is a quiet, simple life better than a busy, famous one? Why?",
+          "What does the word 'content' mean to you?",
+          "Would you rather be rich and busy, or simple and peaceful?"
+        ],
+        "reading": {
+          "theme": "The happiness and peace of a simple, contented country life.",
+          "central_idea": "In this poem, Alexander Pope describes a happy man as one who is content to live quietly on his own small piece of land (a few paternal acres), breathing his native air. Such a man's own herds, fields and trees give him milk, bread, clothing and shade. He passes his time in good health, peace of mind, sound sleep, study, recreation and innocent meditation. He wishes to live unseen and unknown, and to die quietly, leaving the world without even a stone to mark where he lies. The poem praises a simple, self-sufficient, peaceful life over wealth and fame.",
+          "gist_bn": "আলেকজান্ডার পোপের এই কবিতায় সুখী মানুষ সেই, যে নিজের সামান্য পৈতৃক জমিতে নিজের আকাশের বাতাসে সন্তুষ্ট থেকে বাস করে। তার নিজের গবাদি পশু, ক্ষেত ও গাছ তাকে দুধ, খাদ্য, পোশাক ও ছায়া দেয়। সুস্বাস্থ্য, মনের শান্তি, গভীর ঘুম, পড়াশোনা, নির্দোষ আনন্দ ও ধ্যানের মধ্য দিয়ে তার দিন কাটে। সে চায় লোকচক্ষুর আড়ালে, অখ্যাত থেকে বাঁচতে ও শান্তিতে মরতে। কবিতাটি ধন-যশের চেয়ে সরল, স্বনির্ভর ও শান্তিময় জীবনকে শ্রেষ্ঠ বলে।",
+          "book_page": 22
+        },
+        "vocab": [
+          {
+            "word": "solitude",
+            "pos": "noun",
+            "bangla": "নির্জনতা, একাকীত্ব",
+            "synonym": "seclusion",
+            "antonym": "crowd, company",
+            "meaning_en": "the state of being alone and quiet",
+            "example": "The poet praises a life of peaceful solitude."
+          },
+          {
+            "word": "content",
+            "pos": "adj",
+            "bangla": "সন্তুষ্ট",
+            "synonym": "satisfied",
+            "antonym": "discontented",
+            "meaning_en": "happy and satisfied with what one has",
+            "example": "He is content with his small land."
+          },
+          {
+            "word": "paternal",
+            "pos": "adj",
+            "bangla": "পৈতৃক",
+            "synonym": "fatherly, inherited",
+            "antonym": "—",
+            "meaning_en": "received from one's father",
+            "example": "He lives on a few paternal acres."
+          },
+          {
+            "word": "herd",
+            "pos": "noun",
+            "bangla": "পশুপাল",
+            "synonym": "flock",
+            "antonym": "—",
+            "meaning_en": "a group of animals kept together",
+            "example": "His herds give him milk."
+          },
+          {
+            "word": "attire",
+            "pos": "noun",
+            "bangla": "পোশাক",
+            "synonym": "clothing, dress",
+            "antonym": "—",
+            "meaning_en": "clothes",
+            "example": "His flocks supply him with attire."
+          },
+          {
+            "word": "yield",
+            "pos": "verb",
+            "bangla": "উৎপন্ন করা, দেওয়া",
+            "synonym": "produce, give",
+            "antonym": "withhold",
+            "meaning_en": "to give or produce",
+            "example": "His trees yield him shade."
+          },
+          {
+            "word": "recreation",
+            "pos": "noun",
+            "bangla": "বিনোদন",
+            "synonym": "amusement, leisure",
+            "antonym": "work",
+            "meaning_en": "an enjoyable activity for rest",
+            "example": "Sweet recreation fills his days."
+          },
+          {
+            "word": "innocence",
+            "pos": "noun",
+            "bangla": "নিষ্পাপতা, সরলতা",
+            "synonym": "purity",
+            "antonym": "guilt",
+            "meaning_en": "freedom from guilt or wrong",
+            "example": "Innocence pleases him most."
+          },
+          {
+            "word": "meditation",
+            "pos": "noun",
+            "bangla": "ধ্যান, গভীর চিন্তা",
+            "synonym": "contemplation",
+            "antonym": "—",
+            "meaning_en": "deep, quiet thinking",
+            "example": "He spends his time in meditation."
+          },
+          {
+            "word": "unlamented",
+            "pos": "adj",
+            "bangla": "শোকহীনভাবে",
+            "synonym": "unmourned",
+            "antonym": "mourned",
+            "meaning_en": "without being mourned or wept for",
+            "example": "He wishes to die unlamented."
+          }
+        ],
+        "qa": [
+          {
+            "q": "What things does a happy man have, according to the poem?",
+            "model": "According to the poem, a happy man has a few acres of his father's land, his own herds for milk, fields for bread, flocks for clothing, and trees that give him shade in summer and firewood in winter. In short, his own land supplies all his simple needs."
+          },
+          {
+            "q": "How does the happy man pass his time?",
+            "model": "He passes his time peacefully, in good health and peace of mind. His days are quiet, his nights bring sound sleep, and he mixes study with ease, sweet recreation and innocent meditation."
+          },
+          {
+            "q": "How does the happy man wish to die?",
+            "model": "He wishes to live unseen and unknown, and to die quietly and unlamented. He wants to slip away from the world without even a stone to tell people where he lies."
+          },
+          {
+            "q": "Why does the poet call this man 'happy' and 'blest'?",
+            "model": "The poet calls him happy and blest because he is content with little, free from worry and ambition, and self-sufficient. His simple, peaceful, healthy life is, for Pope, the truest form of happiness."
+          },
+          {
+            "q": "What is the central message of the poem?",
+            "model": "The central message is that real happiness lies not in wealth, fame or city life, but in a simple, quiet, contented life close to nature, with good health and peace of mind."
+          },
+          {
+            "q": "How does the poem connect to the theme of health?",
+            "model": "The poem links happiness with 'health of body, peace of mind' and 'sound sleep by night'. It suggests that a calm, simple life naturally supports good physical and mental health."
+          },
+          {
+            "q": "Do you think you can be happy in life the way the poem describes? Why?",
+            "model": "Answers will vary. A good answer might say that being content with what we have, keeping good health and peace of mind, and not chasing endless wealth can indeed make a person genuinely happy."
+          }
+        ],
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'A Happy Life' (about 100 words).",
+          "model": "A happy life does not depend on great wealth or fame, but on contentment, good health and peace of mind. A truly happy person is satisfied with what they have and does not waste their days in worry or greed. Like the man in Pope's poem, such a person enjoys simple pleasures: good food from their own work, sound sleep at night, a little study and recreation, and quiet time to think. Living close to nature and free from anxiety, they remain healthy in body and calm in mind. This simple, peaceful and innocent way of living is, in the end, the happiest life of all."
+        }
+      },
+      {
+        "id": "u3l3",
+        "unit": 3,
+        "unit_title": "Health and Hygiene",
+        "number": 3,
+        "title": "Hygiene",
+        "keywords": [
+          "hygiene",
+          "godliness",
+          "achieve",
+          "spiritually",
+          "soul"
+        ],
+        "learn_line": "What hygiene means and the everyday rules of cleanliness that keep us healthy.",
+        "minutes": 10,
+        "warmup": [
+          "What does the word 'hygiene' mean?",
+          "How many times should we brush our teeth a day?",
+          "What kind of water is safe to drink?",
+          "Why do dirty clothes invite germs?"
+        ],
+        "reading": {
+          "summary_en": "The word 'hygiene' means the practice of keeping ourselves, our home and our workplaces clean, and it is important for good health. Hygiene is said to be next to godliness, because we cannot achieve anything physically, mentally or spiritually if we are unclean in body, mind and soul, and nobody likes an unclean person. To follow the rules of hygiene we must first keep our body clean by bathing every day and washing our hair regularly. Secondly, we should wash our clothes regularly, because dirty clothes give off bad smells and invite germs; we should wear socks and shoes outside, wash our hands before meals and after using the toilet, brush our teeth twice a day after breakfast and supper, and cut our nails regularly. Our drinking water must be safe, which we can ensure by boiling and filtering. Finally, we should keep our surroundings and environment clean. If we follow all these things properly, we can lead a healthy and happy life.",
+          "gist_bn": "'Hygiene' শব্দের অর্থ নিজেকে, ঘর ও কর্মস্থল পরিষ্কার রাখার অভ্যাস, যা সুস্বাস্থ্যের জন্য জরুরি। পরিচ্ছন্নতা ধর্মের কাছাকাছি, কারণ শরীর-মন-আত্মায় অপরিষ্কার থাকলে দৈহিক, মানসিক বা আধ্যাত্মিক কিছুই অর্জন করা যায় না। নিয়ম: প্রতিদিন গোসল ও চুল পরিষ্কার; কাপড় নিয়মিত ধোয়া; বাইরে গেলে মোজা-জুতা পরা; খাবার আগে ও টয়লেটের পর হাত ধোয়া; দিনে দুবার দাঁত ব্রাশ; নিয়মিত নখ কাটা; ফুটিয়ে ও ছেঁকে নিরাপদ পানি পান; এবং চারপাশ পরিষ্কার রাখা।",
+          "book_page": 23
+        },
+        "vocab": [
+          {
+            "word": "hygiene",
+            "pos": "noun",
+            "bangla": "স্বাস্থ্যবিধি, পরিচ্ছন্নতা",
+            "synonym": "cleanliness, sanitation",
+            "antonym": "filth",
+            "meaning_en": "the practice of keeping clean for health",
+            "example": "Good hygiene prevents disease."
+          },
+          {
+            "word": "godliness",
+            "pos": "noun",
+            "bangla": "ধর্মপরায়ণতা",
+            "synonym": "piety, holiness",
+            "antonym": "—",
+            "meaning_en": "the quality of being deeply religious or pure",
+            "example": "Cleanliness is next to godliness."
+          },
+          {
+            "word": "achieve",
+            "pos": "verb",
+            "bangla": "অর্জন করা",
+            "synonym": "accomplish, gain",
+            "antonym": "fail",
+            "meaning_en": "to succeed in doing or getting something",
+            "example": "We cannot achieve much if we are unclean."
+          },
+          {
+            "word": "spiritually",
+            "pos": "adverb",
+            "bangla": "আধ্যাত্মিকভাবে",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "in a way relating to the spirit or soul",
+            "example": "An unclean person cannot grow spiritually."
+          },
+          {
+            "word": "soul",
+            "pos": "noun",
+            "bangla": "আত্মা",
+            "synonym": "spirit",
+            "antonym": "body",
+            "meaning_en": "the spiritual part of a person",
+            "example": "We must be clean in body, mind and soul."
+          },
+          {
+            "word": "germ",
+            "pos": "noun",
+            "bangla": "জীবাণু",
+            "synonym": "microbe, bacteria",
+            "antonym": "—",
+            "meaning_en": "a tiny living thing that causes disease",
+            "example": "Dirty clothes invite germs."
+          },
+          {
+            "word": "bacteria",
+            "pos": "noun",
+            "bangla": "ব্যাকটেরিয়া",
+            "synonym": "microbes, germs",
+            "antonym": "—",
+            "meaning_en": "tiny organisms, some of which cause disease",
+            "example": "A daily bath keeps the body free from bacteria."
+          },
+          {
+            "word": "regularly",
+            "pos": "adverb",
+            "bangla": "নিয়মিতভাবে",
+            "synonym": "routinely",
+            "antonym": "rarely",
+            "meaning_en": "at fixed, repeated times",
+            "example": "We should wash our clothes regularly."
+          },
+          {
+            "word": "filter",
+            "pos": "verb",
+            "bangla": "ছেঁকে নেওয়া / পরিশোধন করা",
+            "synonym": "purify, strain",
+            "antonym": "contaminate",
+            "meaning_en": "to pass a liquid through to clean it",
+            "example": "We can get safe water by boiling and filtering."
+          },
+          {
+            "word": "surroundings",
+            "pos": "noun",
+            "bangla": "পারিপার্শ্বিক / আশপাশ",
+            "synonym": "environment, area",
+            "antonym": "—",
+            "meaning_en": "the area and conditions around a place",
+            "example": "We should keep our surroundings clean."
+          },
+          {
+            "word": "smell",
+            "pos": "noun",
+            "bangla": "গন্ধ",
+            "synonym": "odour, scent",
+            "antonym": "—",
+            "meaning_en": "a quality that affects the sense of smell",
+            "example": "Dirty clothes give off a bad smell."
+          },
+          {
+            "word": "tidy",
+            "pos": "adj",
+            "bangla": "পরিপাটি, গোছানো",
+            "synonym": "neat, orderly",
+            "antonym": "messy",
+            "meaning_en": "clean and well-arranged",
+            "example": "We should keep ourselves clean and tidy."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "The word 'hygiene' means —",
+            "options": [
+              "a kind of disease",
+              "the practice of keeping clean",
+              "a type of food",
+              "a sport"
+            ],
+            "answer_index": 1,
+            "explain": "Hygiene is the practice of keeping ourselves and places clean."
+          },
+          {
+            "q": "Hygiene is said to be next to —",
+            "options": [
+              "wealth",
+              "godliness",
+              "success",
+              "study"
+            ],
+            "answer_index": 1,
+            "explain": "Hygiene is thought to be next to godliness."
+          },
+          {
+            "q": "How many times should we brush our teeth a day?",
+            "options": [
+              "once",
+              "twice",
+              "three times",
+              "never"
+            ],
+            "answer_index": 1,
+            "explain": "We should brush our teeth twice a day, after breakfast and supper."
+          },
+          {
+            "q": "What can be a hotbed of germs?",
+            "options": [
+              "clean clothes",
+              "dirty clothes",
+              "fresh fruit",
+              "boiled water"
+            ],
+            "answer_index": 1,
+            "explain": "Dirty clothes give off bad smell and invite germs."
+          },
+          {
+            "q": "How can we make our drinking water safe?",
+            "options": [
+              "by adding sugar",
+              "by boiling and filtering",
+              "by freezing it",
+              "by keeping it open"
+            ],
+            "answer_index": 1,
+            "explain": "Safe water is obtained by boiling and filtering."
+          },
+          {
+            "q": "We should wash our hands —",
+            "options": [
+              "only at night",
+              "before meals and after using the toilet",
+              "once a week",
+              "only when dirty"
+            ],
+            "answer_index": 1,
+            "explain": "Wash hands before meals and after using the toilet."
+          },
+          {
+            "q": "If we are unclean, we cannot achieve anything —",
+            "options": [
+              "physically, mentally or spiritually",
+              "only physically",
+              "only at school",
+              "only in sports"
+            ],
+            "answer_index": 0,
+            "explain": "Uncleanliness blocks physical, mental and spiritual achievement."
+          },
+          {
+            "q": "The last rule of hygiene mentioned is to keep clean our —",
+            "options": [
+              "shoes",
+              "surroundings and environment",
+              "books",
+              "hair only"
+            ],
+            "answer_index": 1,
+            "explain": "Finally, we should keep our surroundings and environment clean."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What does the word 'hygiene' mean?",
+            "model": "Hygiene means the practice of keeping ourselves clean. It also means keeping our home and work places clean, which is important for good health."
+          },
+          {
+            "q": "Why is hygiene said to be next to godliness?",
+            "model": "Hygiene is said to be next to godliness because we cannot achieve anything physically, mentally or spiritually if we are unclean in body, mind and soul. Nobody likes an unclean person either."
+          },
+          {
+            "q": "What should we do to keep our body clean?",
+            "model": "To keep our body clean we should bathe every day and wash our hair regularly. This keeps the body and hair free from dirt and bacteria."
+          },
+          {
+            "q": "Why should we wash our clothes regularly?",
+            "model": "We should wash our clothes regularly because dirty clothes give off a bad smell and invite germs. Clean clothes help keep us healthy."
+          },
+          {
+            "q": "What kind of water should we drink, and how can we make it safe?",
+            "model": "We should drink safe water. We can make our drinking water safe by boiling and filtering it."
+          },
+          {
+            "q": "How can following the rules of hygiene help us?",
+            "model": "If we follow all the rules of hygiene properly, we can stay free from germs and disease and lead a healthy and happy life."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Cleanliness is a part of good health.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Cleanliness is very important for mental health.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "We need to wear socks and shoes only to look smart.",
+            "is_true": false,
+            "correction": "We wear socks and shoes to protect our feet from dust and germs."
+          },
+          {
+            "statement": "We need to brush our teeth before meals.",
+            "is_true": false,
+            "correction": "We should brush our teeth twice a day, after breakfast and supper."
+          },
+          {
+            "statement": "We must keep ourselves clean.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "We can get safe drinking water only from tube wells.",
+            "is_true": false,
+            "correction": "We can get safe water by boiling and filtering it."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "The word 'hygiene' means the practice of keeping ourselves (1)____. It is said to be next to (2)____. We should bathe every day and brush our teeth (3)____ a day. Our drinking water must be safe; we can get it by boiling and (4)____. Finally, we should keep our (5)____ clean.",
+          "blanks": [
+            "clean",
+            "godliness",
+            "twice",
+            "filtering",
+            "surroundings"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Part of life",
+            "Hygiene rule"
+          ],
+          "rows": [
+            [
+              "Body",
+              "bathe daily, wash hair"
+            ],
+            [
+              "Clothes",
+              "wash regularly; wear socks & shoes outside"
+            ],
+            [
+              "Teeth",
+              "brush twice a day"
+            ],
+            [
+              "Hands",
+              "wash before meals & after toilet"
+            ],
+            [
+              "Water",
+              "make safe by boiling and filtering"
+            ]
+          ],
+          "blanks": [
+            "bathe daily, wash hair",
+            "wash regularly; wear socks & shoes outside",
+            "brush twice a day",
+            "wash before meals & after toilet",
+            "make safe by boiling and filtering"
+          ]
+        },
+        "match": {
+          "left": [
+            "Hygiene means keeping",
+            "Hygiene is next to",
+            "Dirty clothes invite",
+            "We should brush our teeth",
+            "Safe water is got by"
+          ],
+          "right": [
+            "godliness.",
+            "twice a day.",
+            "ourselves clean.",
+            "boiling and filtering.",
+            "germs."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ]
+        },
+        "summary": {
+          "model": "Hygiene means keeping ourselves, our homes and our workplaces clean, and it is essential for good health. It is said to be next to godliness, since an unclean person cannot achieve anything physically, mentally or spiritually. To follow it we should bathe daily and wash our hair, wash our clothes, wear socks and shoes, wash our hands before meals and after the toilet, brush our teeth twice a day, cut our nails, drink water made safe by boiling and filtering, and keep our surroundings clean.",
+          "skeleton": "Hygiene means keeping ourselves ____. It is next to ____. We must bathe daily, brush our teeth ____ a day, drink water made safe by ____, and keep our ____ clean."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Make a list and write a paragraph on 'Five Things I Do Daily to Maintain Personal Hygiene' (about 100 words).",
+          "model": "Personal hygiene is the habit of keeping our own body clean, and I follow a few simple rules every day. First, I take a bath every morning and wash my hair regularly so that my body stays free from dirt and bacteria. Secondly, I wash my hands carefully before every meal and after using the toilet. Thirdly, I brush my teeth twice a day, once after breakfast and once after supper, and I cut my nails when they grow long. Fourthly, I always wear clean, washed clothes, because dirty clothes smell bad and invite germs. Finally, I drink only safe water that has been boiled and filtered. By doing these five things daily, I stay clean, healthy and tidy."
+        }
+      },
+      {
+        "id": "u3l4",
+        "unit": 3,
+        "unit_title": "Health and Hygiene",
+        "number": 4,
+        "title": "A Dialogue (At the Doctor's)",
+        "keywords": [
+          "prescribe",
+          "examine",
+          "X-ray",
+          "chest pain"
+        ],
+        "learn_line": "How a patient describes symptoms to a doctor and how the doctor examines and prescribes treatment.",
+        "minutes": 10,
+        "warmup": [
+          "Have you ever visited a doctor? What did the doctor ask you?",
+          "What does a doctor use to listen to your chest?",
+          "What does it mean to 'prescribe' a medicine?",
+          "Why might a doctor advise a chest X-ray?"
+        ],
+        "reading": {
+          "summary_en": "In this dialogue, Rabi takes his father, Mr Zahir Ali, to the doctor's clinic because his father is unwell and has difficulty speaking. Rabi tells the doctor that his father has difficulty breathing as before and is again having severe chest pain. The doctor asks Mr Ali to lie down on the examination table and presses different places, and Mr Ali feels pain. The doctor then prescribes a medicine, telling him to take one tablet in the morning and another at night before meals. The doctor also advises Mr Ali to have a chest X-ray immediately and to show the X-ray report that same evening if possible. Rabi thanks the doctor.",
+          "gist_bn": "এই কথোপকথনে রাবি তার অসুস্থ বাবা জনাব জহির আলীকে ডাক্তারের ক্লিনিকে নিয়ে যায়; বাবার কথা বলতে কষ্ট হচ্ছে। রাবি বলে, আগের মতোই তার শ্বাস নিতে কষ্ট হচ্ছে ও তীব্র বুকে ব্যথা হচ্ছে। ডাক্তার তাঁকে পরীক্ষা টেবিলে শুইয়ে পরীক্ষা করেন; ব্যথা অনুভব হয়। ডাক্তার ওষুধ লিখে দেন—সকালে ও রাতে খাবার আগে একটি করে ট্যাবলেট—এবং দ্রুত বুকের এক্স-রে করিয়ে সন্ধ্যায় রিপোর্ট দেখাতে বলেন।",
+          "book_page": 25
+        },
+        "vocab": [
+          {
+            "word": "prescribe",
+            "pos": "verb",
+            "bangla": "ওষুধ লিখে দেওয়া",
+            "synonym": "recommend",
+            "antonym": "—",
+            "meaning_en": "(of a doctor) to advise a medicine or treatment",
+            "example": "The doctor prescribed a medicine."
+          },
+          {
+            "word": "examine",
+            "pos": "verb",
+            "bangla": "পরীক্ষা করা",
+            "synonym": "inspect, check",
+            "antonym": "ignore",
+            "meaning_en": "to look at carefully (here, a patient)",
+            "example": "The doctor examined the patient."
+          },
+          {
+            "word": "patient",
+            "pos": "noun",
+            "bangla": "রোগী",
+            "synonym": "—",
+            "antonym": "doctor",
+            "meaning_en": "a sick person under medical care",
+            "example": "The patient lay on the table."
+          },
+          {
+            "word": "clinic",
+            "pos": "noun",
+            "bangla": "চিকিৎসালয়",
+            "synonym": "surgery",
+            "antonym": "—",
+            "meaning_en": "a place where patients see a doctor",
+            "example": "They are now at the doctor's clinic."
+          },
+          {
+            "word": "severe",
+            "pos": "adj",
+            "bangla": "তীব্র",
+            "synonym": "intense, acute",
+            "antonym": "mild",
+            "meaning_en": "very great or serious",
+            "example": "He has severe chest pain."
+          },
+          {
+            "word": "difficulty",
+            "pos": "noun",
+            "bangla": "কষ্ট, অসুবিধা",
+            "synonym": "trouble",
+            "antonym": "ease",
+            "meaning_en": "a state of being hard to do",
+            "example": "He has difficulty in breathing."
+          },
+          {
+            "word": "tablet",
+            "pos": "noun",
+            "bangla": "বড়ি, ট্যাবলেট",
+            "synonym": "pill",
+            "antonym": "—",
+            "meaning_en": "a small solid piece of medicine",
+            "example": "Take one tablet in the morning."
+          },
+          {
+            "word": "advise",
+            "pos": "verb",
+            "bangla": "পরামর্শ দেওয়া",
+            "synonym": "suggest, counsel",
+            "antonym": "—",
+            "meaning_en": "to tell someone what they should do",
+            "example": "The doctor advised a chest X-ray."
+          },
+          {
+            "word": "immediately",
+            "pos": "adverb",
+            "bangla": "অবিলম্বে",
+            "synonym": "at once, instantly",
+            "antonym": "later",
+            "meaning_en": "without any delay",
+            "example": "Have a chest X-ray immediately."
+          },
+          {
+            "word": "report",
+            "pos": "noun",
+            "bangla": "প্রতিবেদন, রিপোর্ট",
+            "synonym": "record",
+            "antonym": "—",
+            "meaning_en": "a written account of results",
+            "example": "Show me the X-ray report."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Who are talking in the dialogue?",
+            "options": [
+              "two doctors",
+              "Rabi, the doctor and Mr Ali",
+              "two patients",
+              "Rabi and his mother"
+            ],
+            "answer_index": 1,
+            "explain": "Rabi, the doctor, and Rabi's father Mr Zahir Ali."
+          },
+          {
+            "q": "Where does the dialogue take place?",
+            "options": [
+              "at home",
+              "at school",
+              "at the doctor's clinic",
+              "at a pharmacy"
+            ],
+            "answer_index": 2,
+            "explain": "It takes place at the doctor's clinic."
+          },
+          {
+            "q": "What are Mr Zahir Ali's problems?",
+            "options": [
+              "headache and fever",
+              "difficulty breathing and severe chest pain",
+              "a broken leg",
+              "a toothache"
+            ],
+            "answer_index": 1,
+            "explain": "He has difficulty breathing and severe chest pain."
+          },
+          {
+            "q": "Why can't Mr Ali tell the doctor about his problems himself?",
+            "options": [
+              "he is sleeping",
+              "he has difficulty in speaking",
+              "he refuses to talk",
+              "he is too shy"
+            ],
+            "answer_index": 1,
+            "explain": "He has difficulty in speaking, so Rabi explains."
+          },
+          {
+            "q": "How should Mr Ali take the prescribed tablets?",
+            "options": [
+              "two in the morning",
+              "one in the morning and one at night before meals",
+              "only when in pain",
+              "with water only"
+            ],
+            "answer_index": 1,
+            "explain": "One tablet in the morning and another at night before meals."
+          },
+          {
+            "q": "What test does the doctor advise?",
+            "options": [
+              "a blood test",
+              "a chest X-ray",
+              "an eye test",
+              "a hearing test"
+            ],
+            "answer_index": 1,
+            "explain": "The doctor advises a chest X-ray immediately."
+          },
+          {
+            "q": "When does the doctor want to see the X-ray report?",
+            "options": [
+              "next week",
+              "that same evening if possible",
+              "next month",
+              "never"
+            ],
+            "answer_index": 1,
+            "explain": "He wants to see the report that evening if possible."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Who are talking in the dialogue, and where?",
+            "model": "Rabi, the doctor, and Rabi's father Mr Zahir Ali are talking. The dialogue takes place at the doctor's clinic."
+          },
+          {
+            "q": "What are Zahir Ali's problems?",
+            "model": "Zahir Ali has difficulty in breathing as before and is again suffering from severe chest pain. He also has difficulty in speaking."
+          },
+          {
+            "q": "Why can't Zahir Ali tell the doctor about his problems himself?",
+            "model": "He cannot tell the doctor himself because he has difficulty in speaking, so his son Rabi explains the problems for him."
+          },
+          {
+            "q": "What does the doctor do to find out the problem?",
+            "model": "The doctor asks Mr Ali to lie down on the examination table and presses different places to check where he feels pain."
+          },
+          {
+            "q": "What does the doctor prescribe?",
+            "model": "The doctor prescribes a medicine, telling Mr Ali to take one tablet in the morning and another at night before meals. He also advises an immediate chest X-ray."
+          },
+          {
+            "q": "Why do you think the doctor advised a chest X-ray?",
+            "model": "The doctor advised a chest X-ray to look inside the chest and find the real cause of the severe chest pain and breathing difficulty, so that the right treatment can be given."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "The dialogue takes place at Rabi's home.",
+            "is_true": false,
+            "correction": "It takes place at the doctor's clinic."
+          },
+          {
+            "statement": "Mr Zahir Ali has difficulty in breathing and chest pain.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Rabi explains the problems because his father cannot speak well.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The doctor prescribes two tablets to be taken only in the morning.",
+            "is_true": false,
+            "correction": "One tablet is to be taken in the morning and another at night before meals."
+          },
+          {
+            "statement": "The doctor advises a chest X-ray immediately.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The doctor wants to see the X-ray report after a month.",
+            "is_true": false,
+            "correction": "He wants to see it that same evening if possible."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "Mr Zahir Ali is not well; he has difficulty in (1)____. At the doctor's (2)____, the doctor asks him to lie on the examination table. The doctor then (3)____ a medicine and tells him to take one (4)____ in the morning and one at night. He also advises a chest (5)____ immediately.",
+          "blanks": [
+            "breathing",
+            "clinic",
+            "prescribes",
+            "tablet",
+            "X-ray"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Question",
+            "Answer from the dialogue"
+          ],
+          "rows": [
+            [
+              "Who is the patient?",
+              "Mr Zahir Ali, Rabi's father"
+            ],
+            [
+              "Where are they?",
+              "at the doctor's clinic"
+            ],
+            [
+              "What are his problems?",
+              "breathing difficulty and chest pain"
+            ],
+            [
+              "What is prescribed?",
+              "a tablet morning and night before meals"
+            ],
+            [
+              "What test is advised?",
+              "a chest X-ray immediately"
+            ]
+          ],
+          "blanks": [
+            "Mr Zahir Ali, Rabi's father",
+            "at the doctor's clinic",
+            "breathing difficulty and chest pain",
+            "a tablet morning and night before meals",
+            "a chest X-ray immediately"
+          ]
+        },
+        "match": {
+          "left": [
+            "Mr Zahir Ali has",
+            "The dialogue takes place",
+            "The doctor asks him to lie",
+            "The doctor prescribes",
+            "The doctor advises a chest"
+          ],
+          "right": [
+            "a medicine.",
+            "at the clinic.",
+            "severe chest pain.",
+            "X-ray immediately.",
+            "on the examination table."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              4,
+              3
+            ]
+          ]
+        },
+        "summary": {
+          "model": "Rabi takes his unwell father, Mr Zahir Ali, to the doctor's clinic because his father has difficulty speaking, breathing trouble and severe chest pain. The doctor asks him to lie on the examination table, presses different places to locate the pain, and then prescribes a medicine to be taken morning and night before meals. The doctor also advises an immediate chest X-ray and asks to see the report the same evening.",
+          "skeleton": "Rabi brings his father to the ____ with breathing trouble and ____ pain. The doctor examines him, ____ a medicine for morning and night, and advises a chest ____ immediately."
+        },
+        "writing": {
+          "type": "dialogue",
+          "prompt": "Suppose you visited a doctor for a stomach pain or a bad cold. Write a dialogue between you and the doctor.",
+          "model": "Patient: Good morning, doctor. May I come in?\nDoctor: Good morning. Yes, please sit down. What's the matter with you?\nPatient: I have been suffering from a bad cold and a sore throat for two days, doctor.\nDoctor: I see. Do you have a fever or a headache as well?\nPatient: Yes, I had a mild fever last night, and my head still feels heavy.\nDoctor: Let me check. Open your mouth and say 'aah'. Hmm, your throat is a little red. It is a common cold; there is nothing to worry about.\nPatient: What should I do, doctor?\nDoctor: I am prescribing some medicine. Take one tablet three times a day after meals, and gargle with warm salt water. Drink plenty of water and take rest.\nPatient: Thank you very much, doctor.\nDoctor: You are welcome. Come again if you do not feel better in three days."
+        }
+      },
+      {
+        "id": "u3l5",
+        "unit": 3,
+        "unit_title": "Health and Hygiene",
+        "number": 5,
+        "title": "A Letter (The Dangers of Smoking)",
+        "keywords": [
+          "nicotine",
+          "tragedy",
+          "broke",
+          "puff"
+        ],
+        "learn_line": "How smoking harms health, through a real-life letter about a family's loss to lung cancer.",
+        "minutes": 10,
+        "warmup": [
+          "Do you know anyone who smokes? How do you feel about it?",
+          "What harmful substance is found in tobacco?",
+          "Which serious disease can smoking cause?",
+          "Why is it hard for people to stop smoking once they start?"
+        ],
+        "reading": {
+          "summary_en": "In this letter, Rabi writes to his friend Sohel to share a tragedy: his father has died of lung cancer. Rabi explains that his father used to smoke heavily, having picked up the habit in his college days. Recently his father had continuous chest pain, and the doctor's chest X-ray showed dark marks on his lungs that were signs of lung cancer. The doctor explained that a poisonous substance called nicotine is in tobacco leaves, and since cigarettes are made from tobacco, this nicotine enters the lungs with every puff. Smoking for years causes deadly lung cancer. Rabi and his mother had tried hard to stop his father from smoking, but he never listened, and he died an untimely death. As the only earning member, his death has left the big family of seven broke and struggling to survive. Rabi says they are trying to recover by the grace of the Almighty.",
+          "gist_bn": "এই চিঠিতে রাবি তার বন্ধু সোহেলকে একটি দুঃখের খবর জানায়—তার বাবা ফুসফুসের ক্যান্সারে মারা গেছেন। বাবা কলেজজীবন থেকে অতিরিক্ত ধূমপান করতেন। এক্স-রেতে ফুসফুসে কালো দাগ ধরা পড়ে, যা ক্যান্সারের লক্ষণ। ডাক্তার বলেন, তামাক পাতায় নিকোটিন নামক বিষাক্ত উপাদান থাকে; সিগারেট তামাক থেকে তৈরি, তাই প্রতিটি টানে নিকোটিন ফুসফুসে ঢোকে এবং বছরের পর বছর ধূমপান ক্যান্সার ঘটায়। বাবা ছিলেন একমাত্র উপার্জনক্ষম ব্যক্তি; তাঁর মৃত্যুতে সাত সদস্যের পরিবার এখন নিঃস্ব।",
+          "book_page": 26
+        },
+        "vocab": [
+          {
+            "word": "nicotine",
+            "pos": "noun",
+            "bangla": "নিকোটিন",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "a poisonous substance found in tobacco",
+            "example": "Nicotine in cigarettes harms the lungs."
+          },
+          {
+            "word": "tragedy",
+            "pos": "noun",
+            "bangla": "মর্মান্তিক ঘটনা / বিপর্যয়",
+            "synonym": "disaster, calamity",
+            "antonym": "blessing",
+            "meaning_en": "a very sad event",
+            "example": "His father's death was a great tragedy."
+          },
+          {
+            "word": "broke",
+            "pos": "adj (informal)",
+            "bangla": "নিঃস্ব / কপর্দকহীন",
+            "synonym": "penniless, bankrupt",
+            "antonym": "rich",
+            "meaning_en": "having no money at all",
+            "example": "The family is now broke."
+          },
+          {
+            "word": "puff",
+            "pos": "noun",
+            "bangla": "সুখটান (ধোঁয়া টানা)",
+            "synonym": "drag, inhalation",
+            "antonym": "—",
+            "meaning_en": "an act of breathing in smoke",
+            "example": "Nicotine enters the lungs with every puff."
+          },
+          {
+            "word": "tobacco",
+            "pos": "noun",
+            "bangla": "তামাক",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "the dried leaves used to make cigarettes",
+            "example": "Cigarettes are made from tobacco leaves."
+          },
+          {
+            "word": "poisonous",
+            "pos": "adj",
+            "bangla": "বিষাক্ত",
+            "synonym": "toxic, harmful",
+            "antonym": "harmless",
+            "meaning_en": "containing poison; very harmful",
+            "example": "Nicotine is a poisonous substance."
+          },
+          {
+            "word": "lung",
+            "pos": "noun",
+            "bangla": "ফুসফুস",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "one of the two organs we breathe with",
+            "example": "Smoking damages the lungs."
+          },
+          {
+            "word": "cancer",
+            "pos": "noun",
+            "bangla": "ক্যান্সার",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "a serious disease in which cells grow abnormally",
+            "example": "He died of lung cancer."
+          },
+          {
+            "word": "untimely",
+            "pos": "adj",
+            "bangla": "অকাল(মৃত্যু)",
+            "synonym": "premature",
+            "antonym": "timely",
+            "meaning_en": "happening too soon",
+            "example": "He died an untimely death."
+          },
+          {
+            "word": "worsen",
+            "pos": "verb",
+            "bangla": "অবনতি হওয়া",
+            "synonym": "deteriorate",
+            "antonym": "improve",
+            "meaning_en": "to become worse",
+            "example": "His health condition was worsening."
+          },
+          {
+            "word": "earning member",
+            "pos": "phrase",
+            "bangla": "উপার্জনক্ষম সদস্য",
+            "synonym": "breadwinner",
+            "antonym": "dependent",
+            "meaning_en": "the person who earns money for a family",
+            "example": "His father was the only earning member."
+          },
+          {
+            "word": "survive",
+            "pos": "verb",
+            "bangla": "টিকে থাকা / বেঁচে থাকা",
+            "synonym": "endure, cope",
+            "antonym": "perish",
+            "meaning_en": "to continue to live or exist",
+            "example": "They don't know how they will survive."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Why did Rabi write the letter to Sohel?",
+            "options": [
+              "to invite him",
+              "to share a family tragedy",
+              "to ask for money",
+              "to talk about a film"
+            ],
+            "answer_index": 1,
+            "explain": "Rabi writes to share that his father died of lung cancer."
+          },
+          {
+            "q": "What did Rabi's father die of?",
+            "options": [
+              "a heart attack",
+              "lung cancer",
+              "an accident",
+              "a fever"
+            ],
+            "answer_index": 1,
+            "explain": "He died of lung cancer."
+          },
+          {
+            "q": "Where did Rabi's father get the smoking habit?",
+            "options": [
+              "from his office",
+              "from his college days",
+              "from his friends abroad",
+              "from his father"
+            ],
+            "answer_index": 1,
+            "explain": "He got the bad habit from his college days."
+          },
+          {
+            "q": "What did the chest X-ray show?",
+            "options": [
+              "a broken bone",
+              "dark marks on his lungs",
+              "a clear chest",
+              "a heart problem"
+            ],
+            "answer_index": 1,
+            "explain": "The X-ray showed dark marks, signs of lung cancer."
+          },
+          {
+            "q": "'My father's death is a great tragedy.' The underlined word means —",
+            "options": [
+              "a very sad event",
+              "a very strong warning",
+              "very serious",
+              "a memory"
+            ],
+            "answer_index": 0,
+            "explain": "Tragedy means a very sad event."
+          },
+          {
+            "q": "Rabi's family is now completely broke because —",
+            "options": [
+              "his father had lung cancer",
+              "they have no source of income",
+              "his father's death was heart-breaking",
+              "his father was a chain smoker"
+            ],
+            "answer_index": 1,
+            "explain": "His father was the only earning member, so they now have no income."
+          },
+          {
+            "q": "What is the primary topic discussed in Rabi's letter?",
+            "options": [
+              "his recent vacation",
+              "the dangers of smoking",
+              "a new movie",
+              "a sports event"
+            ],
+            "answer_index": 1,
+            "explain": "The letter is mainly about the dangers of smoking."
+          },
+          {
+            "q": "According to the letter, what is the major consequence of smoking?",
+            "options": [
+              "improved athletic performance",
+              "enhanced memory",
+              "increased risk of fatal diseases",
+              "better social interactions"
+            ],
+            "answer_index": 2,
+            "explain": "Smoking increases the risk of fatal diseases like lung cancer."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What could be the relationship between the sender and the receiver of the letter?",
+            "model": "The sender, Rabi, and the receiver, Sohel, appear to be close friends, because Rabi shares a deeply personal family tragedy and asks Sohel to write back and give his regards to his parents."
+          },
+          {
+            "q": "What causes lung cancer, according to the doctor?",
+            "model": "According to the doctor, a poisonous substance called nicotine, found in tobacco leaves, enters the lungs with every puff of a cigarette. Smoking for years causes deadly lung cancer."
+          },
+          {
+            "q": "Who do you think are the members of Rabi's family? Why?",
+            "model": "Rabi mentions that they are a big family of seven and that his father was the only earning member. So the family probably includes Rabi, his mother and his brothers and sisters, who now have no income."
+          },
+          {
+            "q": "Why is Rabi's family now broke?",
+            "model": "Rabi's family is now broke because his father, who died of lung cancer, was the only earning member. With his death they have lost their only source of income."
+          },
+          {
+            "q": "How did Rabi and his mother try to help his father?",
+            "model": "Rabi and his mother were worried about his worsening health and tried hard to stop his father from smoking. But he never listened to their requests and warnings."
+          },
+          {
+            "q": "What lesson can we learn from this letter?",
+            "model": "We learn that smoking is extremely harmful: the nicotine in tobacco can cause fatal lung cancer. We should never start smoking, and we should help others give it up to protect their health and their families."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Rabi's father died of lung cancer.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Rabi's father started smoking in his old age.",
+            "is_true": false,
+            "correction": "He got the smoking habit from his college days."
+          },
+          {
+            "statement": "Nicotine is a poisonous substance found in tobacco leaves.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Rabi and his mother encouraged his father to smoke.",
+            "is_true": false,
+            "correction": "They tried hard to stop his father from smoking."
+          },
+          {
+            "statement": "Rabi's father was the only earning member of the family.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Smoking is good for the lungs.",
+            "is_true": false,
+            "correction": "Smoking damages the lungs and can cause deadly lung cancer."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "Rabi's father died of lung (1)____. He used to (2)____ heavily from his college days. The chest X-ray showed dark marks on his (3)____. A poisonous substance called (4)____ in tobacco enters the lungs with every puff. As he was the only earning member, the family is now (5)____.",
+          "blanks": [
+            "cancer",
+            "smoke",
+            "lungs",
+            "nicotine",
+            "broke"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Who/what",
+            "Detail"
+          ],
+          "rows": [
+            [
+              "Sender of the letter",
+              "Rabi"
+            ],
+            [
+              "Cause of the father's death",
+              "lung cancer from smoking"
+            ],
+            [
+              "Harmful substance in tobacco",
+              "nicotine"
+            ],
+            [
+              "What the X-ray showed",
+              "dark marks on the lungs"
+            ],
+            [
+              "State of the family now",
+              "broke, with no earning member"
+            ]
+          ],
+          "blanks": [
+            "Rabi",
+            "lung cancer from smoking",
+            "nicotine",
+            "dark marks on the lungs",
+            "broke, with no earning member"
+          ]
+        },
+        "match": {
+          "left": [
+            "Rabi's father died of",
+            "He got the habit from",
+            "Nicotine is found in",
+            "Nicotine enters the lungs with",
+            "The family is now broke because"
+          ],
+          "right": [
+            "tobacco leaves.",
+            "every puff.",
+            "lung cancer.",
+            "they have no income.",
+            "his college days."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ]
+        },
+        "summary": {
+          "model": "In a letter to his friend Sohel, Rabi shares the tragedy of his father's death from lung cancer. His father had smoked heavily since his college days, and a chest X-ray revealed dark marks on his lungs. The doctor explained that nicotine, a poison in tobacco, enters the lungs with every puff and causes cancer over the years. Though Rabi and his mother tried to stop him, his father never listened. As the only earning member, his death has left their family of seven broke and struggling.",
+          "skeleton": "Rabi writes to Sohel that his father died of lung ____. His father smoked since ____. The poison ____ in tobacco caused it. As the only ____ member, his death left the family ____."
+        },
+        "writing": {
+          "type": "letter",
+          "prompt": "Imagine you are Sohel. Write a reply to Rabi's letter expressing your sympathy.",
+          "model": "10/B College Road, Khulna\n12 June 2013\n\nDear Rabi,\n\nI was deeply shocked and saddened to receive your letter. Please accept my heartfelt sympathy for the loss of your dear father. It is hard to find words at such a painful time, but I want you to know that my thoughts are with you and your family.\n\nYour letter has also opened my eyes to the terrible dangers of smoking. I never knew that the nicotine in tobacco could cause such a fatal disease as lung cancer. From now on, I will warn my own relatives and friends never to start this deadly habit.\n\nI know these days are very difficult for your family, especially since your father was the only earning member. Please do not lose heart. Be strong for your mother and stay close to the Almighty, who will surely help you through this hard time. If I can be of any help, do not hesitate to write to me.\n\nGive my regards to your mother. Take care of yourself.\n\nYours ever,\nSohel"
+        }
+      },
+      {
+        "id": "u3l6",
+        "unit": 3,
+        "unit_title": "Health and Hygiene",
+        "number": 6,
+        "title": "Physical Exercise",
+        "keywords": [
+          "stretching",
+          "benefit",
+          "regularity",
+          "freehand"
+        ],
+        "learn_line": "The kinds of physical exercise we can do and the many benefits they bring.",
+        "minutes": 10,
+        "warmup": [
+          "Do you do any physical exercise every day? What kind?",
+          "Which exercises can you do indoors, and which outdoors?",
+          "How do you feel after running or playing a game?",
+          "Besides keeping us fit, what else can exercise teach us?"
+        ],
+        "reading": {
+          "summary_en": "In this lesson, Mr Pronay Larma, the physical teacher of Rooppur High School, talks to his students about health. When he asks what is necessary for good health, a student says we need healthy food, proper rest and sleep, and to be clean and tidy. Mr Larma agrees but adds that we also need regular physical exercise. He explains that there are different kinds of exercise that can be done indoors or outdoors: at home we can do freehand exercises and stretch different parts of the body, while outside we can play, swim or simply walk. He says the benefits of physical exercise are many: the greatest is that it keeps us fit for work, and it also gives us energy, makes us strong and cheerful, and teaches us regularity and discipline.",
+          "gist_bn": "এই পাঠে রূপপুর হাই স্কুলের শরীরচর্চা শিক্ষক জনাব প্রণয় লারমা শিক্ষার্থীদের সঙ্গে স্বাস্থ্য নিয়ে কথা বলেন। সুস্বাস্থ্যের জন্য দরকার পুষ্টিকর খাবার, পর্যাপ্ত বিশ্রাম-ঘুম, পরিচ্ছন্নতা—এবং নিয়মিত শরীরচর্চা। ঘরের ভেতরে ফ্রি-হ্যান্ড ব্যায়াম ও স্ট্রেচিং, বাইরে খেলা, সাঁতার বা হাঁটা করা যায়। ব্যায়ামের অনেক উপকার: এটি কাজের জন্য ফিট রাখে, শক্তি দেয়, শক্তিশালী ও প্রফুল্ল করে এবং নিয়মানুবর্তিতা ও শৃঙ্খলা শেখায়।",
+          "book_page": 29
+        },
+        "vocab": [
+          {
+            "word": "physical exercise",
+            "pos": "phrase",
+            "bangla": "শরীরচর্চা / ব্যায়াম",
+            "synonym": "workout",
+            "antonym": "rest",
+            "meaning_en": "activity of the body for fitness",
+            "example": "Regular physical exercise keeps us fit."
+          },
+          {
+            "word": "stretching",
+            "pos": "noun",
+            "bangla": "স্ট্রেচিং / অঙ্গ প্রসারণ",
+            "synonym": "extending",
+            "antonym": "—",
+            "meaning_en": "reaching and lengthening parts of the body",
+            "example": "Stretching is a kind of freehand exercise."
+          },
+          {
+            "word": "benefit",
+            "pos": "noun",
+            "bangla": "উপকার / সুফল",
+            "synonym": "advantage, gain",
+            "antonym": "harm, drawback",
+            "meaning_en": "a helpful or good result",
+            "example": "The benefits of exercise are many."
+          },
+          {
+            "word": "regularity",
+            "pos": "noun",
+            "bangla": "নিয়মানুবর্তিতা",
+            "synonym": "consistency, routine",
+            "antonym": "irregularity",
+            "meaning_en": "the habit of doing things at fixed times",
+            "example": "Exercise teaches us regularity."
+          },
+          {
+            "word": "freehand",
+            "pos": "adj",
+            "bangla": "ফ্রি-হ্যান্ড (যন্ত্রবিহীন)",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "done without any equipment",
+            "example": "We can do freehand exercises at home."
+          },
+          {
+            "word": "indoors",
+            "pos": "adverb",
+            "bangla": "ঘরের ভেতরে",
+            "synonym": "inside",
+            "antonym": "outdoors",
+            "meaning_en": "inside a building",
+            "example": "Some exercises can be done indoors."
+          },
+          {
+            "word": "outdoors",
+            "pos": "adverb",
+            "bangla": "বাইরে / খোলা জায়গায়",
+            "synonym": "outside",
+            "antonym": "indoors",
+            "meaning_en": "outside, in the open air",
+            "example": "Outside, we can play or swim."
+          },
+          {
+            "word": "fit",
+            "pos": "adj",
+            "bangla": "সুস্থ-সবল / ফিট",
+            "synonym": "healthy, strong",
+            "antonym": "unfit",
+            "meaning_en": "in good physical condition",
+            "example": "Exercise keeps us fit for work."
+          },
+          {
+            "word": "cheerful",
+            "pos": "adj",
+            "bangla": "প্রফুল্ল / আনন্দিত",
+            "synonym": "happy, lively",
+            "antonym": "gloomy",
+            "meaning_en": "feeling happy and lively",
+            "example": "Exercise makes us strong and cheerful."
+          },
+          {
+            "word": "discipline",
+            "pos": "noun",
+            "bangla": "শৃঙ্খলা",
+            "synonym": "order, control",
+            "antonym": "disorder",
+            "meaning_en": "controlled, orderly behaviour",
+            "example": "Exercise teaches discipline."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Who is talking to the students about health?",
+            "options": [
+              "the English teacher",
+              "Mr Pronay Larma, the physical teacher",
+              "the head teacher",
+              "a doctor"
+            ],
+            "answer_index": 1,
+            "explain": "Mr Pronay Larma, the physical teacher of Rooppur High School."
+          },
+          {
+            "q": "Which of these is NOT mentioned as necessary for good health?",
+            "options": [
+              "healthy food",
+              "proper rest and sleep",
+              "being clean and tidy",
+              "watching television"
+            ],
+            "answer_index": 3,
+            "explain": "Food, rest, sleep, cleanliness and exercise are mentioned; not television."
+          },
+          {
+            "q": "Besides food, rest and cleanliness, what else do we need?",
+            "options": [
+              "more money",
+              "regular physical exercise",
+              "new clothes",
+              "more friends"
+            ],
+            "answer_index": 1,
+            "explain": "We also need regular physical exercise."
+          },
+          {
+            "q": "Which exercise can be done indoors?",
+            "options": [
+              "swimming",
+              "freehand exercise / stretching",
+              "walking in the park",
+              "playing football"
+            ],
+            "answer_index": 1,
+            "explain": "Freehand exercises and stretching can be done indoors."
+          },
+          {
+            "q": "Which of these is an outdoor activity?",
+            "options": [
+              "stretching at home",
+              "swimming",
+              "reading",
+              "sleeping"
+            ],
+            "answer_index": 1,
+            "explain": "Outdoors, we can play, swim or walk."
+          },
+          {
+            "q": "What is the greatest benefit of physical exercise?",
+            "options": [
+              "it makes us rich",
+              "it keeps us fit for work",
+              "it makes us tall",
+              "it saves time"
+            ],
+            "answer_index": 1,
+            "explain": "The greatest benefit is that it keeps us fit for work."
+          },
+          {
+            "q": "Besides fitness, physical exercise also teaches us —",
+            "options": [
+              "regularity and discipline",
+              "cooking",
+              "singing",
+              "drawing"
+            ],
+            "answer_index": 0,
+            "explain": "It teaches us regularity and discipline."
+          },
+          {
+            "q": "Physical exercise makes us —",
+            "options": [
+              "weak and dull",
+              "strong and cheerful",
+              "lazy and sleepy",
+              "sad and tired"
+            ],
+            "answer_index": 1,
+            "explain": "It makes us strong and cheerful."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What things are necessary for good health?",
+            "model": "For good health we need healthy food, proper rest and sleep, cleanliness, and regular physical exercise. All of these together keep us fit and well."
+          },
+          {
+            "q": "How many kinds of physical exercise are there, and what are they?",
+            "model": "There are different kinds of physical exercise. Some can be done indoors, such as freehand exercises and stretching different parts of the body, while others are done outdoors, such as playing, swimming and walking."
+          },
+          {
+            "q": "Why do we need physical exercise?",
+            "model": "We need physical exercise because its benefits are many. The greatest is that it keeps us fit for work; it also gives us energy, makes us strong and cheerful, and teaches us regularity and discipline."
+          },
+          {
+            "q": "What exercises can we do indoors and outdoors?",
+            "model": "Indoors we can do freehand exercises and stretch different parts of the body. Outdoors we can play games, swim or simply walk."
+          },
+          {
+            "q": "What does physical exercise teach us besides keeping us fit?",
+            "model": "Besides keeping us fit, physical exercise teaches us regularity and discipline, which are useful in every part of life."
+          },
+          {
+            "q": "Why is regular exercise better than occasional exercise?",
+            "model": "Regular exercise keeps the body fit all the time and builds good habits of regularity and discipline, while occasional exercise cannot give these lasting benefits."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Mr Larma is the English teacher of Rooppur High School.",
+            "is_true": false,
+            "correction": "Mr Larma is the physical (physical education) teacher."
+          },
+          {
+            "statement": "We need only food and sleep for good health.",
+            "is_true": false,
+            "correction": "We also need cleanliness and regular physical exercise."
+          },
+          {
+            "statement": "Freehand exercise and stretching can be done indoors.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Swimming and walking are outdoor activities.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The greatest benefit of exercise is that it makes us rich.",
+            "is_true": false,
+            "correction": "The greatest benefit is that it keeps us fit for work."
+          },
+          {
+            "statement": "Physical exercise teaches us regularity and discipline.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "For good health we need healthy food, proper rest and regular physical (1)____. We can do freehand exercises (2)____ and play or swim (3)____. The greatest (4)____ of exercise is that it keeps us fit for work. It also teaches us regularity and (5)____.",
+          "blanks": [
+            "exercise",
+            "indoors",
+            "outdoors",
+            "benefit",
+            "discipline"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Where",
+            "Exercises / benefit"
+          ],
+          "rows": [
+            [
+              "Indoors",
+              "freehand exercises, stretching"
+            ],
+            [
+              "Outdoors",
+              "play, swim, walk"
+            ],
+            [
+              "Greatest benefit",
+              "keeps us fit for work"
+            ],
+            [
+              "Other benefits",
+              "energy, strength, cheerfulness"
+            ],
+            [
+              "It teaches",
+              "regularity and discipline"
+            ]
+          ],
+          "blanks": [
+            "freehand exercises, stretching",
+            "play, swim, walk",
+            "keeps us fit for work",
+            "energy, strength, cheerfulness",
+            "regularity and discipline"
+          ]
+        },
+        "match": {
+          "left": [
+            "Indoors we can do",
+            "Outdoors we can",
+            "The greatest benefit is",
+            "Exercise makes us",
+            "Exercise teaches us"
+          ],
+          "right": [
+            "play and swim.",
+            "regularity and discipline.",
+            "strong and cheerful.",
+            "freehand exercises.",
+            "that it keeps us fit."
+          ],
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "Mr Pronay Larma, the physical teacher of Rooppur High School, tells his students that good health needs healthy food, proper rest and sleep, cleanliness and, importantly, regular physical exercise. He explains that some exercises, like freehand exercises and stretching, can be done indoors, while playing, swimming and walking are done outdoors. The benefits are many: most of all, exercise keeps us fit for work, but it also gives energy, makes us strong and cheerful, and teaches regularity and discipline.",
+          "skeleton": "Good health needs food, rest, cleanliness and regular ____. Indoors we do ____ exercises; outdoors we play, swim or ____. Exercise keeps us ____ and teaches us regularity and ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'The Benefits of Physical Exercise' (about 100 words).",
+          "model": "Physical exercise is one of the most important habits for a healthy life. There are many kinds of exercise: indoor ones such as freehand exercises and stretching, and outdoor ones such as playing games, swimming and walking. The benefits of regular exercise are countless. Above all, it keeps the body fit for work and free from disease. It also gives us fresh energy, makes our muscles strong, and keeps the mind cheerful and active. Moreover, exercise teaches us valuable qualities like regularity and discipline, which help us in our studies and daily life. Therefore, every student should do some physical exercise regularly to stay healthy in body and mind."
+        }
+      },
+      {
+        "id": "u3l7",
+        "unit": 3,
+        "unit_title": "Health and Hygiene",
+        "number": 7,
+        "title": "A Healthy and Happy Family",
+        "keywords": [
+          "remote",
+          "literate",
+          "aware",
+          "contagious",
+          "harmful"
+        ],
+        "learn_line": "How a clean, aware and educated family stays healthy and happy in a rural home.",
+        "minutes": 10,
+        "warmup": [
+          "What does a clean, healthy home look like?",
+          "Why is it good for parents to be literate (able to read and write)?",
+          "What does 'contagious' disease mean?",
+          "How can a family keep its home free from mosquitoes and germs?"
+        ],
+        "reading": {
+          "summary_en": "This lesson is about a healthy and happy family living in a clean rural home. The family lives in a remote area, and their tidy house and surroundings are kept free from dirt and mosquitoes. Because the parents are literate and aware of the importance of cleanliness and good health, the whole family follows healthy habits and shares in keeping the home clean. They know that an unclean environment can lead to harmful and contagious diseases, so they stay careful and keep their home neat. As a result, the family lives a healthy, happy and disease-free life. The lesson focuses on useful words such as remote, literate, delicious, aware, harmful and contagious.",
+          "gist_bn": "এই পাঠ একটি সুস্থ ও সুখী পরিবার নিয়ে, যারা একটি পরিচ্ছন্ন গ্রামীণ বাড়িতে বাস করে। পরিবারটি একটি প্রত্যন্ত (remote) এলাকায় থাকে; তাদের গোছানো বাড়ি ও আশপাশ ময়লা ও মশামুক্ত। বাবা-মা শিক্ষিত (literate) এবং পরিচ্ছন্নতা ও স্বাস্থ্য সম্পর্কে সচেতন (aware), তাই গোটা পরিবার স্বাস্থ্যকর অভ্যাস মেনে চলে ও ঘর পরিষ্কার রাখায় অংশ নেয়। অপরিষ্কার পরিবেশ ক্ষতিকর (harmful) ও সংক্রামক (contagious) রোগ ডেকে আনে জেনে তারা সতর্ক থাকে এবং সুস্থ-সুখী জীবনযাপন করে।",
+          "book_page": 31
+        },
+        "vocab": [
+          {
+            "word": "remote",
+            "pos": "adj",
+            "bangla": "প্রত্যন্ত / দূরবর্তী",
+            "synonym": "isolated, distant",
+            "antonym": "nearby, central",
+            "meaning_en": "far away and hard to reach",
+            "example": "The family lives in a remote area."
+          },
+          {
+            "word": "literate",
+            "pos": "adj",
+            "bangla": "শিক্ষিত (পড়তে-লিখতে জানা)",
+            "synonym": "educated",
+            "antonym": "illiterate",
+            "meaning_en": "able to read and write",
+            "example": "His parents are literate."
+          },
+          {
+            "word": "delicious",
+            "pos": "adj",
+            "bangla": "সুস্বাদু",
+            "synonym": "tasty, yummy",
+            "antonym": "tasteless",
+            "meaning_en": "having a very pleasant taste",
+            "example": "His mother cooks delicious food."
+          },
+          {
+            "word": "aware",
+            "pos": "adj",
+            "bangla": "সচেতন / অবগত",
+            "synonym": "conscious, mindful",
+            "antonym": "unaware, ignorant",
+            "meaning_en": "knowing about something",
+            "example": "They are aware of the value of cleanliness."
+          },
+          {
+            "word": "harmful",
+            "pos": "adj",
+            "bangla": "ক্ষতিকর",
+            "synonym": "damaging, injurious",
+            "antonym": "harmless, beneficial",
+            "meaning_en": "causing harm to your health",
+            "example": "Dirt is harmful to health."
+          },
+          {
+            "word": "contagious",
+            "pos": "adj",
+            "bangla": "সংক্রামক",
+            "synonym": "catching, infectious",
+            "antonym": "non-contagious",
+            "meaning_en": "(of a disease) spreading from one person to another",
+            "example": "Some contagious diseases spread quickly."
+          },
+          {
+            "word": "participate",
+            "pos": "verb",
+            "bangla": "অংশগ্রহণ করা",
+            "synonym": "take part, join",
+            "antonym": "abstain",
+            "meaning_en": "to take part in an activity",
+            "example": "The children participate in cleaning the home."
+          },
+          {
+            "word": "surroundings",
+            "pos": "noun",
+            "bangla": "পারিপার্শ্বিক / আশপাশ",
+            "synonym": "environment",
+            "antonym": "—",
+            "meaning_en": "the area around a place",
+            "example": "They keep their surroundings clean."
+          },
+          {
+            "word": "mosquito",
+            "pos": "noun",
+            "bangla": "মশা",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "a small flying insect that bites and spreads disease",
+            "example": "Their house is free from mosquitoes."
+          },
+          {
+            "word": "tidy",
+            "pos": "adj",
+            "bangla": "পরিপাটি / গোছানো",
+            "synonym": "neat, orderly",
+            "antonym": "untidy, messy",
+            "meaning_en": "clean and well-arranged",
+            "example": "They keep their home tidy."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "'Remote' means —",
+            "options": [
+              "knowing about something",
+              "isolated / far away",
+              "able to read and write",
+              "very tasty"
+            ],
+            "answer_index": 1,
+            "explain": "Remote means isolated or far away."
+          },
+          {
+            "q": "'Literate' means —",
+            "options": [
+              "isolated",
+              "able to read and write",
+              "harmful to health",
+              "spreading easily"
+            ],
+            "answer_index": 1,
+            "explain": "Literate means able to read and write."
+          },
+          {
+            "q": "'Aware' means —",
+            "options": [
+              "knowing about something",
+              "very pleasant to taste",
+              "far away",
+              "unclean"
+            ],
+            "answer_index": 0,
+            "explain": "Aware means knowing about something."
+          },
+          {
+            "q": "'Harmful' means something that —",
+            "options": [
+              "tastes pleasant",
+              "causes harm to your health",
+              "is far away",
+              "is easy to read"
+            ],
+            "answer_index": 1,
+            "explain": "Harmful means causing harm to health."
+          },
+          {
+            "q": "'Contagious' describes a disease that —",
+            "options": [
+              "is not serious",
+              "spreads from one person to another",
+              "cannot be cured",
+              "only affects animals"
+            ],
+            "answer_index": 1,
+            "explain": "Contagious means spreading from person to person."
+          },
+          {
+            "q": "'Delicious' means —",
+            "options": [
+              "having a very pleasant taste",
+              "far away",
+              "clean and tidy",
+              "able to read"
+            ],
+            "answer_index": 0,
+            "explain": "Delicious means having a very pleasant taste."
+          },
+          {
+            "q": "Why is the family's house free from mosquitoes?",
+            "options": [
+              "it is in a city",
+              "they keep it and its surroundings clean and tidy",
+              "they never open the windows",
+              "they use no water"
+            ],
+            "answer_index": 1,
+            "explain": "A clean, tidy house and surroundings keep mosquitoes away."
+          },
+          {
+            "q": "Why does this family stay healthy and happy?",
+            "options": [
+              "they are very rich",
+              "they are aware and keep clean, healthy habits",
+              "they live in a city",
+              "they never go outside"
+            ],
+            "answer_index": 1,
+            "explain": "Being aware and clean keeps the family healthy and happy."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Where does the family live?",
+            "model": "The family lives in a clean and tidy home in a remote area, far from the town. Their house and surroundings are kept neat and free from dirt and mosquitoes."
+          },
+          {
+            "q": "Why is the family's house free from mosquitoes?",
+            "model": "The house is free from mosquitoes because the family keeps the house and its surroundings clean and tidy, leaving no dirty water or rubbish where mosquitoes can breed."
+          },
+          {
+            "q": "Why is it important that the parents are literate?",
+            "model": "Because the parents are literate, they are aware of the importance of cleanliness and good health. This helps them teach the whole family healthy habits and keep the home free from disease."
+          },
+          {
+            "q": "What does 'contagious' mean, and why should we avoid such diseases?",
+            "model": "'Contagious' means a disease that spreads from one person to another. We should avoid them by staying clean, because an unclean environment can spread harmful, contagious diseases."
+          },
+          {
+            "q": "How does the family stay healthy and happy?",
+            "model": "The family stays healthy and happy because they are aware of good health, keep their home and bodies clean, and everyone participates in cleaning activities, which keeps them free from disease."
+          },
+          {
+            "q": "What can we learn from this family?",
+            "model": "We can learn that being educated and aware, keeping our home and surroundings clean, and sharing the work of cleanliness can keep a whole family healthy, happy and free from disease."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "'Remote' means a place that is near and easy to reach.",
+            "is_true": false,
+            "correction": "'Remote' means isolated or far away."
+          },
+          {
+            "statement": "'Literate' means a person who can read and write.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "'Aware' means knowing about something.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "A 'contagious' disease does not spread to others.",
+            "is_true": false,
+            "correction": "A contagious disease spreads from one person to another."
+          },
+          {
+            "statement": "The family keeps its house and surroundings clean.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "An unclean environment is harmful to health.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "The family lives in a (1)____ area far from the town. Because the parents are (2)____, they are (3)____ of the value of cleanliness. They keep their home clean, so it stays free from mosquitoes and (4)____ diseases. An unclean place is (5)____ to health.",
+          "blanks": [
+            "remote",
+            "literate",
+            "aware",
+            "contagious",
+            "harmful"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Word",
+            "Meaning"
+          ],
+          "rows": [
+            [
+              "remote",
+              "isolated / far away"
+            ],
+            [
+              "literate",
+              "able to read and write"
+            ],
+            [
+              "delicious",
+              "having a very pleasant taste"
+            ],
+            [
+              "aware",
+              "knowing about something"
+            ],
+            [
+              "contagious",
+              "spreading from one person to another"
+            ]
+          ],
+          "blanks": [
+            "isolated / far away",
+            "able to read and write",
+            "having a very pleasant taste",
+            "knowing about something",
+            "spreading from one person to another"
+          ]
+        },
+        "match": {
+          "left": [
+            "remote",
+            "literate",
+            "aware",
+            "harmful",
+            "contagious"
+          ],
+          "right": [
+            "knowing about something",
+            "causing harm to health",
+            "isolated / far away",
+            "spreading person to person",
+            "able to read and write"
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ]
+        },
+        "summary": {
+          "model": "This lesson describes a healthy and happy family living in a tidy home in a remote area. Because the parents are literate and aware of the value of cleanliness, the whole family keeps the house and its surroundings clean, so it stays free from dirt and mosquitoes. Knowing that an unclean environment can cause harmful and contagious diseases, every member shares in keeping the home neat. As a result, the family enjoys a healthy, happy and disease-free life.",
+          "skeleton": "A family lives in a ____ area. The parents are ____ and ____ of cleanliness, so they keep the home clean and free from ____ diseases, which are ____ to health."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'A Healthy and Happy Family' (about 100 words).",
+          "model": "A healthy and happy family is one that lives in a clean home and follows good habits together. Such a family keeps its house and surroundings tidy, so that the place stays free from dirt and mosquitoes. When the parents are literate and aware of the value of cleanliness and good health, they teach their children healthy habits from an early age, and everyone shares in the work of keeping the home neat. They know that an unclean environment can cause harmful and contagious diseases, so they are always careful. Because they eat good food, stay clean and live in a healthy place, the whole family enjoys a happy, peaceful and disease-free life."
+        }
+      },
+      {
+        "id": "u3l8",
+        "unit": 3,
+        "unit_title": "Health and Hygiene",
+        "number": 8,
+        "title": "Making a Class Committee",
+        "keywords": [
+          "forum",
+          "environment",
+          "fortnightly",
+          "responsibility"
+        ],
+        "learn_line": "How students form a committee to keep their classroom clean and share the responsibility.",
+        "minutes": 10,
+        "warmup": [
+          "Is your classroom always clean? Who keeps it clean?",
+          "Whose responsibility is it to keep a classroom tidy?",
+          "What is a 'committee', and why might a class need one?",
+          "What ground rules would you make to keep your class clean?"
+        ],
+        "reading": {
+          "summary_en": "In this lesson, Ms Subarna Saha, the class teacher, enters a dirty classroom and asks the students why it is so dirty. She points out that although the school cleaner is absent, the students can keep their own classroom clean, because cleaning is good physical work and it is their responsibility to keep the room clean and tidy. Shafiq, the class captain, politely agrees that they will do it from now on. The teacher suggests that they first make a forum and select a leader, then divide the cleaning activities among different groups. Shafiq likes the idea, and a committee is formed by the class 8 students under the leadership of their class captain. The students are divided into several groups, a work plan is made, and they decide on ground rules: do not spit in the classroom, do not drop litter, use the bin for trash, and keep the desks and chairs in place. All the students are very excited to be involved in this activity.",
+          "gist_bn": "এই পাঠে শ্রেণিশিক্ষক মিস সুবর্ণা সাহা নোংরা শ্রেণিকক্ষে ঢুকে জিজ্ঞেস করেন কেন এত নোংরা। স্কুলের পরিচ্ছন্নতাকর্মী অনুপস্থিত থাকলেও শিক্ষার্থীরা নিজেরাই নিজেদের শ্রেণিকক্ষ পরিষ্কার রাখতে পারে; এটি তাদের দায়িত্ব। শ্রেণি ক্যাপ্টেন শফিক রাজি হয়। শিক্ষক পরামর্শ দেন—প্রথমে একটি ফোরাম গঠন ও একজন নেতা নির্বাচন, তারপর বিভিন্ন দলে কাজ ভাগ করে দেওয়া। ক্যাপ্টেনের নেতৃত্বে কমিটি গঠিত হয় এবং কিছু নিয়ম ঠিক হয়: শ্রেণিকক্ষে থুতু না ফেলা, আবর্জনা না ফেলা, ময়লা বিনে ফেলা, ডেস্ক-চেয়ার ঠিক জায়গায় রাখা।",
+          "book_page": 32
+        },
+        "vocab": [
+          {
+            "word": "forum",
+            "pos": "noun",
+            "bangla": "ফোরাম / সংগঠন-মঞ্চ",
+            "synonym": "group, body",
+            "antonym": "—",
+            "meaning_en": "an organised group for a shared purpose",
+            "example": "First, make a forum and select a leader."
+          },
+          {
+            "word": "environment",
+            "pos": "noun",
+            "bangla": "পরিবেশ",
+            "synonym": "surroundings",
+            "antonym": "—",
+            "meaning_en": "the conditions around us",
+            "example": "We should keep the school environment clean."
+          },
+          {
+            "word": "fortnightly",
+            "pos": "adj/adv",
+            "bangla": "পাক্ষিক (দু'সপ্তাহ অন্তর)",
+            "synonym": "biweekly",
+            "antonym": "—",
+            "meaning_en": "happening once every two weeks",
+            "example": "They hold a meeting fortnightly."
+          },
+          {
+            "word": "responsibility",
+            "pos": "noun",
+            "bangla": "দায়িত্ব",
+            "synonym": "duty, obligation",
+            "antonym": "—",
+            "meaning_en": "a duty to deal with something",
+            "example": "It is our responsibility to keep the class clean."
+          },
+          {
+            "word": "committee",
+            "pos": "noun",
+            "bangla": "কমিটি / পরিষদ",
+            "synonym": "board, panel",
+            "antonym": "—",
+            "meaning_en": "a group chosen to do a particular job",
+            "example": "A committee was formed by the students."
+          },
+          {
+            "word": "leadership",
+            "pos": "noun",
+            "bangla": "নেতৃত্ব",
+            "synonym": "guidance, direction",
+            "antonym": "—",
+            "meaning_en": "the position of leading a group",
+            "example": "The committee works under the captain's leadership."
+          },
+          {
+            "word": "litter",
+            "pos": "noun",
+            "bangla": "আবর্জনা / ছড়ানো ময়লা",
+            "synonym": "rubbish, trash",
+            "antonym": "—",
+            "meaning_en": "waste paper or rubbish left lying about",
+            "example": "Do not drop litter in the classroom."
+          },
+          {
+            "word": "bin",
+            "pos": "noun",
+            "bangla": "ময়লার ঝুড়ি",
+            "synonym": "trash can, dustbin",
+            "antonym": "—",
+            "meaning_en": "a container for waste",
+            "example": "Use the bin for trash."
+          },
+          {
+            "word": "spit",
+            "pos": "verb",
+            "bangla": "থুতু ফেলা",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "to force liquid from the mouth",
+            "example": "Do not spit in the classroom."
+          },
+          {
+            "word": "involve",
+            "pos": "verb",
+            "bangla": "জড়িত করা / অংশ নেওয়া",
+            "synonym": "include, engage",
+            "antonym": "exclude",
+            "meaning_en": "to take part or be included in something",
+            "example": "The students are excited to be involved."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Ms Subarna Saha is —",
+            "options": [
+              "a physical education teacher",
+              "an English teacher",
+              "a class teacher",
+              "a science teacher"
+            ],
+            "answer_index": 2,
+            "explain": "Ms Subarna Saha is the class teacher."
+          },
+          {
+            "q": "Why was the classroom dirty?",
+            "options": [
+              "the students made it dirty on purpose",
+              "the school cleaner was absent",
+              "it was raining",
+              "the windows were broken"
+            ],
+            "answer_index": 1,
+            "explain": "The school cleaner was absent that day."
+          },
+          {
+            "q": "Whose responsibility is it to keep the classroom clean?",
+            "options": [
+              "only the cleaner's",
+              "the students' own",
+              "only the teacher's",
+              "the head teacher's"
+            ],
+            "answer_index": 1,
+            "explain": "It is the students' own responsibility to keep it clean."
+          },
+          {
+            "q": "The class teacher suggested the students make a forum —",
+            "options": [
+              "to keep their classroom clean",
+              "to participate in social activities",
+              "to keep the school environment clean",
+              "to help each other"
+            ],
+            "answer_index": 0,
+            "explain": "She suggested a forum to keep their classroom clean."
+          },
+          {
+            "q": "The committee was formed under the leadership of —",
+            "options": [
+              "the class teacher",
+              "the class captain",
+              "the head teacher",
+              "the cleaner"
+            ],
+            "answer_index": 1,
+            "explain": "It was formed under the leadership of the class captain."
+          },
+          {
+            "q": "Which of these is one of the ground rules?",
+            "options": [
+              "spit in the classroom",
+              "drop litter freely",
+              "use the bin for trash",
+              "move the desks anywhere"
+            ],
+            "answer_index": 2,
+            "explain": "One rule is to use the bin for trash."
+          },
+          {
+            "q": "The students were happy to be able to —",
+            "options": [
+              "become members of the committee",
+              "take part in the cleaning programme at school",
+              "make their captain the leader",
+              "skip cleaning duties"
+            ],
+            "answer_index": 1,
+            "explain": "They were happy to take part in the cleaning programme."
+          },
+          {
+            "q": "After forming the committee, the students were divided into —",
+            "options": [
+              "two classes",
+              "several groups with a work plan",
+              "no groups",
+              "different schools"
+            ],
+            "answer_index": 1,
+            "explain": "They were divided into several groups and a work plan was made."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Why was the classroom dirty, and what did Ms Saha say about it?",
+            "model": "The classroom was dirty because the school cleaner was absent that day. Ms Saha said that even so, the students could keep their own classroom clean, as it is their responsibility."
+          },
+          {
+            "q": "What did the class teacher suggest the students do?",
+            "model": "She suggested that the students first make a forum and select a leader, and then divide the cleaning activities among different groups."
+          },
+          {
+            "q": "How was the committee formed?",
+            "model": "A committee was formed by the class 8 students under the leadership of their class captain. The students were divided into several groups and a work plan was made for cleaning."
+          },
+          {
+            "q": "What ground rules did the students decide on?",
+            "model": "They decided not to spit in the classroom, not to drop litter, to use the bin for trash, and to keep the desks and chairs in place."
+          },
+          {
+            "q": "Why is it good for students to clean their own classroom?",
+            "model": "It is good because cleaning is healthy physical work that makes them feel good, and keeping the classroom clean and tidy is their own responsibility."
+          },
+          {
+            "q": "How did the students feel about the cleaning activity?",
+            "model": "All the students of class 8 were very excited to be involved in this activity and decided to start working immediately."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Ms Subarna Saha is a science teacher.",
+            "is_true": false,
+            "correction": "Ms Subarna Saha is the class teacher."
+          },
+          {
+            "statement": "The classroom was dirty because the school cleaner was absent.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Keeping the classroom clean is only the cleaner's responsibility.",
+            "is_true": false,
+            "correction": "It is the students' own responsibility too."
+          },
+          {
+            "statement": "The committee was formed under the leadership of the class captain.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "One ground rule is to drop litter freely in the classroom.",
+            "is_true": false,
+            "correction": "A ground rule is NOT to drop litter; trash must go in the bin."
+          },
+          {
+            "statement": "The students were excited to be involved in the cleaning activity.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "The classroom was dirty because the school (1)____ was absent. Ms Saha said it was the students' (2)____ to keep it clean. She told them to make a (3)____ and select a leader. A committee was formed under the leadership of the class (4)____, and they set ground rules such as using the (5)____ for trash.",
+          "blanks": [
+            "cleaner",
+            "responsibility",
+            "forum",
+            "captain",
+            "bin"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Step / rule",
+            "Detail"
+          ],
+          "rows": [
+            [
+              "Why it was dirty",
+              "the school cleaner was absent"
+            ],
+            [
+              "First step",
+              "make a forum and select a leader"
+            ],
+            [
+              "Then",
+              "divide cleaning among groups"
+            ],
+            [
+              "Who leads the committee",
+              "the class captain"
+            ],
+            [
+              "A ground rule",
+              "use the bin for trash"
+            ]
+          ],
+          "blanks": [
+            "the school cleaner was absent",
+            "make a forum and select a leader",
+            "divide cleaning among groups",
+            "the class captain",
+            "use the bin for trash"
+          ]
+        },
+        "match": {
+          "left": [
+            "Ms Subarna Saha is",
+            "The classroom was dirty because",
+            "First, make a forum and",
+            "The committee is led by",
+            "Use the bin"
+          ],
+          "right": [
+            "select a leader.",
+            "for trash.",
+            "the class teacher.",
+            "the class captain.",
+            "the cleaner was absent."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "When Ms Subarna Saha, the class teacher, finds the classroom dirty because the cleaner is absent, she reminds the students that keeping their own classroom clean is their responsibility. The class captain, Shafiq, agrees, and she suggests they make a forum, select a leader, and divide the cleaning among groups. A committee is formed under the captain's leadership, a work plan is made, and the students set ground rules such as not spitting or littering, using the bin, and keeping furniture in place. They are all excited to take part.",
+          "skeleton": "The classroom was dirty because the ____ was absent. Ms Saha said cleaning is the students' ____. They made a ____ and formed a committee under the class ____, and set rules like using the ____ for trash."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'Keeping Our Classroom Clean' (about 100 words).",
+          "model": "Keeping our classroom clean is the responsibility of every student, not just the school cleaner. A clean, tidy classroom creates a pleasant environment in which we can study with a fresh mind. To keep it clean, our class can form a small committee under the leadership of the class captain and divide the cleaning duties among different groups. We should also follow some simple ground rules: never spit on the floor, never drop litter, always use the bin for trash, and keep the desks and chairs in their proper places. When everyone shares the work and follows these rules, our classroom stays neat, healthy and welcoming for all."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,833 @@
+{
+ "id": "i-have-a-dream",
+ "unit": "Unit 10",
+ "unitName": "Dreams",
+ "title": "I Have a Dream — Part 2 (Let Freedom Ring)",
+ "titleBn": "আমার একটি স্বপ্ন আছে (২) — স্বাধীনতার ঘণ্টা বাজুক",
+ "lede": "ভাষণের শেষ অংশ — বাইবেলীয় প্রতিমা, ‘hew out of the mountain of despair a stone of hope’ এবং অমর সমাপ্তি ‘Free at last!’",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 50,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Read the Biblical imagery correctly",
+   "d": "valley, hill, rough places — প্রতীকী অর্থ"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "১৪টি বাক্যের বাংলা অর্থ"
+  },
+  {
+   "t": "‘With this faith…’ — the five promises",
+   "d": "পাঁচটি প্রতিশ্রুতির তালিকা"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "exalted, hew, prodigious, discord, hamlet…"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — The Biblical vision",
+   "s": [
+    {
+     "en": "==I have a dream today.==",
+     "bn": "==আজ আমার একটি স্বপ্ন আছে।=="
+    },
+    {
+     "en": "I have a dream that one day ==every valley shall be exalted==, every ==hill and mountain shall be made low==, the ==rough places will be made plain==, and the ==crooked places will be made straight==, “and the ==glory of the Lord shall be revealed==, and ==all flesh shall see it together==”.",
+     "bn": "আমার স্বপ্ন, একদিন ==প্রতিটি উপত্যকা উঁচু করা হবে==, প্রতিটি ==পাহাড় ও পর্বত নিচু করা হবে==, ==অসমতল জায়গাগুলো সমতল করা হবে==, ==বাঁকা পথগুলো সোজা করা হবে==, “আর ==প্রভুর মহিমা প্রকাশিত হবে==, এবং ==সমস্ত মানুষ একসঙ্গে তা দেখতে পাবে==”।"
+    },
+    {
+     "en": "==This is our hope.==",
+     "bn": "==এটিই আমাদের আশা।=="
+    },
+    {
+     "en": "This is the ==faith== that I will go back to the ==South== with.",
+     "bn": "এই ==বিশ্বাস== নিয়েই আমি ==দক্ষিণে== ফিরে যাব।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — With this faith…",
+   "s": [
+    {
+     "en": "With this faith we will be able to ==hew out of the mountain of despair a stone of hope==.",
+     "bn": "এই বিশ্বাস নিয়ে আমরা ==হতাশার পর্বত কেটে আশার এক টুকরো পাথর বের করে আনতে== পারব।"
+    },
+    {
+     "en": "With this faith we will be able to ==transform the jangling discords of our nation into a beautiful symphony of brotherhood==.",
+     "bn": "এই বিশ্বাস নিয়ে আমরা ==আমাদের জাতির কর্কশ কলহকে ভ্রাতৃত্বের এক সুন্দর সিম্ফনিতে রূপান্তরিত করতে== পারব।"
+    },
+    {
+     "en": "With this faith we will be able to ==work together, to pray together, to struggle together, to go to jail together, to stand up for freedom together==, knowing that ==we will be free one day==.",
+     "bn": "এই বিশ্বাস নিয়ে আমরা পারব ==একসঙ্গে কাজ করতে, একসঙ্গে প্রার্থনা করতে, একসঙ্গে সংগ্রাম করতে, একসঙ্গে কারাবরণ করতে, একসঙ্গে স্বাধীনতার পক্ষে রুখে দাঁড়াতে== — এই জেনে যে ==একদিন আমরা মুক্ত হবই==।"
+    },
+    {
+     "en": "And if ==America is to be a great nation==, this must become true.",
+     "bn": "আর ==আমেরিকাকে যদি একটি মহান জাতি হতে হয়==, তবে এটি সত্য হতেই হবে।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — Let freedom ring",
+   "s": [
+    {
+     "en": "So ==let freedom ring== from the ==prodigious hilltops of New Hampshire==.",
+     "bn": "তাই ==স্বাধীনতার ঘণ্টা বেজে উঠুক== ==নিউ হ্যাম্পশায়ারের বিশাল পাহাড়চূড়া== থেকে।"
+    },
+    {
+     "en": "Let freedom ring from the ==mighty mountains of New York==.",
+     "bn": "স্বাধীনতার ঘণ্টা বাজুক ==নিউ ইয়র্কের বিশাল পর্বতমালা== থেকে।"
+    },
+    {
+     "en": "Let freedom ring from the ==heightening Alleghenies of Pennsylvania==…",
+     "bn": "স্বাধীনতার ঘণ্টা বাজুক ==পেনসিলভানিয়ার ক্রমোন্নত অ্যালেগেনি পর্বতমালা== থেকে…"
+    },
+    {
+     "en": "Let freedom ring from every ==hill and molehill of Mississippi==.",
+     "bn": "স্বাধীনতার ঘণ্টা বাজুক ==মিসিসিপির প্রতিটি টিলা ও ছোট্ট ঢিবি== থেকে।"
+    },
+    {
+     "en": "==From every mountainside, let freedom ring.==",
+     "bn": "==প্রতিটি পর্বতগাত্র থেকে স্বাধীনতার ঘণ্টা বেজে উঠুক।=="
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 4 — Free at last!",
+   "s": [
+    {
+     "en": "And when this happens, and when we allow freedom to ring, when we let it ring from ==every village and every hamlet, from every state and every city==, we will be able to ==speed up that day== when all of ==God's children — black men and white men, Jews and gentiles, Protestants and Catholics== — will be able to ==join hands and sing== in the words of the ==old Negro spiritual==:",
+     "bn": "আর যখন এটি ঘটবে, যখন আমরা স্বাধীনতাকে বাজতে দেব, ==প্রতিটি গ্রাম ও প্রতিটি পল্লি, প্রতিটি রাজ্য ও প্রতিটি শহর== থেকে বাজতে দেব, তখন আমরা ==সেই দিনটিকে ত্বরান্বিত করতে== পারব, যেদিন ঈশ্বরের সব সন্তান — ==কালো ও সাদা মানুষ, ইহুদি ও অ-ইহুদি, প্রোটেস্ট্যান্ট ও ক্যাথলিক== — ==হাতে হাত রেখে গাইতে== পারবে সেই ==প্রাচীন নিগ্রো আধ্যাত্মিক সংগীতের== ভাষায়:"
+    },
+    {
+     "en": "“==Free at last! Free at last! Thank God Almighty, we are free at last!==”",
+     "bn": "“==অবশেষে মুক্ত! অবশেষে মুক্ত! সর্বশক্তিমান ঈশ্বরকে ধন্যবাদ, আমরা অবশেষে মুক্ত!==”"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "exalted",
+   "pos": "adj/verb",
+   "pron": "/ɪɡˈzɔːltɪd/",
+   "bn": "উন্নীত, উঁচু করা",
+   "en": "raised to a higher level or rank",
+   "ex": "Every valley shall be exalted."
+  },
+  {
+   "w": "valley",
+   "pos": "noun",
+   "pron": "/ˈvæli/",
+   "bn": "উপত্যকা",
+   "en": "low land between hills",
+   "ex": "every valley shall be exalted"
+  },
+  {
+   "w": "crooked",
+   "pos": "adj",
+   "pron": "/ˈkrʊkɪd/",
+   "bn": "বাঁকা, আঁকাবাঁকা",
+   "en": "bent; not straight",
+   "ex": "the crooked places will be made straight"
+  },
+  {
+   "w": "plain",
+   "pos": "adj",
+   "pron": "/pleɪn/",
+   "bn": "সমতল; সরল",
+   "en": "flat and level",
+   "ex": "The rough places will be made plain."
+  },
+  {
+   "w": "revealed",
+   "pos": "verb",
+   "pron": "/rɪˈviːld/",
+   "bn": "প্রকাশিত হওয়া",
+   "en": "made known or shown",
+   "ex": "the glory of the Lord shall be revealed"
+  },
+  {
+   "w": "all flesh",
+   "pos": "phrase",
+   "pron": "/ɔːl fleʃ/",
+   "bn": "সকল মানুষ (বাইবেলীয় প্রয়োগ)",
+   "en": "all human beings",
+   "ex": "all flesh shall see it together"
+  },
+  {
+   "w": "faith",
+   "pos": "noun",
+   "pron": "/feɪθ/",
+   "bn": "বিশ্বাস, আস্থা",
+   "en": "strong belief",
+   "ex": "This is the faith that I go back with."
+  },
+  {
+   "w": "hew",
+   "pos": "verb",
+   "pron": "/hjuː/",
+   "bn": "কেটে বের করা, খোদাই করা",
+   "en": "to cut something out of stone or wood",
+   "ex": "hew out of the mountain of despair a stone of hope"
+  },
+  {
+   "w": "despair",
+   "pos": "noun",
+   "pron": "/dɪˈspeə/",
+   "bn": "হতাশা, নিরাশা",
+   "en": "the complete loss of hope",
+   "ex": "the mountain of despair"
+  },
+  {
+   "w": "jangling",
+   "pos": "adj",
+   "pron": "/ˈdʒæŋɡlɪŋ/",
+   "bn": "কর্কশ, বেসুরো",
+   "en": "making a harsh, unpleasant noise",
+   "ex": "the jangling discords of our nation"
+  },
+  {
+   "w": "discord",
+   "pos": "noun",
+   "pron": "/ˈdɪskɔːd/",
+   "bn": "কলহ, অমিল, বেসুর",
+   "en": "disagreement; harsh combination of sounds",
+   "ex": "jangling discords"
+  },
+  {
+   "w": "symphony",
+   "pos": "noun",
+   "pron": "/ˈsɪmfəni/",
+   "bn": "সুরসংগতি, ঐকতান",
+   "en": "a long piece of music for an orchestra; perfect harmony",
+   "ex": "a beautiful symphony of brotherhood"
+  },
+  {
+   "w": "prodigious",
+   "pos": "adj",
+   "pron": "/prəˈdɪdʒəs/",
+   "bn": "বিশাল, বিস্ময়কর রকম বড়",
+   "en": "very large or impressive",
+   "ex": "the prodigious hilltops of New Hampshire"
+  },
+  {
+   "w": "molehill",
+   "pos": "noun",
+   "pron": "/ˈməʊlhɪl/",
+   "bn": "ছোট্ট মাটির ঢিবি",
+   "en": "a small pile of earth made by a mole",
+   "ex": "every hill and molehill of Mississippi"
+  },
+  {
+   "w": "hamlet",
+   "pos": "noun",
+   "pron": "/ˈhæmlət/",
+   "bn": "ছোট পল্লি, পাড়া",
+   "en": "a very small village",
+   "ex": "from every village and every hamlet"
+  },
+  {
+   "w": "gentile",
+   "pos": "noun",
+   "pron": "/ˈdʒentaɪl/",
+   "bn": "অ-ইহুদি ব্যক্তি",
+   "en": "a person who is not Jewish",
+   "ex": "Jews and gentiles"
+  },
+  {
+   "w": "spiritual",
+   "pos": "noun",
+   "pron": "/ˈspɪrɪtʃuəl/",
+   "bn": "আধ্যাত্মিক লোকসংগীত (কৃষ্ণাঙ্গদের ধর্মীয় গান)",
+   "en": "a religious song of black Americans",
+   "ex": "the old Negro spiritual"
+  },
+  {
+   "w": "speed up",
+   "pos": "phrase",
+   "pron": "/spiːd ʌp/",
+   "bn": "ত্বরান্বিত করা",
+   "en": "to make something happen faster",
+   "ex": "we will be able to speed up that day"
+  }
+ ],
+ "synant": [
+  {
+   "w": "exalted",
+   "bn": "উন্নীত",
+   "syn": [
+    "elevated",
+    "raised",
+    "uplifted"
+   ],
+   "ant": [
+    "humbled",
+    "lowered",
+    "humiliated"
+   ]
+  },
+  {
+   "w": "prodigious",
+   "bn": "বিশাল",
+   "syn": [
+    "gigantic",
+    "enormous",
+    "immense"
+   ],
+   "ant": [
+    "tiny",
+    "insignificant",
+    "petty"
+   ]
+  },
+  {
+   "w": "discord",
+   "bn": "কলহ",
+   "syn": [
+    "conflict",
+    "disagreement",
+    "strife"
+   ],
+   "ant": [
+    "concord",
+    "harmony",
+    "accord"
+   ]
+  },
+  {
+   "w": "symphony",
+   "bn": "ঐকতান",
+   "syn": [
+    "harmony",
+    "concord",
+    "melody"
+   ],
+   "ant": [
+    "cacophony",
+    "discord",
+    "noise"
+   ]
+  },
+  {
+   "w": "despair",
+   "bn": "হতাশা",
+   "syn": [
+    "hopelessness",
+    "gloom",
+    "desperation"
+   ],
+   "ant": [
+    "hope",
+    "optimism",
+    "confidence"
+   ]
+  },
+  {
+   "w": "crooked",
+   "bn": "বাঁকা",
+   "syn": [
+    "bent",
+    "twisted",
+    "curved"
+   ],
+   "ant": [
+    "straight",
+    "direct",
+    "even"
+   ]
+  },
+  {
+   "w": "sweltering",
+   "bn": "দগ্ধ",
+   "syn": [
+    "scorching",
+    "burning",
+    "sultry"
+   ],
+   "ant": [
+    "soothing",
+    "tranquil",
+    "cool"
+   ]
+  },
+  {
+   "w": "vicious",
+   "bn": "নিষ্ঠুর",
+   "syn": [
+    "ruthless",
+    "cruel",
+    "savage"
+   ],
+   "ant": [
+    "kind",
+    "merciful",
+    "auspicious"
+   ]
+  },
+  {
+   "w": "faith",
+   "bn": "বিশ্বাস",
+   "syn": [
+    "belief",
+    "trust",
+    "conviction"
+   ],
+   "ant": [
+    "doubt",
+    "disbelief",
+    "distrust"
+   ]
+  },
+  {
+   "w": "reveal",
+   "bn": "প্রকাশ করা",
+   "syn": [
+    "disclose",
+    "unveil",
+    "show"
+   ],
+   "ant": [
+    "conceal",
+    "hide",
+    "cover"
+   ]
+  },
+  {
+   "w": "hamlet",
+   "bn": "ছোট পল্লি",
+   "syn": [
+    "village",
+    "settlement"
+   ],
+   "ant": [
+    "metropolis",
+    "city"
+   ]
+  },
+  {
+   "w": "mighty",
+   "bn": "বিশাল, শক্তিশালী",
+   "syn": [
+    "powerful",
+    "grand",
+    "massive"
+   ],
+   "ant": [
+    "weak",
+    "feeble",
+    "small"
+   ]
+  }
+ ],
+ "summaryEn": "In the closing part of his speech Martin Luther King Jr. describes his dream in the language of the Bible: one day every valley will be raised, every hill and mountain will be lowered, the rough places will be made plain and the crooked places straight, the glory of the Lord will be revealed and all human beings will see it together. This, he says, is the hope and the faith with which he will return to the South. With such faith, he believes, his people will be able to carve a stone of hope out of the mountain of despair, to turn the jangling discords of the nation into a beautiful symphony of brotherhood, and to work, pray, struggle, go to jail and stand up for freedom together, in the certainty that one day they will be free; indeed, if America wishes to be a great nation, all this must come true. He therefore calls upon freedom to ring from the prodigious hilltops of New Hampshire, the mighty mountains of New York, the heightening Alleghenies of Pennsylvania and every hill and molehill of Mississippi — from every mountainside. When freedom rings from every village and hamlet, every state and city, that day will be hastened when all of God's children, black and white, Jews and gentiles, Protestants and Catholics, will join hands and sing the old Negro spiritual: “Free at last! Free at last! Thank God Almighty, we are free at last!”",
+ "summaryBn": "ভাষণের শেষ অংশে মার্টিন লুথার কিং জুনিয়র তাঁর স্বপ্নকে বাইবেলের ভাষায় বর্ণনা করেন: একদিন প্রতিটি উপত্যকা উঁচু হবে, প্রতিটি পাহাড়-পর্বত নিচু হবে, অসমতল জায়গা সমতল ও বাঁকা পথ সোজা হবে, প্রভুর মহিমা প্রকাশিত হবে এবং সব মানুষ একসঙ্গে তা দেখতে পাবে। এটিই সেই আশা ও বিশ্বাস, যা নিয়ে তিনি দক্ষিণে ফিরে যাবেন। তাঁর দৃঢ় প্রত্যয়, এই বিশ্বাস নিয়েই তাঁরা হতাশার পর্বত কেটে আশার পাথর বের করতে পারবেন, জাতির কর্কশ কলহকে ভ্রাতৃত্বের সুন্দর ঐকতানে বদলে দিতে পারবেন এবং একসঙ্গে কাজ, প্রার্থনা, সংগ্রাম, কারাবরণ ও স্বাধীনতার পক্ষে রুখে দাঁড়াতে পারবেন — এই নিশ্চয়তা নিয়ে যে একদিন তাঁরা মুক্ত হবেনই; আর আমেরিকাকে মহান জাতি হতে হলে এসব সত্য হতেই হবে। তাই তিনি আহ্বান জানান — স্বাধীনতার ঘণ্টা বাজুক নিউ হ্যাম্পশায়ারের বিশাল পাহাড়চূড়া, নিউ ইয়র্কের পর্বতমালা, পেনসিলভানিয়ার অ্যালেগেনি ও মিসিসিপির প্রতিটি টিলা-ঢিবি থেকে, প্রতিটি পর্বতগাত্র থেকে। যেদিন প্রতিটি গ্রাম-পল্লি, রাজ্য-শহর থেকে স্বাধীনতা বাজবে, সেদিনই ঈশ্বরের সব সন্তান — সাদা-কালো, ইহুদি-অইহুদি, প্রোটেস্ট্যান্ট-ক্যাথলিক — হাতে হাত রেখে গাইবে সেই প্রাচীন নিগ্রো সংগীত: “অবশেষে মুক্ত! সর্বশক্তিমান ঈশ্বরকে ধন্যবাদ, আমরা অবশেষে মুক্ত!”",
+ "summaryTip": "**Rhetorical passage:** ‘With this faith…’ তিনবার আর ‘Let freedom ring’ পাঁচবার এসেছে। Summary-তে প্রতিটি পুনরাবৃত্তিকে আলাদা বাক্য না বানিয়ে একটি বাক্যে তালিকা করে দাও — জায়গার নামগুলো দুটি-তিনটি রাখলেই যথেষ্ট।",
+ "mcq": [
+  {
+   "q": "The word ‘vicious’ mentioned in the speech means —",
+   "opts": [
+    "hateful",
+    "generous",
+    "ruthless",
+    "auspicious"
+   ],
+   "ans": 2,
+   "why": "Vicious = নিষ্ঠুর ও হিংস্র = ruthless. (‘Alabama with its vicious racists’ — ভাষণের আগের অংশে।) ‘Hateful’ মানে ঘৃণ্য/ঘৃণাপূর্ণ, কিন্তু vicious-এর মূল ভাব নিষ্ঠুরতা।"
+  },
+  {
+   "q": "“And the glory of the Lord shall be revealed, and all flesh shall see it together.” — What does it imply?",
+   "opts": [
+    "equality of human beings",
+    "glory of nature",
+    "difference between the black and white",
+    "all of the above"
+   ],
+   "ans": 0,
+   "why": "‘all flesh… **together**’ — সব মানুষ একসঙ্গে দেখবে, কেউ আলাদা নয়। এটিই মানুষে-মানুষে সমতার ঘোষণা।"
+  },
+  {
+   "q": "The word ‘prodigious’ in the passage implies —",
+   "opts": [
+    "talented",
+    "gigantic",
+    "impotent",
+    "unproductive"
+   ],
+   "ans": 1,
+   "why": "‘prodigious hilltops’ = বিশাল পাহাড়চূড়া = gigantic. ‘Prodigy’ (বিস্ময়বালক) থেকে ‘talented’ ভেবে ভুল করা যাবে না — এখানে আকারের কথা।"
+  },
+  {
+   "q": "What does the phrase “let freedom ring” mean?",
+   "opts": [
+    "freedom should make sounds",
+    "freedom should make people alert",
+    "freedom should appear",
+    "people may achieve freedom"
+   ],
+   "ans": 3,
+   "why": "এটি রূপক — স্বাধীনতার ঘণ্টা বাজা মানে মানুষ স্বাধীনতা লাভ করবে ও তা সর্বত্র ছড়িয়ে পড়বে। আক্ষরিক ‘শব্দ করা’ নয়।"
+  },
+  {
+   "q": "“Jangling discords of our nation will turn into a beautiful symphony of brotherhood” — what does it imply?",
+   "opts": [
+    "the existing harmony will turn into jangling",
+    "the existing discord will turn into concord",
+    "the existing agreement will turn into disagreement",
+    "the existing concord will turn into discord"
+   ],
+   "ans": 1,
+   "why": "Discord (কলহ) → symphony (ঐকতান/concord)। অর্থাৎ বিভেদ মিলনে রূপ নেবে। বাকি তিনটি option ঠিক উল্টো দিক বোঝায়।"
+  },
+  {
+   "q": "Who are the Catholics?",
+   "opts": [
+    "a race of Christians",
+    "a kind of Buddhists",
+    "an imaginary race",
+    "a kind of Jews"
+   ],
+   "ans": 0,
+   "why": "ক্যাথলিক ও প্রোটেস্ট্যান্ট — খ্রিষ্টধর্মের দুটি প্রধান শাখা। ভাষণে তাদের পাশাপাশি ‘Jews and gentiles’ও আছে, অর্থাৎ সব ধর্মের মানুষ।"
+  },
+  {
+   "q": "___ is the mission of the speaker.",
+   "opts": [
+    "Freedom of America",
+    "Independence of different people",
+    "Freedom of the Negro",
+    "Freedom of every animal"
+   ],
+   "ans": 2,
+   "why": "পুরো ভাষণটি কৃষ্ণাঙ্গ আমেরিকানদের সমান অধিকার ও মুক্তির জন্য — তাই তাঁর লক্ষ্য ‘freedom of the Negro’."
+  },
+  {
+   "q": "The speaker thanks God because —",
+   "opts": [
+    "they will soon become independent",
+    "they are free at last",
+    "America is a great nation",
+    "the rough places have been made free"
+   ],
+   "ans": 0,
+   "why": "সতর্কতা! ‘Free at last’ গানটি **ভবিষ্যতের** দৃশ্য — ‘we will be able to speed up **that day** when… will be able to… sing’. অর্থাৎ তাঁরা এখনো মুক্ত নন, শীঘ্রই হবেন।"
+  },
+  {
+   "q": "What is the synonym of ‘sweltering’?",
+   "opts": [
+    "Soothing",
+    "Tranquil",
+    "Scorching",
+    "Pleasing"
+   ],
+   "ans": 2,
+   "why": "Sweltering = অসহনীয় গরম/দগ্ধ = scorching. বাকি তিনটি option-ই আরামদায়ক অর্থ দেয় — বিপরীত।"
+  },
+  {
+   "q": "The word ‘exalted’ in the passage means —",
+   "opts": [
+    "humble",
+    "elevated",
+    "humiliated",
+    "bewildered"
+   ],
+   "ans": 1,
+   "why": "‘every valley shall be exalted’ — নিচু উপত্যকা উঁচু করা হবে = elevated. পাশের বাক্যেই বিপরীত ছবি — ‘hill and mountain shall be made low’."
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "Why did the speaker have these dreams?",
+   "a": "The speaker had these dreams because his people were living in a condition of terrible injustice. The Negro was still not free; he was crippled by segregation and discrimination, lived in poverty amid national prosperity and felt an exile in his own land. Martin Luther King Jr. therefore dreamt of a nation in which every inequality — pictured as valleys, hills and crooked places — would be levelled, and in which all of God's children could join hands as brothers. His dreams were, in short, the natural answer of a leader to a century of racial oppression.",
+   "bn": "বক্তা এই স্বপ্নগুলো দেখেছিলেন, কারণ তাঁর জাতি ভয়াবহ অবিচারের মধ্যে বাস করছিল। নিগ্রো তখনো মুক্ত ছিল না — পৃথকীকরণ ও বৈষম্যে পঙ্গু, সমৃদ্ধির মাঝে দরিদ্র, নিজ দেশে নির্বাসিত। তাই কিং এমন এক জাতির স্বপ্ন দেখেছিলেন যেখানে সব বৈষম্য — উপত্যকা, পাহাড় ও বাঁকা পথের রূপকে বর্ণিত — সমান করে দেওয়া হবে।"
+  },
+  {
+   "q": "How were the black people treated before achieving their freedom?",
+   "a": "Before achieving freedom the black people were treated as second-class human beings. Their life was crippled by the manacles of segregation and the chains of discrimination; they lived on a lonely island of poverty in the midst of a vast ocean of material prosperity; they languished in the corners of American society as exiles in their own land. They were judged by the colour of their skin instead of the content of their character, and in states like Alabama and Mississippi they faced vicious racism, injustice and oppression.",
+   "bn": "স্বাধীনতা লাভের আগে কৃষ্ণাঙ্গদের দ্বিতীয় শ্রেণির মানুষ হিসেবে দেখা হতো। পৃথকীকরণের হাতকড়া ও বৈষম্যের শিকলে তাদের জীবন পঙ্গু ছিল; সমৃদ্ধির সমুদ্রের মাঝে তারা দারিদ্র্যের দ্বীপে বাস করত এবং নিজ দেশেই নির্বাসিতের মতো ছিল। তাদের বিচার হতো চরিত্র নয়, গায়ের রঙ দিয়ে।"
+  },
+  {
+   "q": "What does the speaker dream for his four children?",
+   "a": "Martin Luther King Jr. dreams that his four little children will one day live in a nation where they will not be judged by the colour of their skin but by the content of their character. In other words, he wants a society in which a person's worth will be measured by his qualities, honesty and merit, and not by his race. This single sentence has become the most quoted line of the whole speech, because it states the principle of true equality in the simplest words.",
+   "bn": "কিং স্বপ্ন দেখেন যে তাঁর চার শিশুসন্তান একদিন এমন এক জাতির মধ্যে বাস করবে, যেখানে তাদের বিচার করা হবে গায়ের রঙ দিয়ে নয়, বরং তাদের চরিত্রের গুণ দিয়ে। অর্থাৎ তিনি এমন সমাজ চান যেখানে মানুষের মূল্য নির্ধারিত হবে তার সততা ও যোগ্যতা দিয়ে, বর্ণ দিয়ে নয়।"
+  },
+  {
+   "q": "What transformation will happen in the state of Mississippi?",
+   "a": "Mississippi is described as a state sweltering with the heat of injustice and the heat of oppression — that is, a burning desert for the black people. The speaker dreams that this very state will be transformed into an oasis of freedom and justice. Moreover, he calls upon freedom to ring from every hill and molehill of Mississippi. So the transformation will be complete: a land of racial cruelty will become a peaceful home of equal rights.",
+   "bn": "মিসিসিপিকে বলা হয়েছে অবিচার ও নিপীড়নের উত্তাপে দগ্ধ রাজ্য, অর্থাৎ কৃষ্ণাঙ্গদের জন্য জ্বলন্ত মরুভূমি। বক্তা স্বপ্ন দেখেন এই রাজ্যই স্বাধীনতা ও ন্যায়ের মরূদ্যানে রূপান্তরিত হবে; আরও চান, মিসিসিপির প্রতিটি টিলা-ঢিবি থেকে স্বাধীনতার ঘণ্টা বেজে উঠুক।"
+  },
+  {
+   "q": "What, according to Martin Luther King Jr., will be the use of this faith?",
+   "a": "According to him this faith will give his people the strength to do five great things. With this faith they will be able to hew a stone of hope out of the mountain of despair; to transform the jangling discords of the nation into a beautiful symphony of brotherhood; and to work together, pray together, struggle together, go to jail together and stand up for freedom together, knowing that one day they will be free. In short, faith will turn despair into hope and division into unity.",
+   "bn": "তাঁর মতে এই বিশ্বাস তাঁর জাতিকে শক্তি দেবে — হতাশার পর্বত কেটে আশার পাথর বের করতে, জাতির কর্কশ কলহকে ভ্রাতৃত্বের সুন্দর ঐকতানে বদলে দিতে এবং একসঙ্গে কাজ, প্রার্থনা, সংগ্রাম, কারাবরণ ও স্বাধীনতার পক্ষে রুখে দাঁড়াতে — এই জেনে যে একদিন তাঁরা মুক্ত হবেনই।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "What / Who",
+   "Event / Occurrence",
+   "Why / When",
+   "Where"
+  ],
+  "rows": [
+   [
+    "Martin Luther King Jr.",
+    "(i) @a dreamer and civil rights leader",
+    "represents",
+    "(ii) @the oppressed black people of America"
+   ],
+   [
+    "He",
+    "dreams",
+    "(iii) @that every valley shall be exalted",
+    "(iv) @one day"
+   ],
+   [
+    "Every hill and mountain",
+    "shall be made low",
+    "one day",
+    "in America"
+   ],
+   [
+    "The rough places",
+    "(v) @will be made plain",
+    "in the course of time",
+    "in America"
+   ],
+   [
+    "The crooked or bent places",
+    "(vi) @will be made straight",
+    "(vii) @in the course of time",
+    "in America"
+   ],
+   [
+    "All people",
+    "shall see",
+    "(viii) @the glory of the Lord",
+    "(ix) @together / all flesh at a time"
+   ],
+   [
+    "The jangling discords of their nation",
+    "(x) @will be transformed into a beautiful symphony of brotherhood",
+    "in course of time",
+    "in America"
+   ]
+  ],
+  "note": "‘shall be made low’, ‘will be made plain’ — সব passive future. খালিঘরেও সেই একই গঠন রাখতে হবে, নইলে ব্যাকরণে নম্বর কাটে।"
+ },
+ "flow": {
+  "title": "The Dreams of Martin Luther King Jr. (Part 2) — শেষ অংশের স্বপ্নসমূহ",
+  "items": [
+   {
+    "t": "One day every valley to be exalted",
+    "bn": "প্রতিটি উপত্যকা উঁচু হবে (দেওয়া আছে)"
+   },
+   {
+    "t": "Every hill and mountain to be made low",
+    "bn": "প্রতিটি পাহাড়-পর্বত নিচু হবে"
+   },
+   {
+    "t": "The rough places to be made plain and the crooked places straight",
+    "bn": "অসমতল সমতল, বাঁকা পথ সোজা হবে"
+   },
+   {
+    "t": "The glory of the Lord revealed and seen by all flesh together",
+    "bn": "প্রভুর মহিমা সবাই একসঙ্গে দেখবে"
+   },
+   {
+    "t": "Jangling discords transformed into a symphony of brotherhood",
+    "bn": "কলহ পরিণত হবে ভ্রাতৃত্বের ঐকতানে"
+   },
+   {
+    "t": "Freedom ringing from every village, hamlet, state and city — “Free at last!”",
+    "bn": "সর্বত্র স্বাধীনতার ঘণ্টা — ‘অবশেষে মুক্ত!’"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "Biblical Imagery Decoded <span class='sub'>— প্রতীকের প্রকৃত অর্থ</span>",
+   "key": "Imagery",
+   "table": {
+    "headers": [
+     "Image",
+     "Literal meaning",
+     "Social meaning intended"
+    ],
+    "rows": [
+     [
+      "Every valley shall be exalted",
+      "Low land raised up",
+      "@নিচু ও বঞ্চিত মানুষ মর্যাদা পাবে"
+     ],
+     [
+      "Every hill and mountain made low",
+      "High land lowered",
+      "@ক্ষমতাবান ও অহংকারীদের আধিপত্য কমবে"
+     ],
+     [
+      "Rough places made plain",
+      "Uneven ground levelled",
+      "@সমাজের অসমতা দূর হবে"
+     ],
+     [
+      "Crooked places made straight",
+      "Bent roads straightened",
+      "@অন্যায় ও বাঁকা পথ সরল হবে"
+     ],
+     [
+      "Mountain of despair",
+      "A huge mountain",
+      "@শতাব্দীর হতাশা"
+     ],
+     [
+      "A stone of hope",
+      "A carved stone",
+      "@সেই হতাশা থেকেই জন্ম নেওয়া আশা"
+     ],
+     [
+      "Jangling discords",
+      "Harsh noise",
+      "@জাতির বিভেদ ও কলহ"
+     ],
+     [
+      "Symphony of brotherhood",
+      "Orchestral harmony",
+      "@সব বর্ণের মানুষের মিলিত সুর"
+     ]
+    ]
+   },
+   "note": "উপত্যকা উঁচু + পাহাড় নিচু = **সমতা**। এই এক বাক্যেই পুরো অনুচ্ছেদের ব্যাখ্যা দেওয়া যায়।"
+  },
+  {
+   "title": "The Five ‘Together’s <span class='sub'>— ‘With this faith’-এর প্রতিশ্রুতি</span>",
+   "key": "Five Togethers",
+   "list": [
+    {
+     "em": "🤝",
+     "t": "work together",
+     "d": "একসঙ্গে কাজ করা"
+    },
+    {
+     "em": "🙏",
+     "t": "pray together",
+     "d": "একসঙ্গে প্রার্থনা করা"
+    },
+    {
+     "em": "✊",
+     "t": "struggle together",
+     "d": "একসঙ্গে সংগ্রাম করা"
+    },
+    {
+     "em": "⛓️",
+     "t": "go to jail together",
+     "d": "একসঙ্গে কারাবরণ করা"
+    },
+    {
+     "em": "🕊️",
+     "t": "stand up for freedom together",
+     "d": "একসঙ্গে স্বাধীনতার পক্ষে দাঁড়ানো",
+     "type": "ok"
+    },
+    {
+     "em": "🎯",
+     "t": "knowing that we will be free one day",
+     "d": "এই নিশ্চয়তা নিয়ে যে একদিন মুক্তি আসবেই",
+     "type": "ok"
+    }
+   ]
+  },
+  {
+   "title": "Places Named in the Speech <span class='sub'>— ‘Let freedom ring’-এর জায়গাগুলো</span>",
+   "key": "Places",
+   "table": {
+    "headers": [
+     "Place",
+     "How it is described"
+    ],
+    "rows": [
+     [
+      "New Hampshire",
+      "the prodigious hilltops"
+     ],
+     [
+      "New York",
+      "the mighty mountains"
+     ],
+     [
+      "Pennsylvania",
+      "the heightening Alleghenies"
+     ],
+     [
+      "Mississippi",
+      "every hill and molehill"
+     ],
+     [
+      "Everywhere",
+      "from every mountainside; every village, hamlet, state and city"
+     ]
+    ]
+   },
+   "note": "চারটি রাজ্যের নাম ও তাদের বিশেষণ জোড়ায় মুখস্থ রাখো — টেবিল ও MCQ দুটোতেই কাজে লাগে।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "📜",
+   "t": "Know the Biblical source",
+   "d": "‘Every valley shall be exalted…’ অংশটি বাইবেলের Isaiah 40:4-5 থেকে নেওয়া। এটি জানা থাকলে ‘glory of the Lord’-এর ব্যাখ্যা সহজ হয়।"
+  },
+  {
+   "em": "⏳",
+   "t": "Future, not present",
+   "type": "warn",
+   "d": "‘Free at last’ গানটি ভবিষ্যতের দৃশ্য — এখনো মুক্তি আসেনি। MCQ-তে ‘they are free at last’ option দিয়ে এখানেই ফাঁদ পাতা হয়।"
+  },
+  {
+   "em": "🔊",
+   "t": "‘Let freedom ring’ = anaphora",
+   "d": "একই শুরু বারবার — এই অলংকারের নাম anaphora. ‘What literary device?’ প্রশ্নে নামটি লিখলে বাড়তি নম্বর।"
+  },
+  {
+   "em": "🗺️",
+   "t": "Learn place + adjective pairs",
+   "d": "New Hampshire–prodigious, New York–mighty, Pennsylvania–heightening, Mississippi–molehill. জোড়া ভাঙলেই টেবিলে ভুল।"
+  },
+  {
+   "em": "🎼",
+   "t": "discord ↔ symphony",
+   "type": "ok",
+   "d": "এই একটিমাত্র বিপরীত-জোড়া থেকেই MCQ, Short Question ও Flow chart — তিন জায়গায় প্রশ্ন হয়।"
+  },
+  {
+   "em": "🧩",
+   "t": "Two parts, one speech",
+   "d": "‘The Negro is not free’ ও ‘I have a dream today’ একই ভাষণের দুই অংশ। তাই এক অংশের প্রশ্নে অন্য অংশের শব্দ (vicious, sweltering) চলে আসতে পারে — দুটোই পড়ে যাবে।"
+  }
+ ],
+ "recap": [
+  "বাইবেলীয় ছবি: উপত্যকা উঁচু, পাহাড় নিচু, অসমতল সমতল, বাঁকা সোজা = পূর্ণ সমতা।",
+  "‘With this faith’ — হতাশার পর্বত থেকে আশার পাথর, কলহ থেকে ভ্রাতৃত্বের ঐকতান।",
+  "পাঁচটি ‘together’: work, pray, struggle, go to jail, stand up for freedom.",
+  "‘Let freedom ring’ — New Hampshire, New York, Pennsylvania, Mississippi, প্রতিটি পর্বতগাত্র থেকে।",
+  "সমাপ্তি: সব বর্ণ ও ধর্মের মানুষ হাতে হাত রেখে গাইবে — ‘Free at last!’"
+ ],
+ "homework": [
+  "৮টি প্রতীকের অর্থ (Biblical Imagery) খাতায় লিখবে।",
+  "পাঁচটি ‘together’ ও চারটি জায়গার নাম মুখস্থ করবে।",
+  "‘What will be the use of this faith?’ — উত্তরটি নিজের ভাষায় লিখবে।",
+  "Summary ১৪০ শব্দে লিখে আনবে।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

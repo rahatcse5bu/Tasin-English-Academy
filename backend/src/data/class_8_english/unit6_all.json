@@ -1,0 +1,2911 @@
+{
+  "unit": {
+    "id": "u6",
+    "number": 6,
+    "title": "Going on a Trip",
+    "bangla_title": "ভ্রমণে যাওয়া",
+    "lessons": [
+      {
+        "id": "u6l1",
+        "unit": 6,
+        "unit_title": "Going on a Trip",
+        "number": 1,
+        "title": "At the Airport",
+        "keywords": [
+          "lounge",
+          "immigration",
+          "airport",
+          "passport"
+        ],
+        "learn_line": "Meet Mita and Zara as they wait at the airport for their first trip abroad to Thailand.",
+        "minutes": 10,
+        "warmup": [
+          "Have you ever been to an airport? What did you see there?",
+          "What do people do while waiting for a flight?",
+          "Why do travellers have to fill in forms at the airport?",
+          "How would you feel before your first ever plane journey?"
+        ],
+        "reading": {
+          "summary_en": "Zara lives with her parents in London and has come to Bangladesh to visit her aunt and uncle. She is very close to her cousin Mita, and both families have enjoyed visiting many interesting places together. They then decide to visit Thailand, but as Mita's parents are too busy with work, Mita travels with Zara and her parents instead. Now Mita, Zara and Zara's parents are at Hazrat Shahjalal International Airport, waiting in the lounge to fly by Bangladesh Biman. Mita is very excited because it is her first time travelling on a plane. While they wait, the two cousins plan what they will do in Bangkok. Mita's uncle brings immigration forms for everyone to fill in, explaining that the immigration officer will check their passports and stamp them before they can travel.",
+          "gist_bn": "জারা তার বাবা-মায়ের সঙ্গে লন্ডনে থাকে এবং খালা-মামাকে দেখতে বাংলাদেশে এসেছে। তার চাচাতো বোন মিতার সঙ্গে সে খুব ঘনিষ্ঠ। তারা থাইল্যান্ড বেড়াতে যাওয়ার সিদ্ধান্ত নেয়, কিন্তু মিতার বাবা-মা ব্যস্ত থাকায় মিতা জারার পরিবারের সঙ্গে যায়। তারা এখন হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের লাউঞ্জে বিমান বাংলাদেশে ওড়ার অপেক্ষায়। এটি মিতার প্রথম বিমানযাত্রা, তাই সে খুব উত্তেজিত। মামা ইমিগ্রেশন ফরম এনে দেন; ইমিগ্রেশন অফিসার পাসপোর্ট দেখে সিল মেরে দেবেন।",
+          "book_page": 63
+        },
+        "vocab": [
+          {
+            "word": "lounge",
+            "pos": "noun",
+            "bangla": "অপেক্ষাকক্ষ / লাউঞ্জ",
+            "synonym": "waiting room",
+            "antonym": "—",
+            "meaning_en": "a comfortable room where travellers wait",
+            "example": "They are waiting in the lounge."
+          },
+          {
+            "word": "immigration",
+            "pos": "noun",
+            "bangla": "অভিবাসন (বিভাগ)",
+            "synonym": "border control",
+            "antonym": "—",
+            "meaning_en": "the official checking of travellers entering or leaving a country",
+            "example": "The immigration officer checks passports."
+          },
+          {
+            "word": "excited",
+            "pos": "adj",
+            "bangla": "উত্তেজিত / রোমাঞ্চিত",
+            "synonym": "thrilled, eager",
+            "antonym": "calm, bored",
+            "meaning_en": "very happy and eager",
+            "example": "Mita is very excited about the trip."
+          },
+          {
+            "word": "cousin",
+            "pos": "noun",
+            "bangla": "চাচাতো/মামাতো ভাইবোন",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "a child of one's uncle or aunt",
+            "example": "Zara is very close to her cousin Mita."
+          },
+          {
+            "word": "relationship",
+            "pos": "noun",
+            "bangla": "সম্পর্ক",
+            "synonym": "connection, bond",
+            "antonym": "—",
+            "meaning_en": "the way people are connected",
+            "example": "What could be their relationship?"
+          },
+          {
+            "word": "passport",
+            "pos": "noun",
+            "bangla": "পাসপোর্ট",
+            "synonym": "travel document",
+            "antonym": "—",
+            "meaning_en": "an official document for travelling abroad",
+            "example": "The officer will stamp your passport."
+          },
+          {
+            "word": "stamp",
+            "pos": "verb",
+            "bangla": "সিল মারা",
+            "synonym": "mark, seal",
+            "antonym": "—",
+            "meaning_en": "to press an official mark onto something",
+            "example": "The officer will stamp it and you are ready."
+          },
+          {
+            "word": "officer",
+            "pos": "noun",
+            "bangla": "কর্মকর্তা",
+            "synonym": "official",
+            "antonym": "—",
+            "meaning_en": "a person who holds a position of authority",
+            "example": "The immigration officer checks the form."
+          },
+          {
+            "word": "form",
+            "pos": "noun",
+            "bangla": "ফরম / আবেদনপত্র",
+            "synonym": "document",
+            "antonym": "—",
+            "meaning_en": "a printed paper with spaces to fill in",
+            "example": "Fill in the form before immigration."
+          },
+          {
+            "word": "information",
+            "pos": "noun",
+            "bangla": "তথ্য",
+            "synonym": "details, data",
+            "antonym": "—",
+            "meaning_en": "facts about something",
+            "example": "Give some information about yourself."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Where does Zara live with her parents?",
+            "options": [
+              "Dhaka",
+              "London",
+              "Bangkok",
+              "Delhi"
+            ],
+            "answer_index": 1,
+            "explain": "Zara lives with her parents in London."
+          },
+          {
+            "q": "Why did Zara come to Bangladesh?",
+            "options": [
+              "to study",
+              "to visit her aunt and uncle",
+              "to work",
+              "for a school trip"
+            ],
+            "answer_index": 1,
+            "explain": "She came to visit her aunt and uncle."
+          },
+          {
+            "q": "Which country are they going to visit?",
+            "options": [
+              "India",
+              "Nepal",
+              "Thailand",
+              "Malaysia"
+            ],
+            "answer_index": 2,
+            "explain": "They decided to go to Thailand."
+          },
+          {
+            "q": "Why aren't Mita's parents going with her?",
+            "options": [
+              "they don't like travel",
+              "they are too busy with work",
+              "they have no passport",
+              "they are unwell"
+            ],
+            "answer_index": 1,
+            "explain": "Mita's parents were too busy with their work."
+          },
+          {
+            "q": "From which airport are they flying?",
+            "options": [
+              "Shah Amanat",
+              "Osmani",
+              "Hazrat Shahjalal International Airport",
+              "Cox's Bazar"
+            ],
+            "answer_index": 2,
+            "explain": "They are at Hazrat Shahjalal International Airport."
+          },
+          {
+            "q": "Which airline are they flying by?",
+            "options": [
+              "Thai Airways",
+              "Bangladesh Biman",
+              "Emirates",
+              "US-Bangla"
+            ],
+            "answer_index": 1,
+            "explain": "They are flying by Bangladesh Biman."
+          },
+          {
+            "q": "Why is Mita so excited?",
+            "options": [
+              "it is her birthday",
+              "it is her first time on a plane",
+              "she won a prize",
+              "she is meeting a friend"
+            ],
+            "answer_index": 1,
+            "explain": "It is the first time Mita is travelling on a plane."
+          },
+          {
+            "q": "What does the immigration officer do?",
+            "options": [
+              "sells tickets",
+              "checks the passport and stamps it",
+              "carries the luggage",
+              "serves food"
+            ],
+            "answer_index": 1,
+            "explain": "The officer checks your passport and stamps it."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Why is Mita excited?",
+            "model": "Mita is excited because it is the first time she is travelling on a plane. She is hoping to have a great time in Thailand."
+          },
+          {
+            "q": "Why aren't Mita's parents going with her?",
+            "model": "Mita's parents are not going because they are too busy with their work. So Mita is travelling with Zara and Zara's parents instead."
+          },
+          {
+            "q": "What does an immigration officer do at the airport?",
+            "model": "An immigration officer checks a traveller's passport and form, and then stamps the passport. After that, the traveller is ready to travel."
+          },
+          {
+            "q": "Who is Zara, and where does she live?",
+            "model": "Zara is Mita's cousin. She lives with her parents in London and has come to Bangladesh to visit her aunt and uncle."
+          },
+          {
+            "q": "Why have the two families enjoyed their time together?",
+            "model": "The two families have enjoyed their time because they have visited many interesting places together in Bangladesh, which was great fun, and now they are travelling abroad together."
+          },
+          {
+            "q": "What are the cousins doing while waiting in the lounge?",
+            "model": "While waiting in the lounge, the two cousins start planning what they will do once they reach Bangkok."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Zara lives in Dhaka with her parents.",
+            "is_true": false,
+            "correction": "Zara lives in London with her parents."
+          },
+          {
+            "statement": "They decided to visit Thailand.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Mita's parents are travelling with her.",
+            "is_true": false,
+            "correction": "Mita's parents are too busy with work, so Mita travels with Zara's parents."
+          },
+          {
+            "statement": "It is Mita's first time travelling on a plane.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "They are flying by Thai Airways.",
+            "is_true": false,
+            "correction": "They are flying by Bangladesh Biman."
+          },
+          {
+            "statement": "The immigration officer checks and stamps the passport.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "Zara lives in London and has come to Bangladesh to visit her (1)____ and uncle. They decide to visit (2)____. They are waiting in the (3)____ at Hazrat Shahjalal International Airport. Mita is very (4)____ because it is her first plane journey. The immigration officer will check and (5)____ their passports.",
+          "blanks": [
+            "aunt",
+            "Thailand",
+            "lounge",
+            "excited",
+            "stamp"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Question",
+            "Answer"
+          ],
+          "rows": [
+            [
+              "Where Zara lives",
+              "London"
+            ],
+            [
+              "Country they will visit",
+              "Thailand"
+            ],
+            [
+              "Airport",
+              "Hazrat Shahjalal International"
+            ],
+            [
+              "Airline",
+              "Bangladesh Biman"
+            ],
+            [
+              "Why Mita is excited",
+              "first time on a plane"
+            ]
+          ],
+          "blanks": [
+            "London",
+            "Thailand",
+            "Hazrat Shahjalal International",
+            "Bangladesh Biman",
+            "first time on a plane"
+          ]
+        },
+        "match": {
+          "left": [
+            "Zara lives in",
+            "They are going to",
+            "They are waiting in the",
+            "They are flying by",
+            "The officer stamps the"
+          ],
+          "right": [
+            "Bangladesh Biman.",
+            "passport.",
+            "London.",
+            "Thailand.",
+            "lounge."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "Zara, who lives in London, has come to Bangladesh to visit her aunt and uncle and is very close to her cousin Mita. The families decide to visit Thailand, and since Mita's parents are too busy, Mita travels with Zara's family. Waiting in the lounge at Hazrat Shahjalal International Airport to fly by Bangladesh Biman, Mita is thrilled about her first plane journey. The cousins plan their trip while Mita's uncle brings immigration forms to fill in before an officer checks and stamps their passports.",
+          "skeleton": "Zara from ____ visits Bangladesh, and the families plan a trip to ____. Mita travels with Zara's family and waits in the ____ for a ____ flight. The officer will check and ____ their passports."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short composition about your experience of travelling to another place (about 150 words).",
+          "model": "Last winter I travelled to my grandparents' house in the village, and it was an experience I will never forget. The night before, I packed my bag with clothes and a few gifts, too excited to sleep properly. Early in the morning, my family and I went to the bus station, which was crowded and noisy with travellers and vendors. We boarded our bus and found our seats, and soon we were on our way. As the bus left the city, the view from the window changed into wide green fields, rivers and small villages. I enjoyed the cool breeze and the passing scenery, though the long road made me a little tired. After several hours, we finally reached our destination, where my grandparents were waiting to welcome us with warm smiles. The journey taught me that travelling is not only about reaching a place, but also about enjoying everything we see along the way."
+        }
+      },
+      {
+        "id": "u6l2",
+        "unit": 6,
+        "unit_title": "Going on a Trip",
+        "number": 2,
+        "title": "Filling in a Form",
+        "keywords": [
+          "expire",
+          "renew",
+          "visa",
+          "valid"
+        ],
+        "learn_line": "How to read travel details and fill in a departure card correctly using Mita's information.",
+        "minutes": 10,
+        "warmup": [
+          "Have you ever filled in an official form? What details did it ask for?",
+          "What is a passport, and what is a visa?",
+          "What does it mean if a passport 'expires'?",
+          "Why must travel documents be 'valid'?"
+        ],
+        "reading": {
+          "summary_en": "This lesson teaches how to fill in a departure card using Mita's travel information. Mita's full name is Mita Sultana Ahmed, and she was born on 6 May 1998. She got her passport on 9 June 2010; it is a five-year passport that will expire on 8 June 2015, after which she must renew it. Her passport number is AB 9842251. She is going to Thailand by Bangladesh Biman on flight number BG 88 on 14 July 2012. She got her visa from the Royal Thai Embassy in Dhaka; her visa number is T 9115138, and it was issued in Dhaka on 29 June 2012. The visa is valid for three months and will expire on 27 September 2012. It is a tourist visa, which means she is not allowed to study or work there. Reading such details carefully helps a traveller complete forms accurately.",
+          "gist_bn": "এই পাঠে মিতার তথ্য দিয়ে ডিপারচার কার্ড পূরণ করা শেখানো হয়। মিতার পুরো নাম মিতা সুলতানা আহমেদ, জন্ম ৬ মে ১৯৯৮। সে ৯ জুন ২০১০-এ পাসপোর্ট পায়; এটি পাঁচ বছরের, মেয়াদ শেষ হবে ৮ জুন ২০১৫, এরপর নবায়ন (renew) করতে হবে। পাসপোর্ট নম্বর AB 9842251। সে ১৪ জুলাই ২০১২-এ বিমান বাংলাদেশের BG 88 ফ্লাইটে থাইল্যান্ড যাচ্ছে। ভিসা পেয়েছে ঢাকার রয়্যাল থাই দূতাবাস থেকে; ভিসা নম্বর T 9115138, ইস্যু ২৯ জুন ২০১২, তিন মাস বৈধ, মেয়াদ শেষ ২৭ সেপ্টেম্বর ২০১২। এটি ট্যুরিস্ট ভিসা—পড়াশোনা বা কাজ করা যাবে না।",
+          "book_page": 64
+        },
+        "vocab": [
+          {
+            "word": "expire",
+            "pos": "verb",
+            "bangla": "মেয়াদ শেষ হওয়া",
+            "synonym": "run out, lapse",
+            "antonym": "begin",
+            "meaning_en": "to come to the end of a valid period",
+            "example": "Her passport will expire in 2015."
+          },
+          {
+            "word": "renew",
+            "pos": "verb",
+            "bangla": "নবায়ন করা",
+            "synonym": "extend, update",
+            "antonym": "cancel",
+            "meaning_en": "to make valid again for a new period",
+            "example": "After that she has to renew her passport."
+          },
+          {
+            "word": "visa",
+            "pos": "noun",
+            "bangla": "ভিসা",
+            "synonym": "entry permit",
+            "antonym": "—",
+            "meaning_en": "an official permission to enter a country",
+            "example": "She got her visa from the Royal Thai Embassy."
+          },
+          {
+            "word": "valid",
+            "pos": "adj",
+            "bangla": "বৈধ / মেয়াদসম্পন্ন",
+            "synonym": "legal, in force",
+            "antonym": "invalid, expired",
+            "meaning_en": "officially acceptable and not expired",
+            "example": "The visa is valid for three months."
+          },
+          {
+            "word": "departure card",
+            "pos": "noun",
+            "bangla": "প্রস্থান কার্ড",
+            "synonym": "exit card",
+            "antonym": "arrival card",
+            "meaning_en": "a form filled in when leaving a country",
+            "example": "Fill in the departure card before immigration."
+          },
+          {
+            "word": "issue",
+            "pos": "verb",
+            "bangla": "ইস্যু করা / প্রদান করা",
+            "synonym": "grant, give out",
+            "antonym": "withdraw",
+            "meaning_en": "to officially give out a document",
+            "example": "The visa was issued in Dhaka."
+          },
+          {
+            "word": "embassy",
+            "pos": "noun",
+            "bangla": "দূতাবাস",
+            "synonym": "mission",
+            "antonym": "—",
+            "meaning_en": "the official office of one country in another",
+            "example": "She got her visa from the Royal Thai Embassy."
+          },
+          {
+            "word": "nationality",
+            "pos": "noun",
+            "bangla": "জাতীয়তা",
+            "synonym": "citizenship",
+            "antonym": "—",
+            "meaning_en": "the country a person belongs to",
+            "example": "Write your nationality on the form."
+          },
+          {
+            "word": "tourist",
+            "pos": "noun/adj",
+            "bangla": "পর্যটক / পর্যটন-সংক্রান্ত",
+            "synonym": "traveller",
+            "antonym": "resident",
+            "meaning_en": "a person who travels for pleasure",
+            "example": "It is a tourist visa."
+          },
+          {
+            "word": "purpose",
+            "pos": "noun",
+            "bangla": "উদ্দেশ্য",
+            "synonym": "aim, reason",
+            "antonym": "—",
+            "meaning_en": "the reason for doing something",
+            "example": "State the purpose of your visit."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "What is Mita's full name?",
+            "options": [
+              "Mita Ahmed Sultana",
+              "Mita Sultana Ahmed",
+              "Sultana Mita Ahmed",
+              "Ahmed Mita Sultana"
+            ],
+            "answer_index": 1,
+            "explain": "Her full name is Mita Sultana Ahmed."
+          },
+          {
+            "q": "When was Mita born?",
+            "options": [
+              "6 May 1998",
+              "9 June 2010",
+              "14 July 2012",
+              "8 June 2015"
+            ],
+            "answer_index": 0,
+            "explain": "She was born on 6 May 1998."
+          },
+          {
+            "q": "When will Mita's passport expire?",
+            "options": [
+              "29 June 2012",
+              "8 June 2015",
+              "27 September 2012",
+              "6 May 1998"
+            ],
+            "answer_index": 1,
+            "explain": "The five-year passport will expire on 8 June 2015."
+          },
+          {
+            "q": "What must Mita do after her passport expires?",
+            "options": [
+              "throw it away",
+              "renew it",
+              "sell it",
+              "ignore it"
+            ],
+            "answer_index": 1,
+            "explain": "After it expires she has to renew her passport."
+          },
+          {
+            "q": "Which flight is Mita travelling on?",
+            "options": [
+              "BG 22",
+              "BG 88",
+              "BG 100",
+              "TG 88"
+            ],
+            "answer_index": 1,
+            "explain": "She is on flight number BG 88."
+          },
+          {
+            "q": "Where did Mita get her visa?",
+            "options": [
+              "the Thai airport",
+              "the Royal Thai Embassy in Dhaka",
+              "the immigration counter",
+              "a travel agency"
+            ],
+            "answer_index": 1,
+            "explain": "She got it from the Royal Thai Embassy in Dhaka."
+          },
+          {
+            "q": "How long is Mita's visa valid?",
+            "options": [
+              "one month",
+              "three months",
+              "six months",
+              "one year"
+            ],
+            "answer_index": 1,
+            "explain": "The visa is valid for three months."
+          },
+          {
+            "q": "On a tourist visa, Mita is NOT allowed to —",
+            "options": [
+              "travel",
+              "study or work",
+              "stay in a hotel",
+              "take photos"
+            ],
+            "answer_index": 1,
+            "explain": "On a tourist visa you cannot study or work."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What is the difference between a passport and a visa?",
+            "model": "A passport is an official document that identifies a traveller and lets them travel abroad, while a visa is the official permission, stamped or attached, that allows them to enter a particular country."
+          },
+          {
+            "q": "When does Mita's passport expire, and what must she do then?",
+            "model": "Mita's five-year passport expires on 8 June 2015. After it expires, she has to renew it before she can travel again."
+          },
+          {
+            "q": "Where and when did Mita get her visa?",
+            "model": "Mita got her visa from the Royal Thai Embassy in Dhaka. It was issued in Dhaka on 29 June 2012."
+          },
+          {
+            "q": "How long is Mita's visa valid, and when will it expire?",
+            "model": "Mita's visa is valid for three months. It will expire on 27 September 2012."
+          },
+          {
+            "q": "What kind of visa does Mita have, and what does it mean?",
+            "model": "Mita has a tourist visa. This means she is allowed to travel and sightsee, but she is not allowed to study or work in Thailand."
+          },
+          {
+            "q": "Why is it important to fill in a form carefully?",
+            "model": "It is important because the immigration officer checks the details against your passport and visa. Wrong or missing information could cause delay or trouble during travel."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Mita was born on 6 May 1998.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Mita's passport is a ten-year passport.",
+            "is_true": false,
+            "correction": "It is a five-year passport, expiring on 8 June 2015."
+          },
+          {
+            "statement": "Mita is travelling on flight BG 88.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Mita got her visa from the Thai airport.",
+            "is_true": false,
+            "correction": "She got her visa from the Royal Thai Embassy in Dhaka."
+          },
+          {
+            "statement": "Mita's visa is valid for three months.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "On a tourist visa, Mita can work in Thailand.",
+            "is_true": false,
+            "correction": "On a tourist visa she is not allowed to study or work there."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "Mita's passport will (1)____ on 8 June 2015, after which she must (2)____ it. She got her (3)____ from the Royal Thai Embassy in Dhaka. The visa is (4)____ for three months. It is a (5)____ visa, so she cannot study or work in Thailand.",
+          "blanks": [
+            "expire",
+            "renew",
+            "visa",
+            "valid",
+            "tourist"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Departure card field",
+            "Mita's information"
+          ],
+          "rows": [
+            [
+              "Name",
+              "Mita Sultana Ahmed"
+            ],
+            [
+              "Date of birth",
+              "6 May 1998"
+            ],
+            [
+              "Passport number",
+              "AB 9842251"
+            ],
+            [
+              "Flight number",
+              "BG 88"
+            ],
+            [
+              "Date of departure",
+              "14 July 2012"
+            ],
+            [
+              "Visa number",
+              "T 9115138"
+            ],
+            [
+              "Date of expiry (visa)",
+              "27 September 2012"
+            ],
+            [
+              "Type of visa",
+              "tourist"
+            ]
+          ],
+          "blanks": [
+            "Mita Sultana Ahmed",
+            "6 May 1998",
+            "AB 9842251",
+            "BG 88",
+            "14 July 2012",
+            "T 9115138",
+            "27 September 2012",
+            "tourist"
+          ]
+        },
+        "match": {
+          "left": [
+            "A passport can",
+            "To make it valid again you",
+            "A visa is permission to",
+            "'Valid for three months' means",
+            "A tourist visa does not allow"
+          ],
+          "right": [
+            "enter a country.",
+            "study or work.",
+            "expire.",
+            "renew it.",
+            "it lasts three months."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "This lesson shows how to fill in a departure card using Mita's details. Mita Sultana Ahmed, born on 6 May 1998, holds a five-year passport (AB 9842251) that expires on 8 June 2015 and must then be renewed. She flies to Thailand on Bangladesh Biman flight BG 88 on 14 July 2012. Her tourist visa (T 9115138), issued by the Royal Thai Embassy in Dhaka on 29 June 2012, is valid for three months until 27 September 2012, and does not permit her to study or work.",
+          "skeleton": "Mita's passport will ____ in 2015 and must be ____. Her ____, issued by the Royal Thai Embassy, is ____ for three months. It is a ____ visa, so she cannot work or study."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'The Importance of a Passport and Visa' (about 80 words).",
+          "model": "A passport and a visa are essential documents for anyone travelling abroad. A passport is an official identity document, issued by one's own country, that proves who a traveller is and allows them to travel internationally. A visa, on the other hand, is the permission given by the country one wishes to visit. Both must be valid and not expired; once a passport expires, it has to be renewed. Different visas, such as tourist, student or work visas, allow different activities. Carrying valid travel documents lets us cross borders safely and legally."
+        }
+      },
+      {
+        "id": "u6l3",
+        "unit": 6,
+        "unit_title": "Going on a Trip",
+        "number": 3,
+        "title": "Going Through Immigration",
+        "keywords": [
+          "departure",
+          "booth",
+          "counter",
+          "scan",
+          "machine readable"
+        ],
+        "learn_line": "What happens at an immigration counter, through Mita's conversation with the officer.",
+        "minutes": 10,
+        "warmup": [
+          "Why does a person need a passport to travel abroad?",
+          "What do the small booths at immigration counters do?",
+          "Why do travellers stand in lines at immigration?",
+          "What questions might an immigration officer ask you?"
+        ],
+        "reading": {
+          "summary_en": "In this dialogue, Zara's parents, Mrs Jhuma Islam and Mr Mazharul Islam, Zara and Mita fill in their departure cards and move towards the immigration counter. Mita stands in front of one of the booths and hands her passport and departure card to the officer. The officer goes through her passport, visa and departure card and asks if she is travelling alone; Mita replies that she is going with her aunt, uncle and cousin, who are at the next counter. The officer also asks if it is her first visit to Thailand (yes), how long she will stay (seven to ten days) and where she will stay (in a hotel). Finding her papers in order, the officer smiles, stamps her passport, keeps the departure card and returns the passport, wishing her a safe journey. Mita waits on the other side until the whole family is done, and they all walk towards the passengers' departure lounge.",
+          "gist_bn": "এই কথোপকথনে জারার বাবা-মা (মিসেস ঝুমা ইসলাম ও মি. মাজহারুল ইসলাম), জারা ও মিতা ডিপারচার কার্ড পূরণ করে ইমিগ্রেশন কাউন্টারের দিকে যায়। মিতা একটি বুথের সামনে দাঁড়িয়ে পাসপোর্ট ও কার্ড অফিসারকে দেয়। অফিসার পাসপোর্ট, ভিসা ও কার্ড দেখে জিজ্ঞেস করেন—একা যাচ্ছ? (না, খালা-মামা-কাজিনসহ), এটাই কি প্রথম থাইল্যান্ড সফর? (হ্যাঁ), কতদিন থাকবে? (৭-১০ দিন), কোথায় থাকবে? (হোটেলে)। কাগজপত্র ঠিক থাকায় অফিসার হেসে পাসপোর্টে সিল মেরে ফেরত দেন এবং নিরাপদ যাত্রা কামনা করেন।",
+          "book_page": 66
+        },
+        "vocab": [
+          {
+            "word": "departure",
+            "pos": "noun",
+            "bangla": "প্রস্থান / রওনা",
+            "synonym": "leaving, exit",
+            "antonym": "arrival",
+            "meaning_en": "the act of leaving a place",
+            "example": "Fill the departure card before leaving."
+          },
+          {
+            "word": "booth",
+            "pos": "noun",
+            "bangla": "বুথ / ছোট কক্ষ",
+            "synonym": "kiosk, cabin",
+            "antonym": "—",
+            "meaning_en": "a small enclosed place for one purpose",
+            "example": "The officer sits inside a booth."
+          },
+          {
+            "word": "counter",
+            "pos": "noun",
+            "bangla": "কাউন্টার",
+            "synonym": "desk",
+            "antonym": "—",
+            "meaning_en": "a long table where service is given",
+            "example": "They moved towards the immigration counter."
+          },
+          {
+            "word": "scan",
+            "pos": "verb",
+            "bangla": "স্ক্যান করা",
+            "synonym": "examine, read",
+            "antonym": "—",
+            "meaning_en": "to pass over with a machine to read information",
+            "example": "The machine scans the passport."
+          },
+          {
+            "word": "machine readable",
+            "pos": "adj",
+            "bangla": "মেশিনে পাঠযোগ্য",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "able to be read by a machine",
+            "example": "Modern passports are machine readable."
+          },
+          {
+            "word": "go through",
+            "pos": "phrase",
+            "bangla": "পরীক্ষা করা / খুঁটিয়ে দেখা",
+            "synonym": "examine, check",
+            "antonym": "skip",
+            "meaning_en": "to examine something carefully",
+            "example": "The officer goes through her passport."
+          },
+          {
+            "word": "smile",
+            "pos": "verb",
+            "bangla": "হাসা",
+            "synonym": "grin",
+            "antonym": "frown",
+            "meaning_en": "to make a happy face",
+            "example": "The officer smiled and stamped the passport."
+          },
+          {
+            "word": "journey",
+            "pos": "noun",
+            "bangla": "যাত্রা",
+            "synonym": "trip, voyage",
+            "antonym": "—",
+            "meaning_en": "an act of travelling from one place to another",
+            "example": "Have a safe journey."
+          },
+          {
+            "word": "return",
+            "pos": "verb",
+            "bangla": "ফেরত দেওয়া",
+            "synonym": "give back",
+            "antonym": "keep, take",
+            "meaning_en": "to give something back",
+            "example": "The officer returns the passport."
+          },
+          {
+            "word": "alone",
+            "pos": "adj/adv",
+            "bangla": "একা",
+            "synonym": "by oneself",
+            "antonym": "together",
+            "meaning_en": "without anyone else",
+            "example": "Are you travelling alone?"
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "What do Mita and the family do before going to the counter?",
+            "options": [
+              "buy tickets",
+              "fill in their departure cards",
+              "eat lunch",
+              "call home"
+            ],
+            "answer_index": 1,
+            "explain": "They fill in their departure cards."
+          },
+          {
+            "q": "What does Mita hand to the officer?",
+            "options": [
+              "her ticket only",
+              "her passport and departure card",
+              "her boarding pass",
+              "her luggage"
+            ],
+            "answer_index": 1,
+            "explain": "She hands her passport and the departure card."
+          },
+          {
+            "q": "Is Mita travelling alone?",
+            "options": [
+              "yes",
+              "no, with her aunt, uncle and cousin",
+              "no, with friends",
+              "no, with a tour group"
+            ],
+            "answer_index": 1,
+            "explain": "She is going with her aunt, uncle and cousin."
+          },
+          {
+            "q": "Is it Mita's first visit to Thailand?",
+            "options": [
+              "no",
+              "yes",
+              "second visit",
+              "not mentioned"
+            ],
+            "answer_index": 1,
+            "explain": "Mita says it is her first visit."
+          },
+          {
+            "q": "How long is Mita going to stay?",
+            "options": [
+              "one day",
+              "seven to ten days",
+              "a month",
+              "a year"
+            ],
+            "answer_index": 1,
+            "explain": "She will stay seven to ten days."
+          },
+          {
+            "q": "Where is Mita going to stay?",
+            "options": [
+              "in a hostel",
+              "in a hotel",
+              "with relatives",
+              "at the airport"
+            ],
+            "answer_index": 1,
+            "explain": "She is going to stay in a hotel."
+          },
+          {
+            "q": "What does the officer do after checking the papers?",
+            "options": [
+              "sends her back",
+              "smiles, stamps the passport and returns it",
+              "keeps the passport",
+              "calls the police"
+            ],
+            "answer_index": 1,
+            "explain": "He smiles, stamps the passport and returns it."
+          },
+          {
+            "q": "What three things are needed at immigration?",
+            "options": [
+              "ticket, money, luggage",
+              "passport, visa and departure card",
+              "phone, card, hat",
+              "photo, pen, bag"
+            ],
+            "answer_index": 1,
+            "explain": "Passport, visa and departure card are needed."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What do the travellers do before reaching the immigration counter?",
+            "model": "Before reaching the counter, Zara's parents, Zara and Mita all fill in their departure cards. Then they move towards the immigration counter."
+          },
+          {
+            "q": "What does the immigration officer ask Mita?",
+            "model": "The officer asks whether she is travelling alone, whether it is her first visit to Thailand, how long she will stay, and where she is going to stay."
+          },
+          {
+            "q": "How does Mita answer the officer's questions?",
+            "model": "Mita says she is travelling with her aunt, uncle and cousin, that it is her first visit, that she will stay seven to ten days, and that she will stay in a hotel."
+          },
+          {
+            "q": "What does the officer do once the papers are found to be OK?",
+            "model": "Finding the papers in order, the officer smiles, stamps Mita's passport, keeps the departure card and returns the passport, wishing her a safe journey."
+          },
+          {
+            "q": "What three things are needed at immigration?",
+            "model": "Three things are needed at immigration: a valid passport, a visa, and a filled-in departure card."
+          },
+          {
+            "q": "What happens after everyone is done at immigration?",
+            "model": "After all of them are done, Mita waits on the other side of immigration, and then the whole family walks together towards the passengers' departure lounge."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Mita hands her passport and departure card to the officer.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Mita is travelling completely alone.",
+            "is_true": false,
+            "correction": "She is travelling with her aunt, uncle and cousin."
+          },
+          {
+            "statement": "It is Mita's first visit to Thailand.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Mita is going to stay for a whole month.",
+            "is_true": false,
+            "correction": "She is going to stay seven to ten days."
+          },
+          {
+            "statement": "The officer keeps Mita's passport and does not return it.",
+            "is_true": false,
+            "correction": "The officer keeps the departure card but returns the passport."
+          },
+          {
+            "statement": "A passport, a visa and a departure card are needed at immigration.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "At the immigration (1)____, Mita hands her passport and (2)____ card to the officer. The officer asks if she is travelling (3)____. Mita says she is with her aunt, uncle and cousin. After checking, the officer (4)____ her passport and returns it, wishing her a safe (5)____.",
+          "blanks": [
+            "counter",
+            "departure",
+            "alone",
+            "stamps",
+            "journey"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Officer asks",
+            "Mita answers"
+          ],
+          "rows": [
+            [
+              "Are you travelling alone?",
+              "No, with my aunt, uncle and cousin"
+            ],
+            [
+              "Is this your first visit to Thailand?",
+              "Yes"
+            ],
+            [
+              "How long will you stay?",
+              "Seven to ten days"
+            ],
+            [
+              "Where will you stay?",
+              "In a hotel"
+            ],
+            [
+              "(Result)",
+              "Passport stamped and returned"
+            ]
+          ],
+          "blanks": [
+            "No, with my aunt, uncle and cousin",
+            "Yes",
+            "Seven to ten days",
+            "In a hotel",
+            "Passport stamped and returned"
+          ]
+        },
+        "match": {
+          "left": [
+            "Mita stands at a",
+            "She hands over her",
+            "The officer asks if she travels",
+            "She will stay for",
+            "Three things needed are"
+          ],
+          "right": [
+            "passport, visa, departure card.",
+            "alone.",
+            "seven to ten days.",
+            "booth.",
+            "passport and card."
+          ],
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              4,
+              0
+            ]
+          ]
+        },
+        "summary": {
+          "model": "At the immigration counter, Mita and Zara's family hand in their departure cards. Mita stands at a booth and gives her passport and card to the officer, who checks them and asks if she is travelling alone (she is with her aunt, uncle and cousin), whether it is her first visit (yes), how long she will stay (seven to ten days) and where (a hotel). Satisfied, the officer stamps her passport, keeps the card and returns the passport with good wishes, and the family then heads to the departure lounge.",
+          "skeleton": "At the ____, Mita gives her passport and departure card. The officer asks if she travels ____ and how long she will stay. Finding the papers OK, he ____ her passport and wishes her a safe ____. They go to the departure lounge."
+        },
+        "writing": {
+          "type": "dialogue",
+          "prompt": "Make a dialogue between an immigration officer and a traveller going abroad for the first time.",
+          "model": "Officer: Good morning. May I see your passport and departure card, please?\nTraveller: Good morning, officer. Here they are.\nOfficer: Thank you. Are you travelling alone?\nTraveller: Yes, I am travelling alone this time.\nOfficer: Is this your first visit to Malaysia?\nTraveller: Yes, it is my very first trip abroad.\nOfficer: I see. What is the purpose of your visit?\nTraveller: I am going there as a tourist to visit a few famous places.\nOfficer: How long do you plan to stay?\nTraveller: About one week, sir.\nOfficer: And where will you be staying?\nTraveller: In a hotel near the city centre.\nOfficer: Everything looks fine. I am stamping your passport now. Have a safe journey.\nTraveller: Thank you very much, officer."
+        }
+      },
+      {
+        "id": "u6l4",
+        "unit": 6,
+        "unit_title": "Going on a Trip",
+        "number": 4,
+        "title": "Boarding the Plane",
+        "keywords": [
+          "seize",
+          "enclosed",
+          "formality",
+          "gel"
+        ],
+        "learn_line": "Airport security rules about hand luggage and liquids, as the family boards the plane.",
+        "minutes": 10,
+        "warmup": [
+          "What things are you not allowed to carry in your hand luggage on a plane?",
+          "Why do you think liquids are limited on planes?",
+          "What happens during a security check at the airport?",
+          "Where would you like to sit on a plane: window, aisle or middle?"
+        ],
+        "reading": {
+          "summary_en": "Mita, Zara, Mr and Mrs Islam sit at the lounge with their hand luggage. Mr Islam asks Mita and Zara whether they are carrying any liquid, lotion, gel or cream in their carry-on luggage. Mita has a small lip gel, and her uncle explains that a very small one is no problem, but anything more than 100 ml must be put in the checked-in luggage, because such items are not allowed in hand luggage. For security reasons, the officials who do the baggage checking will seize and throw such items away. The family goes through the security checking and waits in the enclosed area until all the formalities are done. When their row number is announced, they board the plane: Mita gets a window seat, number F23C, Zara sits beside her on an aisle seat, and her parents sit behind them.",
+          "gist_bn": "মিতা, জারা, মি. ও মিসেস ইসলাম হাতব্যাগসহ লাউঞ্জে বসেন। মি. ইসলাম জিজ্ঞেস করেন তারা কোনো তরল, লোশন, জেল বা ক্রিম নিয়ে যাচ্ছে কিনা। মিতার কাছে ছোট লিপ-জেল আছে। মামা বোঝান—খুব ছোট হলে সমস্যা নেই, কিন্তু ১০০ মিলির বেশি হলে চেক-ইন লাগেজে দিতে হয়; নিরাপত্তার কারণে এগুলো হাতব্যাগে নেওয়া যায় না, কর্মকর্তারা জব্দ করে ফেলে দেন। নিরাপত্তা পরীক্ষা শেষে তারা ঘেরা এলাকায় অপেক্ষা করেন। রো নম্বর ঘোষণার পর প্লেনে ওঠেন—মিতা জানালার পাশে (সিট F23C), জারা আইল-সিটে, বাবা-মা পেছনে।",
+          "book_page": 67
+        },
+        "vocab": [
+          {
+            "word": "seize",
+            "pos": "verb",
+            "bangla": "জব্দ করা / কেড়ে নেওয়া",
+            "synonym": "confiscate, grab",
+            "antonym": "release, return",
+            "meaning_en": "to take something away by force or authority",
+            "example": "Officials will seize banned items."
+          },
+          {
+            "word": "enclosed",
+            "pos": "adj",
+            "bangla": "ঘেরা / আবদ্ধ",
+            "synonym": "closed-in",
+            "antonym": "open",
+            "meaning_en": "surrounded on all sides",
+            "example": "They wait in the enclosed area."
+          },
+          {
+            "word": "formality",
+            "pos": "noun",
+            "bangla": "আনুষ্ঠানিকতা",
+            "synonym": "procedure",
+            "antonym": "—",
+            "meaning_en": "an official step that must be followed",
+            "example": "All the formalities are done."
+          },
+          {
+            "word": "gel",
+            "pos": "noun",
+            "bangla": "জেল",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "a thick, jelly-like substance",
+            "example": "She has a small lip gel."
+          },
+          {
+            "word": "hand luggage",
+            "pos": "noun",
+            "bangla": "হাতব্যাগ / ক্যারি-অন",
+            "synonym": "carry-on",
+            "antonym": "checked-in luggage",
+            "meaning_en": "bags carried onto the plane by hand",
+            "example": "Liquids over 100 ml are banned in hand luggage."
+          },
+          {
+            "word": "checked-in luggage",
+            "pos": "noun",
+            "bangla": "চেক-ইন লাগেজ",
+            "synonym": "hold luggage",
+            "antonym": "hand luggage",
+            "meaning_en": "bags handed in to be stored in the hold",
+            "example": "Big bottles go in the checked-in luggage."
+          },
+          {
+            "word": "security",
+            "pos": "noun",
+            "bangla": "নিরাপত্তা",
+            "synonym": "safety",
+            "antonym": "danger",
+            "meaning_en": "measures to keep people safe",
+            "example": "Bags are checked for security reasons."
+          },
+          {
+            "word": "lotion",
+            "pos": "noun",
+            "bangla": "লোশন",
+            "synonym": "cream",
+            "antonym": "—",
+            "meaning_en": "a thick liquid for the skin",
+            "example": "Lotion counts as a liquid."
+          },
+          {
+            "word": "announce",
+            "pos": "verb",
+            "bangla": "ঘোষণা করা",
+            "synonym": "declare, state",
+            "antonym": "conceal",
+            "meaning_en": "to tell people something officially",
+            "example": "Their row number was announced."
+          },
+          {
+            "word": "aisle",
+            "pos": "noun",
+            "bangla": "আইল / মাঝপথ",
+            "synonym": "passage",
+            "antonym": "—",
+            "meaning_en": "the passage between rows of seats",
+            "example": "Zara sat on an aisle seat."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Who has a small lip gel in the hand luggage?",
+            "options": [
+              "Zara",
+              "Mita",
+              "Mr Islam",
+              "Mrs Islam"
+            ],
+            "answer_index": 1,
+            "explain": "Mita has a small lip gel."
+          },
+          {
+            "q": "How much liquid or gel is allowed in hand luggage?",
+            "options": [
+              "up to 100 ml",
+              "up to 1 litre",
+              "none at all",
+              "up to 500 ml"
+            ],
+            "answer_index": 0,
+            "explain": "Items up to 100 ml are allowed; more must be checked in."
+          },
+          {
+            "q": "Where must liquids over 100 ml be put?",
+            "options": [
+              "in the pocket",
+              "in the checked-in luggage",
+              "in the lounge",
+              "nowhere"
+            ],
+            "answer_index": 1,
+            "explain": "They must go in the checked-in luggage."
+          },
+          {
+            "q": "Why are liquid, gel and cream not allowed on board?",
+            "options": [
+              "they are heavy",
+              "for security reasons",
+              "they are expensive",
+              "they smell bad"
+            ],
+            "answer_index": 1,
+            "explain": "They are not allowed for security reasons."
+          },
+          {
+            "q": "What will the officials do with banned items?",
+            "options": [
+              "return them later",
+              "seize and throw them away",
+              "sell them",
+              "ignore them"
+            ],
+            "answer_index": 1,
+            "explain": "They will seize and throw them away."
+          },
+          {
+            "q": "Where do they wait after the security check?",
+            "options": [
+              "in the open garden",
+              "in the enclosed area",
+              "on the plane",
+              "at the counter"
+            ],
+            "answer_index": 1,
+            "explain": "They wait in the enclosed area."
+          },
+          {
+            "q": "When do they board the plane?",
+            "options": [
+              "whenever they like",
+              "after their row number is announced",
+              "before security",
+              "at midnight"
+            ],
+            "answer_index": 1,
+            "explain": "They board after their row number is announced."
+          },
+          {
+            "q": "Which row is Mita sitting in?",
+            "options": [
+              "F23 C",
+              "A1",
+              "B12",
+              "F32 C"
+            ],
+            "answer_index": 0,
+            "explain": "Mita's seat number is F23 C, a window seat."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Who has a small lip gel in the hand luggage, and is it allowed?",
+            "model": "Mita has a small lip gel in her hand luggage. Because it is very small (under 100 ml), it is allowed and there is no problem."
+          },
+          {
+            "q": "How much liquid or gel is allowed to carry in hand luggage?",
+            "model": "Only liquids, gels and creams of 100 ml or less are allowed in hand luggage. Anything more than 100 ml must be put in the checked-in luggage."
+          },
+          {
+            "q": "Why are liquid, gel and cream not allowed on board a plane?",
+            "model": "For security reasons, larger amounts of liquid, gel and cream are not allowed in hand luggage. The officials who check the baggage will seize and throw such items away."
+          },
+          {
+            "q": "What did the family do after the security check?",
+            "model": "After the security check, Mita, Zara and her parents went through and waited in the enclosed area until all the formalities were done, ready to board the plane."
+          },
+          {
+            "q": "Which seats did Mita, Zara and her parents get?",
+            "model": "Mita got a window seat, number F23 C. Zara sat beside her on an aisle seat, and her parents sat behind them."
+          },
+          {
+            "q": "What did Mr Islam want to know, and why?",
+            "model": "Mr Islam wanted to know whether Mita and Zara were carrying any liquid, lotion, gel or cream, because such items over 100 ml are not allowed in hand luggage and would be seized at security."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Mita has a small lip gel in her hand luggage.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Any amount of liquid can be carried in hand luggage.",
+            "is_true": false,
+            "correction": "Only up to 100 ml is allowed; more must go in checked-in luggage."
+          },
+          {
+            "statement": "Liquids and gels are limited for security reasons.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Officials will return banned items after the flight.",
+            "is_true": false,
+            "correction": "Officials will seize and throw banned items away."
+          },
+          {
+            "statement": "They board the plane after their row number is announced.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Mita sits on an aisle seat.",
+            "is_true": false,
+            "correction": "Mita sits on a window seat (F23 C); Zara sits on the aisle seat."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "At the lounge, Mr Islam asks if the girls are carrying any liquid or (1)____. Anything over 100 ml is not allowed in (2)____ luggage and must go in the checked-in bag, or officials will (3)____ it. After the (4)____ checking, they wait in the enclosed area. Mita boards and gets a (5)____ seat.",
+          "blanks": [
+            "gel",
+            "hand",
+            "seize",
+            "security",
+            "window"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Question",
+            "Answer"
+          ],
+          "rows": [
+            [
+              "Who has a lip gel?",
+              "Mita"
+            ],
+            [
+              "Liquid allowed in hand luggage",
+              "up to 100 ml"
+            ],
+            [
+              "Where larger liquids go",
+              "checked-in luggage"
+            ],
+            [
+              "Why such rules exist",
+              "for security reasons"
+            ],
+            [
+              "Mita's seat",
+              "window seat F23 C"
+            ]
+          ],
+          "blanks": [
+            "Mita",
+            "up to 100 ml",
+            "checked-in luggage",
+            "for security reasons",
+            "window seat F23 C"
+          ]
+        },
+        "match": {
+          "left": [
+            "Mita has a small",
+            "Liquids over 100 ml go in",
+            "Banned items are",
+            "They wait in the",
+            "Mita gets a"
+          ],
+          "right": [
+            "seized and thrown away.",
+            "window seat.",
+            "lip gel.",
+            "enclosed area.",
+            "checked-in luggage."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "At the lounge, Mr Islam asks Mita and Zara whether they are carrying any liquid, lotion, gel or cream. Mita has a small lip gel, which is fine, but her uncle explains that anything over 100 ml is banned in hand luggage and must go in the checked-in bag, since officials will otherwise seize and throw it away for security reasons. After passing security, the family waits in the enclosed area until all formalities are done. When their row is called, they board: Mita takes a window seat (F23 C), Zara the aisle seat, and the parents sit behind.",
+          "skeleton": "Liquids, gels and creams over 100 ml are banned in ____ luggage and are ____ by officials for security. After the ____ check, they wait in the ____ area and board by row number. Mita gets a ____ seat."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'Airport Security Rules' (about 80 words).",
+          "model": "Airport security rules are made to keep all passengers safe during a flight. Before boarding, every traveller and their bags must pass through a security check. Passengers are not allowed to carry liquids, gels, lotions or creams of more than 100 millilitres in their hand luggage; larger amounts must be packed in the checked-in luggage. Sharp objects and dangerous items are strictly forbidden. If banned items are found, the security officials seize and throw them away. Following these rules carefully helps make air travel safe and smooth for everyone."
+        }
+      },
+      {
+        "id": "u6l5",
+        "unit": 6,
+        "unit_title": "Going on a Trip",
+        "number": 5,
+        "title": "Announcements on Board (1)",
+        "keywords": [
+          "lavatory",
+          "cruising",
+          "altitude",
+          "descend",
+          "schedule",
+          "destination"
+        ],
+        "learn_line": "The pre-take-off and the captain's announcements that passengers hear on a flight.",
+        "minutes": 10,
+        "warmup": [
+          "What kinds of announcements do you hear on a plane?",
+          "Why must passengers fasten their seat belts before take-off?",
+          "What does a pilot tell passengers during a flight?",
+          "Why are mobile phones turned off during a flight?"
+        ],
+        "reading": {
+          "summary_en": "This lesson presents the announcements heard on board Flight BG 88 to Bangkok. In the pre-take-off announcement, passengers are welcomed and told the plane is third in line for take-off and expected to be in the air in about seven minutes. They are asked to fasten their seat belts, secure their baggage under the seat or in the overhead compartments, keep their seats and table trays upright, and turn off all personal electronic devices including laptops and cellphones. It is a non-smoking flight, and smoking in the lavatory is prohibited. Later, the captain, Rashid Akbar, welcomes everyone and announces that the plane is cruising at an altitude of about 10,058 feet at an airspeed of about 643 km per hour, that the time is 1:25 pm, and that with a tailwind they expect to land in Bangkok about fifteen minutes ahead of schedule. The weather in Bangkok is clear and sunny at 32 degrees Celsius, the cabin crew will soon serve snacks and drinks, and an inflight movie will follow.",
+          "gist_bn": "এই পাঠে থাইল্যান্ডগামী BG 88 ফ্লাইটে শোনা ঘোষণাগুলো আছে। উড্ডয়নের আগে যাত্রীদের স্বাগত জানিয়ে বলা হয়—প্লেনটি টেক-অফের সারিতে তৃতীয়, প্রায় সাত মিনিটে আকাশে উঠবে; সিটবেল্ট বাঁধতে, ব্যাগ নিরাপদে রাখতে, সিট ও ট্রে সোজা রাখতে এবং ল্যাপটপ-মোবাইলসহ ইলেকট্রনিক ডিভাইস বন্ধ করতে বলা হয়; এটি ধূমপানমুক্ত ফ্লাইট, লাভাটরিতে ধূমপান নিষিদ্ধ। পরে ক্যাপ্টেন রশিদ আকবর জানান—প্রায় ১০,০৫৮ ফুট উচ্চতায়, ৬৪৩ কিমি/ঘণ্টা গতিতে উড়ছে; সময় ১:২৫; ব্যাংককে নির্ধারিত সময়ের ১৫ মিনিট আগে নামবে; আবহাওয়া পরিষ্কার-রৌদ্রোজ্জ্বল, ৩২° সে.।",
+          "book_page": 69
+        },
+        "vocab": [
+          {
+            "word": "lavatory",
+            "pos": "noun",
+            "bangla": "শৌচাগার / টয়লেট",
+            "synonym": "toilet, washroom",
+            "antonym": "—",
+            "meaning_en": "a toilet, especially on a plane",
+            "example": "Smoking in the lavatory is prohibited."
+          },
+          {
+            "word": "cruising",
+            "pos": "verb (-ing)",
+            "bangla": "স্থির গতিতে চলা",
+            "synonym": "sailing along",
+            "antonym": "—",
+            "meaning_en": "flying steadily at a constant height and speed",
+            "example": "The plane is cruising at high altitude."
+          },
+          {
+            "word": "altitude",
+            "pos": "noun",
+            "bangla": "উচ্চতা",
+            "synonym": "height",
+            "antonym": "depth",
+            "meaning_en": "the height above sea level",
+            "example": "We are cruising at an altitude of 10,058 feet."
+          },
+          {
+            "word": "descend",
+            "pos": "verb",
+            "bangla": "নিচে নামা",
+            "synonym": "go down, drop",
+            "antonym": "ascend, climb",
+            "meaning_en": "to move downward",
+            "example": "The plane will descend before landing."
+          },
+          {
+            "word": "schedule",
+            "pos": "noun",
+            "bangla": "সময়সূচি",
+            "synonym": "timetable",
+            "antonym": "—",
+            "meaning_en": "a plan of times for events",
+            "example": "We will land ahead of schedule."
+          },
+          {
+            "word": "destination",
+            "pos": "noun",
+            "bangla": "গন্তব্য",
+            "synonym": "goal, endpoint",
+            "antonym": "origin, start",
+            "meaning_en": "the place one is travelling to",
+            "example": "Bangkok is their destination."
+          },
+          {
+            "word": "fasten",
+            "pos": "verb",
+            "bangla": "বাঁধা / আটকানো",
+            "synonym": "secure, buckle",
+            "antonym": "unfasten, loosen",
+            "meaning_en": "to fix or tie firmly",
+            "example": "Please fasten your seat belt."
+          },
+          {
+            "word": "overhead compartment",
+            "pos": "noun",
+            "bangla": "মাথার ওপরের লকার",
+            "synonym": "overhead locker",
+            "antonym": "—",
+            "meaning_en": "a storage box above the seats",
+            "example": "Keep baggage in the overhead compartment."
+          },
+          {
+            "word": "prohibited",
+            "pos": "adj",
+            "bangla": "নিষিদ্ধ",
+            "synonym": "forbidden, banned",
+            "antonym": "allowed, permitted",
+            "meaning_en": "not allowed by rule or law",
+            "example": "Smoking is prohibited on the flight."
+          },
+          {
+            "word": "tailwind",
+            "pos": "noun",
+            "bangla": "পশ্চাৎ-বাতাস / অনুকূল বাতাস",
+            "synonym": "—",
+            "antonym": "headwind",
+            "meaning_en": "wind blowing from behind, helping a plane go faster",
+            "example": "With a tailwind we will land early."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Which flight is the announcement for?",
+            "options": [
+              "BG 22 to Delhi",
+              "BG 88 to Bangkok",
+              "TG 88 to Dhaka",
+              "BG 100 to London"
+            ],
+            "answer_index": 1,
+            "explain": "It is Flight BG 88 to Bangkok."
+          },
+          {
+            "q": "How many minutes until the plane is in the air (pre-take-off)?",
+            "options": [
+              "about seven minutes",
+              "about thirty minutes",
+              "about one hour",
+              "immediately"
+            ],
+            "answer_index": 0,
+            "explain": "It is expected to be in the air in about seven minutes."
+          },
+          {
+            "q": "What are passengers asked to do with their seat belts?",
+            "options": [
+              "remove them",
+              "fasten them",
+              "tie them to the bag",
+              "ignore them"
+            ],
+            "answer_index": 1,
+            "explain": "Passengers are requested to fasten their seat belts."
+          },
+          {
+            "q": "Smoking in the ___ is prohibited.",
+            "options": [
+              "seat",
+              "lavatory",
+              "aisle",
+              "window"
+            ],
+            "answer_index": 1,
+            "explain": "Smoking in the lavatory is prohibited."
+          },
+          {
+            "q": "Who is speaking in the captain's announcement?",
+            "options": [
+              "the cabin crew",
+              "Captain Rashid Akbar",
+              "the immigration officer",
+              "the co-pilot"
+            ],
+            "answer_index": 1,
+            "explain": "Captain Rashid Akbar is speaking."
+          },
+          {
+            "q": "At what altitude is the plane cruising?",
+            "options": [
+              "about 1,000 feet",
+              "about 10,058 feet",
+              "about 100 feet",
+              "about 50,000 feet"
+            ],
+            "answer_index": 1,
+            "explain": "It is cruising at about 10,058 feet."
+          },
+          {
+            "q": "What is the temperature in Bangkok mentioned in the announcement?",
+            "options": [
+              "22 degrees Celsius",
+              "32 degrees Celsius",
+              "42 degrees Celsius",
+              "12 degrees Celsius"
+            ],
+            "answer_index": 1,
+            "explain": "The temperature in Bangkok is 32 degrees Celsius."
+          },
+          {
+            "q": "How early are they expected to land in Bangkok?",
+            "options": [
+              "fifteen minutes ahead of schedule",
+              "one hour late",
+              "exactly on time",
+              "two hours ahead"
+            ],
+            "answer_index": 0,
+            "explain": "With a tailwind they expect to land about fifteen minutes ahead of schedule."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What are passengers asked to do before take-off?",
+            "model": "Before take-off, passengers are asked to fasten their seat belts, secure their baggage under the seat or in the overhead compartments, keep their seats and table trays upright, and turn off all personal electronic devices, including laptops and cellphones."
+          },
+          {
+            "q": "Why is it called a non-smoking flight?",
+            "model": "It is called a non-smoking flight because smoking is not allowed anywhere on board. Even smoking in the lavatory is prohibited for everyone's safety."
+          },
+          {
+            "q": "Who is speaking in the captain's announcement, and what does he say about the flight?",
+            "model": "Captain Rashid Akbar is speaking. He says the plane is cruising at an altitude of about 10,058 feet at an airspeed of about 643 km per hour, and that the time is 1:25 pm."
+          },
+          {
+            "q": "When are they expected to land in Bangkok, and why?",
+            "model": "They are expected to land about fifteen minutes ahead of schedule. This is because the weather is good and there is a tailwind on their side."
+          },
+          {
+            "q": "What is the weather like in Bangkok according to the announcement?",
+            "model": "According to the announcement, the weather in Bangkok is clear and sunny, and the temperature is 32 degrees Celsius for the afternoon."
+          },
+          {
+            "q": "What will the cabin crew do shortly?",
+            "model": "The cabin crew will come around in about twenty minutes' time to offer the passengers a light snack and drinks, and the inflight movie will begin shortly after that."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "The flight BG 88 is going to Bangkok.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Passengers may keep their electronic devices switched on during take-off.",
+            "is_true": false,
+            "correction": "They must turn off all personal electronic devices, including laptops and cellphones."
+          },
+          {
+            "statement": "Smoking is allowed in the lavatory.",
+            "is_true": false,
+            "correction": "Smoking in the lavatory is prohibited; it is a non-smoking flight."
+          },
+          {
+            "statement": "Captain Rashid Akbar makes the second announcement.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The temperature in Bangkok is 32 degrees Celsius.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The plane is expected to land one hour late.",
+            "is_true": false,
+            "correction": "It is expected to land about fifteen minutes ahead of schedule."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "Welcome on board Flight BG 88 to Bangkok. Please (1)____ your seat belt and keep your seat in the upright position. Turn off all electronic (2)____. This is a non-smoking flight, and smoking in the (3)____ is prohibited. The captain says the plane is (4)____ at a high altitude and will land ahead of (5)____.",
+          "blanks": [
+            "fasten",
+            "devices",
+            "lavatory",
+            "cruising",
+            "schedule"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Detail",
+            "Information"
+          ],
+          "rows": [
+            [
+              "Flight number",
+              "BG 88"
+            ],
+            [
+              "Destination",
+              "Bangkok"
+            ],
+            [
+              "Captain",
+              "Rashid Akbar"
+            ],
+            [
+              "Altitude",
+              "about 10,058 feet"
+            ],
+            [
+              "Weather in Bangkok",
+              "clear and sunny, 32°C"
+            ]
+          ],
+          "blanks": [
+            "BG 88",
+            "Bangkok",
+            "Rashid Akbar",
+            "about 10,058 feet",
+            "clear and sunny, 32°C"
+          ]
+        },
+        "match": {
+          "left": [
+            "Please fasten your",
+            "Turn off all electronic",
+            "Smoking in the lavatory is",
+            "The captain is",
+            "The plane will land ahead of"
+          ],
+          "right": [
+            "devices.",
+            "schedule.",
+            "seat belt.",
+            "prohibited.",
+            "Rashid Akbar."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "On Flight BG 88 to Bangkok, the pre-take-off announcement welcomes passengers and asks them to fasten their seat belts, secure their baggage, keep their seats and trays upright, and switch off all electronic devices; it is a non-smoking flight, with smoking in the lavatory prohibited. Later, Captain Rashid Akbar announces that the plane is cruising at about 10,058 feet and 643 km per hour, that with a tailwind they will land in Bangkok about fifteen minutes ahead of schedule, that the weather there is clear and sunny at 32°C, and that snacks, drinks and a movie will follow.",
+          "skeleton": "On Flight ____ to Bangkok, passengers must ____ their seat belts and switch off ____. It is a non-smoking flight. Captain Rashid Akbar says they are ____ at high altitude and will land ahead of ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'A Plane Journey' (about 100 words).",
+          "model": "A plane journey is one of the most exciting ways to travel. After completing all the formalities at the airport, passengers board the plane and find their seats. Before take-off, the cabin crew make announcements asking everyone to fasten their seat belts, keep their seats upright and switch off their phones. Soon the engines roar, and the plane rises smoothly into the sky. From the window, the world below looks tiny, with fields, rivers and clouds floating past. The captain announces the altitude, speed and weather, while the crew serve snacks and drinks. After a comfortable flight, the plane lands safely at its destination, ending a truly memorable journey."
+        }
+      },
+      {
+        "id": "u6l6",
+        "unit": 6,
+        "unit_title": "Going on a Trip",
+        "number": 6,
+        "title": "Announcements on Board (2)",
+        "keywords": [
+          "exit",
+          "locate",
+          "monitored",
+          "assistance",
+          "secure",
+          "assume",
+          "bracing-position",
+          "pouch",
+          "turbulence"
+        ],
+        "learn_line": "The safety announcement: oxygen masks, the bracing position and the life vest.",
+        "minutes": 10,
+        "warmup": [
+          "Why do cabin crew explain safety rules before a flight?",
+          "What should you do if an oxygen mask drops down?",
+          "Where is a life vest kept on a plane?",
+          "What is turbulence, and how should passengers behave during it?"
+        ],
+        "reading": {
+          "summary_en": "This lesson is the safety announcement made on board. It explains that oxygen and air pressure are always monitored, and that if there is a lack of oxygen, an oxygen mask will automatically appear; passengers should pull it towards them, place it firmly over the nose and mouth, secure the elastic band behind the head and breathe normally. If travelling with a child or someone who needs assistance, one should secure one's own mask first and then help the other person. In an emergency, passengers should assume the bracing position by leaning forward with hands on top of the head and elbows against the thighs, keeping the feet flat on the floor. A life vest is located in a pouch under the seat or between the armrests; when instructed, passengers should open the pouch, slip the vest over the head, pass the straps around the waist, and inflate it by pulling the red cord, but only before leaving the aircraft. It is a non-smoking flight, and all safety information is given in the card in the seat pocket. The cabin crew's kind behaviour made the passengers feel safe and happy, even during turbulence when the plane was bumping.",
+          "gist_bn": "এই পাঠ হলো প্লেনে দেওয়া নিরাপত্তা ঘোষণা। অক্সিজেন ও বায়ুচাপ সবসময় পর্যবেক্ষণ করা হয়; অক্সিজেন কমে গেলে মাস্ক স্বয়ংক্রিয়ভাবে নেমে আসবে—টেনে নাক-মুখে চেপে ধরে ইলাস্টিক মাথার পেছনে আটকে স্বাভাবিকভাবে শ্বাস নিতে হবে। শিশু বা সহায়তা-প্রয়োজন কারো সঙ্গে থাকলে আগে নিজের মাস্ক পরে তারপর তাকে সাহায্য করতে হবে। জরুরি অবস্থায় ব্রেসিং পজিশন নিতে হবে। সিটের নিচে পাউচে লাইফ-ভেস্ট থাকে—মাথা গলিয়ে, কোমরে স্ট্র্যাপ বেঁধে, লাল কর্ড টেনে ফোলাতে হবে (প্লেন থেকে নামার আগে)। ক্রুদের ভালো ব্যবহারে ঝাঁকুনির (turbulence) সময়ও যাত্রীরা নিরাপদ বোধ করেন।",
+          "book_page": 71
+        },
+        "vocab": [
+          {
+            "word": "exit",
+            "pos": "noun",
+            "bangla": "বহির্গমন পথ",
+            "synonym": "way out",
+            "antonym": "entrance",
+            "meaning_en": "a way out of a place",
+            "example": "Locate the nearest exit."
+          },
+          {
+            "word": "locate",
+            "pos": "verb",
+            "bangla": "খুঁজে বের করা",
+            "synonym": "find",
+            "antonym": "lose",
+            "meaning_en": "to find the exact place of something",
+            "example": "A life vest is located under your seat."
+          },
+          {
+            "word": "monitored",
+            "pos": "verb (past)",
+            "bangla": "পর্যবেক্ষণ করা হয়",
+            "synonym": "watched, checked",
+            "antonym": "ignored",
+            "meaning_en": "kept under careful watch",
+            "example": "Oxygen and air pressure are monitored."
+          },
+          {
+            "word": "assistance",
+            "pos": "noun",
+            "bangla": "সহায়তা",
+            "synonym": "help, aid",
+            "antonym": "hindrance",
+            "meaning_en": "help given to someone",
+            "example": "Help those who require assistance."
+          },
+          {
+            "word": "secure",
+            "pos": "verb",
+            "bangla": "নিরাপদে আটকানো",
+            "synonym": "fasten, fix",
+            "antonym": "loosen",
+            "meaning_en": "to fasten something firmly and safely",
+            "example": "Secure the elastic band behind your head."
+          },
+          {
+            "word": "assume",
+            "pos": "verb",
+            "bangla": "গ্রহণ করা (ভঙ্গি)",
+            "synonym": "take up, adopt",
+            "antonym": "—",
+            "meaning_en": "to take on a position or role",
+            "example": "Assume the bracing position."
+          },
+          {
+            "word": "bracing position",
+            "pos": "noun",
+            "bangla": "ব্রেসিং পজিশন (সুরক্ষা ভঙ্গি)",
+            "synonym": "safety posture",
+            "antonym": "—",
+            "meaning_en": "a protective body position in an emergency",
+            "example": "Lean forward to assume the bracing position."
+          },
+          {
+            "word": "pouch",
+            "pos": "noun",
+            "bangla": "ছোট থলি / পাউচ",
+            "synonym": "small bag",
+            "antonym": "—",
+            "meaning_en": "a small bag or pocket",
+            "example": "The life vest is in a pouch under the seat."
+          },
+          {
+            "word": "inflate",
+            "pos": "verb",
+            "bangla": "ফোলানো",
+            "synonym": "blow up, pump up",
+            "antonym": "deflate",
+            "meaning_en": "to fill with air",
+            "example": "Pull the red cord to inflate the vest."
+          },
+          {
+            "word": "turbulence",
+            "pos": "noun",
+            "bangla": "ঝাঁকুনি / অস্থিরতা (বাতাসে)",
+            "synonym": "rough air, shaking",
+            "antonym": "calm",
+            "meaning_en": "violent movement of air that shakes the plane",
+            "example": "The crew stayed calm during turbulence."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "What are always being monitored on the plane?",
+            "options": [
+              "the food and drinks",
+              "oxygen and air pressure",
+              "the passengers' phones",
+              "the movies"
+            ],
+            "answer_index": 1,
+            "explain": "Oxygen and air pressure are always monitored."
+          },
+          {
+            "q": "What should you do first if an oxygen mask appears?",
+            "options": [
+              "help others first",
+              "pull the mask towards you and place it over your nose and mouth",
+              "stand up",
+              "open the window"
+            ],
+            "answer_index": 1,
+            "explain": "Pull the mask towards you and place it over your nose and mouth."
+          },
+          {
+            "q": "If travelling with a child, you should —",
+            "options": [
+              "secure the child's mask first",
+              "secure your own mask first, then help the child",
+              "share one mask",
+              "wait for the crew"
+            ],
+            "answer_index": 1,
+            "explain": "Secure your own mask first, then assist the child."
+          },
+          {
+            "q": "In an emergency, passengers should assume the —",
+            "options": [
+              "standing position",
+              "bracing position",
+              "sleeping position",
+              "running position"
+            ],
+            "answer_index": 1,
+            "explain": "They should assume the bracing position."
+          },
+          {
+            "q": "Where is the life vest located?",
+            "options": [
+              "in the overhead locker",
+              "in a pouch under the seat or between the armrests",
+              "in the lavatory",
+              "at the exit"
+            ],
+            "answer_index": 1,
+            "explain": "It is in a pouch under the seat or between the armrests."
+          },
+          {
+            "q": "How do you inflate the life vest?",
+            "options": [
+              "blow into it",
+              "pull the red cord",
+              "press a button",
+              "shake it"
+            ],
+            "answer_index": 1,
+            "explain": "You inflate it by pulling the red cord."
+          },
+          {
+            "q": "You should inflate the life vest —",
+            "options": [
+              "while still seated",
+              "before you leave the aircraft",
+              "after landing",
+              "at any time"
+            ],
+            "answer_index": 1,
+            "explain": "Inflate it before you leave the aircraft."
+          },
+          {
+            "q": "How did the cabin crew make passengers feel during turbulence?",
+            "options": [
+              "worried",
+              "safe and happy",
+              "bored",
+              "angry"
+            ],
+            "answer_index": 1,
+            "explain": "Their kind behaviour made passengers feel safe and happy."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What should a passenger do if an oxygen mask appears?",
+            "model": "If a mask appears, the passenger should pull it towards them, place it firmly over the nose and mouth, secure the elastic band behind the head and breathe normally."
+          },
+          {
+            "q": "What should you do if you are travelling with a child during an emergency?",
+            "model": "If travelling with a child or someone needing assistance, you should secure your own oxygen mask first and then help the other person."
+          },
+          {
+            "q": "What is the bracing position?",
+            "model": "The bracing position is an emergency safety posture: you lean forward with your hands on top of your head and your elbows against your thighs, keeping your feet flat on the floor."
+          },
+          {
+            "q": "Where is the life vest, and how is it used?",
+            "model": "The life vest is in a pouch under the seat or between the armrests. You open the pouch, slip the vest over your head, pass the straps around your waist, and inflate it by pulling the red cord before leaving the aircraft."
+          },
+          {
+            "q": "Where can passengers find all the safety information?",
+            "model": "Passengers can find all the safety information in the safety card located in the seat pocket in front of them, which they are advised to read before take-off."
+          },
+          {
+            "q": "How did the cabin crew's behaviour affect the passengers during turbulence?",
+            "model": "The cabin crew's nice, calm behaviour made all the passengers feel safe and happy even when the plane was bumping during turbulence."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Oxygen and air pressure are always being monitored.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "You should help others put on their masks before your own.",
+            "is_true": false,
+            "correction": "You should secure your own mask first, then help others."
+          },
+          {
+            "statement": "In an emergency you should stand up straight.",
+            "is_true": false,
+            "correction": "You should assume the bracing position by leaning forward."
+          },
+          {
+            "statement": "The life vest is kept in a pouch under the seat.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "You should inflate the life vest while still inside the aircraft.",
+            "is_true": false,
+            "correction": "You should inflate it before leaving the aircraft, not while seated inside."
+          },
+          {
+            "statement": "The crew's kind behaviour made passengers feel safe during turbulence.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "If there is a lack of oxygen, a mask will appear; pull it towards you and (1)____ the band behind your head. If you are with a child, secure your own mask (2)____. In an emergency, (3)____ the bracing position. The life vest is in a (4)____ under your seat. The crew's calm behaviour kept passengers safe during (5)____.",
+          "blanks": [
+            "secure",
+            "first",
+            "assume",
+            "pouch",
+            "turbulence"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Safety item",
+            "What to do"
+          ],
+          "rows": [
+            [
+              "Oxygen mask",
+              "pull it down, cover nose and mouth, breathe normally"
+            ],
+            [
+              "Travelling with a child",
+              "secure your own mask first"
+            ],
+            [
+              "In an emergency",
+              "assume the bracing position"
+            ],
+            [
+              "Life vest",
+              "in a pouch under the seat; inflate with the red cord"
+            ],
+            [
+              "Safety information",
+              "read the card in the seat pocket"
+            ]
+          ],
+          "blanks": [
+            "pull it down, cover nose and mouth, breathe normally",
+            "secure your own mask first",
+            "assume the bracing position",
+            "in a pouch under the seat; inflate with the red cord",
+            "read the card in the seat pocket"
+          ]
+        },
+        "match": {
+          "left": [
+            "Oxygen and air pressure are",
+            "Put on your own mask",
+            "In an emergency assume the",
+            "The life vest is in a",
+            "Inflate the vest before"
+          ],
+          "right": [
+            "bracing position.",
+            "you leave the aircraft.",
+            "monitored.",
+            "pouch under the seat.",
+            "first."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "This safety announcement explains what passengers must do in an emergency. Oxygen and air pressure are constantly monitored, and if oxygen is low a mask drops automatically, to be pulled down, placed over the nose and mouth, and secured, helping oneself before any child. In an emergency, passengers should take the bracing position, leaning forward with hands on the head. A life vest lies in a pouch under the seat, to be slipped on and inflated with a red cord before leaving the aircraft. All details are in the seat-pocket card, and the crew's calm manner kept passengers feeling safe during turbulence.",
+          "skeleton": "If oxygen is low, a mask appears; ____ it and secure the band, helping yourself ____. In an emergency, ____ the bracing position. The life vest is in a ____ under the seat. The crew kept passengers calm during ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'Safety Rules on an Aeroplane' (about 80 words).",
+          "model": "Safety rules on an aeroplane are explained before every flight to protect the passengers. Travellers are told to fasten their seat belts and keep their seats upright during take-off and landing. If the cabin loses oxygen, masks drop automatically, and passengers must put on their own mask first before helping a child. In an emergency, they should take the bracing position. A life vest is kept under each seat for use over water. The cabin crew also point out the exits. By listening to these instructions and staying calm, passengers help keep every flight safe."
+        }
+      },
+      {
+        "id": "u6l7",
+        "unit": 6,
+        "unit_title": "Going on a Trip",
+        "number": 7,
+        "title": "Reaching Bangkok",
+        "keywords": [
+          "derived",
+          "parallel",
+          "cargo",
+          "capacity"
+        ],
+        "learn_line": "Facts about Bangkok's huge Suvarnabhumi Airport, where Mita's flight finally lands.",
+        "minutes": 10,
+        "warmup": [
+          "What is the name of the biggest airport you know?",
+          "What facilities does a large international airport have?",
+          "Why might an airport need several runways?",
+          "What does the word 'capacity' mean?"
+        ],
+        "reading": {
+          "summary_en": "The plane lands at Suvarnabhumi Airport at 4:55 p.m. The name 'Suvarnabhumi' is pronounced 'su-wan-na-poom' and is derived from Sanskrit, meaning 'golden land'; it was chosen by the late King Bhumibol Adulyadej. The airport is located in Racha Thewa subdistrict in the Bang Phli district of Samut Prakan province, 30 kilometres east of Bangkok. It has three parallel runways, all 60 metres wide; two are 4,000 metres long and the other is 3,700 metres. It can handle 94 flight operations per hour, 45 million passengers and 3 million tonnes of cargo per year. The airport has two terminals, a main terminal and a satellite terminal; the main terminal is 563,000 square metres, that is, 6,060,000 square feet, and is the fourth largest passenger terminal building in the world. The airport is going through phase 2, which will raise its capacity to handle 65 million passengers per year, and it has two five-storey car park buildings that can house 5,000 cars.",
+          "gist_bn": "প্লেনটি বিকেল ৪:৫৫-এ সুবর্ণভূমি বিমানবন্দরে নামে। 'Suvarnabhumi' উচ্চারণ 'সু-ওয়ান-না-পুম', সংস্কৃত থেকে এসেছে, অর্থ 'সোনার দেশ'; নামটি দিয়েছিলেন প্রয়াত রাজা ভূমিবল আদুল্যাদেজ। বিমানবন্দরটি সামুত প্রাকান প্রদেশের ব্যাং ফলি জেলার রাচা থেওয়া উপজেলায়, ব্যাংকক থেকে ৩০ কিমি পূর্বে। তিনটি সমান্তরাল রানওয়ে (সবগুলো ৬০ মি চওড়া; দুটি ৪০০০ মি, একটি ৩৭০০ মি)। ঘণ্টায় ৯৪টি ফ্লাইট, বছরে ৪.৫ কোটি যাত্রী ও ৩০ লক্ষ টন কার্গো সামলাতে পারে। মূল টার্মিনাল ৫,৬৩,০০০ বর্গমিটার—বিশ্বের চতুর্থ বৃহত্তম।",
+          "book_page": 74
+        },
+        "vocab": [
+          {
+            "word": "derived",
+            "pos": "verb (past)",
+            "bangla": "উদ্ভূত / আগত",
+            "synonym": "obtained, taken",
+            "antonym": "—",
+            "meaning_en": "taken or developed from a source",
+            "example": "The name is derived from Sanskrit."
+          },
+          {
+            "word": "parallel",
+            "pos": "adj",
+            "bangla": "সমান্তরাল",
+            "synonym": "side by side",
+            "antonym": "intersecting",
+            "meaning_en": "running side by side at the same distance apart",
+            "example": "The airport has three parallel runways."
+          },
+          {
+            "word": "cargo",
+            "pos": "noun",
+            "bangla": "মালামাল / পণ্য",
+            "synonym": "freight, goods",
+            "antonym": "—",
+            "meaning_en": "goods carried by a plane or ship",
+            "example": "It handles 3 million tonnes of cargo a year."
+          },
+          {
+            "word": "capacity",
+            "pos": "noun",
+            "bangla": "ধারণক্ষমতা",
+            "synonym": "ability, volume",
+            "antonym": "—",
+            "meaning_en": "the amount something can hold or handle",
+            "example": "Phase 2 will raise its capacity."
+          },
+          {
+            "word": "pronounce",
+            "pos": "verb",
+            "bangla": "উচ্চারণ করা",
+            "synonym": "say, articulate",
+            "antonym": "—",
+            "meaning_en": "to say a word in a particular way",
+            "example": "'Suvarnabhumi' is pronounced su-wan-na-poom."
+          },
+          {
+            "word": "runway",
+            "pos": "noun",
+            "bangla": "রানওয়ে / উড়ালপথ",
+            "synonym": "airstrip",
+            "antonym": "—",
+            "meaning_en": "the strip where planes take off and land",
+            "example": "The runways are 60 metres wide."
+          },
+          {
+            "word": "terminal",
+            "pos": "noun",
+            "bangla": "টার্মিনাল",
+            "synonym": "building",
+            "antonym": "—",
+            "meaning_en": "a building where passengers arrive and depart",
+            "example": "The main terminal is very large."
+          },
+          {
+            "word": "operation",
+            "pos": "noun",
+            "bangla": "পরিচালনা / কার্যক্রম",
+            "synonym": "activity",
+            "antonym": "—",
+            "meaning_en": "an action being carried out",
+            "example": "It handles 94 flight operations per hour."
+          },
+          {
+            "word": "located",
+            "pos": "verb (past)",
+            "bangla": "অবস্থিত",
+            "synonym": "situated",
+            "antonym": "—",
+            "meaning_en": "placed in a particular spot",
+            "example": "The airport is located east of Bangkok."
+          },
+          {
+            "word": "handle",
+            "pos": "verb",
+            "bangla": "সামলানো / পরিচালনা করা",
+            "synonym": "manage, deal with",
+            "antonym": "—",
+            "meaning_en": "to deal with or cope with something",
+            "example": "It can handle 45 million passengers a year."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "At what time did the plane land at Suvarnabhumi Airport?",
+            "options": [
+              "4:55 p.m.",
+              "1:25 p.m.",
+              "8:00 a.m.",
+              "6:00 p.m."
+            ],
+            "answer_index": 0,
+            "explain": "The plane landed at 4:55 p.m."
+          },
+          {
+            "q": "From which language is the name 'Suvarnabhumi' derived?",
+            "options": [
+              "Thai",
+              "Sanskrit",
+              "English",
+              "Pali"
+            ],
+            "answer_index": 1,
+            "explain": "The name is derived from Sanskrit."
+          },
+          {
+            "q": "What does 'Suvarnabhumi' mean?",
+            "options": [
+              "big city",
+              "golden land",
+              "airport",
+              "river port"
+            ],
+            "answer_index": 1,
+            "explain": "It means 'golden land'."
+          },
+          {
+            "q": "Who chose the name of the airport?",
+            "options": [
+              "the prime minister",
+              "the late King Bhumibol Adulyadej",
+              "the mayor",
+              "the architect"
+            ],
+            "answer_index": 1,
+            "explain": "It was chosen by the late King Bhumibol Adulyadej."
+          },
+          {
+            "q": "How far is the airport from Bangkok?",
+            "options": [
+              "10 km",
+              "30 km",
+              "50 km",
+              "100 km"
+            ],
+            "answer_index": 1,
+            "explain": "It is 30 kilometres east of Bangkok."
+          },
+          {
+            "q": "How many parallel runways does the airport have?",
+            "options": [
+              "one",
+              "two",
+              "three",
+              "four"
+            ],
+            "answer_index": 2,
+            "explain": "It has three parallel runways."
+          },
+          {
+            "q": "How many passengers can it handle per year (currently)?",
+            "options": [
+              "15 million",
+              "45 million",
+              "65 million",
+              "5 million"
+            ],
+            "answer_index": 1,
+            "explain": "It can handle 45 million passengers per year."
+          },
+          {
+            "q": "To how many passengers will phase 2 raise its capacity?",
+            "options": [
+              "45 million",
+              "55 million",
+              "65 million",
+              "100 million"
+            ],
+            "answer_index": 2,
+            "explain": "Phase 2 will raise capacity to 65 million passengers per year."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Where is Suvarnabhumi Airport located?",
+            "model": "Suvarnabhumi Airport is located in Racha Thewa subdistrict, in the Bang Phli district of Samut Prakan province, about 30 kilometres east of Bangkok."
+          },
+          {
+            "q": "What does the name 'Suvarnabhumi' mean, and where does it come from?",
+            "model": "The name 'Suvarnabhumi' means 'golden land'. It is derived from Sanskrit and was chosen by the late King Bhumibol Adulyadej."
+          },
+          {
+            "q": "Describe the runways of the airport.",
+            "model": "The airport has three parallel runways, all 60 metres wide. Two of them are 4,000 metres long, and the other is 3,700 metres long."
+          },
+          {
+            "q": "How much traffic can the airport handle each year?",
+            "model": "The airport can handle 94 flight operations per hour, 45 million passengers and 3 million tonnes of cargo per year."
+          },
+          {
+            "q": "Tell about the main terminal of the airport.",
+            "model": "The main terminal is 563,000 square metres, that is 6,060,000 square feet, and it is the fourth largest passenger terminal building in the world."
+          },
+          {
+            "q": "What will phase 2 of the airport do, and what car parking does it have?",
+            "model": "Phase 2 will raise the airport's capacity to handle 65 million passengers per year. The airport also has two five-storey car park buildings that can house 5,000 cars."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "The name 'Suvarnabhumi' is derived from Sanskrit.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "'Suvarnabhumi' means 'river port'.",
+            "is_true": false,
+            "correction": "It means 'golden land'."
+          },
+          {
+            "statement": "The airport is 30 kilometres east of Bangkok.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The airport has only one runway.",
+            "is_true": false,
+            "correction": "It has three parallel runways."
+          },
+          {
+            "statement": "The airport can currently handle 45 million passengers per year.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Phase 2 will reduce its passenger capacity.",
+            "is_true": false,
+            "correction": "Phase 2 will raise its capacity to 65 million passengers per year."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "The plane landed at Suvarnabhumi Airport. The name is (1)____ from Sanskrit and means 'golden land'. The airport is 30 km east of Bangkok and has three (2)____ runways. It can handle 45 million passengers and 3 million tonnes of (3)____ per year. The main (4)____ is one of the largest in the world. Phase 2 will raise its (5)____ to 65 million passengers.",
+          "blanks": [
+            "derived",
+            "parallel",
+            "cargo",
+            "terminal",
+            "capacity"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Bangkok Airport",
+            "Information"
+          ],
+          "rows": [
+            [
+              "Name",
+              "Suvarnabhumi"
+            ],
+            [
+              "Origin of the name",
+              "Sanskrit"
+            ],
+            [
+              "Chosen by",
+              "the late King Bhumibol Adulyadej"
+            ],
+            [
+              "Meaning",
+              "golden land"
+            ],
+            [
+              "Distance from Bangkok",
+              "30 km east"
+            ],
+            [
+              "Runways",
+              "three parallel runways, 60 m wide"
+            ],
+            [
+              "Passengers per year",
+              "45 million (65 million after phase 2)"
+            ],
+            [
+              "Cargo per year",
+              "3 million tonnes"
+            ]
+          ],
+          "blanks": [
+            "Suvarnabhumi",
+            "Sanskrit",
+            "the late King Bhumibol Adulyadej",
+            "golden land",
+            "30 km east",
+            "three parallel runways, 60 m wide",
+            "45 million (65 million after phase 2)",
+            "3 million tonnes"
+          ]
+        },
+        "match": {
+          "left": [
+            "The name is derived from",
+            "'Suvarnabhumi' means",
+            "The airport has three",
+            "It can handle 3 million tonnes of",
+            "Phase 2 will raise its"
+          ],
+          "right": [
+            "golden land.",
+            "parallel runways.",
+            "Sanskrit.",
+            "capacity.",
+            "cargo."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              3
+            ]
+          ]
+        },
+        "summary": {
+          "model": "The flight lands at Suvarnabhumi Airport at 4:55 p.m. Its name, meaning 'golden land', is derived from Sanskrit and was chosen by the late King Bhumibol Adulyadej. Located 30 kilometres east of Bangkok, the airport has three parallel runways, each 60 metres wide. It can handle 94 flight operations an hour, 45 million passengers and 3 million tonnes of cargo a year. Its main terminal, one of the largest in the world, covers 563,000 square metres, and phase 2 will raise its capacity to 65 million passengers per year, with car parks for 5,000 cars.",
+          "skeleton": "Suvarnabhumi Airport's name is ____ from Sanskrit, meaning golden land. It lies 30 km from Bangkok with three ____ runways. It handles millions of passengers and tonnes of ____. Phase 2 will raise its ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph describing 'An International Airport' (about 100 words).",
+          "model": "An international airport is a huge and busy place that connects a country with the rest of the world. It has long parallel runways where giant planes take off and land throughout the day and night. Inside the large terminal buildings, passengers check in their luggage, pass through immigration and security, and wait in comfortable lounges before boarding. Big airports like Suvarnabhumi in Bangkok can handle millions of passengers and millions of tonnes of cargo every year. They also have shops, restaurants, car parks and satellite terminals. With its skilled staff and modern facilities, an international airport makes long-distance travel safe, fast and convenient for people from many nations."
+        }
+      },
+      {
+        "id": "u6l8",
+        "unit": 6,
+        "unit_title": "Going on a Trip",
+        "number": 8,
+        "title": "The Destination",
+        "keywords": [
+          "fascinate",
+          "destination",
+          "floating market"
+        ],
+        "learn_line": "Mita's taxi ride to the apartment and a visit to the traditional Tha Kha floating market.",
+        "minutes": 11,
+        "warmup": [
+          "How do travellers get from an airport to their hotel?",
+          "What is a 'floating market'? Have you seen one?",
+          "What would you like to buy at a market on boats?",
+          "Why might local people at a small market all know each other?"
+        ],
+        "reading": {
+          "summary_en": "Mita is fascinated to see such a big airport. After immigration, Mr Mazharul Islam buys a taxi ticket, and the family takes a taxi to their apartment at Happy Condo, 18 Rachada Pisek Road. The ride takes about one and a half hours, and Mita, very excited, holds Zara's hand, saying she can't believe she is there and that she has never ridden in a car at such high speed, though she is a little scared. At the apartment, Mita loves the garden of trees and flowers with a small fountain bringing a cool breeze. They take the elevator to the seventh floor and stay in a nicely done two-bedroom apartment, where Mita and Zara share a room. After dinner, they plan the next day: Mita has read about a floating market and wants to see one, so Mr Islam decides to take them to the Tha Kha floating market, which sits early in the morning and is over before noon. At the market, sellers and buyers row their boats slowly, displaying and choosing fruits, vegetables, local food and delicious sweets, chatting as they trade. The Tha Kha floating market is more traditional, with fewer tourists; it used to sit only six or seven days a month depending on the phase of the moon, but now trades on Fridays, Saturdays and Sundays too. The main buyers are local Tha Kha people who know each other very well, smiling and calling each other by name, so busy buying and selling that they hardly notice Mita and the others.",
+          "gist_bn": "মিতা বিশাল বিমানবন্দর দেখে মুগ্ধ। মি. মাজহারুল ইসলাম ট্যাক্সি টিকিট কেনেন; তারা Happy Condo, ১৮ রাচাদা পিসেক রোডে যায় (প্রায় দেড় ঘণ্টা)। মিতা উত্তেজিত, একটু ভীতও। অ্যাপার্টমেন্টে বাগান, ফোয়ারা; লিফটে ৭ম তলায় দুই কামরার ফ্ল্যাট। রাতের খাবারের পর তারা পরের দিনের পরিকল্পনা করে—টা খা ভাসমান বাজার দেখতে যাবে, যা ভোরে বসে দুপুরের আগেই শেষ হয়। বাজারে নৌকায় ফল, সবজি, খাবার, মিষ্টি বিক্রি হয়। টা খা বাজার বেশি ঐতিহ্যবাহী, পর্যটক কম; স্থানীয়রা একে অপরকে চেনে, নাম ধরে ডাকে।",
+          "book_page": 75
+        },
+        "vocab": [
+          {
+            "word": "fascinate",
+            "pos": "verb",
+            "bangla": "মুগ্ধ করা",
+            "synonym": "charm, enchant",
+            "antonym": "bore",
+            "meaning_en": "to attract and interest greatly",
+            "example": "The big airport fascinated Mita."
+          },
+          {
+            "word": "destination",
+            "pos": "noun",
+            "bangla": "গন্তব্য",
+            "synonym": "goal, endpoint",
+            "antonym": "origin",
+            "meaning_en": "the place one is travelling to",
+            "example": "They reached their destination."
+          },
+          {
+            "word": "floating market",
+            "pos": "noun",
+            "bangla": "ভাসমান বাজার",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "a market where goods are sold from boats",
+            "example": "Tha Kha is a floating market."
+          },
+          {
+            "word": "elevator",
+            "pos": "noun",
+            "bangla": "লিফট",
+            "synonym": "lift",
+            "antonym": "stairs",
+            "meaning_en": "a machine that carries people between floors",
+            "example": "They took the elevator to the 7th floor."
+          },
+          {
+            "word": "fountain",
+            "pos": "noun",
+            "bangla": "ফোয়ারা",
+            "synonym": "water jet",
+            "antonym": "—",
+            "meaning_en": "a structure that sends up water",
+            "example": "A small fountain was in the garden."
+          },
+          {
+            "word": "breeze",
+            "pos": "noun",
+            "bangla": "মৃদু বাতাস",
+            "synonym": "light wind",
+            "antonym": "gale",
+            "meaning_en": "a gentle wind",
+            "example": "The fountain brought a cool breeze."
+          },
+          {
+            "word": "settled",
+            "pos": "verb (past)",
+            "bangla": "থিতু হওয়া / গুছিয়ে নেওয়া",
+            "synonym": "got comfortable",
+            "antonym": "unsettled",
+            "meaning_en": "comfortably arranged in a place",
+            "example": "By 8 p.m. they all got settled."
+          },
+          {
+            "word": "traditional",
+            "pos": "adj",
+            "bangla": "ঐতিহ্যবাহী",
+            "synonym": "customary",
+            "antonym": "modern",
+            "meaning_en": "following old customs",
+            "example": "The Tha Kha market is more traditional."
+          },
+          {
+            "word": "native",
+            "pos": "noun/adj",
+            "bangla": "স্থানীয় / আদিবাসী",
+            "synonym": "local",
+            "antonym": "foreigner",
+            "meaning_en": "a person born in a particular place",
+            "example": "The buyers are Tha Kha natives."
+          },
+          {
+            "word": "chit-chat",
+            "pos": "noun",
+            "bangla": "হালকা গল্পগুজব",
+            "synonym": "small talk",
+            "antonym": "—",
+            "meaning_en": "light, friendly conversation",
+            "example": "They had a little chit-chat while trading."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "How did the family travel from the airport to the apartment?",
+            "options": [
+              "by bus",
+              "by taxi",
+              "on foot",
+              "by train"
+            ],
+            "answer_index": 1,
+            "explain": "They took a taxi to the apartment."
+          },
+          {
+            "q": "How long did it take to reach their destination?",
+            "options": [
+              "half an hour",
+              "about one and a half hours",
+              "four hours",
+              "ten minutes"
+            ],
+            "answer_index": 1,
+            "explain": "It took about one and a half hours."
+          },
+          {
+            "q": "On which floor was the uncle's apartment?",
+            "options": [
+              "the ground floor",
+              "the seventh floor",
+              "the second floor",
+              "the tenth floor"
+            ],
+            "answer_index": 1,
+            "explain": "The apartment was on the 7th floor."
+          },
+          {
+            "q": "What did Mita want to see the next day?",
+            "options": [
+              "a museum",
+              "a floating market",
+              "a zoo",
+              "a cinema"
+            ],
+            "answer_index": 1,
+            "explain": "Mita wanted to see a floating market."
+          },
+          {
+            "q": "Which floating market did they plan to visit?",
+            "options": [
+              "Damnoen Saduak",
+              "Tha Kha",
+              "Amphawa",
+              "Pattaya"
+            ],
+            "answer_index": 1,
+            "explain": "They planned to visit the Tha Kha floating market."
+          },
+          {
+            "q": "When does the floating market sit?",
+            "options": [
+              "all afternoon",
+              "early in the morning, over before noon",
+              "only at night",
+              "once a year"
+            ],
+            "answer_index": 1,
+            "explain": "It sits early in the morning and is over before noon."
+          },
+          {
+            "q": "What did the sellers and buyers do at the market?",
+            "options": [
+              "walked along the road",
+              "rowed their boats slowly to sell and buy",
+              "drove cars",
+              "stayed in shops"
+            ],
+            "answer_index": 1,
+            "explain": "They rowed their boats slowly to sell and buy goods."
+          },
+          {
+            "q": "Why is the Tha Kha floating market called 'traditional'?",
+            "options": [
+              "it is very modern",
+              "it has fewer tourists and follows old customs",
+              "it is only for tourists",
+              "it is new"
+            ],
+            "answer_index": 1,
+            "explain": "It is more traditional, with fewer tourists, and local natives are the main buyers."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "How did the family reach the apartment, and how long did it take?",
+            "model": "After Mr Islam bought a taxi ticket, the family took a taxi to their apartment at Happy Condo. The ride took about one and a half hours."
+          },
+          {
+            "q": "Why did Mita think the garden was welcoming her?",
+            "model": "Mita thought the garden was welcoming her because it was full of trees and flowers, with a small fountain in the middle bringing a cool breeze. She loved the peaceful, beautiful place."
+          },
+          {
+            "q": "What did they plan to do the next day?",
+            "model": "After dinner they planned the next day. Mita had read about a floating market and wanted to see one, so they decided to visit the Tha Kha floating market."
+          },
+          {
+            "q": "Why would Mita and Zara wake up early the next morning?",
+            "model": "They had to wake up early because the floating market sits early in the morning and is over before noon, so they needed to reach it in good time."
+          },
+          {
+            "q": "What was sold at the floating market, and how?",
+            "model": "Fruits, vegetables, local food and delicious sweets were sold. The sellers and buyers rowed their boats slowly, the sellers displaying their goods and the buyers choosing their picks while chatting."
+          },
+          {
+            "q": "Why is the Tha Kha floating market different from others?",
+            "model": "The Tha Kha floating market is more traditional and has fewer tourists. It used to sit only six or seven days a month by the phase of the moon, and its main buyers are local natives who know each other well."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "The family travelled from the airport to the apartment by taxi.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The apartment was on the ground floor.",
+            "is_true": false,
+            "correction": "The apartment was on the seventh floor."
+          },
+          {
+            "statement": "Tha Kha floating market is a tourist place full of tourists.",
+            "is_true": false,
+            "correction": "It is more traditional, with only a few tourists visiting."
+          },
+          {
+            "statement": "The market sits early in the morning and is over before noon.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The buyers and sellers are mostly local people of the Tha Kha area.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "At the market, goods were sold from shops along the road.",
+            "is_true": false,
+            "correction": "Goods were sold from boats; sellers and buyers rowed slowly to trade."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "After immigration, the family took a (1)____ to their apartment, which took about one and a half hours. They went up by (2)____ to the seventh floor. The next day they visited the Tha Kha (3)____ market, which sits early and is over before (4)____. The sellers and buyers rowed their (5)____ slowly to trade.",
+          "blanks": [
+            "taxi",
+            "elevator",
+            "floating",
+            "noon",
+            "boats"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Detail",
+            "Information"
+          ],
+          "rows": [
+            [
+              "Transport to apartment",
+              "taxi (about 1.5 hours)"
+            ],
+            [
+              "Apartment floor",
+              "seventh floor, two bedrooms"
+            ],
+            [
+              "Next day's plan",
+              "visit the Tha Kha floating market"
+            ],
+            [
+              "When the market sits",
+              "early morning, over before noon"
+            ],
+            [
+              "Main buyers",
+              "local Tha Kha natives"
+            ]
+          ],
+          "blanks": [
+            "taxi (about 1.5 hours)",
+            "seventh floor, two bedrooms",
+            "visit the Tha Kha floating market",
+            "early morning, over before noon",
+            "local Tha Kha natives"
+          ]
+        },
+        "match": {
+          "left": [
+            "They reached the apartment by",
+            "They went up by",
+            "Mita wanted to see a",
+            "The market is over before",
+            "The sellers rowed their"
+          ],
+          "right": [
+            "elevator.",
+            "boats slowly.",
+            "taxi.",
+            "floating market.",
+            "noon."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "Fascinated by the huge airport, Mita and the family take a taxi to their two-bedroom apartment at Happy Condo, a ride of about one and a half hours. Mita loves the garden with its fountain, and they go up by elevator to the seventh floor. After dinner they plan to visit the Tha Kha floating market, which sits early and ends before noon. There, sellers and buyers row their boats slowly, trading fruits, vegetables, food and sweets. This traditional market, with few tourists, is run by friendly local natives who know one another well.",
+          "skeleton": "The family took a ____ to their apartment and went up by ____ to the seventh floor. Next day they visited the Tha Kha ____ market, which is over before ____, where people traded from ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'A Visit to a Market' (about 100 words).",
+          "model": "Last week I visited a busy local market with my father, and it was a lively experience. As soon as we entered, we saw rows of shops and stalls selling fresh fruits, vegetables, fish, sweets and many other things. The sellers called out the prices of their goods, while buyers bargained cheerfully before making their choices. The air was full of colours, sounds and the smell of fresh food. I especially enjoyed watching the fruit sellers arrange their bright oranges and bananas. Although the market was crowded and noisy, everyone seemed friendly and happy. The visit showed me how a market brings people together in daily life."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,854 @@
+{
+ "id": "right-form-verbs",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part A",
+ "unitName": "Grammar — Verb &amp; Tense",
+ "title": "Right Form of Verbs — Complete Master Rules",
+ "titleBn": "ক্রিয়ার সঠিক রূপ (V1 – V5)",
+ "lede": "একটি মাত্র প্রশ্নে ১০টি খালিঘর, আর প্রতিটির পেছনে একটি করে নিয়ম। V1 থেকে V5 — ৪৬টি নিয়ম, প্রতিটির সংকেত-শব্দ, গঠন ও উদাহরণসহ।",
+ "qType": "Grammar — Right Form of Verbs",
+ "minutes": 60,
+ "marks": "0.5×10 = 5",
+ "rulesTitle": "কোথায় কোন Form বসবে",
+ "rulesPerSlide": 2,
+ "objectives": [
+  {
+   "t": "Know the five forms cold",
+   "d": "V1 · V2 · V3 · V4 · V5 — কোনটা কী, এক নজরে"
+  },
+  {
+   "t": "Learn the signal words",
+   "d": "কোন শব্দ দেখলেই কোন form — এটাই আসল পরীক্ষা-কৌশল"
+  },
+  {
+   "t": "46 rules with structure &amp; example",
+   "d": "প্রতিটি নিয়মে গঠন + ইংরেজি উদাহরণ"
+  },
+  {
+   "t": "Solve a full board question",
+   "d": "১০টি খালিঘর, প্রতিটির যুক্তিসহ সমাধান"
+  },
+  {
+   "t": "Three live practice sets",
+   "d": "শিক্ষার্থীরা আগে বলবে, তারপর উত্তর দেখানো হবে"
+  },
+  {
+   "t": "Traps &amp; magic tricks",
+   "d": "যেখানে সবাই ভুল করে এবং মনে রাখার কৌশল"
+  }
+ ],
+ "rules": [
+  {
+   "no": "V1·01",
+   "tag": "V1",
+   "name": "After a Modal Auxiliary",
+   "bn": "**Can, could, may, might, shall, should, will, would, must, ought to, used to** — এদের পরে সর্বদা Verb-এর base form অর্থাৎ **V1** বসে। কোনো s/es বা ing যুক্ত হয় না।",
+   "formula": "Modal + V1",
+   "ex": "We should ==respect== (respect) our teachers."
+  },
+  {
+   "no": "V1·02",
+   "tag": "V1",
+   "name": "After the to-Infinitive",
+   "bn": "‘**to**’-এর পরে কোনো verb এলে তার base form অর্থাৎ **V1** বসে। (মনে রেখো — এটি infinitive-এর ‘to’, preposition-এর ‘to’ নয়।)",
+   "formula": "to + V1",
+   "ex": "He wants to ==buy== (buy) a new car."
+  },
+  {
+   "no": "V1·03",
+   "tag": "V1",
+   "name": "After Do / Does / Did",
+   "bn": "Negative বা Interrogative বাক্যে **do not, does not, did not** ব্যবহার হলে মূল verb সবসময় **V1** হয় — অতীত কালেও।",
+   "formula": "do / does / did (+ not) + V1",
+   "ex": "She did not ==call== (called ✗) me yesterday.",
+   "note": "did থাকলেই tense অতীত — মূল verb-কে আর অতীত করতে হয় না।"
+  },
+  {
+   "no": "V1·04",
+   "tag": "V1",
+   "name": "After Had better / Would rather",
+   "bn": "**Had better, had rather, would better, would rather, let, make, dare, need** — এদের পরে সরাসরি **V1** বসে।",
+   "formula": "had better / would rather / let / make + V1",
+   "ex": "You had better ==leave== (leave) the place."
+  },
+  {
+   "no": "V1·05",
+   "tag": "V1",
+   "name": "The special rule of ‘Lest’",
+   "bn": "বাক্যে **lest** (পাছে ভয় হয় যে) থাকলে তার পরের subject-এর সাথে **should / might** বসে, আর তারপর মূল verb-এর **V1** রূপ হয়।",
+   "formula": "lest + subject + should / might + V1",
+   "ex": "Walk fast lest you should ==miss== (miss) the train.",
+   "note": "Lest নিজেই নেতিবাচক — এর পরে আর ‘not’ বসে না।"
+  },
+  {
+   "no": "V1·06",
+   "tag": "V1",
+   "name": "At the start of an Imperative Sentence",
+   "bn": "আদেশ, উপদেশ বা অনুরোধমূলক বাক্য (**Imperative Sentence**) সবসময় verb-এর base form অর্থাৎ **V1** দিয়ে শুরু হয়।",
+   "formula": "(Please) + V1 + …",
+   "ex": "Please ==give== (give) me a pen."
+  },
+  {
+   "no": "V1·07",
+   "tag": "V1",
+   "name": "First Conditional — If + Present Indefinite",
+   "bn": "**If**-যুক্ত অংশটি Present Indefinite Tense-এ থাকলে অপর অংশে subject-এর পরে **shall / will / can / may** বসে এবং তারপর **V1** হয়।",
+   "formula": "If + sub + V1/V5 , sub + shall/will/can/may + V1",
+   "ex": "If you study hard, you will ==pass== (pass) the exam."
+  },
+  {
+   "no": "V1·08",
+   "tag": "V1",
+   "name": "Subjunctive Verbs — the most examined rule",
+   "bn": "**advise, demand, insist, command, recommend, suggest, request, order, propose** — এসব শব্দের পরে ‘**that**’ থাকলে পরবর্তী subject যাই হোক (এমনকি Third Person Singular হলেও) verb সবসময় **V1** থাকে। s/es যুক্ত হয় না, tense-ও বদলায় না।",
+   "formula": "suggest / demand / insist + that + sub + V1",
+   "ex": "The teacher suggested that Tasin ==study== (studies ✗ / studied ✗) regularly.",
+   "note": "এই নিয়মটি প্রতি বছরই আসে — এখানেই সবচেয়ে বেশি ভুল হয়।"
+  },
+  {
+   "no": "V1·09",
+   "tag": "V1",
+   "name": "After Cannot but / Could not but",
+   "bn": "অবাধ্যতা বা বাধ্যবাধকতা বোঝাতে **cannot but / could not but** থাকলে এর পরে সরাসরি **V1** বসে। কিন্তু **cannot help** থাকলে **V4** (verb + ing) হয়।",
+   "formula": "cannot but + V1  |  cannot help + V4",
+   "ex": "I cannot but ==laugh== (laugh) at his joke. — I cannot help ==laughing== at his joke."
+  },
+  {
+   "no": "V1·10",
+   "tag": "V1",
+   "name": "Unless / Provided that (the If-substitutes)",
+   "bn": "**Unless** (যদি না), **Provided that / In case** (এই শর্তে যে) — এগুলোও First Conditional-এর নিয়মই মানে। অপর অংশে subject-এর পরে will/can/may বসে, তারপর **V1**।",
+   "formula": "Unless + sub + V1/V5 , sub + will/can/may + V1",
+   "ex": "Unless you work hard, you will ==fail== (fail) in life.",
+   "note": "Unless-এর মধ্যেই ‘না’ আছে — এর পরে আর not বসবে না।"
+  },
+  {
+   "no": "V2·01",
+   "tag": "V2",
+   "name": "When a past-time marker is present",
+   "bn": "বাক্যে **yesterday, ago, long ago, last night, last week, once, in 1971** ইত্যাদি অতীত-নির্দেশক শব্দ থাকলে verb-এর **V2** রূপ হয়।",
+   "formula": "Past marker → V2",
+   "ex": "I ==received== (receive) your letter last night."
+  },
+  {
+   "no": "V2·02",
+   "tag": "V2",
+   "name": "It is high time / wish / fancy",
+   "bn": "**It is time, It is high time, wish, fancy** — এদের পরে subject থাকলে বন্ধনীর verb-টি **V2** হয়। (অর্থ বর্তমান হলেও রূপ অতীত।)",
+   "formula": "It is high time + sub + V2",
+   "ex": "It is high time we ==stood== (stand) against corruption."
+  },
+  {
+   "no": "V2·03",
+   "tag": "V2",
+   "name": "As if / As though — first part in Present",
+   "bn": "**As if / As though**-এর আগের অংশ Present Indefinite হলে পরের অংশ Past Indefinite অর্থাৎ **V2** হয়। Be verb হলে subject যাই হোক সবসময় **were** বসে।",
+   "formula": "Present + as if + sub + V2 / were",
+   "ex": "He speaks as if he ==knew== (know) everything."
+  },
+  {
+   "no": "V2·04",
+   "tag": "V2",
+   "name": "No sooner had… than / Scarcely had… when",
+   "bn": "**No sooner had… than, Scarcely had… when, Hardly had… before** — had-এর সাথে verb **V3** হলেও *than / when / before*-এর পরের অংশের verb সর্বদা **V2** হয়।",
+   "formula": "No sooner had + sub + V3 + than + sub + V2",
+   "ex": "No sooner had the thief seen the police than he ==ran== (run) away."
+  },
+  {
+   "no": "V2·05",
+   "tag": "V2",
+   "name": "Second Conditional — If + Past Indefinite",
+   "bn": "**If**-যুক্ত অংশটি Past Indefinite (**V2**) হলে অপর অংশে subject-এর পরে **would / could / might** বসে এবং তারপর **V1** হয়। এটি অবাস্তব বর্তমান কল্পনা বোঝায়।",
+   "formula": "If + sub + V2 , sub + would/could/might + V1",
+   "ex": "If he ==came== (come), I would go there."
+  },
+  {
+   "no": "V2·06",
+   "tag": "V2",
+   "name": "Since — first part in Present Tense",
+   "bn": "দুটি বাক্যাংশের মাঝে **since** থাকলে এবং আগের অংশ Present Indefinite বা Present Perfect হলে, পরের অংশের verb সর্বদা **V2** হয়।",
+   "formula": "Present / Present Perfect + since + sub + V2",
+   "ex": "It is many years since I ==visited== (visit) your house."
+  },
+  {
+   "no": "V2·07",
+   "tag": "V2",
+   "name": "Before and After — the Past Indefinite half",
+   "bn": "অতীতের দুটি কাজের ক্ষেত্রে **before**-এর পরের অংশ এবং **after**-এর আগের অংশ সর্বদা Past Indefinite অর্থাৎ **V2** হয়। (অন্য অংশটি হয় had + V3।)",
+   "formula": "had + V3 + before + sub + V2   |   After + sub + V2 …",
+   "ex": "The train had left before we ==reached== (reach) the station."
+  },
+  {
+   "no": "V2·08",
+   "tag": "V2",
+   "name": "‘If I were’ — the unreal wish",
+   "bn": "**If**-যুক্ত বাক্যে subject-এর পরে be verb থাকলে subject যাই হোক সর্বদা **were** বসে। এটি অবাস্তব কল্পনা বোঝায়।",
+   "formula": "If + I / he / she + were …",
+   "ex": "If I ==were== (be) a bird, I would fly in the sky.",
+   "note": "‘If I was’ লেখা এখানে ভুল — মনে রাখো: was নয়, were।"
+  },
+  {
+   "no": "V3·01",
+   "tag": "V3",
+   "name": "In every Perfect Tense",
+   "bn": "**Have, has, had, shall have, will have** — এদের ঠিক পরে মূল verb-এর সর্বদা **V3** রূপ বসে।",
+   "formula": "have / has / had + V3",
+   "ex": "She has ==cooked== (cook) dinner for us."
+  },
+  {
+   "no": "V3·02",
+   "tag": "V3",
+   "name": "In the Passive Voice",
+   "bn": "যেকোনো Passive বাক্যে সাহায্যকারী be-verb (am, is, are, was, were, been, being)-এর পরে মূল verb সবসময় **V3** হয়।",
+   "formula": "be verb + V3 (+ by …)",
+   "ex": "The book was ==written== (write) by Nazrul."
+  },
+  {
+   "no": "V3·03",
+   "tag": "V3",
+   "name": "After Having / To be / Being / Getting",
+   "bn": "বাক্যে **Having, to be, being, getting** থাকলে এদের ঠিক পরের মূল verb-টি চোখ বন্ধ করে **V3** বসাতে হবে।",
+   "formula": "Having / being / getting + V3",
+   "ex": "==Having taken== (take) the decision, he left the room."
+  },
+  {
+   "no": "V3·04",
+   "tag": "V3",
+   "name": "With just, already, recently, lately, yet, ever",
+   "bn": "বাক্যে **just, just now, already, yet, ever, lately, recently** থাকলে subject-এর পরে have/has বসে এবং মূল verb **V3** হয় (Present Perfect Tense)।",
+   "formula": "have / has + already / just + V3",
+   "ex": "I have ==received== (receive) the letter just now."
+  },
+  {
+   "no": "V3·05",
+   "tag": "V3",
+   "name": "Third Conditional — would have / could have",
+   "bn": "বাক্যে **would have, could have, might have** থাকলে এদের ঠিক পরের মূল verb সর্বদা **V3** হয়। এটি অতীতের অবাস্তব কল্পনা।",
+   "formula": "If + sub + had + V3 , sub + would have + V3",
+   "ex": "If you had studied, you would have ==passed== (pass) the exam."
+  },
+  {
+   "no": "V3·06",
+   "tag": "V3",
+   "name": "Since — first part in Past Indefinite",
+   "bn": "**Since**-এর আগের অংশ Past Indefinite (**V2**) হলে পরের অংশটি Past Perfect হয়, অর্থাৎ **had + V3** বসে।",
+   "formula": "Past Indefinite + since + sub + had + V3",
+   "ex": "It was many years since we had ==met== (meet) last.",
+   "note": "Since-এর দুটি নিয়ম উল্টো: আগের অংশ Present → পরে V2; আগের অংশ Past → পরে had + V3।"
+  },
+  {
+   "no": "V3·07",
+   "tag": "V3",
+   "name": "As if / As though — first part in Past",
+   "bn": "**As if / As though**-এর আগের অংশ Past Indefinite (**V2**) হলে পরের অংশ Past Perfect হয় — subject-এর পরে **had** বসে এবং verb **V3** হয়।",
+   "formula": "Past + as if + sub + had + V3",
+   "ex": "He spoke as if he had ==known== (know) everything."
+  },
+  {
+   "no": "V3·08",
+   "tag": "V3",
+   "name": "A sentence beginning with ‘Had’",
+   "bn": "Conditional বাক্যের শুরুতে **If**-এর বদলে **Had** বসে Third Conditional-এর অর্থ প্রকাশ করে। এক্ষেত্রে Had-এর পরে subject, তারপর verb-এর **V3** রূপ বসে।",
+   "formula": "Had + sub + V3 , sub + would have + V3",
+   "ex": "Had I ==known== (know) it earlier, I would have solved the problem."
+  },
+  {
+   "no": "V4·01",
+   "tag": "V4",
+   "name": "A Verb at the very start, acting as Subject",
+   "bn": "কোনো বাক্য সরাসরি verb দিয়ে শুরু হলে এবং সেটি বাক্যের **subject/কর্তা** হিসেবে কাজ করলে verb-এর সাথে **ing** যুক্ত করে **V4 (Gerund)** লিখতে হয়।",
+   "formula": "V + ing + singular verb …",
+   "ex": "==Walking== (walk) is a good exercise for health.",
+   "note": "Imperative-এর সাথে গুলিয়ো না — সেখানে V1 (Walk fast.)। Subject হলে তবেই V4।"
+  },
+  {
+   "no": "V4·02",
+   "tag": "V4",
+   "name": "In every Continuous Tense",
+   "bn": "Active Voice-এ যেকোনো Continuous Tense-এ **am, is, are, was, were** -এর পরে মূল verb-এর সাথে **ing** যুক্ত হয়।",
+   "formula": "am / is / are / was / were + V4",
+   "ex": "The students are ==studying== (study) in the classroom."
+  },
+  {
+   "no": "V4·03",
+   "tag": "V4",
+   "name": "After every Preposition except ‘to’",
+   "bn": "‘to’ ছাড়া বাকি সব preposition (**in, on, at, for, of, after, before, from, with**) -এর পরে verb এলে তার সাথে **ing** যোগ হয়।",
+   "formula": "Preposition + V4",
+   "ex": "He was punished for ==coming== (come) late."
+  },
+  {
+   "no": "V4·04",
+   "tag": "V4",
+   "name": "After some special phrases",
+   "bn": "**With a view to, look forward to, get used to, be accustomed to, cannot help, mind, worth** — এদের পরে সর্বদা **V4** বসে। (লক্ষ করো: এখানকার ‘to’ preposition, infinitive নয়।)",
+   "formula": "look forward to / with a view to + V4",
+   "ex": "I am looking forward to ==receiving== (receive) your call.",
+   "note": "‘look forward to receive’ লেখা সবচেয়ে সাধারণ ভুল।"
+  },
+  {
+   "no": "V4·05",
+   "tag": "V4",
+   "name": "Right after ‘While’",
+   "bn": "**While**-এর ঠিক পরেই যদি বন্ধনীতে কোনো verb থাকে (subject না থাকে), তবে তার সাথে **ing** যোগ হয়।",
+   "formula": "While + V4 , … ",
+   "ex": "While ==walking== (walk) in the garden, a snake bit him."
+  },
+  {
+   "no": "V4·06",
+   "tag": "V4",
+   "name": "After Would you mind / stop / start / enjoy",
+   "bn": "**Would you mind, stop, start, begin, enjoy, avoid, finish** — এই শব্দগুলোর ঠিক পরে verb এলে তার সাথে **ing** যুক্ত হয়।",
+   "formula": "mind / stop / enjoy + V4",
+   "ex": "Would you mind ==opening== (open) the door?"
+  },
+  {
+   "no": "V4·07",
+   "tag": "V4",
+   "name": "After By and Without",
+   "bn": "**By** (দ্বারা) বা **Without** (ছাড়া) -এর ঠিক পরে বন্ধনীতে verb থাকলে চোখ বন্ধ করে **ing** যুক্ত করে দাও।",
+   "formula": "by / without + V4",
+   "ex": "By ==reading== (read) more, you can learn more."
+  },
+  {
+   "no": "V4·08",
+   "tag": "V4",
+   "name": "Two verbs in one Simple Sentence",
+   "bn": "একটি সাধারণ Simple Sentence-এ দুটি মূল verb থাকলে দ্বিতীয় verb-টির সাথে সাধারণত **ing** যুক্ত হয়।",
+   "formula": "sub + V + object + V4",
+   "ex": "I saw the bird ==flying== (fly) in the sky."
+  },
+  {
+   "no": "V4·09",
+   "tag": "V4",
+   "name": "After a Possessive Adjective",
+   "bn": "**my, our, your, his, her, their** — এসব Possessive Adjective-এর ঠিক পরে verb বসলে তার সাথে **ing** যুক্ত করতে হয়।",
+   "formula": "his / her / their + V4",
+   "ex": "I insisted on his ==going== (go) there."
+  },
+  {
+   "no": "V4·10",
+   "tag": "V4",
+   "name": "After How about / What about",
+   "bn": "কাউকে প্রস্তাব দিতে বা মতামত জানতে **How about / What about** ব্যবহার করা হলে এর ঠিক পরের verb-টির সাথে **ing** যুক্ত হয়।",
+   "formula": "How about / What about + V4",
+   "ex": "How about ==taking== (take) a cup of tea?"
+  },
+  {
+   "no": "V5·01",
+   "tag": "V5",
+   "name": "Present Indefinite + Third Person Singular",
+   "bn": "বাক্যটি Present Indefinite Tense হলে এবং subject **Third Person Singular Number** হলে verb-এর শেষে **s / es** যুক্ত হয়।",
+   "formula": "He / She / It / Name + V1 + s/es",
+   "ex": "Tasin ==runs== (run) the academy successfully."
+  },
+  {
+   "no": "V5·02",
+   "tag": "V5",
+   "name": "Universal Truth &amp; Habitual Fact",
+   "bn": "চিরন্তন সত্য বা অভ্যাসগত কাজ সর্বদা **Present Indefinite** Tense-এ লেখা হয়; subject Third Person Singular হলে **V5**।",
+   "formula": "Universal truth → Present Indefinite",
+   "ex": "The earth ==moves== (move) round the sun.",
+   "note": "অতীতে লেখা গল্পের মধ্যেও চিরন্তন সত্য Present-এই থাকে।"
+  },
+  {
+   "no": "V5·03",
+   "tag": "V5",
+   "name": "After Each, Every, One, No one, Everyone",
+   "bn": "বাক্যের শুরুতে **Each, Every, Everyone, Everybody, Someone, Anyone, No one, Nobody** থাকলে এদের পরে **Singular Verb** বসে।",
+   "formula": "Everybody / Each / No one + V5",
+   "ex": "Everybody ==loves== (love) an honest man."
+  },
+  {
+   "no": "V5·04",
+   "tag": "V5",
+   "name": "With always, regularly, sometimes, often",
+   "bn": "বাক্যে **always, regularly, sometimes, often, usually, generally, every day** থাকলে বাক্যটি Present Indefinite হয়; subject Third Person Singular হলে **V5**।",
+   "formula": "always / often + V5",
+   "ex": "He always ==speaks== (speak) the truth."
+  },
+  {
+   "no": "V5·05",
+   "tag": "V5",
+   "name": "Uncountable Noun as Subject",
+   "bn": "**Water, milk, air, information, knowledge, scenery, furniture, advice** — এসব Uncountable Noun subject হলে verb singular হয়, অর্থাৎ **V5**।",
+   "formula": "Uncountable noun + V5",
+   "ex": "Water ==flows== (flow) downwards."
+  },
+  {
+   "no": "V5·06",
+   "tag": "V5",
+   "name": "Time, Distance or Money as Subject",
+   "bn": "সময়, দূরত্ব বা অর্থের পরিমাণ দেখতে বহুবচন মনে হলেও এরা **একক সত্তা** হিসেবে কাজ করে; তাই এদের পরে singular verb বসে।",
+   "formula": "Fifty miles / Ten years / Ten taka + V5",
+   "ex": "Fifty miles ==seems== (seem) a long distance."
+  },
+  {
+   "no": "V5·07",
+   "tag": "V5",
+   "name": "Names of books, subjects and diseases",
+   "bn": "কিছু Noun-এর শেষে ‘s’ থাকলেও এরা একটি একক নাম বোঝায় — যেমন **Mathematics, Physics, Economics, News, Measles**। এরা subject হলে verb-এর সাথে **s/es** যুক্ত হয়।",
+   "formula": "Mathematics / News / Physics + V5",
+   "ex": "The news ==makes== (make) him happy."
+  },
+  {
+   "no": "V5·08",
+   "tag": "V5",
+   "name": "Collective Noun acting as one body",
+   "bn": "**Class, committee, jury, team, family, government** — এই Collective Noun গুলো যদি একত্রে একটি অবিভক্ত দল হিসেবে কাজ করে, তবে এদের পরে **Singular Verb** বসে।",
+   "formula": "Team / Committee / Jury + V5",
+   "ex": "Our team ==plays== (play) very well today."
+  },
+  {
+   "no": "V5·09",
+   "tag": "V5",
+   "name": "The special rule of ‘Many a’",
+   "bn": "শুধু **Many**-এর পরে Plural verb বসলেও, বাক্যে **Many a** থাকলে তার পরের Noun এবং Verb — দুটিই **Singular** হয়।",
+   "formula": "Many a + singular noun + V5",
+   "ex": "Many a boy ==ruins== (ruin) his career through laziness.",
+   "note": "Many boys ruin ✓ | Many a boy ruins ✓ | Many a boys ruin ✗"
+  },
+  {
+   "no": "V5·10",
+   "tag": "V5",
+   "name": "Zero Conditional — scientific truth",
+   "bn": "**If**-যুক্ত বাক্যটি যদি কোনো চিরন্তন সত্য বা নিশ্চিত ফলাফল বোঝায়, তবে বাক্যের **দুই অংশই Present Indefinite** হয় (কোনো will বসে না)।",
+   "formula": "If + sub + V1/V5 , sub + V1/V5",
+   "ex": "If you heat ice, it ==melts== (melt)."
+  }
+ ],
+ "boardQ": {
+  "instruction": "Complete the text with the right forms of the verbs in the brackets. — বন্ধনীর verb-গুলোর সঠিক রূপ দিয়ে অনুচ্ছেদটি পূরণ করো। (0.5×10 = 5)",
+  "text": "Man (a) ___ (be) the best creation of God. He (b) ___ (endow) with intellect and conscience. Nowadays science (c) ___ (make) our life easy and comfortable. If we (d) ___ (use) it properly, it will bring us blessings. But many a man (e) ___ (misuse) it for his own interest. It is high time we (f) ___ (stop) its misuse. We should (g) ___ (raise) our voice against it. While (h) ___ (work), we must be careful about it. The scientists have already (i) ___ (warn) us. Had we been careful before, we would have (j) ___ (prevent) the danger.",
+  "items": [
+   {
+    "ans": "is",
+    "why": "Subject ‘Man’ Third Person Singular এবং এটি চিরন্তন সত্য → Present Indefinite, তাই **is**. (নিয়ম V5·02)"
+   },
+   {
+    "ans": "is endowed",
+    "why": "‘He’ নিজে কাজটি করেনি, তার উপর করা হয়েছে → Passive Voice: be verb + V3. (নিয়ম V3·02)"
+   },
+   {
+    "ans": "makes",
+    "why": "‘Nowadays’ বর্তমানের অভ্যাসগত সত্য বোঝাচ্ছে এবং subject ‘science’ singular → **V5**. (নিয়ম V5·04)"
+   },
+   {
+    "ans": "use",
+    "why": "First Conditional: If + Present Indefinite, অপর অংশে ‘will bring’ আছে → **V1**. (নিয়ম V1·07)"
+   },
+   {
+    "ans": "misuses",
+    "why": "‘Many a’ থাকলে noun ও verb দুটিই singular হয় → **V5**. (নিয়ম V5·09)"
+   },
+   {
+    "ans": "stopped",
+    "why": "‘It is high time’-এর পরে subject থাকলে verb সর্বদা **V2**. (নিয়ম V2·02)"
+   },
+   {
+    "ans": "raise",
+    "why": "Modal auxiliary ‘should’-এর পরে সর্বদা **V1**. (নিয়ম V1·01)"
+   },
+   {
+    "ans": "working",
+    "why": "‘While’-এর ঠিক পরে subject নেই, সরাসরি verb → **V4** (verb + ing). (নিয়ম V4·05)"
+   },
+   {
+    "ans": "warned",
+    "why": "‘have already’ আছে → Present Perfect, তাই **V3**. (নিয়ম V3·04)"
+   },
+   {
+    "ans": "prevented",
+    "why": "‘would have’-এর ঠিক পরে সর্বদা **V3** — Third Conditional. (নিয়ম V3·05)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — V1 না V5?",
+   "intro": "প্রথমে শিক্ষার্থীদের বলতে দাও কোন form বসবে ও কেন — তারপর **R** চেপে উত্তর দেখাও।",
+   "items": [
+    {
+     "q": "Everybody ___ (know) the importance of time.",
+     "ans": "knows",
+     "why": "Everybody-এর পরে সবসময় singular verb → V5. (নিয়ম V5·03)"
+    },
+    {
+     "q": "The doctor advised that he ___ (take) rest.",
+     "ans": "take",
+     "why": "advise + that → Subjunctive, verb সবসময় V1; ‘takes’ লেখা ভুল। (নিয়ম V1·08)"
+    },
+    {
+     "q": "You had better ___ (consult) a doctor.",
+     "ans": "consult",
+     "why": "had better-এর পরে সরাসরি V1. (নিয়ম V1·04)"
+    },
+    {
+     "q": "Physics ___ (be) my favourite subject.",
+     "ans": "is",
+     "why": "শেষে ‘s’ থাকলেও Physics একটি একক বিষয়ের নাম → singular verb. (নিয়ম V5·07)"
+    },
+    {
+     "q": "Read attentively lest you ___ (fail) in the exam.",
+     "ans": "should fail",
+     "why": "lest + subject + should/might + V1. (নিয়ম V1·05)"
+    },
+    {
+     "q": "Ten miles ___ (be) not a short distance.",
+     "ans": "is",
+     "why": "দূরত্ব একক সত্তা হিসেবে কাজ করে → singular verb. (নিয়ম V5·06)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — V2 না V3?",
+   "intro": "সংকেত-শব্দ (signal word) খুঁজে বের করাই এখানে আসল কাজ।",
+   "items": [
+    {
+     "q": "It is high time we ___ (change) our habit.",
+     "ans": "changed",
+     "why": "It is high time + subject → V2. (নিয়ম V2·02)"
+    },
+    {
+     "q": "No sooner had he arrived than the meeting ___ (begin).",
+     "ans": "began",
+     "why": "than-এর পরের অংশ সর্বদা V2. (নিয়ম V2·04)"
+    },
+    {
+     "q": "He talks as if he ___ (be) a king.",
+     "ans": "were",
+     "why": "as if-এর আগের অংশ Present, be verb হলে সর্বদা were. (নিয়ম V2·03)"
+    },
+    {
+     "q": "It is two years since I ___ (meet) him.",
+     "ans": "met",
+     "why": "since-এর আগের অংশ Present → পরের অংশ V2. (নিয়ম V2·06)"
+    },
+    {
+     "q": "He spoke as if he ___ (see) the ghost.",
+     "ans": "had seen",
+     "why": "as if-এর আগের অংশ Past → পরের অংশ had + V3. (নিয়ম V3·07)"
+    },
+    {
+     "q": "Had I ___ (be) rich, I would have helped the poor.",
+     "ans": "been",
+     "why": "Had দিয়ে শুরু হওয়া Conditional-এ Had + subject + V3. (নিয়ম V3·08)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 3 — V4 ও মিশ্র নিয়ম",
+   "intro": "এই সেটে পাঁচটি আলাদা নিয়ম মেশানো আছে — প্রতিটির নাম বলতে পারলে বুঝবে প্রস্তুতি পাকা।",
+   "items": [
+    {
+     "q": "I am looking forward to ___ (hear) from you.",
+     "ans": "hearing",
+     "why": "look forward to-এর ‘to’ preposition, তাই V4. (নিয়ম V4·04)"
+    },
+    {
+     "q": "___ (swim) is a good exercise.",
+     "ans": "Swimming",
+     "why": "বাক্যের শুরুতে verb subject হিসেবে কাজ করছে → V4 (Gerund). (নিয়ম V4·01)"
+    },
+    {
+     "q": "He was punished for ___ (tell) a lie.",
+     "ans": "telling",
+     "why": "‘to’ ছাড়া যেকোনো preposition-এর পরে V4. (নিয়ম V4·03)"
+    },
+    {
+     "q": "Would you mind ___ (open) the window?",
+     "ans": "opening",
+     "why": "Would you mind-এর পরে সর্বদা V4. (নিয়ম V4·06)"
+    },
+    {
+     "q": "If you ___ (heat) water, it boils.",
+     "ans": "heat",
+     "why": "Zero Conditional — চিরন্তন সত্য, দুই অংশই Present Indefinite. (নিয়ম V5·10)"
+    },
+    {
+     "q": "Having ___ (finish) the work, he went home.",
+     "ans": "finished",
+     "why": "Having-এর পরে সর্বদা V3. (নিয়ম V3·03)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "The Five Forms <span class='sub'>— Verb-এর ৫টি রূপ এক নজরে</span>",
+   "key": "Five Forms",
+   "table": {
+    "headers": [
+     "Form",
+     "What it is",
+     "বাংলা",
+     "go",
+     "play",
+     "eat"
+    ],
+    "rows": [
+     [
+      "V1",
+      "Base / Present form",
+      "@মূল রূপ",
+      "go",
+      "play",
+      "eat"
+     ],
+     [
+      "V2",
+      "Past form",
+      "@অতীত রূপ",
+      "went",
+      "played",
+      "ate"
+     ],
+     [
+      "V3",
+      "Past Participle",
+      "@অতীত কৃদন্ত",
+      "gone",
+      "played",
+      "eaten"
+     ],
+     [
+      "V4",
+      "Present Participle / Gerund (V1+ing)",
+      "@চলমান রূপ",
+      "going",
+      "playing",
+      "eating"
+     ],
+     [
+      "V5",
+      "Singular form (V1+s/es)",
+      "@একবচন রূপ",
+      "goes",
+      "plays",
+      "eats"
+     ]
+    ]
+   },
+   "note": "প্রশ্নে verb দেওয়া থাকে V1 আকারে — তোমার কাজ শুধু সংকেত দেখে ঠিক রূপটি বসানো।"
+  },
+  {
+   "title": "Signal Word → Form <span class='sub'>— সংকেত দেখেই উত্তর (সবচেয়ে দরকারি ছক)</span>",
+   "key": "Signal Chart",
+   "table": {
+    "headers": [
+     "যা দেখবে (signal)",
+     "যা বসাবে",
+     "উদাহরণ"
+    ],
+    "rows": [
+     [
+      "Modal (can, should, must, would)",
+      "@V1",
+      "should go"
+     ],
+     [
+      "to (infinitive), do/does/did, let, make",
+      "@V1",
+      "to go, did not go"
+     ],
+     [
+      "advise / suggest / demand + that",
+      "@V1",
+      "suggested that he go"
+     ],
+     [
+      "lest + sub",
+      "@should / might + V1",
+      "lest he should fail"
+     ],
+     [
+      "yesterday, ago, last night, in 1971",
+      "@V2",
+      "went"
+     ],
+     [
+      "It is high time / wish / fancy",
+      "@V2",
+      "It is high time we went"
+     ],
+     [
+      "as if (আগের অংশ Present)",
+      "@V2 / were",
+      "as if he knew"
+     ],
+     [
+      "have / has / had",
+      "@V3",
+      "has gone"
+     ],
+     [
+      "be verb (Passive)",
+      "@V3",
+      "was written"
+     ],
+     [
+      "Having / being / getting",
+      "@V3",
+      "having taken"
+     ],
+     [
+      "already, just, yet, recently",
+      "@have/has + V3",
+      "have just come"
+     ],
+     [
+      "would have / could have / had + sub",
+      "@V3",
+      "would have passed"
+     ],
+     [
+      "am / is / are / was / were (Active)",
+      "@V4",
+      "is going"
+     ],
+     [
+      "Preposition ছাড়া ‘to’ (in, for, by, without, while)",
+      "@V4",
+      "by reading"
+     ],
+     [
+      "look forward to, mind, worth, cannot help",
+      "@V4",
+      "mind opening"
+     ],
+     [
+      "3rd person singular + Present",
+      "@V5",
+      "he goes"
+     ],
+     [
+      "Each, Every, Everybody, Many a",
+      "@V5",
+      "Many a boy ruins"
+     ],
+     [
+      "Universal truth / Zero conditional",
+      "@V5",
+      "The sun rises"
+     ]
+    ]
+   },
+   "note": "**এই একটি ছক মুখস্থ থাকলে ১০টি খালিঘরের ৮টি নিশ্চিত।** পরীক্ষার হলে প্রথমেই signal word-টি গোল দাগ দাও।"
+  },
+  {
+   "title": "Confusing Pairs <span class='sub'>— যে জোড়াগুলোতে সবাই ভুল করে</span>",
+   "key": "Traps",
+   "table": {
+    "headers": [
+     "✗ ভুল",
+     "✓ সঠিক",
+     "কারণ"
+    ],
+    "rows": [
+     [
+      "He suggested that she goes.",
+      "He suggested that she ==go==.",
+      "@Subjunctive — s/es বসে না"
+     ],
+     [
+      "I look forward to meet you.",
+      "I look forward to ==meeting== you.",
+      "@এখানে ‘to’ preposition, তাই V4"
+     ],
+     [
+      "She did not called me.",
+      "She did not ==call== me.",
+      "@did থাকলে মূল verb V1"
+     ],
+     [
+      "If I was a bird…",
+      "If I ==were== a bird…",
+      "@অবাস্তব কল্পনায় সর্বদা were"
+     ],
+     [
+      "Many a boys ruin…",
+      "Many a ==boy ruins==…",
+      "@Many a + singular noun + singular verb"
+     ],
+     [
+      "Unless you do not work…",
+      "==Unless you work==…",
+      "@Unless-এর মধ্যেই ‘না’ আছে"
+     ],
+     [
+      "Lest he should not fail",
+      "==Lest he should fail==",
+      "@Lest নিজেই নেতিবাচক"
+     ],
+     [
+      "I cannot but laughing.",
+      "I cannot but ==laugh==. / cannot help ==laughing==.",
+      "@but → V1, help → V4"
+     ]
+    ]
+   },
+   "note": "এই ৮টি জোড়া আলাদা করে খাতায় লিখে রাখো — বোর্ড পরীক্ষায় এখান থেকেই ফাঁদ পাতা হয়।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🔍",
+   "t": "Signal word first, verb later",
+   "d": "বন্ধনীর verb-এর দিকে নয়, আগে তার আশপাশের **সংকেত-শব্দ** দেখো — modal, have/has, already, while, if, since। উত্তর ওখানেই লেখা আছে।"
+  },
+  {
+   "em": "⏰",
+   "t": "Read the whole sentence, not the blank",
+   "d": "অনেক সময় সংকেত থাকে বাক্যের অন্য প্রান্তে (‘…, it **will** bring us blessings’ দেখে বোঝা যায় শুরুতে V1 বসবে)।"
+  },
+  {
+   "em": "⚠️",
+   "t": "did / does + V1 — always",
+   "type": "warn",
+   "d": "‘did not called’, ‘does not goes’ — এই ভুল প্রতি বছর হাজারো খাতায় পাওয়া যায়। **did/does নিজেই tense বহন করে।**"
+  },
+  {
+   "em": "🎭",
+   "t": "Two ‘to’s are not the same",
+   "type": "warn",
+   "d": "**to + V1** (infinitive: want to go) কিন্তু **look forward to / with a view to / used to (অভ্যস্ত) + V4**. ‘to’ দেখেই V1 বসিয়ো না।"
+  },
+  {
+   "em": "🔄",
+   "t": "Since-এর উল্টো জোড়া",
+   "type": "ok",
+   "d": "আগের অংশ **Present → পরে V2**; আগের অংশ **Past → পরে had + V3**. একই কথা as if / as though-এর ক্ষেত্রেও।"
+  },
+  {
+   "em": "✅",
+   "t": "Subjunctive = no s, no tense change",
+   "type": "ok",
+   "d": "suggest / advise / demand / insist / recommend + that → verb সবসময় **base form**. এটি এক নম্বর নিশ্চিত নম্বর।"
+  },
+  {
+   "em": "📝",
+   "t": "Write the full form, not just the ending",
+   "d": "উত্তরে ‘s’ বা ‘ing’ নয়, **সম্পূর্ণ শব্দটি** লেখো — ‘goes’, ‘going’, ‘had gone’। অর্ধেক লিখলে নম্বর নেই।"
+  },
+  {
+   "em": "⏱️",
+   "t": "Time budget: 4 minutes",
+   "d": "১০টি খালিঘর ৪ মিনিটে শেষ করার লক্ষ্য রাখো। আটকে গেলে দাগ দিয়ে এগিয়ে যাও, শেষে ফিরে এসো।"
+  }
+ ],
+ "recap": [
+  "Verb-এর ৫টি রূপ: V1 (base), V2 (past), V3 (past participle), V4 (+ing), V5 (+s/es)।",
+  "V1-এর প্রধান সংকেত: modal, to, do/does/did, had better, lest, imperative, subjunctive (that)।",
+  "V2-এর প্রধান সংকেত: অতীত-নির্দেশক শব্দ, It is high time, as if (Present আগে), since (Present আগে)।",
+  "V3-এর প্রধান সংকেত: have/has/had, passive be-verb, having, already/just, would have, Had + sub।",
+  "V4-এর প্রধান সংকেত: continuous tense, preposition (to ছাড়া), while, mind/stop/enjoy, by/without।",
+  "V5-এর প্রধান সংকেত: 3rd person singular, universal truth, Everybody/Each/Many a, uncountable noun।"
+ ],
+ "homework": [
+  "‘Signal Word → Form’ ছকটি (১৮টি সারি) খাতায় লিখে মুখস্থ করবে।",
+  "‘Confusing Pairs’-এর ৮টি ভুল-সঠিক জোড়া লিখে আনবে।",
+  "বোর্ড প্রশ্নটি না দেখে আবার সমাধান করে আনবে এবং প্রতিটির পাশে নিয়মের নম্বর লিখবে।",
+  "৪৬টি নিয়ম থেকে নিজে ১০টি নতুন উদাহরণ বাক্য তৈরি করবে।"
+ ],
+ "paper": "paper2"
+}

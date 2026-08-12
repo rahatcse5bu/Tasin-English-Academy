@@ -1,0 +1,1907 @@
+{
+  "unit": {
+    "id": "u7",
+    "number": 7,
+    "title": "Occupations at Risk",
+    "bangla_title": "ঝুঁকিপূর্ণ পেশা",
+    "lessons": [
+      {
+        "id": "u7l1",
+        "unit": 7,
+        "unit_title": "Occupations at Risk",
+        "number": 1,
+        "title": "Pearls! Pearls! Pearls!",
+        "keywords": [
+          "mythology",
+          "ancient",
+          "dissolved",
+          "status",
+          "unparalleled",
+          "association",
+          "delicate"
+        ],
+        "learn_line": "The long history of the pearl and why people in ancient times valued it so highly.",
+        "minutes": 10,
+        "warmup": [
+          "Have you ever seen a pearl? Where do pearls come from?",
+          "Why do you think people value pearls and other gems?",
+          "Which ancient civilisations have you heard of?",
+          "Why might a precious gem be a sign of wealth or status?"
+        ],
+        "reading": {
+          "summary_en": "This lesson tells the long history of the pearl. The first pearl was probably discovered thousands of years ago while human beings were searching for food at the seashore, and throughout history the pearl, with its shine, has been one of the most highly valued gems. Pearls are mentioned many times in religious texts and mythologies from the earliest times. The ancient Egyptians valued pearls so much that they were buried with them, and it is said that the famous queen Cleopatra would dissolve a pearl in a glass and drink it as a sign of love and respect for the whole nation. The Greeks thought of pearls as a sign of wealth and social position, and associated their beauty with love and marriage. In ancient Rome, pearls were considered the greatest sign of wealth and social status; young women of noble families loved to wear beautiful pearl necklaces, and brave knights used to wear them in battles for good luck.",
+          "gist_bn": "এই পাঠে মুক্তার দীর্ঘ ইতিহাস বলা হয়েছে। হাজার বছর আগে সমুদ্রতীরে খাবার খুঁজতে গিয়ে প্রথম মুক্তা আবিষ্কৃত হয়; এর উজ্জ্বলতার জন্য এটি চিরকাল মূল্যবান রত্ন। ধর্মগ্রন্থ ও পুরাণে বহুবার মুক্তার উল্লেখ আছে। প্রাচীন মিশরীয়রা মুক্তাকে এত মূল্য দিত যে মৃতদেহের সঙ্গে কবর দিত; রানি ক্লিওপেট্রা নাকি গ্লাসে মুক্তা গলিয়ে পান করতেন। গ্রিকদের কাছে মুক্তা ছিল ধন ও সামাজিক মর্যাদার চিহ্ন, ভালোবাসা-বিয়ের সঙ্গে যুক্ত। প্রাচীন রোমে মুক্তা ছিল ধন-মর্যাদার সর্বোচ্চ চিহ্ন; অভিজাত নারীরা মুক্তার মালা পরত, আর সাহসী যোদ্ধারা যুদ্ধে সৌভাগ্যের জন্য পরত।",
+          "book_page": 81
+        },
+        "vocab": [
+          {
+            "word": "mythology",
+            "pos": "noun",
+            "bangla": "পুরাণ / উপকথা",
+            "synonym": "legends, folklore",
+            "antonym": "fact",
+            "meaning_en": "old traditional stories of a people",
+            "example": "Pearls appear in many mythologies."
+          },
+          {
+            "word": "ancient",
+            "pos": "adj",
+            "bangla": "প্রাচীন",
+            "synonym": "old, antique",
+            "antonym": "modern, recent",
+            "meaning_en": "belonging to the very distant past",
+            "example": "The ancient Egyptians valued pearls."
+          },
+          {
+            "word": "dissolve",
+            "pos": "verb",
+            "bangla": "দ্রবীভূত করা / গলানো",
+            "synonym": "melt",
+            "antonym": "solidify",
+            "meaning_en": "to make a solid mix into a liquid",
+            "example": "Cleopatra would dissolve a pearl in a glass."
+          },
+          {
+            "word": "status",
+            "pos": "noun",
+            "bangla": "মর্যাদা / অবস্থান",
+            "synonym": "position, rank",
+            "antonym": "—",
+            "meaning_en": "a person's social or professional position",
+            "example": "Pearls were a sign of social status."
+          },
+          {
+            "word": "unparalleled",
+            "pos": "adj",
+            "bangla": "অতুলনীয়",
+            "synonym": "unmatched, unique",
+            "antonym": "ordinary",
+            "meaning_en": "having no equal; beyond compare",
+            "example": "The pearl has an unparalleled shine."
+          },
+          {
+            "word": "association",
+            "pos": "noun",
+            "bangla": "সংযোগ / সাহচর্য",
+            "synonym": "connection, link",
+            "antonym": "—",
+            "meaning_en": "a connection in the mind between things",
+            "example": "Pearls had an association with love and marriage."
+          },
+          {
+            "word": "delicate",
+            "pos": "adj",
+            "bangla": "সূক্ষ্ম / নাজুক",
+            "synonym": "fine, fragile",
+            "antonym": "tough, coarse",
+            "meaning_en": "fine, soft and easily damaged",
+            "example": "Pearls are delicate and beautiful."
+          },
+          {
+            "word": "gem",
+            "pos": "noun",
+            "bangla": "রত্ন",
+            "synonym": "jewel, precious stone",
+            "antonym": "—",
+            "meaning_en": "a precious stone used in jewellery",
+            "example": "The pearl is a highly valued gem."
+          },
+          {
+            "word": "valued",
+            "pos": "verb (past)",
+            "bangla": "মূল্য দেওয়া হতো",
+            "synonym": "prized, treasured",
+            "antonym": "ignored",
+            "meaning_en": "considered important or precious",
+            "example": "The pearl has been highly valued."
+          },
+          {
+            "word": "noble",
+            "pos": "adj",
+            "bangla": "অভিজাত",
+            "synonym": "aristocratic, high-born",
+            "antonym": "common, lowly",
+            "meaning_en": "of high social rank",
+            "example": "Young women of noble families wore pearls."
+          },
+          {
+            "word": "knight",
+            "pos": "noun",
+            "bangla": "নাইট / যোদ্ধা-বীর",
+            "synonym": "warrior",
+            "antonym": "—",
+            "meaning_en": "a brave armed soldier in former times",
+            "example": "Brave knights wore pearls in battle."
+          },
+          {
+            "word": "religious",
+            "pos": "adj",
+            "bangla": "ধর্মীয়",
+            "synonym": "sacred, holy",
+            "antonym": "secular",
+            "meaning_en": "relating to religion",
+            "example": "Pearls are mentioned in religious texts."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "How was the first pearl probably discovered?",
+            "options": [
+              "in a jewellery shop",
+              "while searching for food at the seashore",
+              "in a king's palace",
+              "in a mine"
+            ],
+            "answer_index": 1,
+            "explain": "It was probably found while people searched for food at the seashore."
+          },
+          {
+            "q": "Why has the pearl been highly valued throughout history?",
+            "options": [
+              "it is cheap",
+              "for its shine and beauty",
+              "it is easy to find",
+              "it is large"
+            ],
+            "answer_index": 1,
+            "explain": "Its shine has made it one of the most valued gems."
+          },
+          {
+            "q": "The ancient Egyptians valued pearls so much that they —",
+            "options": [
+              "sold them all",
+              "were buried with them",
+              "threw them in the sea",
+              "gave them to enemies"
+            ],
+            "answer_index": 1,
+            "explain": "They were buried with their pearls."
+          },
+          {
+            "q": "What did Cleopatra reportedly do with a pearl?",
+            "options": [
+              "wore it as a crown",
+              "dissolved it in a glass and drank it",
+              "gave it to the Greeks",
+              "hid it underground"
+            ],
+            "answer_index": 1,
+            "explain": "She would dissolve a pearl in a glass and drink it."
+          },
+          {
+            "q": "The Greeks associated the beauty of pearls with —",
+            "options": [
+              "war and power",
+              "love and marriage",
+              "farming",
+              "sailing"
+            ],
+            "answer_index": 1,
+            "explain": "They associated pearls with love and marriage."
+          },
+          {
+            "q": "In ancient Rome, pearls were considered the greatest sign of —",
+            "options": [
+              "bravery",
+              "wealth and social status",
+              "intelligence",
+              "religion"
+            ],
+            "answer_index": 1,
+            "explain": "They were the greatest sign of wealth and social status."
+          },
+          {
+            "q": "Why did brave knights wear pearls in battle?",
+            "options": [
+              "to look rich",
+              "for good luck",
+              "to trade them",
+              "to frighten enemies"
+            ],
+            "answer_index": 1,
+            "explain": "They wore them for good luck in battles."
+          },
+          {
+            "q": "Pearls are mentioned in —",
+            "options": [
+              "only modern books",
+              "religious texts and mythologies",
+              "only Roman law",
+              "only Greek plays"
+            ],
+            "answer_index": 1,
+            "explain": "They are mentioned in religious texts and mythologies."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Do you think pearls were discovered by accident? Why?",
+            "model": "Yes, pearls were probably discovered by accident. The first pearl was likely found thousands of years ago while human beings were searching for food at the seashore, not while looking for gems."
+          },
+          {
+            "q": "Why do you think pearls were valued so much in the past?",
+            "model": "Pearls were valued for their natural shine and beauty, which made them one of the most precious gems. They became signs of wealth, social status, love and good fortune in many ancient cultures."
+          },
+          {
+            "q": "What did the ancient Egyptians do because they valued pearls so much?",
+            "model": "Because they valued pearls so highly, the ancient Egyptians were buried with them. It is also said that Queen Cleopatra dissolved a pearl in a glass and drank it as a sign of love and respect."
+          },
+          {
+            "q": "How did the Greeks and Romans regard pearls?",
+            "model": "The Greeks regarded pearls as a sign of wealth and social position and linked them with love and marriage. In ancient Rome, pearls were the greatest sign of wealth and social status."
+          },
+          {
+            "q": "What good luck did the knights think pearls would bring them?",
+            "model": "The brave knights believed that wearing pearls in battle would bring them good luck and protect them, helping them to be safe and victorious."
+          },
+          {
+            "q": "Why are pearls mentioned in religious texts and mythologies?",
+            "model": "Pearls are mentioned in religious texts and mythologies because, from the earliest times, people saw them as rare, beautiful and precious, so they became powerful symbols in stories and beliefs."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "The first pearl was probably discovered in a jewellery shop.",
+            "is_true": false,
+            "correction": "It was probably discovered while people searched for food at the seashore."
+          },
+          {
+            "statement": "The pearl has been one of the most highly valued gems.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The ancient Egyptians were buried with their pearls.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The Greeks associated pearls with war.",
+            "is_true": false,
+            "correction": "The Greeks associated pearls with love and marriage."
+          },
+          {
+            "statement": "In ancient Rome, pearls were a sign of wealth and social status.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Knights wore pearls in battle for good luck.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "The first pearl was probably discovered while people searched for food at the (1)____. The (2)____ Egyptians were buried with their pearls. Cleopatra would (3)____ a pearl in a glass and drink it. The Greeks linked pearls with love and (4)____. Knights wore them in battle for good (5)____.",
+          "blanks": [
+            "seashore",
+            "ancient",
+            "dissolve",
+            "marriage",
+            "luck"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Who",
+            "When/where they wore or used pearls"
+          ],
+          "rows": [
+            [
+              "The ancient Egyptians",
+              "buried with pearls; Cleopatra drank a dissolved pearl"
+            ],
+            [
+              "The Greeks",
+              "as a sign of wealth; linked with love and marriage"
+            ],
+            [
+              "The ancient Romans",
+              "the greatest sign of wealth and social status"
+            ],
+            [
+              "The brave knights",
+              "in battles, for good luck"
+            ],
+            [
+              "Noble young women",
+              "beautiful pearl necklaces"
+            ]
+          ],
+          "blanks": [
+            "buried with pearls; Cleopatra drank a dissolved pearl",
+            "as a sign of wealth; linked with love and marriage",
+            "the greatest sign of wealth and social status",
+            "in battles, for good luck",
+            "beautiful pearl necklaces"
+          ]
+        },
+        "match": {
+          "left": [
+            "The first pearl was found at",
+            "Cleopatra dissolved a pearl",
+            "The Greeks linked pearls with",
+            "In Rome pearls showed",
+            "Knights wore pearls for"
+          ],
+          "right": [
+            "wealth and status.",
+            "good luck.",
+            "the seashore.",
+            "love and marriage.",
+            "and drank it."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "This lesson traces the history of the pearl, probably first discovered thousands of years ago while people searched for food at the seashore. Valued for its shine, the pearl appears in religious texts and mythologies. The ancient Egyptians were buried with pearls, and Cleopatra is said to have dissolved one in a glass and drunk it. The Greeks saw pearls as a sign of wealth and a symbol of love and marriage, while in Rome they were the greatest sign of wealth and status, worn by noble women and by knights in battle for luck.",
+          "skeleton": "The first pearl was found at the ____ long ago. The ____ Egyptians were buried with pearls, and Cleopatra would ____ one. The Greeks linked pearls with ____, and knights wore them for ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'The Value of Pearls' (about 80 words).",
+          "model": "The pearl is one of the oldest and most admired gems in the world. Discovered thousands of years ago at the seashore, it has always been prized for its soft, natural shine. In ancient times, the pearl was far more than an ornament. The Egyptians were buried with pearls, the Greeks linked them with love and marriage, and the Romans saw them as the greatest sign of wealth and social status. Brave knights even wore pearls in battle for good luck. To this day, the delicate beauty of the pearl makes it a treasured gem."
+        }
+      },
+      {
+        "id": "u7l2",
+        "unit": 7,
+        "unit_title": "Occupations at Risk",
+        "number": 2,
+        "title": "The Ama Divers",
+        "keywords": [
+          "rare",
+          "descend",
+          "hazardous",
+          "rely"
+        ],
+        "learn_line": "How pearls were once harvested by daring divers, and the famous Ama women divers of Japan.",
+        "minutes": 10,
+        "warmup": [
+          "Where did people get pearls before pearl farming began?",
+          "How long do you think a person can hold their breath underwater?",
+          "Why would diving deep into the sea be dangerous?",
+          "Would you like a job that is risky but full of skill? Why?"
+        ],
+        "reading": {
+          "summary_en": "Before the beginning of the 20th century, pearls were obtained from pearl oysters collected from the bottom of the ocean, a lake or a river. To get enough pearl oysters, free-divers were often forced to descend more than 100 feet in one breath. Because diving was so difficult, pearls were of different quality and very rare. In Asia, some pearl oysters could be found on shoals at a depth of 5 to 7 feet, but at times divers had to go 40 feet or even up to 125 feet to find enough oysters, and these deep dives were extremely hazardous. In some fishing villages along the coast of Japan there are amazing women known as 'Ama divers'. The word 'Ama' means 'women of the sea'. They are independent divers who make their living by diving to depths of up to 25 metres without oxygen tanks or other breathing equipment. They rely on their own skills and breathing techniques to push down to the sea bottom and back, and can hold their breath for up to two minutes. Careful watching, lung capacity and hunter instincts are their special qualities. However, many young villagers now go to the city for other jobs, and the remaining Ama divers are aged between 50 and 60, with some still diving in their 70s. If young people do not take up Ama diving, this profession will soon die out.",
+          "gist_bn": "বিশ শতকের আগে সমুদ্র, হ্রদ বা নদীর তলদেশ থেকে মুক্তা-ঝিনুক সংগ্রহ করে মুক্তা পাওয়া যেত। যথেষ্ট ঝিনুক পেতে ডুবুরিদের এক নিঃশ্বাসে ১০০ ফুটের বেশি নামতে হতো; কঠিন বলে মুক্তা ছিল বিরল। এশিয়ায় কখনো ৫-৭ ফুট, কখনো ৪০-১২৫ ফুট নামতে হতো—অত্যন্ত বিপজ্জনক। জাপানের উপকূলে নারী ডুবুরিরা 'Ama' ('সমুদ্রের নারী') নামে পরিচিত; অক্সিজেন ট্যাঙ্ক ছাড়াই ২৫ মিটার পর্যন্ত নামে, দুই মিনিট পর্যন্ত শ্বাস ধরে রাখতে পারে। কিন্তু তরুণরা শহরে চলে যাওয়ায় অবশিষ্ট ডুবুরিরা ৫০-৬০ বছর বয়সী; পেশাটি বিলুপ্ত হওয়ার ঝুঁকিতে।",
+          "book_page": 82
+        },
+        "vocab": [
+          {
+            "word": "rare",
+            "pos": "adj",
+            "bangla": "বিরল / দুর্লভ",
+            "synonym": "scarce, uncommon",
+            "antonym": "common, plentiful",
+            "meaning_en": "not found often; hard to get",
+            "example": "Natural pearls were very rare."
+          },
+          {
+            "word": "descend",
+            "pos": "verb",
+            "bangla": "নিচে নামা",
+            "synonym": "go down",
+            "antonym": "ascend, rise",
+            "meaning_en": "to move downward",
+            "example": "Divers descend more than 100 feet."
+          },
+          {
+            "word": "hazardous",
+            "pos": "adj",
+            "bangla": "বিপজ্জনক",
+            "synonym": "dangerous, risky",
+            "antonym": "safe",
+            "meaning_en": "involving danger or risk",
+            "example": "Deep dives are extremely hazardous."
+          },
+          {
+            "word": "rely",
+            "pos": "verb",
+            "bangla": "নির্ভর করা",
+            "synonym": "depend, count on",
+            "antonym": "—",
+            "meaning_en": "to depend on something or someone",
+            "example": "Ama divers rely on their own skills."
+          },
+          {
+            "word": "oyster",
+            "pos": "noun",
+            "bangla": "ঝিনুক",
+            "synonym": "shellfish",
+            "antonym": "—",
+            "meaning_en": "a shellfish in which pearls may form",
+            "example": "Pearls come from pearl oysters."
+          },
+          {
+            "word": "free-diver",
+            "pos": "noun",
+            "bangla": "অক্সিজেন ছাড়া ডুবুরি",
+            "synonym": "breath-hold diver",
+            "antonym": "—",
+            "meaning_en": "a person who dives without breathing equipment",
+            "example": "Free-divers held their breath underwater."
+          },
+          {
+            "word": "depth",
+            "pos": "noun",
+            "bangla": "গভীরতা",
+            "synonym": "deepness",
+            "antonym": "shallowness",
+            "meaning_en": "how deep something is",
+            "example": "They dive to a depth of 25 metres."
+          },
+          {
+            "word": "technique",
+            "pos": "noun",
+            "bangla": "কৌশল / পদ্ধতি",
+            "synonym": "method, skill",
+            "antonym": "—",
+            "meaning_en": "a special way of doing something",
+            "example": "They use breathing techniques."
+          },
+          {
+            "word": "lung capacity",
+            "pos": "noun",
+            "bangla": "ফুসফুসের ধারণক্ষমতা",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "how much air the lungs can hold",
+            "example": "Good lung capacity helps the divers."
+          },
+          {
+            "word": "instinct",
+            "pos": "noun",
+            "bangla": "সহজাত প্রবৃত্তি",
+            "synonym": "natural ability",
+            "antonym": "—",
+            "meaning_en": "a natural tendency or ability",
+            "example": "They have strong hunter instincts."
+          },
+          {
+            "word": "profession",
+            "pos": "noun",
+            "bangla": "পেশা",
+            "synonym": "occupation, career",
+            "antonym": "—",
+            "meaning_en": "a type of paid work",
+            "example": "Ama diving is an old profession."
+          },
+          {
+            "word": "die out",
+            "pos": "phrase",
+            "bangla": "বিলুপ্ত হওয়া",
+            "synonym": "disappear, vanish",
+            "antonym": "survive, thrive",
+            "meaning_en": "to gradually stop existing",
+            "example": "The profession may soon die out."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Before the 20th century, pearls were obtained from —",
+            "options": [
+              "factories",
+              "pearl oysters from the sea bed",
+              "shops",
+              "rivers of sand"
+            ],
+            "answer_index": 1,
+            "explain": "Pearls came from pearl oysters collected from the sea, lake or river bed."
+          },
+          {
+            "q": "How deep did free-divers often have to descend in one breath?",
+            "options": [
+              "10 feet",
+              "more than 100 feet",
+              "2 feet",
+              "1,000 feet"
+            ],
+            "answer_index": 1,
+            "explain": "They often descended more than 100 feet in one breath."
+          },
+          {
+            "q": "Why were natural pearls very rare?",
+            "options": [
+              "nobody wanted them",
+              "diving was difficult and pearls varied in quality",
+              "they were banned",
+              "they melted easily"
+            ],
+            "answer_index": 1,
+            "explain": "The difficulty of diving made pearls rare and of different quality."
+          },
+          {
+            "q": "What does the word 'Ama' mean?",
+            "options": [
+              "pearl diver",
+              "women of the sea",
+              "fisherman",
+              "brave knight"
+            ],
+            "answer_index": 1,
+            "explain": "'Ama' means 'women of the sea'."
+          },
+          {
+            "q": "How deep can the Ama divers go?",
+            "options": [
+              "up to 25 metres",
+              "up to 100 metres",
+              "up to 5 metres",
+              "up to 1 metre"
+            ],
+            "answer_index": 0,
+            "explain": "They can dive to a depth of up to 25 metres."
+          },
+          {
+            "q": "How do the Ama divers dive?",
+            "options": [
+              "with oxygen tanks",
+              "without oxygen tanks, using their own skills",
+              "with submarines",
+              "with machines"
+            ],
+            "answer_index": 1,
+            "explain": "They dive without oxygen tanks, relying on skill and breathing techniques."
+          },
+          {
+            "q": "For how long can the Ama divers hold their breath?",
+            "options": [
+              "up to two minutes",
+              "up to ten minutes",
+              "up to thirty seconds",
+              "up to an hour"
+            ],
+            "answer_index": 0,
+            "explain": "They can hold their breath for up to two minutes."
+          },
+          {
+            "q": "Why might the Ama profession die out?",
+            "options": [
+              "the sea is empty",
+              "young villagers are going to the city for other jobs",
+              "it is now illegal",
+              "there are no pearls"
+            ],
+            "answer_index": 1,
+            "explain": "Young people are leaving for city jobs, so the profession may die out."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Where did people get pearls from before the 20th century?",
+            "model": "Before the 20th century, people got pearls from pearl oysters. These oysters were collected from the bottom of the ocean, a lake or a river by free-divers."
+          },
+          {
+            "q": "Why were natural pearls rare and of different quality?",
+            "model": "Diving for pearl oysters was very difficult, as divers had to descend deep in one breath. Because of this difficulty, pearls were of different quality and very rare."
+          },
+          {
+            "q": "Why are the Ama divers amazing?",
+            "model": "The Ama divers are amazing because they are independent women who make their living by diving up to 25 metres deep without any oxygen tanks or breathing equipment, relying only on their own skills."
+          },
+          {
+            "q": "How deep can the Ama divers go, and how do they do it?",
+            "model": "The Ama divers can go down to a depth of up to 25 metres. They use their own skills and breathing techniques and can hold their breath for up to two minutes."
+          },
+          {
+            "q": "What are the special qualities of the Ama divers?",
+            "model": "The special qualities of the Ama divers are careful watching, good lung capacity and strong hunter instincts, which help them dive deep and find what they need."
+          },
+          {
+            "q": "Why is the Ama profession at risk of dying out?",
+            "model": "The profession is at risk because many young villagers are now going to the city in search of other jobs. The remaining divers are mostly aged 50 to 60, so if the young do not take it up, it will die out."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Before the 20th century, pearls came from pearl oysters in the sea, lakes or rivers.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Free-divers used oxygen tanks to dive for pearls.",
+            "is_true": false,
+            "correction": "They were free-divers who dived in one breath, without oxygen tanks."
+          },
+          {
+            "statement": "Natural pearls were common and easy to get.",
+            "is_true": false,
+            "correction": "Natural pearls were very rare and of different quality."
+          },
+          {
+            "statement": "The word 'Ama' means 'women of the sea'.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Ama divers can hold their breath for up to two minutes.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Many young villagers are taking up Ama diving today.",
+            "is_true": false,
+            "correction": "Many young villagers are leaving for city jobs, so the profession may die out."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "Before the 20th century, free-divers had to (1)____ more than 100 feet to collect pearl oysters, which made pearls very (2)____. These deep dives were extremely (3)____. The Ama divers of Japan dive without oxygen tanks and (4)____ on their own skills. Sadly, the profession may soon (5)____ out.",
+          "blanks": [
+            "descend",
+            "rare",
+            "hazardous",
+            "rely",
+            "die"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Aspect",
+            "Detail"
+          ],
+          "rows": [
+            [
+              "Where old pearls came from",
+              "pearl oysters from the sea bed"
+            ],
+            [
+              "Depth free-divers reached",
+              "more than 100 feet in one breath"
+            ],
+            [
+              "Meaning of 'Ama'",
+              "women of the sea"
+            ],
+            [
+              "How deep Ama divers go",
+              "up to 25 metres, no oxygen tanks"
+            ],
+            [
+              "Breath-holding time",
+              "up to two minutes"
+            ]
+          ],
+          "blanks": [
+            "pearl oysters from the sea bed",
+            "more than 100 feet in one breath",
+            "women of the sea",
+            "up to 25 metres, no oxygen tanks",
+            "up to two minutes"
+          ]
+        },
+        "match": {
+          "left": [
+            "Old pearls came from",
+            "Free-divers had to",
+            "Natural pearls were",
+            "'Ama' means",
+            "Ama divers rely on"
+          ],
+          "right": [
+            "women of the sea.",
+            "very rare.",
+            "their own skills.",
+            "pearl oysters.",
+            "descend deep."
+          ],
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              4,
+              2
+            ]
+          ]
+        },
+        "summary": {
+          "model": "Before the 20th century, pearls were collected from pearl oysters on the sea, lake or river bed, with free-divers descending more than 100 feet in a single breath; this danger made natural pearls rare and uneven in quality. Along the coast of Japan, women known as Ama divers, meaning 'women of the sea', still dive up to 25 metres without oxygen tanks, relying on skill, breathing techniques, lung capacity and instinct, holding their breath for up to two minutes. As young people leave for city jobs, however, this ancient profession is at risk of dying out.",
+          "skeleton": "Pearls once came from oysters collected by free-divers who had to ____ deep, making pearls ____. The Ama of Japan dive without tanks and ____ on their skills. As the young leave, the profession may ____ out."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'A Risky Occupation' (about 100 words).",
+          "model": "Some occupations are full of danger, yet people do them with great skill and courage. The Ama divers of Japan are a fine example. These women make their living by diving up to twenty-five metres into the sea without any oxygen tanks, holding their breath for up to two minutes to gather oysters and other sea life. Their work demands careful watching, strong lungs and steady nerves, for a single deep dive can be hazardous. Sadly, as young people move to the cities for safer jobs, fewer take up this profession, and the remaining divers are growing old. Such brave and skilful occupations deserve our respect before they disappear."
+        }
+      },
+      {
+        "id": "u7l3",
+        "unit": 7,
+        "unit_title": "Occupations at Risk",
+        "number": 3,
+        "title": "River Gypsies in Bangladesh (1)",
+        "keywords": [
+          "gypsy",
+          "ethnic",
+          "nomadic",
+          "roam",
+          "tarpaulin",
+          "tents",
+          "remedy",
+          "vend",
+          "heal",
+          "talisman"
+        ],
+        "learn_line": "Who the river gypsies (bedey) of Bangladesh are and how they live and earn on the water.",
+        "minutes": 11,
+        "warmup": [
+          "Have you ever seen people living on boats? What were they doing?",
+          "What does it mean to live a 'nomadic' life?",
+          "What jobs might people who live on rivers do?",
+          "Why might some people not have a permanent home on land?"
+        ],
+        "reading": {
+          "summary_en": "River gypsies are an ethnic group of people in Bangladesh, known to local people as 'bedey'. They have their own lifestyle and culture, live in groups, and do not own any land, so they live a nomadic life, travelling from place to place. They roam across rivers and waters from May to December in small country boats, which are their houses, making them a part of our waters. In winter, when many water bodies dry up, they return to the mainland and live in make-shift tarpaulin tents on open river banks; there you can see their men relaxing, toddlers playing with pets in the dust, and women picking lice in rows. Throughout the monsoon they stay busy fishing and sometimes diving for natural pearls. Their men catch snakes, entertain people with snake charming and sell herbal cures, while their women go door to door selling bangles, cosmetics and other things, and also try to heal the pains of old people by sucking out blood. Many villagers believe in the gypsies' magical power and think they can make an evil spirit leave someone's body by magic or special powers.",
+          "gist_bn": "নদী-জিপসিরা বাংলাদেশের একটি নৃগোষ্ঠী, স্থানীয়ভাবে 'বেদে' নামে পরিচিত। তাদের নিজস্ব জীবনধারা ও সংস্কৃতি আছে; দলবদ্ধভাবে থাকে, কোনো জমির মালিক নয়, তাই যাযাবর জীবন কাটায়। মে থেকে ডিসেম্বর ছোট নৌকায় নদীতে ঘুরে বেড়ায়—নৌকাই তাদের ঘর। শীতে জলাশয় শুকিয়ে গেলে তীরে তারপুলিনের তাঁবুতে থাকে। বর্ষায় মাছ ধরে, কখনো মুক্তার খোঁজে ডুব দেয়। পুরুষরা সাপ ধরে, সাপের খেলা দেখায়, ভেষজ ওষুধ বিক্রি করে; নারীরা ঘরে ঘরে চুড়ি-প্রসাধনী বিক্রি করে, বয়স্কদের ব্যথা সারাতে রক্ত চুষে বের করে। অনেক গ্রামবাসী তাদের জাদুশক্তিতে বিশ্বাস করে।",
+          "book_page": 84
+        },
+        "vocab": [
+          {
+            "word": "gypsy",
+            "pos": "noun",
+            "bangla": "যাযাবর / বেদে",
+            "synonym": "wanderer, nomad",
+            "antonym": "settler",
+            "meaning_en": "a member of a travelling community",
+            "example": "River gypsies live on the water."
+          },
+          {
+            "word": "ethnic",
+            "pos": "adj",
+            "bangla": "নৃতাত্ত্বিক / জাতিগত",
+            "synonym": "cultural, tribal",
+            "antonym": "—",
+            "meaning_en": "relating to a group with a shared culture",
+            "example": "River gypsies are an ethnic group."
+          },
+          {
+            "word": "nomadic",
+            "pos": "adj",
+            "bangla": "যাযাবর / ভ্রাম্যমাণ",
+            "synonym": "wandering, roaming",
+            "antonym": "settled",
+            "meaning_en": "moving from place to place, not settled",
+            "example": "They live a nomadic life."
+          },
+          {
+            "word": "roam",
+            "pos": "verb",
+            "bangla": "ঘুরে বেড়ানো",
+            "synonym": "wander, travel",
+            "antonym": "stay",
+            "meaning_en": "to move about without a fixed place",
+            "example": "They roam across the rivers."
+          },
+          {
+            "word": "tarpaulin",
+            "pos": "noun",
+            "bangla": "তেরপল / জলরোধী কাপড়",
+            "synonym": "waterproof sheet",
+            "antonym": "—",
+            "meaning_en": "a waterproof cloth used to make shelters",
+            "example": "They live in tarpaulin tents in winter."
+          },
+          {
+            "word": "tent",
+            "pos": "noun",
+            "bangla": "তাঁবু",
+            "synonym": "shelter, camp",
+            "antonym": "—",
+            "meaning_en": "a movable shelter of cloth",
+            "example": "Their make-shift tents stand on river banks."
+          },
+          {
+            "word": "remedy",
+            "pos": "noun",
+            "bangla": "প্রতিকার / ওষুধ",
+            "synonym": "cure, treatment",
+            "antonym": "—",
+            "meaning_en": "a medicine or cure for an illness",
+            "example": "They sell herbal remedies."
+          },
+          {
+            "word": "vend",
+            "pos": "verb",
+            "bangla": "ফেরি করে বিক্রি করা",
+            "synonym": "sell, peddle",
+            "antonym": "buy",
+            "meaning_en": "to sell goods, often from place to place",
+            "example": "The women vend bangles door to door."
+          },
+          {
+            "word": "heal",
+            "pos": "verb",
+            "bangla": "সারানো / আরোগ্য করা",
+            "synonym": "cure, mend",
+            "antonym": "harm, hurt",
+            "meaning_en": "to make a sick or injured person well",
+            "example": "They try to heal the pains of old people."
+          },
+          {
+            "word": "talisman",
+            "pos": "noun",
+            "bangla": "তাবিজ / মাদুলি",
+            "synonym": "charm, amulet",
+            "antonym": "—",
+            "meaning_en": "an object believed to have magic powers",
+            "example": "Some believe a talisman keeps away evil."
+          },
+          {
+            "word": "make-shift",
+            "pos": "adj",
+            "bangla": "অস্থায়ী / কাজ-চালানো",
+            "synonym": "temporary, improvised",
+            "antonym": "permanent",
+            "meaning_en": "made for temporary use",
+            "example": "They live in make-shift tents."
+          },
+          {
+            "word": "monsoon",
+            "pos": "noun",
+            "bangla": "বর্ষাকাল",
+            "synonym": "rainy season",
+            "antonym": "dry season",
+            "meaning_en": "the season of heavy rains",
+            "example": "They fish throughout the monsoon."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "River gypsies are known to local people as —",
+            "options": [
+              "bede / bedey",
+              "sailors",
+              "farmers",
+              "fishermen only"
+            ],
+            "answer_index": 0,
+            "explain": "They are known as 'bedey' to local people."
+          },
+          {
+            "q": "The term 'ethnic' is connected to —",
+            "options": [
+              "people",
+              "plants",
+              "animals",
+              "fishes"
+            ],
+            "answer_index": 0,
+            "explain": "'Ethnic' is connected to a group of people."
+          },
+          {
+            "q": "River gypsies roam on their boats for about how many months a year?",
+            "options": [
+              "six",
+              "seven",
+              "eight",
+              "nine"
+            ],
+            "answer_index": 2,
+            "explain": "They roam from May to December, about eight months."
+          },
+          {
+            "q": "River gypsies live in tents in —",
+            "options": [
+              "summer",
+              "winter",
+              "monsoon",
+              "spring"
+            ],
+            "answer_index": 1,
+            "explain": "In winter they live in make-shift tents on river banks."
+          },
+          {
+            "q": "The term 'nomadic' refers to a person who —",
+            "options": [
+              "stays permanently at a place",
+              "travels from place to place",
+              "lives in one's own house",
+              "lives in a rented house"
+            ],
+            "answer_index": 1,
+            "explain": "'Nomadic' means travelling from place to place."
+          },
+          {
+            "q": "What do river gypsy men do for a living?",
+            "options": [
+              "only farming",
+              "catch snakes, do snake charming and sell herbal cures",
+              "run shops",
+              "drive cars"
+            ],
+            "answer_index": 1,
+            "explain": "The men catch snakes, do snake charming and sell herbal cures."
+          },
+          {
+            "q": "What do river gypsy women do for a living?",
+            "options": [
+              "catch snakes",
+              "sell bangles and cosmetics door to door and heal pains",
+              "fly planes",
+              "build houses"
+            ],
+            "answer_index": 1,
+            "explain": "The women vend bangles and cosmetics and heal pains of old people."
+          },
+          {
+            "q": "Why don't river gypsies have a permanent home?",
+            "options": [
+              "they are very rich",
+              "they do not own any land and live a nomadic life",
+              "they prefer cities",
+              "the law forbids it"
+            ],
+            "answer_index": 1,
+            "explain": "They own no land and live a nomadic life on boats."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Who are river gypsies?",
+            "model": "River gypsies are an ethnic group of people in Bangladesh, known to local people as 'bedey'. They have their own lifestyle and culture and live a nomadic life on the water."
+          },
+          {
+            "q": "How do river gypsies live?",
+            "model": "They live in groups and do not own any land, so they lead a nomadic life. They roam across the rivers from May to December in small country boats, which serve as their homes."
+          },
+          {
+            "q": "What do river gypsies do in winter?",
+            "model": "In winter, when many water bodies dry up, the river gypsies return to the mainland and live in make-shift tarpaulin tents on open river banks."
+          },
+          {
+            "q": "What do river gypsy men do for a living?",
+            "model": "River gypsy men catch snakes and entertain people with snake charming. They also sell herbal cures, and during the monsoon they stay busy fishing and sometimes diving for pearls."
+          },
+          {
+            "q": "What do river gypsy women do for a living?",
+            "model": "River gypsy women go from door to door selling bangles, cosmetics and other things. They also try to heal the pains of old people by sucking out blood from their bodies."
+          },
+          {
+            "q": "Why do many villagers respect or fear the gypsies?",
+            "model": "Many villagers believe in the magical power of the gypsies. They think the gypsies can make an evil spirit leave someone's body by magic or special powers."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "River gypsies own large pieces of land.",
+            "is_true": false,
+            "correction": "River gypsies do not own any land; they live a nomadic life."
+          },
+          {
+            "statement": "River gypsies roam the rivers from May to December.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "In winter, river gypsies live in tarpaulin tents on river banks.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "River gypsy men sell bangles door to door.",
+            "is_true": false,
+            "correction": "The men catch snakes and sell herbal cures; the women sell bangles door to door."
+          },
+          {
+            "statement": "Many villagers believe in the gypsies' magical power.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "'Nomadic' means living permanently in one place.",
+            "is_true": false,
+            "correction": "'Nomadic' means travelling from place to place."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "River gypsies are an (1)____ group known as 'bedey'. They live a (2)____ life, roaming the rivers in boats. In winter they live in (3)____ tents on river banks. The men do snake charming and sell herbal (4)____, while the women (5)____ bangles door to door.",
+          "blanks": [
+            "ethnic",
+            "nomadic",
+            "tarpaulin",
+            "remedies",
+            "vend"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Question",
+            "Answer"
+          ],
+          "rows": [
+            [
+              "Who they are",
+              "an ethnic group called bedey"
+            ],
+            [
+              "How they live",
+              "a nomadic life on boats"
+            ],
+            [
+              "Months on the rivers",
+              "May to December (about 8)"
+            ],
+            [
+              "Winter homes",
+              "tarpaulin tents on river banks"
+            ],
+            [
+              "Men's work",
+              "snake charming, selling herbal cures"
+            ]
+          ],
+          "blanks": [
+            "an ethnic group called bedey",
+            "a nomadic life on boats",
+            "May to December (about 8)",
+            "tarpaulin tents on river banks",
+            "snake charming, selling herbal cures"
+          ]
+        },
+        "match": {
+          "left": [
+            "River gypsies are called",
+            "They live a",
+            "In winter they live in",
+            "Men do snake charming and sell",
+            "Women go door to door to"
+          ],
+          "right": [
+            "herbal cures.",
+            "tarpaulin tents.",
+            "bedey.",
+            "sell bangles.",
+            "nomadic life."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              4,
+              3
+            ]
+          ]
+        },
+        "summary": {
+          "model": "River gypsies, known locally as 'bedey', are an ethnic group in Bangladesh with their own culture. Owning no land, they live a nomadic life, roaming the rivers in small boats from May to December and using the boats as their homes. In winter they camp in make-shift tarpaulin tents on the river banks. The men fish, dive for pearls, catch snakes, do snake charming and sell herbal cures, while the women sell bangles and cosmetics door to door and heal the pains of old people. Many villagers believe the gypsies possess magical powers.",
+          "skeleton": "River gypsies, called ____, are an ethnic group who live a ____ life on boats from May to December. In winter they live in ____ tents. Men do snake charming and sell ____, while women ____ bangles door to door."
+        },
+        "writing": {
+          "type": "dialogue",
+          "prompt": "Imagine you meet a bedey (river gypsy) woman. Write a dialogue asking her about her life and work.",
+          "model": "You: Good afternoon. May I ask you a few questions about your life?\nBedey woman: Good afternoon. Yes, but please be quick; I am busy cooking.\nYou: Of course. How long have you been living in this camp?\nBedey woman: About four months. When the rains come, we will go back to the rivers.\nYou: What does your family do for a living?\nBedey woman: We catch fish, and our men are snake charmers. I sell bangles and cosmetics from house to house.\nYou: How do you treat sick people?\nBedey woman: We use traditional herbs and old healing methods to ease their pains.\nYou: Does your child go to school?\nBedey woman: Not yet, but I have heard of boat-schools on the river. I will try to send him to one.\nYou: Thank you for your time. I wish your family well.\nBedey woman: Thank you, too."
+        }
+      },
+      {
+        "id": "u7l4",
+        "unit": 7,
+        "unit_title": "Occupations at Risk",
+        "number": 4,
+        "title": "River Gypsies in Bangladesh (2)",
+        "keywords": [
+          "survive",
+          "inherit",
+          "mainstream",
+          "petty",
+          "integral part",
+          "community",
+          "settle",
+          "urbanise",
+          "urban"
+        ],
+        "learn_line": "The problems river gypsies face today and how they are slowly joining mainstream life.",
+        "minutes": 11,
+        "warmup": [
+          "What problems might people who live on boats face today?",
+          "How does the building of new towns affect traditional ways of life?",
+          "Why is education important for every child?",
+          "How can children who live on boats go to school?"
+        ],
+        "reading": {
+          "summary_en": "River gypsies in Bangladesh face various problems. First, Bangladesh is getting urbanised very rapidly, so the gypsy people are losing their customers among the urban population, and their income is threatened. Secondly, the 24,000 kilometres of waterways the country once had shrink to only 6,000 kilometres in dry seasons. Scientists believe Bangladesh will be worst affected by global climate change; unpredictable rain and the drying out of rivers have heavily restricted boat movement. Thirdly, in the context of this changed reality, many river gypsies are thinking of living permanently on land. The state feels that river gypsies need help to survive in the mainstream population, so the government is offering them voting rights, permanent housing and bank-loan facilities, although such changes do not come overnight. Traditionally, river gypsies are used to water life and have inherited the necessary life skills from their forefathers, but they have no education or training to adapt to modern society. As they have no permanent living place and their children are born and brought up on boats, they cannot go to conventional schools. Therefore, mobile boat-schools are being established, and some voluntary organisations are running special schools on boats to educate river gypsy children.",
+          "gist_bn": "নদী-জিপসিরা নানা সমস্যায় আছে। প্রথমত, দ্রুত নগরায়ণে শহুরে ক্রেতা হারিয়ে আয় হুমকিতে। দ্বিতীয়ত, দেশের ২৪,০০০ কিমি জলপথ শুষ্ক মৌসুমে কমে ৬,০০০ কিমি হয়; জলবায়ু পরিবর্তনে অনিয়মিত বৃষ্টি ও নদী শুকিয়ে নৌচলাচল ব্যাহত। তৃতীয়ত, অনেকে স্থায়ীভাবে ডাঙায় বসবাসের কথা ভাবছে। সরকার ভোটাধিকার, স্থায়ী বাসস্থান ও ব্যাংক-ঋণ দিচ্ছে। ঐতিহ্যগতভাবে তারা জলজীবনে অভ্যস্ত, পূর্বপুরুষ থেকে দক্ষতা পেয়েছে, কিন্তু আধুনিক সমাজের জন্য শিক্ষা নেই। নৌকায় জন্ম নেওয়া শিশুরা সাধারণ স্কুলে যেতে পারে না, তাই ভাসমান নৌকা-স্কুল চালু হচ্ছে।",
+          "book_page": 88
+        },
+        "vocab": [
+          {
+            "word": "survive",
+            "pos": "verb",
+            "bangla": "টিকে থাকা / বেঁচে থাকা",
+            "synonym": "endure, cope",
+            "antonym": "perish, die",
+            "meaning_en": "to continue to live or exist",
+            "example": "Gypsies need help to survive in mainstream society."
+          },
+          {
+            "word": "inherit",
+            "pos": "verb",
+            "bangla": "উত্তরাধিকারসূত্রে পাওয়া",
+            "synonym": "be left, receive",
+            "antonym": "—",
+            "meaning_en": "to receive something from one's ancestors",
+            "example": "They inherited life skills from their forefathers."
+          },
+          {
+            "word": "mainstream",
+            "pos": "noun/adj",
+            "bangla": "মূলধারা",
+            "synonym": "the majority",
+            "antonym": "margin, fringe",
+            "meaning_en": "the ideas or life accepted by most people",
+            "example": "Gypsies are joining the mainstream population."
+          },
+          {
+            "word": "petty",
+            "pos": "adj",
+            "bangla": "ছোটখাটো / তুচ্ছ",
+            "synonym": "small, minor",
+            "antonym": "major, large",
+            "meaning_en": "small and of little importance",
+            "example": "They earn from petty trades."
+          },
+          {
+            "word": "integral part",
+            "pos": "noun",
+            "bangla": "অবিচ্ছেদ্য অংশ",
+            "synonym": "essential part",
+            "antonym": "—",
+            "meaning_en": "a necessary and inseparable part",
+            "example": "Gypsies are an integral part of our culture."
+          },
+          {
+            "word": "community",
+            "pos": "noun",
+            "bangla": "সম্প্রদায় / জনগোষ্ঠী",
+            "synonym": "group, society",
+            "antonym": "—",
+            "meaning_en": "a group of people living together",
+            "example": "The gypsy community has its own culture."
+          },
+          {
+            "word": "settle",
+            "pos": "verb",
+            "bangla": "স্থায়ীভাবে বসবাস করা",
+            "synonym": "make a home",
+            "antonym": "wander",
+            "meaning_en": "to make a permanent home in a place",
+            "example": "Many gypsies want to settle on land."
+          },
+          {
+            "word": "urbanise",
+            "pos": "verb",
+            "bangla": "নগরায়ণ করা",
+            "synonym": "develop into a city",
+            "antonym": "ruralise",
+            "meaning_en": "to make an area more like a town",
+            "example": "Bangladesh is urbanising rapidly."
+          },
+          {
+            "word": "urban",
+            "pos": "adj",
+            "bangla": "শহুরে / নাগরিক",
+            "synonym": "city, town",
+            "antonym": "rural",
+            "meaning_en": "relating to a town or city",
+            "example": "They are losing their urban customers."
+          },
+          {
+            "word": "threatened",
+            "pos": "verb (past)",
+            "bangla": "হুমকির মুখে",
+            "synonym": "endangered",
+            "antonym": "secured",
+            "meaning_en": "put at risk",
+            "example": "Their income is threatened."
+          },
+          {
+            "word": "conventional",
+            "pos": "adj",
+            "bangla": "প্রচলিত / সাধারণ",
+            "synonym": "traditional, usual",
+            "antonym": "unconventional",
+            "meaning_en": "of the usual, accepted kind",
+            "example": "They cannot attend conventional schools."
+          },
+          {
+            "word": "voluntary",
+            "pos": "adj",
+            "bangla": "স্বেচ্ছাসেবী",
+            "synonym": "unpaid, willing",
+            "antonym": "forced",
+            "meaning_en": "done by free choice, without pay",
+            "example": "Voluntary organisations run boat-schools."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "What is the first problem river gypsies face?",
+            "options": [
+              "too many boats",
+              "rapid urbanisation losing them customers",
+              "too much rain",
+              "too much land"
+            ],
+            "answer_index": 1,
+            "explain": "Rapid urbanisation means they lose urban customers, threatening income."
+          },
+          {
+            "q": "In dry seasons, the country's 24,000 km of waterways shrink to —",
+            "options": [
+              "6,000 km",
+              "12,000 km",
+              "20,000 km",
+              "2,000 km"
+            ],
+            "answer_index": 0,
+            "explain": "They shrink to only 6,000 kilometres in dry seasons."
+          },
+          {
+            "q": "Bangladesh is believed to be worst affected by —",
+            "options": [
+              "earthquakes",
+              "global climate change",
+              "volcanoes",
+              "floods only"
+            ],
+            "answer_index": 1,
+            "explain": "Scientists believe Bangladesh will be worst affected by global climate change."
+          },
+          {
+            "q": "Why are many river gypsies thinking of changing their lifestyle?",
+            "options": [
+              "they are bored",
+              "because of the changed reality and restricted boat movement",
+              "they want to be rich",
+              "they dislike water"
+            ],
+            "answer_index": 1,
+            "explain": "Changed reality and restricted boat movement make them consider settling on land."
+          },
+          {
+            "q": "What is the government offering river gypsies?",
+            "options": [
+              "only boats",
+              "voting rights, permanent housing and bank-loan facilities",
+              "free snakes",
+              "city jobs only"
+            ],
+            "answer_index": 1,
+            "explain": "The government offers voting rights, permanent housing and bank-loans."
+          },
+          {
+            "q": "Why can't river gypsy children go to conventional schools?",
+            "options": [
+              "they dislike school",
+              "they have no permanent home and are born and raised on boats",
+              "schools refuse them",
+              "they are too clever"
+            ],
+            "answer_index": 1,
+            "explain": "With no permanent home, children born on boats cannot attend conventional schools."
+          },
+          {
+            "q": "What is being established to educate gypsy children?",
+            "options": [
+              "big city schools",
+              "mobile boat-schools",
+              "online schools",
+              "night schools"
+            ],
+            "answer_index": 1,
+            "explain": "Mobile boat-schools are being set up for them."
+          },
+          {
+            "q": "Who is running special schools on boats?",
+            "options": [
+              "the army",
+              "some voluntary organisations",
+              "foreign tourists",
+              "the gypsies' enemies"
+            ],
+            "answer_index": 1,
+            "explain": "Some voluntary organisations run special boat-schools."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What are the main problems that river gypsies are facing?",
+            "model": "River gypsies face several problems: rapid urbanisation is taking away their customers and threatening their income, the country's waterways are shrinking, and climate change with unpredictable rain has restricted their boat movement."
+          },
+          {
+            "q": "What is the effect of global climate change in Bangladesh?",
+            "model": "Scientists believe Bangladesh will be worst affected by global climate change. Unpredictable rain and the drying out of rivers have heavily restricted the movement of the gypsies' boats."
+          },
+          {
+            "q": "Why are many river gypsies thinking of changing their lifestyle?",
+            "model": "Because of the changed reality, shrinking waterways and restricted boat movement, many river gypsies are now thinking of living permanently on land instead of on the water."
+          },
+          {
+            "q": "How is the government helping the river gypsies?",
+            "model": "The state feels the gypsies need help to survive in the mainstream, so the government is offering them voting rights, permanent housing and bank-loan facilities, though such changes take time."
+          },
+          {
+            "q": "Why can't river gypsy children go to conventional schools?",
+            "model": "River gypsies have no permanent living place, and their children are born and brought up on boats. Because they keep moving, the children cannot attend ordinary, conventional schools."
+          },
+          {
+            "q": "Who is running special schools for river gypsy children, and why?",
+            "model": "Some voluntary organisations are running special mobile schools on boats. They do this so that river gypsy children, who cannot reach conventional schools, can still get an education."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Rapid urbanisation is helping river gypsies earn more.",
+            "is_true": false,
+            "correction": "Urbanisation is making them lose customers, so their income is threatened."
+          },
+          {
+            "statement": "The country's waterways shrink to 6,000 km in dry seasons.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Bangladesh is believed to be worst affected by global climate change.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The government is offering gypsies voting rights and permanent housing.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Gypsy children easily attend conventional schools.",
+            "is_true": false,
+            "correction": "They cannot attend conventional schools because they live and move on boats."
+          },
+          {
+            "statement": "Voluntary organisations run special boat-schools for gypsy children.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "River gypsies are losing customers because Bangladesh is getting (1)____ rapidly. The waterways shrink in dry seasons, and climate change restricts boat movement, so many want to (2)____ on land. The government offers voting rights and permanent housing to help them (3)____ in the (4)____ population. Their children are taught in mobile (5)____.",
+          "blanks": [
+            "urbanised",
+            "settle",
+            "survive",
+            "mainstream",
+            "boat-schools"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Problem / help",
+            "Detail"
+          ],
+          "rows": [
+            [
+              "Problem 1",
+              "urbanisation; losing urban customers"
+            ],
+            [
+              "Problem 2",
+              "waterways shrink to 6,000 km in dry seasons"
+            ],
+            [
+              "Problem 3",
+              "climate change restricts boat movement"
+            ],
+            [
+              "Government help",
+              "voting rights, housing, bank-loans"
+            ],
+            [
+              "Education solution",
+              "mobile boat-schools"
+            ]
+          ],
+          "blanks": [
+            "urbanisation; losing urban customers",
+            "waterways shrink to 6,000 km in dry seasons",
+            "climate change restricts boat movement",
+            "voting rights, housing, bank-loans",
+            "mobile boat-schools"
+          ]
+        },
+        "match": {
+          "left": [
+            "Urbanisation makes them lose",
+            "Waterways shrink in",
+            "Government offers voting rights and",
+            "Gypsies inherited skills from",
+            "Boat-schools educate gypsy"
+          ],
+          "right": [
+            "dry seasons.",
+            "their forefathers.",
+            "customers.",
+            "children.",
+            "housing."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ]
+        },
+        "summary": {
+          "model": "River gypsies face growing problems. Rapid urbanisation is taking away their customers and threatening their income, while the country's waterways shrink from 24,000 to 6,000 kilometres in dry seasons and climate change restricts their boat movement. In this changed reality, many are thinking of settling on land, and the government is offering them voting rights, permanent housing and bank-loans to help them join the mainstream. Since their children are born and raised on boats and cannot attend conventional schools, mobile boat-schools, run by voluntary organisations, are being set up to educate them.",
+          "skeleton": "Urbanisation makes gypsies lose ____, and shrinking waterways restrict boats, so many want to ____ on land. The government offers housing and voting rights to help them ____ in the ____. Their children learn in mobile ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Imagine there is a boat-school in your area for river gypsy children. Write a short composition on how you can help the gypsy children with learning (about 150 words).",
+          "model": "If there were a boat-school for river gypsy children in my area, I would gladly do my part to help them learn. First, I would collect old books, exercise books, pens and pencils from my friends and neighbours and donate them to the school, since many gypsy families are too poor to buy these things. Secondly, on holidays I could visit the boat-school and help the younger children with their reading, writing and counting, making the lessons fun with songs and simple games. I would also teach them about cleanliness, good manners and the importance of education, so that they dream of a better future. Moreover, I would request my school and local people to support the boat-school with money and volunteers. River gypsies are an integral part of our country, and their children deserve the same chance to learn as we do. By helping them, we help build a kinder and more equal society."
+        }
+      },
+      {
+        "id": "u7l5",
+        "unit": 7,
+        "unit_title": "Occupations at Risk",
+        "number": 5,
+        "title": "Refugees (Sea Prayer)",
+        "author": "Khaled Hosseini",
+        "keywords": [
+          "refugee",
+          "siege",
+          "bustling",
+          "haggle",
+          "guileless",
+          "heaving"
+        ],
+        "learn_line": "A father's heartfelt letter to his son as they flee war — a window into the lives of refugees.",
+        "minutes": 12,
+        "warmup": [
+          "Who are refugees, and why do people become refugees?",
+          "How do you think it feels to leave your home forever?",
+          "What might a parent feel while trying to protect a child in danger?",
+          "Why should we feel sympathy for people fleeing war?"
+        ],
+        "reading": {
+          "summary_en": "This lesson presents 'Sea Prayer' by Khaled Hosseini, written as a father's tender letter to his young son, Marwan, on a cold, moonlit beach. The father remembers his own peaceful boyhood at his grandfather's farmhouse outside Homs, Syria, waking to olive trees stirring in the breeze and the sounds of farm life. He recalls the bustling Old City of Homs, with its mosque, church and grand souk where everyone would haggle, and the evening walks around Clock Tower Square. But that life now feels like a long-dissolved dream. First came the protests, then the siege, then bombs, starvation and burials, the only world his son has ever known. Now the father, his wife and son sit among other refugees, Afghans, Somalis, Iraqis, Eritreans and Syrians, all waiting in dread to cross the sea in search of home, feeling unwelcome and uninvited. As his son sleeps in guileless innocence, the father admits how powerless he is to protect him from the deep, vast, indifferent sea, so all he can do is pray that God will steer the vessel safely, because his son is the most precious cargo there ever was.",
+          "gist_bn": "এই পাঠে খালেদ হোসেইনির 'Sea Prayer'—এক বাবার তার ছোট ছেলে মারওয়ানকে লেখা কোমল চিঠি, এক শীতল জ্যোৎস্নাভরা সৈকতে। বাবা সিরিয়ার হোমসে নিজের শান্ত শৈশব স্মরণ করেন—দাদার খামারবাড়ি, জলপাই গাছ, প্রাণবন্ত পুরোনো শহর, মসজিদ-গির্জা-বাজার। কিন্তু এরপর এল বিক্ষোভ, অবরোধ, বোমা, অনাহার, মৃত্যু—এই-ই ছেলেটির চেনা পৃথিবী। এখন তারা অন্য শরণার্থীদের সঙ্গে সমুদ্র পাড়ি দেওয়ার অপেক্ষায়। ঘুমন্ত ছেলেকে সমুদ্রের বিপদ থেকে রক্ষা করতে অসহায় বাবা কেবল প্রার্থনা করতে পারেন—তার ছেলেই সবচেয়ে মূল্যবান।",
+          "book_page": 90
+        },
+        "vocab": [
+          {
+            "word": "refugee",
+            "pos": "noun",
+            "bangla": "শরণার্থী",
+            "synonym": "displaced person",
+            "antonym": "—",
+            "meaning_en": "a person forced to leave home because of war or danger",
+            "example": "Refugees flee from war to find safety."
+          },
+          {
+            "word": "siege",
+            "pos": "noun",
+            "bangla": "অবরোধ",
+            "synonym": "blockade",
+            "antonym": "relief",
+            "meaning_en": "a military attack surrounding a place and cutting off supplies",
+            "example": "Then came the siege of the city."
+          },
+          {
+            "word": "bustling",
+            "pos": "adj",
+            "bangla": "কোলাহলপূর্ণ / প্রাণবন্ত",
+            "synonym": "busy, lively",
+            "antonym": "quiet, still",
+            "meaning_en": "full of energy and movement",
+            "example": "The Old City was bustling with life."
+          },
+          {
+            "word": "haggle",
+            "pos": "verb",
+            "bangla": "দরদাম করা",
+            "synonym": "bargain",
+            "antonym": "—",
+            "meaning_en": "to argue over the price of something",
+            "example": "People came to haggle in the souk."
+          },
+          {
+            "word": "guileless",
+            "pos": "adj",
+            "bangla": "সরল / নিষ্কপট",
+            "synonym": "innocent, honest",
+            "antonym": "cunning, deceitful",
+            "meaning_en": "innocent, without trickery or deceit",
+            "example": "The child slept in guileless innocence."
+          },
+          {
+            "word": "heaving",
+            "pos": "adj",
+            "bangla": "ঢেউয়ে ওঠানামা করা",
+            "synonym": "surging, rolling",
+            "antonym": "calm, still",
+            "meaning_en": "moving up and down like the sea",
+            "example": "They feared the heaving waters."
+          },
+          {
+            "word": "etched",
+            "pos": "adj",
+            "bangla": "গভীরভাবে অঙ্কিত (স্মৃতিতে)",
+            "synonym": "engraved",
+            "antonym": "faded",
+            "meaning_en": "deeply marked in memory",
+            "example": "He had a sharply etched memory of that trip."
+          },
+          {
+            "word": "soot",
+            "pos": "noun",
+            "bangla": "ঝুল / কালি",
+            "synonym": "black ash",
+            "antonym": "—",
+            "meaning_en": "black powder left from fire or smoke",
+            "example": "Soot covered the stone walls."
+          },
+          {
+            "word": "crater",
+            "pos": "noun",
+            "bangla": "গর্ত (বিস্ফোরণে)",
+            "synonym": "pit, hole",
+            "antonym": "—",
+            "meaning_en": "a large hole made by an explosion",
+            "example": "A bomb crater became a swimming hole."
+          },
+          {
+            "word": "flyspeck",
+            "pos": "noun",
+            "bangla": "অতি ক্ষুদ্র বিন্দু",
+            "synonym": "tiny dot",
+            "antonym": "—",
+            "meaning_en": "something very small, like a tiny dot",
+            "example": "Their boat was a flyspeck in the vast sea."
+          },
+          {
+            "word": "indifferent",
+            "pos": "adj",
+            "bangla": "উদাসীন / নির্বিকার",
+            "synonym": "unconcerned",
+            "antonym": "caring, sympathetic",
+            "meaning_en": "showing no concern or care",
+            "example": "The sea is deep, vast and indifferent."
+          },
+          {
+            "word": "precious",
+            "pos": "adj",
+            "bangla": "মূল্যবান / প্রিয়",
+            "synonym": "valuable, dear",
+            "antonym": "worthless",
+            "meaning_en": "of great value or deeply loved",
+            "example": "His son was the most precious cargo."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Who wrote 'Sea Prayer'?",
+            "options": [
+              "Leo Tolstoy",
+              "Khaled Hosseini",
+              "Rachel Field",
+              "Spencer Holst"
+            ],
+            "answer_index": 1,
+            "explain": "'Sea Prayer' was written by Khaled Hosseini."
+          },
+          {
+            "q": "Who is the father speaking to in the text?",
+            "options": [
+              "his wife",
+              "his son, Marwan",
+              "a soldier",
+              "a friend"
+            ],
+            "answer_index": 1,
+            "explain": "He is speaking to his young son, Marwan."
+          },
+          {
+            "q": "Where did the father spend his peaceful boyhood?",
+            "options": [
+              "in a city flat",
+              "at his grandfather's farmhouse outside Homs",
+              "on a boat",
+              "in a refugee camp"
+            ],
+            "answer_index": 1,
+            "explain": "He spent it at his grandfather's farmhouse outside Homs."
+          },
+          {
+            "q": "What did the Old City of Homs have?",
+            "options": [
+              "only factories",
+              "a mosque, a church and a grand souk",
+              "no people",
+              "only deserts"
+            ],
+            "answer_index": 1,
+            "explain": "It had a mosque, a church and a grand souk."
+          },
+          {
+            "q": "What came after the protests in Homs?",
+            "options": [
+              "a festival",
+              "the siege, bombs and starvation",
+              "good harvests",
+              "new schools"
+            ],
+            "answer_index": 1,
+            "explain": "After the protests came the siege, bombs and starvation."
+          },
+          {
+            "q": "Where are the father and his family now?",
+            "options": [
+              "safe at home",
+              "on a cold beach with other refugees, waiting to cross the sea",
+              "in a palace",
+              "on a holiday"
+            ],
+            "answer_index": 1,
+            "explain": "They are refugees on a beach, waiting to cross the sea."
+          },
+          {
+            "q": "Which peoples are waiting on the beach with them?",
+            "options": [
+              "only Syrians",
+              "Afghans, Somalis, Iraqis, Eritreans and Syrians",
+              "only Europeans",
+              "tourists"
+            ],
+            "answer_index": 1,
+            "explain": "Afghans, Somalis, Iraqis, Eritreans and Syrians wait together."
+          },
+          {
+            "q": "Why does the father feel powerless?",
+            "options": [
+              "he is ill",
+              "he cannot protect his son from the deep, vast sea",
+              "he has no boat",
+              "he is asleep"
+            ],
+            "answer_index": 1,
+            "explain": "He feels powerless to protect his son from the dangerous sea, so he prays."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Who is the speaker in 'Sea Prayer', and who is he speaking to?",
+            "model": "The speaker is a father, a refugee fleeing war, and he is speaking lovingly to his young sleeping son, Marwan, on a cold, moonlit beach."
+          },
+          {
+            "q": "What does the father remember about his childhood in Homs?",
+            "model": "He remembers a peaceful childhood at his grandfather's farmhouse outside Homs, waking to olive trees in the breeze and farm sounds, and the bustling Old City with its mosque, church and grand souk."
+          },
+          {
+            "q": "How did life in Homs change?",
+            "model": "Life changed when first the protests came, then the siege, and then bombs, starvation and burials. The peaceful old life began to feel like a long-dissolved dream."
+          },
+          {
+            "q": "Where are the father and his family now, and what are they waiting to do?",
+            "model": "They are now on a cold, moonlit beach among many other refugees. They are waiting, in dread, to cross the sea in a vessel in search of a new home."
+          },
+          {
+            "q": "Why does the father feel powerless?",
+            "model": "The father feels powerless because the sea is so deep, vast and indifferent that he cannot really protect his son from its dangers. All he can do is hold his son and pray."
+          },
+          {
+            "q": "What is the central message of 'Sea Prayer'?",
+            "model": "The central message is the suffering of refugees and the deep love of a parent. It shows how war destroys peaceful lives and asks us to feel sympathy for families forced to risk everything in search of safety."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Marwan's father recalls waking up to the sound of cars and traffic during his childhood summers.",
+            "is_true": false,
+            "correction": "He recalls waking to olive trees stirring in the breeze and farm sounds, not cars and traffic."
+          },
+          {
+            "statement": "Marwan's father remembers showing him a herd of cows when he was a toddler.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Marwan's father remembers building dams in the creek near the farmhouse when he was a boy.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Life in Homs stayed peaceful and never changed.",
+            "is_true": false,
+            "correction": "Life changed: first protests, then siege, bombs, starvation and burials."
+          },
+          {
+            "statement": "The family is now safe in their old home.",
+            "is_true": false,
+            "correction": "They are now refugees on a beach, waiting to cross the sea."
+          },
+          {
+            "statement": "The father feels he can fully protect his son from the sea.",
+            "is_true": false,
+            "correction": "He feels powerless to protect his son, so all he can do is pray."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "In 'Sea Prayer', a father remembers the (1)____ Old City of Homs with its mosque, church and souk. But after the protests came the (2)____, bombs and starvation. Now the family are (3)____ on a cold beach, waiting to cross the sea. As his son sleeps in (4)____ innocence, the father can only (5)____ for a safe journey.",
+          "blanks": [
+            "bustling",
+            "siege",
+            "refugees",
+            "guileless",
+            "pray"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Who/what",
+            "Detail"
+          ],
+          "rows": [
+            [
+              "Author",
+              "Khaled Hosseini"
+            ],
+            [
+              "The father is speaking to",
+              "his son, Marwan"
+            ],
+            [
+              "The family's home",
+              "Homs, Syria"
+            ],
+            [
+              "What destroyed their life",
+              "protests, siege, bombs, starvation"
+            ],
+            [
+              "Where they are now",
+              "a beach, waiting to cross the sea"
+            ]
+          ],
+          "blanks": [
+            "Khaled Hosseini",
+            "his son, Marwan",
+            "Homs, Syria",
+            "protests, siege, bombs, starvation",
+            "a beach, waiting to cross the sea"
+          ]
+        },
+        "match": {
+          "left": [
+            "'Sea Prayer' is written by",
+            "The father speaks to",
+            "Their home was the city of",
+            "After protests came the",
+            "Now they wait to cross"
+          ],
+          "right": [
+            "Marwan.",
+            "the sea.",
+            "Khaled Hosseini.",
+            "Homs.",
+            "the siege."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "In 'Sea Prayer' by Khaled Hosseini, a father writes to his sleeping son, Marwan, on a cold beach as they prepare to flee by sea. He remembers his own peaceful boyhood near Homs, with its farmhouse, olive trees and bustling Old City of mosque, church and souk. Then came protests, siege, bombs and starvation, the only world his son has known. Now, among refugees from many lands, the father admits he is powerless against the vast, indifferent sea, and can only pray for a safe crossing, since his son is the most precious cargo of all.",
+          "skeleton": "In 'Sea Prayer', a father recalls the ____ city of Homs before war. After the protests came the ____, bombs and starvation. Now the family are ____ waiting to cross the sea, and the father can only ____ for his ____ son's safety."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'The Sufferings of Refugees' (about 100 words).",
+          "model": "Refugees are among the most unfortunate people in the world. They are forced to leave their homes because of war, violence or disaster, losing everything they once loved. As we see in 'Sea Prayer', a peaceful city can be destroyed by protests, siege and bombs, turning ordinary families into homeless wanderers. Refugees often travel long, dangerous distances, crossing rough seas in crowded boats with little food or safety. Many feel unwelcome in new lands, yet all they truly want is a safe home and a future for their children. We should treat refugees with kindness and sympathy, for they have suffered far more than most of us can imagine."
+        }
+      }
+    ]
+  }
+}

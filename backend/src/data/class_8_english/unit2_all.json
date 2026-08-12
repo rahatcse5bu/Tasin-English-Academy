@@ -1,0 +1,1632 @@
+{
+  "unit": {
+    "id": "u2",
+    "number": 2,
+    "title": "Food and Nutrition",
+    "bangla_title": "খাদ্য ও পুষ্টি",
+    "lessons": [
+      {
+        "id": "u2l1",
+        "unit": 2,
+        "unit_title": "Food and Nutrition",
+        "number": 1,
+        "title": "Good Food",
+        "keywords": [
+          "nutritious",
+          "substances",
+          "physical",
+          "structure"
+        ],
+        "learn_line": "What 'good food' really means, why the body needs it, and why people need different amounts.",
+        "minutes": 10,
+        "warmup": [
+          "What did you eat today? Was it good for your body?",
+          "Does everyone in your family eat the same amount of food? Why or why not?",
+          "What do you think 'nutritious' food means?",
+          "Can eating too much, even of good food, be harmful?"
+        ],
+        "reading": {
+          "summary_en": "In this lesson, Ms Rehana, the English teacher, talks to her class about food. She explains that food is very important because we cannot live without it, so we must always eat good food. Good food means the right kind of food for good health — it is nutritious and contains the natural substances the body needs to grow properly and stay healthy. However, she warns that eating too much is bad for health, even if the food is good. A person should eat only the amount the body needs, and this amount depends on a person's growth and physical structure, so not everyone needs the same kind or quantity of food.",
+          "gist_bn": "এই পাঠে ইংরেজি শিক্ষক মিস রেহানা শ্রেণিতে খাবার নিয়ে কথা বলেন। তিনি বলেন, খাদ্য ছাড়া আমরা বাঁচতে পারি না, তাই সবসময় ভালো খাবার খেতে হবে। ভালো খাবার মানে সুস্বাস্থ্যের জন্য সঠিক খাবার—যা পুষ্টিকর এবং শরীরের প্রয়োজনীয় প্রাকৃতিক উপাদান ধারণ করে। তবে ভালো খাবারও বেশি খাওয়া স্বাস্থ্যের জন্য ক্ষতিকর। প্রত্যেকের বৃদ্ধি ও শারীরিক গঠন অনুযায়ী খাবারের ধরন ও পরিমাণ আলাদা হয়।",
+          "book_page": 14
+        },
+        "vocab": [
+          {
+            "word": "nutrition",
+            "pos": "noun",
+            "bangla": "পুষ্টি",
+            "synonym": "nourishment",
+            "antonym": "malnutrition",
+            "meaning_en": "the food needed to grow and stay healthy",
+            "example": "Good nutrition keeps children strong."
+          },
+          {
+            "word": "nutritious",
+            "pos": "adj",
+            "bangla": "পুষ্টিকর",
+            "synonym": "nourishing, wholesome",
+            "antonym": "unhealthy",
+            "meaning_en": "full of the substances the body needs",
+            "example": "Vegetables and fish are nutritious."
+          },
+          {
+            "word": "substance",
+            "pos": "noun",
+            "bangla": "উপাদান, পদার্থ",
+            "synonym": "material, element",
+            "antonym": "—",
+            "meaning_en": "a type of matter with particular qualities",
+            "example": "Food contains substances our body needs."
+          },
+          {
+            "word": "physical",
+            "pos": "adj",
+            "bangla": "শারীরিক",
+            "synonym": "bodily",
+            "antonym": "mental",
+            "meaning_en": "relating to the body",
+            "example": "Food depends on your physical structure."
+          },
+          {
+            "word": "structure",
+            "pos": "noun",
+            "bangla": "গঠন",
+            "synonym": "build, form",
+            "antonym": "—",
+            "meaning_en": "the way something is built or formed",
+            "example": "Each person's physical structure is different."
+          },
+          {
+            "word": "quantity",
+            "pos": "noun",
+            "bangla": "পরিমাণ",
+            "synonym": "amount",
+            "antonym": "—",
+            "meaning_en": "how much there is of something",
+            "example": "Eat only a certain quantity of food."
+          },
+          {
+            "word": "certain",
+            "pos": "adj",
+            "bangla": "নির্দিষ্ট",
+            "synonym": "particular, fixed",
+            "antonym": "uncertain",
+            "meaning_en": "a specific, fixed amount",
+            "example": "You need only a certain amount of food."
+          },
+          {
+            "word": "depend",
+            "pos": "verb",
+            "bangla": "নির্ভর করা",
+            "synonym": "rely",
+            "antonym": "—",
+            "meaning_en": "to be decided by something else",
+            "example": "How much you eat depends on your growth."
+          },
+          {
+            "word": "properly",
+            "pos": "adverb",
+            "bangla": "যথাযথভাবে",
+            "synonym": "correctly",
+            "antonym": "improperly",
+            "meaning_en": "in the right way",
+            "example": "Good food helps the body grow properly."
+          },
+          {
+            "word": "amount",
+            "pos": "noun",
+            "bangla": "পরিমাণ",
+            "synonym": "quantity",
+            "antonym": "—",
+            "meaning_en": "how much of something there is",
+            "example": "Eat only the amount your body needs."
+          },
+          {
+            "word": "healthy",
+            "pos": "adj",
+            "bangla": "স্বাস্থ্যকর / সুস্থ",
+            "synonym": "fit, well",
+            "antonym": "unhealthy, sick",
+            "meaning_en": "in good health",
+            "example": "Good food keeps us healthy."
+          },
+          {
+            "word": "grow",
+            "pos": "verb",
+            "bangla": "বেড়ে ওঠা",
+            "synonym": "develop",
+            "antonym": "shrink",
+            "meaning_en": "to become bigger over time",
+            "example": "Children need food to grow."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Who is talking to the class about food?",
+            "options": [
+              "the science teacher",
+              "Ms Rehana, the English teacher",
+              "the head teacher",
+              "a doctor"
+            ],
+            "answer_index": 1,
+            "explain": "Ms Rehana, the English teacher, talks to the class about food."
+          },
+          {
+            "q": "According to the lesson, good food means —",
+            "options": [
+              "expensive food",
+              "tasty food",
+              "the right kind of food for good health",
+              "foreign food"
+            ],
+            "answer_index": 2,
+            "explain": "Good food means the right kind of food for good health."
+          },
+          {
+            "q": "Nutritious food contains —",
+            "options": [
+              "only sugar",
+              "natural substances the body needs",
+              "only water",
+              "artificial colours"
+            ],
+            "answer_index": 1,
+            "explain": "It contains natural substances the body needs to grow and stay healthy."
+          },
+          {
+            "q": "Eating too much food is —",
+            "options": [
+              "always good",
+              "bad for health",
+              "necessary for everyone",
+              "good only for adults"
+            ],
+            "answer_index": 1,
+            "explain": "Eating too much is bad for health, even if the food is good."
+          },
+          {
+            "q": "How much should a person eat?",
+            "options": [
+              "as much as possible",
+              "only the amount the body needs",
+              "nothing at all",
+              "only sweets"
+            ],
+            "answer_index": 1,
+            "explain": "You should eat only a certain amount that your body needs."
+          },
+          {
+            "q": "The kind and quantity of food a person needs depends on —",
+            "options": [
+              "the weather",
+              "their growth and physical structure",
+              "their favourite colour",
+              "the day of the week"
+            ],
+            "answer_index": 1,
+            "explain": "It depends on a person's growth and physical structure."
+          },
+          {
+            "q": "Why is food important for us?",
+            "options": [
+              "it is tasty",
+              "we cannot live without it",
+              "it is cheap",
+              "it is colourful"
+            ],
+            "answer_index": 1,
+            "explain": "Food is very important because we cannot live without it."
+          },
+          {
+            "q": "Does everyone need the same kind of food in the same quantity?",
+            "options": [
+              "yes, always",
+              "no, it depends on the person",
+              "yes, only children",
+              "no, only adults differ"
+            ],
+            "answer_index": 1,
+            "explain": "We do not need the same kind of food in the same quantity."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What is Ms Rehana talking about?",
+            "model": "Ms Rehana, the English teacher, is talking to her class about food. She explains what good food is and why it is important for our body."
+          },
+          {
+            "q": "Why do we eat food?",
+            "model": "We eat food because it is very important for our body and we cannot live without it. Good food helps the body grow properly and stay healthy."
+          },
+          {
+            "q": "What is meant by 'nutritious food'?",
+            "model": "Nutritious food is food that contains the natural substances our body needs to grow properly and stay healthy. It is the right kind of food for good health."
+          },
+          {
+            "q": "How much food does a person need to eat a day?",
+            "model": "A person should eat only a certain amount of food that the body needs. Eating too much is bad for health, even if the food is good."
+          },
+          {
+            "q": "Does everyone need the same amount of food? Why?",
+            "model": "No, everyone does not need the same kind or amount of food. The amount depends on a person's growth and physical structure, so it is different for different people."
+          },
+          {
+            "q": "What happens if we eat too much good food?",
+            "model": "Even if the food is good, eating too much is bad for health. We should eat only the amount our body actually needs."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "We can live without food for a long time.",
+            "is_true": false,
+            "correction": "We cannot live without food; that is why it is so important."
+          },
+          {
+            "statement": "Good food means the right kind of food for good health.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Eating too much good food is good for health.",
+            "is_true": false,
+            "correction": "Eating too much is bad for health, even if the food is good."
+          },
+          {
+            "statement": "Nutritious food contains natural substances the body needs.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Everyone needs the same kind and quantity of food.",
+            "is_true": false,
+            "correction": "The kind and quantity depend on a person's growth and physical structure."
+          },
+          {
+            "statement": "The amount of food we need depends on our growth and physical structure.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "Food is very important for our body because we cannot (1)____ without it. Good food is (2)____, which means it contains natural (3)____ the body needs. But we should not eat too (4)____. The amount of food we need depends on our growth and physical (5)____.",
+          "blanks": [
+            "live",
+            "nutritious",
+            "substances",
+            "much",
+            "structure"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Question",
+            "Idea from the text"
+          ],
+          "rows": [
+            [
+              "What is good food?",
+              "the right kind of food for good health"
+            ],
+            [
+              "What does nutritious food contain?",
+              "natural substances the body needs"
+            ],
+            [
+              "Why can't we skip food?",
+              "we cannot live without it"
+            ],
+            [
+              "What is bad for health?",
+              "eating too much"
+            ],
+            [
+              "What decides how much we eat?",
+              "our growth and physical structure"
+            ]
+          ],
+          "blanks": [
+            "the right kind of food for good health",
+            "natural substances the body needs",
+            "we cannot live without it",
+            "eating too much",
+            "our growth and physical structure"
+          ]
+        },
+        "match": {
+          "left": [
+            "Good food means",
+            "Nutritious food contains",
+            "Eating too much is",
+            "Food is important because",
+            "The amount of food depends on"
+          ],
+          "right": [
+            "bad for health.",
+            "our growth and structure.",
+            "the right food for health.",
+            "we can't live without it.",
+            "natural substances."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "Ms Rehana teaches her class that food is essential because we cannot live without it, so we should always eat good food. Good food is nutritious and contains the natural substances the body needs to grow and stay healthy. However, eating too much is harmful even when the food is good, so each person should eat only the amount their body needs, which depends on their growth and physical structure.",
+          "skeleton": "Food is important because we cannot ____ without it. Good food is ____ and contains the ____ our body needs. We should not eat too ____, and the amount depends on our ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'Good Food' (about 100 words).",
+          "model": "Good food is the foundation of a healthy life. It means the right kind of food that keeps our body fit and strong. Such food is nutritious, which means it contains the natural substances our body needs to grow properly and to stay free from disease. However, good food alone is not enough; we must also eat the right amount. Eating too much, even of healthy food, harms the body. The quantity we need is not the same for everyone, because it depends on a person's age, growth and physical structure. By choosing good food and eating it in the right amount, we can lead a healthy and active life."
+        }
+      },
+      {
+        "id": "u2l2",
+        "unit": 2,
+        "unit_title": "Food and Nutrition",
+        "number": 2,
+        "title": "Kinds of Food",
+        "keywords": [
+          "carbohydrate",
+          "protein",
+          "vitamins",
+          "minerals"
+        ],
+        "learn_line": "The main classes of food, what each one does for the body, and which foods give us each.",
+        "minutes": 10,
+        "warmup": [
+          "How many kinds of food do you think the body needs?",
+          "Which foods give you energy to run and play?",
+          "Which foods help you build muscles and grow?",
+          "Why do doctors tell us to eat fruits and vegetables?"
+        ],
+        "reading": {
+          "summary_en": "Foods are divided into classes according to the substances they contain. The main classes are carbohydrates, proteins, fats, and vitamins and minerals. Carbohydrates give us energy and are found in foods like rice, potatoes and sugar. Proteins help the body grow and repair itself and come from fish, meat, eggs and pulses. Fats also give energy and warmth, and butter and ghee are a good source of fat. Vitamins and minerals protect the body and keep it healthy; minerals are present in foods such as milk, and vitamins come mainly from fruits and vegetables. To stay healthy we need all of these kinds of food in the right balance.",
+          "gist_bn": "খাদ্যের মধ্যে থাকা উপাদান অনুযায়ী খাবারকে কয়েকটি শ্রেণিতে ভাগ করা হয়—শর্করা (কার্বোহাইড্রেট), আমিষ (প্রোটিন), চর্বি (ফ্যাট) এবং ভিটামিন ও খনিজ। কার্বোহাইড্রেট শক্তি দেয় (ভাত, আলু, চিনি)। প্রোটিন দেহ গঠন ও মেরামত করে (মাছ, মাংস, ডিম, ডাল)। চর্বি শক্তি ও উষ্ণতা দেয় (মাখন, ঘি)। ভিটামিন ও খনিজ দেহকে সুস্থ রাখে (দুধে খনিজ, ফল ও শাকসবজিতে ভিটামিন)। সুস্থ থাকতে সব ধরনের খাবারই সঠিক পরিমাণে দরকার।",
+          "book_page": 15
+        },
+        "vocab": [
+          {
+            "word": "carbohydrate",
+            "pos": "noun",
+            "bangla": "শর্করা",
+            "synonym": "starch, sugar",
+            "antonym": "—",
+            "meaning_en": "a food substance that gives the body energy",
+            "example": "Rice is rich in carbohydrate."
+          },
+          {
+            "word": "protein",
+            "pos": "noun",
+            "bangla": "আমিষ",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "a food substance that helps the body grow and repair",
+            "example": "Fish and eggs are full of protein."
+          },
+          {
+            "word": "fat",
+            "pos": "noun",
+            "bangla": "চর্বি",
+            "synonym": "grease, lipid",
+            "antonym": "—",
+            "meaning_en": "a food substance that gives energy and warmth",
+            "example": "Butter and ghee are sources of fat."
+          },
+          {
+            "word": "vitamin",
+            "pos": "noun",
+            "bangla": "ভিটামিন",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "a natural substance in food that keeps the body healthy",
+            "example": "Fruits give us many vitamins."
+          },
+          {
+            "word": "mineral",
+            "pos": "noun",
+            "bangla": "খনিজ",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "a natural substance like calcium or iron the body needs",
+            "example": "Minerals are present in milk."
+          },
+          {
+            "word": "source",
+            "pos": "noun",
+            "bangla": "উৎস",
+            "synonym": "origin, supply",
+            "antonym": "—",
+            "meaning_en": "a thing that something comes from",
+            "example": "Ghee is a good source of fat."
+          },
+          {
+            "word": "contain",
+            "pos": "verb",
+            "bangla": "ধারণ করা / থাকা",
+            "synonym": "hold, include",
+            "antonym": "exclude",
+            "meaning_en": "to have something inside",
+            "example": "Potatoes contain a lot of carbohydrate."
+          },
+          {
+            "word": "divide",
+            "pos": "verb",
+            "bangla": "ভাগ করা",
+            "synonym": "separate, split",
+            "antonym": "combine",
+            "meaning_en": "to separate into parts or groups",
+            "example": "Foods are divided into classes."
+          },
+          {
+            "word": "energy",
+            "pos": "noun",
+            "bangla": "শক্তি",
+            "synonym": "power, strength",
+            "antonym": "weakness",
+            "meaning_en": "the power to do work or be active",
+            "example": "Carbohydrates give us energy."
+          },
+          {
+            "word": "according to",
+            "pos": "phrase",
+            "bangla": "অনুযায়ী",
+            "synonym": "based on",
+            "antonym": "—",
+            "meaning_en": "as stated or shown by",
+            "example": "Foods are grouped according to what they contain."
+          },
+          {
+            "word": "balance",
+            "pos": "noun",
+            "bangla": "ভারসাম্য",
+            "synonym": "proportion",
+            "antonym": "imbalance",
+            "meaning_en": "a healthy mix of different things",
+            "example": "We need a balance of all food types."
+          },
+          {
+            "word": "repair",
+            "pos": "verb",
+            "bangla": "মেরামত করা / সারানো",
+            "synonym": "mend, restore",
+            "antonym": "damage",
+            "meaning_en": "to fix or build back",
+            "example": "Protein helps repair the body."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Foods are divided into classes according to —",
+            "options": [
+              "colours and tastes",
+              "shapes and sizes",
+              "substances they contain",
+              "water they contain"
+            ],
+            "answer_index": 2,
+            "explain": "Foods are classified by the substances they contain."
+          },
+          {
+            "q": "Potatoes contain a lot of —",
+            "options": [
+              "carbohydrate",
+              "protein",
+              "vitamins",
+              "minerals"
+            ],
+            "answer_index": 0,
+            "explain": "Potatoes are rich in carbohydrate."
+          },
+          {
+            "q": "Butter and ghee are a good source of —",
+            "options": [
+              "protein",
+              "fat",
+              "vitamins",
+              "carbohydrate"
+            ],
+            "answer_index": 1,
+            "explain": "Butter and ghee provide fat."
+          },
+          {
+            "q": "Minerals are present in —",
+            "options": [
+              "nuts",
+              "peas",
+              "milk",
+              "water"
+            ],
+            "answer_index": 2,
+            "explain": "Minerals are present in milk."
+          },
+          {
+            "q": "Which food has the most carbohydrate?",
+            "options": [
+              "Sugar",
+              "Vegetables",
+              "Fruits",
+              "Leafy greens"
+            ],
+            "answer_index": 0,
+            "explain": "Sugar is almost entirely carbohydrate."
+          },
+          {
+            "q": "Which food group helps the body grow and repair?",
+            "options": [
+              "fat",
+              "protein",
+              "water",
+              "vitamins"
+            ],
+            "answer_index": 1,
+            "explain": "Protein helps build and repair the body."
+          },
+          {
+            "q": "Which group mainly protects the body and keeps it healthy?",
+            "options": [
+              "carbohydrates",
+              "fats",
+              "vitamins and minerals",
+              "sugar"
+            ],
+            "answer_index": 2,
+            "explain": "Vitamins and minerals protect the body."
+          },
+          {
+            "q": "Fish, meat and eggs are rich in —",
+            "options": [
+              "carbohydrate",
+              "protein",
+              "fat",
+              "fibre"
+            ],
+            "answer_index": 1,
+            "explain": "These are protein foods."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "How many kinds of food do we need, and what are they?",
+            "model": "We need several kinds of food: carbohydrates, proteins, fats, and vitamins and minerals. Each kind does a different job in keeping the body healthy."
+          },
+          {
+            "q": "According to what are foods divided into classes?",
+            "model": "Foods are divided into classes according to the substances they contain, such as carbohydrate, protein, fat, vitamins and minerals."
+          },
+          {
+            "q": "What do carbohydrates do for the body?",
+            "model": "Carbohydrates give the body energy to work and play. They are found in foods like rice, potatoes and sugar."
+          },
+          {
+            "q": "Why do we need protein?",
+            "model": "We need protein because it helps the body grow and repair itself. Fish, meat, eggs and pulses are good sources of protein."
+          },
+          {
+            "q": "What is the role of vitamins and minerals?",
+            "model": "Vitamins and minerals protect the body and keep it healthy. We get them mainly from fruits, vegetables and milk."
+          },
+          {
+            "q": "Give one good source of fat.",
+            "model": "Butter and ghee are a good source of fat, which gives the body energy and warmth."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Foods are divided into classes by their colours and tastes.",
+            "is_true": false,
+            "correction": "Foods are divided according to the substances they contain."
+          },
+          {
+            "statement": "Potatoes contain a lot of carbohydrate.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Butter and ghee are a good source of protein.",
+            "is_true": false,
+            "correction": "Butter and ghee are a good source of fat."
+          },
+          {
+            "statement": "Minerals are present in milk.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Protein helps the body grow and repair itself.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Vitamins and minerals give us most of our energy.",
+            "is_true": false,
+            "correction": "Carbohydrates and fats give energy; vitamins and minerals protect the body."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "Foods are divided into classes according to the (1)____ they contain. (2)____ give us energy and are found in rice and potatoes. (3)____ helps the body grow and repair, and comes from fish and eggs. Butter and ghee are a source of (4)____. (5)____ and minerals protect the body and keep it healthy.",
+          "blanks": [
+            "substances",
+            "Carbohydrates",
+            "Protein",
+            "fat",
+            "Vitamins"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Food class",
+            "Main job / source"
+          ],
+          "rows": [
+            [
+              "Carbohydrate",
+              "energy — rice, potato, sugar"
+            ],
+            [
+              "Protein",
+              "growth & repair — fish, meat, egg"
+            ],
+            [
+              "Fat",
+              "energy & warmth — butter, ghee"
+            ],
+            [
+              "Minerals",
+              "keep body healthy — milk"
+            ],
+            [
+              "Vitamins",
+              "protect body — fruits, vegetables"
+            ]
+          ],
+          "blanks": [
+            "energy — rice, potato, sugar",
+            "growth & repair — fish, meat, egg",
+            "energy & warmth — butter, ghee",
+            "keep body healthy — milk",
+            "protect body — fruits, vegetables"
+          ]
+        },
+        "match": {
+          "left": [
+            "Carbohydrates give us",
+            "Protein helps the body",
+            "Butter and ghee are",
+            "Minerals are present",
+            "Vitamins come mainly from"
+          ],
+          "right": [
+            "a source of fat.",
+            "fruits and vegetables.",
+            "energy.",
+            "in milk.",
+            "grow and repair."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "Foods are divided into classes according to the substances they contain. Carbohydrates such as rice and potatoes give energy, while proteins from fish, meat and eggs help the body grow and repair. Fats from butter and ghee provide energy and warmth, and vitamins and minerals from fruits, vegetables and milk protect the body and keep it healthy. A healthy person needs all of these kinds of food in the right balance.",
+          "skeleton": "Foods are grouped by the ____ they contain. ____ give energy, ____ helps growth and repair, ____ give warmth, and ____ protect the body."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'Kinds of Food' (about 100 words).",
+          "model": "Our body needs different kinds of food to stay healthy, and each kind has its own job. Carbohydrates, found in rice, potatoes and sugar, give us the energy to work and play. Proteins, which come from fish, meat, eggs and pulses, help the body grow and repair itself. Fats, such as those in butter and ghee, also provide energy and keep the body warm. Finally, vitamins and minerals, found in fruits, vegetables and milk, protect the body and keep it free from disease. No single food can give us everything, so we should eat a balanced mix of all these kinds every day."
+        }
+      },
+      {
+        "id": "u2l3",
+        "unit": 2,
+        "unit_title": "Food and Nutrition",
+        "number": 3,
+        "title": "Our Daily Diet",
+        "keywords": [
+          "essential",
+          "disease",
+          "calcium",
+          "interval"
+        ],
+        "learn_line": "Which foods we should eat regularly, and why milk, fruit, vegetables and water matter every day.",
+        "minutes": 10,
+        "warmup": [
+          "What do you usually eat every single day?",
+          "Why do you think milk is good for children?",
+          "How often should we drink water during the day?",
+          "Which foods keep our skin and body free from disease?"
+        ],
+        "reading": {
+          "summary_en": "In this dialogue, Ms Rehana talks with her students about the essential foods we need in our daily diet. The students say they eat rice, ruti, fish and meat every day. Ms Rehana adds that we must also eat vegetables and fruits, because they contain plenty of vitamins and minerals that keep the body free from diseases and are good for the skin and overall health. She also explains that we should drink milk every day, as it is highly rich in calcium, which helps healthy growth and makes our bones and teeth strong. Finally, she reminds them to drink pure water at regular intervals, because water is essential and we cannot live without it.",
+          "gist_bn": "এই কথোপকথনে মিস রেহানা শিক্ষার্থীদের সঙ্গে দৈনন্দিন খাদ্যতালিকার প্রয়োজনীয় খাবার নিয়ে আলোচনা করেন। শিক্ষার্থীরা প্রতিদিন ভাত, রুটি, মাছ ও মাংস খায়। রেহানা বলেন, শাকসবজি ও ফলও খেতে হবে—এগুলোতে প্রচুর ভিটামিন ও খনিজ থাকে যা দেহকে রোগমুক্ত রাখে এবং ত্বক ও স্বাস্থ্যের জন্য ভালো। প্রতিদিন দুধ পান করা উচিত, কারণ এতে ক্যালসিয়াম থাকে যা হাড় ও দাঁত মজবুত করে। নিয়মিত বিরতিতে বিশুদ্ধ পানি পান করতে হবে, কারণ পানি ছাড়া বাঁচা যায় না।",
+          "book_page": 16
+        },
+        "vocab": [
+          {
+            "word": "essential",
+            "pos": "adj",
+            "bangla": "অত্যাবশ্যক / অপরিহার্য",
+            "synonym": "necessary, vital",
+            "antonym": "unnecessary",
+            "meaning_en": "absolutely necessary",
+            "example": "Water is essential for our body."
+          },
+          {
+            "word": "disease",
+            "pos": "noun",
+            "bangla": "রোগ",
+            "synonym": "illness, sickness",
+            "antonym": "health",
+            "meaning_en": "an illness of the body",
+            "example": "Fruits keep the body free from disease."
+          },
+          {
+            "word": "calcium",
+            "pos": "noun",
+            "bangla": "ক্যালসিয়াম",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "a mineral that makes bones and teeth strong",
+            "example": "Milk is rich in calcium."
+          },
+          {
+            "word": "interval",
+            "pos": "noun",
+            "bangla": "বিরতি / ব্যবধান",
+            "synonym": "gap, break",
+            "antonym": "—",
+            "meaning_en": "a period of time between events",
+            "example": "Drink water at regular intervals."
+          },
+          {
+            "word": "diet",
+            "pos": "noun",
+            "bangla": "খাদ্যতালিকা / আহার",
+            "synonym": "food, regimen",
+            "antonym": "—",
+            "meaning_en": "the food a person usually eats",
+            "example": "A balanced diet keeps us healthy."
+          },
+          {
+            "word": "regularly",
+            "pos": "adverb",
+            "bangla": "নিয়মিতভাবে",
+            "synonym": "routinely",
+            "antonym": "rarely",
+            "meaning_en": "at fixed, repeated times",
+            "example": "We should eat good food regularly."
+          },
+          {
+            "word": "overall",
+            "pos": "adj",
+            "bangla": "সামগ্রিক",
+            "synonym": "general, total",
+            "antonym": "partial",
+            "meaning_en": "taking everything together",
+            "example": "Fruits are good for overall health."
+          },
+          {
+            "word": "rich in",
+            "pos": "phrase",
+            "bangla": "সমৃদ্ধ",
+            "synonym": "full of",
+            "antonym": "lacking in",
+            "meaning_en": "containing a large amount of",
+            "example": "Milk is rich in calcium."
+          },
+          {
+            "word": "pure",
+            "pos": "adj",
+            "bangla": "বিশুদ্ধ",
+            "synonym": "clean, fresh",
+            "antonym": "impure, dirty",
+            "meaning_en": "not mixed with anything harmful",
+            "example": "We must drink pure water."
+          },
+          {
+            "word": "growth",
+            "pos": "noun",
+            "bangla": "বৃদ্ধি",
+            "synonym": "development",
+            "antonym": "decline",
+            "meaning_en": "the process of growing",
+            "example": "Calcium is good for healthy growth."
+          },
+          {
+            "word": "strong",
+            "pos": "adj",
+            "bangla": "মজবুত / শক্তিশালী",
+            "synonym": "sturdy, firm",
+            "antonym": "weak",
+            "meaning_en": "having power or firmness",
+            "example": "Milk makes our bones strong."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "What is the dialogue mainly about?",
+            "options": [
+              "games to play",
+              "essential foods in our daily diet",
+              "a school trip",
+              "cooking a feast"
+            ],
+            "answer_index": 1,
+            "explain": "Ms Rehana discusses essential foods for our daily diet."
+          },
+          {
+            "q": "The students say they eat ___ every day.",
+            "options": [
+              "only fruits",
+              "rice, ruti, fish and meat",
+              "only milk",
+              "only vegetables"
+            ],
+            "answer_index": 1,
+            "explain": "They mention rice, ruti, fish and meat."
+          },
+          {
+            "q": "Why should we eat vegetables and fruits?",
+            "options": [
+              "they are cheap",
+              "they contain vitamins and minerals",
+              "they taste sweet",
+              "they are easy to cook"
+            ],
+            "answer_index": 1,
+            "explain": "They contain vitamins and minerals that keep us healthy."
+          },
+          {
+            "q": "Milk is highly rich in —",
+            "options": [
+              "fat",
+              "sugar",
+              "calcium",
+              "protein only"
+            ],
+            "answer_index": 2,
+            "explain": "Milk is highly rich in calcium."
+          },
+          {
+            "q": "Calcium makes our ___ strong.",
+            "options": [
+              "hair and nails",
+              "bones and teeth",
+              "eyes and ears",
+              "skin"
+            ],
+            "answer_index": 1,
+            "explain": "Calcium makes bones and teeth strong."
+          },
+          {
+            "q": "We should drink pure water —",
+            "options": [
+              "only once a day",
+              "at regular intervals",
+              "only when ill",
+              "only with meals"
+            ],
+            "answer_index": 1,
+            "explain": "We must drink pure water at regular intervals."
+          },
+          {
+            "q": "According to the dialogue, what can we not live without?",
+            "options": [
+              "sweets",
+              "drinking water",
+              "meat",
+              "tea"
+            ],
+            "answer_index": 1,
+            "explain": "Water is essential; we can't live without it."
+          },
+          {
+            "q": "Fruits and vegetables are also good for our —",
+            "options": [
+              "skin and overall health",
+              "height only",
+              "hair colour",
+              "voice"
+            ],
+            "answer_index": 0,
+            "explain": "They are good for the skin and overall health."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What do the students eat every day?",
+            "model": "The students say they eat rice, ruti, fish and meat every day. Ms Rehana tells them they should add other foods too."
+          },
+          {
+            "q": "Why must we eat vegetables and fruits?",
+            "model": "We must eat vegetables and fruits because they contain a lot of vitamins and minerals. They keep the body free from diseases and are good for the skin and overall health."
+          },
+          {
+            "q": "Why is milk good for us?",
+            "model": "Milk is good because it is highly rich in calcium. Calcium helps healthy growth and makes our bones and teeth strong."
+          },
+          {
+            "q": "Why should we drink water at regular intervals?",
+            "model": "We should drink pure water at regular intervals because water is essential for the body. We cannot live without drinking water."
+          },
+          {
+            "q": "What is meant by an 'essential' food?",
+            "model": "An essential food is one that the body absolutely needs to stay healthy and alive, such as water, which we cannot live without."
+          },
+          {
+            "q": "How does a balanced daily diet help us?",
+            "model": "A balanced daily diet of rice, fish, meat, vegetables, fruits, milk and water gives the body energy, helps it grow, keeps it free from disease and makes the bones and teeth strong."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Vegetables and fruits contain a lot of vitamins and minerals.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Milk is highly rich in fat.",
+            "is_true": false,
+            "correction": "Milk is highly rich in calcium."
+          },
+          {
+            "statement": "Calcium makes our bones and teeth strong.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "We should drink water only once a day.",
+            "is_true": false,
+            "correction": "We should drink pure water at regular intervals."
+          },
+          {
+            "statement": "We can easily live without drinking water.",
+            "is_true": false,
+            "correction": "Water is essential; we cannot live without drinking water."
+          },
+          {
+            "statement": "Fruits and vegetables are good for the skin and overall health.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "For good health we must choose the right food in our daily diet. We should eat vegetables and fruits because they contain vitamins and (1)____ and keep the body free from (2)____. We need to drink milk every day, as it is rich in (3)____, which makes our bones and teeth (4)____. We must also drink pure water at regular (5)____.",
+          "blanks": [
+            "minerals",
+            "diseases",
+            "calcium",
+            "strong",
+            "intervals"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Food / drink",
+            "Why it is needed"
+          ],
+          "rows": [
+            [
+              "Vegetables & fruits",
+              "vitamins and minerals; keep body disease-free"
+            ],
+            [
+              "Milk",
+              "rich in calcium; strong bones and teeth"
+            ],
+            [
+              "Water",
+              "essential; we can't live without it"
+            ],
+            [
+              "Rice & ruti",
+              "everyday energy foods"
+            ],
+            [
+              "Fish & meat",
+              "everyday protein foods"
+            ]
+          ],
+          "blanks": [
+            "vitamins and minerals; keep body disease-free",
+            "rich in calcium; strong bones and teeth",
+            "essential; we can't live without it",
+            "everyday energy foods",
+            "everyday protein foods"
+          ]
+        },
+        "match": {
+          "left": [
+            "Vegetables and fruits keep us",
+            "Milk is rich in",
+            "Calcium makes bones",
+            "We should drink water",
+            "Water is"
+          ],
+          "right": [
+            "calcium.",
+            "essential for life.",
+            "free from disease.",
+            "and teeth strong.",
+            "at regular intervals."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "Ms Rehana explains that a good daily diet needs more than rice, ruti, fish and meat. We must also eat vegetables and fruits, which are full of vitamins and minerals that keep the body free from disease and good for the skin. Milk should be taken every day because its calcium makes bones and teeth strong, and pure water must be drunk at regular intervals, since water is essential and we cannot live without it.",
+          "skeleton": "A good daily diet needs vegetables and fruits for ____ and ____. Milk gives ____ for strong bones and teeth, and we must drink pure ____ at regular ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'Our Daily Diet' (about 100 words).",
+          "model": "Our daily diet is the food we eat every day to stay alive and healthy, and choosing it wisely is essential. Most of us eat rice, ruti, fish and meat regularly, but these alone are not enough. We must also eat vegetables and fruits, which are rich in vitamins and minerals; they keep the body free from disease and are good for the skin and overall health. Milk should be part of our daily diet too, because it is rich in calcium that makes our bones and teeth strong. Above all, we should drink pure water at regular intervals, for water is essential and we cannot live without it."
+        }
+      },
+      {
+        "id": "u2l4",
+        "unit": 2,
+        "unit_title": "Food and Nutrition",
+        "number": 4,
+        "title": "A Delicious Dish",
+        "keywords": [
+          "custard",
+          "peel",
+          "ingredients",
+          "recipe"
+        ],
+        "learn_line": "How to read a recipe and describe a process step by step using sequence words.",
+        "minutes": 10,
+        "warmup": [
+          "What is your favourite home-made dish?",
+          "Have you ever helped someone cook? What did you do?",
+          "What does 'peel the fruit' mean?",
+          "Which words help us tell the steps of a process in order?"
+        ],
+        "reading": {
+          "summary_en": "This lesson is a simple recipe for making a delicious fruit custard. The ingredients are one ripe banana, one apple, one small ripe papaya, two tablespoons of custard powder, half a litre of milk and four tablespoons of sugar. To prepare it, you first wash and peel the fruits, then cut them into small pieces and keep them in a bowl. Next, you boil the milk in a pot and mix in the sugar. You take the custard powder in a cup, add four tablespoons of cold milk and mix it well, then pour this mixture into the boiling milk and stir. You boil it for five minutes, stirring all the time, then take the pot off the stove and let the custard cool. Finally, you pour it into the fruit bowl, and the delicious custard is ready to eat. The lesson also teaches sequence connectors — first, then, next, after that, finally.",
+          "gist_bn": "এই পাঠ একটি সুস্বাদু ফ্রুট কাস্টার্ড তৈরির সহজ রেসিপি। উপকরণ: পাকা কলা ১টি, আপেল ১টি, ছোট পাকা পেঁপে ১টি, কাস্টার্ড পাউডার ২ টেবিল চামচ, দুধ আধা লিটার, চিনি ৪ টেবিল চামচ। প্রথমে ফল ধুয়ে খোসা ছাড়িয়ে ছোট টুকরো করে বাটিতে রাখো; তারপর দুধ ফুটিয়ে চিনি মেশাও; কাপে কাস্টার্ড পাউডার ও ঠান্ডা দুধ মিশিয়ে ফুটন্ত দুধে ঢেলে নাড়াও; পাঁচ মিনিট ফুটিয়ে চুলা থেকে নামাও ও ঠান্ডা করো; অবশেষে ফলের বাটিতে ঢালো—কাস্টার্ড প্রস্তুত। পাঠটি ক্রমসূচক শব্দও শেখায়—first, then, next, after that, finally।",
+          "book_page": 18
+        },
+        "vocab": [
+          {
+            "word": "custard",
+            "pos": "noun",
+            "bangla": "কাস্টার্ড (এক ধরনের মিষ্টি পদ)",
+            "synonym": "pudding",
+            "antonym": "—",
+            "meaning_en": "a sweet dish made of milk, sugar and custard powder",
+            "example": "The fruit custard was delicious."
+          },
+          {
+            "word": "peel",
+            "pos": "verb",
+            "bangla": "খোসা ছাড়ানো",
+            "synonym": "skin",
+            "antonym": "—",
+            "meaning_en": "to remove the outer skin of a fruit or vegetable",
+            "example": "First wash and peel the fruits."
+          },
+          {
+            "word": "ingredient",
+            "pos": "noun",
+            "bangla": "উপকরণ",
+            "synonym": "component",
+            "antonym": "—",
+            "meaning_en": "one of the foods used to make a dish",
+            "example": "List the ingredients of the recipe."
+          },
+          {
+            "word": "recipe",
+            "pos": "noun",
+            "bangla": "রন্ধনপ্রণালী / রেসিপি",
+            "synonym": "instructions",
+            "antonym": "—",
+            "meaning_en": "a set of steps for cooking a dish",
+            "example": "Follow the recipe carefully."
+          },
+          {
+            "word": "ripe",
+            "pos": "adj",
+            "bangla": "পাকা",
+            "synonym": "mature",
+            "antonym": "unripe, raw",
+            "meaning_en": "fully grown and ready to eat",
+            "example": "Use one ripe banana."
+          },
+          {
+            "word": "boil",
+            "pos": "verb",
+            "bangla": "ফোটানো",
+            "synonym": "heat",
+            "antonym": "freeze",
+            "meaning_en": "to heat a liquid until it bubbles",
+            "example": "Boil the milk in a pot."
+          },
+          {
+            "word": "stir",
+            "pos": "verb",
+            "bangla": "নাড়া দেওয়া",
+            "synonym": "mix",
+            "antonym": "—",
+            "meaning_en": "to move a liquid round with a spoon",
+            "example": "Stir the mixture all the time."
+          },
+          {
+            "word": "mixture",
+            "pos": "noun",
+            "bangla": "মিশ্রণ",
+            "synonym": "blend, combination",
+            "antonym": "—",
+            "meaning_en": "things mixed together",
+            "example": "Pour the mixture into the milk."
+          },
+          {
+            "word": "pour",
+            "pos": "verb",
+            "bangla": "ঢালা",
+            "synonym": "tip, empty",
+            "antonym": "—",
+            "meaning_en": "to make a liquid flow out",
+            "example": "Pour it into the bowl."
+          },
+          {
+            "word": "tablespoon",
+            "pos": "noun",
+            "bangla": "টেবিল চামচ",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "a large spoon used for measuring",
+            "example": "Add four tablespoons of sugar."
+          },
+          {
+            "word": "cool",
+            "pos": "verb/adj",
+            "bangla": "ঠান্ডা হওয়া / ঠান্ডা",
+            "synonym": "chill",
+            "antonym": "heat, warm",
+            "meaning_en": "to become less hot",
+            "example": "Let the custard cool."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "What dish does this recipe make?",
+            "options": [
+              "a cake",
+              "fruit custard",
+              "fried rice",
+              "a salad"
+            ],
+            "answer_index": 1,
+            "explain": "The recipe makes a fruit custard."
+          },
+          {
+            "q": "How much milk is needed?",
+            "options": [
+              "one litre",
+              "half a litre",
+              "two litres",
+              "a cup"
+            ],
+            "answer_index": 1,
+            "explain": "Half a litre of milk is used."
+          },
+          {
+            "q": "How many tablespoons of custard powder are used?",
+            "options": [
+              "one",
+              "two",
+              "four",
+              "six"
+            ],
+            "answer_index": 1,
+            "explain": "Two tablespoons of custard powder."
+          },
+          {
+            "q": "What is the first step in preparing the custard?",
+            "options": [
+              "boil the milk",
+              "wash and peel the fruits",
+              "add sugar",
+              "pour into the bowl"
+            ],
+            "answer_index": 1,
+            "explain": "First, wash and peel the fruits."
+          },
+          {
+            "q": "The custard powder is first mixed with —",
+            "options": [
+              "hot water",
+              "four tablespoons of cold milk",
+              "sugar only",
+              "fruit juice"
+            ],
+            "answer_index": 1,
+            "explain": "Mix the powder with four tablespoons of cold milk."
+          },
+          {
+            "q": "How long is the mixture boiled?",
+            "options": [
+              "one minute",
+              "five minutes",
+              "ten minutes",
+              "an hour"
+            ],
+            "answer_index": 1,
+            "explain": "Boil for five minutes, stirring all the time."
+          },
+          {
+            "q": "What must you do while boiling the mixture?",
+            "options": [
+              "cover it tightly",
+              "stir it all the time",
+              "add more fruit",
+              "turn off the light"
+            ],
+            "answer_index": 1,
+            "explain": "You must stir it all the time."
+          },
+          {
+            "q": "What is the last step?",
+            "options": [
+              "wash the fruits",
+              "pour the custard into the fruit bowl",
+              "add custard powder",
+              "cut the fruits"
+            ],
+            "answer_index": 1,
+            "explain": "Finally, pour it into the fruit bowl."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What are the ingredients of the fruit custard?",
+            "model": "The ingredients are one ripe banana, one apple, one small ripe papaya, two tablespoons of custard powder, half a litre of milk and four tablespoons of sugar."
+          },
+          {
+            "q": "How do you prepare the fruits?",
+            "model": "First you wash and peel the fruits. Then you cut them into small pieces and keep them in a bowl."
+          },
+          {
+            "q": "How is the custard powder mixed?",
+            "model": "You take the custard powder in a small cup, add four tablespoons of cold milk and mix it well before pouring it into the boiling milk."
+          },
+          {
+            "q": "What do you do after pouring the mixture into the milk?",
+            "model": "After pouring the mixture into the boiling milk, you stir it and boil it for five minutes, stirring all the time."
+          },
+          {
+            "q": "What is the final step before serving?",
+            "model": "You take the pot off the stove, let the custard cool, and finally pour it into the fruit bowl. Then the delicious custard is ready to eat."
+          },
+          {
+            "q": "Why are sequence connectors useful in a recipe?",
+            "model": "Sequence connectors like first, then, next, after that and finally show the correct order of the steps, so the reader knows exactly what to do and when."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "The recipe uses two tablespoons of custard powder.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "You should boil the fruits before cutting them.",
+            "is_true": false,
+            "correction": "You wash and peel the fruits, then cut them; you do not boil the fruits."
+          },
+          {
+            "statement": "The custard powder is first mixed with hot water.",
+            "is_true": false,
+            "correction": "It is mixed with four tablespoons of cold milk."
+          },
+          {
+            "statement": "The mixture is boiled for five minutes while stirring.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "You pour the custard into the fruit bowl at the end.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Half a litre of milk is needed for this dish.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "First, wash and (1)____ the fruits. Then cut them into small pieces. Next, (2)____ the milk and mix in the sugar. Take the custard powder in a cup with cold milk and (3)____ well. Pour the (4)____ into the boiling milk and stir for five minutes. Finally, let it (5)____ and pour it into the fruit bowl.",
+          "blanks": [
+            "peel",
+            "boil",
+            "mix",
+            "mixture",
+            "cool"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Step word",
+            "What you do"
+          ],
+          "rows": [
+            [
+              "First",
+              "wash and peel the fruits, cut them"
+            ],
+            [
+              "Then",
+              "boil the milk and mix in sugar"
+            ],
+            [
+              "Next",
+              "mix custard powder with cold milk"
+            ],
+            [
+              "After that",
+              "pour the mixture in and boil five minutes"
+            ],
+            [
+              "Finally",
+              "let it cool and pour into the fruit bowl"
+            ]
+          ],
+          "blanks": [
+            "wash and peel the fruits, cut them",
+            "boil the milk and mix in sugar",
+            "mix custard powder with cold milk",
+            "pour the mixture in and boil five minutes",
+            "let it cool and pour into the fruit bowl"
+          ]
+        },
+        "match": {
+          "left": [
+            "First, wash and",
+            "Then, boil the milk and",
+            "Mix the custard powder with",
+            "Boil the mixture for",
+            "Finally, pour it into"
+          ],
+          "right": [
+            "five minutes.",
+            "peel the fruits.",
+            "the fruit bowl.",
+            "cold milk.",
+            "add the sugar."
+          ],
+          "pairs": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              4,
+              2
+            ]
+          ]
+        },
+        "summary": {
+          "model": "This recipe explains how to make a delicious fruit custard. First, the fruits are washed, peeled and cut into small pieces. Then the milk is boiled and sugar is mixed in. Custard powder is mixed with a little cold milk and poured into the boiling milk, which is stirred and boiled for five minutes. After that, the pot is taken off the stove and the custard is left to cool. Finally, it is poured over the fruit, and the dish is ready to eat.",
+          "skeleton": "First, ____ and peel the fruits. Then ____ the milk with sugar. Mix the custard powder with cold milk and ____ it in. Boil for five minutes, let it ____, and finally pour it over the ____."
+        },
+        "writing": {
+          "type": "process",
+          "prompt": "Describe how to make a cup of tea using these connectors: first, then, next, after that, finally.",
+          "model": "Making a cup of tea is quick and easy. First, pour some water into a pan and put it on the stove to boil. Then add a spoonful of tea leaves to the boiling water and let it boil for a minute. Next, pour in some milk and add sugar to taste, stirring it well. After that, let the tea boil gently for another minute so that the flavour mixes properly. Finally, strain the tea into a clean cup, and your hot, refreshing cup of tea is ready to drink."
+        }
+      },
+      {
+        "id": "u2l5",
+        "unit": 2,
+        "unit_title": "Food and Nutrition",
+        "number": 5,
+        "title": "The Little Plant",
+        "is_poem": true,
+        "poet": "Kate L. Brown",
+        "keywords": [
+          "bury",
+          "sprout"
+        ],
+        "learn_line": "How a sleeping seed wakes and grows into a plant — and what plants need to live.",
+        "minutes": 8,
+        "warmup": [
+          "Have you ever planted a seed and watched it grow?",
+          "What does a seed need before it can become a plant?",
+          "What wakes a sleeping seed under the soil?",
+          "Why do you think the poet calls the plant 'a dear little plant'?"
+        ],
+        "reading": {
+          "theme": "The awakening and growth of new life in nature.",
+          "central_idea": "Deep inside a seed, a little plant lies sleeping until the sunshine and the raindrop call it to wake. Answering their call, the plant rises and grows upward to see the wonderful world outside. The poem gently shows that living things need light and water to grow, and celebrates the wonder of new life.",
+          "gist_bn": "একটি বীজের গভীরে একটি ছোট্ট চারাগাছ ঘুমিয়ে থাকে। সূর্যের আলো ও বৃষ্টির ফোঁটা তাকে জেগে উঠে আলোর দিকে এগিয়ে যেতে ডাকে। ডাক শুনে চারাগাছটি জেগে ওঠে এবং বাইরের সুন্দর পৃথিবী দেখতে ওপরের দিকে বেড়ে ওঠে। কবিতাটি বোঝায় যে গাছের বেড়ে উঠতে আলো ও পানি দরকার, আর নতুন প্রাণের জন্মকে এটি আনন্দের সঙ্গে তুলে ধরে।",
+          "book_page": 19
+        },
+        "vocab": [
+          {
+            "word": "bury",
+            "pos": "verb",
+            "bangla": "পুঁতে রাখা / মাটিচাপা দেওয়া",
+            "synonym": "cover, hide",
+            "antonym": "dig up, uncover",
+            "meaning_en": "to put or hide something under the ground",
+            "example": "The seed lay buried deep in the soil."
+          },
+          {
+            "word": "sprout",
+            "pos": "verb",
+            "bangla": "অঙ্কুরিত হওয়া",
+            "synonym": "grow, shoot up",
+            "antonym": "wither",
+            "meaning_en": "to begin to grow out of a seed",
+            "example": "After the rain, the seeds began to sprout."
+          },
+          {
+            "word": "seed",
+            "pos": "noun",
+            "bangla": "বীজ",
+            "synonym": "grain, pip",
+            "antonym": "—",
+            "meaning_en": "the small part of a plant that grows into a new plant",
+            "example": "A little plant slept inside the seed."
+          },
+          {
+            "word": "asleep",
+            "pos": "adj",
+            "bangla": "ঘুমন্ত",
+            "synonym": "sleeping",
+            "antonym": "awake",
+            "meaning_en": "in a state of sleep",
+            "example": "The little plant lay fast asleep."
+          },
+          {
+            "word": "creep",
+            "pos": "verb",
+            "bangla": "ধীরে ধীরে এগোনো",
+            "synonym": "crawl, move slowly",
+            "antonym": "rush",
+            "meaning_en": "to move slowly and quietly",
+            "example": "The sunshine told it to creep to the light."
+          },
+          {
+            "word": "raindrop",
+            "pos": "noun",
+            "bangla": "বৃষ্টির ফোঁটা",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "a single drop of rain",
+            "example": "The raindrop called the plant to wake."
+          },
+          {
+            "word": "wonderful",
+            "pos": "adj",
+            "bangla": "বিস্ময়কর / অপূর্ব",
+            "synonym": "marvellous, amazing",
+            "antonym": "ordinary, dull",
+            "meaning_en": "extremely good or surprising",
+            "example": "It rose to see the wonderful world."
+          },
+          {
+            "word": "rose",
+            "pos": "verb (past of rise)",
+            "bangla": "উঠল / বেড়ে উঠল",
+            "synonym": "got up, grew",
+            "antonym": "fell, sank",
+            "meaning_en": "moved or grew upward",
+            "example": "The little plant rose to see the light."
+          }
+        ],
+        "qa": [
+          {
+            "q": "Where is the little plant sleeping at the start of the poem?",
+            "model": "At the start, the little plant is sleeping deep inside the heart of a seed, buried far down in the soil. It lies there fast asleep, waiting to grow."
+          },
+          {
+            "q": "Who spoke to the little plant?",
+            "model": "Two voices of nature spoke to the little plant: the sunshine and the raindrop. They both called out to wake the sleeping plant."
+          },
+          {
+            "q": "What did the sunshine and the raindrop want the plant to do?",
+            "model": "They wanted the little plant to wake up from its sleep and creep upward toward the light, in other words, to grow out of the seed and into the world above."
+          },
+          {
+            "q": "What two things does a plant need in order to grow?",
+            "model": "The poem shows that a plant needs two things to grow: sunlight, shown by the sunshine, and water, shown by the raindrop. With light and water, the seed can sprout and grow."
+          },
+          {
+            "q": "What did the little plant do after it heard the voices?",
+            "model": "After hearing the voices of the sunshine and the raindrop, the little plant woke up and rose upward. It grew out of the seed to see the wonderful world outside."
+          },
+          {
+            "q": "How does the poem connect growth with the wonder of life?",
+            "model": "The poem treats the growth of a tiny seed as something magical. The plant 'rose to see' a 'wonderful' world, suggesting that even the smallest new life is full of wonder, and that growth means reaching out toward light and discovery."
+          },
+          {
+            "q": "Which word in the poem suggests the plant began to grow?",
+            "model": "The word 'rose' (from 'rise') suggests the plant began to grow, because it rose upward out of the seed toward the light."
+          }
+        ],
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'How a Plant Grows' (about 80 words).",
+          "model": "Every big tree begins as a tiny seed. When a seed is buried in the soil and given water and warmth, the little plant inside it begins to wake. Soon it sends out a tiny root downward and a green shoot, or sprout, upward toward the sunlight. As the sunshine and the raindrops feed it, the plant grows taller and stronger, putting out leaves and branches. In this quiet, wonderful way, a small sleeping seed turns into a living, growing plant."
+        }
+      }
+    ]
+  }
+}

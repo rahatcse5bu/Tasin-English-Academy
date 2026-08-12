@@ -1,0 +1,776 @@
+{
+ "id": "kalsindur-girls",
+ "unit": "Unit 05",
+ "unitName": "Youthful Achievers",
+ "title": "The Success of Kalsindur Girls",
+ "titleBn": "কলসিন্দুরের মেয়েরা — একটি মহাকাব্যিক সাফল্য",
+ "lede": "ময়মনসিংহের ধোবাউড়ার প্রত্যন্ত গ্রাম কলসিন্দুর — জুতা-জার্সিহীন, অপুষ্টিতে ভোগা কিছু মেয়ে কীভাবে দেশের গর্ব হয়ে উঠল, তার গল্প।",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 45,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Understand the whole story chronologically",
+   "d": "শুরু → বাধা → সাহায্যকারী → সাফল্য — এই ক্রমে গল্পটি বোঝা"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "২৬টি বাক্যের নির্ভুল বাংলা"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "adversity, inhibition, persuade, recognition…"
+  },
+  {
+   "t": "Who helped whom — a name chart",
+   "d": "৬ জন সাহায্যকারীর নাম, পদবি ও অবদান"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "যুক্তিসহ উত্তর"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — Starting from nothing",
+   "s": [
+    {
+     "en": "The success of Kalsindur girls reads like an ==epic==.",
+     "bn": "কলসিন্দুরের মেয়েদের সাফল্য পড়তে গেলে যেন একটি ==মহাকাব্যের== মতো মনে হয়।"
+    },
+    {
+     "en": "They started their journey with ==practically nothing==.",
+     "bn": "তারা তাদের যাত্রা শুরু করেছিল ==কার্যত কিছুই না নিয়ে==।"
+    },
+    {
+     "en": "They didn't have any boots or jerseys to wear.",
+     "bn": "পরার মতো কোনো বুট বা জার্সি তাদের ছিল না।"
+    },
+    {
+     "en": "Initially, they played wearing salwar and kamij.",
+     "bn": "প্রথম দিকে তারা সালোয়ার-কামিজ পরেই খেলত।"
+    },
+    {
+     "en": "They also suffered from ==malnutrition==.",
+     "bn": "তারা ==অপুষ্টিতেও== ভুগত।"
+    },
+    {
+     "en": "What made them win against all ==adversities== then?",
+     "bn": "তাহলে কোন জিনিসটি তাদের সব ==প্রতিকূলতার== বিরুদ্ধে জয়ী করেছিল?"
+    },
+    {
+     "en": "What was the magic behind?",
+     "bn": "এর পেছনের জাদুটাই বা কী ছিল?"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — The two teachers who began it all",
+   "s": [
+    {
+     "en": "Mohammad Mafiz Uddin was an ==assistant teacher== at Kalsindur Government Free Primary School where Minati Rani Sheel was the ==head teacher==.",
+     "bn": "মোহাম্মদ মফিজ উদ্দিন ছিলেন কলসিন্দুর সরকারি ফ্রি প্রাথমিক বিদ্যালয়ের একজন ==সহকারী শিক্ষক==, যেখানে মিনতি রানী শীল ছিলেন ==প্রধান শিক্ষক==।"
+    },
+    {
+     "en": "They observed the girls' interests in football and decided to help.",
+     "bn": "তাঁরা মেয়েদের ফুটবলের প্রতি আগ্রহ লক্ষ করলেন এবং সাহায্য করার সিদ্ধান্ত নিলেন।"
+    },
+    {
+     "en": "It was however not that easy.",
+     "bn": "তবে কাজটি অতটা সহজ ছিল না।"
+    },
+    {
+     "en": "Girls playing football is still not a common picture in Bangladesh.",
+     "bn": "মেয়েদের ফুটবল খেলা বাংলাদেশে এখনো সাধারণ কোনো দৃশ্য নয়।"
+    },
+    {
+     "en": "Guardians were not ==convinced== as they were used to seeing girls helping mothers with ==household chores==.",
+     "bn": "অভিভাবকেরা ==আশ্বস্ত হননি==, কারণ তাঁরা মেয়েদের মায়েদের ==ঘরের কাজে== সাহায্য করতে দেখতেই অভ্যস্ত ছিলেন।"
+    },
+    {
+     "en": "A farmer, an auto-rickshaw driver, a tea-shop owner or a housemaid mother couldn't be that ==ambitious== either.",
+     "bn": "একজন কৃষক, অটোরিকশাচালক, চায়ের দোকানি কিংবা গৃহকর্মী মা-ও তত ==উচ্চাকাঙ্ক্ষী== হতে পারতেন না।"
+    },
+    {
+     "en": "But Minati Rani Sheel and Mohammad Mafiz Uddin ==persuaded== them to allow their daughters to play.",
+     "bn": "কিন্তু মিনতি রানী শীল ও মোহাম্মদ মফিজ উদ্দিন তাঁদের ==রাজি করালেন== যেন তাঁরা মেয়েদের খেলার অনুমতি দেন।"
+    },
+    {
+     "en": "Being great ==motivators==, the two teachers supported the girls in their effort to ==overcome the odds==.",
+     "bn": "দুর্দান্ত ==অনুপ্রেরণাদাতা== হওয়ায় এই দুই শিক্ষক মেয়েদের ==প্রতিকূলতা জয়ের== চেষ্টায় পাশে দাঁড়ালেন।"
+    },
+    {
+     "en": "They inspired them, created opportunities for them and took personal care of them.",
+     "bn": "তাঁরা মেয়েদের অনুপ্রাণিত করলেন, তাদের জন্য সুযোগ সৃষ্টি করলেন এবং ব্যক্তিগতভাবে তাদের যত্ন নিলেন।"
+    },
+    {
+     "en": "Soon the girls could prove themselves, shaking off their ==inhibition==.",
+     "bn": "শীঘ্রই মেয়েরা ==জড়তা== ঝেড়ে ফেলে নিজেদের প্রমাণ করতে পারল।"
+    },
+    {
+     "en": "Their success has also persuaded the villagers to come to their support.",
+     "bn": "তাদের সাফল্য গ্রামবাসীকেও তাদের পাশে দাঁড়াতে উদ্বুদ্ধ করেছে।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — More helping hands",
+   "s": [
+    {
+     "en": "When the girls moved to the nearby secondary school and college, they did not have their Minati Maam and Mafiz Uddin Sir with them, but soon another motherly person offered her helping hand — Mala Rani Sarkar, an ==Assistant Professor of History== — who was joined by one of her colleagues, Juel Mia.",
+     "bn": "মেয়েরা যখন কাছের মাধ্যমিক বিদ্যালয় ও কলেজে গেল, তখন মিনতি ম্যাডাম ও মফিজ উদ্দিন স্যার তাদের সঙ্গে ছিলেন না; কিন্তু শীঘ্রই আরেকজন মাতৃসম মানুষ সাহায্যের হাত বাড়িয়ে দিলেন — ইতিহাসের ==সহকারী অধ্যাপক== মালা রানী সরকার, যাঁর সঙ্গে যোগ দিলেন তাঁরই এক সহকর্মী জুয়েল মিয়া।"
+    },
+    {
+     "en": "They agreed to ==coach== the girls.",
+     "bn": "তাঁরা মেয়েদের ==প্রশিক্ষণ দিতে== রাজি হলেন।"
+    },
+    {
+     "en": "Mr Jalaluddin, who was then the head teacher of the school, also supported them.",
+     "bn": "জনাব জালালউদ্দিন, যিনি তখন ওই বিদ্যালয়ের প্রধান শিক্ষক ছিলেন, তিনিও তাদের সমর্থন দিলেন।"
+    },
+    {
+     "en": "Gradually the local community, public representatives and the local administration came forward.",
+     "bn": "ধীরে ধীরে স্থানীয় জনগোষ্ঠী, জনপ্রতিনিধি ও স্থানীয় প্রশাসন এগিয়ে এলো।"
+    },
+    {
+     "en": "Bangladesh Football Federation also gave special attention to them and finally another football magician, Golam Robbani Choton, the coach of the Bangladesh Women's National Football Team, ==mentored== these girls and helped them become complete professional footballers.",
+     "bn": "বাংলাদেশ ফুটবল ফেডারেশনও তাদের প্রতি বিশেষ নজর দিল এবং শেষ পর্যন্ত আরেক ফুটবল-জাদুকর গোলাম রব্বানী ছোটন, বাংলাদেশ নারী জাতীয় ফুটবল দলের কোচ, এই মেয়েদের ==পথ দেখালেন== এবং তাদের পূর্ণাঙ্গ পেশাদার ফুটবলার হয়ে উঠতে সাহায্য করলেন।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 4 — The pride of the village",
+   "s": [
+    {
+     "en": "Now people realise what their ==golden girls== could bring for them.",
+     "bn": "এখন মানুষ বুঝতে পারে, তাদের ==সোনার মেয়েরা== তাদের জন্য কী এনে দিতে পেরেছে।"
+    },
+    {
+     "en": "“When these girls go from one place to another, even the auto-rickshaw pullers don't take any fare from them as they are the ==pride of the village==.”",
+     "bn": "“এই মেয়েরা যখন এক জায়গা থেকে আরেক জায়গায় যায়, তখন অটোরিকশাচালকেরাও তাদের কাছ থেকে কোনো ভাড়া নেন না, কারণ তারা ==গ্রামের গর্ব==।”"
+    },
+    {
+     "en": "“It's a small ==token of recognition== but it's great!” says Mala Rani Sarkar, the Team Manager of Kalsindur Women's Football Team.",
+     "bn": "“এটি ==স্বীকৃতির একটি ছোট নিদর্শন==, কিন্তু এটাই দারুণ!” — বলেন কলসিন্দুর নারী ফুটবল দলের টিম ম্যানেজার মালা রানী সরকার।"
+    },
+    {
+     "en": "She also adds that Kalsindur would present more female footballers in future, as of 2021 they are ==grooming== another 65 girls to play for the nation.",
+     "bn": "তিনি আরও যোগ করেন যে ভবিষ্যতে কলসিন্দুর আরও নারী ফুটবলার উপহার দেবে; ২০২১ সাল পর্যন্ত তাঁরা দেশের হয়ে খেলার জন্য আরও ৬৫ জন মেয়েকে ==গড়ে তুলছেন==।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "epic",
+   "pos": "noun",
+   "pron": "/ˈepɪk/",
+   "bn": "মহাকাব্য; বীরত্বপূর্ণ কাহিনি",
+   "en": "a long story of heroic deeds",
+   "ex": "Their success reads like an epic."
+  },
+  {
+   "w": "practically",
+   "pos": "adverb",
+   "pron": "/ˈpræktɪkli/",
+   "bn": "কার্যত, প্রায়",
+   "en": "almost; virtually",
+   "ex": "They started with practically nothing."
+  },
+  {
+   "w": "malnutrition",
+   "pos": "noun",
+   "pron": "/ˌmælnjuˈtrɪʃn/",
+   "bn": "অপুষ্টি",
+   "en": "poor health caused by not having enough food",
+   "ex": "They also suffered from malnutrition."
+  },
+  {
+   "w": "adversity",
+   "pos": "noun",
+   "pron": "/ədˈvɜːsəti/",
+   "bn": "প্রতিকূলতা, দুর্দশা",
+   "en": "a difficult or unpleasant situation",
+   "ex": "They won against all adversities."
+  },
+  {
+   "w": "convince",
+   "pos": "verb",
+   "pron": "/kənˈvɪns/",
+   "bn": "বোঝানো, আশ্বস্ত করা",
+   "en": "to make someone believe something is true",
+   "ex": "Guardians were not convinced."
+  },
+  {
+   "w": "household chores",
+   "pos": "phrase",
+   "pron": "/ˈhaʊshəʊld tʃɔːz/",
+   "bn": "ঘরের কাজকর্ম",
+   "en": "routine domestic tasks",
+   "ex": "Girls help mothers with household chores."
+  },
+  {
+   "w": "ambitious",
+   "pos": "adj",
+   "pron": "/æmˈbɪʃəs/",
+   "bn": "উচ্চাকাঙ্ক্ষী",
+   "en": "having a strong desire to succeed",
+   "ex": "A housemaid mother couldn't be that ambitious."
+  },
+  {
+   "w": "persuade",
+   "pos": "verb",
+   "pron": "/pəˈsweɪd/",
+   "bn": "রাজি করানো, প্ররোচিত করা",
+   "en": "to make someone agree by giving reasons",
+   "ex": "They persuaded the guardians."
+  },
+  {
+   "w": "motivator",
+   "pos": "noun",
+   "pron": "/ˈməʊtɪveɪtə/",
+   "bn": "অনুপ্রেরণাদাতা",
+   "en": "a person who encourages others to act",
+   "ex": "The two teachers were great motivators."
+  },
+  {
+   "w": "overcome the odds",
+   "pos": "idiom",
+   "pron": "/ˌəʊvəˈkʌm/",
+   "bn": "প্রতিকূলতা জয় করা",
+   "en": "to succeed despite great difficulty",
+   "ex": "They fought to overcome the odds."
+  },
+  {
+   "w": "inhibition",
+   "pos": "noun",
+   "pron": "/ˌɪnhɪˈbɪʃn/",
+   "bn": "জড়তা, সংকোচ, দ্বিধা",
+   "en": "a shy or nervous feeling that stops you acting freely",
+   "ex": "They shook off their inhibition."
+  },
+  {
+   "w": "mentor",
+   "pos": "verb",
+   "pron": "/ˈmentɔː/",
+   "bn": "পথপ্রদর্শন করা, দীক্ষা দেওয়া",
+   "en": "to advise and train a less experienced person",
+   "ex": "Choton mentored these girls."
+  },
+  {
+   "w": "recognition",
+   "pos": "noun",
+   "pron": "/ˌrekəɡˈnɪʃn/",
+   "bn": "স্বীকৃতি, মর্যাদা দান",
+   "en": "public acknowledgement of achievement",
+   "ex": "It's a small token of recognition."
+  },
+  {
+   "w": "groom",
+   "pos": "verb",
+   "pron": "/ɡruːm/",
+   "bn": "গড়ে তোলা, প্রস্তুত করা",
+   "en": "to prepare someone for a role",
+   "ex": "They are grooming another 65 girls."
+  },
+  {
+   "w": "public representative",
+   "pos": "phrase",
+   "pron": "/ˌreprɪˈzentətɪv/",
+   "bn": "জনপ্রতিনিধি",
+   "en": "an elected person who speaks for the people",
+   "ex": "Public representatives came forward."
+  },
+  {
+   "w": "token",
+   "pos": "noun",
+   "pron": "/ˈtəʊkən/",
+   "bn": "নিদর্শন, প্রতীক",
+   "en": "a sign or symbol of something",
+   "ex": "a small token of recognition"
+  }
+ ],
+ "synant": [
+  {
+   "w": "adversity",
+   "bn": "প্রতিকূলতা",
+   "syn": [
+    "misery",
+    "hardship",
+    "misfortune"
+   ],
+   "ant": [
+    "prosperity",
+    "privilege",
+    "fortune"
+   ]
+  },
+  {
+   "w": "ambitious",
+   "bn": "উচ্চাকাঙ্ক্ষী",
+   "syn": [
+    "aspirant",
+    "aspiring",
+    "determined"
+   ],
+   "ant": [
+    "unambitious",
+    "content",
+    "lazy"
+   ]
+  },
+  {
+   "w": "recognition",
+   "bn": "স্বীকৃতি",
+   "syn": [
+    "acknowledgment",
+    "appreciation",
+    "honour"
+   ],
+   "ant": [
+    "ignorance",
+    "neglect",
+    "disregard"
+   ]
+  },
+  {
+   "w": "malnutrition",
+   "bn": "অপুষ্টি",
+   "syn": [
+    "malnourishment",
+    "undernourishment"
+   ],
+   "ant": [
+    "nourishment",
+    "good nutrition"
+   ]
+  },
+  {
+   "w": "persuade",
+   "bn": "রাজি করানো",
+   "syn": [
+    "convince",
+    "induce",
+    "coax"
+   ],
+   "ant": [
+    "dissuade",
+    "discourage",
+    "deter"
+   ]
+  },
+  {
+   "w": "inhibition",
+   "bn": "জড়তা",
+   "syn": [
+    "shyness",
+    "restraint",
+    "hesitation"
+   ],
+   "ant": [
+    "confidence",
+    "boldness",
+    "freedom"
+   ]
+  },
+  {
+   "w": "epic",
+   "bn": "মহাকাব্যিক",
+   "syn": [
+    "heroic",
+    "legendary",
+    "grand"
+   ],
+   "ant": [
+    "ordinary",
+    "trivial",
+    "insignificant"
+   ]
+  },
+  {
+   "w": "gradually",
+   "bn": "ধীরে ধীরে",
+   "syn": [
+    "slowly",
+    "steadily",
+    "progressively"
+   ],
+   "ant": [
+    "suddenly",
+    "abruptly",
+    "at once"
+   ]
+  },
+  {
+   "w": "support",
+   "bn": "সমর্থন",
+   "syn": [
+    "aid",
+    "backing",
+    "assistance"
+   ],
+   "ant": [
+    "opposition",
+    "hindrance",
+    "obstruction"
+   ]
+  },
+  {
+   "w": "pride",
+   "bn": "গর্ব",
+   "syn": [
+    "honour",
+    "glory",
+    "dignity"
+   ],
+   "ant": [
+    "shame",
+    "disgrace",
+    "humiliation"
+   ]
+  },
+  {
+   "w": "common",
+   "bn": "সাধারণ",
+   "syn": [
+    "usual",
+    "ordinary",
+    "frequent"
+   ],
+   "ant": [
+    "rare",
+    "uncommon",
+    "peculiar"
+   ]
+  },
+  {
+   "w": "mentor",
+   "bn": "পথপ্রদর্শক",
+   "syn": [
+    "guide",
+    "coach",
+    "adviser"
+   ],
+   "ant": [
+    "misguide",
+    "mislead"
+   ]
+  }
+ ],
+ "summaryEn": "The story of the Kalsindur girls is nothing less than an epic, because they began their football career with almost no resources — without boots or jerseys, playing in salwar and kamij, and even suffering from malnutrition. Their real turning point came from two teachers of Kalsindur Government Free Primary School, Mohammad Mafiz Uddin and the head teacher Minati Rani Sheel, who noticed the girls' interest in football and decided to stand beside them. The task was hard, for in Bangladesh girls playing football is still uncommon and the poor guardians, who were used to seeing daughters doing household chores, were unwilling. Yet the two teachers persuaded the parents, inspired the girls, created opportunities and cared for them personally, until the girls threw off their shyness and proved themselves. Later, when they moved to the secondary school and college, Mala Rani Sarkar and her colleague Juel Mia coached them, the head teacher Mr Jalaluddin supported them, and gradually the community, the public representatives, the local administration and the Bangladesh Football Federation came forward, while the national coach Golam Robbani Choton finally turned them into complete professional footballers. Today these golden girls are the pride of their village — auto-rickshaw pullers refuse to take fare from them — and sixty-five more girls are being groomed to play for the nation.",
+ "summaryBn": "কলসিন্দুরের মেয়েদের গল্প এক মহাকাব্যের চেয়ে কম কিছু নয়, কারণ তারা ফুটবল-জীবন শুরু করেছিল প্রায় কিছুই না নিয়ে — বুট বা জার্সি ছাড়া, সালোয়ার-কামিজ পরে, এমনকি অপুষ্টিতে ভুগে। তাদের জীবনের মোড় ঘুরিয়ে দেন কলসিন্দুর সরকারি ফ্রি প্রাথমিক বিদ্যালয়ের দুই শিক্ষক — মোহাম্মদ মফিজ উদ্দিন ও প্রধান শিক্ষক মিনতি রানী শীল, যাঁরা মেয়েদের ফুটবলের প্রতি আগ্রহ দেখে পাশে দাঁড়ানোর সিদ্ধান্ত নেন। কাজটি সহজ ছিল না, কারণ বাংলাদেশে মেয়েদের ফুটবল খেলা আজও অস্বাভাবিক এবং দরিদ্র অভিভাবকেরা, যাঁরা মেয়েদের ঘরের কাজ করতেই দেখে অভ্যস্ত, রাজি হচ্ছিলেন না। তবু দুই শিক্ষক অভিভাবকদের রাজি করান, মেয়েদের অনুপ্রাণিত করেন, সুযোগ তৈরি করেন ও ব্যক্তিগত যত্ন নেন — ফলে মেয়েরা জড়তা কাটিয়ে নিজেদের প্রমাণ করে। পরে মাধ্যমিক ও কলেজ পর্যায়ে মালা রানী সরকার ও তাঁর সহকর্মী জুয়েল মিয়া তাদের প্রশিক্ষণ দেন, প্রধান শিক্ষক জালালউদ্দিন সহায়তা করেন, ক্রমে স্থানীয় জনগোষ্ঠী, জনপ্রতিনিধি, প্রশাসন ও বাংলাদেশ ফুটবল ফেডারেশন এগিয়ে আসে এবং জাতীয় দলের কোচ গোলাম রব্বানী ছোটন তাদের পূর্ণাঙ্গ পেশাদার ফুটবলার হিসেবে গড়ে তোলেন। আজ এই সোনার মেয়েরাই গ্রামের গর্ব — অটোরিকশাচালকেরা তাদের কাছ থেকে ভাড়া নেন না — এবং আরও ৬৫ জন মেয়েকে দেশের হয়ে খেলার জন্য তৈরি করা হচ্ছে।",
+ "summaryTip": "**গল্পভিত্তিক প্যাসেজের Summary:** ঘটনার ক্রম ধরে লেখো — (১) শুরুর অবস্থা, (২) বাধা, (৩) কে কীভাবে সাহায্য করল, (৪) ফলাফল। সংলাপ (quotation) হুবহু তুলে দেবে না, indirect করে ভাব লিখবে।",
+ "mcq": [
+  {
+   "q": "What does the word ‘adversity’ in the passage refer to?",
+   "opts": [
+    "misery",
+    "privilege",
+    "propensity",
+    "adjacent"
+   ],
+   "ans": 0,
+   "why": "Adversity = দুর্দশা / প্রতিকূলতা, তাই misery. Privilege (সুবিধা) ঠিক উল্টো অর্থ — এটাই ফাঁদ।"
+  },
+  {
+   "q": "What could be the closest meaning for ‘ambitious’?",
+   "opts": [
+    "prominent",
+    "aspirant",
+    "ambiguous",
+    "enthusiasm"
+   ],
+   "ans": 1,
+   "why": "Ambitious (adjective) = উচ্চাকাঙ্ক্ষী = aspirant. ‘Ambiguous’ (অস্পষ্ট) কেবল বানানে কাছাকাছি, ‘enthusiasm’ noun — parts of speech মেলে না।"
+  },
+  {
+   "q": "The word ‘recognition’ could be best replaced by —",
+   "opts": [
+    "ignorance",
+    "acknowledgment",
+    "reminiscence",
+    "revitalisation"
+   ],
+   "ans": 1,
+   "why": "Recognition = স্বীকৃতি = acknowledgment. মনে রাখো — ‘a small token of recognition’ মানে ‘স্বীকৃতির ছোট নিদর্শন’।"
+  },
+  {
+   "q": "The Kalsindur girls suffered from —",
+   "opts": [
+    "malconformation",
+    "malnourishment",
+    "suffocation",
+    "maldistribution"
+   ],
+   "ans": 1,
+   "why": "প্যাসেজে আছে ‘They also suffered from malnutrition’ — এর সমার্থক malnourishment."
+  },
+  {
+   "q": "What is the purpose of the author of this passage?",
+   "opts": [
+    "to show the skills of the Kalsindur girls",
+    "to highlight the success of the Kalsindur girls in football",
+    "to describe the hobby of the Kalsindur girls in different games",
+    "to explain the interest of the Kalsindur girls"
+   ],
+   "ans": 1,
+   "why": "পুরো প্যাসেজজুড়ে সাফল্যের গল্প — শুরু থেকে পেশাদার ফুটবলার হওয়া পর্যন্ত। তাই লক্ষ্য: সাফল্য তুলে ধরা।"
+  },
+  {
+   "q": "Girls' playing football is not — in Bangladesh.",
+   "opts": [
+    "a common phenomenon",
+    "an unusual phenomenon",
+    "an uncommon picture",
+    "a peculiar picture"
+   ],
+   "ans": 0,
+   "why": "‘…is still **not a common picture** in Bangladesh’ — common phenomenon = সাধারণ ঘটনা। (iii) ও (iv) নিলে বাক্যটি দ্বৈত-নেতিবাচক হয়ে অর্থ উল্টে যাবে।"
+  },
+  {
+   "q": "Whom did Mohammad Mafiz Uddin and Minati Rani Sheel persuade to allow playing football?",
+   "opts": [
+    "the local people",
+    "the students",
+    "the guardians",
+    "the girls of Kalsindur"
+   ],
+   "ans": 2,
+   "why": "‘…persuaded **them** to allow their daughters to play’ — এখানে ‘them’ = guardians (অভিভাবক)।"
+  },
+  {
+   "q": "Mohammad Mafiz Uddin and Minati Rani Sheel were the —",
+   "opts": [
+    "great teachers",
+    "great coaches",
+    "great players",
+    "great motivators"
+   ],
+   "ans": 3,
+   "why": "প্যাসেজে হুবহু আছে — ‘Being great **motivators**, the two teachers supported the girls’. তাঁরা শিক্ষক ছিলেন ঠিকই, কিন্তু প্রশ্নটি প্যাসেজের শব্দ চায়।"
+  },
+  {
+   "q": "How is the success of Kalsindur girls compared?",
+   "opts": [
+    "compared with magic",
+    "compared with drama",
+    "compared with enchantment",
+    "compared with an epic"
+   ],
+   "ans": 3,
+   "why": "প্রথম বাক্য — ‘The success of Kalsindur girls **reads like an epic**.’"
+  },
+  {
+   "q": "The girls of Kalsindur started their journey —",
+   "opts": [
+    "except nothing",
+    "without nothing",
+    "practically without anything",
+    "theoretically with nothing"
+   ],
+   "ans": 2,
+   "why": "‘started their journey with practically nothing’ = practically without anything. ‘without nothing’ ভুল ইংরেজি (double negative)।"
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "Who helped the Kalsindur girls first in their journey of football and how?",
+   "a": "Mohammad Mafiz Uddin, an assistant teacher of Kalsindur Government Free Primary School, and Minati Rani Sheel, the head teacher of the same school, were the first to help the girls. They noticed the girls' keen interest in football and decided to stand beside them. Being great motivators, they persuaded the unwilling guardians to allow their daughters to play, inspired the girls, created opportunities for them and took personal care of them so that they could overcome the odds.",
+   "bn": "সবার আগে সাহায্য করেছিলেন কলসিন্দুর সরকারি ফ্রি প্রাথমিক বিদ্যালয়ের সহকারী শিক্ষক মোহাম্মদ মফিজ উদ্দিন ও প্রধান শিক্ষক মিনতি রানী শীল। তাঁরা মেয়েদের আগ্রহ দেখে অভিভাবকদের রাজি করান, মেয়েদের অনুপ্রাণিত করেন, সুযোগ তৈরি করেন এবং ব্যক্তিগতভাবে যত্ন নেন।"
+  },
+  {
+   "q": "Who helped the girls when they moved to the nearby secondary school and college? How did they help the girls?",
+   "a": "When the girls moved to the nearby secondary school and college, Mala Rani Sarkar, an Assistant Professor of History, offered her helping hand like a motherly person, and one of her colleagues, Juel Mia, joined her. Both of them agreed to coach the girls. Besides, Mr Jalaluddin, the then head teacher of the school, also supported them, and gradually the local community and administration came forward.",
+   "bn": "মাধ্যমিক বিদ্যালয় ও কলেজে যাওয়ার পর ইতিহাসের সহকারী অধ্যাপক মালা রানী সরকার মাতৃসম হয়ে সাহায্যের হাত বাড়ান এবং তাঁর সহকর্মী জুয়েল মিয়া তাঁর সঙ্গে যোগ দেন। দুজনেই মেয়েদের কোচিং করাতে রাজি হন; প্রধান শিক্ষক জালালউদ্দিনও সহায়তা করেন।"
+  },
+  {
+   "q": "Who was Mr. Jalaluddin? How did he help the girls?",
+   "a": "Mr Jalaluddin was the head teacher of the secondary school to which the Kalsindur girls moved after their primary education. Though he was not their coach, he supported Mala Rani Sarkar and Juel Mia in their effort to train the girls and extended institutional help to the young footballers. His support proved important, because a school authority's approval made regular practice possible.",
+   "bn": "জনাব জালালউদ্দিন ছিলেন সেই মাধ্যমিক বিদ্যালয়ের প্রধান শিক্ষক, যেখানে কলসিন্দুরের মেয়েরা প্রাথমিকের পর ভর্তি হয়। তিনি মালা রানী সরকার ও জুয়েল মিয়ার প্রশিক্ষণ-প্রচেষ্টায় সমর্থন দেন এবং প্রাতিষ্ঠানিক সহায়তা দেন, যার ফলে নিয়মিত অনুশীলন সম্ভব হয়।"
+  },
+  {
+   "q": "From your reading of the passage write about the profession of Mohammad Mafiz Uddin and Minati Rani Sheel.",
+   "a": "Both of them belonged to the teaching profession. Mohammad Mafiz Uddin served as an assistant teacher at Kalsindur Government Free Primary School, while Minati Rani Sheel was the head teacher of the same institution. Though teaching was their profession, they went far beyond their duty and acted as motivators, guardians and organisers for the village girls.",
+   "bn": "দুজনেই শিক্ষকতা পেশার মানুষ ছিলেন। মফিজ উদ্দিন কলসিন্দুর সরকারি ফ্রি প্রাথমিক বিদ্যালয়ের সহকারী শিক্ষক আর মিনতি রানী শীল ছিলেন একই বিদ্যালয়ের প্রধান শিক্ষক। পেশা শিক্ষকতা হলেও তাঁরা দায়িত্বের বাইরে গিয়ে অনুপ্রেরণাদাতার ভূমিকা পালন করেন।"
+  },
+  {
+   "q": "“It was however not that easy.” — What does the line imply?",
+   "a": "The line implies that helping the girls to play football was a very difficult task in a conservative rural society. Girls playing football is still not a common sight in Bangladesh, so the guardians, who were used to seeing their daughters help their mothers with household chores, were not convinced. Moreover, the parents were poor — a farmer, an auto-rickshaw driver, a tea-shop owner or a housemaid — and could not dream so big. The teachers therefore had to fight against poverty, prejudice and social taboo at the same time.",
+   "bn": "লাইনটির অর্থ হলো, রক্ষণশীল গ্রামীণ সমাজে মেয়েদের ফুটবল খেলায় সাহায্য করা ছিল অত্যন্ত কঠিন কাজ। অভিভাবকেরা রাজি হচ্ছিলেন না, কারণ তাঁরা মেয়েদের ঘরের কাজ করতে দেখতেই অভ্যস্ত ছিলেন; তদুপরি তাঁরা ছিলেন দরিদ্র। তাই শিক্ষকদের একই সঙ্গে দারিদ্র্য, কুসংস্কার ও সামাজিক নিষেধের বিরুদ্ধে লড়তে হয়েছিল।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "What / Who",
+   "Event / Occurrence",
+   "Why / When",
+   "Where"
+  ],
+  "rows": [
+   [
+    "Mohammad Mafiz Uddin",
+    "(i) @was an assistant teacher",
+    "(ii) @where Minati Rani Sheel was the head teacher",
+    "(iii) @at Kalsindur Government Free Primary School"
+   ],
+   [
+    "Girls playing football",
+    "was not a common picture",
+    "(iv) @still now / even today",
+    "in Bangladesh"
+   ],
+   [
+    "Guardians",
+    "were habituated",
+    "(v) @to seeing girls helping mothers with household chores",
+    "(vi) @so they were not convinced"
+   ],
+   [
+    "(vii) @Minati Rani Sheel and Mohammad Mafiz Uddin",
+    "persuaded them",
+    "(viii) @to allow their daughters to play football",
+    "in Kalsindur village"
+   ],
+   [
+    "Being great motivators, two teachers",
+    "(ix) @supported the girls",
+    "(x) @in their effort to overcome the odds",
+    "in the school"
+   ]
+  ],
+  "note": "নাম-ভিত্তিক টেবিলে বানান ভুল করলে নম্বর কাটা যায় — Mafiz Uddin, Minati Rani Sheel, Mala Rani Sarkar, Golam Robbani Choton — বানানগুলো মুখস্থ রাখো।"
+ },
+ "flow": {
+  "title": "Adversities the Kalsindur Girls Had to Face — যেসব প্রতিকূলতা তাদের জয় করতে হয়েছিল",
+  "items": [
+   {
+    "t": "Starting journey with practically nothing",
+    "bn": "কার্যত শূন্য হাতে যাত্রা শুরু (দেওয়া আছে)"
+   },
+   {
+    "t": "Having no boots or jerseys to wear",
+    "bn": "পরার মতো বুট বা জার্সি না থাকা"
+   },
+   {
+    "t": "Playing initially in salwar and kamij",
+    "bn": "শুরুতে সালোয়ার-কামিজ পরে খেলা"
+   },
+   {
+    "t": "Suffering from malnutrition",
+    "bn": "অপুষ্টিতে ভোগা"
+   },
+   {
+    "t": "Unconvinced guardians and social taboo",
+    "bn": "অভিভাবকদের অসম্মতি ও সামাজিক কুসংস্কার"
+   },
+   {
+    "t": "Poverty of the families and lack of ambition",
+    "bn": "পরিবারের দারিদ্র্য ও স্বপ্ন দেখার সামর্থ্যহীনতা"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "Who Helped Whom <span class='sub'>— সাহায্যকারীদের পূর্ণ তালিকা (মুখস্থ রাখো)</span>",
+   "key": "Helper Chart",
+   "table": {
+    "headers": [
+     "Name",
+     "Identity / Post",
+     "How he/she helped"
+    ],
+    "rows": [
+     [
+      "Mohammad Mafiz Uddin",
+      "Assistant teacher, Kalsindur Govt. Free Primary School",
+      "Noticed the girls' interest; persuaded guardians; motivated the girls"
+     ],
+     [
+      "Minati Rani Sheel",
+      "Head teacher of the same school",
+      "Decided to help; persuaded parents; took personal care"
+     ],
+     [
+      "Mala Rani Sarkar",
+      "Assistant Professor of History; later Team Manager",
+      "Offered a motherly helping hand; agreed to coach the girls"
+     ],
+     [
+      "Juel Mia",
+      "Colleague of Mala Rani Sarkar",
+      "Joined her and coached the girls"
+     ],
+     [
+      "Mr Jalaluddin",
+      "Then head teacher of the secondary school",
+      "Supported the coaching effort"
+     ],
+     [
+      "Golam Robbani Choton",
+      "Coach, Bangladesh Women's National Football Team",
+      "Mentored them into complete professional footballers"
+     ],
+     [
+      "BFF, local community, administration",
+      "Institutions",
+      "Gave special attention, funds and social support"
+     ]
+    ]
+   },
+   "note": "Short Question-এ ‘Who helped…?’ এলে **নাম + পদবি + অবদান** — এই তিনটি একসাথে লিখলেই পূর্ণ ৩ নম্বর।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🧭",
+   "t": "Story passage = follow the timeline",
+   "d": "গল্পভিত্তিক প্যাসেজে প্রশ্নের উত্তর সাধারণত প্যাসেজের ক্রম অনুসারেই থাকে — প্রথম প্রশ্নের উত্তর শুরুতে, শেষ প্রশ্নের উত্তর শেষে।"
+  },
+  {
+   "em": "👥",
+   "t": "Underline every proper noun",
+   "d": "নাম, পদবি, প্রতিষ্ঠান — এগুলো দাগিয়ে রাখো। এই প্যাসেজে ৬টি নাম আছে এবং প্রায় প্রতিটি থেকেই প্রশ্ন হয়।"
+  },
+  {
+   "em": "⚠️",
+   "t": "‘not a common picture’ trap",
+   "type": "warn",
+   "d": "নেতিবাচক বাক্যে option বসানোর সময় দুবার negative হয়ে যাচ্ছে কি না দেখো — ‘not uncommon’ মানে আসলে ‘common’।"
+  },
+  {
+   "em": "💬",
+   "t": "Quotation → indirect speech",
+   "d": "Summary বা উত্তরে উদ্ধৃতি হুবহু না লিখে ‘Mala Rani Sarkar says that…’ আকারে লেখো।"
+  },
+  {
+   "em": "✅",
+   "t": "3-mark answer structure",
+   "type": "ok",
+   "d": "উত্তর = সরাসরি জবাব (১ বাক্য) + প্যাসেজ থেকে প্রমাণ (১ বাক্য) + ব্যাখ্যা/গুরুত্ব (১ বাক্য)।"
+  },
+  {
+   "em": "🔤",
+   "t": "Spelling of names carries marks",
+   "d": "Kalsindur, Mafiz Uddin, Minati Rani Sheel, Golam Robbani Choton — বানান ভুল হলে টেবিল ও Q&A-তে নম্বর কাটে।"
+  }
+ ],
+ "recap": [
+  "শুরু: বুট-জার্সি নেই, সালোয়ার-কামিজে খেলা, অপুষ্টি — ‘practically nothing’.",
+  "প্রথম সাহায্য: মফিজ উদ্দিন (সহকারী শিক্ষক) ও মিনতি রানী শীল (প্রধান শিক্ষক) — ‘great motivators’.",
+  "বাধা: সামাজিক কুসংস্কার + দরিদ্র অভিভাবকদের অসম্মতি।",
+  "পরবর্তী সাহায্য: মালা রানী সরকার, জুয়েল মিয়া, জালালউদ্দিন, BFF, গোলাম রব্বানী ছোটন।",
+  "ফলাফল: মেয়েরা গ্রামের গর্ব; ২০২১ পর্যন্ত আরও ৬৫ জনকে গড়ে তোলা হচ্ছে।"
+ ],
+ "homework": [
+  "৬ জন সাহায্যকারীর নাম, পদবি ও অবদান — টেবিল আকারে লিখে আনবে।",
+  "Flow chart-এর ৬টি ঘর নিজে পূরণ করবে।",
+  "Summary ১২০ শব্দে নিজের ভাষায় লিখবে।",
+  "১৬টি শব্দের Synonym-Antonym মুখস্থ করবে।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

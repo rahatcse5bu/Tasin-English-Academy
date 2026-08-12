@@ -1,0 +1,476 @@
+{
+ "id": "article-gap-filling",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part A",
+ "unitName": "Grammar — Gap Filling",
+ "title": "Gap Filling without Clues — Articles",
+ "titleBn": "শূন্যস্থান পূরণ (সংকেত ছাড়া) — Article",
+ "lede": "A, an, the — তিনটি ছোট শব্দ, কিন্তু বোর্ডে ৫ নম্বর। কোথায় বসে, কোথায় বসে না, আর কোথায় ‘zero article’ — সব নিয়ম একসাথে।",
+ "qType": "Grammar — Gap Filling without Clues",
+ "minutes": 50,
+ "marks": "0.5×10 = 5",
+ "rulesTitle": "Article-এর নিয়ম",
+ "rulesPerSlide": 3,
+ "objectives": [
+  {
+   "t": "a vs an — sound, not spelling",
+   "d": "উচ্চারণই ঠিক করে, বানান নয়"
+  },
+  {
+   "t": "When 'the' is compulsory",
+   "d": "নির্দিষ্টতা, অনন্য বস্তু, নদী-সাগর-পর্বতমালা…"
+  },
+  {
+   "t": "Zero article",
+   "d": "যেখানে কোনো article বসে না"
+  },
+  {
+   "t": "18 rules with examples",
+   "d": "প্রতিটির গঠন ও ইংরেজি উদাহরণ"
+  },
+  {
+   "t": "Solved board question",
+   "d": "১০টি খালিঘর, প্রতিটির যুক্তিসহ"
+  },
+  {
+   "t": "Two live practice sets + traps",
+   "d": "শ্রেণিকক্ষে সরাসরি অনুশীলন"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "a/an",
+   "name": "a — ব্যঞ্জনধ্বনির আগে",
+   "bn": "**উচ্চারণে ব্যঞ্জনধ্বনি (consonant sound)** দিয়ে শুরু হলে **a** বসে — বানান নয়, **ধ্বনি** দেখো।",
+   "formula": "a + consonant sound",
+   "ex": "==a== book, ==a== university (ইউ-ধ্বনি), ==a== one-taka note (ওয়ান-ধ্বনি)"
+  },
+  {
+   "no": "02",
+   "tag": "a/an",
+   "name": "an — স্বরধ্বনির আগে",
+   "bn": "**উচ্চারণে স্বরধ্বনি (vowel sound)** দিয়ে শুরু হলে **an** বসে — নীরব h থাকলেও।",
+   "formula": "an + vowel sound",
+   "ex": "==an== apple, ==an== hour (নীরব h), ==an== M.A. (এম-ধ্বনি), ==an== honest man"
+  },
+  {
+   "no": "03",
+   "tag": "a/an",
+   "name": "a/an = একটি / প্রতি",
+   "bn": "**Singular countable noun**-এর আগে অনির্দিষ্ট অর্থে বসে; আবার ‘প্রতি’ (per) অর্থেও বসে।",
+   "formula": "a + singular countable noun",
+   "ex": "He is ==a== doctor. / He earns 500 taka ==a== day."
+  },
+  {
+   "no": "04",
+   "tag": "the",
+   "name": "the — আগে উল্লিখিত বা পরিচিত জিনিস",
+   "bn": "যে জিনিসের কথা **আগেই বলা হয়েছে** বা বক্তা-শ্রোতা **দুজনেই জানে**, তার আগে **the** বসে।",
+   "formula": "a … (প্রথমবার) → the … (দ্বিতীয়বার)",
+   "ex": "I saw ==a== boy. ==The== boy was crying."
+  },
+  {
+   "no": "05",
+   "tag": "the",
+   "name": "the — পৃথিবীতে অনন্য বস্তু",
+   "bn": "পৃথিবীতে **একটিই আছে** এমন বস্তুর আগে **the** বসে।",
+   "formula": "the + unique thing",
+   "ex": "==the== sun, ==the== moon, ==the== sky, ==the== earth, ==the== world"
+  },
+  {
+   "no": "06",
+   "tag": "the",
+   "name": "the — নদী, সাগর, পর্বতমালা, দ্বীপপুঞ্জ",
+   "bn": "নদী, সাগর, উপসাগর, মহাসাগর, পর্বতমালা, দ্বীপপুঞ্জ, মরুভূমি — এদের নামের আগে **the** বসে।",
+   "formula": "the + river / sea / ocean / mountain range",
+   "ex": "==the== Padma, ==the== Bay of Bengal, ==the== Himalayas, ==the== Sundarbans"
+  },
+  {
+   "no": "07",
+   "tag": "the",
+   "name": "the — Superlative degree",
+   "bn": "Superlative degree-এর আগে সবসময় **the** বসে।",
+   "formula": "the + superlative",
+   "ex": "He is ==the== best boy in the class. / It is ==the== highest mountain."
+  },
+  {
+   "no": "08",
+   "tag": "the",
+   "name": "the — Ordinal number ও তারিখ",
+   "bn": "**first, second, third…** এবং তারিখের আগে **the** বসে।",
+   "formula": "the + first / second / third",
+   "ex": "He is ==the== first boy to come. / ==the== 21st of February"
+  },
+  {
+   "no": "09",
+   "tag": "the",
+   "name": "the + adjective = জাতি বা শ্রেণি",
+   "bn": "Adjective-এর আগে **the** বসিয়ে গোটা শ্রেণিকে বোঝানো যায় (plural অর্থে)।",
+   "formula": "the + adjective (as plural noun)",
+   "ex": "==The== poor are not always unhappy. / ==The== rich should help ==the== poor."
+  },
+  {
+   "no": "10",
+   "tag": "the",
+   "name": "the — জাতি, সংবাদপত্র, গ্রন্থ, দল",
+   "bn": "জাতি/সম্প্রদায়, সংবাদপত্র, ধর্মগ্রন্থ, জাহাজ, ট্রেন, দল — এদের নামের আগে **the** বসে।",
+   "formula": "the + nation / newspaper / holy book / party",
+   "ex": "==the== Bangladeshis, ==the== Daily Star, ==the== Quran, ==the== Titanic"
+  },
+  {
+   "no": "11",
+   "tag": "the",
+   "name": "the — অঙ্গ-প্রত্যঙ্গ ও যন্ত্র",
+   "bn": "শরীরের অঙ্গ (preposition-এর পরে) ও বাদ্যযন্ত্রের আগে **the** বসে।",
+   "formula": "the + body part / musical instrument",
+   "ex": "He caught me by ==the== hand. / She plays ==the== piano."
+  },
+  {
+   "no": "12",
+   "tag": "the",
+   "name": "the — Comparative-এ ‘যত… তত…’",
+   "bn": "‘The more … the more’ গঠনে দুই অংশেই **the** বসে।",
+   "formula": "the + comparative … the + comparative",
+   "ex": "==The== more you read, ==the== more you learn."
+  },
+  {
+   "no": "13",
+   "tag": "Zero",
+   "name": "কোনো article বসে না — ব্যক্তি ও স্থানের নাম",
+   "bn": "ব্যক্তির নাম, দেশ, শহর, ভাষা, বিষয় ও খেলার নামের আগে সাধারণত **কোনো article বসে না**।",
+   "formulaLabel": "NO ARTICLE",
+   "formula": "Rahim · Bangladesh · Dhaka · English · Mathematics · football",
+   "ex": "==Rahim== lives in ==Dhaka==. He likes ==football== and ==English==.",
+   "note": "ব্যতিক্রম: the USA, the UK, the Netherlands, the Philippines — এদের আগে the বসে।"
+  },
+  {
+   "no": "14",
+   "tag": "Zero",
+   "name": "কোনো article বসে না — খাবার, ঋতু, রোগ",
+   "bn": "খাবারের নাম, ঋতু, রোগ ও বিমূর্ত বিশেষ্যের আগে সাধারণত article বসে না।",
+   "formulaLabel": "NO ARTICLE",
+   "formula": "breakfast · lunch · summer · fever · honesty · kindness",
+   "ex": "We take ==breakfast== at eight. ==Honesty== is the best policy."
+  },
+  {
+   "no": "15",
+   "tag": "Zero",
+   "name": "উদ্দেশ্য বোঝালে article বসে না",
+   "bn": "**school, college, hospital, prison, bed, church** — মূল উদ্দেশ্যে গেলে article বসে না; শুধু জায়গা বোঝালে **the** বসে।",
+   "formulaLabel": "PURPOSE vs PLACE",
+   "formula": "go to school (পড়তে) · go to the school (ভবনে)",
+   "ex": "He goes to ==school== every day. / His father went to ==the== school to meet the teacher."
+  },
+  {
+   "no": "16",
+   "tag": "Trap",
+   "name": "a few / few — অর্থ উল্টে যায়",
+   "bn": "**a few** = কিছু (ইতিবাচক); **few** = খুব কম, প্রায় নেই (নেতিবাচক)। একইভাবে **a little** ও **little**।",
+   "formula": "a few = some · few = almost none",
+   "ex": "He has ==a few== friends (কিছু আছে). / He has ==few== friends (প্রায় নেই).",
+   "note": "একটি ‘a’ থাকা-না-থাকায় পুরো অর্থ উল্টে যায় — এটিই সবচেয়ে বড় ফাঁদ।"
+  },
+  {
+   "no": "17",
+   "tag": "the",
+   "name": "the — পদবি ও অনন্য পদ",
+   "bn": "রাষ্ট্রের অনন্য পদের আগে **the** বসে — কিন্তু নামের আগে বসে না।",
+   "formula": "the + unique post",
+   "ex": "==The== Prime Minister of Bangladesh / He is ==the== headmaster of our school."
+  },
+  {
+   "no": "18",
+   "tag": "the",
+   "name": "the — দিকনির্দেশ",
+   "bn": "দিক (east, west, north, south) ও নির্দিষ্ট অঞ্চলের আগে **the** বসে।",
+   "formula": "the + direction / region",
+   "ex": "The sun rises in ==the== east. / He lives in ==the== north of the city."
+  }
+ ],
+ "boardQ": {
+  "instruction": "Fill in the blanks with articles where necessary. Put a cross (×) where no article is needed. — প্রয়োজনে article বসাও; না লাগলে ক্রস দাও। (0.5×10 = 5)",
+  "text": "(a) ___ honest man is respected everywhere. He never tells (b) ___ lie. Once there lived (c) ___ farmer in a village. (d) ___ farmer was very poor. He worked from morning till evening. (e) ___ sun was very hot that day. He had (f) ___ few friends who helped him. He wanted to send his son to (g) ___ school so that the boy could learn (h) ___ English. He believed that (i) ___ honesty is (j) ___ best policy.",
+  "items": [
+   {
+    "ans": "An",
+    "why": "‘honest’-এ h নীরব, উচ্চারণ স্বরধ্বনি দিয়ে → **an**. (নিয়ম ০২)"
+   },
+   {
+    "ans": "a",
+    "why": "‘a lie’ — singular countable, অনির্দিষ্ট। (নিয়ম ০৩)"
+   },
+   {
+    "ans": "a",
+    "why": "প্রথমবার উল্লেখ → **a**. (নিয়ম ০৪)"
+   },
+   {
+    "ans": "The",
+    "why": "দ্বিতীয়বার একই farmer → **the**. (নিয়ম ০৪)"
+   },
+   {
+    "ans": "The",
+    "why": "সূর্য পৃথিবীতে অনন্য → **the**. (নিয়ম ০৫)"
+   },
+   {
+    "ans": "a",
+    "why": "**a few** = কিছু বন্ধু ছিল (ইতিবাচক); ‘few’ হলে অর্থ হতো প্রায় কেউ নেই। (নিয়ম ১৬)"
+   },
+   {
+    "ans": "× (no article)",
+    "why": "পড়ার উদ্দেশ্যে school → article বসে না। (নিয়ম ১৫)"
+   },
+   {
+    "ans": "× (no article)",
+    "why": "ভাষার নামের আগে article বসে না। (নিয়ম ১৩)"
+   },
+   {
+    "ans": "× (no article)",
+    "why": "‘honesty’ বিমূর্ত বিশেষ্য → article বসে না। (নিয়ম ১৪)"
+   },
+   {
+    "ans": "the",
+    "why": "Superlative ‘best’-এর আগে সবসময় **the**. (নিয়ম ০৭)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — a না an?",
+   "intro": "বানান নয়, **উচ্চারণ** দেখো — সেটাই একমাত্র নিয়ম।",
+   "items": [
+    {
+     "q": "___ university is a place of learning.",
+     "ans": "A",
+     "why": "‘university’ = ইউ-ধ্বনি (ব্যঞ্জন) → a. (০১)"
+    },
+    {
+     "q": "I waited for ___ hour.",
+     "ans": "an",
+     "why": "‘hour’-এ h নীরব → স্বরধ্বনি → an. (০২)"
+    },
+    {
+     "q": "He is ___ M.A. in English.",
+     "ans": "an",
+     "why": "M = ‘এম’ স্বরধ্বনি দিয়ে শুরু → an. (০২)"
+    },
+    {
+     "q": "She gave me ___ one-taka note.",
+     "ans": "a",
+     "why": "‘one’ = ‘ওয়ান’ ব্যঞ্জনধ্বনি → a. (০১)"
+    },
+    {
+     "q": "He is ___ European.",
+     "ans": "a",
+     "why": "‘European’ = ইউ-ধ্বনি → a. (০১)"
+    },
+    {
+     "q": "It was ___ honourable act.",
+     "ans": "an",
+     "why": "নীরব h → স্বরধ্বনি → an. (০২)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — the না কিছুই নয়?",
+   "intro": "মনে রেখো — উদ্দেশ্যে গেলে article নেই, ভবন বোঝালে the।",
+   "items": [
+    {
+     "q": "___ Padma is a big river.",
+     "ans": "The",
+     "why": "নদীর নামের আগে the. (০৬)"
+    },
+    {
+     "q": "He goes to ___ mosque every Friday.",
+     "ans": "× (no article)",
+     "why": "প্রার্থনার উদ্দেশ্যে → article নেই। (১৫)"
+    },
+    {
+     "q": "___ rich should help the poor.",
+     "ans": "The",
+     "why": "the + adjective = শ্রেণি। (০৯)"
+    },
+    {
+     "q": "He lives in ___ Dhaka.",
+     "ans": "× (no article)",
+     "why": "শহরের নামের আগে article নেই। (১৩)"
+    },
+    {
+     "q": "She plays ___ guitar very well.",
+     "ans": "the",
+     "why": "বাদ্যযন্ত্রের আগে the. (১১)"
+    },
+    {
+     "q": "___ more you practise, the better you become.",
+     "ans": "The",
+     "why": "‘The more … the better’ গঠন। (১২)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "Where 'the' is compulsory <span class='sub'>— যেখানে the বসবেই</span>",
+   "key": "The Chart",
+   "table": {
+    "headers": [
+     "ক্ষেত্র",
+     "উদাহরণ"
+    ],
+    "rows": [
+     [
+      "অনন্য বস্তু",
+      "@the sun, the moon, the sky, the earth"
+     ],
+     [
+      "নদী / সাগর / মহাসাগর",
+      "@the Padma, the Bay of Bengal, the Pacific"
+     ],
+     [
+      "পর্বতমালা / দ্বীপপুঞ্জ / মরুভূমি",
+      "@the Himalayas, the Sundarbans, the Sahara"
+     ],
+     [
+      "Superlative",
+      "@the best, the highest, the most beautiful"
+     ],
+     [
+      "Ordinal ও তারিখ",
+      "@the first, the 21st of February"
+     ],
+     [
+      "the + adjective = শ্রেণি",
+      "@the poor, the rich, the blind"
+     ],
+     [
+      "জাতি / সংবাদপত্র / ধর্মগ্রন্থ",
+      "@the Bangladeshis, the Daily Star, the Quran"
+     ],
+     [
+      "অঙ্গ ও বাদ্যযন্ত্র",
+      "@by the hand, play the piano"
+     ],
+     [
+      "অনন্য পদ",
+      "@the Prime Minister, the headmaster"
+     ],
+     [
+      "দিক ও অঞ্চল",
+      "@in the east, in the north"
+     ],
+     [
+      "দ্বিতীয়বার উল্লেখ",
+      "@a boy … the boy"
+     ],
+     [
+      "দেশ (বহুবচন/সংঘ)",
+      "@the USA, the UK, the Netherlands"
+     ]
+    ]
+   },
+   "note": "**সূত্র:** নির্দিষ্ট, অনন্য বা আগে-বলা কিছু হলেই the। অনির্দিষ্ট ও প্রথমবার হলে a/an।"
+  },
+  {
+   "title": "Where NO article goes <span class='sub'>— যেখানে কিছুই বসে না</span>",
+   "key": "Zero Article",
+   "table": {
+    "headers": [
+     "ক্ষেত্র",
+     "উদাহরণ",
+     "কিন্তু…"
+    ],
+    "rows": [
+     [
+      "ব্যক্তির নাম",
+      "@Rahim, Nazrul",
+      "the Nazrul of our school (তুলনায়)"
+     ],
+     [
+      "দেশ / শহর",
+      "@Bangladesh, Dhaka",
+      "the USA, the UK"
+     ],
+     [
+      "ভাষা ও বিষয়",
+      "@English, Mathematics",
+      "the English language"
+     ],
+     [
+      "খেলা",
+      "@football, cricket",
+      "—"
+     ],
+     [
+      "খাবার",
+      "@breakfast, lunch, dinner",
+      "a heavy breakfast"
+     ],
+     [
+      "ঋতু ও রোগ",
+      "@summer, fever, cholera",
+      "the summer of 1971"
+     ],
+     [
+      "বিমূর্ত বিশেষ্য",
+      "@honesty, kindness, beauty",
+      "the beauty of the scene"
+     ],
+     [
+      "উদ্দেশ্যে যাওয়া",
+      "@go to school / bed / hospital",
+      "go to the school (ভবনে)"
+     ]
+    ]
+   },
+   "note": "‘কিন্তু…’ কলামটিই আসল পরীক্ষা — একই শব্দ প্রসঙ্গ বদলালে article নেয়।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "👂",
+   "t": "Sound decides a/an — never spelling",
+   "type": "ok",
+   "d": "**an** hour, **a** university, **an** M.A., **a** one-taka note। শব্দটি মনে মনে উচ্চারণ করো, তারপর বসাও।"
+  },
+  {
+   "em": "🔁",
+   "t": "First time a/an, second time the",
+   "d": "‘I saw **a** boy. **The** boy was crying.’ — গল্পভিত্তিক অনুচ্ছেদে এই নিয়মেই বেশিরভাগ খালিঘর পূরণ হয়।"
+  },
+  {
+   "em": "⚠️",
+   "t": "a few ≠ few",
+   "type": "warn",
+   "d": "**a few / a little** = কিছু আছে (ইতিবাচক); **few / little** = প্রায় নেই (নেতিবাচক)। একটি ‘a’-তেই অর্থ উল্টো।"
+  },
+  {
+   "em": "🏫",
+   "t": "Purpose vs building",
+   "d": "পড়তে গেলে ‘go to **school**’; শিক্ষকের সাথে দেখা করতে গেলে ‘go to **the** school’। ঘুমাতে ‘go to bed’।"
+  },
+  {
+   "em": "✖️",
+   "t": "Cross means an answer too",
+   "d": "‘Put a cross where no article is needed’ — খালি রেখে দিলে নম্বর নেই। **×** বসাতে ভুলো না।"
+  },
+  {
+   "em": "🌍",
+   "t": "Country names",
+   "d": "সাধারণ দেশের আগে article নেই, কিন্তু **the USA, the UK, the Netherlands, the Philippines** — এই ব্যতিক্রম মনে রাখো।"
+  }
+ ],
+ "recap": [
+  "a/an-এর নিয়ম উচ্চারণে — an hour, a university, an M.A., a one-taka note।",
+  "প্রথমবার a/an, দ্বিতীয়বার the।",
+  "the বসে: অনন্য বস্তু, নদী-সাগর-পর্বতমালা, superlative, ordinal, the+adjective, দিক, অনন্য পদ।",
+  "Article বসে না: ব্যক্তি/দেশ/শহর/ভাষা/খেলা/খাবার/ঋতু/রোগ/বিমূর্ত বিশেষ্য।",
+  "a few = কিছু (ইতিবাচক), few = প্রায় নেই (নেতিবাচক) — অর্থ সম্পূর্ণ উল্টো।"
+ ],
+ "homework": [
+  "‘Where the is compulsory’ ছকের ১২টি সারি মুখস্থ করবে।",
+  "‘Where NO article goes’ ছকের ব্যতিক্রমগুলো লিখবে।",
+  "বোর্ড প্রশ্নটি না দেখে আবার পূরণ করবে।",
+  "একটি অনুচ্ছেদ লিখে তাতে ব্যবহৃত প্রতিটি article-এর কারণ পাশে লিখবে।"
+ ],
+ "paper": "paper2"
+}

@@ -1,0 +1,787 @@
+{
+ "id": "adolescents-core-resource",
+ "unit": "Unit 03",
+ "unitName": "Adolescence",
+ "title": "Adolescents Constitute a Nation's Core Resource",
+ "titleBn": "কিশোর-কিশোরীরাই জাতির মূল সম্পদ",
+ "lede": "বাংলাদেশের ২.৮ কোটি কিশোর-কিশোরী, বাল্যবিবাহের পরিসংখ্যান, যৌতুক ও মাতৃমৃত্যু — তথ্য-পরিসংখ্যানে ভরা একটি Seen Passage.",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 45,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Master every statistic in the passage",
+   "d": "২৮ মিলিয়ন, ১৩.৭, ১৪.৩, ৩৩%, ৬০%, ১৮ ও ২১ বছর"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "১৮টি বাক্যের বাংলা"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "subordination, marginalisation, vulnerability…"
+  },
+  {
+   "t": "Cause → effect chain of child marriage",
+   "d": "কারণ ও ফলাফলের শৃঙ্খল বোঝা"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ উত্তর"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph I — Adolescents: the core resource",
+   "s": [
+    {
+     "en": "Adolescents ==constitute== a nation's ==core resource== for national renewal and growth.",
+     "bn": "কিশোর-কিশোরীরাই জাতীয় পুনর্জাগরণ ও অগ্রগতির জন্য একটি জাতির ==মূল সম্পদ== ==গঠন করে==।"
+    },
+    {
+     "en": "Adolescence is a period in life when ==transition from childhood to adulthood== takes place and behaviours and life styles are shaped.",
+     "bn": "কৈশোর জীবনের এমন একটি সময়, যখন ==বাল্যকাল থেকে প্রাপ্তবয়স্কতায় উত্তরণ== ঘটে এবং আচরণ ও জীবনযাত্রার ধরন গড়ে ওঠে।"
+    },
+    {
+     "en": "According to the World Health Organisation (WHO), adolescence is the period which ==shapes the future== of girls' and boys' lives.",
+     "bn": "বিশ্ব স্বাস্থ্য সংস্থার (WHO) মতে, কৈশোর হলো সেই সময়কাল যা ছেলে-মেয়েদের জীবনের ==ভবিষ্যৎ গড়ে দেয়==।"
+    },
+    {
+     "en": "There are ==28 million adolescents in Bangladesh==; ==13.7 million== of them are girls and ==14.3 million== boys.",
+     "bn": "বাংলাদেশে ==২৮ মিলিয়ন (২ কোটি ৮০ লক্ষ) কিশোর-কিশোরী== রয়েছে; এদের মধ্যে ==১৩.৭ মিলিয়ন== মেয়ে এবং ==১৪.৩ মিলিয়ন== ছেলে।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph II — The situation of adolescent girls",
+   "s": [
+    {
+     "en": "The situation of adolescent girls in Bangladesh is characterised by ==inequality and subordination== within the family and society.",
+     "bn": "বাংলাদেশে কিশোরী মেয়েদের অবস্থা পরিবার ও সমাজের ভেতরে ==বৈষম্য ও অধীনতার== দ্বারা চিহ্নিত।"
+    },
+    {
+     "en": "This inequality leads to ==widespread practice of child marriage==, ==marginalisation== or exclusion from health, education and economic opportunities, and ==vulnerability to violence and sexual abuse==.",
+     "bn": "এই বৈষম্য ==বাল্যবিবাহের ব্যাপক প্রচলন==, স্বাস্থ্য-শিক্ষা ও অর্থনৈতিক সুযোগ থেকে ==প্রান্তিকীকরণ== বা বঞ্চনা এবং ==সহিংসতা ও যৌন নির্যাতনের ঝুঁকির== দিকে নিয়ে যায়।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph III — Marriage: law versus reality",
+   "s": [
+    {
+     "en": "In Bangladesh, the ==legal age of marriage is 18 for girls and 21 for boys==.",
+     "bn": "বাংলাদেশে ==বিয়ের আইনি বয়স মেয়েদের জন্য ১৮ এবং ছেলেদের জন্য ২১ বছর==।"
+    },
+    {
+     "en": "However, ==33 percent== of adolescent girls are married ==before the age of 15== and ==60 percent become mothers by the age of 19==.",
+     "bn": "তথাপি ==৩৩ শতাংশ== কিশোরীর বিয়ে হয়ে যায় ==১৫ বছর বয়সের আগেই== এবং ==৬০ শতাংশ ১৯ বছর বয়সের মধ্যেই মা হয়ে যায়==।"
+    },
+    {
+     "en": "Research finds that adolescents with higher level of education and from more ==affluent== families tend to marry at a later age.",
+     "bn": "গবেষণায় দেখা যায়, উচ্চতর শিক্ষা এবং অপেক্ষাকৃত ==সচ্ছল== পরিবারের কিশোর-কিশোরীরা তুলনামূলক বেশি বয়সে বিয়ে করার প্রবণতা দেখায়।"
+    },
+    {
+     "en": "Boys, however, become ready for marriage only after several years of adolescence and young adulthood.",
+     "bn": "ছেলেরা অবশ্য কৈশোর ও প্রারম্ভিক যৌবনের কয়েক বছর পার হওয়ার পরেই কেবল বিয়ের জন্য প্রস্তুত হয়।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph IV — After a girl gets married",
+   "s": [
+    {
+     "en": "When a girl gets married, she usually ==drops out of school== and begins full-time work in her in-laws' household.",
+     "bn": "একটি মেয়ের বিয়ে হয়ে গেলে সে সাধারণত ==স্কুল ছেড়ে দেয়== এবং শ্বশুরবাড়ির সংসারে পূর্ণকালীন কাজ শুরু করে।"
+    },
+    {
+     "en": "In the in-laws' house, she is ==marginalized==.",
+     "bn": "শ্বশুরবাড়িতে সে ==প্রান্তিক করে রাখা হয়== (গুরুত্বহীন হয়ে পড়ে)।"
+    },
+    {
+     "en": "She becomes ==vulnerable== to all forms of abuse, including ==dowry-related violence==.",
+     "bn": "সে সব ধরনের নির্যাতনের প্রতি ==অরক্ষিত== হয়ে পড়ে, এর মধ্যে রয়েছে ==যৌতুক-সংক্রান্ত সহিংসতা==।"
+    },
+    {
+     "en": "In Bangladesh, it is still common for a bride's family to pay ==dowry==, despite the practice being ==illegal==.",
+     "bn": "বাংলাদেশে প্রথাটি ==অবৈধ== হওয়া সত্ত্বেও কনের পরিবারের ==যৌতুক== দেওয়া এখনো সাধারণ ব্যাপার।"
+    },
+    {
+     "en": "Dowry demands can also continue after the wedding.",
+     "bn": "যৌতুকের দাবি বিয়ের পরেও চলতে থাকতে পারে।"
+    },
+    {
+     "en": "For an adolescent bride, even if her in-laws are supportive, there are ==greater health risks== in terms of pregnancy and child birth.",
+     "bn": "একজন কিশোরী বধূর ক্ষেত্রে শ্বশুরবাড়ির লোকজন সহায়ক হলেও গর্ভধারণ ও সন্তান জন্মদানে ==অধিক স্বাস্থ্যঝুঁকি== থেকে যায়।"
+    },
+    {
+     "en": "The majority of adolescent brides and their families are ==uninformed or insufficiently informed== about ==reproductive health and contraception==.",
+     "bn": "অধিকাংশ কিশোরী বধূ ও তাদের পরিবার ==প্রজনন স্বাস্থ্য ও জন্মনিয়ন্ত্রণ== সম্পর্কে ==অজ্ঞ বা অপর্যাপ্তভাবে অবহিত==।"
+    },
+    {
+     "en": "The ==maternal mortality rate== for adolescents is ==double the national rate==.",
+     "bn": "কিশোরীদের ক্ষেত্রে ==মাতৃমৃত্যুর হার== জাতীয় হারের ==দ্বিগুণ==।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "constitute",
+   "pos": "verb",
+   "pron": "/ˈkɒnstɪtjuːt/",
+   "bn": "গঠন করা, হয়ে ওঠা",
+   "en": "to be the parts that form something",
+   "ex": "Adolescents constitute a nation's core resource."
+  },
+  {
+   "w": "core",
+   "pos": "adj/noun",
+   "pron": "/kɔː/",
+   "bn": "মূল, কেন্দ্রীয়, প্রাণকেন্দ্র",
+   "en": "the central or most important part",
+   "ex": "a nation's core resource"
+  },
+  {
+   "w": "renewal",
+   "pos": "noun",
+   "pron": "/rɪˈnjuːəl/",
+   "bn": "পুনর্জাগরণ, নবায়ন",
+   "en": "the act of making something new or strong again",
+   "ex": "national renewal and growth"
+  },
+  {
+   "w": "transition",
+   "pos": "noun",
+   "pron": "/trænˈzɪʃn/",
+   "bn": "উত্তরণ, রূপান্তরকাল",
+   "en": "change from one state to another",
+   "ex": "transition from childhood to adulthood"
+  },
+  {
+   "w": "subordination",
+   "pos": "noun",
+   "pron": "/səˌbɔːdɪˈneɪʃn/",
+   "bn": "অধীনতা, নিম্নস্থান",
+   "en": "the state of being under someone's control",
+   "ex": "inequality and subordination in the family"
+  },
+  {
+   "w": "widespread",
+   "pos": "adj",
+   "pron": "/ˈwaɪdspred/",
+   "bn": "ব্যাপক, বহুবিস্তৃত",
+   "en": "existing over a large area or among many people",
+   "ex": "widespread practice of child marriage"
+  },
+  {
+   "w": "marginalisation",
+   "pos": "noun",
+   "pron": "/ˌmɑːdʒɪnəlaɪˈzeɪʃn/",
+   "bn": "প্রান্তিকীকরণ, গুরুত্বহীন করে রাখা",
+   "en": "treating someone as unimportant",
+   "ex": "marginalisation from economic opportunities"
+  },
+  {
+   "w": "exclusion",
+   "pos": "noun",
+   "pron": "/ɪkˈskluːʒn/",
+   "bn": "বঞ্চনা, বাদ দেওয়া",
+   "en": "the act of keeping somebody out",
+   "ex": "exclusion from health and education"
+  },
+  {
+   "w": "vulnerability",
+   "pos": "noun",
+   "pron": "/ˌvʌlnərəˈbɪləti/",
+   "bn": "ঝুঁকিপূর্ণতা, অরক্ষিত অবস্থা",
+   "en": "the state of being easily harmed",
+   "ex": "vulnerability to violence and sexual abuse"
+  },
+  {
+   "w": "affluent",
+   "pos": "adj",
+   "pron": "/ˈæfluənt/",
+   "bn": "সচ্ছল, ধনী",
+   "en": "having plenty of money",
+   "ex": "adolescents from more affluent families"
+  },
+  {
+   "w": "drop out of school",
+   "pos": "phrase",
+   "pron": "/drɒp aʊt/",
+   "bn": "স্কুল ছেড়ে দেওয়া, ঝরে পড়া",
+   "en": "to leave school before completing it",
+   "ex": "She usually drops out of school."
+  },
+  {
+   "w": "dowry",
+   "pos": "noun",
+   "pron": "/ˈdaʊri/",
+   "bn": "যৌতুক",
+   "en": "money or goods a bride's family gives to the groom",
+   "ex": "dowry-related violence"
+  },
+  {
+   "w": "illegal",
+   "pos": "adj",
+   "pron": "/ɪˈliːɡl/",
+   "bn": "অবৈধ, বেআইনি",
+   "en": "against the law",
+   "ex": "despite the practice being illegal"
+  },
+  {
+   "w": "contraception",
+   "pos": "noun",
+   "pron": "/ˌkɒntrəˈsepʃn/",
+   "bn": "গর্ভনিরোধ, জন্মনিয়ন্ত্রণ",
+   "en": "methods of preventing pregnancy",
+   "ex": "uninformed about reproductive health and contraception"
+  },
+  {
+   "w": "maternal mortality",
+   "pos": "phrase",
+   "pron": "/məˈtɜːnl mɔːˈtæləti/",
+   "bn": "মাতৃমৃত্যু (হার)",
+   "en": "death of mothers due to pregnancy or childbirth",
+   "ex": "The maternal mortality rate is double."
+  },
+  {
+   "w": "insufficiently",
+   "pos": "adverb",
+   "pron": "/ˌɪnsəˈfɪʃntli/",
+   "bn": "অপর্যাপ্তভাবে",
+   "en": "not enough",
+   "ex": "insufficiently informed families"
+  }
+ ],
+ "synant": [
+  {
+   "w": "adolescent",
+   "bn": "কিশোর/কিশোরী",
+   "syn": [
+    "youthful",
+    "teenage",
+    "juvenile"
+   ],
+   "ant": [
+    "elderly",
+    "mature",
+    "adult"
+   ]
+  },
+  {
+   "w": "core",
+   "bn": "মূল",
+   "syn": [
+    "central",
+    "chief",
+    "principal"
+   ],
+   "ant": [
+    "subsidiary",
+    "minor",
+    "peripheral"
+   ]
+  },
+  {
+   "w": "widespread",
+   "bn": "ব্যাপক",
+   "syn": [
+    "wide-ranging",
+    "extensive",
+    "prevalent"
+   ],
+   "ant": [
+    "limited",
+    "narrow",
+    "rare"
+   ]
+  },
+  {
+   "w": "economic",
+   "bn": "অর্থনৈতিক",
+   "syn": [
+    "monetary",
+    "financial",
+    "fiscal"
+   ],
+   "ant": [
+    "non-economic"
+   ]
+  },
+  {
+   "w": "transitional",
+   "bn": "উত্তরণকালীন",
+   "syn": [
+    "intermediate",
+    "changing",
+    "temporary"
+   ],
+   "ant": [
+    "permanent",
+    "fixed",
+    "final"
+   ]
+  },
+  {
+   "w": "inequality",
+   "bn": "বৈষম্য",
+   "syn": [
+    "disparity",
+    "discrimination",
+    "unfairness"
+   ],
+   "ant": [
+    "equality",
+    "parity",
+    "fairness"
+   ]
+  },
+  {
+   "w": "subordination",
+   "bn": "অধীনতা",
+   "syn": [
+    "inferiority",
+    "submission",
+    "dependence"
+   ],
+   "ant": [
+    "supremacy",
+    "dominance",
+    "authority"
+   ]
+  },
+  {
+   "w": "vulnerable",
+   "bn": "ঝুঁকিপূর্ণ",
+   "syn": [
+    "exposed",
+    "unprotected",
+    "susceptible"
+   ],
+   "ant": [
+    "protected",
+    "secure",
+    "safe"
+   ]
+  },
+  {
+   "w": "affluent",
+   "bn": "সচ্ছল",
+   "syn": [
+    "wealthy",
+    "rich",
+    "prosperous"
+   ],
+   "ant": [
+    "poor",
+    "needy",
+    "impoverished"
+   ]
+  },
+  {
+   "w": "illegal",
+   "bn": "অবৈধ",
+   "syn": [
+    "unlawful",
+    "banned",
+    "illicit"
+   ],
+   "ant": [
+    "legal",
+    "lawful",
+    "legitimate"
+   ]
+  },
+  {
+   "w": "marginalise",
+   "bn": "প্রান্তিক করা",
+   "syn": [
+    "exclude",
+    "sideline",
+    "isolate"
+   ],
+   "ant": [
+    "include",
+    "empower",
+    "involve"
+   ]
+  },
+  {
+   "w": "majority",
+   "bn": "সংখ্যাগরিষ্ঠ অংশ",
+   "syn": [
+    "most",
+    "bulk",
+    "greater part"
+   ],
+   "ant": [
+    "minority",
+    "few"
+   ]
+  }
+ ],
+ "summaryEn": "Adolescents are the core resource of a nation, because it is during adolescence that a person moves from childhood to adulthood and that behaviour and lifestyle take their permanent shape; the World Health Organisation therefore says that this period shapes the whole future of boys and girls. Bangladesh has twenty-eight million adolescents, of whom nearly fourteen million are girls, yet the girls live in a condition of inequality and subordination in both family and society. Such inequality produces widespread child marriage, exclusion from health, education and economic opportunity, and constant exposure to violence and sexual abuse. Although the law fixes marriage at eighteen for girls and twenty-one for boys, a third of the girls are married before fifteen and three-fifths become mothers before nineteen, while better educated girls of affluent families marry later. Once married, a girl generally leaves school, works full time in her in-laws' house, is pushed to the margins and becomes exposed to every kind of abuse including dowry violence, which continues even after the wedding despite dowry being illegal. Worst of all, an adolescent bride faces far greater risks in pregnancy and childbirth, for most brides and their families know little about reproductive health and contraception, and the maternal death rate among adolescents is twice the national rate.",
+ "summaryBn": "কিশোর-কিশোরীরাই একটি জাতির মূল সম্পদ, কারণ কৈশোরেই মানুষ বাল্যকাল থেকে প্রাপ্তবয়স্কতায় পৌঁছায় এবং তার আচরণ ও জীবনযাত্রা স্থায়ী রূপ নেয়; তাই বিশ্ব স্বাস্থ্য সংস্থা বলে, এই সময়টিই ছেলে-মেয়েদের সমগ্র ভবিষ্যৎ গড়ে দেয়। বাংলাদেশে ২৮ মিলিয়ন কিশোর-কিশোরী আছে, যাদের প্রায় ১৪ মিলিয়নই মেয়ে; অথচ মেয়েরা পরিবার ও সমাজে বৈষম্য ও অধীনতার মধ্যে বাস করে। এই বৈষম্য থেকেই জন্ম নেয় ব্যাপক বাল্যবিবাহ, স্বাস্থ্য-শিক্ষা ও অর্থনৈতিক সুযোগ থেকে বঞ্চনা এবং সহিংসতা ও যৌন নির্যাতনের নিরন্তর ঝুঁকি। আইনে মেয়েদের বিয়ের বয়স ১৮ ও ছেলেদের ২১ হলেও এক-তৃতীয়াংশ মেয়ের বিয়ে হয় ১৫ বছরের আগে এবং ৬০ শতাংশ ১৯ বছরের মধ্যেই মা হয়; শিক্ষিত ও সচ্ছল পরিবারের মেয়েরা তুলনামূলক দেরিতে বিয়ে করে। বিয়ের পর মেয়েটি সাধারণত স্কুল ছাড়ে, শ্বশুরবাড়ির কাজে ব্যস্ত হয়, প্রান্তিক হয়ে পড়ে এবং যৌতুক-সহিংসতাসহ সব ধরনের নির্যাতনের শিকার হয় — যদিও যৌতুক আইনত নিষিদ্ধ, তবু বিয়ের পরেও তার দাবি চলতে থাকে। সবচেয়ে ভয়াবহ হলো, কিশোরী বধূর গর্ভধারণ ও সন্তান জন্মদানে ঝুঁকি অনেক বেশি, কারণ অধিকাংশ বধূ ও তাদের পরিবার প্রজনন স্বাস্থ্য সম্পর্কে অজ্ঞ; ফলে কিশোরীদের মাতৃমৃত্যুর হার জাতীয় হারের দ্বিগুণ।",
+ "summaryTip": "**পরিসংখ্যান-ভিত্তিক প্যাসেজের Summary:** সব সংখ্যা লিখবে না — যেগুলো যুক্তিকে শক্ত করে সেগুলোই রাখো (28 million, 33%, 60%, double)। বাকি সংখ্যাগুলো ‘a third’, ‘three-fifths’ এভাবে শব্দে লিখলে নম্বর বাড়ে।",
+ "mcq": [
+  {
+   "q": "What could be the closest meaning of ‘adolescent’?",
+   "opts": [
+    "elderly",
+    "youthful",
+    "infant",
+    "mature"
+   ],
+   "ans": 1,
+   "why": "Adolescent = ১৩–১৯ বছরের কিশোর/কিশোরী, তাই youthful. Infant (শিশু) ও mature (পরিণত) — দুটোই ভিন্ন পর্যায়।"
+  },
+  {
+   "q": "The word ‘widespread’ in the passage refers to —",
+   "opts": [
+    "limited",
+    "wide-ranging",
+    "narrow",
+    "minor"
+   ],
+   "ans": 1,
+   "why": "Widespread = ব্যাপকভাবে ছড়ানো = wide-ranging. বাকি তিনটি option-ই সংকীর্ণ অর্থ বোঝায়।"
+  },
+  {
+   "q": "What could be the closest meaning of the word ‘core’?",
+   "opts": [
+    "alternative",
+    "subsidiary",
+    "central",
+    "minor"
+   ],
+   "ans": 2,
+   "why": "Core resource = মূল/প্রধান সম্পদ = central. Subsidiary মানে গৌণ — উল্টো অর্থ।"
+  },
+  {
+   "q": "Adolescence is ___ of shaping lifestyles and behaviour.",
+   "opts": [
+    "the barrier",
+    "the time",
+    "interruption",
+    "block"
+   ],
+   "ans": 1,
+   "why": "‘Adolescence is a period in life when… behaviours and life styles are shaped’ — period = the time."
+  },
+  {
+   "q": "The word ‘economic’ can be replaced by —",
+   "opts": [
+    "monetary",
+    "economical",
+    "cheap",
+    "financed"
+   ],
+   "ans": 0,
+   "why": "সাবধান! Economic = অর্থনৈতিক (monetary), কিন্তু economical = মিতব্যয়ী। বোর্ডের চিরচেনা ফাঁদ।"
+  },
+  {
+   "q": "Adolescence is a ___ period from childhood to adulthood.",
+   "opts": [
+    "transition",
+    "transitory",
+    "transitional",
+    "transient"
+   ],
+   "ans": 2,
+   "why": "‘period’ একটি noun; তার আগে adjective দরকার — transitional. ‘Transition’ নিজেই noun, তাই বসবে না।"
+  },
+  {
+   "q": "The legal age of marriage for boys and girls is ___ and ___ years respectively.",
+   "opts": [
+    "20 and 18",
+    "21 and 18",
+    "18 and 16",
+    "20 and 17"
+   ],
+   "ans": 1,
+   "why": "প্রশ্নে ক্রম boys → girls, তাই ২১ ও ১৮। ‘respectively’ শব্দটি দেখে ক্রম উল্টে ফেলো না — এটাই ফাঁদ।"
+  },
+  {
+   "q": "___ percent of girls become mothers by the age of 19.",
+   "opts": [
+    "50",
+    "90",
+    "75",
+    "60"
+   ],
+   "ans": 3,
+   "why": "‘…60 percent become mothers by the age of 19.’ (৩৩% বিয়ে হয় ১৫ বছরের আগে — দুটি সংখ্যা গুলিয়ে ফেলো না।)"
+  },
+  {
+   "q": "The situation of adolescent girls in Bangladesh is characterized by —",
+   "opts": [
+    "equality and supremacy within the family and society",
+    "inequality and subordination within the family and society",
+    "freedom in movement",
+    "enjoying freedom in decision-making"
+   ],
+   "ans": 1,
+   "why": "দ্বিতীয় অনুচ্ছেদের প্রথম বাক্যেই হুবহু আছে — inequality and subordination."
+  },
+  {
+   "q": "Transition from childhood to adulthood takes place ___.",
+   "opts": [
+    "in infancy",
+    "in adolescence",
+    "in old age",
+    "after birth"
+   ],
+   "ans": 1,
+   "why": "‘Adolescence is a period in life when transition from childhood to adulthood takes place’ — সরাসরি উত্তর।"
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "Why are the adolescents considered to be important?",
+   "a": "Adolescents are considered important because they constitute a nation's core resource for national renewal and growth. Adolescence is the period in which a person passes from childhood to adulthood and in which behaviour and lifestyle are permanently shaped. According to the World Health Organisation, this very period shapes the future of both girls' and boys' lives; so the fate of a nation depends largely on how its adolescents are brought up.",
+   "bn": "কিশোর-কিশোরীদের গুরুত্বপূর্ণ মনে করা হয়, কারণ তারাই জাতীয় পুনর্জাগরণ ও অগ্রগতির মূল সম্পদ। এ সময়েই বাল্যকাল থেকে প্রাপ্তবয়স্কতায় উত্তরণ ঘটে এবং আচরণ ও জীবনযাত্রা স্থায়ীভাবে গড়ে ওঠে। WHO-এর মতে এই সময়টিই ছেলে-মেয়েদের ভবিষ্যৎ নির্ধারণ করে।"
+  },
+  {
+   "q": "What does gender inequality lead to?",
+   "a": "Gender inequality leads to a series of evils in the life of adolescent girls. It first produces the widespread practice of child marriage. Then it causes marginalisation, that is, exclusion from health services, education and economic opportunities. Finally it makes the girls vulnerable to violence and sexual abuse, and after marriage to dowry-related violence and serious health risks in pregnancy.",
+   "bn": "লিঙ্গবৈষম্য কিশোরীদের জীবনে একের পর এক অনিষ্ট ডেকে আনে — প্রথমে ব্যাপক বাল্যবিবাহ, এরপর স্বাস্থ্য-শিক্ষা ও অর্থনৈতিক সুযোগ থেকে বঞ্চনা, এবং শেষে সহিংসতা, যৌন নির্যাতন ও যৌতুক-সহিংসতার ঝুঁকি।"
+  },
+  {
+   "q": "When does a girl usually drop out of school?",
+   "a": "A girl usually drops out of school when she gets married. After marriage she has to begin full-time work in her in-laws' household, and so her education comes to an end. In Bangladesh this happens very early, because thirty-three percent of adolescent girls are married before the age of fifteen — that is, long before they can complete their schooling.",
+   "bn": "একটি মেয়ে সাধারণত বিয়ের পরেই স্কুল ছেড়ে দেয়। বিয়ের পর শ্বশুরবাড়ির সংসারে পূর্ণকালীন কাজ শুরু করতে হয় বলে তার লেখাপড়া বন্ধ হয়ে যায়। বাংলাদেশে ৩৩% মেয়ের বিয়ে ১৫ বছরের আগেই হয়ে যায়।"
+  },
+  {
+   "q": "Who are uninformed or insufficiently informed about reproductive health and contraception?",
+   "a": "The majority of adolescent brides and their families are uninformed or insufficiently informed about reproductive health and contraception. Because of this ignorance an adolescent bride cannot take proper care during pregnancy and childbirth. As a result she faces far greater health risks, and the maternal mortality rate among adolescents is double the national rate.",
+   "bn": "অধিকাংশ কিশোরী বধূ এবং তাদের পরিবার প্রজনন স্বাস্থ্য ও জন্মনিয়ন্ত্রণ সম্পর্কে অজ্ঞ বা অপর্যাপ্তভাবে অবহিত। এই অজ্ঞতার কারণেই তাদের স্বাস্থ্যঝুঁকি বেশি এবং মাতৃমৃত্যুর হার জাতীয় হারের দ্বিগুণ।"
+  },
+  {
+   "q": "When are behaviours and lifestyles shaped?",
+   "a": "Behaviours and lifestyles are shaped during adolescence, the period in which the transition from childhood to adulthood takes place. Whatever habits, values and attitudes a person forms at this stage usually remain with him for the rest of his life. That is why the World Health Organisation regards adolescence as the period that shapes the future of girls' and boys' lives.",
+   "bn": "আচরণ ও জীবনযাত্রার ধরন গড়ে ওঠে কৈশোরে, যখন বাল্যকাল থেকে প্রাপ্তবয়স্কতায় উত্তরণ ঘটে। এ সময়ে গড়ে ওঠা অভ্যাস ও মূল্যবোধ সারাজীবন থেকে যায়; তাই WHO একে ভবিষ্যৎ-নির্ধারক সময় বলে।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "What / Who",
+   "Events / Occurrences",
+   "What / Where",
+   "When / How"
+  ],
+  "rows": [
+   [
+    "(i) @Transition from childhood to adulthood",
+    "takes place and lifestyles are shaped",
+    "(ii) @from childhood to adulthood",
+    "in adolescence"
+   ],
+   [
+    "Adolescence",
+    "according to (iii) @the World Health Organisation (WHO)",
+    "shapes (iv) @girls' and boys' future",
+    "in life"
+   ],
+   [
+    "13.7 million girls",
+    "and (v) @14.3 million boys",
+    "among 28 million adolescents",
+    "(vi) @in Bangladesh"
+   ],
+   [
+    "The situation of adolescent girls",
+    "is characterised",
+    "by (vii) @inequality and subordination within the family and society",
+    "(viii) @commonly / widely in Bangladesh"
+   ],
+   [
+    "Child marriage",
+    "(ix) @is widely practised",
+    "happens for the girls",
+    "due to (x) @inequality and subordination in Bangladesh"
+   ]
+  ],
+  "note": "সংখ্যা লেখার সময় হুবহু কপি করো — 28 million, 13.7 million, 14.3 million, 33 percent, 60 percent."
+ },
+ "flow": {
+  "title": "Situations of Adolescent Girls in Bangladesh — বাংলাদেশে কিশোরীদের অবস্থা",
+  "items": [
+   {
+    "t": "Inequality and subordination within family &amp; society",
+    "bn": "পরিবার ও সমাজে বৈষম্য ও অধীনতা (দেওয়া আছে)"
+   },
+   {
+    "t": "Widespread practice of child marriage",
+    "bn": "বাল্যবিবাহের ব্যাপক প্রচলন"
+   },
+   {
+    "t": "Exclusion from health, education and economic opportunities",
+    "bn": "স্বাস্থ্য, শিক্ষা ও অর্থনৈতিক সুযোগ থেকে বঞ্চনা"
+   },
+   {
+    "t": "Vulnerability to violence and sexual abuse",
+    "bn": "সহিংসতা ও যৌন নির্যাতনের ঝুঁকি"
+   },
+   {
+    "t": "Dropping out of school and dowry-related violence",
+    "bn": "স্কুল ছেড়ে দেওয়া ও যৌতুক-সহিংসতা"
+   },
+   {
+    "t": "Greater health risks — maternal mortality double the national rate",
+    "bn": "অধিক স্বাস্থ্যঝুঁকি — মাতৃমৃত্যু জাতীয় হারের দ্বিগুণ"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "All the Statistics <span class='sub'>— সব পরিসংখ্যান এক জায়গায়</span>",
+   "key": "Statistics",
+   "table": {
+    "headers": [
+     "Figure",
+     "What it stands for"
+    ],
+    "rows": [
+     [
+      "28 million",
+      "Total adolescents in Bangladesh"
+     ],
+     [
+      "13.7 million",
+      "Adolescent girls"
+     ],
+     [
+      "14.3 million",
+      "Adolescent boys"
+     ],
+     [
+      "18 years",
+      "Legal age of marriage for girls"
+     ],
+     [
+      "21 years",
+      "Legal age of marriage for boys"
+     ],
+     [
+      "33 percent",
+      "Girls married before the age of 15"
+     ],
+     [
+      "60 percent",
+      "Girls who become mothers by the age of 19"
+     ],
+     [
+      "Double",
+      "Maternal mortality rate of adolescents compared to the national rate"
+     ]
+    ]
+   },
+   "note": "এই ৮টি সংখ্যা থেকেই MCQ-এর অন্তত ৩টি এবং Table-এর ৪টি ঘর আসে।"
+  },
+  {
+   "title": "Confusing Word Pairs <span class='sub'>— যেসব শব্দ বোর্ডে গুলিয়ে দেওয়া হয়</span>",
+   "key": "Word Traps",
+   "table": {
+    "headers": [
+     "Word",
+     "Meaning",
+     "Confused with",
+     "That word means"
+    ],
+    "rows": [
+     [
+      "economic",
+      "@অর্থনৈতিক (monetary)",
+      "economical",
+      "@মিতব্যয়ী (saving money)"
+     ],
+     [
+      "transition (n)",
+      "@উত্তরণ",
+      "transitional (adj)",
+      "@উত্তরণকালীন"
+     ],
+     [
+      "transitory / transient",
+      "@ক্ষণস্থায়ী",
+      "transitional",
+      "@পরিবর্তনকালীন"
+     ],
+     [
+      "illegal",
+      "@বেআইনি",
+      "illegible",
+      "@পড়া যায় না এমন"
+     ],
+     [
+      "affluent",
+      "@সচ্ছল",
+      "effluent",
+      "@নিঃসৃত বর্জ্য"
+     ],
+     [
+      "marginalise",
+      "@প্রান্তিক করা",
+      "marginal",
+      "@সামান্য / প্রান্তিক"
+     ]
+    ]
+   },
+   "note": "MCQ-তে এই জোড়াগুলো থেকে প্রতি বছর প্রশ্ন আসে — **অর্থ + parts of speech** দুটোই মিলিয়ে উত্তর দাও।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🔢",
+   "t": "Statistics = guaranteed MCQ",
+   "d": "প্যাসেজের প্রতিটি সংখ্যা গোল দাগ দিয়ে রাখো। এই প্যাসেজে ৮টি সংখ্যা আছে, প্রায় প্রতিটি থেকেই প্রশ্ন হয়।"
+  },
+  {
+   "em": "⚠️",
+   "t": "‘respectively’ — order matters",
+   "type": "warn",
+   "d": "‘for boys and girls… respectively’ মানে আগে boys-এর সংখ্যা, পরে girls-এর। ক্রম উল্টালে উত্তর ভুল।"
+  },
+  {
+   "em": "🧩",
+   "t": "Parts of speech decides the option",
+   "d": "খালিঘরের আগে-পরে noun না verb দেখে option বাছো — ‘a ___ period’ মানে অবশ্যই adjective (transitional)।"
+  },
+  {
+   "em": "🔗",
+   "t": "Write cause → effect chains",
+   "d": "inequality → child marriage → dropping out → dowry violence → health risk → maternal death. এই শৃঙ্খল মনে রাখলে ৩ নম্বরের যেকোনো প্রশ্ন লেখা যায়।"
+  },
+  {
+   "em": "✅",
+   "t": "Use the passage's own key phrases",
+   "type": "ok",
+   "d": "‘core resource’, ‘inequality and subordination’, ‘vulnerable to abuse’ — এই phrase গুলো উত্তরে ব্যবহার করলে নম্বর বাড়ে।"
+  },
+  {
+   "em": "🕒",
+   "t": "Don't over-write the summary",
+   "d": "১৮ বাক্যের প্যাসেজে Summary হবে ৬–৮ বাক্যে, ১৩০ শব্দের মধ্যে। বেশি লিখলে সময় নষ্ট, নম্বর নয়।"
+  }
+ ],
+ "recap": [
+  "কিশোর-কিশোরী = জাতির ‘core resource for national renewal and growth’.",
+  "বাংলাদেশে ২৮ মিলিয়ন কিশোর-কিশোরী: ১৩.৭ মিলিয়ন মেয়ে, ১৪.৩ মিলিয়ন ছেলে।",
+  "মেয়েদের অবস্থার মূল বৈশিষ্ট্য: inequality and subordination.",
+  "আইনি বিয়ের বয়স: মেয়ে ১৮, ছেলে ২১ — বাস্তবে ৩৩% বিয়ে হয় ১৫-এর আগে।",
+  "কিশোরীদের মাতৃমৃত্যুর হার জাতীয় হারের দ্বিগুণ।"
+ ],
+ "homework": [
+  "৮টি পরিসংখ্যান মুখস্থ করে ছোট পরীক্ষা দেবে।",
+  "‘Confusing Word Pairs’ টেবিলটি খাতায় তুলে আনবে।",
+  "Flow chart-এর ৬টি ঘর নিজে লিখবে।",
+  "Summary ১৩০ শব্দে লিখে আনবে।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

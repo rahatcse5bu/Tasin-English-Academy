@@ -1,0 +1,752 @@
+{
+ "id": "dreams-psychology",
+ "unit": "Unit 10",
+ "unitName": "Dreams",
+ "title": "What is a Dream? — Theories of Dreams",
+ "titleBn": "স্বপ্ন কী? — স্বপ্নতত্ত্বের বিজ্ঞান",
+ "lede": "স্বপ্নের সংজ্ঞা, বৈশিষ্ট্য, উদ্দেশ্য নিয়ে বিজ্ঞানীদের মতভেদ এবং সিগমুন্ড ফ্রয়েডের বিখ্যাত মনোসমীক্ষণ তত্ত্ব।",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 50,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Define a dream in scientific terms",
+   "d": "স্বপ্নের সংজ্ঞা ও বৈশিষ্ট্য"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "১৫টি বাক্যের বাংলা অর্থ"
+  },
+  {
+   "t": "Understand Freud's theory",
+   "d": "‘disguised fulfilments of repressed wishes’-এর অর্থ"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "empirical, consensus, baffling, repressed…"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — Old wonder, new science",
+   "s": [
+    {
+     "en": "Dreams have ==fascinated== philosophers for thousands of years, but only recently have dreams been ==subjected to empirical research and scientific study==.",
+     "bn": "স্বপ্ন হাজার হাজার বছর ধরে দার্শনিকদের ==মুগ্ধ করে== এসেছে, কিন্তু কেবল সাম্প্রতিককালেই স্বপ্নকে ==পরীক্ষালব্ধ গবেষণা ও বৈজ্ঞানিক অধ্যয়নের আওতায় আনা হয়েছে==।"
+    },
+    {
+     "en": "Chances are that you've often found yourself ==puzzling over the content of a dream==, or perhaps you've wondered why you dream at all.",
+     "bn": "সম্ভবত তুমি প্রায়ই নিজেকে ==স্বপ্নের বিষয়বস্তু নিয়ে ভাবনায় ডুবে== থাকতে দেখেছ, কিংবা হয়তো ভেবেছ আদৌ তুমি স্বপ্ন দেখ কেন।"
+    },
+    {
+     "en": "First, let's start by answering a ==basic question==: What is a dream?",
+     "bn": "প্রথমে একটি ==মৌলিক প্রশ্নের== উত্তর দিয়ে শুরু করা যাক: স্বপ্ন আসলে কী?"
+    },
+    {
+     "en": "A dream can include any of the ==images, thoughts and emotions== that are ==experienced during sleep==.",
+     "bn": "স্বপ্নে থাকতে পারে সেই সব ==দৃশ্য, চিন্তা ও অনুভূতি==, যা ==ঘুমের মধ্যে অনুভূত হয়==।"
+    },
+    {
+     "en": "Dreams can be ==extraordinarily vivid or very vague==; filled with ==joyful emotions or frightening images==; ==focused and understandable or unclear and confusing==.",
+     "bn": "স্বপ্ন হতে পারে ==অসাধারণ স্পষ্ট কিংবা খুবই অস্পষ্ট==; ==আনন্দময় অনুভূতিতে ভরা কিংবা ভীতিকর দৃশ্যে ভরা==; ==কেন্দ্রীভূত ও বোধগম্য কিংবা অস্পষ্ট ও বিভ্রান্তিকর==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — Why do we dream?",
+   "s": [
+    {
+     "en": "Why do we dream? What ==purpose== do dreams serve?",
+     "bn": "আমরা কেন স্বপ্ন দেখি? স্বপ্ন কোন ==উদ্দেশ্য== সাধন করে?"
+    },
+    {
+     "en": "While many ==theories have been proposed== about the reason and function of dreams, ==no consensus has emerged==.",
+     "bn": "যদিও স্বপ্নের কারণ ও কাজ নিয়ে বহু ==তত্ত্ব উপস্থাপিত হয়েছে==, ==কোনো ঐকমত্য গড়ে ওঠেনি==।"
+    },
+    {
+     "en": "Considering the time we spend in a ==dreaming state==, the fact that researchers do not yet understand the purpose of dreams may seem ==baffling==.",
+     "bn": "আমরা ==স্বপ্নাবস্থায়== যত সময় কাটাই তা বিবেচনা করলে, গবেষকেরা এখনো স্বপ্নের উদ্দেশ্য বোঝেন না — এই ব্যাপারটি ==বিভ্রান্তিকর== মনে হতে পারে।"
+    },
+    {
+     "en": "However, it is important to consider that science is still ==unravelling== the exact purpose and function of ==sleep itself==.",
+     "bn": "তবে মনে রাখা জরুরি যে বিজ্ঞান এখনো ==ঘুমেরই== প্রকৃত উদ্দেশ্য ও কাজ ==উদ্‌ঘাটন করে চলেছে==।"
+    },
+    {
+     "en": "Some researchers suggest that dreams ==serve no real purpose==, while others believe that dreaming is ==essential to mental, emotional and physical well-being==.",
+     "bn": "কিছু গবেষক মনে করেন স্বপ্নের ==কোনো প্রকৃত উদ্দেশ্য নেই==, আবার অন্যরা বিশ্বাস করেন স্বপ্ন দেখা ==মানসিক, আবেগীয় ও শারীরিক সুস্থতার জন্য অপরিহার্য==।"
+    },
+    {
+     "en": "Next, let's learn more about some of the most ==prominent dream theories==.",
+     "bn": "এবার আসুন সবচেয়ে ==উল্লেখযোগ্য স্বপ্নতত্ত্বগুলোর== সম্পর্কে আরও জানি।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — Freud's psychoanalytic theory",
+   "s": [
+    {
+     "en": "Consistent with the ==psychoanalytic perspective==, ==Sigmund Freud's== theory of dreams suggests that dreams are a ==representation of subconscious desires, thoughts and motivations==.",
+     "bn": "==মনোসমীক্ষণ দৃষ্টিভঙ্গির== সঙ্গে সংগতি রেখে ==সিগমুন্ড ফ্রয়েডের== স্বপ্নতত্ত্ব বলে যে স্বপ্ন হলো ==অবচেতন আকাঙ্ক্ষা, চিন্তা ও প্রেরণার প্রতিফলন==।"
+    },
+    {
+     "en": "According to Freud, people are driven by ==aggressive and sexual instincts== that are ==repressed from conscious awareness==.",
+     "bn": "ফ্রয়েডের মতে, মানুষ চালিত হয় ==আক্রমণাত্মক ও যৌন প্রবৃত্তির== দ্বারা, যা ==সচেতন চেতনা থেকে দমন করে রাখা হয়==।"
+    },
+    {
+     "en": "While these thoughts are not ==consciously expressed==, they find their way into our awareness ==via dreams==.",
+     "bn": "এই চিন্তাগুলো ==সচেতনভাবে প্রকাশ না পেলেও== সেগুলো ==স্বপ্নের মধ্য দিয়ে== আমাদের চেতনায় পথ করে নেয়।"
+    },
+    {
+     "en": "In his famous book ==*The Interpretation of Dreams* (1899)==, Freud wrote that dreams are “…==disguised fulfilments of repressed wishes==.”",
+     "bn": "তাঁর বিখ্যাত গ্রন্থ ==‘দ্য ইন্টারপ্রিটেশন অব ড্রিমস’ (১৮৯৯)-এ== ফ্রয়েড লিখেছেন, স্বপ্ন হলো “…==দমিত আকাঙ্ক্ষার ছদ্মবেশী পরিপূর্ণতা==।”"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "fascinate",
+   "pos": "verb",
+   "pron": "/ˈfæsɪneɪt/",
+   "bn": "মুগ্ধ করা, আকৃষ্ট করা",
+   "en": "to attract and hold the interest of",
+   "ex": "Dreams have fascinated philosophers."
+  },
+  {
+   "w": "empirical",
+   "pos": "adj",
+   "pron": "/ɪmˈpɪrɪkl/",
+   "bn": "পরীক্ষালব্ধ, অভিজ্ঞতাভিত্তিক",
+   "en": "based on observation and experiment, not theory",
+   "ex": "empirical research and scientific study"
+  },
+  {
+   "w": "puzzle over",
+   "pos": "phrase",
+   "pron": "/ˈpʌzl/",
+   "bn": "গভীরভাবে ভাবা, ধাঁধায় পড়া",
+   "en": "to think hard about something confusing",
+   "ex": "puzzling over the content of a dream"
+  },
+  {
+   "w": "content",
+   "pos": "noun",
+   "pron": "/ˈkɒntent/",
+   "bn": "বিষয়বস্তু",
+   "en": "the subject matter of something",
+   "ex": "the content of a dream"
+  },
+  {
+   "w": "vivid",
+   "pos": "adj",
+   "pron": "/ˈvɪvɪd/",
+   "bn": "স্পষ্ট, জীবন্ত",
+   "en": "producing clear and powerful images",
+   "ex": "extraordinarily vivid dreams"
+  },
+  {
+   "w": "vague",
+   "pos": "adj",
+   "pron": "/veɪɡ/",
+   "bn": "অস্পষ্ট, ঝাপসা",
+   "en": "not clear or definite",
+   "ex": "Dreams can be very vague."
+  },
+  {
+   "w": "consensus",
+   "pos": "noun",
+   "pron": "/kənˈsensəs/",
+   "bn": "ঐকমত্য, সর্বসম্মতি",
+   "en": "general agreement among people",
+   "ex": "No consensus has emerged."
+  },
+  {
+   "w": "baffling",
+   "pos": "adj",
+   "pron": "/ˈbæflɪŋ/",
+   "bn": "বিভ্রান্তিকর, দুর্বোধ্য",
+   "en": "impossible to understand",
+   "ex": "The fact may seem baffling."
+  },
+  {
+   "w": "unravel",
+   "pos": "verb",
+   "pron": "/ʌnˈrævl/",
+   "bn": "উদ্‌ঘাটন করা, রহস্য খোলা",
+   "en": "to explain or solve something mysterious",
+   "ex": "Science is still unravelling the purpose of sleep."
+  },
+  {
+   "w": "well-being",
+   "pos": "noun",
+   "pron": "/ˌwelˈbiːɪŋ/",
+   "bn": "সুস্থতা, কল্যাণ",
+   "en": "the state of being healthy and happy",
+   "ex": "essential to mental well-being"
+  },
+  {
+   "w": "prominent",
+   "pos": "adj",
+   "pron": "/ˈprɒmɪnənt/",
+   "bn": "উল্লেখযোগ্য, বিশিষ্ট",
+   "en": "important and well known",
+   "ex": "the most prominent dream theories"
+  },
+  {
+   "w": "psychoanalytic",
+   "pos": "adj",
+   "pron": "/ˌsaɪkəʊænəˈlɪtɪk/",
+   "bn": "মনোসমীক্ষণমূলক",
+   "en": "relating to the study of the unconscious mind",
+   "ex": "the psychoanalytic perspective"
+  },
+  {
+   "w": "subconscious",
+   "pos": "adj",
+   "pron": "/ˌsʌbˈkɒnʃəs/",
+   "bn": "অবচেতন",
+   "en": "of the part of the mind we are not fully aware of",
+   "ex": "subconscious desires and motivations"
+  },
+  {
+   "w": "repress",
+   "pos": "verb",
+   "pron": "/rɪˈpres/",
+   "bn": "দমন করা, চেপে রাখা",
+   "en": "to hold back a feeling or desire",
+   "ex": "instincts repressed from conscious awareness"
+  },
+  {
+   "w": "disguised",
+   "pos": "adj",
+   "pron": "/dɪsˈɡaɪzd/",
+   "bn": "ছদ্মবেশী, লুকানো",
+   "en": "hidden under a false appearance",
+   "ex": "disguised fulfilments of repressed wishes"
+  },
+  {
+   "w": "cognitive",
+   "pos": "adj",
+   "pron": "/ˈkɒɡnətɪv/",
+   "bn": "জ্ঞানীয়, বোধ-সংক্রান্ত",
+   "en": "connected with the mental process of understanding",
+   "ex": "cognitive theories of dreaming"
+  }
+ ],
+ "synant": [
+  {
+   "w": "fascinate",
+   "bn": "মুগ্ধ করা",
+   "syn": [
+    "charm",
+    "captivate",
+    "enthral"
+   ],
+   "ant": [
+    "bore",
+    "repel",
+    "disgust"
+   ]
+  },
+  {
+   "w": "empirical",
+   "bn": "পরীক্ষালব্ধ",
+   "syn": [
+    "experimental",
+    "observed",
+    "practical"
+   ],
+   "ant": [
+    "theoretical",
+    "speculative",
+    "hypothetical"
+   ]
+  },
+  {
+   "w": "vivid",
+   "bn": "স্পষ্ট",
+   "syn": [
+    "clear",
+    "graphic",
+    "bright"
+   ],
+   "ant": [
+    "vague",
+    "dull",
+    "obscure"
+   ]
+  },
+  {
+   "w": "consensus",
+   "bn": "ঐকমত্য",
+   "syn": [
+    "agreement",
+    "accord",
+    "unanimity"
+   ],
+   "ant": [
+    "discord",
+    "refusal",
+    "dissent"
+   ]
+  },
+  {
+   "w": "baffling",
+   "bn": "দুর্বোধ্য",
+   "syn": [
+    "puzzling",
+    "perplexing",
+    "confusing"
+   ],
+   "ant": [
+    "clear",
+    "obvious",
+    "simple"
+   ]
+  },
+  {
+   "w": "disguised",
+   "bn": "ছদ্মবেশী",
+   "syn": [
+    "hidden",
+    "concealed",
+    "masked"
+   ],
+   "ant": [
+    "real",
+    "genuine",
+    "open"
+   ]
+  },
+  {
+   "w": "repressed",
+   "bn": "দমিত",
+   "syn": [
+    "suppressed",
+    "restrained",
+    "held back"
+   ],
+   "ant": [
+    "expressed",
+    "released",
+    "free"
+   ]
+  },
+  {
+   "w": "prominent",
+   "bn": "বিশিষ্ট",
+   "syn": [
+    "notable",
+    "leading",
+    "eminent"
+   ],
+   "ant": [
+    "obscure",
+    "minor",
+    "unknown"
+   ]
+  },
+  {
+   "w": "essential",
+   "bn": "অপরিহার্য",
+   "syn": [
+    "indispensable",
+    "vital",
+    "crucial"
+   ],
+   "ant": [
+    "unnecessary",
+    "optional",
+    "trivial"
+   ]
+  },
+  {
+   "w": "perplexed",
+   "bn": "হতবুদ্ধি",
+   "syn": [
+    "puzzled",
+    "confused",
+    "bewildered"
+   ],
+   "ant": [
+    "certain",
+    "clear-headed",
+    "assured"
+   ]
+  },
+  {
+   "w": "unravel",
+   "bn": "উদ্‌ঘাটন করা",
+   "syn": [
+    "solve",
+    "decipher",
+    "untangle"
+   ],
+   "ant": [
+    "complicate",
+    "entangle",
+    "obscure"
+   ]
+  },
+  {
+   "w": "cognitive",
+   "bn": "জ্ঞানীয়",
+   "syn": [
+    "mental",
+    "intellectual",
+    "rational"
+   ],
+   "ant": [
+    "physical",
+    "emotional",
+    "instinctive"
+   ]
+  }
+ ],
+ "summaryEn": "Although dreams have fascinated philosophers for thousands of years, it is only in recent times that they have been placed under empirical research and scientific study; most people at some time puzzle over what they have dreamt or wonder why they dream at all. A dream may be defined as any of the images, thoughts and emotions experienced during sleep, and it may be extraordinarily vivid or altogether vague, full of joyful feelings or of frightening pictures, clearly focused or unclear and confusing. Why we dream, however, remains unsettled: many theories have been offered about the reason and function of dreams, but no consensus has been reached. Considering how much of our life is spent dreaming this ignorance seems baffling, yet it must be remembered that science has not yet fully explained the purpose of sleep itself. Some researchers hold that dreams serve no real purpose at all, while others insist that dreaming is essential to mental, emotional and physical well-being. Among the most prominent explanations is the psychoanalytic theory of Sigmund Freud, who argued that dreams represent subconscious desires, thoughts and motivations; since human beings are driven by aggressive and sexual instincts that are repressed from conscious awareness, these hidden thoughts reach our mind through dreams. In The Interpretation of Dreams (1899) he therefore described dreams as disguised fulfilments of repressed wishes.",
+ "summaryBn": "স্বপ্ন হাজার হাজার বছর ধরে দার্শনিকদের মুগ্ধ করলেও সাম্প্রতিককালেই কেবল একে পরীক্ষালব্ধ গবেষণা ও বৈজ্ঞানিক অধ্যয়নের আওতায় আনা হয়েছে; বেশিরভাগ মানুষই কখনো না কখনো স্বপ্নের বিষয়বস্তু নিয়ে ভাবে বা ভাবে আদৌ কেন সে স্বপ্ন দেখে। স্বপ্নকে সংজ্ঞায়িত করা যায় ঘুমের মধ্যে অনুভূত দৃশ্য, চিন্তা ও আবেগ হিসেবে; তা হতে পারে অসাধারণ স্পষ্ট বা একেবারেই অস্পষ্ট, আনন্দময় বা ভীতিকর, কেন্দ্রীভূত ও বোধগম্য কিংবা ঝাপসা ও বিভ্রান্তিকর। কিন্তু আমরা কেন স্বপ্ন দেখি — এ প্রশ্নের মীমাংসা হয়নি: বহু তত্ত্ব উপস্থাপিত হলেও কোনো ঐকমত্য গড়ে ওঠেনি। জীবনের কত সময় স্বপ্নে কাটে তা ভাবলে এই অজ্ঞতা বিভ্রান্তিকর মনে হয়, তবু মনে রাখা দরকার, বিজ্ঞান এখনো ঘুমেরই প্রকৃত উদ্দেশ্য পুরোপুরি ব্যাখ্যা করতে পারেনি। কিছু গবেষক মনে করেন স্বপ্নের কোনো প্রকৃত উদ্দেশ্যই নেই, অন্যরা বলেন স্বপ্ন মানসিক, আবেগীয় ও শারীরিক সুস্থতার জন্য অপরিহার্য। সবচেয়ে আলোচিত ব্যাখ্যাগুলোর একটি সিগমুন্ড ফ্রয়েডের মনোসমীক্ষণ তত্ত্ব, যাঁর মতে স্বপ্ন হলো অবচেতন আকাঙ্ক্ষা, চিন্তা ও প্রেরণার প্রতিফলন; মানুষ যেহেতু দমিত আক্রমণাত্মক ও যৌন প্রবৃত্তির দ্বারা চালিত, সেই গোপন ভাবনাগুলো স্বপ্নের মধ্য দিয়েই চেতনায় পৌঁছায়। তাই ‘দ্য ইন্টারপ্রিটেশন অব ড্রিমস’ (১৮৯৯) গ্রন্থে তিনি স্বপ্নকে বলেছেন ‘দমিত আকাঙ্ক্ষার ছদ্মবেশী পরিপূর্ণতা’।",
+ "summaryTip": "**Science/theory passage:** সংজ্ঞা → বৈশিষ্ট্য → বিতর্ক → তত্ত্ব — এই চার ধাপে লেখো। বিজ্ঞানসম্মত শব্দগুলো (empirical, consensus, subconscious) Summary-তেও রাখো, তবে সংজ্ঞা টেনে লম্বা করো না।",
+ "mcq": [
+  {
+   "q": "*The Interpretation of Dreams* is a —",
+   "opts": [
+    "biological book",
+    "theoretical book",
+    "detective book",
+    "gothic book"
+   ],
+   "ans": 1,
+   "why": "বইটিতে ফ্রয়েড স্বপ্ন সম্পর্কে তাঁর **তত্ত্ব** ব্যাখ্যা করেছেন, তাই এটি একটি theoretical book."
+  },
+  {
+   "q": "What does the word ‘disguised’ mean in the passage?",
+   "opts": [
+    "hidden",
+    "real",
+    "genuine",
+    "fake"
+   ],
+   "ans": 0,
+   "why": "Disguised = ছদ্মবেশে লুকানো = hidden. ‘disguised fulfilments’ মানে আকাঙ্ক্ষা পূরণ হচ্ছে, কিন্তু ছদ্মবেশে — তাই ‘fake’ নয়।"
+  },
+  {
+   "q": "“Puzzling over the content of a dream” — What does it imply?",
+   "opts": [
+    "thinking deeply about the subject of dream",
+    "thinking deeply about the condition of dream",
+    "thinking deeply about the satisfaction of dream",
+    "thinking lightly about the subject of dream"
+   ],
+   "ans": 0,
+   "why": "‘Content’ = বিষয়বস্তু (subject), আর ‘puzzling over’ = গভীরভাবে ভাবা। তাই ‘thinking deeply about the subject’."
+  },
+  {
+   "q": "What does the word ‘consensus’ mean?",
+   "opts": [
+    "refusal",
+    "discord",
+    "agreement",
+    "dismissal"
+   ],
+   "ans": 2,
+   "why": "Consensus = সর্বসম্মত মত = agreement. ‘no consensus has emerged’ মানে গবেষকেরা একমত হতে পারেননি।"
+  },
+  {
+   "q": "In which issue do researchers differ a lot?",
+   "opts": [
+    "dimension of dream",
+    "purpose and function of dream",
+    "hazards of dream",
+    "essentials of dream"
+   ],
+   "ans": 1,
+   "why": "‘many theories have been proposed about the **reason and function** of dreams, no consensus has emerged’ — এখানেই মতভেদ।"
+  },
+  {
+   "q": "When are the images, thoughts and emotions of a dream experienced?",
+   "opts": [
+    "after sleep",
+    "before sleep",
+    "during waking hours",
+    "during sleep"
+   ],
+   "ans": 3,
+   "why": "সংজ্ঞার বাক্যেই আছে — ‘…experienced **during sleep**’."
+  },
+  {
+   "q": "Sigmund Freud was a —",
+   "opts": [
+    "physicist",
+    "neurotic",
+    "psychologist",
+    "palmist"
+   ],
+   "ans": 2,
+   "why": "ফ্রয়েড ছিলেন মনোসমীক্ষণের প্রবর্তক, অর্থাৎ মনোবিজ্ঞানী (psychologist)। প্যাসেজে ‘psychoanalytic perspective’ শব্দটিই ইঙ্গিত দেয়।"
+  },
+  {
+   "q": "We may often find ourselves ___ during dream.",
+   "opts": [
+    "perplexed",
+    "sorry",
+    "sad",
+    "sadness"
+   ],
+   "ans": 0,
+   "why": "‘puzzling over the content of a dream’ = হতবুদ্ধি/বিভ্রান্ত = perplexed. ‘Sadness’ noun, তাই ব্যাকরণেও বসবে না।"
+  },
+  {
+   "q": "Which of the following is true?",
+   "opts": [
+    "There is a definite reason of dreaming.",
+    "Dreams are a representation of conscious desires.",
+    "Scientists have been researching dreams for thousands of years.",
+    "We are very often puzzled by the content of dream."
+   ],
+   "ans": 3,
+   "why": "(i) ভুল — কোনো ঐকমত্য নেই; (ii) ভুল — **subconscious** desires, conscious নয়; (iii) ভুল — দার্শনিকেরা হাজার বছর ভেবেছেন, বৈজ্ঞানিক গবেষণা সাম্প্রতিক। তাই (iv)-ই সত্য।"
+  },
+  {
+   "q": "The word ‘cognitive’ means —",
+   "opts": [
+    "mental process of understanding",
+    "process of music",
+    "process of keeping good health",
+    "process of developing thoughts"
+   ],
+   "ans": 0,
+   "why": "Cognitive = জ্ঞান আহরণ ও বোঝার মানসিক প্রক্রিয়া সংক্রান্ত = mental process of understanding."
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "What is the theory of Sigmund Freud about dream?",
+   "a": "Sigmund Freud explained dreams from the psychoanalytic point of view. According to him, dreams are a representation of our subconscious desires, thoughts and motivations. He held that human beings are driven by aggressive and sexual instincts which are repressed from conscious awareness; and since these thoughts cannot be expressed consciously, they find their way into our awareness through dreams. That is why in his famous book The Interpretation of Dreams (1899) he called dreams ‘disguised fulfilments of repressed wishes’.",
+   "bn": "সিগমুন্ড ফ্রয়েড মনোসমীক্ষণের দৃষ্টিকোণ থেকে স্বপ্ন ব্যাখ্যা করেছেন। তাঁর মতে স্বপ্ন হলো আমাদের অবচেতন আকাঙ্ক্ষা, চিন্তা ও প্রেরণার প্রতিফলন। মানুষ দমিত আক্রমণাত্মক ও যৌন প্রবৃত্তির দ্বারা চালিত; এই ভাবনাগুলো সচেতনভাবে প্রকাশ করা যায় না বলে স্বপ্নের মধ্য দিয়ে চেতনায় আসে। তাই তিনি স্বপ্নকে বলেছেন ‘দমিত আকাঙ্ক্ষার ছদ্মবেশী পরিপূর্ণতা’।"
+  },
+  {
+   "q": "How much has science been successful in explaining dream?",
+   "a": "Science has been only partially successful. Dreams have been brought under empirical research and scientific study only recently, and although many theories have been proposed about their reason and function, no consensus has emerged among researchers. Some of them think that dreams serve no real purpose, while others believe that dreaming is essential to mental, emotional and physical well-being. This limitation is not surprising, because science is still unravelling the exact purpose and function of sleep itself.",
+   "bn": "বিজ্ঞান কেবল আংশিকভাবে সফল হয়েছে। স্বপ্নকে বৈজ্ঞানিক গবেষণার আওতায় আনা হয়েছে সাম্প্রতিককালেই, আর বহু তত্ত্ব উপস্থাপিত হলেও গবেষকদের মধ্যে ঐকমত্য গড়ে ওঠেনি — কেউ বলেন স্বপ্নের কোনো উদ্দেশ্য নেই, কেউ বলেন এটি সুস্থতার জন্য অপরিহার্য। এতে অবাক হওয়ার কিছু নেই, কারণ বিজ্ঞান এখনো ঘুমেরই উদ্দেশ্য পুরোপুরি জানে না।"
+  },
+  {
+   "q": "What are the benefits of dream?",
+   "a": "The passage does not claim any benefit with certainty, because researchers disagree. Some of them suggest that dreams serve no real purpose at all. Others, however, believe that dreaming is essential to our mental, emotional and physical well-being. From Freud's point of view dreams are also useful in another way: they allow repressed aggressive and sexual instincts to find an outlet, so that the mind is relieved. Thus the possible benefit of dreams is chiefly psychological.",
+   "bn": "প্যাসেজে নিশ্চিতভাবে কোনো উপকারিতা দাবি করা হয়নি, কারণ গবেষকেরা একমত নন। কেউ বলেন স্বপ্নের কোনো প্রকৃত উদ্দেশ্য নেই; আবার অন্যরা মনে করেন স্বপ্ন মানসিক, আবেগীয় ও শারীরিক সুস্থতার জন্য অপরিহার্য। ফ্রয়েডের দৃষ্টিতে স্বপ্ন দমিত প্রবৃত্তির নির্গমনপথ খুলে দিয়ে মনকে হালকা করে।"
+  },
+  {
+   "q": "What does the expression “disguised fulfilments of repressed wishes” mean?",
+   "a": "The expression is Freud's definition of dreams. ‘Repressed wishes’ are those aggressive and sexual desires which society does not allow us to express and which we therefore push down from conscious awareness. ‘Fulfilment’ means that in a dream these very desires are satisfied. But the fulfilment is ‘disguised’, that is, it appears in a changed and symbolic form so that the dreamer does not recognise the real wish. In short, a dream secretly grants what the waking mind has forbidden.",
+   "bn": "এটি ফ্রয়েডের দেওয়া স্বপ্নের সংজ্ঞা। ‘Repressed wishes’ হলো সেই আক্রমণাত্মক ও যৌন আকাঙ্ক্ষা, যা সমাজ প্রকাশ করতে দেয় না বলে আমরা চেতনার নিচে চেপে রাখি। ‘Fulfilment’ মানে স্বপ্নে সেই আকাঙ্ক্ষাই পূরণ হয়। কিন্তু তা ‘disguised’ বা ছদ্মবেশী — প্রতীকী রূপে আসে বলে স্বপ্নদ্রষ্টা আসল ইচ্ছাটি চিনতে পারে না।"
+  },
+  {
+   "q": "Define dream in your own language.",
+   "a": "In my own words, a dream is the silent film that the mind plays while the body sleeps. It is made up of images, thoughts and emotions that we experience during sleep. Sometimes it is extraordinarily vivid and easy to follow, and sometimes it is vague, unclear and confusing; sometimes it is filled with joyful feelings, at other times with frightening pictures. According to Freud, it is also a doorway through which our hidden, subconscious desires quietly enter our awareness.",
+   "bn": "আমার ভাষায় স্বপ্ন হলো সেই নির্বাক চলচ্চিত্র, যা দেহ ঘুমিয়ে থাকলে মন চালায়। ঘুমের মধ্যে অনুভূত দৃশ্য, চিন্তা ও আবেগ নিয়েই তা গঠিত। কখনো তা অসাধারণ স্পষ্ট ও বোধগম্য, কখনো ঝাপসা ও বিভ্রান্তিকর; কখনো আনন্দে ভরা, কখনো ভীতিকর। ফ্রয়েডের মতে এটি সেই দরজা, যা দিয়ে আমাদের গোপন অবচেতন আকাঙ্ক্ষা নিঃশব্দে চেতনায় প্রবেশ করে।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "What / Who",
+   "Event / Occurrence",
+   "Why / When",
+   "Where"
+  ],
+  "rows": [
+   [
+    "Dreams",
+    "have been the things of fascination to philosophers",
+    "(i) @for thousands of years",
+    "(ii) @all over the world"
+   ],
+   [
+    "(iii) @Dreams",
+    "have been brought under empirical research and scientific study",
+    "only recently",
+    "in the field of science"
+   ],
+   [
+    "Dreams",
+    "puzzle us",
+    "(iv) @by their content",
+    "in our mind"
+   ],
+   [
+    "We",
+    "(v) @start / begin the discussion",
+    "by answering a basic question: What is a dream?",
+    "(vi) @at the very beginning"
+   ],
+   [
+    "(vii) @A dream",
+    "can embrace any of the images, thoughts and emotions that are experienced",
+    "during sleep",
+    "in the mind"
+   ],
+   [
+    "Dreams",
+    "(viii) @can be extraordinarily vivid",
+    "or very vague",
+    "(ix) @by nature / in character"
+   ],
+   [
+    "(x) @Many theories",
+    "have been proposed but no consensus has emerged",
+    "about the reason and function of dreams",
+    "among researchers"
+   ]
+  ],
+  "note": "‘Have been proposed’, ‘have been brought’ — passive form গুলোর সঙ্গে subject মেলাতে হবে; বহুবচন subject-এ ‘have’, একবচনে ‘has’."
+ },
+ "flow": {
+  "title": "Characteristics of Dreams — স্বপ্নের বৈশিষ্ট্যসমূহ",
+  "items": [
+   {
+    "t": "Puzzling",
+    "bn": "ধাঁধার মতো, বিভ্রান্তিকর (দেওয়া আছে)"
+   },
+   {
+    "t": "Made of images, thoughts and emotions experienced during sleep",
+    "bn": "ঘুমের মধ্যে অনুভূত দৃশ্য, চিন্তা ও আবেগে গঠিত"
+   },
+   {
+    "t": "Extraordinarily vivid or very vague",
+    "bn": "অসাধারণ স্পষ্ট কিংবা খুবই অস্পষ্ট"
+   },
+   {
+    "t": "Filled with joyful emotions or frightening images",
+    "bn": "আনন্দময় বা ভীতিকর"
+   },
+   {
+    "t": "Focused and understandable or unclear and confusing",
+    "bn": "বোধগম্য কিংবা বিভ্রান্তিকর"
+   },
+   {
+    "t": "A representation of subconscious desires (Freud)",
+    "bn": "অবচেতন আকাঙ্ক্ষার প্রতিফলন (ফ্রয়েড)"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "Two Camps of Researchers <span class='sub'>— গবেষকদের দুই শিবির</span>",
+   "key": "Two Views",
+   "table": {
+    "headers": [
+     "View",
+     "What they claim",
+     "Key words from the passage"
+    ],
+    "rows": [
+     [
+      "Camp 1",
+      "Dreams serve no real purpose",
+      "‘serve no real purpose'"
+     ],
+     [
+      "Camp 2",
+      "Dreaming is essential to well-being",
+      "‘essential to mental, emotional and physical well-being'"
+     ],
+     [
+      "Result",
+      "No agreement among scientists",
+      "‘no consensus has emerged'"
+     ],
+     [
+      "Reason for uncertainty",
+      "Even the purpose of sleep is not fully known",
+      "‘science is still unravelling… sleep itself'"
+     ]
+    ]
+   },
+   "note": "‘In which issue do researchers differ?’ — এই টেবিলটিই সেই প্রশ্নের সম্পূর্ণ উত্তর।"
+  },
+  {
+   "title": "Freud's Theory in Four Steps <span class='sub'>— ফ্রয়েডের তত্ত্ব চার ধাপে</span>",
+   "key": "Freud",
+   "table": {
+    "headers": [
+     "Step",
+     "Freud's claim"
+    ],
+    "rows": [
+     [
+      "1. The drive",
+      "Human beings are driven by aggressive and sexual instincts"
+     ],
+     [
+      "2. The repression",
+      "Society forces these instincts to be repressed from conscious awareness"
+     ],
+     [
+      "3. The escape",
+      "Since they cannot be expressed consciously, they reach our awareness via dreams"
+     ],
+     [
+      "4. The definition",
+      "Hence dreams are ‘disguised fulfilments of repressed wishes’ (The Interpretation of Dreams, 1899)"
+     ]
+    ]
+   },
+   "note": "বইয়ের নাম ও সাল — ***The Interpretation of Dreams*, 1899** — MCQ-তে প্রায় নিশ্চিতভাবে আসে।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🔬",
+   "t": "Science passage = define first",
+   "d": "বিজ্ঞানভিত্তিক প্যাসেজে প্রথমে সংজ্ঞার বাক্যটি খুঁজে দাগাও (‘A dream can include…’)। সেখান থেকেই সবচেয়ে বেশি প্রশ্ন হয়।"
+  },
+  {
+   "em": "⚖️",
+   "t": "Spot the ‘while / whereas’ contrast",
+   "d": "‘Some researchers suggest… while others believe…’ — এমন বাক্য মানেই ‘In which issue do they differ?’ ধরনের প্রশ্ন আসবে।"
+  },
+  {
+   "em": "🧠",
+   "t": "conscious ≠ subconscious",
+   "type": "warn",
+   "d": "ফ্রয়েডের মতে স্বপ্ন **subconscious** desires-এর প্রতিফলন। MCQ-তে ‘conscious desires’ লিখে ফাঁদ পাতা হয়।"
+  },
+  {
+   "em": "📕",
+   "t": "Book + year + author",
+   "d": "*The Interpretation of Dreams* — Sigmund Freud — 1899. তিনটি একসাথে মুখস্থ রাখো।"
+  },
+  {
+   "em": "🧩",
+   "t": "‘Which is true?’ = eliminate",
+   "type": "ok",
+   "d": "চারটি option একে একে প্যাসেজের সাথে মিলাও; যেটি বিরোধিতা করে না, সেটিই উত্তর। এই কৌশলে ভুল হয় না।"
+  },
+  {
+   "em": "✍️",
+   "t": "Definition question = your own words",
+   "d": "‘Define dream in your own language’ — প্যাসেজ কপি করলে নম্বর কম। নিজের একটি উপমা দিয়ে শুরু করে তারপর তথ্য দাও।"
+  }
+ ],
+ "recap": [
+  "স্বপ্ন = ঘুমের মধ্যে অনুভূত images, thoughts and emotions.",
+  "বৈশিষ্ট্য: vivid/vague, joyful/frightening, focused/confusing.",
+  "উদ্দেশ্য নিয়ে ‘no consensus’ — কারণ ঘুমেরই উদ্দেশ্য বিজ্ঞান এখনো জানে না।",
+  "দুই শিবির: (ক) কোনো উদ্দেশ্য নেই, (খ) সুস্থতার জন্য অপরিহার্য।",
+  "ফ্রয়েড: স্বপ্ন = ‘disguised fulfilments of repressed wishes’ (The Interpretation of Dreams, 1899)."
+ ],
+ "homework": [
+  "ফ্রয়েডের তত্ত্বের ৪টি ধাপ খাতায় লিখে আনবে।",
+  "স্বপ্নের ৬টি বৈশিষ্ট্য (Flow chart) লিখবে।",
+  "‘What does “disguised fulfilments of repressed wishes” mean?’ — উত্তরটি লিখবে।",
+  "Summary ১৪০ শব্দে লিখে আনবে।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

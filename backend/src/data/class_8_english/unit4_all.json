@@ -1,0 +1,1993 @@
+{
+  "unit": {
+    "id": "u4",
+    "number": 4,
+    "title": "Check Your References",
+    "bangla_title": "তথ্যসূত্র যাচাই",
+    "lessons": [
+      {
+        "id": "u4l1",
+        "unit": 4,
+        "unit_title": "Check Your References",
+        "number": 1,
+        "title": "Introducing a Table of Contents",
+        "keywords": [
+          "table of contents",
+          "column head",
+          "unit",
+          "topic",
+          "page number"
+        ],
+        "learn_line": "What a table of contents is and how it helps you quickly find any part of a book.",
+        "minutes": 10,
+        "warmup": [
+          "When you get a new book, how do you find the part you want to read?",
+          "Where in a book do you usually find the list of chapters?",
+          "Does a book's title alone tell you everything inside it?",
+          "What is the page that lists all the units and their page numbers called?"
+        ],
+        "reading": {
+          "summary_en": "This lesson introduces the table of contents, the page at the front of a book that lists its parts and their page numbers. When we get a new book, the title alone does not give enough information about everything inside it, and a book is usually divided into several parts. If we want to read a certain part, we do not want to waste time searching the whole book. The table of contents solves this: it shows the titles of the units and topics together with the page numbers where each one begins, so we can go straight to the page we need. Learning to read the column heads (such as Unit, Title and Pages) lets us find any topic quickly.",
+          "gist_bn": "এই পাঠে 'সূচিপত্র' (table of contents) পরিচয় করানো হয়েছে—বইয়ের শুরুর যে পাতায় বইয়ের অংশ ও তাদের পৃষ্ঠা নম্বর তালিকাভুক্ত থাকে। নতুন বই পেলে কেবল শিরোনাম থেকে ভেতরের সব তথ্য জানা যায় না, আর বই সাধারণত কয়েকটি অংশে বিভক্ত থাকে। কোনো নির্দিষ্ট অংশ পড়তে চাইলে পুরো বই খুঁজে সময় নষ্ট না করে সূচিপত্র দেখে সরাসরি প্রয়োজনীয় পৃষ্ঠায় যাওয়া যায়। কলাম-শিরোনাম (Unit, Title, Pages) পড়তে শিখলে যেকোনো বিষয় দ্রুত খুঁজে পাওয়া যায়।",
+          "book_page": 35
+        },
+        "vocab": [
+          {
+            "word": "table of contents",
+            "pos": "noun",
+            "bangla": "সূচিপত্র",
+            "synonym": "contents page, index",
+            "antonym": "—",
+            "meaning_en": "a list at the front of a book showing its parts and page numbers",
+            "example": "The table of contents lists every unit."
+          },
+          {
+            "word": "content",
+            "pos": "noun",
+            "bangla": "বিষয়বস্তু",
+            "synonym": "subject matter",
+            "antonym": "—",
+            "meaning_en": "what is inside a book or part",
+            "example": "Check the contents before buying a book."
+          },
+          {
+            "word": "column head",
+            "pos": "noun",
+            "bangla": "কলামের শিরোনাম",
+            "synonym": "heading",
+            "antonym": "—",
+            "meaning_en": "the title at the top of a column in a table",
+            "example": "'Unit', 'Title' and 'Pages' are the column heads."
+          },
+          {
+            "word": "unit",
+            "pos": "noun",
+            "bangla": "অধ্যায় / একক",
+            "synonym": "chapter, section",
+            "antonym": "—",
+            "meaning_en": "a main division of a book",
+            "example": "Each unit covers one theme."
+          },
+          {
+            "word": "topic",
+            "pos": "noun",
+            "bangla": "বিষয়",
+            "synonym": "subject, theme",
+            "antonym": "—",
+            "meaning_en": "a particular subject written about",
+            "example": "Find the topic on page 65."
+          },
+          {
+            "word": "title",
+            "pos": "noun",
+            "bangla": "শিরোনাম",
+            "synonym": "heading, name",
+            "antonym": "—",
+            "meaning_en": "the name of a book, unit or lesson",
+            "example": "The title tells you the main idea."
+          },
+          {
+            "word": "page number",
+            "pos": "noun",
+            "bangla": "পৃষ্ঠা নম্বর",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "the number printed on each page",
+            "example": "Page numbers help you find a part fast."
+          },
+          {
+            "word": "locate",
+            "pos": "verb",
+            "bangla": "খুঁজে বের করা",
+            "synonym": "find, pinpoint",
+            "antonym": "lose",
+            "meaning_en": "to find the exact place of something",
+            "example": "Use the contents to locate a topic."
+          },
+          {
+            "word": "divide",
+            "pos": "verb",
+            "bangla": "ভাগ করা",
+            "synonym": "split, separate",
+            "antonym": "combine",
+            "meaning_en": "to separate into parts",
+            "example": "A book is divided into several parts."
+          },
+          {
+            "word": "reference",
+            "pos": "noun",
+            "bangla": "তথ্যসূত্র / রেফারেন্স",
+            "synonym": "source",
+            "antonym": "—",
+            "meaning_en": "a source you check for information",
+            "example": "A table of contents is a useful reference."
+          },
+          {
+            "word": "familiar",
+            "pos": "adj",
+            "bangla": "পরিচিত",
+            "synonym": "well-known",
+            "antonym": "unfamiliar, strange",
+            "meaning_en": "known to you from before",
+            "example": "Is this table familiar to you?"
+          },
+          {
+            "word": "waste",
+            "pos": "verb",
+            "bangla": "অপচয় করা / নষ্ট করা",
+            "synonym": "squander",
+            "antonym": "save",
+            "meaning_en": "to use time or things badly",
+            "example": "Don't waste time searching the whole book."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "What is the page that lists a book's parts and page numbers called?",
+            "options": [
+              "the index",
+              "the table of contents",
+              "the title page",
+              "the glossary"
+            ],
+            "answer_index": 1,
+            "explain": "It is called the table of contents."
+          },
+          {
+            "q": "Where do we usually find the table of contents?",
+            "options": [
+              "at the very end of a book",
+              "at the front of a book",
+              "in the middle",
+              "on the cover"
+            ],
+            "answer_index": 1,
+            "explain": "It is found at the front of a book."
+          },
+          {
+            "q": "Does the title of a book give enough information about everything inside?",
+            "options": [
+              "yes, always",
+              "no, not by itself",
+              "only for storybooks",
+              "only for textbooks"
+            ],
+            "answer_index": 1,
+            "explain": "The title alone does not give enough information."
+          },
+          {
+            "q": "Why is a table of contents useful?",
+            "options": [
+              "it makes the book heavier",
+              "it helps us find a part quickly without searching the whole book",
+              "it shows the price",
+              "it lists the author's friends"
+            ],
+            "answer_index": 1,
+            "explain": "It lets us go straight to the page we need."
+          },
+          {
+            "q": "In the contents table, 'Unit', 'Title' and 'Pages' are the —",
+            "options": [
+              "page numbers",
+              "column heads",
+              "topics",
+              "titles"
+            ],
+            "answer_index": 1,
+            "explain": "These are the column heads."
+          },
+          {
+            "q": "If you want to read about the Hippopotamus, the contents tells you its —",
+            "options": [
+              "price",
+              "unit and page number",
+              "author",
+              "colour"
+            ],
+            "answer_index": 1,
+            "explain": "It tells you which unit and page to go to."
+          },
+          {
+            "q": "A book is usually —",
+            "options": [
+              "printed on one page",
+              "divided into several parts",
+              "never divided",
+              "without page numbers"
+            ],
+            "answer_index": 1,
+            "explain": "A book is usually divided into several parts."
+          },
+          {
+            "q": "To avoid wasting time looking through the whole book, you should use the —",
+            "options": [
+              "cover",
+              "table of contents",
+              "back page",
+              "picture"
+            ],
+            "answer_index": 1,
+            "explain": "Use the table of contents to find the part fast."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What is a table of contents?",
+            "model": "A table of contents is the page at the front of a book that lists its units, topics and titles together with the page numbers where each one begins."
+          },
+          {
+            "q": "Where do we find a table of contents, and what is it for?",
+            "model": "We find it at the front of a book. It is for showing us which parts the book contains and on which page each part starts, so we can find any topic quickly."
+          },
+          {
+            "q": "How does a table of contents help a reader?",
+            "model": "It helps a reader find a certain part of a book without wasting time searching the whole book. By reading it, we know exactly which page to turn to."
+          },
+          {
+            "q": "Why is the title of a book not enough information?",
+            "model": "The title only gives a general idea of the book. It does not tell us about all the different parts and topics inside, so we also need the table of contents."
+          },
+          {
+            "q": "What are 'column heads' in a table of contents?",
+            "model": "Column heads are the titles at the top of each column, such as 'Unit', 'Title' and 'Pages'. They tell us what information each column gives."
+          },
+          {
+            "q": "How would you find which page to look at for a topic?",
+            "model": "I would open the table of contents, look down the list of titles for the topic I want, and then go to the page number written beside it."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "The table of contents is found at the back of a book.",
+            "is_true": false,
+            "correction": "It is found at the front of a book."
+          },
+          {
+            "statement": "The title of a book gives full information about everything inside it.",
+            "is_true": false,
+            "correction": "The title alone does not give enough information."
+          },
+          {
+            "statement": "A table of contents shows the page numbers of the book's parts.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "'Unit', 'Title' and 'Pages' are examples of column heads.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "A table of contents helps us find a part quickly.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "A book is never divided into parts.",
+            "is_true": false,
+            "correction": "A book is usually divided into several parts."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "A (1)____ of contents is found at the (2)____ of a book. It lists the units, titles and (3)____ numbers of the book's parts. The titles at the top of each column are called (4)____ heads. It helps us to (5)____ a topic quickly.",
+          "blanks": [
+            "table",
+            "front",
+            "page",
+            "column",
+            "locate"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Feature",
+            "What it tells you"
+          ],
+          "rows": [
+            [
+              "Where it is",
+              "at the front of the book"
+            ],
+            [
+              "What it lists",
+              "units, titles and page numbers"
+            ],
+            [
+              "Column heads",
+              "Unit, Title, Pages"
+            ],
+            [
+              "Why it helps",
+              "find a part without searching all"
+            ],
+            [
+              "What you do",
+              "go straight to the page number"
+            ]
+          ],
+          "blanks": [
+            "at the front of the book",
+            "units, titles and page numbers",
+            "Unit, Title, Pages",
+            "find a part without searching all",
+            "go straight to the page number"
+          ]
+        },
+        "match": {
+          "left": [
+            "A table of contents is found",
+            "It lists units and their",
+            "The titles of the columns are",
+            "It helps us locate a topic",
+            "A book is usually"
+          ],
+          "right": [
+            "divided into parts.",
+            "page numbers.",
+            "at the front of a book.",
+            "without searching all.",
+            "column heads."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              4,
+              0
+            ]
+          ]
+        },
+        "summary": {
+          "model": "A table of contents is the page at the front of a book that lists its units, titles and the page numbers where each part begins. Because a book's title alone does not tell us everything inside, and a book is divided into several parts, the table of contents lets us find any topic quickly without searching the whole book. By reading its column heads, such as Unit, Title and Pages, we can go straight to the page we need.",
+          "skeleton": "A table of contents is at the ____ of a book. It lists units, titles and ____ numbers. Its column heads are like Unit, Title and ____. It helps us ____ a topic without searching the whole ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'The Importance of a Table of Contents' (about 80 words).",
+          "model": "A table of contents is one of the most useful parts of any book. It is found at the front of the book and lists all the units, lessons and topics along with the page numbers where each one begins. Without it, a reader would have to turn through the whole book to find a single topic, wasting valuable time. With it, we simply look down the list, find the title we want, and go straight to the right page. In this way, a table of contents makes reading and studying quick and easy."
+        }
+      },
+      {
+        "id": "u4l2",
+        "unit": 4,
+        "unit_title": "Check Your References",
+        "number": 2,
+        "title": "Using a Dictionary",
+        "keywords": [
+          "dictionary",
+          "spelling",
+          "pronunciation",
+          "word class",
+          "example sentence"
+        ],
+        "learn_line": "What a dictionary is and all the kinds of information one entry gives you about a word.",
+        "minutes": 10,
+        "warmup": [
+          "Do you use a dictionary? How often?",
+          "What do you look for when you open a dictionary?",
+          "Besides meaning, what else might a dictionary tell you about a word?",
+          "Why are example sentences printed in italics in a dictionary?"
+        ],
+        "reading": {
+          "summary_en": "A dictionary is a collection of the words of a language that gives us necessary information about each one. It tells us a word's spelling, its pronunciation, its meaning and its word class (part of speech). To make the meanings clear, example sentences are given in italics to show how the words are used; the dictionary also gives the synonyms and antonyms of a word. We find words that are made by adding prefixes and suffixes to a root word, and the parts of speech are shown too. A verb word is always given in the simple present tense, but its past form and past participle are also shown. So a dictionary is far more than a list of meanings.",
+          "gist_bn": "অভিধান হলো একটি ভাষার শব্দের সংকলন, যা প্রতিটি শব্দ সম্পর্কে প্রয়োজনীয় তথ্য দেয়। এটি শব্দের বানান, উচ্চারণ, অর্থ ও শব্দশ্রেণি (parts of speech) জানায়। অর্থ স্পষ্ট করতে ইটালিক হরফে উদাহরণ-বাক্য দেওয়া হয়; সমার্থক (synonym) ও বিপরীত (antonym) শব্দও দেয়। মূল শব্দের সঙ্গে উপসর্গ (prefix) ও প্রত্যয় (suffix) যোগে গঠিত শব্দও পাওয়া যায়। ক্রিয়াপদ সবসময় simple present tense-এ দেওয়া হয়, তবে past form ও past participle-ও দেখানো হয়।",
+          "book_page": 39
+        },
+        "vocab": [
+          {
+            "word": "dictionary",
+            "pos": "noun",
+            "bangla": "অভিধান",
+            "synonym": "wordbook, lexicon",
+            "antonym": "—",
+            "meaning_en": "a book that lists words and their meanings",
+            "example": "A dictionary helps us learn new words."
+          },
+          {
+            "word": "spelling",
+            "pos": "noun",
+            "bangla": "বানান",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "the correct order of letters in a word",
+            "example": "Check the spelling in a dictionary."
+          },
+          {
+            "word": "pronunciation",
+            "pos": "noun",
+            "bangla": "উচ্চারণ",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "the way a word is spoken",
+            "example": "The dictionary shows the pronunciation of a word."
+          },
+          {
+            "word": "meaning",
+            "pos": "noun",
+            "bangla": "অর্থ",
+            "synonym": "sense, definition",
+            "antonym": "—",
+            "meaning_en": "what a word stands for",
+            "example": "A word may have more than one meaning."
+          },
+          {
+            "word": "word class",
+            "pos": "noun",
+            "bangla": "শব্দশ্রেণি / পদ",
+            "synonym": "part of speech",
+            "antonym": "—",
+            "meaning_en": "the grammatical type of a word (noun, verb, etc.)",
+            "example": "The dictionary gives the word class."
+          },
+          {
+            "word": "part of speech",
+            "pos": "noun",
+            "bangla": "পদ (noun, verb...)",
+            "synonym": "word class",
+            "antonym": "—",
+            "meaning_en": "the category of a word in grammar",
+            "example": "Nouns and verbs are parts of speech."
+          },
+          {
+            "word": "example sentence",
+            "pos": "noun",
+            "bangla": "উদাহরণ-বাক্য",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "a sentence that shows how a word is used",
+            "example": "Example sentences are printed in italics."
+          },
+          {
+            "word": "synonym",
+            "pos": "noun",
+            "bangla": "সমার্থক শব্দ",
+            "synonym": "—",
+            "antonym": "antonym",
+            "meaning_en": "a word with the same or similar meaning",
+            "example": "'Big' and 'large' are synonyms."
+          },
+          {
+            "word": "antonym",
+            "pos": "noun",
+            "bangla": "বিপরীত শব্দ",
+            "synonym": "—",
+            "antonym": "synonym",
+            "meaning_en": "a word with the opposite meaning",
+            "example": "'Right' and 'wrong' are antonyms."
+          },
+          {
+            "word": "prefix",
+            "pos": "noun",
+            "bangla": "উপসর্গ",
+            "synonym": "—",
+            "antonym": "suffix",
+            "meaning_en": "letters added to the front of a word",
+            "example": "'Un-' in 'unfit' is a prefix."
+          },
+          {
+            "word": "suffix",
+            "pos": "noun",
+            "bangla": "প্রত্যয়",
+            "synonym": "—",
+            "antonym": "prefix",
+            "meaning_en": "letters added to the end of a word",
+            "example": "'-ness' in 'fitness' is a suffix."
+          },
+          {
+            "word": "root word",
+            "pos": "noun",
+            "bangla": "মূল শব্দ",
+            "synonym": "base word",
+            "antonym": "—",
+            "meaning_en": "the basic word that others are built from",
+            "example": "'Fit' is the root word of 'fitness'."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "A dictionary is a collection of —",
+            "options": [
+              "pictures",
+              "the words of a language",
+              "stories",
+              "numbers"
+            ],
+            "answer_index": 1,
+            "explain": "A dictionary is a collection of the words of a language."
+          },
+          {
+            "q": "Which of these does a dictionary NOT usually give?",
+            "options": [
+              "spelling",
+              "pronunciation",
+              "the price of the word",
+              "meaning"
+            ],
+            "answer_index": 2,
+            "explain": "A dictionary gives spelling, pronunciation, meaning and word class, not a price."
+          },
+          {
+            "q": "Example sentences in a dictionary are usually printed in —",
+            "options": [
+              "bold",
+              "italics",
+              "capitals",
+              "red ink"
+            ],
+            "answer_index": 1,
+            "explain": "Example sentences are given in italics."
+          },
+          {
+            "q": "Why are example sentences given?",
+            "options": [
+              "to fill space",
+              "to show how words are used",
+              "to make the book longer",
+              "to test spelling"
+            ],
+            "answer_index": 1,
+            "explain": "They show how words are used and make the meaning clear."
+          },
+          {
+            "q": "A verb word in a dictionary is always given in the —",
+            "options": [
+              "past tense",
+              "simple present tense",
+              "future tense",
+              "passive form"
+            ],
+            "answer_index": 1,
+            "explain": "A verb is given in the simple present tense."
+          },
+          {
+            "q": "New words are often formed by adding —",
+            "options": [
+              "numbers",
+              "prefixes and suffixes to a root word",
+              "pictures",
+              "spaces"
+            ],
+            "answer_index": 1,
+            "explain": "Prefixes and suffixes are added to a root word."
+          },
+          {
+            "q": "A dictionary also gives a word's —",
+            "options": [
+              "weight",
+              "synonyms and antonyms",
+              "colour",
+              "smell"
+            ],
+            "answer_index": 1,
+            "explain": "It gives synonyms and antonyms."
+          },
+          {
+            "q": "'Word class' means the same as —",
+            "options": [
+              "spelling",
+              "part of speech",
+              "page number",
+              "meaning"
+            ],
+            "answer_index": 1,
+            "explain": "Word class means part of speech."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What is a dictionary?",
+            "model": "A dictionary is a collection of the words of a language. It lists the words and gives necessary information about each one, such as spelling, pronunciation, meaning and word class."
+          },
+          {
+            "q": "What information does a dictionary give us about a verb word?",
+            "model": "For a verb, a dictionary always gives the simple present tense form. It also shows the past form and the past participle of the verb."
+          },
+          {
+            "q": "Why are the example sentences given?",
+            "model": "Example sentences are given to make the meaning of a word clear. They show how the word is actually used in real sentences."
+          },
+          {
+            "q": "How are new words formed, according to the text?",
+            "model": "New words are formed by adding prefixes and suffixes to a root word. For example, 'fitness' and 'unfit' are made from the root word 'fit'."
+          },
+          {
+            "q": "Why are synonyms and antonyms given in a dictionary?",
+            "model": "Synonyms and antonyms are given to help us understand the meaning of a word more clearly by showing words with the same and the opposite meaning."
+          },
+          {
+            "q": "What do we need a dictionary for?",
+            "model": "We need a dictionary to find the spelling, pronunciation, meaning and word class of words, to see example sentences, and to learn synonyms, antonyms and word forms."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "A dictionary only gives the meaning of a word.",
+            "is_true": false,
+            "correction": "It also gives spelling, pronunciation, word class, examples, synonyms and antonyms."
+          },
+          {
+            "statement": "Example sentences are printed in italics.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "A verb word is always given in the past tense.",
+            "is_true": false,
+            "correction": "A verb is given in the simple present tense (with past forms shown too)."
+          },
+          {
+            "statement": "Prefixes and suffixes help to make new words.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "A dictionary tells us the pronunciation of a word.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "A dictionary never shows synonyms or antonyms.",
+            "is_true": false,
+            "correction": "It does give synonyms and antonyms of a word."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "A dictionary is a collection of the (1)____ of a language. It tells us the spelling, (2)____, meaning and word class of a word. (3)____ sentences are given in italics to show how words are used. New words are made by adding (4)____ and suffixes. A (5)____ word is given in the simple present tense.",
+          "blanks": [
+            "words",
+            "pronunciation",
+            "Example",
+            "prefixes",
+            "verb"
+          ]
+        },
+        "table": {
+          "headers": [
+            "A dictionary shows",
+            "Detail"
+          ],
+          "rows": [
+            [
+              "Spelling",
+              "the correct letters of a word"
+            ],
+            [
+              "Pronunciation",
+              "how to say the word"
+            ],
+            [
+              "Meaning",
+              "what the word means"
+            ],
+            [
+              "Word class",
+              "its part of speech"
+            ],
+            [
+              "Verb form",
+              "simple present, plus past forms"
+            ]
+          ],
+          "blanks": [
+            "the correct letters of a word",
+            "how to say the word",
+            "what the word means",
+            "its part of speech",
+            "simple present, plus past forms"
+          ]
+        },
+        "match": {
+          "left": [
+            "A dictionary shows information",
+            "Prefixes and suffixes",
+            "A verb word is always given",
+            "Meanings of words are made clear",
+            "Synonyms and antonyms are"
+          ],
+          "right": [
+            "in its simple present tense.",
+            "also given in a dictionary.",
+            "about the words of a language.",
+            "help to make new words.",
+            "by example sentences."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "A dictionary is a collection of the words of a language that gives important information about each one. It shows a word's spelling, pronunciation, meaning and word class, and uses example sentences in italics to show how the word is used. It also lists synonyms and antonyms, and includes words formed by adding prefixes and suffixes to a root word. Verbs are entered in the simple present tense, with their past form and past participle also shown.",
+          "skeleton": "A dictionary is a collection of the ____ of a language. It gives spelling, ____, meaning and word class. ____ sentences show how words are used. New words use ____ and suffixes, and verbs are given in the simple ____ tense."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'The Uses of a Dictionary' (about 80 words).",
+          "model": "A dictionary is a very useful book for every student. It is a collection of the words of a language and gives us all the important information about them. From a dictionary we can learn the correct spelling and pronunciation of a word, its meaning and its word class. Example sentences printed in italics show us how to use the word properly, while synonyms and antonyms help us understand it more clearly. It also shows the prefixes, suffixes and verb forms of words. In short, a dictionary is a true friend of every learner."
+        }
+      },
+      {
+        "id": "u4l3",
+        "unit": 4,
+        "unit_title": "Check Your References",
+        "number": 3,
+        "title": "Looking up Words in a Dictionary",
+        "keywords": [
+          "alphabetical order",
+          "alphabet",
+          "arrange",
+          "guide words"
+        ],
+        "learn_line": "How words are arranged in a dictionary in alphabetical order, and how to find any word fast.",
+        "minutes": 10,
+        "warmup": [
+          "Do you know the order of the English alphabet by heart?",
+          "Which word would come first in a dictionary: 'dark' or 'doctor'?",
+          "How do you find a word quickly in a thick dictionary?",
+          "What is meant by 'alphabetical order'?"
+        ],
+        "reading": {
+          "summary_en": "The words in a dictionary are presented in alphabetical order, following the order of the letters of the alphabet. This means words beginning with the letter D come before words beginning with E, and words beginning with F come after words beginning with E. When words start with the same letter, they are also arranged one after another in alphabetical order by their next letters; for example, 'dark', 'deep' and 'doctor' all begin with D and appear in the order dark, deep, doctor. To find a word quickly, we look at the guide words printed at the top of each page, which show the first and last words on that page. Knowing alphabetical order makes looking up any word fast and easy.",
+          "gist_bn": "অভিধানে শব্দগুলো বর্ণানুক্রমিকভাবে (alphabetical order) সাজানো থাকে, অর্থাৎ বর্ণমালার ক্রম অনুসারে। তাই D দিয়ে শুরু হওয়া শব্দ E-এর আগে আসে, আর F-এর শব্দ E-এর পরে। একই বর্ণ দিয়ে শুরু হলে পরের বর্ণ অনুসারে সাজানো হয়—যেমন dark, deep, doctor। দ্রুত শব্দ খুঁজতে প্রতিটি পাতার ওপরে থাকা গাইড-শব্দ (guide words) দেখা হয়, যা ওই পাতার প্রথম ও শেষ শব্দ দেখায়। বর্ণানুক্রম জানা থাকলে যেকোনো শব্দ সহজে খুঁজে পাওয়া যায়।",
+          "book_page": 40
+        },
+        "vocab": [
+          {
+            "word": "alphabetical order",
+            "pos": "noun",
+            "bangla": "বর্ণানুক্রম",
+            "synonym": "—",
+            "antonym": "random order",
+            "meaning_en": "the order of the letters A to Z",
+            "example": "Dictionary words are in alphabetical order."
+          },
+          {
+            "word": "alphabet",
+            "pos": "noun",
+            "bangla": "বর্ণমালা",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "the set of letters used in a language",
+            "example": "The English alphabet has 26 letters."
+          },
+          {
+            "word": "arrange",
+            "pos": "verb",
+            "bangla": "সাজানো",
+            "synonym": "order, organise",
+            "antonym": "disarrange, jumble",
+            "meaning_en": "to put things in a particular order",
+            "example": "Arrange the words in alphabetical order."
+          },
+          {
+            "word": "order",
+            "pos": "noun",
+            "bangla": "ক্রম / বিন্যাস",
+            "synonym": "sequence, arrangement",
+            "antonym": "disorder",
+            "meaning_en": "the way things are placed in a series",
+            "example": "Words follow the order of the alphabet."
+          },
+          {
+            "word": "guide words",
+            "pos": "noun",
+            "bangla": "গাইড-শব্দ",
+            "synonym": "—",
+            "antonym": "—",
+            "meaning_en": "the first and last words shown at the top of a dictionary page",
+            "example": "Guide words help you find a page fast."
+          },
+          {
+            "word": "present",
+            "pos": "verb",
+            "bangla": "উপস্থাপন করা",
+            "synonym": "show, display",
+            "antonym": "hide",
+            "meaning_en": "to show or set out something",
+            "example": "Words are presented in alphabetical order."
+          },
+          {
+            "word": "appear",
+            "pos": "verb",
+            "bangla": "আবির্ভূত হওয়া / থাকা",
+            "synonym": "show up",
+            "antonym": "disappear",
+            "meaning_en": "to be seen or found in a place",
+            "example": "The words appear in the order dark, deep, doctor."
+          },
+          {
+            "word": "following",
+            "pos": "adj",
+            "bangla": "নিম্নলিখিত",
+            "synonym": "subsequent, next",
+            "antonym": "previous",
+            "meaning_en": "coming next or listed below",
+            "example": "Arrange the following words."
+          },
+          {
+            "word": "entry",
+            "pos": "noun",
+            "bangla": "ভুক্তি / এন্ট্রি",
+            "synonym": "listing",
+            "antonym": "—",
+            "meaning_en": "a word and its information in a dictionary",
+            "example": "Each entry begins a new word."
+          },
+          {
+            "word": "locate",
+            "pos": "verb",
+            "bangla": "খুঁজে বের করা",
+            "synonym": "find",
+            "antonym": "lose",
+            "meaning_en": "to find the place of something",
+            "example": "Guide words help you locate a word."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Words in a dictionary are arranged in —",
+            "options": [
+              "random order",
+              "alphabetical order",
+              "order of length",
+              "order of meaning"
+            ],
+            "answer_index": 1,
+            "explain": "They are arranged in alphabetical order."
+          },
+          {
+            "q": "Which word comes first in a dictionary?",
+            "options": [
+              "doctor",
+              "deep",
+              "dark",
+              "drum"
+            ],
+            "answer_index": 2,
+            "explain": "'dark' comes before 'deep', 'doctor' and 'drum'."
+          },
+          {
+            "q": "Words beginning with D come ___ words beginning with E.",
+            "options": [
+              "after",
+              "before",
+              "with",
+              "instead of"
+            ],
+            "answer_index": 1,
+            "explain": "D comes before E in the alphabet."
+          },
+          {
+            "q": "Words beginning with F come ___ words beginning with E.",
+            "options": [
+              "before",
+              "after",
+              "with",
+              "instead of"
+            ],
+            "answer_index": 1,
+            "explain": "F comes after E in the alphabet."
+          },
+          {
+            "q": "When words start with the same letter, they are arranged by —",
+            "options": [
+              "their length",
+              "their next letters",
+              "their meaning",
+              "their colour"
+            ],
+            "answer_index": 1,
+            "explain": "They are ordered by the following letters."
+          },
+          {
+            "q": "In what order do 'dark', 'deep' and 'doctor' appear?",
+            "options": [
+              "doctor, deep, dark",
+              "dark, deep, doctor",
+              "deep, dark, doctor",
+              "dark, doctor, deep"
+            ],
+            "answer_index": 1,
+            "explain": "They appear as dark, deep, doctor."
+          },
+          {
+            "q": "To find a word quickly, you look at the ___ at the top of the page.",
+            "options": [
+              "page numbers",
+              "guide words",
+              "pictures",
+              "prices"
+            ],
+            "answer_index": 1,
+            "explain": "Guide words at the top of the page help you find words fast."
+          },
+          {
+            "q": "Knowing alphabetical order helps you to —",
+            "options": [
+              "read faster only",
+              "find any word quickly",
+              "write essays",
+              "spell better only"
+            ],
+            "answer_index": 1,
+            "explain": "It helps you locate any word quickly."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "In what order are words presented in a dictionary?",
+            "model": "Words in a dictionary are presented in alphabetical order. They follow the order of the letters of the alphabet, so D words come before E words, and F words come after E words."
+          },
+          {
+            "q": "What is meant by 'alphabetical order'?",
+            "model": "Alphabetical order means arranging words according to the order of the letters A to Z. Words starting with an earlier letter come before those starting with a later letter."
+          },
+          {
+            "q": "How are words that start with the same letter arranged?",
+            "model": "Words starting with the same letter are arranged by their next letters. For example, 'dark', 'deep' and 'doctor' all start with D and appear in that order."
+          },
+          {
+            "q": "How do guide words help us?",
+            "model": "Guide words are printed at the top of each page and show the first and last words on that page. They help us find the page that contains the word we are looking for."
+          },
+          {
+            "q": "Why is it useful to know alphabetical order?",
+            "model": "Knowing alphabetical order is useful because it lets us find any word in a dictionary quickly and easily, instead of searching page by page."
+          },
+          {
+            "q": "Arrange these in alphabetical order: rice, art, future, culture.",
+            "model": "In alphabetical order they are: art, culture, future, rice."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Dictionary words are arranged in alphabetical order.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Words starting with E come before words starting with D.",
+            "is_true": false,
+            "correction": "Words starting with D come before words starting with E."
+          },
+          {
+            "statement": "'dark' comes after 'doctor' in a dictionary.",
+            "is_true": false,
+            "correction": "'dark' comes before 'doctor'."
+          },
+          {
+            "statement": "Words with the same first letter are ordered by their next letters.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Guide words are printed at the top of each page.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Knowing alphabetical order makes finding words slower.",
+            "is_true": false,
+            "correction": "It makes finding words quicker and easier."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "The words in a dictionary are arranged in (1)____ order. Words starting with D come (2)____ words starting with E. Words with the same first letter are ordered by their (3)____ letters, so we get dark, deep, (4)____. To find a word fast, look at the (5)____ words at the top of the page.",
+          "blanks": [
+            "alphabetical",
+            "before",
+            "next",
+            "doctor",
+            "guide"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Rule",
+            "Example / detail"
+          ],
+          "rows": [
+            [
+              "Order used",
+              "alphabetical (A to Z)"
+            ],
+            [
+              "D vs E",
+              "D words come before E words"
+            ],
+            [
+              "Same first letter",
+              "ordered by next letters"
+            ],
+            [
+              "Example order",
+              "dark, deep, doctor"
+            ],
+            [
+              "Finding fast",
+              "use guide words at top of page"
+            ]
+          ],
+          "blanks": [
+            "alphabetical (A to Z)",
+            "D words come before E words",
+            "ordered by next letters",
+            "dark, deep, doctor",
+            "use guide words at top of page"
+          ]
+        },
+        "match": {
+          "left": [
+            "Dictionary words follow",
+            "D words come",
+            "Same-letter words are ordered",
+            "'dark, deep, doctor' shows",
+            "Guide words appear"
+          ],
+          "right": [
+            "by their next letters.",
+            "at the top of the page.",
+            "alphabetical order.",
+            "alphabetical order within D.",
+            "before E words."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "In a dictionary, words are presented in alphabetical order, following the order of the letters of the alphabet, so D words come before E words and F words come after E words. When words begin with the same letter, they are arranged by their next letters, as in dark, deep, doctor. To find a word quickly, we use the guide words printed at the top of each page. Knowing alphabetical order makes looking up any word fast and easy.",
+          "skeleton": "Dictionary words are in ____ order. D words come ____ E words. Same-letter words are ordered by their ____ letters. We find a word fast using the ____ words at the top of the ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'How to Find a Word in a Dictionary' (about 80 words).",
+          "model": "Finding a word in a dictionary is easy once we understand alphabetical order. The words are arranged from A to Z, so a word beginning with D comes before one beginning with E. First, we look at the first letter of the word we want and turn to that section of the dictionary. When several words share the same first letter, we compare the next letters to find the right place. Finally, we use the guide words at the top of each page to reach the exact page quickly. In this way, any word can be found in seconds."
+        }
+      },
+      {
+        "id": "u4l4",
+        "unit": 4,
+        "unit_title": "Check Your References",
+        "number": 4,
+        "title": "Meanings of Words",
+        "keywords": [
+          "meaning",
+          "multiple meanings",
+          "context",
+          "example sentence"
+        ],
+        "learn_line": "Why one word can have several meanings, and how a dictionary makes each meaning clear.",
+        "minutes": 10,
+        "warmup": [
+          "What do you do when you do not know the meaning of a word?",
+          "Can a single word have more than one meaning? Can you think of an example?",
+          "How does a dictionary help us find the right meaning?",
+          "Why are example sentences helpful for understanding meaning?"
+        ],
+        "reading": {
+          "summary_en": "This lesson explains that a dictionary gives us the meaning or meanings of a word, and that a word may have more than one meaning. Example sentences are given to show how the words are used and to make each meaning clear. For instance, the word 'dry' (adjective) has several meanings: 'not wet, not damp, not sticky' (the river becomes dry during the summer); 'with very little rain' (I hope the weather remains dry during our picnic); and 'not interesting' (his speech was quite dry). The synonyms and antonyms given with words also help us understand their meanings. So when a word has many meanings, we choose the one that fits the sentence.",
+          "gist_bn": "এই পাঠে বলা হয়েছে অভিধান শব্দের অর্থ বা অর্থসমূহ দেয়, এবং একটি শব্দের একাধিক অর্থ থাকতে পারে। শব্দ কীভাবে ব্যবহৃত হয় তা দেখাতে ও অর্থ স্পষ্ট করতে উদাহরণ-বাক্য দেওয়া হয়। যেমন 'dry' (বিশেষণ) শব্দের নানা অর্থ—'ভেজা নয়, স্যাঁতসেঁতে নয়' (গ্রীষ্মে নদী শুকিয়ে যায়); 'খুব কম বৃষ্টি' (পিকনিকে আবহাওয়া শুকনো থাকুক); 'নীরস/অনাকর্ষণীয়' (তার বক্তৃতা বেশ নীরস ছিল)। সমার্থক ও বিপরীত শব্দও অর্থ বুঝতে সাহায্য করে। তাই বাক্যে যেটি মানানসই সেই অর্থ বেছে নিতে হয়।",
+          "book_page": 41
+        },
+        "vocab": [
+          {
+            "word": "meaning",
+            "pos": "noun",
+            "bangla": "অর্থ",
+            "synonym": "sense, definition",
+            "antonym": "—",
+            "meaning_en": "what a word or phrase stands for",
+            "example": "A word may have more than one meaning."
+          },
+          {
+            "word": "multiple",
+            "pos": "adj",
+            "bangla": "একাধিক / বহু",
+            "synonym": "many, several",
+            "antonym": "single",
+            "meaning_en": "more than one",
+            "example": "Some words have multiple meanings."
+          },
+          {
+            "word": "context",
+            "pos": "noun",
+            "bangla": "প্রসঙ্গ",
+            "synonym": "setting, situation",
+            "antonym": "—",
+            "meaning_en": "the words around a word that show its sense",
+            "example": "Context helps us choose the right meaning."
+          },
+          {
+            "word": "damp",
+            "pos": "adj",
+            "bangla": "স্যাঁতসেঁতে",
+            "synonym": "moist, wet",
+            "antonym": "dry",
+            "meaning_en": "slightly wet",
+            "example": "The cloth is still damp."
+          },
+          {
+            "word": "sticky",
+            "pos": "adj",
+            "bangla": "আঠালো",
+            "synonym": "gluey",
+            "antonym": "dry, smooth",
+            "meaning_en": "tending to stick to things",
+            "example": "Honey is sticky."
+          },
+          {
+            "word": "dull",
+            "pos": "adj",
+            "bangla": "নীরস / অনুজ্জ্বল",
+            "synonym": "boring",
+            "antonym": "interesting, bright",
+            "meaning_en": "not interesting or not bright",
+            "example": "His dry speech was rather dull."
+          },
+          {
+            "word": "clear",
+            "pos": "adj",
+            "bangla": "স্পষ্ট",
+            "synonym": "plain, obvious",
+            "antonym": "unclear, vague",
+            "meaning_en": "easy to understand",
+            "example": "Examples make the meaning clear."
+          },
+          {
+            "word": "usage",
+            "pos": "noun",
+            "bangla": "ব্যবহার",
+            "synonym": "use",
+            "antonym": "—",
+            "meaning_en": "the way a word is used",
+            "example": "Example sentences show usage."
+          },
+          {
+            "word": "define",
+            "pos": "verb",
+            "bangla": "সংজ্ঞা দেওয়া",
+            "synonym": "explain",
+            "antonym": "—",
+            "meaning_en": "to say what a word means",
+            "example": "A dictionary defines each word."
+          },
+          {
+            "word": "interesting",
+            "pos": "adj",
+            "bangla": "আকর্ষণীয়",
+            "synonym": "engaging, lively",
+            "antonym": "dull, boring",
+            "meaning_en": "holding your attention",
+            "example": "A good speech is interesting, not dry."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "According to the lesson, a word may have —",
+            "options": [
+              "only one meaning",
+              "more than one meaning",
+              "no meaning",
+              "only a spelling"
+            ],
+            "answer_index": 1,
+            "explain": "A word may have more than one meaning."
+          },
+          {
+            "q": "What helps to make a word's meaning clear?",
+            "options": [
+              "its price",
+              "example sentences",
+              "its colour",
+              "its weight"
+            ],
+            "answer_index": 1,
+            "explain": "Example sentences make the meaning clear."
+          },
+          {
+            "q": "In 'The river becomes dry during the summer', 'dry' means —",
+            "options": [
+              "not interesting",
+              "not wet or damp",
+              "with little rain",
+              "empty"
+            ],
+            "answer_index": 1,
+            "explain": "Here 'dry' means not wet, not damp."
+          },
+          {
+            "q": "In 'His speech was quite dry', 'dry' means —",
+            "options": [
+              "not wet",
+              "with little rain",
+              "not interesting",
+              "very loud"
+            ],
+            "answer_index": 2,
+            "explain": "Here 'dry' means not interesting / dull."
+          },
+          {
+            "q": "In 'I hope the weather remains dry during our picnic', 'dry' means —",
+            "options": [
+              "with very little rain",
+              "not interesting",
+              "sticky",
+              "cold"
+            ],
+            "answer_index": 0,
+            "explain": "Here 'dry' means with very little rain."
+          },
+          {
+            "q": "Besides example sentences, what else helps us understand meanings?",
+            "options": [
+              "page numbers",
+              "synonyms and antonyms",
+              "guide words",
+              "the cover"
+            ],
+            "answer_index": 1,
+            "explain": "Synonyms and antonyms also help."
+          },
+          {
+            "q": "When a word has several meanings, we should choose the one that —",
+            "options": [
+              "sounds nicest",
+              "fits the sentence",
+              "is the shortest",
+              "comes first only"
+            ],
+            "answer_index": 1,
+            "explain": "We choose the meaning that fits the sentence."
+          },
+          {
+            "q": "Example sentences in a dictionary mainly show —",
+            "options": [
+              "how words are used",
+              "the price of words",
+              "the author's name",
+              "the alphabet"
+            ],
+            "answer_index": 0,
+            "explain": "They show how words are used."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Can a word have more than one meaning? Give an example.",
+            "model": "Yes, a word can have more than one meaning. For example, the word 'dry' can mean not wet, having very little rain, or not interesting (dull)."
+          },
+          {
+            "q": "How does a dictionary help us with the meaning of a word?",
+            "model": "A dictionary gives the meaning or meanings of a word and provides example sentences to show how the word is used. This makes each meaning clear."
+          },
+          {
+            "q": "Why are example sentences important for meaning?",
+            "model": "Example sentences are important because they show how a word is actually used. They help us understand which meaning is intended and make the meaning clear."
+          },
+          {
+            "q": "How do synonyms and antonyms help us understand a word?",
+            "model": "Synonyms show words with the same meaning and antonyms show words with the opposite meaning. Together they help us understand exactly what a word means."
+          },
+          {
+            "q": "What should we do when a word has many meanings?",
+            "model": "When a word has many meanings, we should look at the sentence it is used in and choose the meaning that fits that context best."
+          },
+          {
+            "q": "Give three meanings of the word 'dry'.",
+            "model": "'Dry' can mean: (i) not wet, not damp or sticky; (ii) with very little rain; and (iii) not interesting or dull."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Every word has only one meaning.",
+            "is_true": false,
+            "correction": "A word may have more than one meaning."
+          },
+          {
+            "statement": "Example sentences help make a word's meaning clear.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "'His speech was quite dry' means his speech was wet.",
+            "is_true": false,
+            "correction": "Here 'dry' means his speech was not interesting (dull)."
+          },
+          {
+            "statement": "Synonyms and antonyms can help us understand a word's meaning.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "When a word has several meanings, we ignore the sentence.",
+            "is_true": false,
+            "correction": "We choose the meaning that fits the sentence."
+          },
+          {
+            "statement": "Example sentences in a dictionary are often printed in italics.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "A dictionary gives us the (1)____ of a word, and a word may have more than (2)____ meaning. (3)____ sentences show how words are used and make the meaning clear. The word 'dry' can mean 'not wet', 'with little rain', or 'not (4)____'. (5)____ and antonyms also help us understand meanings.",
+          "blanks": [
+            "meaning",
+            "one",
+            "Example",
+            "interesting",
+            "Synonyms"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Use of 'dry'",
+            "Meaning"
+          ],
+          "rows": [
+            [
+              "The river becomes dry in summer",
+              "not wet, not damp"
+            ],
+            [
+              "I hope the weather stays dry",
+              "with very little rain"
+            ],
+            [
+              "His speech was quite dry",
+              "not interesting / dull"
+            ],
+            [
+              "Why examples are given",
+              "to show usage and clear meaning"
+            ],
+            [
+              "What also helps meaning",
+              "synonyms and antonyms"
+            ]
+          ],
+          "blanks": [
+            "not wet, not damp",
+            "with very little rain",
+            "not interesting / dull",
+            "to show usage and clear meaning",
+            "synonyms and antonyms"
+          ]
+        },
+        "match": {
+          "left": [
+            "A word may have",
+            "Example sentences show",
+            "'dry' can mean not",
+            "Synonyms and antonyms",
+            "We choose the meaning that"
+          ],
+          "right": [
+            "fits the sentence.",
+            "more than one meaning.",
+            "wet or interesting.",
+            "how words are used.",
+            "help us understand."
+          ],
+          "pairs": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ]
+          ]
+        },
+        "summary": {
+          "model": "A dictionary gives the meaning or meanings of a word, and many words have more than one meaning. To make each meaning clear, example sentences are given to show how the word is used. The word 'dry', for instance, can mean not wet, having very little rain, or not interesting, depending on the sentence. Synonyms and antonyms also help us understand a word, so when a word has several meanings we choose the one that fits the context.",
+          "skeleton": "A word may have more than one ____. ____ sentences show how words are used. 'Dry' can mean not ____, little rain, or not interesting. ____ and antonyms help, so we pick the meaning that fits the ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'Words with More Than One Meaning' (about 80 words).",
+          "model": "Many English words have more than one meaning, and a dictionary helps us understand them all. Take the word 'dry'. In one sentence it can mean not wet, as when a river becomes dry in summer. In another, it can mean having very little rain, as when we hope the weather stays dry for a picnic. It can even mean not interesting, as in a dry speech. To choose the right meaning, we must look at how the word is used in the sentence, and the example sentences in a dictionary make this clear."
+        }
+      },
+      {
+        "id": "u4l5",
+        "unit": 4,
+        "unit_title": "Check Your References",
+        "number": 5,
+        "title": "Synonyms and Antonyms",
+        "keywords": [
+          "synonym",
+          "antonym",
+          "same meaning",
+          "opposite meaning"
+        ],
+        "learn_line": "What synonyms and antonyms are, with a big bank of word pairs for exam practice.",
+        "minutes": 12,
+        "warmup": [
+          "What is a synonym? Can you give an example?",
+          "What is an antonym? Can you give an example?",
+          "What is another word that means the same as 'boring'?",
+          "What is the opposite of 'obey'?"
+        ],
+        "reading": {
+          "summary_en": "This lesson explains synonyms and antonyms, which are very important for the reading exam. A synonym is a word that means the same or almost the same as another word, and a word may have more than one synonym; for example, 'big' and 'large', or 'begin' and 'start', are synonyms. An antonym is a word that means the opposite of another word; for example, 'sorrow' and 'happiness', or 'right' and 'wrong', are antonyms. A dictionary helps us find the synonyms and antonyms of words. Knowing them helps us understand meanings, build vocabulary, and answer the synonym/antonym question in the exam.",
+          "gist_bn": "এই পাঠে সমার্থক (synonym) ও বিপরীত (antonym) শব্দ ব্যাখ্যা করা হয়েছে, যা পরীক্ষার জন্য খুবই গুরুত্বপূর্ণ। Synonym হলো এমন শব্দ যার অর্থ অন্য একটি শব্দের সমান বা প্রায় সমান—যেমন big/large, begin/start। Antonym হলো এমন শব্দ যার অর্থ অন্য শব্দের বিপরীত—যেমন sorrow/happiness, right/wrong। অভিধান শব্দের synonym ও antonym খুঁজে পেতে সাহায্য করে। এগুলো জানা থাকলে অর্থ বোঝা, শব্দভাণ্ডার বাড়ানো এবং পরীক্ষার synonym/antonym প্রশ্নের উত্তর দেওয়া সহজ হয়।",
+          "book_page": 42
+        },
+        "vocab": [
+          {
+            "word": "synonym",
+            "pos": "noun",
+            "bangla": "সমার্থক শব্দ",
+            "synonym": "—",
+            "antonym": "antonym",
+            "meaning_en": "a word with the same or nearly the same meaning",
+            "example": "'Big' and 'large' are synonyms."
+          },
+          {
+            "word": "antonym",
+            "pos": "noun",
+            "bangla": "বিপরীত শব্দ",
+            "synonym": "—",
+            "antonym": "synonym",
+            "meaning_en": "a word with the opposite meaning",
+            "example": "'Right' and 'wrong' are antonyms."
+          },
+          {
+            "word": "idle",
+            "pos": "adj",
+            "bangla": "অলস / কর্মহীন",
+            "synonym": "lazy, inactive",
+            "antonym": "busy, active",
+            "meaning_en": "not working or being used",
+            "example": "An idle mind is harmful."
+          },
+          {
+            "word": "annoyed",
+            "pos": "adj",
+            "bangla": "বিরক্ত",
+            "synonym": "irritated, angry",
+            "antonym": "pleased",
+            "meaning_en": "slightly angry",
+            "example": "She was annoyed by the noise."
+          },
+          {
+            "word": "handy",
+            "pos": "adj",
+            "bangla": "সুবিধাজনক / কাজের",
+            "synonym": "useful, convenient",
+            "antonym": "useless",
+            "meaning_en": "useful and easy to use",
+            "example": "A dictionary is very handy."
+          },
+          {
+            "word": "mend",
+            "pos": "verb",
+            "bangla": "মেরামত করা / সারানো",
+            "synonym": "repair, fix",
+            "antonym": "break, damage",
+            "meaning_en": "to repair something",
+            "example": "He mended the broken chair."
+          },
+          {
+            "word": "jealous",
+            "pos": "adj",
+            "bangla": "ঈর্ষান্বিত",
+            "synonym": "envious",
+            "antonym": "content",
+            "meaning_en": "feeling envy of others",
+            "example": "He felt jealous of his friend."
+          },
+          {
+            "word": "temporary",
+            "pos": "adj",
+            "bangla": "সাময়িক",
+            "synonym": "short-term",
+            "antonym": "permanent",
+            "meaning_en": "lasting only a short time",
+            "example": "This is a temporary job."
+          },
+          {
+            "word": "minor",
+            "pos": "adj",
+            "bangla": "গৌণ / ছোট",
+            "synonym": "small, lesser",
+            "antonym": "major",
+            "meaning_en": "small or less important",
+            "example": "It was only a minor problem."
+          },
+          {
+            "word": "refuse",
+            "pos": "verb",
+            "bangla": "প্রত্যাখ্যান করা",
+            "synonym": "reject, decline",
+            "antonym": "accept",
+            "meaning_en": "to say you will not do something",
+            "example": "He refused the offer."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "A synonym is a word that means —",
+            "options": [
+              "the opposite of another word",
+              "the same or almost the same as another word",
+              "a kind of dictionary",
+              "a part of speech"
+            ],
+            "answer_index": 1,
+            "explain": "A synonym means the same or nearly the same."
+          },
+          {
+            "q": "An antonym is a word that means —",
+            "options": [
+              "the same as another word",
+              "the opposite of another word",
+              "a long word",
+              "a difficult word"
+            ],
+            "answer_index": 1,
+            "explain": "An antonym means the opposite."
+          },
+          {
+            "q": "Which pair are synonyms?",
+            "options": [
+              "right and wrong",
+              "big and large",
+              "up and down",
+              "hot and cold"
+            ],
+            "answer_index": 1,
+            "explain": "'Big' and 'large' are synonyms."
+          },
+          {
+            "q": "Which pair are antonyms?",
+            "options": [
+              "begin and start",
+              "big and large",
+              "sorrow and happiness",
+              "quick and fast"
+            ],
+            "answer_index": 2,
+            "explain": "'Sorrow' and 'happiness' are antonyms."
+          },
+          {
+            "q": "A synonym of 'boring' is —",
+            "options": [
+              "exciting",
+              "dull",
+              "loud",
+              "new"
+            ],
+            "answer_index": 1,
+            "explain": "'Dull' is a synonym of 'boring'."
+          },
+          {
+            "q": "An antonym of 'obey' is —",
+            "options": [
+              "follow",
+              "disobey",
+              "listen",
+              "respect"
+            ],
+            "answer_index": 1,
+            "explain": "'Disobey' is the antonym of 'obey'."
+          },
+          {
+            "q": "The synonym of 'mend' is —",
+            "options": [
+              "break",
+              "fix",
+              "lose",
+              "drop"
+            ],
+            "answer_index": 1,
+            "explain": "'Mend' means fix/repair."
+          },
+          {
+            "q": "The antonym of 'temporary' is —",
+            "options": [
+              "short",
+              "brief",
+              "permanent",
+              "quick"
+            ],
+            "answer_index": 2,
+            "explain": "'Permanent' is the opposite of 'temporary'."
+          },
+          {
+            "q": "Can a word have more than one synonym?",
+            "options": [
+              "no, never",
+              "yes",
+              "only verbs can",
+              "only nouns can"
+            ],
+            "answer_index": 1,
+            "explain": "A word may have more than one synonym."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What is a synonym?",
+            "model": "A synonym is a word that means the same or almost the same as another word. For example, 'big' and 'large', or 'begin' and 'start', are synonyms. A word may have more than one synonym."
+          },
+          {
+            "q": "What is an antonym?",
+            "model": "An antonym is a word that means the opposite of another word. For example, 'sorrow' and 'happiness', or 'right' and 'wrong', are antonyms."
+          },
+          {
+            "q": "Why are synonyms and antonyms useful?",
+            "model": "They help us understand the meaning of words and build our vocabulary. They also let us avoid repeating the same word and help us answer the synonym/antonym question in exams."
+          },
+          {
+            "q": "How can a dictionary help us with synonyms and antonyms?",
+            "model": "A dictionary lists the synonyms and antonyms of many words, so we can look up a word and find others with the same or the opposite meaning."
+          },
+          {
+            "q": "Give two examples each of synonyms and antonyms.",
+            "model": "Synonyms: big/large and begin/start. Antonyms: right/wrong and sorrow/happiness."
+          },
+          {
+            "q": "Why might a word have more than one synonym?",
+            "model": "A word may have more than one synonym because several different words can share the same or a very close meaning, giving us choices when we write or speak."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "A synonym is a word with the opposite meaning.",
+            "is_true": false,
+            "correction": "A synonym is a word with the same or nearly the same meaning."
+          },
+          {
+            "statement": "An antonym is a word with the opposite meaning.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "'Big' and 'large' are antonyms.",
+            "is_true": false,
+            "correction": "'Big' and 'large' are synonyms."
+          },
+          {
+            "statement": "'Right' and 'wrong' are antonyms.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "A word can have more than one synonym.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "A dictionary can help us find synonyms and antonyms.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "A (1)____ is a word that means the same or almost the same as another word, like big and (2)____. An (3)____ is a word that means the (4)____ of another word, like right and wrong. A (5)____ helps us find both synonyms and antonyms.",
+          "blanks": [
+            "synonym",
+            "large",
+            "antonym",
+            "opposite",
+            "dictionary"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Term",
+            "Meaning / example"
+          ],
+          "rows": [
+            [
+              "Synonym",
+              "same meaning — big / large"
+            ],
+            [
+              "Antonym",
+              "opposite meaning — right / wrong"
+            ],
+            [
+              "Synonym of 'boring'",
+              "dull"
+            ],
+            [
+              "Antonym of 'obey'",
+              "disobey"
+            ],
+            [
+              "Where to find them",
+              "in a dictionary"
+            ]
+          ],
+          "blanks": [
+            "same meaning — big / large",
+            "opposite meaning — right / wrong",
+            "dull",
+            "disobey",
+            "in a dictionary"
+          ]
+        },
+        "match": {
+          "left": [
+            "noise",
+            "boring",
+            "handy",
+            "mend",
+            "damage"
+          ],
+          "right": [
+            "dull",
+            "fix",
+            "harm",
+            "sound",
+            "useful"
+          ],
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              4,
+              2
+            ]
+          ]
+        },
+        "summary": {
+          "model": "Synonyms and antonyms are key tools for understanding and using words. A synonym is a word that means the same or almost the same as another, such as 'big' and 'large' or 'begin' and 'start', and a word may have several synonyms. An antonym is a word that means the opposite of another, such as 'sorrow' and 'happiness' or 'right' and 'wrong'. A dictionary helps us find both. Knowing synonyms and antonyms builds vocabulary and helps us answer the synonym and antonym questions in the exam.",
+          "skeleton": "A ____ means the same or almost the same as another word, like big and large. An ____ means the ____ of another word, like right and wrong. A word may have several ____. A ____ helps us find both."
+        },
+        "synonym_pairs": [
+          [
+            "noise",
+            "sound"
+          ],
+          [
+            "boring",
+            "dull"
+          ],
+          [
+            "handy",
+            "useful"
+          ],
+          [
+            "mend",
+            "fix"
+          ],
+          [
+            "damage",
+            "harm"
+          ],
+          [
+            "jealous",
+            "envious"
+          ],
+          [
+            "annoy",
+            "irritate"
+          ],
+          [
+            "view",
+            "sight"
+          ],
+          [
+            "idle",
+            "lazy"
+          ],
+          [
+            "annoyed",
+            "irritated"
+          ],
+          [
+            "result",
+            "outcome"
+          ],
+          [
+            "goal",
+            "aim"
+          ],
+          [
+            "trip",
+            "journey"
+          ],
+          [
+            "valuable",
+            "precious"
+          ],
+          [
+            "return",
+            "come back"
+          ],
+          [
+            "begin",
+            "start"
+          ],
+          [
+            "big",
+            "large"
+          ]
+        ],
+        "antonym_pairs": [
+          [
+            "high",
+            "low"
+          ],
+          [
+            "lose",
+            "gain"
+          ],
+          [
+            "refuse",
+            "accept"
+          ],
+          [
+            "temporary",
+            "permanent"
+          ],
+          [
+            "heavy",
+            "light"
+          ],
+          [
+            "add",
+            "subtract"
+          ],
+          [
+            "minor",
+            "major"
+          ],
+          [
+            "indoor",
+            "outdoor"
+          ],
+          [
+            "profit",
+            "loss"
+          ],
+          [
+            "complete",
+            "incomplete"
+          ],
+          [
+            "strong",
+            "weak"
+          ],
+          [
+            "hard",
+            "soft"
+          ],
+          [
+            "different",
+            "same"
+          ],
+          [
+            "sweet",
+            "sour"
+          ],
+          [
+            "fair",
+            "unfair"
+          ],
+          [
+            "sorrow",
+            "happiness"
+          ],
+          [
+            "right",
+            "wrong"
+          ],
+          [
+            "obey",
+            "disobey"
+          ]
+        ],
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a short paragraph on 'Why We Should Learn Synonyms and Antonyms' (about 80 words).",
+          "model": "Learning synonyms and antonyms is very helpful for every student of English. A synonym is a word that means the same as another, such as 'big' and 'large', while an antonym means the opposite, such as 'right' and 'wrong'. When we know many synonyms, we can choose the best word and avoid repeating the same one again and again. When we know antonyms, we understand a word's meaning more clearly by knowing its opposite. They also help us answer exam questions easily. So building a store of synonyms and antonyms makes our English richer and more accurate."
+        }
+      }
+    ]
+  }
+}

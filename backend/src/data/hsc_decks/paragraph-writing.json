@@ -1,0 +1,396 @@
+{
+ "id": "paragraph-writing",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part B",
+ "unitName": "Composition — Writing",
+ "title": "Paragraph Writing",
+ "titleBn": "অনুচ্ছেদ লেখা",
+ "lede": "একটি অনুচ্ছেদ = একটি ভাব। Topic sentence দিয়ে শুরু, supporting sentences দিয়ে বিস্তার, concluding sentence দিয়ে শেষ — কাঠামো জানলে ১০ নম্বরই নিশ্চিত।",
+ "qType": "Composition — Paragraph",
+ "minutes": 50,
+ "marks": "10",
+ "rulesTitle": "অনুচ্ছেদের কাঠামো ও নিয়ম",
+ "rulesPerSlide": 3,
+ "objectives": [
+  {
+   "t": "The three-part structure",
+   "d": "Topic → Supporting → Concluding sentence"
+  },
+  {
+   "t": "Answer the given questions in order",
+   "d": "প্রশ্নগুলোই অনুচ্ছেদের কাঠামো"
+  },
+  {
+   "t": "One paragraph, no headings",
+   "d": "ভাগ করা যাবে না, বুলেট দেওয়া যাবে না"
+  },
+  {
+   "t": "Linkers that raise the marks",
+   "d": "Moreover, However, As a result…"
+  },
+  {
+   "t": "A full model paragraph",
+   "d": "অংশে অংশে বিশ্লেষণসহ"
+  },
+  {
+   "t": "Practice prompts + phrase bank",
+   "d": "নিজে লেখার জন্য প্রস্তুতি"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Structure",
+   "name": "Topic sentence — প্রথম বাক্য",
+   "bn": "অনুচ্ছেদের **প্রথম বাক্যেই** মূল ভাবটি বলে দিতে হয়। এটিই পুরো অনুচ্ছেদের ভিত্তি এবং পরীক্ষকের প্রথম ধারণা।",
+   "formula": "Definition / main idea in one sentence",
+   "ex": "==Tree plantation means planting trees in a planned way to make the environment green.=="
+  },
+  {
+   "no": "02",
+   "tag": "Structure",
+   "name": "Supporting sentences — মূল অংশ",
+   "bn": "টপিক বাক্যের পরে **৬–১০টি বাক্যে** কারণ, ব্যাখ্যা, উদাহরণ ও ফলাফল দিয়ে ভাবটি বিস্তার করতে হয়।",
+   "formula": "reason + example + effect + importance",
+   "ex": "Trees give us oxygen. They also prevent soil erosion and keep the air free from pollution."
+  },
+  {
+   "no": "03",
+   "tag": "Structure",
+   "name": "Concluding sentence — শেষ বাক্য",
+   "bn": "শেষ বাক্যে **সিদ্ধান্ত বা আহ্বান** থাকবে। ‘In fine’, ‘To conclude’, ‘So’ দিয়ে শুরু করা যায়।",
+   "formula": "In fine / To conclude , … must / should …",
+   "ex": "==In fine, we should plant more trees to save our country from natural disasters.=="
+  },
+  {
+   "no": "04",
+   "tag": "Rule",
+   "name": "প্রশ্নগুলোই কাঠামো",
+   "bn": "বোর্ডে অনুচ্ছেদের সাথে কিছু **প্রশ্ন (clues)** দেওয়া থাকে। প্রতিটি প্রশ্নের উত্তর **ক্রম অনুসারে** লিখলেই অনুচ্ছেদ সম্পূর্ণ হয়।",
+   "formulaLabel": "METHOD",
+   "formula": "Q1 → 2 sentences · Q2 → 2 sentences · Q3 → 2 sentences …",
+   "ex": "প্রশ্ন: What is it? Why is it necessary? How can we do it? → এই ক্রমেই লেখো।"
+  },
+  {
+   "no": "05",
+   "tag": "Rule",
+   "name": "একটিই অনুচ্ছেদ — ভাগ করা যাবে না",
+   "bn": "অনুচ্ছেদ **একটি প্যারাগ্রাফেই** লিখতে হয়। শিরোনাম, উপশিরোনাম, বুলেট পয়েন্ট বা আলাদা প্যারা দিলে নম্বর কাটা যায়।",
+   "formulaLabel": "FORMAT",
+   "formula": "One block · no headings · no bullets",
+   "ex": "✗ Introduction: … Conclusion: … &nbsp;&nbsp; ✓ একটানা একটি অনুচ্ছেদ"
+  },
+  {
+   "no": "06",
+   "tag": "Rule",
+   "name": "দৈর্ঘ্য ও বাক্যসংখ্যা",
+   "bn": "সাধারণত **১০–১৪টি বাক্য, ১৫০–২০০ শব্দ** যথেষ্ট। খুব ছোট হলে ভাব অসম্পূর্ণ, খুব বড় হলে সময় নষ্ট।",
+   "formula": "10–14 sentences · 150–200 words",
+   "ex": "প্রতিটি প্রশ্নের জন্য ২টি করে বাক্য ধরলেই সংখ্যাটা মিলে যায়।"
+  },
+  {
+   "no": "07",
+   "tag": "Language",
+   "name": "Present Indefinite Tense-ই মূল",
+   "bn": "সাধারণ সত্য বা নিয়মিত ঘটনা বোঝাতে অনুচ্ছেদ **Present Indefinite**-এ লেখা হয়। ব্যক্তিগত ঘটনা হলে Past।",
+   "formula": "General topic → Present Indefinite",
+   "ex": "Tree plantation ==helps== us. Trees ==give== us oxygen."
+  },
+  {
+   "no": "08",
+   "tag": "Language",
+   "name": "Linker ব্যবহার করো",
+   "bn": "বাক্যগুলোকে জুড়তে **Moreover, Besides, However, As a result, Therefore, In addition, For example** ব্যবহার করলে লেখা পরিণত মনে হয় এবং নম্বর বাড়ে।",
+   "formulaLabel": "LINKERS",
+   "formula": "Moreover · Besides · However · As a result · For example · In fine",
+   "ex": "Trees give us oxygen. ==Moreover==, they prevent soil erosion."
+  },
+  {
+   "no": "09",
+   "tag": "Language",
+   "name": "‘I’ নয়, নৈর্ব্যক্তিক ভাষা",
+   "bn": "সাধারণ বিষয়ের অনুচ্ছেদে **we, our, people** ব্যবহার করো; ‘I think’, ‘In my opinion’ এড়িয়ে চলো (ব্যক্তিগত অভিজ্ঞতার অনুচ্ছেদ ছাড়া)।",
+   "formula": "we / our / people (not I)",
+   "ex": "==We== should plant more trees. (✗ I think we should…)"
+  },
+  {
+   "no": "10",
+   "tag": "Marks",
+   "name": "নম্বর কোথায় থাকে",
+   "bn": "১০ নম্বরের বণ্টন সাধারণত — **বিষয়বস্তু ৪, ভাষা ও ব্যাকরণ ৩, কাঠামো ২, বানান ও যতিচিহ্ন ১**। তাই শুধু তথ্য নয়, ভাষাও গুরুত্বপূর্ণ।",
+   "formulaLabel": "MARKING",
+   "formula": "Content 4 · Language 3 · Structure 2 · Spelling 1",
+   "ex": "ভুল বানান ও যতিচিহ্নে নীরবে ১–২ নম্বর চলে যায়।"
+  }
+ ],
+ "boardQ": {
+  "instruction": "Write a paragraph on “Tree Plantation” answering the questions. — প্রশ্নগুলোর উত্তর দিয়ে অনুচ্ছেদ লেখো। (10)",
+  "text": "Clues — (a) What is tree plantation? (b) Why is it necessary? (c) What are the benefits of trees? (d) What happens if we cut trees? (e) When and where should we plant trees? (f) What should we do?",
+  "items": [
+   {
+    "ans": "Tree plantation means planting trees in a planned way to make our environment green and healthy.",
+    "why": "**Topic sentence** — সংজ্ঞা দিয়ে শুরু, প্রশ্ন (a)-এর উত্তর। (নিয়ম ০১, ০৪)"
+   },
+   {
+    "ans": "It is very necessary because trees are our best friends on earth.",
+    "why": "প্রশ্ন (b)-এর উত্তর; ‘because’ দিয়ে কারণ যোগ। (নিয়ম ০৪)"
+   },
+   {
+    "ans": "Trees give us oxygen without which we cannot live for a moment.",
+    "why": "প্রশ্ন (c) — প্রথম উপকার, সবচেয়ে জোরালোটি আগে। (নিয়ম ০২)"
+   },
+   {
+    "ans": "Moreover, they give us food, fruits, timber and medicine.",
+    "why": "**Moreover** linker দিয়ে যোগ — ভাষার নম্বর এখানেই আসে। (নিয়ম ০৮)"
+   },
+   {
+    "ans": "They also prevent soil erosion and keep the air free from pollution.",
+    "why": "উপকারের ধারাবাহিকতা; ‘also’ পুনরাবৃত্তি এড়ায়। (নিয়ম ০২)"
+   },
+   {
+    "ans": "If we cut trees at random, the balance of nature is destroyed.",
+    "why": "প্রশ্ন (d) — শর্তসাপেক্ষ ফলাফল। (নিয়ম ০৪, ০৭)"
+   },
+   {
+    "ans": "As a result, floods, droughts and other natural disasters occur frequently.",
+    "why": "**As a result** — ফলাফলসূচক linker। (নিয়ম ০৮)"
+   },
+   {
+    "ans": "The rainy season is the best time for planting trees.",
+    "why": "প্রশ্ন (e) — সময়ের উত্তর। (নিয়ম ০৪)"
+   },
+   {
+    "ans": "We should plant trees on both sides of roads, around houses and in open fields.",
+    "why": "প্রশ্ন (e)-এর দ্বিতীয় অংশ — স্থান। (নিয়ম ০৪)"
+   },
+   {
+    "ans": "In fine, we should raise public awareness and plant more trees to save our country.",
+    "why": "**Concluding sentence** — ‘In fine’ দিয়ে সিদ্ধান্ত ও আহ্বান। (নিয়ম ০৩)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — Topic ও Concluding sentence",
+   "intro": "প্রতিটি বিষয়ের জন্য একটি টপিক বাক্য বলো — তারপর **R** চেপে মিলিয়ে নাও।",
+   "items": [
+    {
+     "q": "Topic sentence for “Price Hike”",
+     "ans": "Price hike means the abnormal rise in the price of daily necessities.",
+     "why": "সংজ্ঞা দিয়ে শুরু — সবচেয়ে নিরাপদ topic sentence. (০১)"
+    },
+    {
+     "q": "Topic sentence for “Load Shedding”",
+     "ans": "Load shedding means the temporary stoppage of electricity supply.",
+     "why": "একই কৌশল — ‘… means …’ কাঠামো। (০১)"
+    },
+    {
+     "q": "Topic sentence for “A Book Fair”",
+     "ans": "A book fair is a fair where books of different kinds are displayed and sold.",
+     "why": "সংজ্ঞা + সংক্ষিপ্ত বর্ণনা। (০১)"
+    },
+    {
+     "q": "Concluding sentence for “Tree Plantation”",
+     "ans": "In fine, we should plant more trees to make our country green.",
+     "why": "In fine + করণীয় = আদর্শ সমাপ্তি। (০৩)"
+    },
+    {
+     "q": "Concluding sentence for “Price Hike”",
+     "ans": "To conclude, the government should take proper steps to control the price hike.",
+     "why": "To conclude + সমাধানের আহ্বান। (০৩)"
+    },
+    {
+     "q": "Concluding sentence for “Discipline”",
+     "ans": "In a word, discipline is the key to success in every sphere of life.",
+     "why": "In a word + সারকথা। (০৩)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — Linker বসাও",
+   "intro": "দুটি বাক্যের মাঝে কোন linker বসবে বলো।",
+   "items": [
+    {
+     "q": "Trees give us oxygen. ___ , they give us fruits.",
+     "ans": "Moreover / Besides",
+     "why": "অতিরিক্ত তথ্য যোগ। (০৮)"
+    },
+    {
+     "q": "He worked hard. ___ , he failed.",
+     "ans": "However / But",
+     "why": "বৈপরীত্য। (০৮)"
+    },
+    {
+     "q": "We cut trees at random. ___ , floods occur.",
+     "ans": "As a result / Consequently",
+     "why": "ফলাফল। (০৮)"
+    },
+    {
+     "q": "Many things pollute air, ___ smoke and dust.",
+     "ans": "for example / such as",
+     "why": "উদাহরণ। (০৮)"
+    },
+    {
+     "q": "___ , we should raise awareness.",
+     "ans": "In fine / To conclude",
+     "why": "উপসংহার। (০৩, ০৮)"
+    },
+    {
+     "q": "Load shedding hampers study. ___ , it hampers industry.",
+     "ans": "Besides / In addition",
+     "why": "সমজাতীয় তথ্য যোগ। (০৮)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "The paragraph skeleton <span class='sub'>— যেকোনো বিষয়ে খাটে</span>",
+   "key": "Skeleton",
+   "table": {
+    "headers": [
+     "অংশ",
+     "বাক্যসংখ্যা",
+     "কী লিখবে",
+     "শুরু করার শব্দ"
+    ],
+    "rows": [
+     [
+      "Topic sentence",
+      "@১",
+      "সংজ্ঞা বা মূল ভাব",
+      "X means … / X is …"
+     ],
+     [
+      "Importance / cause",
+      "@২–৩",
+      "কেন গুরুত্বপূর্ণ, কারণ কী",
+      "It is necessary because …"
+     ],
+     [
+      "Benefits / effects",
+      "@৩–৪",
+      "উপকার বা ফলাফল, উদাহরণসহ",
+      "Moreover, … / As a result, …"
+     ],
+     [
+      "Problems / if not",
+      "@২",
+      "না করলে কী হয়",
+      "If we do not …, …"
+     ],
+     [
+      "Solution / what to do",
+      "@২",
+      "করণীয়",
+      "We should … / Steps should be taken …"
+     ],
+     [
+      "Concluding sentence",
+      "@১",
+      "সিদ্ধান্ত ও আহ্বান",
+      "In fine, … / To conclude, …"
+     ]
+    ]
+   },
+   "note": "**এই কাঠামোটি মুখস্থ থাকলে অচেনা বিষয়েও অনুচ্ছেদ লেখা যায়** — শুধু বিষয় বদলে ঘরগুলো ভরাও।"
+  },
+  {
+   "title": "Phrase bank <span class='sub'>— যে বাক্যাংশগুলো নম্বর বাড়ায়</span>",
+   "key": "Phrases",
+   "table": {
+    "headers": [
+     "কাজ",
+     "বাক্যাংশ"
+    ],
+    "rows": [
+     [
+      "সংজ্ঞা দিতে",
+      "@X means … · X refers to … · X is a term used for …"
+     ],
+     [
+      "গুরুত্ব বোঝাতে",
+      "@It plays a vital role in … · It is of great importance · It is essential for …"
+     ],
+     [
+      "কারণ যোগ করতে",
+      "@because · since · owing to · due to · on account of"
+     ],
+     [
+      "তথ্য যোগ করতে",
+      "@Moreover · Besides · In addition · Furthermore · What is more"
+     ],
+     [
+      "ফলাফল বোঝাতে",
+      "@As a result · Consequently · Therefore · Thus · Hence"
+     ],
+     [
+      "বৈপরীত্য বোঝাতে",
+      "@However · On the other hand · In spite of this · Nevertheless"
+     ],
+     [
+      "উদাহরণ দিতে",
+      "@For example · For instance · such as · namely"
+     ],
+     [
+      "সমাধান বলতে",
+      "@Steps should be taken to … · We should raise awareness · The government must …"
+     ],
+     [
+      "শেষ করতে",
+      "@In fine · To conclude · In a word · All in all"
+     ]
+    ]
+   },
+   "note": "প্রতিটি অনুচ্ছেদে অন্তত **৪–৫টি linker** ব্যবহার করো — ভাষার ৩ নম্বর এখান থেকেই আসে।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "❓",
+   "t": "The clues are your outline",
+   "type": "ok",
+   "d": "প্রশ্নগুলোই কাঠামো। প্রতিটির জন্য ২টি বাক্য লিখলেই ১০–১২ বাক্যের সুন্দর অনুচ্ছেদ তৈরি হয়ে যায়।"
+  },
+  {
+   "em": "🚫",
+   "t": "No headings, no bullets",
+   "type": "warn",
+   "d": "অনুচ্ছেদ মানে **একটানা একটি প্যারা**। শিরোনাম বা পয়েন্ট আকারে লিখলে কাঠামোর ২ নম্বর চলে যায়।"
+  },
+  {
+   "em": "✍️",
+   "t": "First and last sentence matter most",
+   "d": "পরীক্ষক প্রথম ও শেষ বাক্য সবচেয়ে মন দিয়ে পড়েন। এই দুটি বাক্য আগে থেকে ভেবে রাখো।"
+  },
+  {
+   "em": "🔗",
+   "t": "Sprinkle linkers, don't overload",
+   "d": "৪–৫টি linker যথেষ্ট। প্রতিটি বাক্যে linker দিলে লেখা কৃত্রিম শোনায়।"
+  },
+  {
+   "em": "📏",
+   "t": "Keep sentences short",
+   "d": "১২–১৮ শব্দের বাক্যই নিরাপদ। লম্বা বাক্যে ব্যাকরণ ভাঙার ঝুঁকি বেশি।"
+  },
+  {
+   "em": "🕐",
+   "t": "Time budget: 15 minutes",
+   "d": "২ মিনিট পরিকল্পনা, ১১ মিনিট লেখা, ২ মিনিট বানান ও যতিচিহ্ন যাচাই।"
+  }
+ ],
+ "recap": [
+  "কাঠামো: Topic sentence → Supporting sentences → Concluding sentence।",
+  "দেওয়া প্রশ্নগুলোর উত্তর ক্রম অনুসারে লিখলেই অনুচ্ছেদ সম্পূর্ণ।",
+  "একটিই প্যারা — শিরোনাম, বুলেট বা ভাগ করা যাবে না।",
+  "১০–১৪ বাক্য, ১৫০–২০০ শব্দ; সাধারণ বিষয়ে Present Indefinite।",
+  "নম্বর: বিষয়বস্তু ৪ + ভাষা ৩ + কাঠামো ২ + বানান ১।"
+ ],
+ "homework": [
+  "‘The paragraph skeleton’ ছকটি মুখস্থ করবে।",
+  "Phrase bank থেকে ২০টি বাক্যাংশ খাতায় লিখবে।",
+  "‘Tree Plantation’ অনুচ্ছেদটি না দেখে লিখবে।",
+  "‘Price Hike’ ও ‘Load Shedding’ — দুটি অনুচ্ছেদ লিখে আনবে।"
+ ],
+ "paper": "paper2"
+}

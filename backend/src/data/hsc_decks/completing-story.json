@@ -1,0 +1,395 @@
+{
+ "id": "completing-story",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part B",
+ "unitName": "Composition — Writing",
+ "title": "Completing a Story",
+ "titleBn": "গল্প সম্পূর্ণ করা",
+ "lede": "শুরুটা দেওয়া থাকে, বাকিটা তোমার। ঘটনার ক্রম, অতীত কাল আর একটি নীতিশিক্ষা — এই তিনটিই ১০ নম্বরের চাবি।",
+ "qType": "Composition — Completing a Story",
+ "minutes": 50,
+ "marks": "10",
+ "rulesTitle": "গল্প লেখার নিয়ম",
+ "rulesPerSlide": 3,
+ "objectives": [
+  {
+   "t": "Continue, don’t restart",
+   "d": "দেওয়া অংশ আবার লিখো না — সেখান থেকেই এগোও"
+  },
+  {
+   "t": "Past tense throughout",
+   "d": "গল্প সবসময় অতীত কালে"
+  },
+  {
+   "t": "Beginning → middle → climax → moral",
+   "d": "চারটি ধাপে গল্প গড়ে তোলা"
+  },
+  {
+   "t": "Dialogue adds life",
+   "d": "এক-দুটি সংলাপ গল্পকে জীবন্ত করে"
+  },
+  {
+   "t": "A full model story",
+   "d": "অংশে অংশে বিশ্লেষণসহ"
+  },
+  {
+   "t": "Title &amp; moral",
+   "d": "শিরোনাম ও নীতিশিক্ষা লেখার কৌশল"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Structure",
+   "name": "দেওয়া অংশ থেকেই শুরু করো",
+   "bn": "প্রশ্নে গল্পের শুরুটা দেওয়া থাকে। সেটি **আবার লিখতে হয় না**; ঠিক যেখানে শেষ হয়েছে সেখান থেকেই এগোতে হয়।",
+   "formula": "Given part → continue directly",
+   "ex": "Given: *Once a fox fell into a well…* → তোমার লেখা শুরু হবে পরের ঘটনা দিয়ে।"
+  },
+  {
+   "no": "02",
+   "tag": "Tense",
+   "name": "পুরো গল্প অতীত কালে",
+   "bn": "গল্প বলার স্বাভাবিক কাল **Past Indefinite**; আগের ঘটনা বোঝাতে **Past Perfect** (had + V3)।",
+   "formula": "Past Indefinite + Past Perfect",
+   "ex": "The fox ==fell== into the well. He ==had tried== hard to come out."
+  },
+  {
+   "no": "03",
+   "tag": "Structure",
+   "name": "ঘটনার ক্রম ঠিক রাখো",
+   "bn": "ঘটনা ঘটার ক্রম অনুসারে লেখো — **শুরু → ঘটনা বিকাশ → চরম মুহূর্ত → পরিণতি**। ক্রম ভাঙলে গল্প বোঝা যায় না।",
+   "formula": "beginning → rising action → climax → ending",
+   "ex": "প্রথমে সমস্যা, তারপর চেষ্টা, তারপর সমাধান।"
+  },
+  {
+   "no": "04",
+   "tag": "Language",
+   "name": "সময়সূচক শব্দ দিয়ে জুড়ে দাও",
+   "bn": "**At first, then, after that, meanwhile, suddenly, at last, finally** — এই শব্দগুলো ঘটনার ক্রম স্পষ্ট করে।",
+   "formula": "At first · Then · Suddenly · At last",
+   "ex": "==Suddenly==, a goat came there. ==At last==, the fox escaped."
+  },
+  {
+   "no": "05",
+   "tag": "Language",
+   "name": "সংলাপ যোগ করো",
+   "bn": "এক-দুটি প্রত্যক্ষ সংলাপ গল্পকে জীবন্ত করে। উদ্ধৃতিচিহ্ন ও কমা ঠিকভাবে বসাতে হবে।",
+   "formula": "He said, “ … ”",
+   "ex": "The fox said, ==“The water here is very sweet.”=="
+  },
+  {
+   "no": "06",
+   "tag": "Structure",
+   "name": "চরম মুহূর্ত (climax) থাকতেই হবে",
+   "bn": "গল্পের মাঝখানে এমন একটি মুহূর্ত থাকবে যেখানে উত্তেজনা সর্বোচ্চ — তারপরই সমাধান আসবে।",
+   "formula": "problem → tension → solution",
+   "ex": "ছাগলটি কূপে নামল — এটিই চরম মুহূর্ত।"
+  },
+  {
+   "no": "07",
+   "tag": "Ending",
+   "name": "পরিণতি ও নীতিশিক্ষা",
+   "bn": "গল্পের শেষে ফলাফল বলো, তারপর এক বাক্যে **moral** লেখো — ‘Moral: …’ আকারে।",
+   "formula": "Moral: one short sentence",
+   "ex": "==Moral: Look before you leap.=="
+  },
+  {
+   "no": "08",
+   "tag": "Format",
+   "name": "শিরোনাম দাও",
+   "bn": "গল্পের ওপরে একটি **উপযুক্ত শিরোনাম** লিখতে হয়। শিরোনাম ছোট, আকর্ষণীয় ও গল্পের মূল ভাব প্রকাশক হবে।",
+   "formula": "A short, apt title",
+   "ex": "==The Fox and the Goat== / ==A Wise Judgement=="
+  },
+  {
+   "no": "09",
+   "tag": "Length",
+   "name": "দৈর্ঘ্য ও গঠন",
+   "bn": "সাধারণত **১২–১৬ বাক্য, ২০০–২৫০ শব্দ**। দুই-তিনটি অনুচ্ছেদে ভাগ করা যায়, তবে বুলেট পয়েন্ট নয়।",
+   "formula": "200–250 words · 2–3 paragraphs",
+   "ex": "প্রতিটি অনুচ্ছেদে একটি করে পর্ব।"
+  },
+  {
+   "no": "10",
+   "tag": "Marks",
+   "name": "নম্বর কোথায় থাকে",
+   "bn": "১০ নম্বরের বণ্টন — **ঘটনার বিন্যাস ৪, ভাষা ৩, শিরোনাম ও নীতিশিক্ষা ২, বানান ও যতিচিহ্ন ১**।",
+   "formula": "Content 4 · Language 3 · Title+Moral 2 · Spelling 1",
+   "ex": "শিরোনাম বা নীতিশিক্ষা বাদ দিলে সরাসরি ২ নম্বর কাটা।"
+  }
+ ],
+ "boardQ": {
+  "instruction": "Complete the story and give it a suitable title. — গল্পটি সম্পূর্ণ করে উপযুক্ত শিরোনাম দাও। (10)",
+  "text": "Given: Once a fox fell into a well. He tried his best to come out of it but in vain. Meanwhile, a goat came there and asked the fox…",
+  "items": [
+   {
+    "ans": "Title: The Fox and the Goat",
+    "why": "**শিরোনাম** আগে লিখতে হয় — ছোট ও গল্পের মূল চরিত্র/ভাব প্রকাশক। (নিয়ম ০৮)"
+   },
+   {
+    "ans": "“What are you doing there, friend?” said the goat.",
+    "why": "**সংলাপ** দিয়ে শুরু করলে গল্প প্রাণ পায়; উদ্ধৃতিচিহ্ন ও কমা ঠিক রাখো। (নিয়ম ০৫)"
+   },
+   {
+    "ans": "The cunning fox replied that the water of the well was very sweet.",
+    "why": "পরোক্ষ উক্তিতে ধূর্ততা বোঝানো হলো; **Past tense** বজায় আছে। (নিয়ম ০২)"
+   },
+   {
+    "ans": "He also requested the goat to come down and enjoy the sweet water.",
+    "why": "ঘটনার বিকাশ — শিয়ালের ফাঁদ পাতা। (নিয়ম ০৩)"
+   },
+   {
+    "ans": "Being simple, the goat believed him and jumped into the well at once.",
+    "why": "**চরম মুহূর্ত (climax)** — ছাগলের নামা। (নিয়ম ০৬)"
+   },
+   {
+    "ans": "Then the fox got upon the back of the goat and came out of the well easily.",
+    "why": "পরিণতির দিকে অগ্রসর; ‘Then’ দিয়ে ক্রম বোঝানো। (নিয়ম ০৪)"
+   },
+   {
+    "ans": "At last, he looked down and said, “Goodbye, friend! Think before you act.”",
+    "why": "**At last** + বিদায়ী সংলাপ — গল্পের সমাপ্তি। (নিয়ম ০৪, ০৫)"
+   },
+   {
+    "ans": "The poor goat then understood the trick but it was too late.",
+    "why": "ফলাফল — ছাগলের উপলব্ধি। (নিয়ম ০৭)"
+   },
+   {
+    "ans": "Moral: Look before you leap.",
+    "why": "**নীতিশিক্ষা** এক বাক্যে, আলাদা লাইনে। (নিয়ম ০৭)"
+   },
+   {
+    "ans": "কেন Past tense?",
+    "why": "গল্প সবসময় অতীত কালে বলা হয়; আগের ঘটনায় had + V3। (নিয়ম ০২)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — শিরোনাম ও নীতিশিক্ষা",
+   "intro": "প্রতিটি গল্পের জন্য শিরোনাম ও নীতিশিক্ষা বলো।",
+   "items": [
+    {
+     "q": "A thirsty crow found a jug with little water…",
+     "ans": "Title: The Thirsty Crow · Moral: Where there is a will, there is a way.",
+     "why": "পরিচিত গল্পের প্রচলিত শিরোনাম ও নীতিশিক্ষা। (০৭, ০৮)"
+    },
+    {
+     "q": "A shepherd boy cried “Wolf! Wolf!” again and again…",
+     "ans": "Title: The Shepherd Boy and the Wolf · Moral: Nobody believes a liar.",
+     "why": "মিথ্যাবাদীর পরিণতি। (০৭)"
+    },
+    {
+     "q": "Once a hare laughed at a tortoise for his slow speed…",
+     "ans": "Title: The Hare and the Tortoise · Moral: Slow and steady wins the race.",
+     "why": "অহংকারের পরিণতি। (০৭)"
+    },
+    {
+     "q": "A woodcutter dropped his axe into the river…",
+     "ans": "Title: The Honest Woodcutter · Moral: Honesty is the best policy.",
+     "why": "সততার পুরস্কার। (০৭)"
+    },
+    {
+     "q": "Two friends were passing through a forest when a bear came…",
+     "ans": "Title: Two Friends and a Bear · Moral: A friend in need is a friend indeed.",
+     "why": "বিপদে বন্ধুর পরিচয়। (০৭)"
+    },
+    {
+     "q": "A greedy farmer had a goose that laid a golden egg daily…",
+     "ans": "Title: The Golden Goose · Moral: Greed leads to loss.",
+     "why": "লোভের পরিণতি। (০৭)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — সময়সূচক শব্দ",
+   "intro": "ঘটনার ক্রম বোঝাতে কোন শব্দ বসবে বলো।",
+   "items": [
+    {
+     "q": "___ , there lived a poor farmer in a village.",
+     "ans": "Once upon a time / Once",
+     "why": "গল্পের প্রচলিত সূচনা। (০৪)"
+    },
+    {
+     "q": "___ , a tiger came out of the bush.",
+     "ans": "Suddenly / All on a sudden",
+     "why": "আকস্মিক ঘটনা। (০৪)"
+    },
+    {
+     "q": "___ , the boy reached the village.",
+     "ans": "At last / Finally",
+     "why": "সমাপ্তির দিকে। (০৪)"
+    },
+    {
+     "q": "He ate the food. ___ , he fell asleep.",
+     "ans": "Then / After that",
+     "why": "পরপর ঘটনা। (০৪)"
+    },
+    {
+     "q": "___ , the king was searching for the thief.",
+     "ans": "Meanwhile",
+     "why": "একই সময়ে অন্য ঘটনা। (০৪)"
+    },
+    {
+     "q": "___ , he did not believe the boy.",
+     "ans": "At first",
+     "why": "প্রথম দিকের অবস্থা। (০৪)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "The story skeleton <span class='sub'>— যেকোনো গল্পে খাটে</span>",
+   "key": "Skeleton",
+   "table": {
+    "headers": [
+     "অংশ",
+     "বাক্যসংখ্যা",
+     "কী লিখবে"
+    ],
+    "rows": [
+     [
+      "Title",
+      "@—",
+      "ছোট ও আকর্ষণীয় শিরোনাম"
+     ],
+     [
+      "Continue the given part",
+      "@২–৩",
+      "দেওয়া ঘটনার পরের ধাপ"
+     ],
+     [
+      "Rising action",
+      "@৩–৪",
+      "সমস্যা বাড়ে, চরিত্র চেষ্টা করে"
+     ],
+     [
+      "Climax",
+      "@২–৩",
+      "সবচেয়ে উত্তেজনাপূর্ণ মুহূর্ত"
+     ],
+     [
+      "Falling action",
+      "@২",
+      "পরিস্থিতি সমাধানের দিকে"
+     ],
+     [
+      "Ending",
+      "@১–২",
+      "ফলাফল / শিক্ষা"
+     ],
+     [
+      "Moral",
+      "@১",
+      "এক বাক্যে নীতিশিক্ষা"
+     ]
+    ]
+   },
+   "note": "**গল্প মুখস্থ নয়, কাঠামো মুখস্থ করো** — তাহলে অচেনা শুরু পেলেও লিখতে পারবে।"
+  },
+  {
+   "title": "Common morals <span class='sub'>— প্রচলিত নীতিশিক্ষা</span>",
+   "key": "Morals",
+   "table": {
+    "headers": [
+     "নীতিশিক্ষা",
+     "কোন ধরনের গল্পে"
+    ],
+    "rows": [
+     [
+      "@Look before you leap.",
+      "না ভেবে কাজ করার পরিণতি"
+     ],
+     [
+      "@Honesty is the best policy.",
+      "সততার পুরস্কার"
+     ],
+     [
+      "@Where there is a will, there is a way.",
+      "অধ্যবসায়"
+     ],
+     [
+      "@Slow and steady wins the race.",
+      "ধৈর্য ও অহংকার"
+     ],
+     [
+      "@A friend in need is a friend indeed.",
+      "বন্ধুত্বের পরীক্ষা"
+     ],
+     [
+      "@Greed leads to loss.",
+      "লোভের পরিণতি"
+     ],
+     [
+      "@Nobody believes a liar.",
+      "মিথ্যার পরিণতি"
+     ],
+     [
+      "@Unity is strength.",
+      "ঐক্যের শক্তি"
+     ],
+     [
+      "@Pride goes before a fall.",
+      "অহংকারের পতন"
+     ],
+     [
+      "@As you sow, so you reap.",
+      "কর্মফল"
+     ]
+    ]
+   },
+   "note": "এই ১০টি নীতিশিক্ষা মুখস্থ থাকলে প্রায় যেকোনো গল্পেই একটি মানিয়ে যায়।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "✍️",
+   "t": "Never rewrite the given part",
+   "d": "দেওয়া অংশ আবার লিখলে সময় নষ্ট হয় এবং নম্বর বাড়ে না — সেখান থেকেই এগোও।",
+   "type": "warn"
+  },
+  {
+   "em": "⏳",
+   "t": "Stay in the past tense",
+   "d": "গল্প অতীত কালে; মাঝপথে Present-এ চলে গেলে ভাষার নম্বর কাটা যায়।",
+   "type": "warn"
+  },
+  {
+   "em": "💬",
+   "t": "One or two dialogues are enough",
+   "d": "সংলাপ গল্পকে জীবন্ত করে, কিন্তু বেশি দিলে গল্প নাটক হয়ে যায়।"
+  },
+  {
+   "em": "🎯",
+   "t": "Title + Moral = 2 marks",
+   "d": "শিরোনাম ও নীতিশিক্ষা লিখতে ভুলো না — এটি সবচেয়ে সহজ ২ নম্বর।",
+   "type": "ok"
+  },
+  {
+   "em": "🔗",
+   "t": "Use sequence words",
+   "d": "At first, then, suddenly, at last — ঘটনার ক্রম স্পষ্ট হয় এবং লেখা গোছালো দেখায়।"
+  },
+  {
+   "em": "🕒",
+   "t": "Time budget: 15 minutes",
+   "d": "২ মিনিট ভাবনা, ১১ মিনিট লেখা, ২ মিনিট যাচাই।"
+  }
+ ],
+ "recap": [
+  "দেওয়া অংশ থেকেই এগোতে হয় — আবার লেখা নয়।",
+  "পুরো গল্প Past tense-এ; আগের ঘটনায় had + V3।",
+  "কাঠামো: শুরু → বিকাশ → চরম মুহূর্ত → পরিণতি → নীতিশিক্ষা।",
+  "সময়সূচক শব্দ ও এক-দুটি সংলাপ গল্পকে গোছালো ও জীবন্ত করে।",
+  "শিরোনাম ও Moral লিখতেই হবে — এতে ২ নম্বর।"
+ ],
+ "homework": [
+  "‘The story skeleton’ ছকটি মুখস্থ করবে।",
+  "১০টি প্রচলিত নীতিশিক্ষা লিখে আনবে।",
+  "‘The Fox and the Goat’ গল্পটি না দেখে সম্পূর্ণ করবে।",
+  "নতুন দুটি শুরু থেকে দুটি গল্প লিখে আনবে।"
+ ],
+ "paper": "paper2"
+}

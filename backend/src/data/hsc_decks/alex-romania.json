@@ -1,0 +1,827 @@
+{
+ "id": "alex-romania",
+ "unit": "Unit 12",
+ "unitName": "Education and Life",
+ "title": "Alex — A Young Hero from California",
+ "titleBn": "অ্যালেক্স — ক্যালিফোর্নিয়ার এক তরুণ নায়ক",
+ "lede": "টিভিতে দেখা এক খবর, এগারো বছরের এক অন্তর্মুখী ছেলে, আর এক মাসের পকেটমানি — কীভাবে বদলে দিল রোমানিয়ার এক শহরের শীত।",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 45,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Follow the chain of events",
+   "d": "খবর → মন খারাপ → লজ্জা → শিক্ষকের কাছে → প্রকল্প → রোমানিয়া যাত্রা"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "২৪টি বাক্যের বাংলা অর্থ"
+  },
+  {
+   "t": "Character study of Alex",
+   "d": "introvert অথচ empathetic — এই বৈপরীত্যই মূল"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "hazard, distressing, introvert, plea, empathy…"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — The news that changed a boy",
+   "s": [
+    {
+     "en": "Alex, an ==eleven year old boy from California==, was watching TV at home with his parents when he ==came across the news== of ==severe winter weather conditions== in a ==remote town in Romania==.",
+     "bn": "==ক্যালিফোর্নিয়ার এগারো বছর বয়সী এক ছেলে== অ্যালেক্স যখন বাবা-মায়ের সঙ্গে বাড়িতে টিভি দেখছিল, তখন সে ==রোমানিয়ার এক প্রত্যন্ত শহরে== ==প্রচণ্ড শীতের পরিস্থিতি== সম্পর্কে ==একটি খবর দেখতে পায়==।"
+    },
+    {
+     "en": "The news that many people in the town had ==no proper heating== in their homes and were facing ==serious health hazards== made the boy ==upset==.",
+     "bn": "সেই শহরের বহু মানুষের ঘরে ==উপযুক্ত উষ্ণতার ব্যবস্থা নেই== এবং তারা ==গুরুতর স্বাস্থ্যঝুঁকির== মুখোমুখি — এই খবরটি ছেলেটিকে ==বিমর্ষ করে তোলে==।"
+    },
+    {
+     "en": "He compared the comfort of his ==nicely heated house== and the ==distressing condition== the Romanian people were in, and felt ==ashamed==.",
+     "bn": "সে তার ==উষ্ণ, আরামদায়ক ঘরের== সঙ্গে রোমানিয়ার মানুষের ==যন্ত্রণাদায়ক অবস্থার== তুলনা করে এবং ==লজ্জিত বোধ করে==।"
+    },
+    {
+     "en": "He thought their eyes looked so ==vacant and lifeless==.",
+     "bn": "তার মনে হলো, তাদের চোখগুলো যেন ==শূন্য ও প্রাণহীন==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — An introvert boy and a school programme",
+   "s": [
+    {
+     "en": "Alex was ==not an outgoing boy== in his school and mostly ==kept to himself==.",
+     "bn": "অ্যালেক্স তার বিদ্যালয়ে ==মিশুক ছেলে ছিল না== এবং বেশিরভাগ সময় ==নিজের মধ্যেই থাকত==।"
+    },
+    {
+     "en": "Teachers were worried about ==how the introvert boy would do in the exams==.",
+     "bn": "শিক্ষকেরা চিন্তিত ছিলেন ==এই অন্তর্মুখী ছেলেটি পরীক্ষায় কেমন করবে== তা নিয়ে।"
+    },
+    {
+     "en": "The students were supposed to ==do something for the community== in whatever ways possible and their ==involvement was to be continually monitored and assessed==.",
+     "bn": "শিক্ষার্থীদের যেভাবেই হোক ==সমাজের জন্য কিছু করার== কথা ছিল এবং তাদের ==অংশগ্রহণ ক্রমাগত পর্যবেক্ষণ ও মূল্যায়ন করা হতো==।"
+    },
+    {
+     "en": "So far, Alex ==hadn't been able to set any example== of doing something for his community.",
+     "bn": "এ পর্যন্ত অ্যালেক্স তার সমাজের জন্য কিছু করার ==কোনো দৃষ্টান্ত স্থাপন করতে পারেনি==।"
+    },
+    {
+     "en": "So when he came to his teacher with a ==video clip of the Romanian town==, the teacher was ==surprised==.",
+     "bn": "তাই সে যখন ==রোমানিয়ার সেই শহরের একটি ভিডিও ক্লিপ== নিয়ে শিক্ষিকার কাছে এলো, শিক্ষিকা ==অবাক হয়ে গেলেন==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — The plea that touched a teacher",
+   "s": [
+    {
+     "en": "How to do something for the winter affected people in the Romanian town, the teacher thought.",
+     "bn": "রোমানিয়ার সেই শহরের শীতার্ত মানুষের জন্য কী করা যায় — শিক্ষিকা ভাবতে লাগলেন।"
+    },
+    {
+     "en": "But she became ==increasingly attentive== as Alex ==presented his case==.",
+     "bn": "কিন্তু অ্যালেক্স যখন ==তার যুক্তি তুলে ধরছিল==, তখন তিনি ==ক্রমশ মনোযোগী হয়ে উঠলেন==।"
+    },
+    {
+     "en": "The boy was very ==emotional== when he said — “We must do something for these people. ==The kids are like us.== We cannot live here in ==comfort leaving them in such distress==.”",
+     "bn": "ছেলেটি খুবই ==আবেগপ্রবণ== হয়ে বলল — “আমাদের এই মানুষগুলোর জন্য কিছু একটা করতেই হবে। ==ওই বাচ্চারা তো আমাদেরই মতো।== ওদের এমন কষ্টে রেখে আমরা এখানে ==আরামে থাকতে পারি না==।”"
+    },
+    {
+     "en": "Alex's ==plea touched the teacher==.",
+     "bn": "অ্যালেক্সের ==আকুতি শিক্ষিকার হৃদয় ছুঁয়ে গেল==।"
+    },
+    {
+     "en": "She wanted to know what he had ==planned==.",
+     "bn": "তিনি জানতে চাইলেন সে কী ==পরিকল্পনা== করেছে।"
+    },
+    {
+     "en": "He told her that he had talked to others in the class and they all would like to ==donate a month of their pocket money== for these poor fellows to ==save their lives==.",
+     "bn": "সে জানাল, সে ক্লাসের অন্যদের সঙ্গে কথা বলেছে এবং তারা সবাই এই দরিদ্র মানুষগুলোর ==জীবন বাঁচাতে== ==এক মাসের পকেটমানি দান করতে== চায়।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 4 — From a plan to a project",
+   "s": [
+    {
+     "en": "The teacher then guided the class to ==take up a project==.",
+     "bn": "এরপর শিক্ষিকা ক্লাসকে ==একটি প্রকল্প হাতে নিতে== পথ দেখালেন।"
+    },
+    {
+     "en": "The boys, with the help of the teacher, ==worked it out==.",
+     "bn": "ছেলেরা শিক্ষিকার সহায়তায় ==পুরো ব্যাপারটি সাজিয়ে ফেলল==।"
+    },
+    {
+     "en": "They contacted the ==local municipality== in the Romanian town and ==expressed an interest to work for them==.",
+     "bn": "তারা রোমানিয়ার সেই শহরের ==স্থানীয় পৌরসভার== সঙ্গে যোগাযোগ করল এবং ==তাদের জন্য কাজ করার আগ্রহ প্রকাশ করল==।"
+    },
+    {
+     "en": "They also contacted their own ==lawmakers== who also ==contributed to their fund==.",
+     "bn": "তারা নিজেদের ==আইনপ্রণেতাদের== সঙ্গেও যোগাযোগ করল, যাঁরাও ==তাদের তহবিলে অর্থ দিলেন==।"
+    },
+    {
+     "en": "Then a ==small team led by the teacher== went to Romania.",
+     "bn": "এরপর ==শিক্ষিকার নেতৃত্বে একটি ছোট দল== রোমানিয়ায় গেল।"
+    },
+    {
+     "en": "They spent a couple of weeks with the people, helped them ==put heating in their houses==, supplied them with ==sufficient blankets and food==.",
+     "bn": "তারা সেখানকার মানুষের সঙ্গে সপ্তাহ দুয়েক কাটাল, ==ঘরে উষ্ণতার ব্যবস্থা করতে== সাহায্য করল এবং ==পর্যাপ্ত কম্বল ও খাবার== সরবরাহ করল।"
+    },
+    {
+     "en": "The school authority ==monitored the whole process from first to last==, and their school ==warmly welcomed them back==.",
+     "bn": "বিদ্যালয় কর্তৃপক্ষ ==শুরু থেকে শেষ পর্যন্ত পুরো প্রক্রিয়াটি তদারক করল==, আর তাদের বিদ্যালয় ==উষ্ণ অভ্যর্থনায় তাদের ফিরিয়ে নিল==।"
+    },
+    {
+     "en": "Everyone was proud of the students who ==made and carried out their own plan==, helped the people in their need, ==stood beside them to give mental and emotional support== and came back home as ==young heroes==.",
+     "bn": "সবাই গর্বিত হলো সেই শিক্ষার্থীদের নিয়ে, যারা ==নিজেরাই পরিকল্পনা করে তা বাস্তবায়ন করেছে==, বিপদে মানুষের পাশে দাঁড়িয়েছে, ==মানসিক ও আবেগীয় সহায়তা দিয়েছে== এবং ==তরুণ নায়ক== হয়ে ঘরে ফিরেছে।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "come across",
+   "pos": "phrase",
+   "pron": "/kʌm əˈkrɒs/",
+   "bn": "হঠাৎ চোখে পড়া, দেখতে পাওয়া",
+   "en": "to find or meet by chance",
+   "ex": "He came across the news of severe winter."
+  },
+  {
+   "w": "severe",
+   "pos": "adj",
+   "pron": "/sɪˈvɪə/",
+   "bn": "প্রচণ্ড, তীব্র",
+   "en": "very bad or serious",
+   "ex": "severe winter weather conditions"
+  },
+  {
+   "w": "remote",
+   "pos": "adj",
+   "pron": "/rɪˈməʊt/",
+   "bn": "প্রত্যন্ত, দূরবর্তী",
+   "en": "far away from towns and people",
+   "ex": "a remote town in Romania"
+  },
+  {
+   "w": "hazard",
+   "pos": "noun",
+   "pron": "/ˈhæzəd/",
+   "bn": "ঝুঁকি, বিপদ",
+   "en": "a danger or risk",
+   "ex": "facing serious health hazards"
+  },
+  {
+   "w": "distressing",
+   "pos": "adj",
+   "pron": "/dɪˈstresɪŋ/",
+   "bn": "যন্ত্রণাদায়ক, কষ্টকর",
+   "en": "causing great pain or sorrow",
+   "ex": "the distressing condition of the people"
+  },
+  {
+   "w": "vacant",
+   "pos": "adj",
+   "pron": "/ˈveɪkənt/",
+   "bn": "শূন্য, ভাবলেশহীন",
+   "en": "empty; showing no expression",
+   "ex": "Their eyes looked so vacant."
+  },
+  {
+   "w": "outgoing",
+   "pos": "adj",
+   "pron": "/ˈaʊtɡəʊɪŋ/",
+   "bn": "মিশুক, বহির্মুখী",
+   "en": "friendly and enjoying company",
+   "ex": "Alex was not an outgoing boy."
+  },
+  {
+   "w": "keep to oneself",
+   "pos": "phrase",
+   "pron": "/kiːp/",
+   "bn": "নিজের মধ্যে গুটিয়ে থাকা",
+   "en": "to avoid the company of others",
+   "ex": "He mostly kept to himself."
+  },
+  {
+   "w": "introvert",
+   "pos": "noun/adj",
+   "pron": "/ˈɪntrəvɜːt/",
+   "bn": "অন্তর্মুখী ব্যক্তি",
+   "en": "a quiet person who prefers to be alone",
+   "ex": "how the introvert boy would do in the exams"
+  },
+  {
+   "w": "involvement",
+   "pos": "noun",
+   "pron": "/ɪnˈvɒlvmənt/",
+   "bn": "সম্পৃক্ততা, অংশগ্রহণ",
+   "en": "the act of taking part in something",
+   "ex": "Their involvement was monitored and assessed."
+  },
+  {
+   "w": "monitor",
+   "pos": "verb",
+   "pron": "/ˈmɒnɪtə/",
+   "bn": "পর্যবেক্ষণ করা, তদারক করা",
+   "en": "to watch and check over a period of time",
+   "ex": "continually monitored and assessed"
+  },
+  {
+   "w": "attentive",
+   "pos": "adj",
+   "pron": "/əˈtentɪv/",
+   "bn": "মনোযোগী",
+   "en": "listening or watching carefully",
+   "ex": "She became increasingly attentive."
+  },
+  {
+   "w": "plea",
+   "pos": "noun",
+   "pron": "/pliː/",
+   "bn": "আকুতি, আবেদন",
+   "en": "an urgent emotional request",
+   "ex": "Alex's plea touched the teacher."
+  },
+  {
+   "w": "donate",
+   "pos": "verb",
+   "pron": "/dəʊˈneɪt/",
+   "bn": "দান করা",
+   "en": "to give money or goods to help others",
+   "ex": "donate a month of their pocket money"
+  },
+  {
+   "w": "lawmaker",
+   "pos": "noun",
+   "pron": "/ˈlɔːmeɪkə/",
+   "bn": "আইনপ্রণেতা, সংসদ সদস্য",
+   "en": "a person who makes laws",
+   "ex": "They contacted their own lawmakers."
+  },
+  {
+   "w": "contribute",
+   "pos": "verb",
+   "pron": "/kənˈtrɪbjuːt/",
+   "bn": "অবদান রাখা, চাঁদা দেওয়া",
+   "en": "to give money or help to a cause",
+   "ex": "They contributed to their fund."
+  },
+  {
+   "w": "sufficient",
+   "pos": "adj",
+   "pron": "/səˈfɪʃnt/",
+   "bn": "পর্যাপ্ত",
+   "en": "enough for a purpose",
+   "ex": "sufficient blankets and food"
+  },
+  {
+   "w": "empathy",
+   "pos": "noun",
+   "pron": "/ˈempəθi/",
+   "bn": "সমানুভূতি, অন্যের কষ্ট অনুভব করা",
+   "en": "the ability to feel what another person feels",
+   "ex": "Alex's empathy for the Romanians"
+  }
+ ],
+ "synant": [
+  {
+   "w": "distressed",
+   "bn": "যন্ত্রণাগ্রস্ত",
+   "syn": [
+    "agonised",
+    "afflicted",
+    "troubled"
+   ],
+   "ant": [
+    "happy",
+    "comforted",
+    "relieved"
+   ]
+  },
+  {
+   "w": "involvement",
+   "bn": "অংশগ্রহণ",
+   "syn": [
+    "participation",
+    "engagement",
+    "association"
+   ],
+   "ant": [
+    "detachment",
+    "withdrawal",
+    "aloofness"
+   ]
+  },
+  {
+   "w": "introvert",
+   "bn": "অন্তর্মুখী",
+   "syn": [
+    "reserved",
+    "shy",
+    "withdrawn"
+   ],
+   "ant": [
+    "extrovert",
+    "outgoing",
+    "sociable"
+   ]
+  },
+  {
+   "w": "vacant",
+   "bn": "শূন্য",
+   "syn": [
+    "empty",
+    "blank",
+    "expressionless"
+   ],
+   "ant": [
+    "full",
+    "lively",
+    "expressive"
+   ]
+  },
+  {
+   "w": "severe",
+   "bn": "তীব্র",
+   "syn": [
+    "harsh",
+    "extreme",
+    "intense"
+   ],
+   "ant": [
+    "mild",
+    "gentle",
+    "moderate"
+   ]
+  },
+  {
+   "w": "remote",
+   "bn": "প্রত্যন্ত",
+   "syn": [
+    "distant",
+    "far-off",
+    "isolated"
+   ],
+   "ant": [
+    "nearby",
+    "adjacent",
+    "central"
+   ]
+  },
+  {
+   "w": "hazard",
+   "bn": "ঝুঁকি",
+   "syn": [
+    "danger",
+    "risk",
+    "peril"
+   ],
+   "ant": [
+    "safety",
+    "security",
+    "protection"
+   ]
+  },
+  {
+   "w": "plea",
+   "bn": "আকুতি",
+   "syn": [
+    "appeal",
+    "entreaty",
+    "request"
+   ],
+   "ant": [
+    "demand",
+    "order",
+    "refusal"
+   ]
+  },
+  {
+   "w": "sufficient",
+   "bn": "পর্যাপ্ত",
+   "syn": [
+    "adequate",
+    "enough",
+    "ample"
+   ],
+   "ant": [
+    "insufficient",
+    "scanty",
+    "inadequate"
+   ]
+  },
+  {
+   "w": "proud",
+   "bn": "গর্বিত",
+   "syn": [
+    "pleased",
+    "gratified",
+    "honoured"
+   ],
+   "ant": [
+    "ashamed",
+    "humiliated"
+   ]
+  },
+  {
+   "w": "ashamed",
+   "bn": "লজ্জিত",
+   "syn": [
+    "embarrassed",
+    "guilty",
+    "abashed"
+   ],
+   "ant": [
+    "proud",
+    "shameless",
+    "unabashed"
+   ]
+  },
+  {
+   "w": "empathy",
+   "bn": "সমানুভূতি",
+   "syn": [
+    "compassion",
+    "fellow feeling",
+    "sympathy"
+   ],
+   "ant": [
+    "indifference",
+    "apathy",
+    "callousness"
+   ]
+  }
+ ],
+ "summaryEn": "Alex, an eleven-year-old Californian boy, was watching television with his parents when he saw a report about the severe winter in a remote Romanian town where people had no proper heating and were facing serious health hazards. Comparing his own warm and comfortable house with their distressing condition, he felt ashamed, and their vacant, lifeless eyes haunted him. At school Alex was an introvert who kept to himself, and his teachers were anxious about his examinations, especially as every student was expected to do something for the community and this involvement was continually monitored and assessed — a duty in which Alex had so far set no example. His teacher was therefore surprised when he came to her with a video clip of the Romanian town, but she listened with growing attention as he emotionally argued that the children there were like themselves and that they could not live in comfort leaving those people in distress. Moved by his plea, she asked about his plan, and he replied that the whole class was ready to donate a month's pocket money to save those lives. The teacher then guided the class into a project: they contacted the municipality of the Romanian town, obtained funds from their own lawmakers, and a small team led by the teacher travelled to Romania, spending a fortnight there helping the people install heating and supplying them with enough blankets and food. The school authority monitored the whole process, and everyone was proud of the students who had planned and executed the work themselves, given mental and emotional support to the sufferers, and returned home as young heroes.",
+ "summaryBn": "ক্যালিফোর্নিয়ার এগারো বছর বয়সী অ্যালেক্স বাবা-মায়ের সঙ্গে টিভি দেখতে দেখতে রোমানিয়ার এক প্রত্যন্ত শহরের প্রচণ্ড শীতের খবর দেখে, যেখানে মানুষের ঘরে উষ্ণতার ব্যবস্থা নেই এবং তারা গুরুতর স্বাস্থ্যঝুঁকিতে আছে। নিজের উষ্ণ আরামদায়ক ঘরের সঙ্গে তাদের কষ্টের তুলনা করে সে লজ্জিত হয়, আর তাদের শূন্য প্রাণহীন চোখ তাকে তাড়া করে ফেরে। বিদ্যালয়ে অ্যালেক্স ছিল অন্তর্মুখী, নিজের মধ্যে গুটিয়ে থাকা ছেলে; শিক্ষকেরা তার পরীক্ষার ফল নিয়ে চিন্তিত ছিলেন, বিশেষত যেখানে প্রতিটি শিক্ষার্থীর সমাজের জন্য কিছু করার কথা এবং সেই অংশগ্রহণ নিয়মিত মূল্যায়ন করা হয় — অথচ অ্যালেক্স এতদিন কোনো দৃষ্টান্তই স্থাপন করতে পারেনি। তাই সে যখন রোমানিয়ার শহরের ভিডিও ক্লিপ নিয়ে শিক্ষিকার কাছে এলো, তিনি অবাক হলেন; কিন্তু ছেলেটি আবেগভরে যখন বলল ওই শিশুরাও তাদেরই মতো এবং তাদের কষ্টে রেখে আরামে থাকা যায় না, তখন তিনি ক্রমশ মনোযোগী হলেন। তার আকুতিতে বিগলিত হয়ে শিক্ষিকা পরিকল্পনা জানতে চাইলে সে জানায়, পুরো ক্লাস এক মাসের পকেটমানি দান করতে প্রস্তুত। শিক্ষিকা তখন ক্লাসকে একটি প্রকল্পে নেতৃত্ব দেন: তারা রোমানিয়ার পৌরসভার সঙ্গে যোগাযোগ করে, নিজেদের আইনপ্রণেতাদের কাছ থেকে তহবিল সংগ্রহ করে এবং শিক্ষিকার নেতৃত্বে একটি ছোট দল রোমানিয়ায় গিয়ে দুই সপ্তাহ কাটিয়ে ঘরে উষ্ণতার ব্যবস্থা করতে সাহায্য করে ও পর্যাপ্ত কম্বল-খাবার সরবরাহ করে। বিদ্যালয় কর্তৃপক্ষ পুরো প্রক্রিয়া তদারক করে, আর সবাই গর্বিত হয় সেই শিক্ষার্থীদের নিয়ে, যারা নিজেরাই পরিকল্পনা করে তা বাস্তবায়ন করে তরুণ নায়ক হয়ে ফিরে আসে।",
+ "summaryTip": "**গল্পভিত্তিক Summary:** ঘটনার ক্রম ভাঙবে না — খবর → তুলনা ও লজ্জা → শিক্ষিকার কাছে যাওয়া → পরিকল্পনা → প্রকল্প → রোমানিয়া যাত্রা → ফিরে আসা। সংলাপ indirect করো।",
+ "mcq": [
+  {
+   "q": "Alex was upset by —",
+   "opts": [
+    "watching TV news on winter-affected people in Romania",
+    "the news of extreme winter in India",
+    "the news of the sufferings of road-side people",
+    "comparing his personal comfort only"
+   ],
+   "ans": 0,
+   "why": "প্রথম দুটি বাক্যেই আছে — রোমানিয়ার শীতার্ত মানুষের খবর দেখেই সে বিমর্ষ হয়। তুলনা করে লজ্জা এসেছে **পরে**, তাই (iv) নয়।"
+  },
+  {
+   "q": "The Romanian people were ___ in the cold.",
+   "opts": [
+    "distressed",
+    "jovial",
+    "doomed",
+    "fading"
+   ],
+   "ans": 0,
+   "why": "‘the distressing condition the Romanian people were in’ — তারা ছিল যন্ত্রণাগ্রস্ত = distressed."
+  },
+  {
+   "q": "The word ‘distressed’ mentioned in the passage means —",
+   "opts": [
+    "regret",
+    "playful",
+    "agonised",
+    "happy"
+   ],
+   "ans": 2,
+   "why": "Distressed = তীব্র কষ্টে থাকা = agonised. ‘Regret’ (অনুশোচনা) ভিন্ন অনুভূতি।"
+  },
+  {
+   "q": "Alex, as a boy, was not outgoing but he was positively —",
+   "opts": [
+    "cunning",
+    "extrovert",
+    "extravagant",
+    "emotional"
+   ],
+   "ans": 3,
+   "why": "‘The boy was very **emotional** when he said…’ — মিশুক না হলেও সে ছিল গভীর আবেগপ্রবণ ও সহানুভূতিশীল।"
+  },
+  {
+   "q": "The word ‘involvement’ in the passage refers to —",
+   "opts": [
+    "employment",
+    "participation",
+    "bereavement",
+    "hope"
+   ],
+   "ans": 1,
+   "why": "‘their involvement was to be continually monitored’ — এখানে involvement = সমাজকর্মে অংশগ্রহণ = participation."
+  },
+  {
+   "q": "Whose eyes were lifeless and vacant?",
+   "opts": [
+    "solvent people",
+    "annoying people",
+    "Alex",
+    "underprivileged winter affected people"
+   ],
+   "ans": 3,
+   "why": "‘He thought **their** eyes looked so vacant and lifeless’ — ‘their’ বলতে রোমানিয়ার শীতার্ত, সুবিধাবঞ্চিত মানুষদের বোঝানো হয়েছে।"
+  },
+  {
+   "q": "Alex was not a/an ___ boy in the school.",
+   "opts": [
+    "extrovert",
+    "introvert",
+    "timid",
+    "static"
+   ],
+   "ans": 0,
+   "why": "‘Alex was **not an outgoing boy**’ — outgoing = extrovert. অর্থাৎ সে extrovert ছিল না, বরং introvert ছিল।"
+  },
+  {
+   "q": "The teachers were worried about —",
+   "opts": [
+    "Alex's timid nature",
+    "Alex's introvert nature",
+    "Alex's performance in the exam",
+    "Alex's intention to help the poor"
+   ],
+   "ans": 2,
+   "why": "‘Teachers were worried about **how the introvert boy would do in the exams**’ — দুশ্চিন্তার বিষয় ছিল পরীক্ষার ফল, স্বভাব নয়।"
+  },
+  {
+   "q": "Learners' involvement in ___ would be continually monitored and assessed.",
+   "opts": [
+    "political activities",
+    "administrative activities",
+    "social activities",
+    "none of these"
+   ],
+   "ans": 2,
+   "why": "‘The students were supposed to do something **for the community**’ — সমাজের জন্য কাজ = social activities."
+  },
+  {
+   "q": "Students were supposed to do something for ___ consistently.",
+   "opts": [
+    "their relatives",
+    "fellow people",
+    "other people of the globe",
+    "their teachers"
+   ],
+   "ans": 1,
+   "why": "‘…do something for **the community**’ — community মানে নিজের চারপাশের সহনাগরিক = fellow people."
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "How could one explain Alex's empathy?",
+   "a": "Empathy means the power to feel another person's pain as if it were one's own, and Alex showed it perfectly. Though he lived far away in California, the news of the freezing people of a remote Romanian town made him upset. He compared his nicely heated house with their distressing condition and felt ashamed instead of feeling lucky. He said, ‘The kids are like us. We cannot live here in comfort leaving them in such distress.’ Finally he turned his feeling into action by planning to donate a month's pocket money — and true empathy is exactly this: feeling plus action.",
+   "bn": "Empathy মানে অন্যের কষ্ট নিজের বলে অনুভব করার ক্ষমতা — অ্যালেক্স তা পুরোপুরি দেখিয়েছে। দূর ক্যালিফোর্নিয়ায় থেকেও রোমানিয়ার শীতার্ত মানুষের খবরে সে বিমর্ষ হয়; নিজের উষ্ণ ঘরের সঙ্গে তুলনা করে সৌভাগ্যবান নয়, বরং লজ্জিত বোধ করে। সে বলে, ‘ওই বাচ্চারা আমাদেরই মতো।’ শেষে অনুভূতিকে কাজে পরিণত করে — এটাই প্রকৃত সমানুভূতি।"
+  },
+  {
+   "q": "‘Eyes looked so vacant and lifeless’ — What literary device does the writer use to highlight the miseries?",
+   "a": "The writer uses imagery here — a picture drawn in words that appeals to our sense of sight. Instead of stating that the Romanians were suffering, he shows us their eyes, empty and without any spark of life. The expression also works as a kind of synecdoche, since the eyes stand for the whole condition of the people. Such an image is far more powerful than any statistics, because a single glimpse of those hopeless eyes makes the reader feel the depth of their misery.",
+   "bn": "লেখক এখানে imagery বা চিত্রকল্প ব্যবহার করেছেন — শব্দে আঁকা এমন ছবি যা চোখের সামনে ভেসে ওঠে। কষ্টের কথা সরাসরি না বলে তিনি দেখিয়েছেন তাদের শূন্য, প্রাণহীন চোখ। এটি একধরনের অংশ দিয়ে সমগ্র বোঝানোও (synecdoche), কারণ চোখই এখানে গোটা দুর্দশার প্রতীক। পরিসংখ্যানের চেয়ে এই একটি ছবিই বেশি শক্তিশালী।"
+  },
+  {
+   "q": "Why was the teacher astonished at Alex's communal work initiative?",
+   "a": "The teacher was astonished for two reasons. First, Alex was not an outgoing boy; he mostly kept to himself, and the teachers were even worried about how such an introvert would do in the examinations. Secondly, although every student had to do something for the community and this involvement was continually monitored and assessed, Alex had so far set no example at all. So when this very quiet boy came to her with a video clip of a Romanian town and a plan to help its people, she could hardly believe it.",
+   "bn": "শিক্ষিকা দুটি কারণে অবাক হয়েছিলেন। প্রথমত, অ্যালেক্স মিশুক ছিল না, নিজের মধ্যেই থাকত; শিক্ষকেরা তার পরীক্ষার ফল নিয়েও চিন্তিত ছিলেন। দ্বিতীয়ত, সমাজকর্মে অংশগ্রহণ মূল্যায়িত হলেও অ্যালেক্স এতদিন কোনো দৃষ্টান্তই স্থাপন করেনি। তাই সেই চুপচাপ ছেলেটিই যখন ভিডিও ক্লিপ ও পরিকল্পনা নিয়ে এলো, তিনি বিস্মিত হলেন।"
+  },
+  {
+   "q": "What is the moral of Alex's story?",
+   "a": "The moral of the story is that true education is not confined to grades and certificates; it must awaken the heart and lead to work for humanity. Alex's story also teaches that age, shyness or distance is no barrier to doing good: an eleven-year-old introvert from California could warm the homes of a distant Romanian town. Above all it shows that empathy becomes meaningful only when it is turned into a plan and then into action, and that even a month's pocket money, given collectively, can save lives.",
+   "bn": "গল্পের নীতিশিক্ষা হলো, প্রকৃত শিক্ষা গ্রেড ও সার্টিফিকেটে সীমাবদ্ধ নয় — তা হৃদয় জাগিয়ে মানবতার কাজে নামায়। এটি আরও শেখায়, বয়স, লাজুকতা বা দূরত্ব ভালো কাজের বাধা নয়। সর্বোপরি, সমানুভূতি তখনই অর্থবহ হয় যখন তা পরিকল্পনা ও কাজে রূপ নেয়; এমনকি এক মাসের পকেটমানিও সম্মিলিতভাবে জীবন বাঁচাতে পারে।"
+  },
+  {
+   "q": "How did Alex stand out as a humanitarian worker and save the people?",
+   "a": "Alex stood out because he moved from feeling to organised action. He first collected evidence — a video clip of the Romanian town — and presented his case to his teacher. He had already talked to his classmates and secured their promise to donate a month's pocket money. Under the teacher's guidance the class took up a project, contacted the local municipality of the Romanian town and their own lawmakers, who contributed to the fund. A small team then went to Romania, helped the people put heating in their houses and supplied sufficient blankets and food, thus saving lives and returning home as young heroes.",
+   "bn": "অ্যালেক্স আলাদা হয়ে উঠেছিল কারণ সে অনুভূতি থেকে সংগঠিত কাজে গিয়েছিল। প্রথমে সে প্রমাণ সংগ্রহ করে (ভিডিও ক্লিপ), শিক্ষিকার কাছে যুক্তি তুলে ধরে; আগেই সহপাঠীদের রাজি করিয়ে এক মাসের পকেটমানির প্রতিশ্রুতি নেয়। শিক্ষিকার নেতৃত্বে ক্লাস প্রকল্প নেয়, রোমানিয়ার পৌরসভা ও নিজেদের আইনপ্রণেতাদের সঙ্গে যোগাযোগ করে তহবিল গড়ে এবং সেখানে গিয়ে উষ্ণতার ব্যবস্থা, কম্বল ও খাবার দিয়ে জীবন বাঁচায়।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "What / Who",
+   "Event / Occurrence",
+   "Why / When",
+   "Where"
+  ],
+  "rows": [
+   [
+    "Alex",
+    "(i) @was watching TV with his parents",
+    "when he came across the news of severe winter in Romania",
+    "at home"
+   ],
+   [
+    "People",
+    "were suffering",
+    "(ii) @from severe winter weather conditions and lack of proper heating",
+    "(iii) @in a remote town in Romania"
+   ],
+   [
+    "They",
+    "were distressed",
+    "(iv) @because they were facing serious health hazards",
+    "in their homes"
+   ],
+   [
+    "(v) @Alex",
+    "felt ashamed",
+    "(vi) @comparing the comfort of his heated house with their distressing condition",
+    "at home"
+   ],
+   [
+    "(vii) @The students' involvement in social activities",
+    "would be continually monitored and assessed",
+    "as a part of the programme",
+    "(viii) @in the school"
+   ],
+   [
+    "So far, Alex",
+    "couldn't set any example of doing anything",
+    "for the community",
+    "in (ix) @his own locality / community"
+   ],
+   [
+    "The teacher",
+    "was surprised",
+    "(x) @when Alex came to her with a video clip of the Romanian town",
+    "in the school"
+   ]
+  ],
+  "note": "‘Why/When’ কলামে কারণ বা সময়সূচক clause বসে — ‘when…’, ‘because…’, ‘comparing…’ দিয়ে শুরু করলে ব্যাকরণও ঠিক থাকে।"
+ },
+ "flow": {
+  "title": "Reaction of Alex after Watching the TV Programme — অ্যালেক্সের প্রতিক্রিয়া",
+  "items": [
+   {
+    "t": "Becoming upset",
+    "bn": "বিমর্ষ হয়ে পড়া (দেওয়া আছে)"
+   },
+   {
+    "t": "Comparing his comfort with the Romanians' distress",
+    "bn": "নিজের আরামের সঙ্গে তাদের কষ্টের তুলনা"
+   },
+   {
+    "t": "Feeling ashamed",
+    "bn": "লজ্জিত বোধ করা"
+   },
+   {
+    "t": "Going to his teacher with a video clip",
+    "bn": "ভিডিও ক্লিপ নিয়ে শিক্ষিকার কাছে যাওয়া"
+   },
+   {
+    "t": "Presenting his case emotionally and pleading for help",
+    "bn": "আবেগভরে যুক্তি তুলে ধরা ও সাহায্যের আকুতি"
+   },
+   {
+    "t": "Planning with classmates to donate a month's pocket money",
+    "bn": "সহপাঠীদের নিয়ে পকেটমানি দানের পরিকল্পনা"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "The Project Step by Step <span class='sub'>— প্রকল্পটি যেভাবে এগোল</span>",
+   "key": "Project Steps",
+   "table": {
+    "headers": [
+     "Step",
+     "What was done"
+    ],
+    "rows": [
+     [
+      "1. Idea",
+      "Alex brought a video clip of the Romanian town to his teacher"
+     ],
+     [
+      "2. Persuasion",
+      "He presented his case emotionally; his plea touched the teacher"
+     ],
+     [
+      "3. Pledge",
+      "The whole class agreed to donate a month of their pocket money"
+     ],
+     [
+      "4. Guidance",
+      "The teacher guided the class to take up a project"
+     ],
+     [
+      "5. Contact",
+      "They contacted the local municipality of the Romanian town"
+     ],
+     [
+      "6. Funding",
+      "They contacted their own lawmakers, who contributed to the fund"
+     ],
+     [
+      "7. Journey",
+      "A small team led by the teacher went to Romania"
+     ],
+     [
+      "8. Service",
+      "They spent a couple of weeks helping install heating and supplying blankets and food"
+     ],
+     [
+      "9. Assessment",
+      "The school authority monitored the whole process from first to last"
+     ],
+     [
+      "10. Return",
+      "They came back as young heroes and everyone was proud of them"
+     ]
+    ]
+   },
+   "note": "এই ১০টি ধাপই আসলে **service learning**-এর বাস্তব উদাহরণ — পরিকল্পনা, বাস্তবায়ন ও মূল্যায়ন, তিনটিই আছে।"
+  },
+  {
+   "title": "Character of Alex <span class='sub'>— বৈপরীত্যেই তার মহত্ত্ব</span>",
+   "key": "Alex",
+   "table": {
+    "headers": [
+     "Outward appearance",
+     "Inner reality"
+    ],
+    "rows": [
+     [
+      "Not outgoing; mostly kept to himself",
+      "Deeply emotional and empathetic"
+     ],
+     [
+      "An introvert about whom teachers worried",
+      "A leader who organised a whole class"
+     ],
+     [
+      "Only eleven years old",
+      "Thought like a responsible citizen"
+     ],
+     [
+      "Had set no example so far",
+      "Finally set the greatest example in the school"
+     ],
+     [
+      "Lived in comfort in California",
+      "Could not enjoy that comfort while others suffered"
+     ]
+    ]
+   },
+   "note": "‘Alex was not outgoing **but** he was positively emotional’ — এই বৈপরীত্যটিই প্রায় প্রতিটি প্রশ্নের চাবিকাঠি।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🔗",
+   "t": "Follow the cause–effect chain",
+   "d": "খবর → বিমর্ষ → তুলনা → লজ্জা → পরিকল্পনা → কাজ। প্রতিটি তীর একেকটি Flow chart-এর ঘর।"
+  },
+  {
+   "em": "🎭",
+   "t": "Contrast questions",
+   "type": "warn",
+   "d": "‘not outgoing **but** emotional’, ‘not an extrovert’ — but/not-যুক্ত বাক্য থেকেই সবচেয়ে বেশি MCQ হয়। দুই দিক আলাদা করে বোঝো।"
+  },
+  {
+   "em": "🖼️",
+   "t": "Name the literary device",
+   "d": "‘vacant and lifeless eyes’ = imagery. ‘What literary device?’ প্রশ্নে নাম + কাজ + প্রভাব — তিনটি লিখলে পূর্ণ ৩।"
+  },
+  {
+   "em": "🧒",
+   "t": "Alex's own words are quotable",
+   "type": "ok",
+   "d": "‘The kids are like us. We cannot live here in comfort leaving them in such distress.’ — Short Question-এ উদ্ধৃত করলে উত্তর প্রাণ পায়।"
+  },
+  {
+   "em": "🔄",
+   "t": "Link with the Civic Engagement lesson",
+   "d": "এই গল্পটি ‘Education Aims to Bring Positive Changes’ অধ্যায়ের **service learning**-এর জীবন্ত উদাহরণ। দুটো একসাথে পড়লে দুটোই সহজ হয়।"
+  },
+  {
+   "em": "🌍",
+   "t": "Moral questions need a general truth",
+   "d": "‘What is the moral?’ — গল্প নয়, শিক্ষা লিখো: শিক্ষা মানে শুধু গ্রেড নয়, মানবতার কাজ; সমানুভূতি কাজে রূপ নিলেই মূল্যবান।"
+  }
+ ],
+ "recap": [
+  "অ্যালেক্স: ক্যালিফোর্নিয়ার ১১ বছরের অন্তর্মুখী ছেলে, টিভিতে রোমানিয়ার শীতের খবর দেখে বিমর্ষ।",
+  "মূল বাক্য: ‘The kids are like us. We cannot live here in comfort leaving them in such distress.’",
+  "পরিকল্পনা: পুরো ক্লাসের এক মাসের পকেটমানি দান।",
+  "প্রকল্প: পৌরসভা ও আইনপ্রণেতাদের সঙ্গে যোগাযোগ → রোমানিয়া যাত্রা → heating, blanket, food.",
+  "ফল: বিদ্যালয় কর্তৃপক্ষের তদারকি, সবার গর্ব — তারা ফিরল ‘young heroes’ হয়ে।"
+ ],
+ "homework": [
+  "প্রকল্পের ১০টি ধাপ খাতায় লিখে আনবে।",
+  "অ্যালেক্সের চরিত্রের বৈপরীত্য টেবিল আকারে লিখবে।",
+  "‘What is the moral of Alex's story?’ — উত্তরটি নিজের ভাষায় লিখবে।",
+  "Summary ১৪০ শব্দে লিখে আনবে।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

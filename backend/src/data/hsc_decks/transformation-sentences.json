@@ -1,0 +1,405 @@
+{
+ "id": "transformation-sentences",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part A",
+ "unitName": "Grammar — Transformation",
+ "title": "Transformation — Simple, Complex, Compound &amp; Degree",
+ "titleBn": "বাক্য রূপান্তর — সরল, জটিল, যৌগিক ও ডিগ্রি",
+ "lede": "একই অর্থ, ভিন্ন গঠন। Clause গুনতে পারলেই বাক্যের ধরন চেনা যায়, আর ধরন চিনলেই রূপান্তরের নিয়ম হাতের মুঠোয়।",
+ "qType": "Grammar — Transformation of Sentences",
+ "minutes": 55,
+ "marks": "5",
+ "rulesTitle": "রূপান্তরের নিয়ম",
+ "rulesPerSlide": 2,
+ "objectives": [
+  {
+   "t": "Identify by counting clauses",
+   "d": "১টি finite verb = Simple, principal+subordinate = Complex, দুটি principal = Compound"
+  },
+  {
+   "t": "Simple ↔ Complex ↔ Compound",
+   "d": "তিন দিকেই রূপান্তরের নিয়ম"
+  },
+  {
+   "t": "Degree change",
+   "d": "Positive ↔ Comparative ↔ Superlative"
+  },
+  {
+   "t": "Solved board question",
+   "d": "১০টি বাক্য, প্রতিটির যুক্তিসহ"
+  },
+  {
+   "t": "Two live practice sets",
+   "d": "শ্রেণিকক্ষে সরাসরি অনুশীলন"
+  },
+  {
+   "t": "Traps &amp; tips",
+   "d": "যেখানে অর্থ বা গঠন ভেঙে যায়"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Identify",
+   "name": "কীভাবে চিনবে — clause গোনো",
+   "bn": "**Simple** = একটিমাত্র finite verb (একটি clause)। **Complex** = একটি principal + এক বা একাধিক subordinate clause (that, who, when, if, because…)। **Compound** = দুই বা ততোধিক principal clause (and, but, or, so)।",
+   "formulaLabel": "IDENTIFY",
+   "formula": "1 clause = Simple · principal + subordinate = Complex · principal + principal = Compound",
+   "ex": "**S:** He is too weak to walk. **C:** He is so weak that he cannot walk. **Cd:** He is very weak and cannot walk."
+  },
+  {
+   "no": "02",
+   "tag": "S→C",
+   "name": "Simple → Complex : participle → clause",
+   "bn": "Simple-এর **participle/phrase**-কে subordinate clause-এ ভাঙতে হয়। শুরুতে **as, since, when, because** বসিয়ে subject + verb যোগ করো।",
+   "formula": "V-ing phrase → when / as + sub + verb",
+   "ex": "**S:** Being ill, he could not come. → **C:** ==As he was ill==, he could not come."
+  },
+  {
+   "no": "03",
+   "tag": "S→C",
+   "name": "Simple → Complex : too … to",
+   "bn": "**too … to** গঠনকে **so … that + sub + cannot/could not + V1** করতে হয়।",
+   "formula": "too + adj + to → so + adj + that + sub + cannot + V1",
+   "ex": "**S:** He is too weak to walk. → **C:** He is ==so weak that he cannot walk==."
+  },
+  {
+   "no": "04",
+   "tag": "S→C",
+   "name": "Simple → Complex : noun/adjective phrase",
+   "bn": "কোনো noun-এর বিশেষণধর্মী phrase-কে **relative clause** (who/which/that) দিয়ে ভাঙা হয়।",
+   "formula": "Noun + phrase → Noun + who / which / that + verb",
+   "ex": "**S:** I know his address. → **C:** I know ==where he lives==."
+  },
+  {
+   "no": "05",
+   "tag": "C→S",
+   "name": "Complex → Simple : clause → phrase",
+   "bn": "Subordinate clause-কে **participle, infinitive বা preposition-phrase**-এ সংকুচিত করতে হয়।",
+   "formula": "As + sub + verb → V-ing / Being / In spite of + noun",
+   "ex": "**C:** As he was tired, he took rest. → **S:** ==Being tired==, he took rest."
+  },
+  {
+   "no": "06",
+   "tag": "C→S",
+   "name": "Complex → Simple : so … that",
+   "bn": "**so … that … cannot** গঠনকে **too … to** করা হয়; ইতিবাচক হলে **enough to**।",
+   "formula": "so + adj + that + cannot → too + adj + to",
+   "ex": "**C:** He is so strong that he can lift it. → **S:** He is ==strong enough to lift== it."
+  },
+  {
+   "no": "07",
+   "tag": "S→Cd",
+   "name": "Simple → Compound",
+   "bn": "Simple-এর phrase-কে পূর্ণ clause বানিয়ে **and, but, so, or** দিয়ে যুক্ত করতে হয়।",
+   "formula": "phrase → clause + and / but / so + clause",
+   "ex": "**S:** Being poor, he could not buy it. → **Cd:** He ==was poor and could not buy== it."
+  },
+  {
+   "no": "08",
+   "tag": "C→Cd",
+   "name": "Complex → Compound",
+   "bn": "Subordinate clause-কে principal clause বানিয়ে **and/but/so** দিয়ে যুক্ত করো। **Though/Although → but**, **As/Since/Because → and so**, **If → or / and**।",
+   "formulaLabel": "MAPPING",
+   "formula": "Though → but · As/Since → and so · If not → or",
+   "ex": "**C:** Though he is poor, he is honest. → **Cd:** He is poor ==but he is honest==."
+  },
+  {
+   "no": "09",
+   "tag": "Cd→C",
+   "name": "Compound → Complex",
+   "bn": "একটি principal clause-কে subordinate করতে হয় — **but → though/although**, **and so → as/since**, **or → if … not**।",
+   "formula": "but → Though … · and so → As … · or → If … not",
+   "ex": "**Cd:** He is poor but he is honest. → **C:** ==Though he is poor==, he is honest."
+  },
+  {
+   "no": "10",
+   "tag": "Degree",
+   "name": "Positive → Comparative",
+   "bn": "**not so/as … as** গঠনকে **comparative + than** করতে হয় — তুলনার দিক উল্টে যায়।",
+   "formula": "A is not so tall as B → B is taller than A",
+   "ex": "**P:** Rahim is not so tall as Karim. → **C:** ==Karim is taller than Rahim==."
+  },
+  {
+   "no": "11",
+   "tag": "Degree",
+   "name": "Comparative → Superlative",
+   "bn": "**greater than any other** গঠনকে **the + superlative** করতে হয়।",
+   "formula": "greater than any other X → the greatest X",
+   "ex": "**C:** Dhaka is bigger than any other city in Bangladesh. → **S:** Dhaka is ==the biggest city== in Bangladesh."
+  },
+  {
+   "no": "12",
+   "tag": "Degree",
+   "name": "Superlative → Positive / Comparative",
+   "bn": "**the + superlative** → Comparative-এ **greater than any other**; Positive-এ **No other … as … as**।",
+   "formula": "the biggest → bigger than any other → No other … as big as",
+   "ex": "**S:** He is the best boy. → **C:** He is better than any other boy. → **P:** ==No other boy is as good as he==."
+  },
+  {
+   "no": "13",
+   "tag": "Degree",
+   "name": "Very few / Not many দিয়ে তুলনা",
+   "bn": "‘খুব কম’ অর্থে Positive-এ **Very few … as … as**, Comparative-এ **greater than most other**, Superlative-এ **one of the greatest**।",
+   "formula": "one of the + superlative + plural noun",
+   "ex": "**S:** Dhaka is one of the biggest cities. → **P:** ==Very few cities are as big as Dhaka==."
+  },
+  {
+   "no": "14",
+   "tag": "Trap",
+   "name": "অর্থ যেন না বদলায়",
+   "bn": "রূপান্তরের একমাত্র শর্ত — **গঠন বদলাবে, অর্থ নয়**। উত্তর লিখে একবার পড়ে মিলিয়ে দেখো মূল বাক্যের অর্থ ঠিক আছে কি না।",
+   "formulaLabel": "GOLDEN RULE",
+   "formula": "Structure changes · Meaning stays",
+   "ex": "‘He is too weak to walk’ ≠ ‘He is so weak that he can walk’ — একটি শব্দেই অর্থ উল্টে যায়।"
+  }
+ ],
+ "boardQ": {
+  "instruction": "Transform the following sentences as directed. — নির্দেশ অনুযায়ী বাক্যগুলো রূপান্তর করো। (5)",
+  "text": "(a) Being ill, he could not attend the class. (Complex) (b) He is too weak to carry the box. (Complex) (c) Though he is poor, he is honest. (Simple) (d) As he was tired, he took rest. (Simple) (e) He is poor but he is happy. (Complex) (f) Dhaka is the biggest city in Bangladesh. (Comparative) (g) Rahim is not so tall as Karim. (Comparative) (h) He is the best boy in the class. (Positive) (i) If you do not read, you will fail. (Compound) (j) He is so strong that he can lift it. (Simple)",
+  "items": [
+   {
+    "ans": "As he was ill, he could not attend the class.",
+    "why": "Participle ‘Being ill’ → **As + sub + verb** clause. (নিয়ম ০২)"
+   },
+   {
+    "ans": "He is so weak that he cannot carry the box.",
+    "why": "**too … to → so … that + cannot + V1**. (নিয়ম ০৩)"
+   },
+   {
+    "ans": "In spite of his poverty, he is honest.",
+    "why": "Though-clause → **In spite of + noun** phrase = Simple. (নিয়ম ০৫)"
+   },
+   {
+    "ans": "Being tired, he took rest.",
+    "why": "As-clause → **participle** phrase = Simple. (নিয়ম ০৫)"
+   },
+   {
+    "ans": "Though he is poor, he is happy.",
+    "why": "Compound-এর **but → Though** = Complex. (নিয়ম ০৯)"
+   },
+   {
+    "ans": "Dhaka is bigger than any other city in Bangladesh.",
+    "why": "Superlative → **comparative + than any other**. (নিয়ম ১২)"
+   },
+   {
+    "ans": "Karim is taller than Rahim.",
+    "why": "‘not so … as’ → **comparative**, তুলনার দিক উল্টে যায়। (নিয়ম ১০)"
+   },
+   {
+    "ans": "No other boy in the class is as good as he.",
+    "why": "Superlative → Positive: **No other … as … as**. (নিয়ম ১২)"
+   },
+   {
+    "ans": "Read, or you will fail.",
+    "why": "If-not → **imperative + or** = Compound. (নিয়ম ০৮)"
+   },
+   {
+    "ans": "He is strong enough to lift it.",
+    "why": "so … that … can → **enough to** = Simple. (নিয়ম ০৬)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — Simple / Complex / Compound চেনা",
+   "intro": "আগে clause গুনে ধরন বলো, তারপর রূপান্তর করো।",
+   "items": [
+    {
+     "q": "In spite of his poverty, he is happy. (Complex)",
+     "ans": "Though he is poor, he is happy.",
+     "why": "Phrase → clause; In spite of → Though. (০২)"
+    },
+    {
+     "q": "He worked hard and he succeeded. (Simple)",
+     "ans": "Working hard, he succeeded.",
+     "why": "দুই clause → participle phrase। (০৫)"
+    },
+    {
+     "q": "As he is honest, all like him. (Compound)",
+     "ans": "He is honest and all like him.",
+     "why": "As → and so / and। (০৮)"
+    },
+    {
+     "q": "He is too poor to buy a car. (Complex)",
+     "ans": "He is so poor that he cannot buy a car.",
+     "why": "too…to → so…that + cannot। (০৩)"
+    },
+    {
+     "q": "I know his name. (Complex)",
+     "ans": "I know what his name is.",
+     "why": "Noun phrase → noun clause। (০৪)"
+    },
+    {
+     "q": "He is rich but he is unhappy. (Simple)",
+     "ans": "In spite of his riches, he is unhappy.",
+     "why": "Compound → Simple: but → In spite of + noun। (০৫)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — Degree পরিবর্তন",
+   "intro": "মনে রেখো — তুলনার দিক ঠিক রাখতে হবে, নইলে অর্থ উল্টে যাবে।",
+   "items": [
+    {
+     "q": "Iron is more useful than any other metal. (Superlative)",
+     "ans": "Iron is the most useful metal.",
+     "why": "than any other → the + superlative। (১১)"
+    },
+    {
+     "q": "No other boy is as clever as Rahim. (Superlative)",
+     "ans": "Rahim is the cleverest boy.",
+     "why": "No other … as … as → the + superlative। (১২)"
+    },
+    {
+     "q": "He is the tallest boy in the class. (Comparative)",
+     "ans": "He is taller than any other boy in the class.",
+     "why": "Superlative → comparative + than any other। (১২)"
+    },
+    {
+     "q": "Karim is not so wise as Rahim. (Comparative)",
+     "ans": "Rahim is wiser than Karim.",
+     "why": "not so…as → comparative; দিক উল্টে যায়। (১০)"
+    },
+    {
+     "q": "Dhaka is one of the biggest cities. (Positive)",
+     "ans": "Very few cities are as big as Dhaka.",
+     "why": "one of the + superlative → Very few … as … as। (১৩)"
+    },
+    {
+     "q": "Very few metals are as useful as iron. (Comparative)",
+     "ans": "Iron is more useful than most other metals.",
+     "why": "Very few … as … as → more … than most other। (১৩)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "Three forms of one meaning <span class='sub'>— একই অর্থ, তিন গঠন</span>",
+   "key": "Three Forms",
+   "table": {
+    "headers": [
+     "Simple",
+     "Complex",
+     "Compound"
+    ],
+    "rows": [
+     [
+      "Being ill, he could not come.",
+      "@As he was ill, he could not come.",
+      "@He was ill and could not come."
+     ],
+     [
+      "In spite of his poverty, he is honest.",
+      "@Though he is poor, he is honest.",
+      "@He is poor but he is honest."
+     ],
+     [
+      "He is too weak to walk.",
+      "@He is so weak that he cannot walk.",
+      "@He is very weak and cannot walk."
+     ],
+     [
+      "Working hard, he succeeded.",
+      "@As he worked hard, he succeeded.",
+      "@He worked hard and succeeded."
+     ],
+     [
+      "Without reading, you will fail.",
+      "@If you do not read, you will fail.",
+      "@Read, or you will fail."
+     ],
+     [
+      "He is strong enough to lift it.",
+      "@He is so strong that he can lift it.",
+      "@He is very strong and can lift it."
+     ]
+    ]
+   },
+   "note": "**পড়ার কৌশল:** এই ছকের সারিগুলো আড়াআড়ি পড়ো। একই অর্থের তিন রূপ একসাথে মনে থাকলে যেকোনো দিকেই রূপান্তর করা যায়।"
+  },
+  {
+   "title": "Degree change chart <span class='sub'>— তিন ডিগ্রির রূপান্তর</span>",
+   "key": "Degree",
+   "table": {
+    "headers": [
+     "Positive",
+     "Comparative",
+     "Superlative"
+    ],
+    "rows": [
+     [
+      "No other city is as big as Dhaka.",
+      "@Dhaka is bigger than any other city.",
+      "@Dhaka is the biggest city."
+     ],
+     [
+      "Very few boys are as good as he.",
+      "@He is better than most other boys.",
+      "@He is one of the best boys."
+     ],
+     [
+      "Rahim is not so tall as Karim.",
+      "@Karim is taller than Rahim.",
+      "@— (দুজনের তুলনায় superlative হয় না)"
+     ],
+     [
+      "Some metals are as useful as iron.",
+      "@Iron is not more useful than some metals.",
+      "@—"
+     ]
+    ]
+   },
+   "note": "**সূত্র:** superlative → ‘than any other’ → ‘No other … as … as’। উল্টো দিকেও একই পথ ধরে ফিরে আসো।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🔢",
+   "t": "Count the finite verbs first",
+   "type": "ok",
+   "d": "একটি finite verb = Simple; connector-সহ দুই clause = Complex/Compound। গোনা শিখলেই ধরন চেনা সহজ।"
+  },
+  {
+   "em": "🔁",
+   "t": "Learn the connector map",
+   "d": "Though ↔ but ↔ In spite of · As/Since ↔ and so ↔ Being · If not ↔ or ↔ Without। এই তিন-জোড়াই বেশিরভাগ প্রশ্ন ঢেকে দেয়।"
+  },
+  {
+   "em": "⚠️",
+   "t": "Meaning must survive",
+   "type": "warn",
+   "d": "রূপান্তরের পরে বাক্যটি পড়ে দেখো — মূল অর্থ বদলে গেলে পুরো নম্বর যায়, গঠন যতই সুন্দর হোক।"
+  },
+  {
+   "em": "↔️",
+   "t": "Degree: watch the direction",
+   "d": "‘Rahim is not so tall as Karim’ → **Karim** taller (Rahim নয়)। তুলনার দিক উল্টাতে ভুলো না।"
+  },
+  {
+   "em": "✍️",
+   "t": "Write the full sentence",
+   "d": "শুধু বদলে যাওয়া অংশ নয়, সম্পূর্ণ বাক্যটি লিখতে হবে — বড় হাতের অক্ষর ও দাঁড়িসহ।"
+  },
+  {
+   "em": "🎯",
+   "t": "One structure at a time",
+   "d": "নির্দেশে যা চাওয়া হয়েছে ঠিক সেটিই করো। Complex চাইলে Compound লিখলে নম্বর নেই।"
+  }
+ ],
+ "recap": [
+  "Simple = ১ clause; Complex = principal + subordinate; Compound = দুই principal।",
+  "Simple↔Complex: participle/phrase ↔ subordinate clause (as, though, if, that)।",
+  "Complex↔Compound: Though↔but, As/Since↔and so, If not↔or।",
+  "too…to ↔ so…that…cannot; enough to ↔ so…that…can।",
+  "Degree: the + superlative ↔ comparative + than any other ↔ No other … as … as।"
+ ],
+ "homework": [
+  "‘Three forms of one meaning’ ছকের ৬টি সারি মুখস্থ করবে।",
+  "Degree change ছকটি খাতায় তুলে আনবে।",
+  "বোর্ডের ১০টি বাক্য না দেখে রূপান্তর করবে।",
+  "নিজে ৫টি বাক্য লিখে তিন রূপেই (Simple/Complex/Compound) লিখবে।"
+ ],
+ "paper": "paper2"
+}

@@ -1,0 +1,1719 @@
+{
+  "unit": {
+    "id": "u5",
+    "number": 5,
+    "title": "Humans and Environment",
+    "bangla_title": "মানুষ ও পরিবেশ",
+    "lessons": [
+      {
+        "id": "u5l1",
+        "unit": 5,
+        "unit_title": "Humans and Environment",
+        "number": 1,
+        "title": "The Little Bird",
+        "author": "Leo Tolstoy",
+        "keywords": [
+          "bird-catching net",
+          "gasping for breath",
+          "caged bird",
+          "let it go"
+        ],
+        "learn_line": "A moving Tolstoy story about a boy, a caged bird, and the cruelty of taking away freedom.",
+        "minutes": 12,
+        "warmup": [
+          "Have you ever kept a bird or animal in a cage? How did it behave?",
+          "Is it right to catch wild birds for fun? Why or why not?",
+          "How would you feel if you were locked up and could not go free?",
+          "What do living things need besides food and water?"
+        ],
+        "reading": {
+          "summary_en": "In this story by Leo Tolstoy, a boy named Seryozha receives a bird-catching net for his birthday. His mother dislikes the gift and asks why he wants to torment little birds. Seryozha sets the net in the garden and catches a small bird called a siskin, which he keeps in a cage, promising to feed and care for it. For two days he feeds it, but on the third day he forgets to change its water. While cleaning the cage he leaves the little door open; the frightened siskin flies out, hits the glass window pane, and falls injured, gasping for breath. Seryozha cries, but his mother says there is nothing he can do. The next morning the siskin is dead, lying on its back with its legs curled up. After that, Seryozha never again caught another bird. The story teaches us to respect the freedom and lives of all creatures.",
+          "gist_bn": "লিও টলস্টয়ের এই গল্পে সেরিওঝা নামে এক বালক জন্মদিনে পাখি ধরার জাল উপহার পায়। তার মা এতে খুশি হন না। সেরিওঝা একটি ছোট পাখি (সিসকিন) ধরে খাঁচায় রাখে। দুদিন যত্ন নিলেও তৃতীয় দিন পানি বদলাতে ভুলে যায়। খাঁচা পরিষ্কারের সময় দরজা খোলা রেখে দিলে ভীত পাখিটি উড়ে গিয়ে কাচের জানালায় ধাক্কা খেয়ে আহত হয় ও কষ্টে শ্বাস নিতে থাকে। পরদিন সকালে পাখিটি মারা যায়। এরপর সেরিওঝা আর কখনো পাখি ধরেনি। গল্পটি প্রাণীর স্বাধীনতা ও জীবনকে শ্রদ্ধা করতে শেখায়।",
+          "book_page": 45
+        },
+        "vocab": [
+          {
+            "word": "siskin",
+            "pos": "noun",
+            "bangla": "এক ধরনের ছোট গায়ক পাখি",
+            "synonym": "songbird",
+            "antonym": "—",
+            "meaning_en": "a small songbird related to finches",
+            "example": "Seryozha caught a siskin in his net."
+          },
+          {
+            "word": "nightingale",
+            "pos": "noun",
+            "bangla": "নাইটিঙ্গেল পাখি",
+            "synonym": "songbird",
+            "antonym": "—",
+            "meaning_en": "a small bird known for its beautiful song",
+            "example": "He first thought the bird was a nightingale."
+          },
+          {
+            "word": "torment",
+            "pos": "verb",
+            "bangla": "যন্ত্রণা দেওয়া / কষ্ট দেওয়া",
+            "synonym": "torture, harass",
+            "antonym": "comfort, soothe",
+            "meaning_en": "to cause distress or suffering",
+            "example": "Why do you want to torment little birds?"
+          },
+          {
+            "word": "thrashing",
+            "pos": "verb (-ing)",
+            "bangla": "ছটফট করা",
+            "synonym": "flailing",
+            "antonym": "still",
+            "meaning_en": "moving violently or wildly",
+            "example": "The bird was thrashing about under the net."
+          },
+          {
+            "word": "perched",
+            "pos": "verb (past)",
+            "bangla": "বসা (উঁচুতে)",
+            "synonym": "sat, rested",
+            "antonym": "—",
+            "meaning_en": "sitting or resting on something high",
+            "example": "A bird perched on the board."
+          },
+          {
+            "word": "jerkily",
+            "pos": "adverb",
+            "bangla": "ঝাঁকি দিয়ে / অসমভাবে",
+            "synonym": "unevenly",
+            "antonym": "smoothly",
+            "meaning_en": "moving in sudden, sharp motions",
+            "example": "The siskin was breathing jerkily."
+          },
+          {
+            "word": "pane",
+            "pos": "noun",
+            "bangla": "কাচের শার্সি",
+            "synonym": "glass",
+            "antonym": "—",
+            "meaning_en": "a sheet of glass in a window",
+            "example": "The bird hit the glass pane."
+          },
+          {
+            "word": "windowsill",
+            "pos": "noun",
+            "bangla": "জানালার পাটাতন",
+            "synonym": "ledge",
+            "antonym": "—",
+            "meaning_en": "a ledge below a window",
+            "example": "It fell to the windowsill."
+          },
+          {
+            "word": "gasping",
+            "pos": "verb (-ing)",
+            "bangla": "হাঁপানো / কষ্টে শ্বাস নেওয়া",
+            "synonym": "panting",
+            "antonym": "breathing easily",
+            "meaning_en": "breathing with difficulty",
+            "example": "The siskin lay gasping for breath."
+          },
+          {
+            "word": "cage",
+            "pos": "noun",
+            "bangla": "খাঁচা",
+            "synonym": "coop, pen",
+            "antonym": "—",
+            "meaning_en": "an enclosure for keeping a bird or animal",
+            "example": "He put the bird in a cage."
+          },
+          {
+            "word": "frightened",
+            "pos": "adj",
+            "bangla": "ভীত / আতঙ্কিত",
+            "synonym": "scared, afraid",
+            "antonym": "calm, brave",
+            "meaning_en": "feeling fear",
+            "example": "The frightened bird beat its wings."
+          },
+          {
+            "word": "excited",
+            "pos": "adj",
+            "bangla": "উত্তেজিত / রোমাঞ্চিত",
+            "synonym": "thrilled",
+            "antonym": "calm, bored",
+            "meaning_en": "very happy and eager",
+            "example": "Seryozha was very excited."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "What did Seryozha receive as a gift from his uncle?",
+            "options": [
+              "a picture book",
+              "a bird-catching net",
+              "a hobby-horse",
+              "a cage"
+            ],
+            "answer_index": 1,
+            "explain": "His best gift was a net for catching birds."
+          },
+          {
+            "q": "Why did Seryozha's mother not like the net?",
+            "options": [
+              "it was too small",
+              "she did not want him to torment little birds",
+              "it was expensive",
+              "it was broken"
+            ],
+            "answer_index": 1,
+            "explain": "She asked why he wanted to torment little birds."
+          },
+          {
+            "q": "What kind of bird did Seryozha catch?",
+            "options": [
+              "a nightingale",
+              "a siskin",
+              "a sparrow",
+              "a parrot"
+            ],
+            "answer_index": 1,
+            "explain": "His mother told him it was a siskin."
+          },
+          {
+            "q": "On which day did Seryozha forget to care for the bird?",
+            "options": [
+              "the first day",
+              "the second day",
+              "the third day",
+              "the fifth day"
+            ],
+            "answer_index": 2,
+            "explain": "On the third day he forgot to change its water."
+          },
+          {
+            "q": "How did the siskin get hurt?",
+            "options": [
+              "a cat attacked it",
+              "it flew out and hit the glass pane",
+              "it fell from the cage",
+              "it was caught in the net again"
+            ],
+            "answer_index": 1,
+            "explain": "It flew out the open door and hit the window pane."
+          },
+          {
+            "q": "What does 'gasping' mean?",
+            "options": [
+              "singing loudly",
+              "breathing with difficulty",
+              "sleeping",
+              "flying high"
+            ],
+            "answer_index": 1,
+            "explain": "Gasping means breathing with difficulty."
+          },
+          {
+            "q": "What happened to the siskin in the end?",
+            "options": [
+              "it flew away free",
+              "it died",
+              "it sang happily",
+              "it was given to a friend"
+            ],
+            "answer_index": 1,
+            "explain": "The next morning the siskin was dead."
+          },
+          {
+            "q": "What did Seryozha do after the bird died?",
+            "options": [
+              "caught more birds",
+              "never caught another bird",
+              "bought a new net",
+              "forgot about it"
+            ],
+            "answer_index": 1,
+            "explain": "Never again did Seryozha catch another bird."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "What did Seryozha receive as a gift from his uncle?",
+            "model": "Seryozha received a net for catching birds from his uncle. It was the best of all his birthday gifts."
+          },
+          {
+            "q": "Why did Seryozha's mother not like the idea of catching birds?",
+            "model": "His mother did not like it because she felt it was cruel. She asked why he wanted to torment little birds instead of leaving them free."
+          },
+          {
+            "q": "What kind of bird did Seryozha catch, and how did he care for it at first?",
+            "model": "He caught a small bird called a siskin. At first he kept it in a cage and, for two days, fed it grain, changed its water and cleaned the cage."
+          },
+          {
+            "q": "How did the siskin get injured?",
+            "model": "While Seryozha was cleaning the cage, he left the little door open. The frightened siskin flew out, hit the glass window pane and fell to the windowsill, badly hurt."
+          },
+          {
+            "q": "What happened to the siskin in the end?",
+            "model": "The siskin lay gasping for breath all day. The next morning Seryozha found it dead, lying on its back with its legs curled up."
+          },
+          {
+            "q": "What lesson does the story teach us?",
+            "model": "The story teaches us to respect the freedom and lives of all creatures. Caging a wild bird for our pleasure can harm or kill it, so we should let living things live free."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "Seryozha's mother was happy with the bird-catching net.",
+            "is_true": false,
+            "correction": "His mother was not happy; she felt it was cruel to torment birds."
+          },
+          {
+            "statement": "Seryozha caught a siskin using the net.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Seryozha forgot to feed the bird on the second day.",
+            "is_true": false,
+            "correction": "He forgot to care for it (change its water) on the third day."
+          },
+          {
+            "statement": "The siskin flew into the window after escaping from the cage.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Seryozha's mother helped him catch the bird.",
+            "is_true": false,
+            "correction": "His mother did not help; she wanted him to let the bird go."
+          },
+          {
+            "statement": "Seryozha never tried to catch another bird after the siskin died.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "For his birthday, Seryozha received a (1)____ for catching birds. He caught a small bird called a (2)____ and kept it in a (3)____. One day he left the door open, and the bird hit the glass (4)____. The next morning the siskin was (5)____.",
+          "blanks": [
+            "net",
+            "siskin",
+            "cage",
+            "pane",
+            "dead"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Question",
+            "Answer from the story"
+          ],
+          "rows": [
+            [
+              "The gift from his uncle",
+              "a bird-catching net"
+            ],
+            [
+              "The bird he caught",
+              "a siskin"
+            ],
+            [
+              "Where he kept it",
+              "in a cage"
+            ],
+            [
+              "How it got hurt",
+              "hit the glass window pane"
+            ],
+            [
+              "What happened in the end",
+              "the siskin died"
+            ]
+          ],
+          "blanks": [
+            "a bird-catching net",
+            "a siskin",
+            "in a cage",
+            "hit the glass window pane",
+            "the siskin died"
+          ]
+        },
+        "match": {
+          "left": [
+            "nightingale",
+            "siskin",
+            "thrashing",
+            "torment",
+            "gasping"
+          ],
+          "right": [
+            "to cause distress or suffering",
+            "a small bird known for its song",
+            "breathing with difficulty",
+            "moving violently or wildly",
+            "a small songbird related to finches"
+          ],
+          "pairs": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              4,
+              2
+            ]
+          ]
+        },
+        "summary": {
+          "model": "In Tolstoy's story, a boy named Seryozha is given a bird-catching net for his birthday, despite his mother's dislike of tormenting birds. He catches a siskin and cages it, caring for it at first but soon forgetting. When he leaves the cage door open, the frightened bird flies into the glass window pane and falls, gasping for breath. By the next morning it is dead. Filled with sorrow, Seryozha never catches another bird, learning to respect the freedom of living creatures.",
+          "skeleton": "Seryozha got a bird-catching ____ and caught a ____. He kept it in a ____, but it flew into the glass ____ and died. After that he never caught another ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'We Should Be Kind to Animals' (about 100 words).",
+          "model": "All living creatures, big and small, have a right to live freely, and we should always be kind to them. Animals and birds feel pain, fear and joy just as we do. In Tolstoy's story, a little bird died simply because a boy caged it for his own pleasure, and the boy learned a hard lesson about cruelty. We should never catch wild birds, torment animals or destroy their homes. Instead, we can feed them, protect them and let them live in their natural surroundings. When we are kind to animals, we help to keep nature balanced and beautiful, and we become better, gentler human beings."
+        }
+      },
+      {
+        "id": "u5l2",
+        "unit": 5,
+        "unit_title": "Humans and Environment",
+        "number": 2,
+        "title": "Poems about Nature",
+        "is_poem": true,
+        "keywords": [
+          "wild geese",
+          "migration",
+          "frost",
+          "green escape",
+          "nature"
+        ],
+        "learn_line": "Two nature poems: one about wild geese sensing winter, one about escaping the city for the wild.",
+        "minutes": 12,
+        "warmup": [
+          "What signs in nature tell you that a season is changing?",
+          "Why do some birds fly away before winter?",
+          "Would you rather live in a busy city or quiet countryside? Why?",
+          "What sounds and sights of nature make you feel peaceful?"
+        ],
+        "vocab": [
+          {
+            "word": "lustre-glossed",
+            "pos": "adj",
+            "bangla": "চকচকে ও মসৃণ",
+            "synonym": "shiny, glossy",
+            "antonym": "dull",
+            "meaning_en": "shiny and smooth",
+            "example": "The berries were lustre-glossed."
+          },
+          {
+            "word": "cautioned",
+            "pos": "verb (past)",
+            "bangla": "সতর্ক করেছিল",
+            "synonym": "warned",
+            "antonym": "reassured",
+            "meaning_en": "gave a warning",
+            "example": "Something cautioned, 'Frost'."
+          },
+          {
+            "word": "sagging",
+            "pos": "verb (-ing)",
+            "bangla": "ঝুলে পড়া",
+            "synonym": "drooping",
+            "antonym": "rising",
+            "meaning_en": "hanging down or sinking",
+            "example": "The sagging orchards were heavy with fruit."
+          },
+          {
+            "word": "amber",
+            "pos": "noun/adj",
+            "bangla": "হলদে-বাদামি রঙ",
+            "synonym": "golden-brown",
+            "antonym": "—",
+            "meaning_en": "a warm, yellow-brown colour",
+            "example": "The orchards steamed with amber spice."
+          },
+          {
+            "word": "stiffened",
+            "pos": "verb (past)",
+            "bangla": "শক্ত হয়ে গেল",
+            "synonym": "hardened, tensed",
+            "antonym": "relaxed",
+            "meaning_en": "became hard or tense",
+            "example": "Each wild breast stiffened at remembered ice."
+          },
+          {
+            "word": "skyscraper",
+            "pos": "noun",
+            "bangla": "আকাশচুম্বী অট্টালিকা",
+            "synonym": "tall building",
+            "antonym": "—",
+            "meaning_en": "a very tall building",
+            "example": "I have turned from skyscrapers."
+          },
+          {
+            "word": "clarion",
+            "pos": "noun",
+            "bangla": "তূর্যধ্বনি / স্পষ্ট জোর শব্দ",
+            "synonym": "trumpet call",
+            "antonym": "whisper",
+            "meaning_en": "a loud, clear sound like a trumpet",
+            "example": "The swan lifts his crooked clarion."
+          },
+          {
+            "word": "marsh",
+            "pos": "noun",
+            "bangla": "জলাভূমি",
+            "synonym": "swamp, wetland",
+            "antonym": "desert",
+            "meaning_en": "wet, grassy land, often near water",
+            "example": "The swan calls across the marsh."
+          },
+          {
+            "word": "rooted",
+            "pos": "verb (past)",
+            "bangla": "শিকড় গেড়ে / দৃঢ়ভাবে স্থির",
+            "synonym": "fixed, grounded",
+            "antonym": "uprooted",
+            "meaning_en": "fixed firmly in place, like a plant",
+            "example": "Rooted in the deep ground, there will I be found."
+          },
+          {
+            "word": "tugging",
+            "pos": "verb (-ing)",
+            "bangla": "টানা",
+            "synonym": "pulling",
+            "antonym": "pushing",
+            "meaning_en": "pulling something with effort",
+            "example": "The sky was tugging at my hair."
+          }
+        ],
+        "poems": [
+          {
+            "title": "Something Told the Wild Geese",
+            "poet": "Rachel Field",
+            "theme": "The natural instinct of wild geese to sense the coming of winter and migrate.",
+            "central_idea": "In this poem, 'something' — an inner instinct of nature — secretly tells the wild geese that winter is near and it is time to fly away. Even though the fields still lie golden and the leaves are green and the berries shiny, a hidden warning whispers 'snow' and 'frost'. The geese feel a remembered cold stiffen their breasts, and so, with the summer sun still on their wings but winter already in their cry, they begin their long journey south. The poem shows the mysterious wisdom of nature that guides animals.",
+            "gist_bn": "এই কবিতায় 'কিছু একটা'—প্রকৃতির এক গোপন প্রবৃত্তি—বুনো হাঁসদের জানিয়ে দেয় যে শীত আসছে, এবার উড়ে যাওয়ার সময়। যদিও মাঠ এখনও সোনালি, পাতা সবুজ ও বেরি চকচকে, তবু এক গোপন সতর্কবার্তা ফিসফিসিয়ে বলে 'বরফ', 'তুষার'। মনে পড়া শীতের স্মৃতিতে হাঁসদের বুক শক্ত হয়ে ওঠে, আর ডানায় গ্রীষ্মের রোদ থাকলেও তাদের ডাকে শীতের সুর নিয়ে তারা যাত্রা শুরু করে। কবিতাটি প্রকৃতির রহস্যময় জ্ঞানের কথা বলে।",
+            "qa": [
+              {
+                "q": "What makes the geese decide to leave?",
+                "model": "An inner instinct of nature — described as 'something' — tells the wild geese that winter is coming and it is time to go. This hidden sense, not the visible weather, makes them decide to fly away."
+              },
+              {
+                "q": "What happens to the leaves and berries in the poem?",
+                "model": "In the poem the leaves are still green and stirring, and the berries are shiny and smooth (lustre-glossed). Outwardly everything still looks like summer, even though a warning of frost is near."
+              },
+              {
+                "q": "What changes in nature tell us that winter is near?",
+                "model": "The poem hints at winter through warnings of 'snow' and 'frost', the memory of ice that stiffens the birds' breasts, and the instinct that turns the geese southward, even while the fields still look golden."
+              },
+              {
+                "q": "How does the poet show the mystery of nature?",
+                "model": "The poet repeats that 'something told' and 'something whispered' and 'something cautioned' the geese, without naming it. This unseen 'something' is the mysterious wisdom of nature that guides the birds to migrate at the right time."
+              },
+              {
+                "q": "What is the meaning of 'Summer sun was on their wings, / Winter in their cry'?",
+                "model": "It means that although the warm summer sun still shone on the geese as they flew, their cries already carried the feeling of approaching winter. The line captures the moment of change between the two seasons."
+              },
+              {
+                "q": "What is the central message of the poem?",
+                "model": "The central message is that nature has a deep, mysterious wisdom. Animals like wild geese can sense seasonal change through instinct and act on it, reminding us of the quiet intelligence at work in the natural world."
+              }
+            ]
+          },
+          {
+            "title": "Green Escape",
+            "poet": "Joseph Auslander",
+            "theme": "Leaving the noisy, crowded city to find peace in nature.",
+            "central_idea": "In this poem, the speaker turns his face away from the streets, crowds and skyscrapers of the city toward a windy place full of clouds, grass and wild life. He longs to stand still in the grass among the humming bees, hear birds and the harsh cry of a wild swan, and watch the green beetle and the spotted stream. At the end, he wishes to be 'rooted in the deep ground' like a plant, fully at one with nature. The poem celebrates the peace, freedom and beauty found by escaping into the natural world.",
+            "gist_bn": "এই কবিতায় কবি শহরের রাস্তাঘাট, ভিড় ও আকাশচুম্বী অট্টালিকা থেকে মুখ ফিরিয়ে নেন মেঘ, বাতাস ও সবুজ প্রকৃতির দিকে। তিনি ঘাসের মধ্যে স্থির দাঁড়িয়ে মৌমাছির গুঞ্জন শুনতে চান, পাখি ও বুনো রাজহাঁসের তীক্ষ্ণ ডাক, সবুজ পোকা ও ঝরনার দৃশ্য উপভোগ করতে চান। শেষে তিনি গাছের মতো 'গভীর মাটিতে শিকড় গেড়ে' প্রকৃতির সঙ্গে একাত্ম হতে চান। কবিতাটি শহর ছেড়ে প্রকৃতির শান্তি, স্বাধীনতা ও সৌন্দর্যকে তুলে ধরে।",
+            "qa": [
+              {
+                "q": "Why does the speaker turn away from the streets and crowds?",
+                "model": "The speaker turns away from the streets, crowds and skyscrapers because he is tired of the noisy, crowded city life. He wants the peace, freedom and natural beauty of an open, windy place under the clouds."
+              },
+              {
+                "q": "What does the speaker hear and see in the grass?",
+                "model": "In the grass the speaker hears the bees droning as they pass and repass, and the bird at hush over her eggs. He watches the bees brushing gold across their legs and the green beetle shining bronze on bronze."
+              },
+              {
+                "q": "How does the speaker describe the sound of the swan?",
+                "model": "He describes the wild swan lifting his 'crooked clarion' high and harsh across the marsh — that is, a loud, clear, trumpet-like cry that rings out over the wetland."
+              },
+              {
+                "q": "Where does the speaker want to be found at the end of the poem?",
+                "model": "At the end, the speaker wants to be found 'rooted in the deep ground', standing in nature with the sky tugging at his hair, completely at one with the natural world rather than the city."
+              },
+              {
+                "q": "What does the title 'Green Escape' mean?",
+                "model": "The title means escaping from the grey, crowded city into the green world of nature. 'Green' stands for nature and life, and 'escape' shows the speaker's wish to leave the city behind for peace."
+              },
+              {
+                "q": "How does the poem contrast the city and nature?",
+                "model": "The poem contrasts the city — streets, crowds, skyscrapers that 'scratch out the sky', and wet newspapers — with nature — windy places, grass, bees, birds, a swan, a stream and deep ground. Nature is shown as peaceful and alive, the city as harsh and lifeless."
+              }
+            ]
+          }
+        ],
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'The Beauty of Nature' (about 100 words).",
+          "model": "Nature is full of beauty that refreshes our minds and lifts our hearts. In the countryside, golden fields stretch to the horizon, trees stir gently in the wind, and birds fill the air with song. Bees hum among the flowers, streams run sparkling over the stones, and wild geese cross the sky as the seasons change. Away from crowded streets and towering buildings, nature offers peace, freedom and quiet wonder. Poets like Rachel Field and Joseph Auslander remind us how deeply we long for this green world. To enjoy and protect the beauty of nature is one of the greatest joys of life."
+        }
+      },
+      {
+        "id": "u5l3",
+        "unit": 5,
+        "unit_title": "Humans and Environment",
+        "number": 3,
+        "title": "Dancing Bears (Brilliant Silence)",
+        "author": "Spencer Holst",
+        "keywords": [
+          "circus",
+          "Kodiak bears",
+          "wilderness",
+          "dance",
+          "full moon"
+        ],
+        "learn_line": "A strange, wonderful story of two circus bears who escape to the wild and pass on their dance.",
+        "minutes": 12,
+        "warmup": [
+          "Have you ever seen animals perform in a circus? How did they seem?",
+          "Do you think wild animals are happy living in captivity?",
+          "What might happen if trained animals were set free in the wild?",
+          "Can animals pass on learned behaviour to their young?"
+        ],
+        "reading": {
+          "summary_en": "In this story by Spencer Holst, two Alaskan Kodiak bears, a male and a female, join a small circus where they pull a wagon and are taught to somersault, spin and dance on their hind legs, paw in paw, in unison. They become favourites of the crowd. During a West Coast tour through Canada, the USA and South America down to Tierra del Fuego, a jaguar jumps a juggler and mauls the animal trainer, and the shocked show people disband in dismay. In the confusion the bears wander off into the wilderness of those remote, windy, subantarctic islands. In an ideal climate and far from people, the bears mate, thrive and multiply, and over generations they populate the whole island and even spread to nearby islands. Seventy years later, when scientists finally find them, they discover that all the bears still perform splendid circus tricks. On bright, full-moon nights the bears gather in a sparkling crater left by a meteorite and dance, paw in paw, in unison. Scientists believe the full moon reminds the bears of the circus spotlight. The story ends by wondering what music the bears can possibly hear as they dance under the moon and the Aurora Australis, in brilliant silence.",
+          "gist_bn": "স্পেন্সার হোল্স্টের এই গল্পে আলাস্কার দুটি কোডিয়াক ভালুক (একটি পুরুষ ও একটি স্ত্রী) একটি ছোট সার্কাসে যোগ দেয় এবং পেছনের পায়ে দাঁড়িয়ে একসঙ্গে নাচতে শেখে। সফরের সময় এক জাগুয়ার পশু-প্রশিক্ষককে আক্রমণ করলে আতঙ্কে দলটি ছত্রভঙ্গ হয়, আর গোলযোগে ভালুক দুটি তিয়েরা দেল ফুয়েগোর প্রত্যন্ত দ্বীপের বনে চলে যায়। আদর্শ আবহাওয়ায় তারা বংশবৃদ্ধি করে গোটা দ্বীপ ভরিয়ে ফেলে। সত্তর বছর পর বিজ্ঞানীরা দেখেন—সব ভালুকই সার্কাসের কসরত করতে পারে! পূর্ণিমার রাতে তারা উল্কাপাতে তৈরি গর্তে জড়ো হয়ে নাচে; বিজ্ঞানীদের ধারণা, পূর্ণ চাঁদ তাদের সার্কাসের আলোর কথা মনে করায়।",
+          "book_page": 51
+        },
+        "vocab": [
+          {
+            "word": "Kodiak",
+            "pos": "noun",
+            "bangla": "কোডিয়াক ভালুক",
+            "synonym": "brown bear",
+            "antonym": "—",
+            "meaning_en": "a type of large bear from Kodiak Island, Alaska",
+            "example": "Two Kodiak bears joined the circus."
+          },
+          {
+            "word": "somersault",
+            "pos": "noun/verb",
+            "bangla": "ডিগবাজি",
+            "synonym": "roll, flip",
+            "antonym": "—",
+            "meaning_en": "a movement of rolling completely over",
+            "example": "The bears were taught to somersault."
+          },
+          {
+            "word": "unison",
+            "pos": "noun",
+            "bangla": "একতানে / একসঙ্গে",
+            "synonym": "together, harmony",
+            "antonym": "discord",
+            "meaning_en": "doing something at the same time as others",
+            "example": "They danced paw in paw in unison."
+          },
+          {
+            "word": "jaguar",
+            "pos": "noun",
+            "bangla": "জাগুয়ার (বড় বুনো বিড়াল)",
+            "synonym": "big cat",
+            "antonym": "—",
+            "meaning_en": "a large wild cat found mainly in South America",
+            "example": "A jaguar mauled the trainer."
+          },
+          {
+            "word": "mauled",
+            "pos": "verb (past)",
+            "bangla": "ক্ষতবিক্ষত করা",
+            "synonym": "attacked, savaged",
+            "antonym": "—",
+            "meaning_en": "badly wounded by an animal",
+            "example": "The jaguar mortally mauled the trainer."
+          },
+          {
+            "word": "disbanded",
+            "pos": "verb (past)",
+            "bangla": "ভেঙে যাওয়া / ছত্রভঙ্গ",
+            "synonym": "broke up, dispersed",
+            "antonym": "gathered",
+            "meaning_en": "broke up and went separate ways",
+            "example": "The show people disbanded in dismay."
+          },
+          {
+            "word": "dismay",
+            "pos": "noun",
+            "bangla": "হতাশা / আতঙ্ক",
+            "synonym": "alarm, distress",
+            "antonym": "delight",
+            "meaning_en": "a feeling of shock and worry",
+            "example": "They fled in dismay and horror."
+          },
+          {
+            "word": "thrived",
+            "pos": "verb (past)",
+            "bangla": "সমৃদ্ধ হওয়া / বেড়ে ওঠা",
+            "synonym": "flourished",
+            "antonym": "declined",
+            "meaning_en": "grew and did very well",
+            "example": "The bears mated and thrived."
+          },
+          {
+            "word": "multiplied",
+            "pos": "verb (past)",
+            "bangla": "সংখ্যায় বৃদ্ধি পাওয়া",
+            "synonym": "increased, bred",
+            "antonym": "decreased",
+            "meaning_en": "grew greatly in number",
+            "example": "They multiplied over generations."
+          },
+          {
+            "word": "descendants",
+            "pos": "noun",
+            "bangla": "বংশধর",
+            "synonym": "offspring",
+            "antonym": "ancestors",
+            "meaning_en": "the later generations of a family",
+            "example": "The descendants still did circus tricks."
+          },
+          {
+            "word": "meteorite",
+            "pos": "noun",
+            "bangla": "উল্কাপিণ্ড",
+            "synonym": "space rock",
+            "antonym": "—",
+            "meaning_en": "a rock that has fallen from space",
+            "example": "They dance in a crater left by a meteorite."
+          },
+          {
+            "word": "speculate",
+            "pos": "verb",
+            "bangla": "অনুমান করা",
+            "synonym": "guess, suppose",
+            "antonym": "know",
+            "meaning_en": "to guess without being sure",
+            "example": "Scientists speculate about why the bears dance."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "What kind of bears joined the circus?",
+            "options": [
+              "polar bears",
+              "Alaskan Kodiak bears",
+              "panda bears",
+              "grizzly cubs"
+            ],
+            "answer_index": 1,
+            "explain": "Two Alaskan Kodiak bears joined the circus."
+          },
+          {
+            "q": "What were the bears taught to do?",
+            "options": [
+              "hunt fish",
+              "somersault, spin and dance in unison",
+              "ride bicycles",
+              "sing"
+            ],
+            "answer_index": 1,
+            "explain": "They were taught to somersault, spin and dance paw in paw."
+          },
+          {
+            "q": "What caused the show people to disband?",
+            "options": [
+              "a storm",
+              "a jaguar mauled the animal trainer",
+              "they ran out of money",
+              "the bears escaped first"
+            ],
+            "answer_index": 1,
+            "explain": "A jaguar mauled the trainer, and the shocked people disbanded."
+          },
+          {
+            "q": "Why did the bears thrive on the uninhabited island?",
+            "options": [
+              "local people fed them",
+              "they found an ideal climate and environment",
+              "they returned to the circus",
+              "they learned to fish from local animals"
+            ],
+            "answer_index": 1,
+            "explain": "They found an ideal climate and environment."
+          },
+          {
+            "q": "How long after the circus incident did scientists discover the bears again?",
+            "options": [
+              "20 years",
+              "50 years",
+              "70 years",
+              "100 years"
+            ],
+            "answer_index": 2,
+            "explain": "Seventy years later scientists found the bears."
+          },
+          {
+            "q": "What unusual discovery did scientists make about the descendants?",
+            "options": [
+              "they had become smaller",
+              "they performed circus tricks naturally",
+              "they developed new hunting techniques",
+              "they had become nocturnal"
+            ],
+            "answer_index": 1,
+            "explain": "All the descendants performed splendid circus tricks."
+          },
+          {
+            "q": "The bears gather to dance on nights with a full moon —",
+            "options": [
+              "on the shore by the ocean",
+              "in the forest near their dens",
+              "in a crater left by a meteorite",
+              "on a mountain peak"
+            ],
+            "answer_index": 2,
+            "explain": "They dance in a meteorite crater."
+          },
+          {
+            "q": "What feature makes the crater where the bears dance unique?",
+            "options": [
+              "it is covered with trees and flowers",
+              "its walls are chalk-white and reflective",
+              "it is filled with water and fish",
+              "it is surrounded by glaciers"
+            ],
+            "answer_index": 1,
+            "explain": "Its glassy, chalk-white walls reflect the moonlight."
+          },
+          {
+            "q": "What, scientists speculate, reminds the bears of their circus days?",
+            "options": [
+              "the sound of the wind",
+              "the presence of other animals",
+              "the full moon, which resembles the spotlight",
+              "the shape of the island"
+            ],
+            "answer_index": 2,
+            "explain": "The full moon reminds them of the circus spotlight."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Where did the two bears come from, and what did they do in the circus?",
+            "model": "The two bears were Alaskan Kodiak bears. In the circus they pulled a covered wagon in the parade and were taught to somersault, spin, stand on their heads and dance paw in paw in unison."
+          },
+          {
+            "q": "How did the bears come to be free in the wild?",
+            "model": "During a tour, a jaguar mauled the animal trainer, and the shocked show people disbanded in dismay. In the confusion the masterless bears wandered off into the wilderness."
+          },
+          {
+            "q": "Why did the bears thrive on the island?",
+            "model": "The bears thrived because they found an ideal climate and environment, far away from people. There they mated, multiplied and, over generations, populated the whole island."
+          },
+          {
+            "q": "What surprising thing did scientists discover seventy years later?",
+            "model": "Seventy years later, scientists discovered that all of the bears, every single one, could still perform splendid circus tricks, even though they had grown up in the wild."
+          },
+          {
+            "q": "How and where do the bears dance?",
+            "model": "On bright, full-moon nights the bears gather in a sparkling crater left by a meteorite. There, paw in paw, they dance in unison under the moon and the Aurora Australis."
+          },
+          {
+            "q": "Why do scientists think the bears dance under the full moon?",
+            "model": "Scientists speculate that the bright full moon reminds the bears of the circus spotlight under which their ancestors once danced, so the moonlight makes them gather and dance."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "The two bears were polar bears from the Arctic.",
+            "is_true": false,
+            "correction": "They were Alaskan Kodiak bears."
+          },
+          {
+            "statement": "The bears were taught to dance paw in paw in unison.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The show people disbanded because a jaguar mauled the trainer.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The bears thrived because local people fed them.",
+            "is_true": false,
+            "correction": "They thrived because they found an ideal climate and environment, away from people."
+          },
+          {
+            "statement": "Scientists found the bears again after seventy years.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The bears dance in a crater left by a meteorite under the full moon.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "Two Alaskan (1)____ bears were taught to dance in a circus. When a (2)____ mauled the trainer, the show people disbanded and the bears wandered into the (3)____. They thrived and (4)____ over generations. Seventy years later, scientists found that all the bears could still do circus tricks and danced under the full (5)____.",
+          "blanks": [
+            "Kodiak",
+            "jaguar",
+            "wilderness",
+            "multiplied",
+            "moon"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Who/what",
+            "Detail"
+          ],
+          "rows": [
+            [
+              "The bears",
+              "two Alaskan Kodiak bears"
+            ],
+            [
+              "What they learned",
+              "to dance paw in paw in unison"
+            ],
+            [
+              "Why they escaped",
+              "a jaguar mauled the trainer"
+            ],
+            [
+              "Why they thrived",
+              "an ideal climate and environment"
+            ],
+            [
+              "Where they dance",
+              "a meteorite crater, under the full moon"
+            ]
+          ],
+          "blanks": [
+            "two Alaskan Kodiak bears",
+            "to dance paw in paw in unison",
+            "a jaguar mauled the trainer",
+            "an ideal climate and environment",
+            "a meteorite crater, under the full moon"
+          ]
+        },
+        "match": {
+          "left": [
+            "The bears were",
+            "A jaguar mauled",
+            "The bears wandered into",
+            "After seventy years scientists",
+            "The full moon reminds them"
+          ],
+          "right": [
+            "the wilderness.",
+            "found them dancing.",
+            "Alaskan Kodiak bears.",
+            "of the circus spotlight.",
+            "the animal trainer."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ]
+        },
+        "summary": {
+          "model": "In Spencer Holst's story, two Alaskan Kodiak bears join a circus and learn to dance paw in paw in unison. On a tour through South America, a jaguar mauls their trainer, the troupe disbands, and the bears wander free into the wilderness of remote subantarctic islands. There, in an ideal climate, they mate, thrive and multiply until their descendants fill the island. Seventy years later, scientists are amazed to find that all the bears still perform circus tricks, gathering on full-moon nights to dance in a meteorite crater, as the moon reminds them of the spotlight.",
+          "skeleton": "Two ____ bears learned to dance in a circus. A ____ mauled the trainer, so the bears escaped to the ____. They thrived and ____. Years later they still danced under the full ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'Wild Animals Should Live in the Wild' (about 100 words).",
+          "model": "Wild animals belong in the wild, not in cages or circuses. In their natural surroundings, animals are free to roam, hunt, mate and live as nature intended. When they are captured and forced to perform tricks for human entertainment, they often suffer, even if they look amusing to the crowd. In Spencer Holst's story, two circus bears truly came alive only after they escaped into the wilderness, where they thrived and multiplied for generations. This shows how much animals need freedom and a natural home. Instead of trapping wild animals, we should protect their habitats and let them live peacefully in the wild."
+        }
+      },
+      {
+        "id": "u5l4",
+        "unit": 5,
+        "unit_title": "Humans and Environment",
+        "number": 4,
+        "title": "The Farming Teacher",
+        "author": "Tetsuko Kuroyanagi",
+        "keywords": [
+          "farming teacher",
+          "headmaster",
+          "learn by doing",
+          "field",
+          "crops"
+        ],
+        "learn_line": "How a simple farmer became a respected teacher by showing children how to plant a field.",
+        "minutes": 12,
+        "warmup": [
+          "Have you ever planted a seed or worked in a field? How did it feel?",
+          "Can someone who is not a trained teacher still teach us something valuable?",
+          "Why is it important to learn by actually doing things?",
+          "What can a farmer teach us that books cannot?"
+        ],
+        "reading": {
+          "summary_en": "In this text by Tetsuko Kuroyanagi, the headmaster, Mr Kobayashi, introduces a new teacher to the children, who are gathered by a pond at Kuhonbutsu Temple. The new teacher is not dressed like a teacher at all: he wears a striped cotton work jacket, patched trousers, rubber-soled work socks instead of shoes, and a dilapidated straw hat. Totto-chan suddenly recognises him as the farmer who works in the field by the stream that she passes on her walks. The man insists he is not a teacher but just a farmer, yet the headmaster calls him their 'farming teacher' and asks him to show the children how to plant a field, because he believed it important for children to learn by actually seeing and doing things. The farmer teaches the children to make furrows and plant seeds, and uses both his hands and words to explain. Day by day the children watch their field, and they feel a deep joy and wonder when they see the seeds they planted begin to sprout. They come to hold the farmer in high esteem, calling him their 'farming teacher'.",
+          "gist_bn": "তেতসুকো কুরোয়ানাগির এই লেখায় প্রধান শিক্ষক মি. কোবায়াশি শিশুদের কাছে এক নতুন শিক্ষককে পরিচয় করিয়ে দেন। নতুন শিক্ষক মোটেই শিক্ষকের মতো পোশাক পরেননি—ডোরাকাটা কাজের জ্যাকেট, তালি দেওয়া প্যান্ট, জুতার বদলে রবার-সোলের মোজা ও পুরোনো খড়ের টুপি। তোত্তো-চান চিনতে পারে—ইনি তো ঝরনার ধারে মাঠে কাজ করা কৃষক! কৃষক বলেন তিনি শিক্ষক নন, কিন্তু প্রধান শিক্ষক তাঁকে 'কৃষি-শিক্ষক' বলে শিশুদের মাঠে ফসল ফলানো শেখাতে বলেন, কারণ তিনি মনে করতেন হাতে-কলমে শেখা জরুরি। শিশুরা বীজ অঙ্কুরিত হতে দেখে আনন্দ পায় এবং কৃষককে শ্রদ্ধা করে।",
+          "book_page": 54
+        },
+        "vocab": [
+          {
+            "word": "dilapidated",
+            "pos": "adj",
+            "bangla": "জরাজীর্ণ",
+            "synonym": "run-down, shabby",
+            "antonym": "new, well-kept",
+            "meaning_en": "in a state of ruin due to age or neglect",
+            "example": "He wore a dilapidated straw hat."
+          },
+          {
+            "word": "furrow",
+            "pos": "noun",
+            "bangla": "হালরেখা / নালা",
+            "synonym": "trench, groove",
+            "antonym": "ridge",
+            "meaning_en": "a long narrow trench in the ground for planting seeds",
+            "example": "The farmer made furrows for the seeds."
+          },
+          {
+            "word": "implements",
+            "pos": "noun",
+            "bangla": "যন্ত্রপাতি / সরঞ্জাম",
+            "synonym": "tools, equipment",
+            "antonym": "—",
+            "meaning_en": "tools used for a specific purpose",
+            "example": "Farming implements help to plant a field."
+          },
+          {
+            "word": "nuisance",
+            "pos": "noun",
+            "bangla": "উপদ্রব / বিরক্তিকর বিষয়",
+            "synonym": "annoyance, bother",
+            "antonym": "delight",
+            "meaning_en": "something causing inconvenience or annoyance",
+            "example": "Weeds can be a real nuisance."
+          },
+          {
+            "word": "perspiration",
+            "pos": "noun",
+            "bangla": "ঘাম",
+            "synonym": "sweat",
+            "antonym": "—",
+            "meaning_en": "the process of sweating",
+            "example": "Hard work in the field brings perspiration."
+          },
+          {
+            "word": "esteem",
+            "pos": "noun",
+            "bangla": "শ্রদ্ধা / সম্মান",
+            "synonym": "respect, regard",
+            "antonym": "contempt",
+            "meaning_en": "respect and admiration",
+            "example": "The children held the farmer in high esteem."
+          },
+          {
+            "word": "attest",
+            "pos": "verb",
+            "bangla": "সাক্ষ্য দেওয়া / প্রমাণ করা",
+            "synonym": "confirm, prove",
+            "antonym": "deny",
+            "meaning_en": "to provide evidence or proof of something",
+            "example": "The growing crops attest to his good teaching."
+          },
+          {
+            "word": "gnarled",
+            "pos": "adj",
+            "bangla": "গিঁটযুক্ত ও খসখসে",
+            "synonym": "rough, twisted",
+            "antonym": "smooth",
+            "meaning_en": "rough and twisted, often from age or hard work",
+            "example": "His gnarled hands showed years of labour."
+          },
+          {
+            "word": "impeccable",
+            "pos": "adj",
+            "bangla": "নিখুঁত",
+            "synonym": "flawless, perfect",
+            "antonym": "flawed",
+            "meaning_en": "flawless or without any mistakes",
+            "example": "His knowledge of farming was impeccable."
+          },
+          {
+            "word": "qualifications",
+            "pos": "noun",
+            "bangla": "যোগ্যতা / সনদ",
+            "synonym": "credentials",
+            "antonym": "—",
+            "meaning_en": "the training or certificates one has",
+            "example": "He had no teaching qualifications."
+          },
+          {
+            "word": "headmaster",
+            "pos": "noun",
+            "bangla": "প্রধান শিক্ষক",
+            "synonym": "principal",
+            "antonym": "—",
+            "meaning_en": "the man in charge of a school",
+            "example": "Mr Kobayashi was the headmaster."
+          },
+          {
+            "word": "sprout",
+            "pos": "verb",
+            "bangla": "অঙ্কুরিত হওয়া",
+            "synonym": "grow, shoot up",
+            "antonym": "wither",
+            "meaning_en": "to begin to grow from a seed",
+            "example": "They saw the seeds they had planted sprout."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Who introduced the new teacher to the children?",
+            "options": [
+              "Totto-chan",
+              "the headmaster, Mr Kobayashi",
+              "the farmer himself",
+              "a parent"
+            ],
+            "answer_index": 1,
+            "explain": "The headmaster, Mr Kobayashi, introduced him."
+          },
+          {
+            "q": "What did the new teacher wear instead of shoes?",
+            "options": [
+              "leather boots",
+              "rubber-soled work socks",
+              "sandals",
+              "nothing"
+            ],
+            "answer_index": 1,
+            "explain": "He wore workmen's rubber-soled two-toed socks."
+          },
+          {
+            "q": "How did Totto-chan recognise the new teacher?",
+            "options": [
+              "he was her uncle",
+              "he was the farmer who works in the field by the stream",
+              "he taught her last year",
+              "he lived next door"
+            ],
+            "answer_index": 1,
+            "explain": "She recognised him as the farmer by the stream."
+          },
+          {
+            "q": "What were the children going to learn from the farming teacher?",
+            "options": [
+              "how to swim",
+              "how to plant a field",
+              "how to draw",
+              "how to cook"
+            ],
+            "answer_index": 1,
+            "explain": "They were going to learn how to plant a field."
+          },
+          {
+            "q": "Why didn't Mr Kobayashi worry about teaching qualifications?",
+            "options": [
+              "he forgot the rules",
+              "he thought it important for children to learn by doing",
+              "the farmer was famous",
+              "there were no other teachers"
+            ],
+            "answer_index": 1,
+            "explain": "He believed children should learn by actually seeing things done."
+          },
+          {
+            "q": "How did the farmer explain how to plant the field?",
+            "options": [
+              "only with words",
+              "using both his hands and words",
+              "by writing on a board",
+              "by showing a video"
+            ],
+            "answer_index": 1,
+            "explain": "He used both his hands and words to explain."
+          },
+          {
+            "q": "What did the children feel when they saw their seeds sprout?",
+            "options": [
+              "boredom",
+              "joy and wonder",
+              "fear",
+              "anger"
+            ],
+            "answer_index": 1,
+            "explain": "They felt the joy and wonder of seeing their own seeds grow."
+          },
+          {
+            "q": "How did the children come to regard the farmer?",
+            "options": [
+              "with fear",
+              "in high esteem, as their 'farming teacher'",
+              "with dislike",
+              "with pity"
+            ],
+            "answer_index": 1,
+            "explain": "They held him in high esteem and called him their farming teacher."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Who introduced the new teacher to the children?",
+            "model": "The headmaster, Mr Kobayashi, introduced the new teacher to the children, who were assembled by the pond at Kuhonbutsu Temple."
+          },
+          {
+            "q": "What did the new teacher wear instead of shoes?",
+            "model": "Instead of shoes, the new teacher wore workmen's thick, two-toed, rubber-soled socks. He also wore a striped work jacket, patched trousers and a dilapidated straw hat."
+          },
+          {
+            "q": "What were the children going to learn from the farming teacher?",
+            "model": "The children were going to learn how to plant a field — how to make furrows, sow seeds and grow crops — directly from the farmer."
+          },
+          {
+            "q": "How did the farming teacher reassure or help the children?",
+            "model": "The farmer used both his hands and his words to explain clearly how to plant the field, guiding the children step by step as they worked."
+          },
+          {
+            "q": "Why did Mr Kobayashi choose a farmer as a teacher?",
+            "model": "Mr Kobayashi did not worry about teaching qualifications. He thought it important for children to learn by actually seeing and doing things, so a real farmer was the perfect teacher for planting a field."
+          },
+          {
+            "q": "What did the children feel when they saw the seeds they had planted start to grow?",
+            "model": "They felt great joy and wonder at seeing the seeds they had planted themselves begin to sprout. They held the farmer in high esteem and proudly called him their 'farming teacher'."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "The headmaster introduced the new teacher as someone who would teach the children to farm.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The new teacher was wearing formal attire, including a necktie and dress shoes.",
+            "is_true": false,
+            "correction": "He wore a work jacket, patched trousers, rubber-soled socks and a straw hat, not formal attire."
+          },
+          {
+            "statement": "The teacher was recognised by Totto-chan as a farmer she had seen before.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The children were assembled in a classroom to begin their lesson.",
+            "is_true": false,
+            "correction": "The children were assembled by the pond at Kuhonbutsu Temple, outdoors."
+          },
+          {
+            "statement": "The teacher used both his hands and words to explain how to plant the field.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "The children felt a sense of joy and wonder while working on their field.",
+            "is_true": true,
+            "correction": ""
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "The children deeply (1)____ the farmer and affectionately called him their 'farming teacher' whenever they saw him. He supported their efforts by (2)____ surplus fertilizer, which helped their crops thrive. Each day, a student would check on the field and report its (3)____ to the headmaster and classmates. Through this experience, the children discovered the joy and wonder of seeing their own planted seeds grow. Their (4)____ was so great that whenever they gathered in small groups, their (5)____ naturally turned to the development of their field.",
+          "blanks": [
+            "esteemed",
+            "bringing",
+            "progress",
+            "joy",
+            "talk"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Who/what",
+            "Detail"
+          ],
+          "rows": [
+            [
+              "The new teacher",
+              "a farmer (not formally trained)"
+            ],
+            [
+              "His clothes",
+              "work jacket, patched trousers, straw hat"
+            ],
+            [
+              "Who recognised him",
+              "Totto-chan"
+            ],
+            [
+              "What he taught",
+              "how to plant a field"
+            ],
+            [
+              "What the children felt",
+              "joy and wonder at the sprouting seeds"
+            ]
+          ],
+          "blanks": [
+            "a farmer (not formally trained)",
+            "work jacket, patched trousers, straw hat",
+            "Totto-chan",
+            "how to plant a field",
+            "joy and wonder at the sprouting seeds"
+          ]
+        },
+        "match": {
+          "left": [
+            "The headmaster introduced",
+            "The teacher wore rubber socks",
+            "Totto-chan recognised him",
+            "The farmer taught the children",
+            "The children held the farmer"
+          ],
+          "right": [
+            "as the field-farmer.",
+            "in high esteem.",
+            "a new farming teacher.",
+            "how to plant a field.",
+            "instead of shoes."
+          ],
+          "pairs": [
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "In this story, the headmaster Mr Kobayashi introduces a humble farmer as the children's new 'farming teacher', because he believes children learn best by doing. Dressed in work clothes, a straw hat and rubber-soled socks, the farmer is recognised by Totto-chan as the man who works in the field by the stream. Though he insists he is only a farmer, he teaches the children to plant a field, using both his hands and words. As the children watch their own seeds sprout, they feel deep joy and come to hold him in high esteem.",
+          "skeleton": "The headmaster introduced a ____ as the children's new teacher, because he valued learning by ____. The farmer taught them to plant a ____. When the seeds began to ____, the children felt great joy and held him in high ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'Learning by Doing' (about 100 words).",
+          "model": "Learning by doing is one of the best ways to gain real knowledge. When we actually do a task with our own hands, we understand it far better than by only reading or listening about it. In the story of the farming teacher, the children did not learn farming from a book; instead, a real farmer showed them how to make furrows and plant seeds, and they worked in the field themselves. Their joy was complete when they saw their own seeds sprout and grow. This shows that practical experience makes lessons clear, lasting and enjoyable. Therefore, schools should give students chances to learn by actually doing things."
+        }
+      },
+      {
+        "id": "u5l5",
+        "unit": 5,
+        "unit_title": "Humans and Environment",
+        "number": 5,
+        "title": "Beauty of Our Small Ethnic Community Culture",
+        "keywords": [
+          "ethnic community",
+          "heritage",
+          "festival",
+          "mother tongue",
+          "harmony with nature"
+        ],
+        "learn_line": "The rich culture, festivals and nature-bound life of Bangladesh's small ethnic communities.",
+        "minutes": 12,
+        "warmup": [
+          "Which small ethnic communities of Bangladesh have you heard of?",
+          "What festivals do ethnic communities celebrate?",
+          "Why is a community's own language important?",
+          "How do these communities live in harmony with nature?"
+        ],
+        "reading": {
+          "summary_en": "Bangladesh is a land of scenic beauty where many small ethnic communities live peacefully in the hills, plains and forests. Although small in number, their cultural heritage is very rich and full of beauty, with unique ways of life, traditions and values. Each ethnic group has its own mother tongue that carries the stories, songs and intellectual contributions of their ancestors, and the government has introduced textbooks in five ethnic languages to protect their history and culture. These communities celebrate colourful festivals in handmade clothes whose designs reflect their cultural pride: Boisabi, Raj Punnah and Kothina Chibar Dan in the Chittagong Hill Tracts, and Sohrai, Wangala, Sangrai and Baha festivals elsewhere. Boisabi marks the Bangla New Year, Raj Punnah symbolises their unity and pride, and Kothina Chibar Dan is a religious festival of generosity and spiritual submission. Their musical instruments, folk songs and traditional dances carry their independent identity. Almost all the groups live in close harmony with nature, building their homes from natural resources, and solidarity and brotherhood are strong among them. However, in this age of modernisation they are struggling to keep their culture alive. Still, the beauty of these communities lies in their peaceful lifestyle, strong traditions and deep connection with nature, and they play a vital role in enriching the cultural heritage of our motherland.",
+          "gist_bn": "বাংলাদেশ এক নৈসর্গিক সৌন্দর্যের দেশ, যেখানে পাহাড়, সমতল ও বনে নানা ছোট নৃগোষ্ঠী শান্তিতে বাস করে। সংখ্যায় কম হলেও তাদের সাংস্কৃতিক ঐতিহ্য সমৃদ্ধ ও সুন্দর। প্রত্যেক নৃগোষ্ঠীর নিজস্ব মাতৃভাষা আছে যা পূর্বপুরুষের গল্প, গান ও জ্ঞান বহন করে; সরকার পাঁচটি ভাষায় পাঠ্যবই চালু করেছে। তারা রঙিন উৎসব পালন করে—পার্বত্য চট্টগ্রামে বৈসাবি, রাজ পুণ্যাহ, কঠিন চীবর দান; অন্যত্র সোহরাই, ওয়ানগালা, সাংগ্রাই, বাহা। তারা প্রকৃতির সঙ্গে মিলেমিশে থাকে, প্রাকৃতিক উপকরণে ঘর বানায়। আধুনিকতার যুগে সংস্কৃতি টিকিয়ে রাখতে তারা সংগ্রাম করছে।",
+          "book_page": 58
+        },
+        "vocab": [
+          {
+            "word": "ethnic community",
+            "pos": "noun",
+            "bangla": "নৃগোষ্ঠী / ক্ষুদ্র জাতিগোষ্ঠী",
+            "synonym": "minority group",
+            "antonym": "—",
+            "meaning_en": "a group sharing a distinct culture and language",
+            "example": "Many ethnic communities live in the hills."
+          },
+          {
+            "word": "heritage",
+            "pos": "noun",
+            "bangla": "ঐতিহ্য / উত্তরাধিকার",
+            "synonym": "legacy, tradition",
+            "antonym": "—",
+            "meaning_en": "the culture and traditions handed down from the past",
+            "example": "Their cultural heritage is very rich."
+          },
+          {
+            "word": "unique",
+            "pos": "adj",
+            "bangla": "অনন্য / স্বতন্ত্র",
+            "synonym": "distinctive",
+            "antonym": "ordinary, common",
+            "meaning_en": "unlike anything else",
+            "example": "Each group has a unique way of life."
+          },
+          {
+            "word": "foresaid",
+            "pos": "adj",
+            "bangla": "পূর্বোল্লিখিত",
+            "synonym": "aforementioned",
+            "antonym": "—",
+            "meaning_en": "previously mentioned",
+            "example": "They keep their identity through the foresaid aspects."
+          },
+          {
+            "word": "enriched",
+            "pos": "adj",
+            "bangla": "সমৃদ্ধ",
+            "synonym": "improved, enhanced",
+            "antonym": "impoverished",
+            "meaning_en": "made better or improved in quality",
+            "example": "Their enriched history must be protected."
+          },
+          {
+            "word": "reflect",
+            "pos": "verb",
+            "bangla": "প্রতিফলিত করা / ধারণ করা",
+            "synonym": "embody, represent",
+            "antonym": "—",
+            "meaning_en": "to embody or show something",
+            "example": "Their clothes reflect their cultural pride."
+          },
+          {
+            "word": "ancestors",
+            "pos": "noun",
+            "bangla": "পূর্বপুরুষ",
+            "synonym": "forefathers",
+            "antonym": "descendants",
+            "meaning_en": "the people from whom one is descended",
+            "example": "The songs carry the wisdom of their ancestors."
+          },
+          {
+            "word": "festival",
+            "pos": "noun",
+            "bangla": "উৎসব",
+            "synonym": "celebration",
+            "antonym": "—",
+            "meaning_en": "a special period of celebration",
+            "example": "Boisabi is a major festival."
+          },
+          {
+            "word": "harmony",
+            "pos": "noun",
+            "bangla": "সম্প্রীতি / মিল",
+            "synonym": "accord, concord",
+            "antonym": "conflict",
+            "meaning_en": "living together peacefully",
+            "example": "They live in close harmony with nature."
+          },
+          {
+            "word": "solidarity",
+            "pos": "noun",
+            "bangla": "সংহতি / একতা",
+            "synonym": "unity",
+            "antonym": "division",
+            "meaning_en": "unity and mutual support in a group",
+            "example": "Solidarity is strong among them."
+          },
+          {
+            "word": "modernisation",
+            "pos": "noun",
+            "bangla": "আধুনিকায়ন",
+            "synonym": "development",
+            "antonym": "—",
+            "meaning_en": "the process of becoming modern",
+            "example": "Modernisation threatens their old culture."
+          },
+          {
+            "word": "generosity",
+            "pos": "noun",
+            "bangla": "উদারতা",
+            "synonym": "kindness",
+            "antonym": "selfishness",
+            "meaning_en": "willingness to give freely",
+            "example": "Kothina Chibar Dan reflects their generosity."
+          }
+        ],
+        "mcqs": [
+          {
+            "q": "Where do the small ethnic communities of Bangladesh live?",
+            "options": [
+              "only in cities",
+              "in the hills, plains and forests",
+              "only abroad",
+              "only on islands"
+            ],
+            "answer_index": 1,
+            "explain": "They live peacefully in the hills, plains and forests."
+          },
+          {
+            "q": "What carries the stories and songs of each group's ancestors?",
+            "options": [
+              "their festivals",
+              "their mother tongue",
+              "their clothes",
+              "their houses"
+            ],
+            "answer_index": 1,
+            "explain": "Each group's mother tongue carries its ancestors' stories and songs."
+          },
+          {
+            "q": "In how many ethnic languages has the government introduced textbooks?",
+            "options": [
+              "two",
+              "three",
+              "five",
+              "ten"
+            ],
+            "answer_index": 2,
+            "explain": "Textbooks have been introduced in five ethnic languages."
+          },
+          {
+            "q": "Which festival marks the arrival of the Bangla New Year?",
+            "options": [
+              "Raj Punnah",
+              "Boisabi",
+              "Kothina Chibar Dan",
+              "Baha"
+            ],
+            "answer_index": 1,
+            "explain": "Boisabi marks the arrival of the Bangla New Year."
+          },
+          {
+            "q": "Kothina Chibar Dan is a festival that reflects —",
+            "options": [
+              "sporting skill",
+              "generosity and spiritual submission",
+              "farming success",
+              "trade and business"
+            ],
+            "answer_index": 1,
+            "explain": "It is a religious festival of generosity and spiritual submission."
+          },
+          {
+            "q": "How do almost all the ethnic groups live?",
+            "options": [
+              "far from nature",
+              "in close harmony with nature",
+              "in big cities",
+              "without any festivals"
+            ],
+            "answer_index": 1,
+            "explain": "They live in close harmony with nature."
+          },
+          {
+            "q": "Their homes are mostly made of —",
+            "options": [
+              "concrete and steel",
+              "natural resources",
+              "glass",
+              "imported materials"
+            ],
+            "answer_index": 1,
+            "explain": "Their homes are made of natural resources."
+          },
+          {
+            "q": "What is the main threat to these communities' culture today?",
+            "options": [
+              "lack of festivals",
+              "the age of modernisation",
+              "too many languages",
+              "good harvests"
+            ],
+            "answer_index": 1,
+            "explain": "In the age of modernisation they struggle to keep their culture alive."
+          }
+        ],
+        "short_answers": [
+          {
+            "q": "Where do the small ethnic communities of Bangladesh live?",
+            "model": "They live peacefully in the hills, plains and forests across the country. Although small in number, their cultural heritage is rich and full of beauty."
+          },
+          {
+            "q": "Why is each group's mother tongue important?",
+            "model": "Each ethnic group's mother tongue is important because it carries the stories, songs and intellectual contributions of their ancestors, connecting them with their history from generation to generation."
+          },
+          {
+            "q": "What festivals do these communities celebrate?",
+            "model": "They celebrate colourful festivals such as Boisabi, Raj Punnah and Kothina Chibar Dan in the Chittagong Hill Tracts, and Sohrai, Wangala, Sangrai and Baha festivals in other parts of the country."
+          },
+          {
+            "q": "How do these communities preserve their cultural identity?",
+            "model": "They preserve their identity through their languages, festivals, handmade clothes, musical instruments, folk songs and traditional dances, all of which reflect the richness of their heritage."
+          },
+          {
+            "q": "How do the ethnic groups live with nature?",
+            "model": "Almost all the ethnic groups live in close harmony with nature. Their homes are made of natural resources, and they share a strong sense of solidarity and brotherhood."
+          },
+          {
+            "q": "What challenge do these communities face, and why should we value them?",
+            "model": "In this age of modernisation, they are struggling to keep their culture alive. We should value them because their peaceful lifestyle, strong traditions and deep connection with nature enrich the cultural heritage of our motherland."
+          }
+        ],
+        "true_false": [
+          {
+            "statement": "The small ethnic communities live only in the big cities.",
+            "is_true": false,
+            "correction": "They live in the hills, plains and forests across the country."
+          },
+          {
+            "statement": "Each ethnic group has its own mother tongue.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Boisabi marks the arrival of the Bangla New Year.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Kothina Chibar Dan is a sports festival.",
+            "is_true": false,
+            "correction": "It is a religious festival reflecting generosity and spiritual submission."
+          },
+          {
+            "statement": "The ethnic groups live in close harmony with nature.",
+            "is_true": true,
+            "correction": ""
+          },
+          {
+            "statement": "Modernisation has made it easier to keep their culture alive.",
+            "is_true": false,
+            "correction": "In the age of modernisation they are struggling to keep their culture alive."
+          }
+        ],
+        "cloze": {
+          "text_with_blanks": "Bangladesh has many small ethnic communities whose cultural (1)____ is very rich. Each group has its own mother (2)____ that carries the songs of their ancestors. They celebrate colourful (3)____ such as Boisabi and Sangrai. They live in close (4)____ with nature and build homes from natural resources. But in the age of (5)____, they struggle to keep their culture alive.",
+          "blanks": [
+            "heritage",
+            "tongue",
+            "festivals",
+            "harmony",
+            "modernisation"
+          ]
+        },
+        "table": {
+          "headers": [
+            "Aspect",
+            "Detail"
+          ],
+          "rows": [
+            [
+              "Where they live",
+              "hills, plains and forests"
+            ],
+            [
+              "What carries their history",
+              "their mother tongue"
+            ],
+            [
+              "CHT festivals",
+              "Boisabi, Raj Punnah, Kothina Chibar Dan"
+            ],
+            [
+              "Relationship with nature",
+              "close harmony; homes of natural resources"
+            ],
+            [
+              "Main challenge",
+              "keeping culture alive amid modernisation"
+            ]
+          ],
+          "blanks": [
+            "hills, plains and forests",
+            "their mother tongue",
+            "Boisabi, Raj Punnah, Kothina Chibar Dan",
+            "close harmony; homes of natural resources",
+            "keeping culture alive amid modernisation"
+          ]
+        },
+        "match": {
+          "left": [
+            "heritage",
+            "unique",
+            "foresaid",
+            "enriched",
+            "reflect"
+          ],
+          "right": [
+            "unlike anything else",
+            "embody or represent",
+            "previously mentioned",
+            "tradition handed down",
+            "made better in quality"
+          ],
+          "pairs": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              1
+            ]
+          ]
+        },
+        "summary": {
+          "model": "Bangladesh is home to many small ethnic communities living peacefully in the hills, plains and forests. Though few in number, they have a rich cultural heritage, with unique traditions, mother tongues that preserve their ancestors' stories, and colourful festivals such as Boisabi, Raj Punnah and Sangrai. Their handmade clothes, folk songs and dances reflect their identity, and they live in close harmony with nature, building homes from natural resources. Yet, in this age of modernisation, they struggle to keep their culture alive, even as they enrich the heritage of the whole country.",
+          "skeleton": "Bangladesh has small ethnic communities with rich ____. Each has its own mother ____ and colourful ____ like Boisabi. They live in ____ with nature, but struggle to keep their culture alive amid ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'The Ethnic Communities of Bangladesh' (about 100 words).",
+          "model": "Bangladesh is a land of many small ethnic communities who live peacefully in the hills, plains and forests. Though small in number, they possess a rich and beautiful cultural heritage, with their own languages, traditions and values. Each group has a mother tongue that carries the stories and songs of its ancestors. They celebrate colourful festivals such as Boisabi, Raj Punnah, Sangrai and Baha, wearing handmade clothes whose designs show their pride. Living in close harmony with nature, they build their homes from natural resources and share strong bonds of brotherhood. By protecting their unique culture, we help to enrich the heritage of our beloved motherland."
+        }
+      }
+    ]
+  }
+}

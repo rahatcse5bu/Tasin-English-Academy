@@ -1,0 +1,566 @@
+{
+ "id": "connectors",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part A",
+ "unitName": "Grammar — Linking &amp; Structure",
+ "title": "Sentence Connectors — Complete Master Handnote",
+ "titleBn": "বাক্য সংযোজক (Linking Words)",
+ "lede": "Connectors হলো সেই শব্দ যা দুটি বাক্য বা clause-এর মাঝে সম্পর্ক তৈরি করে। ২১টি সম্পর্ক-শ্রেণি, প্রতিটির শব্দভান্ডার ও উদাহরণ — শেষে একাডেমির ১০টি Supreme Magic Trick.",
+ "qType": "Grammar — Sentence Connectors",
+ "minutes": 55,
+ "marks": "0.5×10 = 5",
+ "rulesTitle": "কোন সম্পর্কে কোন Connector",
+ "rulesPerSlide": 2,
+ "objectives": [
+  {
+   "t": "Understand what a connector does",
+   "d": "দুটি বাক্য/clause-এর মধ্যে সম্পর্ক তৈরি করাই এর কাজ"
+  },
+  {
+   "t": "21 relations with their word banks",
+   "d": "যোগ, বৈপরীত্য, কারণ, ফল, শর্ত, উদ্দেশ্য…"
+  },
+  {
+   "t": "Know which relation the blank needs",
+   "d": "খালিঘরে কোন সম্পর্ক দরকার — সেটিই আসল সিদ্ধান্ত"
+  },
+  {
+   "t": "Solve a full board question",
+   "d": "১০টি খালিঘর, প্রতিটির যুক্তিসহ"
+  },
+  {
+   "t": "Two live practice sets",
+   "d": "শ্রেণিকক্ষে সরাসরি অনুশীলন"
+  },
+  {
+   "t": "The 10 Supreme Magic Tricks",
+   "d": "একাডেমির নিজস্ব কৌশল — কমা, should, clause vs phrase…"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Basic",
+   "name": "Addition — যোগ করতে",
+   "bn": "আগের কথার সাথে **অতিরিক্ত কিছু যোগ** করতে এই connector গুলো বসে।",
+   "formulaLabel": "WORD BANK",
+   "formula": "And · Also · Besides · Moreover · Furthermore · In addition · Not only… but also",
+   "ex": "He is a brilliant student. ==Moreover==, he is a good cricketer."
+  },
+  {
+   "no": "02",
+   "tag": "Basic",
+   "name": "Contrast / Opposition — বৈপরীত্য বোঝাতে",
+   "bn": "আগের কথার **উল্টো বা বিপরীত** কিছু বলতে এগুলো বসে।",
+   "formulaLabel": "WORD BANK",
+   "formula": "But · However · On the other hand · Though / Although · In spite of / Despite · Nevertheless · Yet",
+   "ex": "He is poor. ==However==, he is honest."
+  },
+  {
+   "no": "03",
+   "tag": "Basic",
+   "name": "Cause / Reason — কারণ বোঝাতে",
+   "bn": "কোনো ঘটনার **কারণ** বোঝাতে এগুলো ব্যবহার হয়।",
+   "formulaLabel": "WORD BANK",
+   "formula": "Because · As / Since · Because of / Due to / Owing to · For",
+   "ex": "==Since== it was raining heavily, I could not go to the academy.",
+   "note": "Because / As / Since + Subject + Verb; কিন্তু Because of / Due to + Noun."
+  },
+  {
+   "no": "04",
+   "tag": "Basic",
+   "name": "Effect / Result — ফলাফল বোঝাতে",
+   "bn": "কোনো কাজের **ফল বা পরিণতি** বোঝাতে এগুলো বসে।",
+   "formulaLabel": "WORD BANK",
+   "formula": "So / Therefore · As a result · Consequently · Thus · Hence",
+   "ex": "He wasted his time. ==As a result==, he failed the exam."
+  },
+  {
+   "no": "05",
+   "tag": "Basic",
+   "name": "Time / Sequence — ধারাবাহিকতা বোঝাতে",
+   "bn": "কাজের **ক্রম বা সময়** বোঝাতে এই শব্দগুলো ব্যবহৃত হয়।",
+   "formulaLabel": "WORD BANK",
+   "formula": "First · Second · Then · Next · After that · Finally · Meanwhile · Nowadays · At present",
+   "ex": "==First==, read the question. ==Then==, write your answer."
+  },
+  {
+   "no": "06",
+   "tag": "Basic",
+   "name": "Example / Illustration — উদাহরণ দিতে",
+   "bn": "কোনো কথার **উদাহরণ** দিতে এগুলো বসে।",
+   "formulaLabel": "WORD BANK",
+   "formula": "For example · For instance · Such as · Namely · Like",
+   "ex": "There are many beautiful places, ==such as== Cox's Bazar and Sylhet."
+  },
+  {
+   "no": "07",
+   "tag": "Basic",
+   "name": "Condition — শর্ত বোঝাতে",
+   "bn": "কোনো **শর্ত** যুক্ত করতে এগুলো ব্যবহৃত হয়।",
+   "formulaLabel": "WORD BANK",
+   "formula": "If · Unless (যদি না) · Provided that · In case",
+   "ex": "==If== you practise English every day, you will become fluent."
+  },
+  {
+   "no": "08",
+   "tag": "Advanced",
+   "name": "Purpose — উদ্দেশ্য বোঝাতে",
+   "bn": "কোনো কাজের **উদ্দেশ্য** বোঝাতে এগুলো বসে। **Lest** (পাছে ভয় হয় যে) নেতিবাচক উদ্দেশ্যে বসে এবং তার পরে should/might আসে।",
+   "formulaLabel": "WORD BANK",
+   "formula": "So that / In order that · In order to · Lest + sub + should/might + V1",
+   "ex": "He studied meticulously all night ==lest== he ==should== fail the admission test."
+  },
+  {
+   "no": "09",
+   "tag": "Advanced",
+   "name": "Comparison — তুলনা বা মিল বোঝাতে",
+   "bn": "দুটি বিষয়ের মধ্যে **মিল বা সাদৃশ্য** বোঝাতে এগুলো ব্যবহৃত হয়।",
+   "formulaLabel": "WORD BANK",
+   "formula": "Similarly · Likewise · In the same way · Correspondingly",
+   "ex": "Deforestation destroys habitats. ==Similarly==, it accelerates climate change."
+  },
+  {
+   "no": "10",
+   "tag": "Advanced",
+   "name": "Emphasis / Reality — জোর দিতে",
+   "bn": "কোনো কথায় **জোর দিতে** বা প্রকৃত সত্য প্রকাশ করতে এগুলো বসে।",
+   "formulaLabel": "WORD BANK",
+   "formula": "In fact · Actually · Indeed · As a matter of fact",
+   "ex": "He looks calm. ==In fact==, he is deeply worried."
+  },
+  {
+   "no": "11",
+   "tag": "Advanced",
+   "name": "Alternative / Choice — বিকল্প বোঝাতে",
+   "bn": "‘**অন্যথায় / নাহলে**’ অর্থে বিকল্প পরিণতি বোঝাতে এগুলো বসে।",
+   "formulaLabel": "WORD BANK",
+   "formula": "Otherwise · Or else · Either… or · Neither… nor",
+   "ex": "You must comply with the guidelines; ==otherwise==, you will be terminated."
+  },
+  {
+   "no": "12",
+   "tag": "Advanced",
+   "name": "Relative Pronouns as Connectors",
+   "bn": "Relative pronoun দুটি বাক্যকে জোড়া লাগায়। **Who/Whom** = ব্যক্তি, **Which/That** = বস্তু, **Where** = স্থান, **Whose** = মালিকানা।",
+   "formulaLabel": "STRUCTURE",
+   "formula": "person → who/whom · thing → which/that · place → where · possession → whose",
+   "ex": "The scientist ==who== invented this drug received an award, ==which== is a great pride."
+  },
+  {
+   "no": "13",
+   "tag": "Advanced",
+   "name": "Instant Action — তাৎক্ষণিক কাজ বোঝাতে",
+   "bn": "একটি কাজ শেষ হতে না হতেই আরেকটি ঘটেছে — এই **তাৎক্ষণিকতা** বোঝাতে এগুলো বসে।",
+   "formulaLabel": "STRUCTURE",
+   "formula": "As soon as + sub + V2 · No sooner had + sub + V3 + than + sub + V2",
+   "ex": "==No sooner had== the guest arrived ==than== the storm began."
+  },
+  {
+   "no": "14",
+   "tag": "Advanced",
+   "name": "Summarizing / Conclusion — পরিশেষে বলতে",
+   "bn": "লেখার **শেষে সিদ্ধান্ত টানতে** এই শব্দগুলো ব্যবহৃত হয়।",
+   "formulaLabel": "WORD BANK",
+   "formula": "In conclusion · To sum up · In a nutshell · To conclude · In short",
+   "ex": "==In conclusion==, hard work is the key to success."
+  },
+  {
+   "no": "15",
+   "tag": "Advanced",
+   "name": "Clarification — আরও পরিষ্কার করে বলতে",
+   "bn": "আগের কথাটিকে **অন্যভাবে ব্যাখ্যা করে** বোঝাতে এগুলো বসে।",
+   "formulaLabel": "WORD BANK",
+   "formula": "In other words · That is to say · Namely · To put it simply",
+   "ex": "He is economical; ==in other words==, he never wastes money."
+  },
+  {
+   "no": "16",
+   "tag": "Advanced",
+   "name": "Parallel Increase — ‘যত… তত…’ বোঝাতে",
+   "bn": "একটির সাথে আরেকটি **সমান তালে বাড়ে** — এই সম্পর্ক বোঝাতে ‘The more… the more…’ গঠন ব্যবহৃত হয়।",
+   "formulaLabel": "STRUCTURE",
+   "formula": "The + comparative + … , the + comparative + …",
+   "ex": "==The more== you read complex texts, ==the easier== they become to understand."
+  },
+  {
+   "no": "17",
+   "tag": "Master",
+   "name": "Supposition / Unreal — ‘যেন’ বোঝাতে",
+   "bn": "**অবাস্তব কল্পনা বা ‘যেন’** বোঝাতে As if / As though বসে। আগের অংশ Present হলে পরে V2 (be হলে were), আগের অংশ Past হলে পরে had + V3।",
+   "formulaLabel": "STRUCTURE",
+   "formula": "Present + as if + sub + V2/were · Past + as if + sub + had + V3",
+   "ex": "He speaks confidently about quantum physics ==as if== he ==were== a seasoned scientist."
+  },
+  {
+   "no": "18",
+   "tag": "Master",
+   "name": "Duration / Limit — সময়সীমা বোঝাতে",
+   "bn": "**যতক্ষণ পর্যন্ত / যতদিন** — সময়ের সীমা বা শর্তযুক্ত সময় বোঝাতে এগুলো বসে।",
+   "formulaLabel": "WORD BANK",
+   "formula": "As long as / So long as · Till / Until · While",
+   "ex": "You can use the lab ==as long as== you adhere to the safety protocols."
+  },
+  {
+   "no": "19",
+   "tag": "Master",
+   "name": "Exception / Exclusion — ব্যতিক্রম বোঝাতে",
+   "bn": "কোনো কিছু **বাদ দিয়ে** বা ব্যতিক্রম বোঝাতে এগুলো ব্যবহৃত হয়।",
+   "formulaLabel": "WORD BANK",
+   "formula": "Except · Except that · Apart from · But for",
+   "ex": "The board agreed to the merger, ==except that== the CEO had reservations.",
+   "note": "Besides = যোগ করা (তাছাড়াও) | Except = বাদ দেওয়া (ছাড়া) — দুটি উল্টো।"
+  },
+  {
+   "no": "20",
+   "tag": "Master",
+   "name": "Reference / Context — প্রসঙ্গ টেনে আনতে",
+   "bn": "কোনো **প্রসঙ্গ উল্লেখ করে** কথা শুরু করতে এগুলো ব্যবহৃত হয়।",
+   "formulaLabel": "WORD BANK",
+   "formula": "Regarding · With reference to · In terms of · As for · Concerning",
+   "ex": "==With reference to== your letter, I am pleased to inform you…"
+  },
+  {
+   "no": "21",
+   "tag": "Master",
+   "name": "Concession — কোনো সত্য মেনে নেওয়া",
+   "bn": "বিপক্ষের কোনো কথা **সত্য বলে মেনে নিয়ে** তারপর নিজের কথা বলতে এগুলো বসে।",
+   "formulaLabel": "WORD BANK",
+   "formula": "Admittedly · Undoubtedly · Of course · It is true that",
+   "ex": "==Admittedly==, the plan is expensive, but it will save lives."
+  }
+ ],
+ "boardQ": {
+  "instruction": "Fill in the blanks with suitable connectors. — উপযুক্ত connector দিয়ে শূন্যস্থান পূরণ করো। (0.5×10 = 5)",
+  "text": "Education is the backbone of a nation. (a) ___ , no nation can prosper without it. A nation may have plenty of natural resources; (b) ___ , it cannot use them properly if its people are illiterate. (c) ___ we want to develop, we must educate our people first. Many students of our country leave school early (d) ___ poverty. (e) ___ , they cannot contribute to national development. The government has taken many steps, (f) ___ free books and stipends, to stop this dropout. Guardians must also be made aware; (g) ___ , the situation will not change. Study attentively (h) ___ you should fail. (i) ___ you read, the more you learn. (j) ___ , education is the only way to build a developed Bangladesh.",
+  "bank": "Moreover · however · If · because of · As a result · such as · otherwise · lest · The more · In conclusion",
+  "items": [
+   {
+    "ans": "Moreover",
+    "why": "আগের কথার সাথে **অতিরিক্ত** যুক্তি যোগ হচ্ছে → Addition. (নিয়ম ০১)"
+   },
+   {
+    "ans": "however",
+    "why": "‘সম্পদ আছে’-র **বিপরীত** কথা আসছে → Contrast. সেমিকোলনের পরে কমাসহ transition word. (নিয়ম ০২)"
+   },
+   {
+    "ans": "If",
+    "why": "পরের অংশে ‘must educate’ আছে — এটি একটি **শর্ত** → Condition. (নিয়ম ০৭)"
+   },
+   {
+    "ans": "because of",
+    "why": "‘poverty’ একটি **noun**, তাই because নয় — **because of** বসবে। (নিয়ম ০৩)"
+   },
+   {
+    "ans": "As a result",
+    "why": "আগের বাক্যের **ফলাফল** বলা হচ্ছে → Effect. (নিয়ম ০৪)"
+   },
+   {
+    "ans": "such as",
+    "why": "‘many steps’-এর **উদাহরণ** দেওয়া হচ্ছে → Illustration. (নিয়ম ০৬)"
+   },
+   {
+    "ans": "otherwise",
+    "why": "‘নাহলে পরিস্থিতি বদলাবে না’ — **বিকল্প পরিণতি** → Alternative. (নিয়ম ১১)"
+   },
+   {
+    "ans": "lest",
+    "why": "পরে **should** আছে → নিশ্চিতভাবে lest. (Magic Trick 2 · নিয়ম ০৮)"
+   },
+   {
+    "ans": "The more",
+    "why": "পরের অংশে ‘the more you learn’ আছে → **Parallel increase** গঠন। (নিয়ম ১৬)"
+   },
+   {
+    "ans": "In conclusion",
+    "why": "শেষ বাক্যে **সিদ্ধান্ত** টানা হচ্ছে → Conclusion. (নিয়ম ১৪)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — কোন সম্পর্ক, কোন Connector?",
+   "intro": "প্রতিটি খালিঘরে **আগে সম্পর্কটা বলো** (যোগ? বৈপরীত্য? কারণ? ফল?) — তারপর শব্দ বসাও।",
+   "items": [
+    {
+     "q": "He worked hard. ___ , he could not succeed.",
+     "ans": "However / Nevertheless",
+     "why": "পরিশ্রম করেও সফল হয়নি — **বৈপরীত্য**। (নিয়ম ০২)"
+    },
+    {
+     "q": "___ his illness, he attended the class.",
+     "ans": "In spite of / Despite",
+     "why": "‘his illness’ একটি **noun phrase**, তাই Though নয় — In spite of / Despite. (Magic Trick 3)"
+    },
+    {
+     "q": "It rained heavily; ___ , the match was cancelled.",
+     "ans": "as a result / therefore",
+     "why": "বৃষ্টির **ফলাফল** বলা হচ্ছে। (নিয়ম ০৪)"
+    },
+    {
+     "q": "Walk fast ___ you should miss the train.",
+     "ans": "lest",
+     "why": "পরে **should** আছে — should/might দেখলেই lest. (Magic Trick 2)"
+    },
+    {
+     "q": "He is the man ___ helped me that day.",
+     "ans": "who",
+     "why": "‘the man’ একজন **ব্যক্তি** → who. (Magic Trick 7)"
+    },
+    {
+     "q": "___ you work hard, you will not pass.",
+     "ans": "Unless",
+     "why": "‘যদি না’ অর্থে শর্ত; Unless-এর পরে আর not বসবে না। (নিয়ম ০৭)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — Trick-ভিত্তিক অনুশীলন",
+   "intro": "এই সেটের প্রতিটি প্রশ্ন একটি করে Magic Trick যাচাই করে।",
+   "items": [
+    {
+     "q": "___ , people are becoming more dependent on technology.",
+     "ans": "Nowadays / At present",
+     "why": "অনুচ্ছেদের শুরুতে **সাধারণ সত্য** বোঝাচ্ছে। (Magic Trick 5)"
+    },
+    {
+     "q": "He is so weak ___ he cannot walk.",
+     "ans": "that",
+     "why": "আগে **so** আছে → পরের খালিঘরে that. (Magic Trick 4)"
+    },
+    {
+     "q": "___ only intelligent but also hardworking.",
+     "ans": "Not",
+     "why": "‘but also’ দেখেই বোঝা যায় জোড়াটি **Not only… but also**. (Magic Trick 6)"
+    },
+    {
+     "q": "He behaves ___ he were a king.",
+     "ans": "as if / as though",
+     "why": "আগের অংশ Present, পরে **were** → as if. (Magic Trick 9)"
+    },
+    {
+     "q": "___ walking in the park, I met my teacher.",
+     "ans": "While",
+     "why": "পরে সরাসরি **verb + ing** আছে → While. (Magic Trick 10)"
+    },
+    {
+     "q": "All the students were present ___ Rahim.",
+     "ans": "except",
+     "why": "একজনকে **বাদ দেওয়া** হচ্ছে → Except (Besides হলে যোগ হতো)। (Magic Trick 8)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "Relation → Connector <span class='sub'>— সম্পর্ক দেখে শব্দ বাছাই (মূল ছক)</span>",
+   "key": "Relation Chart",
+   "table": {
+    "headers": [
+     "সম্পর্ক (Relation)",
+     "বাংলা",
+     "Connectors"
+    ],
+    "rows": [
+     [
+      "Addition",
+      "@যোগ করা",
+      "and, also, besides, moreover, furthermore, in addition"
+     ],
+     [
+      "Contrast",
+      "@বৈপরীত্য",
+      "but, however, on the other hand, though, in spite of, nevertheless"
+     ],
+     [
+      "Cause",
+      "@কারণ",
+      "because, as, since, because of, due to, owing to"
+     ],
+     [
+      "Effect",
+      "@ফলাফল",
+      "so, therefore, as a result, consequently, thus, hence"
+     ],
+     [
+      "Sequence",
+      "@ধারাবাহিকতা",
+      "first, then, next, after that, finally, meanwhile"
+     ],
+     [
+      "Example",
+      "@উদাহরণ",
+      "for example, for instance, such as, namely"
+     ],
+     [
+      "Condition",
+      "@শর্ত",
+      "if, unless, provided that, in case"
+     ],
+     [
+      "Purpose",
+      "@উদ্দেশ্য",
+      "so that, in order that, in order to, lest"
+     ],
+     [
+      "Comparison",
+      "@তুলনা",
+      "similarly, likewise, in the same way"
+     ],
+     [
+      "Emphasis",
+      "@জোর দেওয়া",
+      "in fact, actually, indeed"
+     ],
+     [
+      "Alternative",
+      "@বিকল্প",
+      "otherwise, or else, either…or, neither…nor"
+     ],
+     [
+      "Instant action",
+      "@তাৎক্ষণিকতা",
+      "as soon as, no sooner had…than, hardly had…when"
+     ],
+     [
+      "Conclusion",
+      "@উপসংহার",
+      "in conclusion, to sum up, in a nutshell"
+     ],
+     [
+      "Clarification",
+      "@ব্যাখ্যা",
+      "in other words, that is to say"
+     ],
+     [
+      "Exception",
+      "@ব্যতিক্রম",
+      "except, except that, apart from"
+     ],
+     [
+      "Concession",
+      "@মেনে নেওয়া",
+      "admittedly, undoubtedly, it is true that"
+     ]
+    ]
+   },
+   "note": "**পরীক্ষার নিয়ম:** আগে ঠিক করো খালিঘরে কোন **সম্পর্ক** দরকার, তারপর সেই সারি থেকে একটি শব্দ নাও। শব্দ আগে ভাবলেই ভুল হয়।"
+  },
+  {
+   "title": "Clause vs Phrase <span class='sub'>— একই অর্থ, ভিন্ন গঠন</span>",
+   "key": "Clause vs Phrase",
+   "table": {
+    "headers": [
+     "অর্থ",
+     "Clause-এর সাথে (Sub + Verb থাকে)",
+     "Phrase-এর সাথে (Noun / V+ing থাকে)"
+    ],
+    "rows": [
+     [
+      "যদিও / সত্ত্বেও",
+      "Though / Although he was ill…",
+      "In spite of / Despite his illness…"
+     ],
+     [
+      "কারণ",
+      "Because / As / Since he was ill…",
+      "Because of / Due to his illness…"
+     ],
+     [
+      "উদ্দেশ্য",
+      "so that he could pass",
+      "in order to pass"
+     ],
+     [
+      "সময়",
+      "While he was walking…",
+      "While walking…"
+     ]
+    ]
+   },
+   "note": "**সবচেয়ে বড় ফাঁদ:** ‘Despite of’ বলে কিছু নেই। Despite + noun ✓ | In spite of + noun ✓ | Despite of ✗"
+  }
+ ],
+ "tips": [
+  {
+   "em": "1️⃣",
+   "t": "Trick 1 — The Punctuation Hack (কমার জাদু)",
+   "d": "খালি জায়গার ঠিক পরেই যদি **কমা (,)** থাকে, তবে সাধারণত Transition Word বসে — **Moreover, However, Therefore, As a result, In fact, In conclusion**।"
+  },
+  {
+   "em": "2️⃣",
+   "t": "Trick 2 — The ‘Should / Might’ Clue",
+   "d": "খালি জায়গার পরের অংশে subject-এর পরে **should** বা **might** থাকলে সেখানে নিশ্চিতভাবে **lest** বসবে।"
+  },
+  {
+   "em": "3️⃣",
+   "t": "Trick 3 — Clause vs Phrase",
+   "type": "warn",
+   "d": "**Though / Although + Subject + Verb** (পূর্ণ clause)। **In spite of / Despite + Noun বা V+ing** (subject-verb থাকে না)। গঠন দেখেই ঠিক করো।"
+  },
+  {
+   "em": "4️⃣",
+   "t": "Trick 4 — The ‘So… that’ Combo",
+   "d": "Adjective বা Adverb-এর আগে **so** বা **such** থাকলে পরের খালিঘরে অবশ্যই **that** বসবে।"
+  },
+  {
+   "em": "5️⃣",
+   "t": "Trick 5 — Starting Blank for General Truths",
+   "d": "প্যাসেজের প্রথম বাক্যের শুরুতে সাধারণ সত্য বোঝালে **Nowadays / At present / In recent times** বসে।"
+  },
+  {
+   "em": "6️⃣",
+   "t": "Trick 6 — The Pairing Clue (জোড়া শব্দ)",
+   "type": "ok",
+   "d": "একটি অংশ দেখলেই অন্যটি লিখে ফেলো — **Not only… but also | Either… or | Neither… nor | Both… and | No sooner had… than**।"
+  },
+  {
+   "em": "7️⃣",
+   "t": "Trick 7 — Relative Pronoun Hack",
+   "d": "খালিঘরের আগের শব্দ দেখো — **মানুষ → who, বস্তু → which/that, জায়গা → where, মালিকানা → whose**।"
+  },
+  {
+   "em": "8️⃣",
+   "t": "Trick 8 — Besides vs Except",
+   "type": "warn",
+   "d": "**Besides = যোগ করা** (তাছাড়াও) | **Except = বাদ দেওয়া** (ছাড়া/ব্যতীত)। দুটি ঠিক উল্টো — অর্থ বুঝে বসাও।"
+  },
+  {
+   "em": "9️⃣",
+   "t": "Trick 9 — As if / As though Tense Hack",
+   "d": "**Present Tense + [blank] + Past Tense (were)** → as if / as though। **Past Tense + [blank] + Past Perfect (had + V3)** → as if / as though।"
+  },
+  {
+   "em": "🔟",
+   "t": "Trick 10 — The ‘While’ Rule",
+   "type": "ok",
+   "d": "**While + Verb(ing)** অথবা **While + Subject + was/were + Verb(ing)** — দুটোই শুদ্ধ; খালিঘরের পরে V+ing দেখলেই While ভাবো।"
+  },
+  {
+   "em": "🎯",
+   "t": "Read the sentence before AND after",
+   "d": "Connector দুটি বাক্যের সম্পর্ক তৈরি করে — তাই খালিঘরের **আগের ও পরের** দুটি বাক্যই পড়তে হবে। একটি পড়ে উত্তর দিলে ভুল হবেই।"
+  },
+  {
+   "em": "✍️",
+   "t": "Capital letter matters",
+   "type": "warn",
+   "d": "খালিঘর বাক্যের **শুরুতে** হলে connector-এর প্রথম অক্ষর বড় হাতের লিখবে (However, Moreover) — নইলে নম্বর কাটা যেতে পারে।"
+  }
+ ],
+ "recap": [
+  "Connector-এর কাজ: দুটি বাক্য বা clause-এর মধ্যে সম্পর্ক তৈরি করা।",
+  "প্রথমে সম্পর্ক ঠিক করো (যোগ / বৈপরীত্য / কারণ / ফল / শর্ত / উদ্দেশ্য), তারপর শব্দ বসাও।",
+  "কমার আগে transition word; should/might দেখলে lest; so/such দেখলে that.",
+  "Though + clause, Despite + noun — গঠন না মিললে অর্থ ঠিক থাকলেও ভুল।",
+  "জোড়া শব্দ মনে রাখো: Not only…but also, Either…or, Neither…nor, No sooner had…than.",
+  "Besides = যোগ, Except = বাদ — এই দুটি কখনো গুলিয়ো না।"
+ ],
+ "homework": [
+  "‘Relation → Connector’ ছকের ১৬টি সারি খাতায় লিখে মুখস্থ করবে।",
+  "১০টি Magic Trick নিজের ভাষায় লিখে আনবে।",
+  "বোর্ড প্রশ্নটি না দেখে আবার সমাধান করবে এবং প্রতিটির পাশে সম্পর্কের নাম লিখবে।",
+  "Clause vs Phrase ছকটি থেকে নিজে ৫ জোড়া বাক্য তৈরি করবে।"
+ ],
+ "paper": "paper2"
+}

@@ -1,0 +1,402 @@
+{
+ "id": "synonym-antonym-2nd",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part A",
+ "unitName": "Grammar — Vocabulary",
+ "title": "Synonyms &amp; Antonyms",
+ "titleBn": "সমার্থক ও বিপরীত শব্দ",
+ "lede": "অনুচ্ছেদের ভেতর থেকে শব্দ দিয়ে সমার্থক বা বিপরীত চাওয়া হয়। মুখস্থের সাথে দরকার প্রসঙ্গ বোঝা — একই শব্দের একাধিক অর্থ থাকে।",
+ "qType": "Grammar — Synonyms &amp; Antonyms",
+ "minutes": 45,
+ "marks": "0.5×10 = 5",
+ "rulesTitle": "সমার্থক-বিপরীত শব্দের নিয়ম",
+ "rulesPerSlide": 3,
+ "objectives": [
+  {
+   "t": "Read the word in its sentence",
+   "d": "প্রসঙ্গ ছাড়া সমার্থক বাছা যায় না"
+  },
+  {
+   "t": "Match the part of speech",
+   "d": "Noun-এর বদলে noun, verb-এর বদলে verb"
+  },
+  {
+   "t": "Prefix &amp; suffix tricks",
+   "d": "un-, in-, dis-, im- দিয়ে বিপরীত শব্দ"
+  },
+  {
+   "t": "80 high-frequency pairs",
+   "d": "বোর্ডে বারবার আসা শব্দজোড়া"
+  },
+  {
+   "t": "Solved board question",
+   "d": "১০টি শব্দ, প্রতিটির যুক্তিসহ"
+  },
+  {
+   "t": "Two live practice sets",
+   "d": "শ্রেণিকক্ষে সরাসরি অনুশীলন"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Method",
+   "name": "প্রথমে বাক্যে বসিয়ে দেখো",
+   "bn": "শব্দটিকে তার **নিজের বাক্যে** পড়ো। একই শব্দের একাধিক অর্থ থাকতে পারে — প্রসঙ্গই ঠিক অর্থটি বলে দেয়।",
+   "formula": "Read the sentence → pick the meaning → find the synonym",
+   "ex": "‘He is a **fine** boy’ (ভালো) ≠ ‘He paid a **fine**’ (জরিমানা)।"
+  },
+  {
+   "no": "02",
+   "tag": "Method",
+   "name": "Parts of speech মেলাতে হবে",
+   "bn": "মূল শব্দ noun হলে উত্তরও noun, verb হলে verb, adjective হলে adjective হতে হবে।",
+   "formula": "noun→noun · verb→verb · adj→adj",
+   "ex": "‘beautiful’ (adj) → **lovely** ✓, **beauty** ✗"
+  },
+  {
+   "no": "03",
+   "tag": "Prefix",
+   "name": "un- / in- / im- / ir- / il- দিয়ে বিপরীত",
+   "bn": "অনেক বিপরীত শব্দ তৈরি হয় prefix যোগে — **un**happy, **in**complete, **im**possible, **ir**regular, **il**legal।",
+   "formula": "un / in / im / ir / il + word",
+   "ex": "happy → ==unhappy== · possible → ==impossible== · regular → ==irregular=="
+  },
+  {
+   "no": "04",
+   "tag": "Prefix",
+   "name": "dis- / non- / mis- দিয়ে বিপরীত",
+   "bn": "**dis**honest, **dis**agree, **non**sense, **mis**understand — এই prefix গুলোও বিপরীত অর্থ তৈরি করে।",
+   "formula": "dis / non / mis + word",
+   "ex": "honest → ==dishonest== · agree → ==disagree=="
+  },
+  {
+   "no": "05",
+   "tag": "Suffix",
+   "name": "-less দিয়ে বিপরীত",
+   "bn": "**-ful** যুক্ত শব্দের বিপরীত সাধারণত **-less** — careful → careless, useful → useless, hopeful → hopeless।",
+   "formula": "-ful ↔ -less",
+   "ex": "careful → ==careless== · harmful → ==harmless=="
+  },
+  {
+   "no": "06",
+   "tag": "Trap",
+   "name": "একই শব্দ, ভিন্ন প্রসঙ্গ",
+   "bn": "**Fine** = ভালো / জরিমানা · **Right** = সঠিক / ডান / অধিকার · **Kind** = দয়ালু / প্রকার · **Fair** = মেলা / সুন্দর / ন্যায্য। প্রসঙ্গ না দেখলে ভুল হবেই।",
+   "formula": "one word → many meanings",
+   "ex": "‘a **fair** decision’ = ন্যায্য → synonym: **just**"
+  },
+  {
+   "no": "07",
+   "tag": "Method",
+   "name": "ঘনিষ্ঠতম শব্দটি বাছো",
+   "bn": "সমার্থক মানে **হুবহু এক নয়, নিকটতম**। যেটি বসালে বাক্যের অর্থ অটুট থাকে সেটিই উত্তর।",
+   "formula": "closest in meaning, not identical",
+   "ex": "‘big’ → large ✓ (huge-ও চলে, কিন্তু মাত্রা বেশি)"
+  },
+  {
+   "no": "08",
+   "tag": "Format",
+   "name": "যেভাবে লিখতে হয়",
+   "bn": "প্রশ্নে যেভাবে চাওয়া হয়েছে সেভাবেই লেখো — শুধু শব্দ, নাকি বাক্যে বসিয়ে। সাধারণত **শুধু শব্দটিই** যথেষ্ট।",
+   "formula": "word only (unless asked otherwise)",
+   "ex": "(a) enormous — **huge**"
+  }
+ ],
+ "boardQ": {
+  "instruction": "Find the synonyms/antonyms of the underlined words from the passage. — অনুচ্ছেদ থেকে দাগানো শব্দের সমার্থক/বিপরীত শব্দ লেখো। (0.5×10 = 5)",
+  "text": "Words: (a) enormous (synonym) (b) ancient (antonym) (c) commence (synonym) (d) scarcity (antonym) (e) courageous (synonym) (f) permanent (antonym) (g) diligent (synonym) (h) accept (antonym) (i) remedy (synonym) (j) victory (antonym)",
+  "items": [
+   {
+    "ans": "huge / immense / vast",
+    "why": "enormous = বিশাল → নিকটতম সমার্থক huge. (নিয়ম ০৭)"
+   },
+   {
+    "ans": "modern / recent",
+    "why": "ancient = প্রাচীন → বিপরীত modern. (নিয়ম ০১)"
+   },
+   {
+    "ans": "begin / start",
+    "why": "commence = শুরু করা (verb) → verb-ই বসবে। (নিয়ম ০২)"
+   },
+   {
+    "ans": "abundance / plenty",
+    "why": "scarcity = অভাব → বিপরীত abundance. (নিয়ম ০১)"
+   },
+   {
+    "ans": "brave / bold / valiant",
+    "why": "courageous = সাহসী (adj) → adj-ই বসবে। (নিয়ম ০২)"
+   },
+   {
+    "ans": "temporary",
+    "why": "permanent = স্থায়ী → বিপরীত temporary. (নিয়ম ০১)"
+   },
+   {
+    "ans": "hardworking / industrious",
+    "why": "diligent = পরিশ্রমী → industrious. (নিয়ম ০৭)"
+   },
+   {
+    "ans": "reject / refuse / deny",
+    "why": "accept = গ্রহণ করা → বিপরীত reject. (নিয়ম ০১)"
+   },
+   {
+    "ans": "cure / solution",
+    "why": "remedy = প্রতিকার → cure. (নিয়ম ০৭)"
+   },
+   {
+    "ans": "defeat",
+    "why": "victory = জয় → বিপরীত defeat. (নিয়ম ০১)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — Synonym",
+   "intro": "নিকটতম সমার্থক শব্দটি বলো।",
+   "items": [
+    {
+     "q": "abundant",
+     "ans": "plentiful / ample",
+     "why": "প্রচুর অর্থে। (০৭)"
+    },
+    {
+     "q": "calamity",
+     "ans": "disaster / catastrophe",
+     "why": "বিপর্যয় অর্থে। (০৭)"
+    },
+    {
+     "q": "endeavour",
+     "ans": "attempt / effort",
+     "why": "প্রচেষ্টা অর্থে। (০৭)"
+    },
+    {
+     "q": "illiterate",
+     "ans": "uneducated",
+     "why": "নিরক্ষর অর্থে। (০৩)"
+    },
+    {
+     "q": "prosperity",
+     "ans": "success / affluence",
+     "why": "সমৃদ্ধি অর্থে। (০৭)"
+    },
+    {
+     "q": "vital",
+     "ans": "essential / crucial",
+     "why": "অত্যাবশ্যক অর্থে। (০৭)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — Antonym",
+   "intro": "বিপরীত শব্দটি বলো; prefix লাগলে সেটিও বলো।",
+   "items": [
+    {
+     "q": "possible",
+     "ans": "impossible",
+     "why": "im- prefix. (০৩)"
+    },
+    {
+     "q": "regular",
+     "ans": "irregular",
+     "why": "ir- prefix. (০৩)"
+    },
+    {
+     "q": "honest",
+     "ans": "dishonest",
+     "why": "dis- prefix. (০৪)"
+    },
+    {
+     "q": "careful",
+     "ans": "careless",
+     "why": "-ful → -less. (০৫)"
+    },
+    {
+     "q": "ancient",
+     "ans": "modern",
+     "why": "সম্পূর্ণ ভিন্ন শব্দ — prefix নয়। (০১)"
+    },
+    {
+     "q": "praise",
+     "ans": "blame / criticise",
+     "why": "সম্পূর্ণ ভিন্ন শব্দ। (০১)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "High-frequency synonym pairs <span class='sub'>— বোর্ডে বারবার আসা শব্দ</span>",
+   "key": "Synonyms",
+   "table": {
+    "headers": [
+     "Word",
+     "Synonym",
+     "Word",
+     "Synonym"
+    ],
+    "rows": [
+     [
+      "enormous",
+      "@huge, immense",
+      "commence",
+      "@begin, start"
+     ],
+     [
+      "diligent",
+      "@industrious",
+      "remedy",
+      "@cure"
+     ],
+     [
+      "abundant",
+      "@plentiful",
+      "calamity",
+      "@disaster"
+     ],
+     [
+      "courageous",
+      "@brave, bold",
+      "endeavour",
+      "@attempt"
+     ],
+     [
+      "vital",
+      "@essential",
+      "prosperity",
+      "@affluence"
+     ],
+     [
+      "obtain",
+      "@get, acquire",
+      "conceal",
+      "@hide"
+     ],
+     [
+      "assist",
+      "@help, aid",
+      "terminate",
+      "@end, finish"
+     ],
+     [
+      "illustrate",
+      "@explain, show",
+      "significant",
+      "@important"
+     ],
+     [
+      "sufficient",
+      "@enough, ample",
+      "famous",
+      "@renowned"
+     ],
+     [
+      "gigantic",
+      "@colossal",
+      "fertile",
+      "@productive"
+     ]
+    ]
+   },
+   "note": "**পড়ার কৌশল:** জোড়ায় জোড়ায় পড়ো এবং প্রতিটির জন্য একটি করে বাক্য বানাও — তাহলেই মনে থাকে।"
+  },
+  {
+   "title": "Antonyms by prefix <span class='sub'>— উপসর্গ দিয়ে বিপরীত</span>",
+   "key": "Antonyms",
+   "table": {
+    "headers": [
+     "Prefix",
+     "Words"
+    ],
+    "rows": [
+     [
+      "un-",
+      "@unhappy, unable, unfair, unkind, unknown, unwilling"
+     ],
+     [
+      "in-",
+      "@incomplete, incorrect, invisible, injustice, inability"
+     ],
+     [
+      "im-",
+      "@impossible, impatient, imperfect, immoral, impure"
+     ],
+     [
+      "ir-",
+      "@irregular, irrelevant, irresponsible, irrational"
+     ],
+     [
+      "il-",
+      "@illegal, illiterate, illogical, illegible"
+     ],
+     [
+      "dis-",
+      "@dishonest, disagree, disobey, dislike, disappear"
+     ],
+     [
+      "non-",
+      "@nonsense, non-stop, non-violent"
+     ],
+     [
+      "mis-",
+      "@misunderstand, misuse, misfortune, misbehave"
+     ],
+     [
+      "-less",
+      "@careless, useless, hopeless, harmless, meaningless"
+     ]
+    ]
+   },
+   "note": "**সতর্কতা:** সব বিপরীত শব্দ prefix দিয়ে হয় না — ancient↔modern, victory↔defeat, praise↔blame সম্পূর্ণ ভিন্ন শব্দ।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "📖",
+   "t": "Context first, memory second",
+   "d": "শব্দটিকে বাক্যে বসিয়ে অর্থ বুঝে নাও। একই শব্দের একাধিক অর্থ থাকলে প্রসঙ্গই ঠিকটি বলে দেয়।",
+   "type": "ok"
+  },
+  {
+   "em": "🔤",
+   "t": "Match the part of speech",
+   "d": "noun-এর বদলে noun, verb-এর বদলে verb। ‘beautiful’-এর সমার্থক ‘beauty’ নয়, ‘lovely’।",
+   "type": "warn"
+  },
+  {
+   "em": "➕",
+   "t": "Learn prefixes as a family",
+   "d": "un-, in-, im-, ir-, il-, dis- — একসাথে দলবদ্ধভাবে পড়লে ৩০টির বেশি বিপরীত শব্দ একবারেই মুখস্থ হয়।"
+  },
+  {
+   "em": "⚠️",
+   "t": "Not every antonym takes a prefix",
+   "d": "ancient↔modern, victory↔defeat — এগুলোতে prefix বসিয়ে ‘unancient’ লিখে ফেলো না।",
+   "type": "warn"
+  },
+  {
+   "em": "✍️",
+   "t": "Write only the word",
+   "d": "প্রশ্নে বাক্য চাওয়া না হলে শুধু শব্দটিই লেখো — বাড়তি লিখে সময় নষ্ট কোরো না।"
+  },
+  {
+   "em": "📚",
+   "t": "Read to build vocabulary",
+   "d": "প্রতিদিন ৫টি নতুন শব্দ, তার সমার্থক ও বিপরীতসহ লিখে রাখো — বছর শেষে ১৮০০ শব্দ।",
+   "type": "ok"
+  }
+ ],
+ "recap": [
+  "শব্দটিকে তার নিজের বাক্যে পড়ে প্রসঙ্গ বুঝে নাও।",
+  "Parts of speech মিলিয়ে উত্তর দাও — noun→noun, verb→verb।",
+  "Prefix দিয়ে বিপরীত: un-, in-, im-, ir-, il-, dis-, non-, mis-।",
+  "Suffix: -ful ↔ -less (careful ↔ careless)।",
+  "সব বিপরীত prefix দিয়ে হয় না — ancient↔modern, victory↔defeat।"
+ ],
+ "homework": [
+  "High-frequency ছকের ২০টি জোড়া মুখস্থ করবে।",
+  "Prefix ছকের ৯টি দল খাতায় লিখবে।",
+  "প্রতিদিন ৫টি নতুন শব্দ সমার্থক-বিপরীতসহ লিখবে।",
+  "বোর্ড প্রশ্নের ১০টি শব্দ না দেখে লিখবে।"
+ ],
+ "paper": "paper2"
+}

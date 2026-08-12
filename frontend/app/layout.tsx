@@ -1,4 +1,5 @@
 import './globals.css';
+import './deck.css';
 import type { Metadata, Viewport } from 'next';
 import { AuthProvider } from '@/lib/auth';
 import Navbar from '@/components/Navbar';

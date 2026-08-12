@@ -1,0 +1,834 @@
+{
+ "id": "education-gives",
+ "unit": "Unit 12",
+ "unitName": "Education and Life",
+ "title": "Education Gives Us Knowledge",
+ "titleBn": "শিক্ষা আমাদের যা দেয়",
+ "lede": "আত্মবিশ্বাস, স্বাধীন চিন্তা, ব্যক্তিত্বের বিকাশ, সমাজবোধ — আর প্রকৃতিই সেরা শিক্ষক: ‘আকাশ শেখায় উদার হতে, বাতাস শেখায় কর্মী হতে’।",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 45,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "List the functions of education",
+   "d": "শিক্ষার কাজগুলো ধাপে ধাপে সাজানো"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "২০টি বাক্যের বাংলা অর্থ"
+  },
+  {
+   "t": "Nature as a teacher",
+   "d": "বাংলা কবিতার দুই পঙ্‌ক্তি ও তার ব্যাখ্যা"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "articulate, impart, competencies, bounties…"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — Knowledge, confidence and independent thinking",
+   "s": [
+    {
+     "en": "Education gives us knowledge and a set of abilities to ==function meaningfully in life==, such as the ability to ==decide things rationally== and ==make the right choices==.",
+     "bn": "শিক্ষা আমাদের জ্ঞান দেয় এবং ==জীবনে অর্থপূর্ণভাবে চলার== জন্য একগুচ্ছ সামর্থ্য দেয় — যেমন ==যুক্তি দিয়ে সিদ্ধান্ত নেওয়ার== ক্ষমতা এবং ==সঠিক পছন্দ বেছে নেওয়ার== ক্ষমতা।"
+    },
+    {
+     "en": "As we learn how to read, write and do the ==basic operations of arithmetic==, we gain a degree of ==self-confidence==.",
+     "bn": "যখন আমরা পড়তে, লিখতে এবং ==পাটিগণিতের মৌলিক কাজগুলো== করতে শিখি, তখন আমরা কিছুটা ==আত্মবিশ্বাস== অর্জন করি।"
+    },
+    {
+     "en": "We learn to ==think for ourselves== and ==articulate our thoughts==; we pick up skills to communicate with others and ==manage our affairs well==.",
+     "bn": "আমরা ==নিজে নিজে ভাবতে== ও ==নিজের ভাবনা স্পষ্টভাবে প্রকাশ করতে== শিখি; অন্যের সঙ্গে যোগাযোগের দক্ষতা অর্জন করি এবং ==নিজের কাজকর্ম সুচারুভাবে সামলাতে== শিখি।"
+    },
+    {
+     "en": "Education helps us ==think independently== and make our own opinions.",
+     "bn": "শিক্ষা আমাদের ==স্বাধীনভাবে চিন্তা করতে== এবং নিজস্ব মতামত গড়ে তুলতে সাহায্য করে।"
+    },
+    {
+     "en": "As we know more about the world, we appreciate the good things it offers us but also become ==critical of the deviations== from the values it ==imparts== and the rise of ==hatred or conflict== that follows.",
+     "bn": "পৃথিবী সম্পর্কে যত জানি, ততই আমরা এর ভালো দিকগুলোর কদর করি; আবার শিক্ষা যে মূল্যবোধ ==শেখায়== তা থেকে ==বিচ্যুতি== এবং তার ফলে জন্ম নেওয়া ==ঘৃণা বা সংঘাতের== সমালোচকও হয়ে উঠি।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — Awareness, belonging and the community",
+   "s": [
+    {
+     "en": "The first thing education does is to give us an ==awareness about ourselves== which leads to the ==development of our personality==.",
+     "bn": "শিক্ষা সবার আগে যা করে তা হলো আমাদের ==নিজের সম্পর্কে সচেতনতা== দেয়, যা ==আমাদের ব্যক্তিত্বের বিকাশ== ঘটায়।"
+    },
+    {
+     "en": "As we begin school, we feel the need to ==belong to the class== and make friends.",
+     "bn": "স্কুল শুরু করার সঙ্গে সঙ্গেই আমরা ==শ্রেণির অংশ হওয়ার== এবং বন্ধু বানানোর প্রয়োজন অনুভব করি।"
+    },
+    {
+     "en": "We then ==expand our sense of belonging== to include the ==school at large==, our community and finally our country.",
+     "bn": "এরপর আমরা ==আমাদের একাত্মতাবোধ প্রসারিত করি== — ==সমগ্র বিদ্যালয়==, আমাদের সমাজ এবং শেষ পর্যন্ত আমাদের দেশ পর্যন্ত।"
+    },
+    {
+     "en": "Education thus prepares every child to become an ==active member of the community== and ==work for its welfare==.",
+     "bn": "এভাবে শিক্ষা প্রতিটি শিশুকে ==সমাজের একজন সক্রিয় সদস্য== হয়ে উঠতে এবং ==সমাজের কল্যাণে কাজ করতে== প্রস্তুত করে।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — Potentials, intellect and values",
+   "s": [
+    {
+     "en": "Education, it is believed, ==releases our potentials and our inner strengths==.",
+     "bn": "মনে করা হয়, শিক্ষা ==আমাদের সুপ্ত সম্ভাবনা ও অন্তর্নিহিত শক্তি মুক্ত করে দেয়==।"
+    },
+    {
+     "en": "It ==sharpens our intellect== and ==develops our creativity==.",
+     "bn": "এটি ==আমাদের বুদ্ধিকে শাণিত করে== এবং ==সৃজনশীলতা বিকশিত করে==।"
+    },
+    {
+     "en": "As we are taught to ==reason well== and find solutions to the problems of life, we become ==productive members of society==.",
+     "bn": "যখন আমাদের ==সুষ্ঠু যুক্তি প্রয়োগ করতে== এবং জীবনের সমস্যার সমাধান খুঁজে বের করতে শেখানো হয়, তখন আমরা ==সমাজের উৎপাদনশীল সদস্য== হয়ে উঠি।"
+    },
+    {
+     "en": "Education by definition is ==progressive and liberal==, teaching us to ==respect human diversity== and ==cultural and religious differences==.",
+     "bn": "সংজ্ঞাগতভাবেই শিক্ষা ==প্রগতিশীল ও উদার==; এটি আমাদের ==মানব-বৈচিত্র্যকে সম্মান করতে== এবং ==সাংস্কৃতিক ও ধর্মীয় ভিন্নতাকে== মেনে নিতে শেখায়।"
+    },
+    {
+     "en": "If all of us practise these values in life, the world becomes a much ==happier place==.",
+     "bn": "আমরা সবাই যদি এই মূল্যবোধগুলো জীবনে চর্চা করি, তবে পৃথিবী অনেক ==সুখী জায়গা== হয়ে উঠবে।"
+    },
+    {
+     "en": "Education also fosters ==critical thinking== and provides us a set of ==competencies including life skills== that enable us to become ==competitive even in the most challenging of circumstances==.",
+     "bn": "শিক্ষা ==সমালোচনামূলক চিন্তাকেও== লালন করে এবং ==জীবনদক্ষতাসহ একগুচ্ছ যোগ্যতা== দেয়, যা আমাদের ==সবচেয়ে কঠিন পরিস্থিতিতেও প্রতিযোগিতাসক্ষম== করে তোলে।"
+    },
+    {
+     "en": "Education also teaches us to appreciate ==beauty and the bounties of nature==.",
+     "bn": "শিক্ষা আমাদের ==সৌন্দর্য ও প্রকৃতির অকৃপণ দানের== কদর করতেও শেখায়।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 4 — Nature, our best teacher",
+   "s": [
+    {
+     "en": "School, however, is ==not the only place== where a child gets education.",
+     "bn": "তবে বিদ্যালয়ই ==একমাত্র জায়গা নয়== যেখানে একটি শিশু শিক্ষা পায়।"
+    },
+    {
+     "en": "A Bangla poem tells us that ==nature can be our best teacher==.",
+     "bn": "একটি বাংলা কবিতা আমাদের বলে যে ==প্রকৃতিই হতে পারে আমাদের সেরা শিক্ষক==।"
+    },
+    {
+     "en": "Here are a couple of lines from the poem in English translation: “==The sky has taught me to be liberal. The wind has given me the motto to be industrious.==”",
+     "bn": "কবিতাটির দুটি পঙ্‌ক্তির ইংরেজি অনুবাদ: “==আকাশ আমাকে শিখিয়েছে উদার হতে। বাতাস আমাকে দিয়েছে কর্মী হওয়ার মন্ত্র।==”"
+    },
+    {
+     "en": "If we can make nature our ==friend, philosopher and guide==, we can learn lessons about life that, ==combined with what our schools teach us==, will ==prepare us for the future==.",
+     "bn": "আমরা যদি প্রকৃতিকে আমাদের ==বন্ধু, দার্শনিক ও পথপ্রদর্শক== বানাতে পারি, তবে জীবন সম্পর্কে এমন শিক্ষা পাব, যা ==বিদ্যালয়ের শিক্ষার সঙ্গে মিলে== আমাদের ==ভবিষ্যতের জন্য প্রস্তুত করবে==।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "rationally",
+   "pos": "adverb",
+   "pron": "/ˈræʃnəli/",
+   "bn": "যুক্তিসংগতভাবে",
+   "en": "in a way based on reason",
+   "ex": "the ability to decide things rationally"
+  },
+  {
+   "w": "arithmetic",
+   "pos": "noun",
+   "pron": "/əˈrɪθmətɪk/",
+   "bn": "পাটিগণিত",
+   "en": "the branch of mathematics dealing with numbers",
+   "ex": "the basic operations of arithmetic"
+  },
+  {
+   "w": "self-confidence",
+   "pos": "noun",
+   "pron": "/self ˈkɒnfɪdəns/",
+   "bn": "আত্মবিশ্বাস",
+   "en": "belief in one's own ability",
+   "ex": "We gain a degree of self-confidence."
+  },
+  {
+   "w": "articulate",
+   "pos": "verb",
+   "pron": "/ɑːˈtɪkjuleɪt/",
+   "bn": "স্পষ্টভাবে প্রকাশ করা",
+   "en": "to express thoughts clearly in words",
+   "ex": "We learn to articulate our thoughts."
+  },
+  {
+   "w": "affairs",
+   "pos": "noun",
+   "pron": "/əˈfeəz/",
+   "bn": "কাজকর্ম, বিষয়াদি",
+   "en": "matters of business or personal concern",
+   "ex": "manage our affairs well"
+  },
+  {
+   "w": "deviation",
+   "pos": "noun",
+   "pron": "/ˌdiːviˈeɪʃn/",
+   "bn": "বিচ্যুতি, পথভ্রষ্টতা",
+   "en": "the act of moving away from the right course",
+   "ex": "deviations from the values"
+  },
+  {
+   "w": "impart",
+   "pos": "verb",
+   "pron": "/ɪmˈpɑːt/",
+   "bn": "প্রদান করা, শিক্ষা দেওয়া",
+   "en": "to give knowledge or a quality to someone",
+   "ex": "the values education imparts"
+  },
+  {
+   "w": "at large",
+   "pos": "idiom",
+   "pron": "/ət lɑːdʒ/",
+   "bn": "সামগ্রিকভাবে, সমগ্র",
+   "en": "as a whole; in general",
+   "ex": "the school at large"
+  },
+  {
+   "w": "sense of belonging",
+   "pos": "phrase",
+   "pron": "/bɪˈlɒŋɪŋ/",
+   "bn": "একাত্মতাবোধ",
+   "en": "the feeling of being part of a group",
+   "ex": "We expand our sense of belonging."
+  },
+  {
+   "w": "welfare",
+   "pos": "noun",
+   "pron": "/ˈwelfeə/",
+   "bn": "কল্যাণ, মঙ্গল",
+   "en": "the health and happiness of people",
+   "ex": "work for its welfare"
+  },
+  {
+   "w": "potential",
+   "pos": "noun",
+   "pron": "/pəˈtenʃl/",
+   "bn": "সুপ্ত সম্ভাবনা",
+   "en": "hidden ability that may be developed",
+   "ex": "Education releases our potentials."
+  },
+  {
+   "w": "intellect",
+   "pos": "noun",
+   "pron": "/ˈɪntəlekt/",
+   "bn": "বুদ্ধি, মেধা",
+   "en": "the power of the mind to reason and understand",
+   "ex": "It sharpens our intellect."
+  },
+  {
+   "w": "progressive",
+   "pos": "adj",
+   "pron": "/prəˈɡresɪv/",
+   "bn": "প্রগতিশীল",
+   "en": "favouring new ideas and reform",
+   "ex": "Education is progressive and liberal."
+  },
+  {
+   "w": "liberal",
+   "pos": "adj",
+   "pron": "/ˈlɪbərəl/",
+   "bn": "উদার, মুক্তমনা",
+   "en": "open to new ideas; generous",
+   "ex": "The sky has taught me to be liberal."
+  },
+  {
+   "w": "diversity",
+   "pos": "noun",
+   "pron": "/daɪˈvɜːsəti/",
+   "bn": "বৈচিত্র্য",
+   "en": "the state of being varied",
+   "ex": "respect human diversity"
+  },
+  {
+   "w": "competency",
+   "pos": "noun",
+   "pron": "/ˈkɒmpɪtənsi/",
+   "bn": "যোগ্যতা, দক্ষতা",
+   "en": "the ability to do something well",
+   "ex": "a set of competencies including life skills"
+  },
+  {
+   "w": "bounty",
+   "pos": "noun",
+   "pron": "/ˈbaʊnti/",
+   "bn": "অকৃপণ দান, প্রাচুর্য",
+   "en": "generous gifts, especially of nature",
+   "ex": "the bounties of nature"
+  },
+  {
+   "w": "industrious",
+   "pos": "adj",
+   "pron": "/ɪnˈdʌstriəs/",
+   "bn": "পরিশ্রমী, কর্মী",
+   "en": "hardworking",
+   "ex": "The wind has given me the motto to be industrious."
+  }
+ ],
+ "synant": [
+  {
+   "w": "rational",
+   "bn": "যুক্তিসংগত",
+   "syn": [
+    "logical",
+    "sensible",
+    "reasonable"
+   ],
+   "ant": [
+    "irrational",
+    "absurd",
+    "illogical"
+   ]
+  },
+  {
+   "w": "articulate",
+   "bn": "স্পষ্টভাবে প্রকাশ করা",
+   "syn": [
+    "express",
+    "utter",
+    "voice"
+   ],
+   "ant": [
+    "mumble",
+    "suppress",
+    "withhold"
+   ]
+  },
+  {
+   "w": "impart",
+   "bn": "প্রদান করা",
+   "syn": [
+    "convey",
+    "transmit",
+    "bestow"
+   ],
+   "ant": [
+    "withhold",
+    "conceal",
+    "retain"
+   ]
+  },
+  {
+   "w": "deviation",
+   "bn": "বিচ্যুতি",
+   "syn": [
+    "departure",
+    "divergence",
+    "aberration"
+   ],
+   "ant": [
+    "conformity",
+    "adherence",
+    "compliance"
+   ]
+  },
+  {
+   "w": "liberal",
+   "bn": "উদার",
+   "syn": [
+    "broad-minded",
+    "tolerant",
+    "generous"
+   ],
+   "ant": [
+    "narrow-minded",
+    "conservative",
+    "bigoted"
+   ]
+  },
+  {
+   "w": "progressive",
+   "bn": "প্রগতিশীল",
+   "syn": [
+    "advancing",
+    "forward-looking",
+    "modern"
+   ],
+   "ant": [
+    "regressive",
+    "backward",
+    "reactionary"
+   ]
+  },
+  {
+   "w": "industrious",
+   "bn": "পরিশ্রমী",
+   "syn": [
+    "diligent",
+    "hardworking",
+    "assiduous"
+   ],
+   "ant": [
+    "lazy",
+    "idle",
+    "indolent"
+   ]
+  },
+  {
+   "w": "welfare",
+   "bn": "কল্যাণ",
+   "syn": [
+    "well-being",
+    "prosperity",
+    "good"
+   ],
+   "ant": [
+    "harm",
+    "misfortune",
+    "distress"
+   ]
+  },
+  {
+   "w": "intellect",
+   "bn": "বুদ্ধি",
+   "syn": [
+    "intelligence",
+    "reason",
+    "mind"
+   ],
+   "ant": [
+    "stupidity",
+    "ignorance",
+    "folly"
+   ]
+  },
+  {
+   "w": "diversity",
+   "bn": "বৈচিত্র্য",
+   "syn": [
+    "variety",
+    "multiplicity",
+    "difference"
+   ],
+   "ant": [
+    "uniformity",
+    "sameness",
+    "monotony"
+   ]
+  },
+  {
+   "w": "bounty",
+   "bn": "প্রাচুর্য",
+   "syn": [
+    "generosity",
+    "abundance",
+    "plenty"
+   ],
+   "ant": [
+    "scarcity",
+    "want",
+    "meanness"
+   ]
+  },
+  {
+   "w": "competitive",
+   "bn": "প্রতিযোগিতাসক্ষম",
+   "syn": [
+    "rivalrous",
+    "ambitious",
+    "capable"
+   ],
+   "ant": [
+    "uncompetitive",
+    "unfit",
+    "incapable"
+   ]
+  }
+ ],
+ "summaryEn": "Education equips a human being with knowledge and with a set of abilities that enable him to live meaningfully — to reason, to decide rationally and to make right choices. Learning to read, write and do simple arithmetic gives a child self-confidence; he then learns to think for himself, to articulate his thoughts, to communicate and to manage his own affairs, and as his knowledge of the world grows he not only values what is good in it but also becomes critical of every deviation from the values education imparts and of the hatred and conflict that follow. The first gift of education, however, is self-awareness, which develops personality; from the wish to belong to a class and to make friends the child gradually extends his sense of belonging to the whole school, the community and finally the country, so that he grows into an active member working for the welfare of society. Education further releases hidden potentials and inner strengths, sharpens intellect, develops creativity and, by teaching one to reason and to solve problems, makes one a productive citizen. Being by definition progressive and liberal, it teaches respect for human diversity and for cultural and religious differences, fosters critical thinking, supplies life skills that keep one competitive in the hardest circumstances, and awakens a love of beauty and of the bounties of nature. Yet school is not the only teacher: a Bangla poem reminds us that the sky teaches liberality and the wind teaches industry, so that if we take nature as our friend, philosopher and guide, its lessons together with those of school will prepare us for the future.",
+ "summaryBn": "শিক্ষা মানুষকে জ্ঞান দেয় এবং এমন সব সামর্থ্য দেয় যা দিয়ে সে অর্থপূর্ণভাবে বাঁচতে পারে — যুক্তি দিয়ে ভাবতে, সিদ্ধান্ত নিতে ও সঠিক পছন্দ করতে পারে। পড়া, লেখা ও পাটিগণিত শেখা শিশুকে আত্মবিশ্বাস দেয়; এরপর সে নিজে ভাবতে, নিজের ভাবনা প্রকাশ করতে, অন্যের সঙ্গে যোগাযোগ করতে ও নিজের কাজ সামলাতে শেখে। পৃথিবী সম্পর্কে জ্ঞান বাড়ার সঙ্গে সঙ্গে সে ভালো দিকগুলোর কদর যেমন করে, তেমনি মূল্যবোধ থেকে বিচ্যুতি এবং তা থেকে জন্ম নেওয়া ঘৃণা ও সংঘাতেরও সমালোচক হয়ে ওঠে। তবে শিক্ষার প্রথম দান আত্মসচেতনতা, যা ব্যক্তিত্ব গড়ে তোলে; শ্রেণির অংশ হওয়া ও বন্ধু বানানোর ইচ্ছা থেকে শুরু করে শিশুর একাত্মতাবোধ ক্রমে সমগ্র বিদ্যালয়, সমাজ ও শেষে দেশ পর্যন্ত বিস্তৃত হয় — ফলে সে সমাজের কল্যাণে কাজ করা সক্রিয় সদস্য হয়ে ওঠে। শিক্ষা সুপ্ত সম্ভাবনা ও অন্তর্নিহিত শক্তি মুক্ত করে, বুদ্ধি শাণিত করে, সৃজনশীলতা বাড়ায় এবং সমস্যার সমাধান শিখিয়ে উৎপাদনশীল নাগরিক গড়ে। সংজ্ঞাগতভাবেই প্রগতিশীল ও উদার এই শিক্ষা মানব-বৈচিত্র্য এবং সাংস্কৃতিক ও ধর্মীয় ভিন্নতাকে সম্মান করতে শেখায়, সমালোচনামূলক চিন্তা জাগায়, জীবনদক্ষতা দেয় এবং সৌন্দর্য ও প্রকৃতির দান উপভোগ করতে শেখায়। তবু বিদ্যালয়ই একমাত্র শিক্ষক নয় — একটি বাংলা কবিতা মনে করিয়ে দেয়, আকাশ শেখায় উদার হতে আর বাতাস শেখায় কর্মী হতে; প্রকৃতিকে বন্ধু, দার্শনিক ও পথপ্রদর্শক করতে পারলে তার শিক্ষা বিদ্যালয়ের শিক্ষার সঙ্গে মিলে আমাদের ভবিষ্যতের জন্য প্রস্তুত করবে।",
+ "summaryTip": "**তালিকাধর্মী প্যাসেজ:** এখানে শিক্ষার ১২টিরও বেশি কাজ আছে। সব আলাদা বাক্যে লিখলে Summary লম্বা হয়ে যাবে — কমা দিয়ে গুচ্ছবদ্ধ করো (‘sharpens intellect, develops creativity and fosters critical thinking’)।",
+ "mcq": [
+  {
+   "q": "What does the idiom ‘at large’ mean?",
+   "opts": [
+    "briefly",
+    "independently",
+    "largely",
+    "dependently"
+   ],
+   "ans": 2,
+   "why": "‘the school at large’ = সমগ্র বিদ্যালয়, সামগ্রিকভাবে = largely / as a whole. (‘At large’-এর আরেক অর্থ ‘পলাতক’, কিন্তু এখানে নয়।)"
+  },
+  {
+   "q": "The word ‘arithmetic’ relates to —",
+   "opts": [
+    "physics",
+    "mathematics",
+    "biology",
+    "chemistry"
+   ],
+   "ans": 1,
+   "why": "Arithmetic (পাটিগণিত) হলো গণিতেরই একটি শাখা — যোগ, বিয়োগ, গুণ, ভাগ।"
+  },
+  {
+   "q": "The sky teaches us to be —",
+   "opts": [
+    "honest",
+    "sincere",
+    "liberal",
+    "courageous"
+   ],
+   "ans": 2,
+   "why": "কবিতার পঙ্‌ক্তি — ‘The sky has taught me to be **liberal**.’ (আর বাতাস শেখায় industrious হতে — দুটি গুলিয়ে ফেলো না।)"
+  },
+  {
+   "q": "Imparting education to the common mass leads a community to —",
+   "opts": [
+    "meanness",
+    "backwardness",
+    "prosperity",
+    "inhumanity"
+   ],
+   "ans": 2,
+   "why": "শিক্ষা মানুষকে সমাজের ‘active member’ ও ‘productive member’ করে তোলে এবং কল্যাণে কাজ করায় — এর স্বাভাবিক ফল সমৃদ্ধি।"
+  },
+  {
+   "q": "The term ‘self-confidence’ is an outcome of —",
+   "opts": [
+    "Education",
+    "learning and success",
+    "establishment",
+    "wealth"
+   ],
+   "ans": 0,
+   "why": "‘As we learn how to read, write and do… arithmetic, we gain a degree of self-confidence’ — এই শেখাটাই শিক্ষা। ‘Success’ শব্দটি প্যাসেজে নেই, তাই (ii) নেওয়া যাবে না।"
+  },
+  {
+   "q": "The wind inspires us to be —",
+   "opts": [
+    "punctual",
+    "industrious",
+    "virtuous",
+    "disciplined"
+   ],
+   "ans": 1,
+   "why": "‘The wind has given me the motto to be **industrious**’ — বাতাস কখনো থামে না, তাই সে পরিশ্রমের প্রতীক।"
+  },
+  {
+   "q": "The passage describes —",
+   "opts": [
+    "the expense of education",
+    "the purpose of education",
+    "the scholars of education",
+    "the institution of education"
+   ],
+   "ans": 1,
+   "why": "পুরো প্যাসেজে শিক্ষা কী দেয়, কী করে — অর্থাৎ শিক্ষার উদ্দেশ্য ও কাজ বর্ণিত হয়েছে।"
+  },
+  {
+   "q": "Education supports us to choose —",
+   "opts": [
+    "profit from loss",
+    "wrong from right",
+    "right from wrong",
+    "vice of virtue"
+   ],
+   "ans": 2,
+   "why": "‘the ability to… make the **right choices**’ — অর্থাৎ ভুলের মধ্য থেকে সঠিকটি বেছে নেওয়া। ইংরেজি বাগধারা ‘choose right from wrong’; ক্রম উল্টালে অর্থ বদলে যায়।"
+  },
+  {
+   "q": "Education encourages us —",
+   "opts": [
+    "to avoid challenging situations",
+    "to enjoy the bounties of nature only",
+    "to tactfully avoid the ugly aspects of life",
+    "to think critically and achieve abilities to face the most competitive situations of life"
+   ],
+   "ans": 3,
+   "why": "‘Education also fosters critical thinking and provides us a set of competencies… that enable us to become competitive even in the most challenging of circumstances.’"
+  },
+  {
+   "q": "What is the purpose of the author of this passage?",
+   "opts": [
+    "to put up the functions of education in our life",
+    "to show how to be educated",
+    "to show the positive and negative aspects of education",
+    "to show only how nature can be our teacher"
+   ],
+   "ans": 0,
+   "why": "লেখক শিক্ষার একের পর এক কাজ তুলে ধরেছেন — জ্ঞান, আত্মবিশ্বাস, ব্যক্তিত্ব, সমাজবোধ, সৃজনশীলতা। প্রকৃতির অংশটি কেবল শেষ সংযোজন।"
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "What does education provide us?",
+   "a": "Education provides us with knowledge and with a set of abilities that help us to function meaningfully in life — for example, the ability to decide things rationally and to make the right choices. It gives us self-confidence, the power to think independently, to articulate our thoughts, to communicate with others and to manage our affairs well. Besides, it releases our potentials and inner strengths, sharpens our intellect, develops our creativity and supplies us with life skills that keep us competitive even in the most challenging circumstances.",
+   "bn": "শিক্ষা আমাদের জ্ঞান দেয় এবং জীবনে অর্থপূর্ণভাবে চলার সামর্থ্য দেয় — যুক্তি দিয়ে সিদ্ধান্ত নেওয়া ও সঠিক পছন্দ করার ক্ষমতা। এটি আত্মবিশ্বাস, স্বাধীন চিন্তা, ভাবনা প্রকাশের দক্ষতা ও কাজ সামলানোর যোগ্যতা দেয়; পাশাপাশি সুপ্ত সম্ভাবনা মুক্ত করে, বুদ্ধি শাণিত করে ও জীবনদক্ষতা জোগায়।"
+  },
+  {
+   "q": "Does education influence us in thinking? How?",
+   "a": "Yes, education deeply influences our thinking. First, it teaches us to think for ourselves and to form our own opinions instead of blindly following others. Secondly, it teaches us to reason well, so that we can find solutions to the problems of life. Thirdly, it fosters critical thinking: as we know more about the world we appreciate its good things but also become critical of the deviations from proper values and of the hatred and conflict that follow. Thus education makes our thinking independent, logical and critical.",
+   "bn": "হ্যাঁ, শিক্ষা আমাদের চিন্তায় গভীর প্রভাব ফেলে। প্রথমত, এটি আমাদের নিজে ভাবতে ও নিজস্ব মত গড়তে শেখায়। দ্বিতীয়ত, সুষ্ঠু যুক্তি প্রয়োগ করে সমস্যার সমাধান খুঁজতে শেখায়। তৃতীয়ত, এটি সমালোচনামূলক চিন্তা জাগায় — আমরা ভালোর কদর করি, আবার মূল্যবোধের বিচ্যুতিরও সমালোচনা করি।"
+  },
+  {
+   "q": "Do you believe that education leads the path to socialization? How?",
+   "a": "Yes, I firmly believe so. Education begins by giving us an awareness about ourselves, which develops our personality. As soon as we start school we feel the need to belong to the class and to make friends. Then this sense of belonging widens step by step to include the school at large, our community and finally our country. In this way education prepares every child to become an active member of the community and to work for its welfare — which is exactly what socialization means.",
+   "bn": "হ্যাঁ, আমি দৃঢ়ভাবে তা বিশ্বাস করি। শিক্ষা প্রথমে আত্মসচেতনতা দেয়, যা ব্যক্তিত্ব গড়ে। স্কুল শুরু হতেই আমরা শ্রেণির অংশ হতে ও বন্ধু বানাতে চাই; ক্রমে সেই একাত্মতাবোধ বিদ্যালয়, সমাজ ও দেশ পর্যন্ত বিস্তৃত হয়। এভাবেই শিক্ষা শিশুকে সমাজের সক্রিয় সদস্য করে তোলে — এটিই সামাজিকীকরণ।"
+  },
+  {
+   "q": "How do we obtain the ability to manage our affairs well?",
+   "a": "We obtain this ability through education. When we learn to read, write and do the basic operations of arithmetic, we gain a degree of self-confidence. Then we learn to think for ourselves, to articulate our thoughts and to pick up the skills of communicating with others. These skills together enable us to manage our own affairs well. Education also teaches us to reason and to find solutions to problems, which makes our management still more effective.",
+   "bn": "এই সামর্থ্য আমরা পাই শিক্ষার মাধ্যমে। পড়া, লেখা ও পাটিগণিত শিখে আমরা কিছুটা আত্মবিশ্বাস পাই; এরপর নিজে ভাবতে, ভাবনা প্রকাশ করতে ও অন্যের সঙ্গে যোগাযোগের দক্ষতা অর্জন করি। এই দক্ষতাগুলোই আমাদের কাজকর্ম সুচারুভাবে সামলাতে সক্ষম করে।"
+  },
+  {
+   "q": "Elucidate the role of nature as our ‘friend, philosopher and guide’.",
+   "a": "The writer reminds us that school is not the only place of education, for nature can be our best teacher. As a friend, nature gives us joy and teaches us to appreciate beauty and its bounties. As a philosopher, it silently teaches great truths — the sky teaches us to be liberal and the wind gives us the motto to be industrious. As a guide, it shows us how to live: patient like the earth, generous like the sky, tireless like the wind. If these lessons are combined with what our schools teach us, we shall be fully prepared for the future.",
+   "bn": "লেখক মনে করিয়ে দেন, বিদ্যালয়ই একমাত্র শিক্ষালয় নয় — প্রকৃতিই হতে পারে সেরা শিক্ষক। বন্ধু হিসেবে প্রকৃতি আনন্দ দেয় ও সৌন্দর্যের কদর শেখায়; দার্শনিক হিসেবে নীরবে বড় সত্য শেখায় — আকাশ শেখায় উদার হতে, বাতাস শেখায় কর্মী হতে; পথপ্রদর্শক হিসেবে দেখায় কীভাবে বাঁচতে হয়। বিদ্যালয়ের শিক্ষার সঙ্গে এই শিক্ষা মিললেই আমরা ভবিষ্যতের জন্য প্রস্তুত হব।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "What / Who",
+   "Event / Action",
+   "How / Why",
+   "Result"
+  ],
+  "rows": [
+   [
+    "Education",
+    "provides us knowledge and a set of abilities",
+    "(i) @to function meaningfully in life",
+    "our overall development"
+   ],
+   [
+    "(ii) @Reading, writing and arithmetic",
+    "enable us to live well",
+    "(iii) @by giving us a degree of self-confidence",
+    "our personal development"
+   ],
+   [
+    "(iv) @Knowing more about the world",
+    "makes us critical",
+    "of the deviations from the values education imparts",
+    "our tendency to stick to social values"
+   ],
+   [
+    "(v) @Awareness about ourselves",
+    "is the result of education",
+    "as the first thing education does",
+    "the development of our personality"
+   ],
+   [
+    "Education",
+    "develops our sense (vi) @of belonging to the class, school, community and country",
+    "as we begin school",
+    "an active member of the community"
+   ],
+   [
+    "(vii) @Our potentials and inner strengths",
+    "get fully developed",
+    "owing to education",
+    "productive members of society"
+   ],
+   [
+    "(viii) @Progressiveness and liberality",
+    "(ix) @are characteristics of education",
+    "by definition",
+    "(x) @respect for human diversity and cultural and religious differences"
+   ]
+  ],
+  "note": "‘Result’ কলামে সবসময় ফলাফল বসে — কোনো ক্রিয়া নয়, বরং একটি অবস্থা বা অর্জন (development, member, respect)।"
+ },
+ "flow": {
+  "title": "Functions of Education — শিক্ষার কাজসমূহ",
+  "items": [
+   {
+    "t": "Giving us knowledge",
+    "bn": "জ্ঞান দেওয়া (দেওয়া আছে)"
+   },
+   {
+    "t": "Giving abilities to decide rationally and make right choices",
+    "bn": "যুক্তিসংগত সিদ্ধান্ত ও সঠিক পছন্দের সামর্থ্য"
+   },
+   {
+    "t": "Building self-confidence and independent thinking",
+    "bn": "আত্মবিশ্বাস ও স্বাধীন চিন্তা গড়ে তোলা"
+   },
+   {
+    "t": "Creating awareness about ourselves and developing personality",
+    "bn": "আত্মসচেতনতা ও ব্যক্তিত্বের বিকাশ"
+   },
+   {
+    "t": "Expanding the sense of belonging — class, school, community, country",
+    "bn": "একাত্মতাবোধের প্রসার"
+   },
+   {
+    "t": "Releasing potentials, sharpening intellect and fostering creativity",
+    "bn": "সুপ্ত শক্তি মুক্ত করা, বুদ্ধি ও সৃজনশীলতার বিকাশ"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "Nature as Teacher <span class='sub'>— প্রকৃতির পাঠশালা</span>",
+   "key": "Nature",
+   "table": {
+    "headers": [
+     "Teacher in nature",
+     "Lesson taught",
+     "বাংলা"
+    ],
+    "rows": [
+     [
+      "The sky",
+      "To be liberal / broad-minded",
+      "@আকাশ শেখায় উদার হতে"
+     ],
+     [
+      "The wind",
+      "To be industrious / hardworking",
+      "@বাতাস শেখায় পরিশ্রমী হতে"
+     ],
+     [
+      "Nature as a whole",
+      "To appreciate beauty and the bounties of nature",
+      "@সৌন্দর্য ও প্রকৃতির দানের কদর করা"
+     ],
+     [
+      "Nature as friend, philosopher and guide",
+      "Lessons about life that school alone cannot give",
+      "@জীবনের যে শিক্ষা বিদ্যালয় দিতে পারে না"
+     ]
+    ]
+   },
+   "note": "‘Sky → liberal’ আর ‘Wind → industrious’ — এই দুটি জোড়া উল্টে ফেলা সবচেয়ে সাধারণ ভুল। মনে রাখো: **আকাশ বিশাল তাই উদার; বাতাস থামে না তাই কর্মী।**"
+  },
+  {
+   "title": "12 Gifts of Education <span class='sub'>— শিক্ষার ১২টি দান (এক নজরে)</span>",
+   "key": "12 Gifts",
+   "list": [
+    {
+     "em": "📚",
+     "t": "Knowledge &amp; abilities",
+     "d": "জ্ঞান ও কাজের সামর্থ্য"
+    },
+    {
+     "em": "⚖️",
+     "t": "Rational decision-making",
+     "d": "যুক্তিসংগত সিদ্ধান্ত"
+    },
+    {
+     "em": "💪",
+     "t": "Self-confidence",
+     "d": "আত্মবিশ্বাস"
+    },
+    {
+     "em": "🗣️",
+     "t": "Power to articulate thoughts",
+     "d": "ভাবনা প্রকাশের ক্ষমতা"
+    },
+    {
+     "em": "🧠",
+     "t": "Independent &amp; critical thinking",
+     "d": "স্বাধীন ও সমালোচনামূলক চিন্তা"
+    },
+    {
+     "em": "🪞",
+     "t": "Self-awareness &amp; personality",
+     "d": "আত্মসচেতনতা ও ব্যক্তিত্ব"
+    },
+    {
+     "em": "🤝",
+     "t": "Sense of belonging",
+     "d": "শ্রেণি → বিদ্যালয় → সমাজ → দেশ"
+    },
+    {
+     "em": "🌱",
+     "t": "Release of potentials",
+     "d": "সুপ্ত সম্ভাবনার মুক্তি"
+    },
+    {
+     "em": "🎨",
+     "t": "Creativity",
+     "d": "সৃজনশীলতা"
+    },
+    {
+     "em": "🌍",
+     "t": "Respect for diversity",
+     "d": "বৈচিত্র্যের প্রতি শ্রদ্ধা",
+     "type": "ok"
+    },
+    {
+     "em": "🛠️",
+     "t": "Life skills &amp; competencies",
+     "d": "জীবনদক্ষতা ও প্রতিযোগিতার যোগ্যতা",
+     "type": "ok"
+    },
+    {
+     "em": "🌄",
+     "t": "Love of beauty &amp; nature",
+     "d": "সৌন্দর্য ও প্রকৃতির কদর",
+     "type": "ok"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  {
+   "em": "📋",
+   "t": "Listing passage = number them",
+   "d": "প্যাসেজে যতবার ‘Education also…’ এসেছে ততবার একটি করে কাজ। মার্জিনে ১, ২, ৩ লিখে ফেলো — Flow chart তৈরি।"
+  },
+  {
+   "em": "🔤",
+   "t": "‘at large’ has two meanings",
+   "type": "warn",
+   "d": "এখানে ‘সামগ্রিকভাবে’; অন্যত্র ‘পলাতক’ (a criminal at large)। প্রসঙ্গ দেখে অর্থ ঠিক করো।"
+  },
+  {
+   "em": "🌬️",
+   "t": "Sky ≠ Wind",
+   "type": "warn",
+   "d": "আকাশ → liberal, বাতাস → industrious. প্রতি বছর এই দুটির যেকোনো একটি থেকে MCQ আসে।"
+  },
+  {
+   "em": "✍️",
+   "t": "‘How?’ প্রশ্নে তিনটি ধাপ",
+   "d": "‘Does education influence us in thinking? How?’ — হ্যাঁ/না + তিনটি উপায় (independent, logical, critical) = পূর্ণ ৩ নম্বর।"
+  },
+  {
+   "em": "🔗",
+   "t": "Chain of belonging",
+   "type": "ok",
+   "d": "class → school at large → community → country. এই ক্রমটি হুবহু লিখলে ‘socialization’ প্রশ্নে পূর্ণ নম্বর।"
+  },
+  {
+   "em": "🌿",
+   "t": "Don't forget the last paragraph",
+   "d": "অনেকেই প্রকৃতির অংশটি বাদ দিয়ে Summary লেখে — ফলে ২ নম্বর কম পায়। শেষ অনুচ্ছেদ অবশ্যই এক বাক্যে ধরো।"
+  }
+ ],
+ "recap": [
+  "শিক্ষা দেয়: জ্ঞান + যুক্তিসংগত সিদ্ধান্ত ও সঠিক পছন্দের সামর্থ্য।",
+  "প্রথম দান: আত্মসচেতনতা → ব্যক্তিত্বের বিকাশ।",
+  "একাত্মতাবোধের শৃঙ্খল: শ্রেণি → সমগ্র বিদ্যালয় → সমাজ → দেশ।",
+  "শিক্ষা প্রগতিশীল ও উদার — মানব-বৈচিত্র্য, সাংস্কৃতিক ও ধর্মীয় ভিন্নতাকে সম্মান শেখায়।",
+  "প্রকৃতিই সেরা শিক্ষক: আকাশ → উদারতা, বাতাস → পরিশ্রম; প্রকৃতি = friend, philosopher and guide."
+ ],
+ "homework": [
+  "শিক্ষার ১২টি দান খাতায় তালিকা করে আনবে।",
+  "‘Nature as Teacher’ টেবিলটি লিখে আনবে।",
+  "‘Do you believe education leads to socialization?’ — উত্তরটি নিজের ভাষায় লিখবে।",
+  "Summary ১৪০ শব্দে লিখে আনবে (শেষ অনুচ্ছেদ বাদ দেবে না)।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

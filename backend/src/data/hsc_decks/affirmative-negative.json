@@ -1,0 +1,645 @@
+{
+ "id": "affirmative-negative",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part A",
+ "unitName": "Grammar — Transformation",
+ "title": "Transformation: Affirmative ↔ Negative",
+ "titleBn": "হ্যাঁ-বাচক ↔ না-বাচক রূপান্তর",
+ "lede": "একটাই শর্ত — **অর্থের কোনো পরিবর্তন হবে না**। ২৫টি নিয়মে হ্যাঁ-বাচক বাক্যকে না-বাচক করার সম্পূর্ণ কৌশল, প্রতিটির গঠন ও জোড়া উদাহরণসহ।",
+ "qType": "Grammar — Transformation of Sentences",
+ "minutes": 55,
+ "marks": "5",
+ "rulesTitle": "Negative করার ২৫টি নিয়ম",
+ "rulesPerSlide": 2,
+ "objectives": [
+  {
+   "t": "The one golden condition",
+   "d": "রূপ বদলাবে, অর্থ নয় — এটাই রূপান্তরের মূল শর্ত"
+  },
+  {
+   "t": "25 rules with paired examples",
+   "d": "প্রতিটি নিয়মে Affirmative ও Negative — পাশাপাশি"
+  },
+  {
+   "t": "Spot the signal word",
+   "d": "Only, Must, Every, Too…to, As soon as — সংকেত চিনলেই উত্তর"
+  },
+  {
+   "t": "Solve a board-pattern set",
+   "d": "১০টি বাক্য, প্রতিটির যুক্তিসহ সমাধান"
+  },
+  {
+   "t": "Two live practice sets",
+   "d": "শ্রেণিকক্ষে সরাসরি অনুশীলন"
+  },
+  {
+   "t": "Traps &amp; memory tricks",
+   "d": "যেখানে অর্থ উল্টে যায়, আর মনে রাখার উপায়"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Basic",
+   "name": "Opposite Word — বিপরীত শব্দ ব্যবহার",
+   "bn": "বাক্যের মূল শব্দের (Adjective / Verb) আগে **not** বসিয়ে এবং শব্দটির **বিপরীত শব্দ** ব্যবহার করে Negative করা হয়।",
+   "formula": "Sub + verb + ==not== + opposite word",
+   "ex": "**Aff:** He is a good player. → **Neg:** He is ==not a bad== player."
+  },
+  {
+   "no": "02",
+   "tag": "Signal",
+   "name": "Only / Alone",
+   "bn": "**Only** বা **Alone** থাকলে — ব্যক্তির ক্ষেত্রে **None but**, বস্তুর ক্ষেত্রে **Nothing but**, আর বয়স/সংখ্যার ক্ষেত্রে **Not more than / Not less than** বসে।",
+   "formula": "person → None but · thing → Nothing but · number → Not more than",
+   "ex": "**Aff:** Only Allah can help us. → **Neg:** ==None but== Allah can help us."
+  },
+  {
+   "no": "03",
+   "tag": "Signal",
+   "name": "Must / Have to / Has to",
+   "bn": "বাক্যে **must / have to / has to** থাকলে তার পরিবর্তে **cannot but + V1** অথবা **cannot help + V4 (verb+ing)** বসে।",
+   "formula": "cannot but + V1  |  cannot help + V+ing",
+   "ex": "**Aff:** You must obey your parents. → **Neg:** You ==cannot but obey== your parents."
+  },
+  {
+   "no": "04",
+   "tag": "Signal",
+   "name": "Every",
+   "bn": "**Every** যুক্ত বাক্যকে Negative করতে Every-এর পরিবর্তে **There is no** বসে + Every-এর পরের শব্দটি বসে + **but** বসে + বাকি অংশ বসে।",
+   "formula": "There is no + noun + but + rest",
+   "ex": "**Aff:** Every mother loves her child. → **Neg:** ==There is no mother but loves== her child."
+  },
+  {
+   "no": "05",
+   "tag": "Signal",
+   "name": "As soon as",
+   "bn": "**As soon as** যুক্ত বাক্যকে Negative করতে **No sooner had … than** ব্যবহার করা হয়। (had-এর সাথে V3, than-এর পরে V2)",
+   "formula": "No sooner had + sub + V3 + than + sub + V2",
+   "ex": "**Aff:** As soon as he saw the police, he ran away. → **Neg:** ==No sooner had he seen== the police ==than== he ran away."
+  },
+  {
+   "no": "06",
+   "tag": "Signal",
+   "name": "Too … to",
+   "bn": "**Too**-এর পরিবর্তে **so** বসে এবং **to**-এর পরিবর্তে **that + subject + cannot/could not + V1** বসে।",
+   "formula": "so + adj + that + sub + cannot/could not + V1",
+   "ex": "**Aff:** He is too weak to walk. → **Neg:** He is ==so weak that he cannot walk==.",
+   "note": "মূল বাক্য Past হলে could not, Present হলে cannot বসবে।"
+  },
+  {
+   "no": "07",
+   "tag": "Signal",
+   "name": "Both … and",
+   "bn": "**Both** এবং **and** যুক্ত বাক্যকে Negative করতে Both-এর জায়গায় **Not only** এবং and-এর জায়গায় **but also** বসে।",
+   "formula": "Not only … but also …",
+   "ex": "**Aff:** He ate both apples and oranges. → **Neg:** He ate ==not only apples but also oranges==."
+  },
+  {
+   "no": "08",
+   "tag": "Signal",
+   "name": "Always / Sometimes",
+   "bn": "**Always** থাকলে **Never + বিপরীত শব্দ** বসে। **Sometimes** থাকলে **Not always** বসে।",
+   "formula": "Always → Never + opposite · Sometimes → Not always",
+   "ex": "**Aff:** I shall always remember you. → **Neg:** I shall ==never forget== you."
+  },
+  {
+   "no": "09",
+   "tag": "Structure",
+   "name": "Universal Truth — চিরন্তন সত্য",
+   "bn": "চিরন্তন সত্যকে Negative করতে বাক্যটিকে **Negative Interrogative** (না-বাচক প্রশ্নবোধক) আকারে লেখা হয়।",
+   "formula": "Doesn't / Isn't / Don't + sub + V1 …?",
+   "ex": "**Aff:** The sun sets in the west. → **Neg:** ==Doesn't the sun set== in the west?"
+  },
+  {
+   "no": "10",
+   "tag": "Signal",
+   "name": "Much / A little / Many / A few (পরিমাণবাচক)",
+   "bn": "পরিমাণবাচক শব্দের নির্দিষ্ট রূপান্তর আছে — **many → not a few**, **much → not a little**।",
+   "formula": "many → not a few · much → not a little",
+   "ex": "**Aff:** He has many friends. → **Neg:** He does ==not have a few== friends."
+  },
+  {
+   "no": "11",
+   "tag": "Degree",
+   "name": "Superlative → Positive",
+   "bn": "Superlative degree যুক্ত Affirmative বাক্যকে Negative করতে বাক্যের শুরুতে **No other** বসে এবং **as … as** গঠন ব্যবহৃত হয়।",
+   "formula": "No other + noun + … + is as + positive + as + subject",
+   "ex": "**Aff:** Dhaka is the biggest city in Bangladesh. → **Neg:** ==No other city== in Bangladesh ==is as big as== Dhaka."
+  },
+  {
+   "no": "12",
+   "tag": "Signal",
+   "name": "Forever / For good",
+   "bn": "বাক্যে **forever / for good** (চিরতরে) থাকলে Negative করার সময় **never … again** ব্যবহার করা হয়।",
+   "formula": "will never + V1 + … + again",
+   "ex": "**Aff:** He left the village for good. → **Neg:** He will ==never return== to the village ==again==."
+  },
+  {
+   "no": "13",
+   "tag": "Structure",
+   "name": "Where there is … there is …",
+   "bn": "‘**Where there is**’ দিয়ে শুরু হওয়া বাক্যকে Negative করতে **There is no … without …** ব্যবহার করা হয়।",
+   "formula": "There is no + X + without + Y",
+   "ex": "**Aff:** Where there is smoke, there is fire. → **Neg:** ==There is no smoke without fire==."
+  },
+  {
+   "no": "14",
+   "tag": "Structure",
+   "name": "‘Fail to’ / ‘Without’-এর ব্যবহার",
+   "bn": "যখন বাক্যের সরাসরি বিপরীত শব্দ থাকে না বা স্বাভাবিক গুণ বোঝায়, তখন **not fail to** বা **not without** ব্যবহার করে Negative করা যায়।",
+   "formula": "did not fail to + V1  |  not without + noun",
+   "ex": "**Aff:** He attended the meeting. → **Neg:** He ==did not fail to attend== the meeting."
+  },
+  {
+   "no": "15",
+   "tag": "Degree",
+   "name": "As … as",
+   "bn": "**As … as** যুক্ত বাক্যকে Negative করতে প্রথম as-এর জায়গায় **not less** এবং দ্বিতীয় as-এর জায়গায় **than** বসে।",
+   "formula": "not less + adj + than",
+   "ex": "**Aff:** Rina is as wise as Mina. → **Neg:** Rina is ==not less wise than== Mina."
+  },
+  {
+   "no": "16",
+   "tag": "Degree",
+   "name": "Less … than",
+   "bn": "**Less … than** যুক্ত বাক্যকে Negative করতে Less-এর জায়গায় **not as** এবং than-এর জায়গায় **as** বসে।",
+   "formula": "not as + adj + as",
+   "ex": "**Aff:** He is less strong than you. → **Neg:** He is ==not as strong as== you."
+  },
+  {
+   "no": "17",
+   "tag": "Structure",
+   "name": "Universal Possession — চিরন্তন বৈশিষ্ট্য",
+   "bn": "যখন কোনো কিছুর চিরন্তন বৈশিষ্ট্য বা অঙ্গাঙ্গী জড়িত বিষয় বোঝায়, তখন Negative করতে **There is no … without …** বসে।",
+   "formula": "There is no + X + without + Y",
+   "ex": "**Aff:** Every rose has a thorn. → **Neg:** ==There is no rose without a thorn==."
+  },
+  {
+   "no": "18",
+   "tag": "Signal",
+   "name": "If — শর্তমূলক বাক্য",
+   "bn": "**If** যুক্ত Affirmative বাক্যকে Negative করতে If-এর পরিবর্তে **Unless** ব্যবহার করা যায়, অথবা উভয় অংশকেই Negative করা যায়।",
+   "formula": "Unless + sub + V1 … , sub + will not + V1",
+   "ex": "**Aff:** You will pass if you study hard. → **Neg:** You will ==not pass unless you study hard==.",
+   "note": "Unless-এর মধ্যেই ‘না’ আছে — এর পরে আর not বসবে না।"
+  },
+  {
+   "no": "19",
+   "tag": "Signal",
+   "name": "A few / A little",
+   "bn": "Affirmative বাক্যে **A few** থাকলে Negative-এ **not many** বসে; **A little** থাকলে **not much** বসে।",
+   "formula": "a few → not many · a little → not much",
+   "ex": "**Aff:** I have a few friends. → **Neg:** I do ==not have many== friends.",
+   "note": "নিয়ম ১০-এর সাথে গুলিয়ো না: many → not a few, কিন্তু a few → not many।"
+  },
+  {
+   "no": "20",
+   "tag": "Signal",
+   "name": "Anyone / Anybody",
+   "bn": "**Anyone / Anybody** থাকলে Negative করার সময় **There is no one who + negative verb** বসে।",
+   "formula": "There is no one who + cannot/does not + V1",
+   "ex": "**Aff:** Anyone can solve this problem. → **Neg:** ==There is no one who cannot solve== this problem."
+  },
+  {
+   "no": "21",
+   "tag": "Signal",
+   "name": "Very / Greatly",
+   "bn": "Affirmative বাক্যে **Very** থাকলে Negative-এ **not** বসে, **বিপরীত শব্দ** বসে এবং বাক্যের শেষে **at all** বসে।",
+   "formula": "not + opposite word + at all",
+   "ex": "**Aff:** He is very active. → **Neg:** He is ==not lazy at all==."
+  },
+  {
+   "no": "22",
+   "tag": "Word",
+   "name": "Suffix ‘-ful’ → ‘-less’",
+   "bn": "শব্দের শেষে **-ful** থাকলে Negative করার সময় তার জায়গায় **-less** বসানো হয় এবং তার আগে **not** বসে।",
+   "formula": "not + adjective(-less)",
+   "ex": "**Aff:** The driver is careful. → **Neg:** The driver is ==not careless==."
+  },
+  {
+   "no": "23",
+   "tag": "Signal",
+   "name": "Already … yet",
+   "bn": "Affirmative বাক্যে **Already** থাকলে Negative-এ auxiliary verb-এর পরে **not** বসে এবং বাক্যের শেষে **yet** বসে (already উঠে যায়)।",
+   "formula": "have/has + not + V3 + … + yet",
+   "ex": "**Aff:** I have already finished the work. → **Neg:** I have ==not finished the work yet==."
+  },
+  {
+   "no": "24",
+   "tag": "Signal",
+   "name": "Certainly / Surely / Undoubtedly",
+   "bn": "নিশ্চয়তা বোঝাতে **Certainly, Surely, Undoubtedly** থাকলে বাক্যের শুরুতে **There is no doubt that** বসে।",
+   "formula": "There is no doubt that + sub + verb …",
+   "ex": "**Aff:** You are surely wrong. → **Neg:** ==There is no doubt that== you are wrong."
+  },
+  {
+   "no": "25",
+   "tag": "Structure",
+   "name": "It is not that … (সাধারণ অভ্যাস)",
+   "bn": "যখন কোনো সাধারণ অভ্যাস বা পছন্দ বোঝায় এবং সরাসরি বিপরীত শব্দ ব্যবহার করা যায় না, তখন **It is not that … + negative** ব্যবহার করা যায়।",
+   "formula": "It is not that + sub + do not + V1",
+   "ex": "**Aff:** I love traveling. → **Neg:** ==It is not that I do not love== traveling."
+  }
+ ],
+ "boardQ": {
+  "instruction": "Transform the following sentences into negative without changing their meaning. — অর্থের পরিবর্তন না করে নিচের বাক্যগুলোকে না-বাচক করো।",
+  "text": "(a) Only Tasin can solve this sum. (b) Everybody loves his motherland. (c) He is too poor to buy a car. (d) As soon as the bell rang, the students entered the class. (e) You must respect your teachers. (f) Rina is as intelligent as Mina. (g) Dhaka is the largest city in Bangladesh. (h) I shall always remember your kindness. (i) He is very honest. (j) The earth moves round the sun.",
+  "items": [
+   {
+    "ans": "None but Tasin can solve this sum.",
+    "why": "**Only + ব্যক্তি** → None but. (নিয়ম ০২)"
+   },
+   {
+    "ans": "There is nobody but loves his motherland.",
+    "why": "**Every / Everybody** → There is no + noun + but + বাকি অংশ। (নিয়ম ০৪)"
+   },
+   {
+    "ans": "He is so poor that he cannot buy a car.",
+    "why": "**Too … to** → so … that + sub + cannot + V1. (নিয়ম ০৬)"
+   },
+   {
+    "ans": "No sooner had the bell rung than the students entered the class.",
+    "why": "**As soon as** → No sooner had + V3 + than + V2. (নিয়ম ০৫)"
+   },
+   {
+    "ans": "You cannot but respect your teachers.",
+    "why": "**Must** → cannot but + V1. (নিয়ম ০৩)"
+   },
+   {
+    "ans": "Rina is not less intelligent than Mina.",
+    "why": "**As … as** → not less … than. (নিয়ম ১৫)"
+   },
+   {
+    "ans": "No other city in Bangladesh is as large as Dhaka.",
+    "why": "**Superlative** → No other + noun + as + positive + as. (নিয়ম ১১)"
+   },
+   {
+    "ans": "I shall never forget your kindness.",
+    "why": "**Always** → never + বিপরীত শব্দ (remember → forget)। (নিয়ম ০৮)"
+   },
+   {
+    "ans": "He is not dishonest at all.",
+    "why": "**Very** → not + বিপরীত শব্দ + at all. (নিয়ম ২১)"
+   },
+   {
+    "ans": "Doesn't the earth move round the sun?",
+    "why": "**চিরন্তন সত্য** → Negative Interrogative. (নিয়ম ০৯)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — সংকেত চিনে রূপান্তর",
+   "intro": "প্রথমে **সংকেত-শব্দটি** খুঁজে বলো (Only? Must? Every? Too…to?) — তারপর নিয়ম প্রয়োগ করো।",
+   "items": [
+    {
+     "q": "Only Rahim was present in the class.",
+     "ans": "None but Rahim was present in the class.",
+     "why": "Only + ব্যক্তি → None but. (নিয়ম ০২)"
+    },
+    {
+     "q": "He has many books.",
+     "ans": "He does not have a few books.",
+     "why": "many → not a few. (নিয়ম ১০)"
+    },
+    {
+     "q": "Every man is mortal.",
+     "ans": "There is no man but is mortal.",
+     "why": "Every → There is no + noun + but. (নিয়ম ০৪)"
+    },
+    {
+     "q": "He is less wise than his brother.",
+     "ans": "He is not as wise as his brother.",
+     "why": "Less … than → not as … as. (নিয়ম ১৬)"
+    },
+    {
+     "q": "I have already read the book.",
+     "ans": "I have not read the book yet.",
+     "why": "Already → not … yet (already উঠে যায়)। (নিয়ম ২৩)"
+    },
+    {
+     "q": "The nurse is careful.",
+     "ans": "The nurse is not careless.",
+     "why": "-ful → not + -less. (নিয়ম ২২)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — গঠনভিত্তিক রূপান্তর",
+   "intro": "এই সেটে গঠন বদলাতে হবে — শুধু একটি শব্দ পাল্টালেই হবে না।",
+   "items": [
+    {
+     "q": "Where there is a will, there is a way.",
+     "ans": "There is no will without a way.",
+     "why": "Where there is … → There is no … without …। (নিয়ম ১৩)"
+    },
+    {
+     "q": "Anybody can do this work.",
+     "ans": "There is no one who cannot do this work.",
+     "why": "Anybody → There is no one who + negative verb. (নিয়ম ২০)"
+    },
+    {
+     "q": "You will succeed if you work hard.",
+     "ans": "You will not succeed unless you work hard.",
+     "why": "If → Unless; মূল অংশটিও negative হবে। (নিয়ম ১৮)"
+    },
+    {
+     "q": "He left the country for good.",
+     "ans": "He will never return to the country again.",
+     "why": "For good → never … again. (নিয়ম ১২)"
+    },
+    {
+     "q": "You are surely mistaken.",
+     "ans": "There is no doubt that you are mistaken.",
+     "why": "Surely / Certainly → There is no doubt that। (নিয়ম ২৪)"
+    },
+    {
+     "q": "He attended the programme.",
+     "ans": "He did not fail to attend the programme.",
+     "why": "সরাসরি বিপরীত শব্দ নেই → not fail to + V1. (নিয়ম ১৪)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "Signal → Structure <span class='sub'>— সংকেত দেখে গঠন (মূল ছক)</span>",
+   "key": "Signal Chart",
+   "table": {
+    "headers": [
+     "Affirmative-এ যা দেখবে",
+     "Negative-এ যা বসাবে",
+     "উদাহরণ"
+    ],
+    "rows": [
+     [
+      "Only / Alone (person)",
+      "@None but",
+      "Only he → None but he"
+     ],
+     [
+      "Only / Alone (thing)",
+      "@Nothing but",
+      "Only water → Nothing but water"
+     ],
+     [
+      "Only (number / age)",
+      "@Not more than / Not less than",
+      "Only ten → Not more than ten"
+     ],
+     [
+      "Must / have to / has to",
+      "@cannot but + V1",
+      "must go → cannot but go"
+     ],
+     [
+      "Every / Everybody",
+      "@There is no … but …",
+      "Every man → There is no man but"
+     ],
+     [
+      "As soon as",
+      "@No sooner had … than",
+      "As soon as he came → No sooner had he come than"
+     ],
+     [
+      "Too … to",
+      "@so … that + cannot + V1",
+      "too weak to walk → so weak that he cannot walk"
+     ],
+     [
+      "Both … and",
+      "@Not only … but also",
+      "both A and B → not only A but also B"
+     ],
+     [
+      "Always",
+      "@Never + opposite word",
+      "always remember → never forget"
+     ],
+     [
+      "Sometimes",
+      "@Not always",
+      "sometimes goes → does not always go"
+     ],
+     [
+      "Superlative degree",
+      "@No other … as + positive + as",
+      "the biggest → No other … as big as"
+     ],
+     [
+      "As … as",
+      "@not less … than",
+      "as wise as → not less wise than"
+     ],
+     [
+      "Less … than",
+      "@not as … as",
+      "less strong than → not as strong as"
+     ],
+     [
+      "Many",
+      "@not a few",
+      "many friends → not a few friends"
+     ],
+     [
+      "Much",
+      "@not a little",
+      "much time → not a little time"
+     ],
+     [
+      "A few",
+      "@not many",
+      "a few friends → not many friends"
+     ],
+     [
+      "A little",
+      "@not much",
+      "a little water → not much water"
+     ],
+     [
+      "Very",
+      "@not + opposite + at all",
+      "very active → not lazy at all"
+     ],
+     [
+      "-ful (careful)",
+      "@not + -less (not careless)",
+      "careful → not careless"
+     ],
+     [
+      "Already",
+      "@not … yet",
+      "already finished → not finished yet"
+     ],
+     [
+      "Certainly / Surely",
+      "@There is no doubt that",
+      "surely wrong → no doubt that … wrong"
+     ],
+     [
+      "Universal truth",
+      "@Negative Interrogative",
+      "The sun sets → Doesn't the sun set?"
+     ],
+     [
+      "Forever / For good",
+      "@never … again",
+      "for good → never … again"
+     ],
+     [
+      "Anyone / Anybody",
+      "@There is no one who + neg. verb",
+      "Anyone can → There is no one who cannot"
+     ],
+     [
+      "If",
+      "@Unless (+ negative main clause)",
+      "if you study → unless you study"
+     ]
+    ]
+   },
+   "note": "**এই ২৫টি সারি-ই পুরো অধ্যায়।** পরীক্ষার হলে প্রথমেই সংকেত-শব্দটি গোল দাগ দাও, তারপর সারি অনুযায়ী গঠন বসাও।"
+  },
+  {
+   "title": "The Quantity Traps <span class='sub'>— পরিমাণবাচক শব্দের উল্টো জোড়া</span>",
+   "key": "Quantity Traps",
+   "table": {
+    "headers": [
+     "Affirmative",
+     "Negative",
+     "মনে রাখার কথা"
+    ],
+    "rows": [
+     [
+      "many",
+      "@not a few",
+      "‘a’ যোগ হয়"
+     ],
+     [
+      "much",
+      "@not a little",
+      "‘a’ যোগ হয়"
+     ],
+     [
+      "a few",
+      "@not many",
+      "‘a’ উঠে যায়"
+     ],
+     [
+      "a little",
+      "@not much",
+      "‘a’ উঠে যায়"
+     ]
+    ]
+   },
+   "note": "**সূত্র:** ‘a’ ছাড়া শব্দ পেলে ‘a’ যোগ করো; ‘a’ যুক্ত শব্দ পেলে ‘a’ বাদ দাও। এই চারটি প্রতি বছরই আসে।"
+  },
+  {
+   "title": "Where Meaning Flips <span class='sub'>— যেখানে অর্থ উল্টে যায় (সাবধান!)</span>",
+   "key": "Meaning Flips",
+   "table": {
+    "headers": [
+     "✗ ভুল রূপান্তর",
+     "✓ সঠিক রূপান্তর",
+     "কেন"
+    ],
+    "rows": [
+     [
+      "He is not a good player.",
+      "He is ==not a bad== player.",
+      "@শুধু not বসালে অর্থ উল্টে যায়; বিপরীত শব্দও লাগবে"
+     ],
+     [
+      "Unless you do not work hard…",
+      "==Unless you work hard==…",
+      "@Unless-এর মধ্যেই ‘না’ আছে"
+     ],
+     [
+      "No sooner had he came than…",
+      "No sooner had he ==come== than…",
+      "@had-এর সাথে V3, than-এর পরে V2"
+     ],
+     [
+      "He cannot but going.",
+      "He cannot but ==go==. / cannot help ==going==.",
+      "@but → V1, help → V+ing"
+     ],
+     [
+      "There is no mother but love her child.",
+      "There is no mother but ==loves== her child.",
+      "@but-এর পরে singular verb"
+     ],
+     [
+      "Dhaka is not smaller than any city.",
+      "==No other city== … ==is as big as== Dhaka.",
+      "@Superlative-এর নির্দিষ্ট গঠন মানতে হবে"
+     ]
+    ]
+   },
+   "note": "রূপান্তরের **একটাই শর্ত — অর্থ অপরিবর্তিত থাকতে হবে**। উত্তর লেখার পরে একবার পড়ে দেখো, অর্থ বদলে গেছে কি না।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🎯",
+   "t": "One golden rule: meaning must not change",
+   "d": "রূপান্তর মানে **রূপ বদলানো, অর্থ নয়**। উত্তর লিখে একবার মিলিয়ে পড়ো — মূল বাক্যের অর্থ ঠিক আছে তো?"
+  },
+  {
+   "em": "🔍",
+   "t": "Circle the signal word first",
+   "d": "Only, Must, Every, Too…to, As soon as, Both…and, Always, Very, Already — এদের যেকোনো একটি পেলেই নিয়ম নির্ধারিত হয়ে যায়।"
+  },
+  {
+   "em": "➕",
+   "t": "‘not’ alone is not enough",
+   "type": "warn",
+   "d": "‘He is a good boy’ → ‘He is not a good boy’ **ভুল**, কারণ অর্থ বদলে গেছে। সঠিক: ‘He is **not a bad** boy’ — not + বিপরীত শব্দ।"
+  },
+  {
+   "em": "🚫",
+   "t": "Never double the negative",
+   "type": "warn",
+   "d": "**Unless, Lest, None but, Nothing but** — এদের মধ্যেই ‘না’ আছে। এদের সাথে আবার not বসালে অর্থ উল্টে যায়।"
+  },
+  {
+   "em": "🔢",
+   "t": "The ‘a’ formula for quantity",
+   "type": "ok",
+   "d": "many → not **a** few · much → not **a** little · **a** few → not many · **a** little → not much। ‘a’ আছে কি নেই — সেটাই চাবি।"
+  },
+  {
+   "em": "⏳",
+   "t": "Tense stays the same",
+   "d": "Present বাক্য Negative করলেও Present থাকবে, Past থাকলে Past। শুধু ‘too…to’ ও ‘as soon as’-এ গঠনগত কারণে verb-form বদলায়।"
+  },
+  {
+   "em": "❓",
+   "t": "Universal truth → question mark",
+   "type": "ok",
+   "d": "চিরন্তন সত্যের Negative রূপ প্রশ্নবোধক হয়, তাই শেষে **প্রশ্নবোধক চিহ্ন (?)** দিতে ভুলো না — এখানেই অনেকে নম্বর হারায়।"
+  },
+  {
+   "em": "✍️",
+   "t": "Write the full sentence",
+   "d": "শুধু বদলে যাওয়া অংশ নয়, **সম্পূর্ণ বাক্যটি** লিখতে হবে। প্রথম অক্ষর বড় হাতের ও শেষে দাঁড়ি/প্রশ্নচিহ্ন দিতে হবে।"
+  }
+ ],
+ "recap": [
+  "রূপান্তরের একমাত্র শর্ত: অর্থের কোনো পরিবর্তন হবে না।",
+  "Only → None but / Nothing but; Must → cannot but + V1; Every → There is no … but।",
+  "Too…to → so…that + cannot; As soon as → No sooner had … than; Both…and → Not only … but also।",
+  "Degree: Superlative → No other … as … as; as…as → not less … than; less…than → not as … as।",
+  "পরিমাণ: many↔not a few, much↔not a little, a few↔not many, a little↔not much।",
+  "চিরন্তন সত্য → Negative Interrogative (শেষে ? চিহ্ন)।"
+ ],
+ "homework": [
+  "‘Signal → Structure’ ছকের ২৫টি সারি খাতায় লিখে মুখস্থ করবে।",
+  "‘The Quantity Traps’ চারটি জোড়া আলাদা করে লিখবে।",
+  "বোর্ড প্রশ্নের ১০টি বাক্য না দেখে আবার রূপান্তর করবে এবং প্রতিটির পাশে নিয়মের নম্বর লিখবে।",
+  "নিজে ১০টি Affirmative বাক্য লিখে সেগুলোর Negative রূপ তৈরি করবে।"
+ ],
+ "paper": "paper2"
+}

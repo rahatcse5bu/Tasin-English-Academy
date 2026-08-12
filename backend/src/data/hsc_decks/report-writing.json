@@ -1,0 +1,383 @@
+{
+ "id": "report-writing",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part B",
+ "unitName": "Composition — Writing",
+ "title": "Report Writing",
+ "titleBn": "প্রতিবেদন লেখা",
+ "lede": "প্রতিবেদন মানে ঘটনার নিরপেক্ষ বিবরণ। শিরোনাম, প্রতিবেদকের পরিচয়, স্থান-তারিখ, তারপর তথ্য — মতামত নয়, তথ্য।",
+ "qType": "Composition — Report Writing",
+ "minutes": 50,
+ "marks": "10",
+ "rulesTitle": "প্রতিবেদনের কাঠামো",
+ "rulesPerSlide": 3,
+ "objectives": [
+  {
+   "t": "Headline, by-line, dateline",
+   "d": "তিনটি আবশ্যিক অংশ"
+  },
+  {
+   "t": "Facts, not opinions",
+   "d": "ব্যক্তিগত মত নয়, তথ্য"
+  },
+  {
+   "t": "Answer 5W + 1H",
+   "d": "কে, কী, কখন, কোথায়, কেন, কীভাবে"
+  },
+  {
+   "t": "Past tense &amp; third person",
+   "d": "অতীত কাল ও নৈর্ব্যক্তিক ভাষা"
+  },
+  {
+   "t": "A full model report",
+   "d": "অংশে অংশে বিশ্লেষণসহ"
+  },
+  {
+   "t": "Common report topics",
+   "d": "সড়ক দুর্ঘটনা, বইমেলা, ক্রীড়া প্রতিযোগিতা"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Format",
+   "name": "শিরোনাম (Headline)",
+   "bn": "প্রতিবেদনের ওপরে একটি **সংক্ষিপ্ত, তথ্যবহুল শিরোনাম** থাকবে — সাধারণত ৫–৮ শব্দে।",
+   "formula": "A short factual headline",
+   "ex": "==Road Accident Claims Three Lives at Barishal=="
+  },
+  {
+   "no": "02",
+   "tag": "Format",
+   "name": "প্রতিবেদকের পরিচয় (By-line)",
+   "bn": "শিরোনামের নিচে প্রতিবেদকের পরিচয় — **Staff Correspondent** বা নিজের নামসহ।",
+   "formula": "By a Staff Correspondent",
+   "ex": "==By our Staff Correspondent=="
+  },
+  {
+   "no": "03",
+   "tag": "Format",
+   "name": "স্থান ও তারিখ (Dateline)",
+   "bn": "মূল লেখা শুরুর আগে **স্থান ও তারিখ** থাকবে — যেখান থেকে সংবাদটি পাঠানো হচ্ছে।",
+   "formula": "Barishal, 12 August:",
+   "ex": "==Barishal, 12 August:== A tragic road accident …"
+  },
+  {
+   "no": "04",
+   "tag": "Content",
+   "name": "প্রথম অনুচ্ছেদেই মূল ঘটনা",
+   "bn": "সাংবাদিকতার নিয়ম — **সবচেয়ে গুরুত্বপূর্ণ তথ্য প্রথমেই**। প্রথম বাক্যেই কী ঘটেছে, কোথায় ও কখন তা বলে দাও।",
+   "formula": "Most important fact first",
+   "ex": "A tragic road accident occurred at … yesterday morning."
+  },
+  {
+   "no": "05",
+   "tag": "Content",
+   "name": "5W + 1H",
+   "bn": "প্রতিবেদনে অবশ্যই থাকবে — **What** (কী), **Where** (কোথায়), **When** (কখন), **Who** (কারা), **Why** (কেন), **How** (কীভাবে)।",
+   "formula": "What · Where · When · Who · Why · How",
+   "ex": "এই ছয়টি প্রশ্নের উত্তর থাকলেই প্রতিবেদন সম্পূর্ণ।"
+  },
+  {
+   "no": "06",
+   "tag": "Language",
+   "name": "তথ্য দাও, মত নয়",
+   "bn": "প্রতিবেদন **নিরপেক্ষ**। ‘I think’, ‘It is very sad’ — এসব লেখা যাবে না। সূত্রের বরাত দিয়ে লেখো: *according to eyewitnesses*।",
+   "formula": "No personal opinion · cite sources",
+   "ex": "✗ I feel very sad  ✓ According to the local people, …"
+  },
+  {
+   "no": "07",
+   "tag": "Language",
+   "name": "অতীত কাল ও তৃতীয় পুরুষ",
+   "bn": "ঘটে যাওয়া ঘটনা তাই **Past tense**; আর কখনো ‘I/we’ নয়, **third person**-এ লেখো।",
+   "formula": "Past tense · third person",
+   "ex": "The accident ==occurred== … The police ==rushed== to the spot."
+  },
+  {
+   "no": "08",
+   "tag": "Content",
+   "name": "সূত্র ও উদ্ধৃতি",
+   "bn": "বিশ্বাসযোগ্যতা বাড়াতে সূত্র উল্লেখ করো — *according to the police*, *eyewitnesses said*, *the local people alleged*।",
+   "formula": "according to … / … said",
+   "ex": "==According to the police==, the driver was drunk."
+  },
+  {
+   "no": "09",
+   "tag": "Structure",
+   "name": "শেষ অনুচ্ছেদে ব্যবস্থা ও প্রতিক্রিয়া",
+   "bn": "শেষে লিখবে কী ব্যবস্থা নেওয়া হয়েছে বা কর্তৃপক্ষ কী বলেছে — তারপর প্রয়োজনে করণীয়।",
+   "formula": "action taken → authority’s response",
+   "ex": "The police have started an investigation into the incident."
+  },
+  {
+   "no": "10",
+   "tag": "Marks",
+   "name": "দৈর্ঘ্য ও নম্বর",
+   "bn": "**১৫০–২০০ শব্দ, ২–৩টি অনুচ্ছেদ**। নম্বর: **ফরম্যাট ৩, তথ্য ৪, ভাষা ২, বানান ১**।",
+   "formula": "150–200 words · Format 3 · Content 4",
+   "ex": "শিরোনাম বা dateline বাদ দিলে ফরম্যাটের নম্বর কাটা।"
+  }
+ ],
+ "boardQ": {
+  "instruction": "Write a report on a road accident for a national daily. — একটি জাতীয় দৈনিকের জন্য সড়ক দুর্ঘটনার প্রতিবেদন লেখো। (10)",
+  "text": "Model report — অংশগুলো ক্রম অনুসারে সাজালেই সম্পূর্ণ প্রতিবেদন।",
+  "items": [
+   {
+    "ans": "Road Accident Claims Three Lives at Barishal",
+    "why": "**শিরোনাম** — সংক্ষিপ্ত ও তথ্যবহুল। (নিয়ম ০১)"
+   },
+   {
+    "ans": "By our Staff Correspondent",
+    "why": "**প্রতিবেদকের পরিচয়**। (নিয়ম ০২)"
+   },
+   {
+    "ans": "Barishal, 12 August:",
+    "why": "**স্থান ও তারিখ** — মূল লেখা শুরুর আগে। (নিয়ম ০৩)"
+   },
+   {
+    "ans": "A tragic road accident occurred on the Dhaka–Barishal highway yesterday morning, killing three people on the spot.",
+    "why": "**প্রথম বাক্যেই মূল ঘটনা** — কী, কোথায়, কখন। (নিয়ম ০৪, ০৫)"
+   },
+   {
+    "ans": "The accident took place at about 9 a.m. when a passenger bus collided head-on with a truck.",
+    "why": "**How** — কীভাবে ঘটল। (নিয়ম ০৫)"
+   },
+   {
+    "ans": "At least fifteen passengers were injured, of whom five are in a critical condition.",
+    "why": "সংখ্যাসহ তথ্য — প্রতিবেদনে সংখ্যা বিশ্বাসযোগ্যতা বাড়ায়। (নিয়ম ০৫)"
+   },
+   {
+    "ans": "According to eyewitnesses, the bus was running at a high speed.",
+    "why": "**সূত্রের বরাত** — according to eyewitnesses. (নিয়ম ০৮)"
+   },
+   {
+    "ans": "The local people rushed to the spot and rescued the injured.",
+    "why": "ঘটনার পরবর্তী বিবরণ। (নিয়ম ০৭)"
+   },
+   {
+    "ans": "The injured were admitted to Barishal Sher-e-Bangla Medical College Hospital.",
+    "why": "ব্যবস্থা — কোথায় নেওয়া হলো। (নিয়ম ০৯)"
+   },
+   {
+    "ans": "The police have seized the truck and started an investigation into the incident.",
+    "why": "**শেষ অনুচ্ছেদ** — কর্তৃপক্ষের ব্যবস্থা। (নিয়ম ০৯)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — শিরোনাম লেখো",
+   "intro": "প্রতিটি ঘটনার জন্য একটি সংক্ষিপ্ত শিরোনাম বলো।",
+   "items": [
+    {
+     "q": "কলেজে বইমেলা অনুষ্ঠিত",
+     "ans": "A Week-long Book Fair Held at Our College",
+     "why": "ছোট, তথ্যবহুল। (০১)"
+    },
+    {
+     "q": "নদীভাঙনে গৃহহীন শতাধিক পরিবার",
+     "ans": "River Erosion Renders Hundreds Homeless",
+     "why": "সক্রিয় ক্রিয়াপদসহ। (০১)"
+    },
+    {
+     "q": "বার্ষিক ক্রীড়া প্রতিযোগিতা",
+     "ans": "Annual Sports Competition Held at Our School",
+     "why": "প্রতিষ্ঠানভিত্তিক ঘটনা। (০১)"
+    },
+    {
+     "q": "ডেঙ্গুর প্রকোপ বৃদ্ধি",
+     "ans": "Dengue Outbreak Takes a Serious Turn",
+     "why": "স্বাস্থ্য-সংবাদ। (০১)"
+    },
+    {
+     "q": "সড়কের বেহাল দশা",
+     "ans": "Dilapidated Road Causes Untold Sufferings",
+     "why": "জনদুর্ভোগ। (০১)"
+    },
+    {
+     "q": "বৃক্ষরোপণ কর্মসূচি",
+     "ans": "Tree Plantation Programme Observed at Our College",
+     "why": "কর্মসূচি-সংবাদ। (০১)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — তথ্য না মত?",
+   "intro": "প্রতিটি বাক্য প্রতিবেদনে লেখা যাবে কি না বলো।",
+   "items": [
+    {
+     "q": "I think the driver was very careless.",
+     "ans": "✗ ব্যক্তিগত মত — লেখা যাবে না",
+     "why": "প্রতিবেদন নিরপেক্ষ। (০৬)"
+    },
+    {
+     "q": "According to the police, the driver was drunk.",
+     "ans": "✓ সূত্রসহ তথ্য",
+     "why": "বরাত দিয়ে লেখা নিরাপদ। (০৮)"
+    },
+    {
+     "q": "It is very sad news for all of us.",
+     "ans": "✗ আবেগ — বাদ দাও",
+     "why": "তথ্যই মূল। (০৬)"
+    },
+    {
+     "q": "At least fifteen passengers were injured.",
+     "ans": "✓ সংখ্যাসহ তথ্য",
+     "why": "পরিসংখ্যান বিশ্বাসযোগ্যতা বাড়ায়। (০৫)"
+    },
+    {
+     "q": "The police have started an investigation.",
+     "ans": "✓ ব্যবস্থার তথ্য",
+     "why": "শেষ অনুচ্ছেদের উপাদান। (০৯)"
+    },
+    {
+     "q": "We should all be careful while crossing roads.",
+     "ans": "✗ উপদেশ — প্রতিবেদনে নয়",
+     "why": "করণীয় লিখলেও নৈর্ব্যক্তিকভাবে। (০৬)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "Report skeleton <span class='sub'>— যেকোনো প্রতিবেদনে খাটে</span>",
+   "key": "Skeleton",
+   "table": {
+    "headers": [
+     "ক্রম",
+     "অংশ",
+     "কী লিখবে"
+    ],
+    "rows": [
+     [
+      "১",
+      "@Headline",
+      "৫–৮ শব্দে সংক্ষিপ্ত শিরোনাম"
+     ],
+     [
+      "২",
+      "@By-line",
+      "By our Staff Correspondent"
+     ],
+     [
+      "৩",
+      "@Dateline",
+      "স্থান, তারিখ:"
+     ],
+     [
+      "৪",
+      "@Lead (১ম অনুচ্ছেদ)",
+      "মূল ঘটনা — কী, কোথায়, কখন"
+     ],
+     [
+      "৫",
+      "@Body (২য় অনুচ্ছেদ)",
+      "কীভাবে, কারা, কেন — বিস্তারিত ও সংখ্যা"
+     ],
+     [
+      "৬",
+      "@Sources",
+      "according to … / eyewitnesses said"
+     ],
+     [
+      "৭",
+      "@Ending (৩য় অনুচ্ছেদ)",
+      "ব্যবস্থা, তদন্ত, কর্তৃপক্ষের বক্তব্য"
+     ]
+    ]
+   },
+   "note": "**সাংবাদিকতার সূত্র:** সবচেয়ে গুরুত্বপূর্ণ তথ্য আগে, কম গুরুত্বপূর্ণ পরে — একে বলে inverted pyramid।"
+  },
+  {
+   "title": "Reporting phrases <span class='sub'>— প্রতিবেদনের নিরাপদ বাক্য</span>",
+   "key": "Phrases",
+   "table": {
+    "headers": [
+     "কাজ",
+     "বাক্যাংশ"
+    ],
+    "rows": [
+     [
+      "ঘটনা জানাতে",
+      "@A tragic incident occurred at … / … took place yesterday"
+     ],
+     [
+      "সময় জানাতে",
+      "@at about 9 a.m. / yesterday morning / on Friday last"
+     ],
+     [
+      "সূত্র দিতে",
+      "@According to the police / Eyewitnesses said / Local people alleged"
+     ],
+     [
+      "ক্ষয়ক্ষতি জানাতে",
+      "@At least … were injured / … were killed on the spot"
+     ],
+     [
+      "ব্যবস্থা জানাতে",
+      "@The police have started an investigation / A case has been filed"
+     ],
+     [
+      "কর্তৃপক্ষের বক্তব্য",
+      "@The authority concerned assured that …"
+     ],
+     [
+      "শেষ করতে",
+      "@The people of the locality demanded immediate steps."
+     ]
+    ]
+   },
+   "note": "সূত্রের বরাত দিয়ে লিখলে ব্যক্তিগত মত না দিয়েও শক্তিশালী প্রতিবেদন লেখা যায়।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "📰",
+   "t": "Headline first, always",
+   "d": "শিরোনাম ছাড়া প্রতিবেদন অসম্পূর্ণ — এটি ফরম্যাটের সবচেয়ে দৃশ্যমান অংশ।",
+   "type": "ok"
+  },
+  {
+   "em": "🚫",
+   "t": "No “I think”",
+   "d": "প্রতিবেদনে ব্যক্তিগত মত নিষিদ্ধ। মত দিতে হলে সূত্রের বরাত দাও।",
+   "type": "warn"
+  },
+  {
+   "em": "🔢",
+   "t": "Numbers make it credible",
+   "d": "কতজন আহত, কখন ঘটল, কত ক্ষতি — সংখ্যা দিলে প্রতিবেদন বিশ্বাসযোগ্য হয়।"
+  },
+  {
+   "em": "⏳",
+   "t": "Past tense throughout",
+   "d": "ঘটে যাওয়া ঘটনা — পুরোটাই অতীত কালে; কর্তৃপক্ষের চলমান ব্যবস্থায় Present Perfect।"
+  },
+  {
+   "em": "🔺",
+   "t": "Inverted pyramid",
+   "d": "গুরুত্বপূর্ণ তথ্য আগে, কম গুরুত্বপূর্ণ পরে। পাঠক প্রথম বাক্যেই মূল খবর পাবে।",
+   "type": "ok"
+  },
+  {
+   "em": "🕒",
+   "t": "Time budget: 15 minutes",
+   "d": "৩ মিনিট তথ্য সাজানো, ১০ মিনিট লেখা, ২ মিনিট যাচাই।"
+  }
+ ],
+ "recap": [
+  "তিনটি আবশ্যিক অংশ: Headline, By-line, Dateline।",
+  "প্রথম অনুচ্ছেদেই মূল ঘটনা — inverted pyramid।",
+  "5W + 1H: What, Where, When, Who, Why, How।",
+  "ব্যক্তিগত মত নয়, সূত্রের বরাতে তথ্য।",
+  "Past tense, third person; শেষে ব্যবস্থা ও কর্তৃপক্ষের বক্তব্য।"
+ ],
+ "homework": [
+  "Report skeleton-এর সাতটি ঘর মুখস্থ করবে।",
+  "Reporting phrases খাতায় লিখবে।",
+  "সড়ক দুর্ঘটনার প্রতিবেদনটি না দেখে লিখবে।",
+  "বইমেলা ও বার্ষিক ক্রীড়ার দুটি প্রতিবেদন লিখে আনবে।"
+ ],
+ "paper": "paper2"
+}

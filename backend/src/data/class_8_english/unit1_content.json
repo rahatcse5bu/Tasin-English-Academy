@@ -1,0 +1,277 @@
+{
+  "unit": {
+    "id": "u1",
+    "number": 1,
+    "title": "A Glimpse of Our Culture",
+    "bangla_title": "আমাদের সংস্কৃতির এক ঝলক",
+    "lessons": [
+      {
+        "id": "u1l1",
+        "number": 1,
+        "title": "Folk Song",
+        "keywords": ["people's music", "oral tradition", "self-expression", "instruments", "migration"],
+        "learn_line": "What folk music is, why it matters, and how it changes as people move and life modernises.",
+        "minutes": 10,
+        "warmup": [
+          "What kind of music do you and your family listen to? Is any of it traditional?",
+          "Do you think music changes over time, or stays the same? Why?",
+          "Name one traditional instrument you have seen or heard. What is it made of?",
+          "Why might village music fade away when people move to cities?"
+        ],
+        "reading": {
+          "summary_en": "Folk music, or 'people's music', is made of tunes, lyrics and knowledge passed down by word of mouth across generations. It mirrors everyday rural life — farming, food, seasons and rituals — through forms such as Palligiti, Bhatiyali, Jari, Sari, Gambhira and Lalon Giti. The instruments are crafted from local materials like animal skin, bamboo and calabash, so their sound is tied to the land. As people migrate to cities and villages modernise, these tunes are slowly fading, yet folk music still survives in films and music albums.",
+          "gist_bn": "লোকসংগীত বা 'জনগণের সংগীত' মুখে মুখে বংশ পরম্পরায় চলে আসা সুর, কথা ও জ্ঞান। এটি গ্রামীণ জীবনের কৃষি, খাদ্য, ঋতু ও আচার-অনুষ্ঠানকে ফুটিয়ে তোলে। স্থানীয় উপকরণ দিয়ে তৈরি বাদ্যযন্ত্রের শব্দ মাটির সঙ্গে জড়িয়ে থাকে। শহরমুখী মানুষের কারণে এই সংগীত ধীরে ধীরে হারিয়ে যাচ্ছে, তবে এখনও চলচ্চিত্র ও অ্যালবামে টিকে আছে।",
+          "book_page": 2
+        },
+        "vocab": [
+          {"word": "folk", "pos": "adj/n", "bangla": "লোকজ, লোক-সংক্রান্ত", "synonym": "traditional, popular", "antonym": "classical, modern", "meaning_en": "of the ordinary people of a region", "example": "Folk songs tell the story of village life."},
+          {"word": "oral", "pos": "adj", "bangla": "মৌখিক", "synonym": "spoken, verbal", "antonym": "written", "meaning_en": "spoken rather than written", "example": "Folk knowledge survives through oral tradition."},
+          {"word": "tradition", "pos": "n", "bangla": "ঐতিহ্য, প্রথা", "synonym": "custom, heritage", "antonym": "innovation", "meaning_en": "a belief or way of doing things passed down over time", "example": "Singing at harvest is an old tradition."},
+          {"word": "evolve", "pos": "v", "bangla": "ক্রমবিকশিত হওয়া", "synonym": "develop, change", "antonym": "stagnate", "meaning_en": "to change gradually over time", "example": "Music evolves as lifestyles change."},
+          {"word": "ecology", "pos": "n", "bangla": "বাস্তুসংস্থান, পরিবেশ", "synonym": "environment", "antonym": "—", "meaning_en": "the relation of living things to their surroundings", "example": "Folk songs reflect the local ecology."},
+          {"word": "ritual", "pos": "n", "bangla": "আচার-অনুষ্ঠান", "synonym": "ceremony, rite", "antonym": "—", "meaning_en": "a set of actions performed in a fixed way, often religious", "example": "Wedding rituals often include folk songs."},
+          {"word": "embody", "pos": "v", "bangla": "মূর্ত করা, ধারণ করা", "synonym": "represent, express", "antonym": "—", "meaning_en": "to be a clear example of an idea or quality", "example": "These songs embody the people's feelings."},
+          {"word": "self-expression", "pos": "n", "bangla": "আত্মপ্রকাশ", "synonym": "self-revelation", "antonym": "repression", "meaning_en": "showing your own thoughts and feelings", "example": "Art is a form of self-expression."},
+          {"word": "diverse", "pos": "adj", "bangla": "বৈচিত্র্যময়", "synonym": "varied, different", "antonym": "uniform, similar", "meaning_en": "of many different kinds", "example": "Bangladesh has diverse ethnic communities."},
+          {"word": "ethnic", "pos": "adj", "bangla": "নৃতাত্ত্বিক, জাতিগত", "synonym": "cultural, racial", "antonym": "—", "meaning_en": "relating to a group with a shared culture", "example": "Ethnic communities live in the hill tracts."},
+          {"word": "calabash", "pos": "n", "bangla": "লাউয়ের খোল (বাদ্যযন্ত্রে ব্যবহৃত)", "synonym": "gourd", "antonym": "—", "meaning_en": "a hard gourd shell used to make instruments", "example": "The instrument's body is a dried calabash."},
+          {"word": "migrate", "pos": "v", "bangla": "অভিবাসন করা, স্থানান্তরিত হওয়া", "synonym": "move, relocate", "antonym": "stay, settle", "meaning_en": "to move from one place to another to live", "example": "People migrate to cities for work."},
+          {"word": "mainstream", "pos": "adj/n", "bangla": "মূলধারা", "synonym": "conventional, popular", "antonym": "marginal, fringe", "meaning_en": "the ideas or styles accepted by most people", "example": "Folk tunes appear in mainstream films."},
+          {"word": "fade", "pos": "v", "bangla": "ক্ষীণ হয়ে যাওয়া, মিলিয়ে যাওয়া", "synonym": "disappear, vanish", "antonym": "grow, flourish", "meaning_en": "to slowly become weaker or disappear", "example": "Old traditions are fading away."}
+        ],
+        "mcqs": [
+          {"q": "The title 'people's music' stands for —", "options": ["classical music", "popular music", "folk music", "jazz music"], "answer_index": 2, "explain": "'People's music' is given in the text as another name for folk music."},
+          {"q": "What is a defining characteristic of folk music?", "options": ["It is composed by famous musicians", "It only exists in urban areas", "It is passed down through generations orally", "It is always played using electronic instruments"], "answer_index": 2, "explain": "Folk music is carried forward by word of mouth, not in writing."},
+          {"q": "Which form is linked with philosophical and spiritual themes?", "options": ["Jari", "Sari", "Bhatiyali", "Lalon Giti"], "answer_index": 3, "explain": "Lalon Giti is known for its philosophical and spiritual content."},
+          {"q": "Folk music has traditionally been passed down through —", "options": ["written manuscripts", "printed songbooks", "oral tradition", "digital recordings"], "answer_index": 2, "explain": "The text says knowledge is passed down orally."},
+          {"q": "Which folk genre is known for being sung by boatmen?", "options": ["Sari", "Jari", "Bhatiyali", "Gambhira"], "answer_index": 2, "explain": "Bhatiyali is the song of the boatmen of the rivers."},
+          {"q": "Folk music instruments are usually made from —", "options": ["plastic and metal", "imported wood", "animal skin, bamboo and calabash", "glass and steel"], "answer_index": 2, "explain": "Local natural materials are used, tying the sound to the land."},
+          {"q": "Why is folk music slowly fading?", "options": ["People are forgetting how to sing", "People migrate to cities and villages modernise", "Governments have banned it", "Instruments are too expensive"], "answer_index": 1, "explain": "Migration and modernisation reduce the oral passing-on of songs."},
+          {"q": "How does folk music stay relevant today?", "options": ["It is integrated into films and music albums", "It is only played in remote villages", "It has completely disappeared", "It is replaced by pop and rock music"], "answer_index": 0, "explain": "It survives in mainstream films and albums."},
+          {"q": "In the hill tracts, folk music is expressed in —", "options": ["a single national language", "the diverse languages of ethnic communities", "only English", "no language at all"], "answer_index": 1, "explain": "The same role of music is carried in many ethnic languages."}
+        ],
+        "short_answers": [
+          {"q": "How is folk music connected to people's daily lives?", "model": "Folk music reflects everyday life such as agriculture, food, ecology, seasons and rituals. It expresses the joys, struggles and celebrations of ordinary people, which makes it part of their cultural identity."},
+          {"q": "What materials are used to make folk instruments, and why?", "model": "They are made from naturally available materials like animal skin, bamboo and calabash. These are easily found in rural areas and produce sounds that feel connected to the land and culture of the people."},
+          {"q": "Why is folk music slowly fading away?", "model": "As people migrate to cities and villages modernise, the oral passing-on of songs weakens. Changing lifestyles and technology reduce the practice, so the tradition gradually declines."},
+          {"q": "How is folk music in the hill tracts different from other regions?", "model": "In the hill tracts the music plays the same role but is expressed in the diverse languages of the different ethnic communities living there."},
+          {"q": "How does folk music help preserve cultural identity?", "model": "It keeps traditional stories, values and customs alive by passing them from one generation to the next, so a community's heritage is not lost."},
+          {"q": "Name three forms of Bangla folk music and one feature of each.", "model": "Bhatiyali is sung by boatmen; Jari and Sari are group/festival songs; Lalon Giti carries spiritual and philosophical themes."}
+        ],
+        "true_false": [
+          {"statement": "Folk music is written down and passed on through printed books.", "is_true": false, "correction": "Folk music is passed on orally, by word of mouth, across generations."},
+          {"statement": "Folk songs reflect agriculture, seasons and rituals of rural life.", "is_true": true, "correction": ""},
+          {"statement": "Folk instruments are mostly made of plastic and steel.", "is_true": false, "correction": "They are made of natural materials such as animal skin, bamboo and calabash."},
+          {"statement": "Bhatiyali is the song of the boatmen.", "is_true": true, "correction": ""},
+          {"statement": "Folk music has completely disappeared in modern times.", "is_true": false, "correction": "It still survives in mainstream films and music albums."},
+          {"statement": "In the hill tracts, folk music is sung in many ethnic languages.", "is_true": true, "correction": ""}
+        ],
+        "cloze": {
+          "text_with_blanks": "Folk music is also called (1)____ music. It is passed down (2)____ for generations. The songs reflect rural life such as farming, food and (3)____. The instruments are made from natural materials like bamboo and (4)____. As people (5)____ to cities, this music is slowly fading.",
+          "blanks": ["people's", "orally", "rituals", "calabash", "migrate"]
+        },
+        "table": {
+          "headers": ["Folk form", "Known for"],
+          "rows": [["Bhatiyali", "songs of the boatmen"], ["Lalon Giti", "spiritual / philosophical themes"], ["Jari & Sari", "group and festival songs"], ["Gambhira", "social and humorous commentary"], ["Palligiti", "general rural / village songs"]],
+          "blanks": ["songs of the boatmen", "spiritual / philosophical themes", "group and festival songs", "social and humorous commentary", "general rural / village songs"]
+        },
+        "match": {
+          "left": ["Folk music is", "The instruments are", "Bhatiyali is", "Lalon Giti carries", "Folk music survives"],
+          "right": ["sung by boatmen.", "passed down orally.", "in films and albums.", "made of natural materials.", "spiritual themes."],
+          "pairs": [[0,1],[1,3],[2,0],[3,4],[4,2]]
+        },
+        "summary": {
+          "model": "Folk music, or people's music, is the oral tradition of ordinary people, made of tunes and lyrics passed down through generations. It reflects rural life — farming, seasons and rituals — and uses instruments built from natural materials like bamboo and calabash. Though it is fading as people move to cities and life modernises, folk music still lives on in films and music albums.",
+          "skeleton": "Folk music is the ____ tradition of ordinary people. It reflects ____ life and uses ____ instruments. It is fading because people ____ to cities, but it survives in ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph (about 100 words) on 'Folk Music of Bangladesh'.",
+          "model": "Folk music is the heartbeat of rural Bangladesh. Often called people's music, it is passed from one generation to the next by word of mouth rather than in writing. Its songs — Bhatiyali, Jari, Sari, Gambhira, Palligiti and Lalon Giti — capture the joys and sorrows of village life, its farming, seasons and rituals. The instruments are simple, made from bamboo, animal skin and calabash, and their sound seems to rise from the soil itself. Although many people now move to cities and the old tunes are slowly fading, folk music still finds new life in films and modern albums, keeping our culture alive."
+        }
+      },
+      {
+        "id": "u1l2",
+        "number": 2,
+        "title": "Nakshi Kantha",
+        "keywords": ["embroidered quilt", "naksha", "indigenous", "handicraft", "patterns"],
+        "learn_line": "What Nakshi Kantha is, where it comes from, and how this folk craft became famous.",
+        "minutes": 10,
+        "warmup": [
+          "Have you ever seen an embroidered quilt at home? What patterns did it have?",
+          "What is the difference between an ordinary kantha and a Nakshi Kantha?",
+          "Why do people in villages reuse old cloth to make quilts?",
+          "Which districts of Bangladesh do you think are famous for handicrafts?"
+        ],
+        "reading": {
+          "summary_en": "Nakshi Kantha is a kind of embroidered quilt whose name comes from the Bangla word 'naksha', meaning artistic pattern. It is a traditional craft said to be indigenous to Bangladesh and West Bengal, practised in rural areas for centuries. The name became popular after the poet Jasimuddin published his poem 'Nakshi Kanthar Math' in 1929. Traditionally, old or new cloth and thread are stitched to make these quilts for family use. Mymensingh, Jamalpur, Rajshahi, Faridpur, Bogura and Jashore are famous for this craft, which is now also produced commercially and sold in expensive handicraft shops because of its colourful patterns and designs.",
+          "gist_bn": "নকশি কাঁথা হলো নকশা করা কাঁথা; 'নকশা' শব্দ থেকেই এর নাম এসেছে। এটি বাংলাদেশ ও পশ্চিমবঙ্গের একটি প্রাচীন লোকশিল্প। কবি জসীমউদ্দীনের 'নকশি কাঁথার মাঠ' (১৯২৯) কবিতার পর এটি জনপ্রিয় হয়। পুরোনো বা নতুন কাপড় ও সুতা দিয়ে এটি তৈরি হয়। ময়মনসিংহ, জামালপুর, রাজশাহী, ফরিদপুর, বগুড়া ও যশোর এই শিল্পের জন্য বিখ্যাত; এখন এটি বাণিজ্যিকভাবেও বিক্রি হয়।",
+          "book_page": 4
+        },
+        "vocab": [
+          {"word": "embroidered", "pos": "adj", "bangla": "সূচিকর্ম করা, নকশা করা", "synonym": "decorated, stitched", "antonym": "plain", "meaning_en": "decorated with sewn patterns", "example": "She bought an embroidered shawl."},
+          {"word": "quilt", "pos": "n", "bangla": "কাঁথা, লেপ", "synonym": "blanket, coverlet", "antonym": "—", "meaning_en": "a thick warm bed cover", "example": "Grandmother stitched a soft quilt."},
+          {"word": "naksha", "pos": "n", "bangla": "নকশা, শৈল্পিক প্যাটার্ন", "synonym": "pattern, design", "antonym": "—", "meaning_en": "an artistic pattern (Bangla word)", "example": "The kantha is covered in beautiful naksha."},
+          {"word": "indigenous", "pos": "adj", "bangla": "স্থানীয়, আদিবাসী/দেশীয়", "synonym": "native, local", "antonym": "foreign, imported", "meaning_en": "originating naturally in a place", "example": "This craft is indigenous to Bengal."},
+          {"word": "handicraft", "pos": "n", "bangla": "হস্তশিল্প", "synonym": "craft, artisanship", "antonym": "—", "meaning_en": "skilled work made by hand", "example": "Nakshi Kantha is a famous handicraft."},
+          {"word": "practise", "pos": "v", "bangla": "চর্চা করা, অনুশীলন করা", "synonym": "perform, carry out", "antonym": "abandon", "meaning_en": "to do an activity regularly", "example": "Villagers have practised this art for centuries."},
+          {"word": "commercially", "pos": "adv", "bangla": "বাণিজ্যিকভাবে", "synonym": "for profit", "antonym": "non-commercially", "meaning_en": "in order to make money", "example": "It is now produced commercially."},
+          {"word": "demand", "pos": "n", "bangla": "চাহিদা", "synonym": "need, requirement", "antonym": "supply", "meaning_en": "the desire of buyers for a product", "example": "There is great demand for these quilts."},
+          {"word": "colourful", "pos": "adj", "bangla": "রঙিন, বর্ণাঢ্য", "synonym": "vivid, bright", "antonym": "dull, colourless", "meaning_en": "having many bright colours", "example": "The designs are very colourful."},
+          {"word": "bereaved", "pos": "adj", "bangla": "শোকার্ত, স্বজনহারা", "synonym": "grieving, mourning", "antonym": "joyful", "meaning_en": "deeply sad after losing someone", "example": "The poem speaks of a bereaved heart."},
+          {"word": "grief", "pos": "n", "bangla": "দুঃখ, শোক", "synonym": "sorrow, sadness", "antonym": "joy, happiness", "meaning_en": "deep sorrow", "example": "Her grief is sewn into every line."},
+          {"word": "relief", "pos": "n", "bangla": "স্বস্তি, প্রশান্তি", "synonym": "comfort, ease", "antonym": "distress", "meaning_en": "the easing of pain or worry", "example": "She hopes the quilt will bring relief."}
+        ],
+        "mcqs": [
+          {"q": "The word 'Nakshi' comes from the Bangla word —", "options": ["naksha", "kantha", "math", "rupai"], "answer_index": 0, "explain": "'Naksha' means artistic pattern; Nakshi Kantha = patterned quilt."},
+          {"q": "'Naksha' means —", "options": ["old cloth", "artistic pattern", "warm blanket", "village fair"], "answer_index": 1, "explain": "The text defines naksha as artistic pattern."},
+          {"q": "Nakshi Kantha is said to be indigenous to —", "options": ["India and Nepal", "Bangladesh and West Bengal", "Pakistan and Bangladesh", "Bangladesh and Myanmar"], "answer_index": 1, "explain": "It is native to Bangladesh and West Bengal in India."},
+          {"q": "The craft became popular after the publication of —", "options": ["a government order", "Jasimuddin's poem in 1929", "a foreign exhibition", "a newspaper article"], "answer_index": 1, "explain": "Jasimuddin's 'Nakshi Kanthar Math' (1929) made the name popular."},
+          {"q": "Traditional kanthas were made for —", "options": ["selling in city shops", "family use", "exporting abroad", "museum display"], "answer_index": 1, "explain": "Traditionally they were made for family use, not sale."},
+          {"q": "Which of these districts is famous for Nakshi Kantha?", "options": ["Cox's Bazar", "Sylhet", "Mymensingh", "Khulna"], "answer_index": 2, "explain": "Mymensingh is named among the famous districts."},
+          {"q": "Nakshi Kanthas are in great demand because of their —", "options": ["low price", "colourful patterns and designs", "large size", "waterproof cloth"], "answer_index": 1, "explain": "Their colourful patterns and designs drive the demand."},
+          {"q": "To make a Nakshi Kantha, people use —", "options": ["only new silk", "old or new cloth and thread", "plastic sheets", "leather and wool"], "answer_index": 1, "explain": "Old or new cloth and thread are stitched together."}
+        ],
+        "short_answers": [
+          {"q": "What is a Nakshi Kantha?", "model": "A Nakshi Kantha is a kind of embroidered quilt covered with artistic patterns. Its name comes from the Bangla word 'naksha', meaning pattern, and it is a traditional handicraft of rural Bengal."},
+          {"q": "How did the name 'Nakshi Kantha' become popular?", "model": "The name became popular after the poet Jasimuddin published his famous poem 'Nakshi Kanthar Math' in 1929, which drew attention to this folk craft."},
+          {"q": "How is a Nakshi Kantha made?", "model": "Old or new cloth is folded into layers and stitched together with coloured thread. Artisans embroider patterns and designs onto the surface to create the finished quilt."},
+          {"q": "Why are Nakshi Kanthas now in great demand?", "model": "They are in great demand because of their beautiful, colourful patterns and designs. They are now produced commercially and sold in expensive handicraft shops in the cities."},
+          {"q": "Which areas of Bangladesh are famous for this craft?", "model": "Mymensingh, Jamalpur, Rajshahi, Faridpur, Bogura and Jashore are most famous for making Nakshi Kantha."}
+        ],
+        "true_false": [
+          {"statement": "The word 'naksha' means a warm blanket.", "is_true": false, "correction": "'Naksha' means an artistic pattern."},
+          {"statement": "Nakshi Kantha is indigenous to Bangladesh and West Bengal.", "is_true": true, "correction": ""},
+          {"statement": "The poem 'Nakshi Kanthar Math' was published in 1992.", "is_true": false, "correction": "It was published in 1929."},
+          {"statement": "Traditional kanthas were originally made to sell in cities.", "is_true": false, "correction": "They were originally made for family use."},
+          {"statement": "Nakshi Kantha is now also produced commercially.", "is_true": true, "correction": ""},
+          {"statement": "Faridpur and Jashore are famous for this craft.", "is_true": true, "correction": ""}
+        ],
+        "cloze": {
+          "text_with_blanks": "Nakshi Kantha is an (1)____ quilt. Its name comes from the word 'naksha', which means artistic (2)____. The craft is (3)____ to Bangladesh and West Bengal. It became popular after Jasimuddin's (4)____ in 1929. Today it is sold (5)____ in handicraft shops.",
+          "blanks": ["embroidered", "pattern", "indigenous", "poem", "commercially"]
+        },
+        "table": {
+          "headers": ["Who / What", "Detail"],
+          "rows": [["'Naksha' means", "artistic pattern"], ["Indigenous to", "Bangladesh and West Bengal"], ["Made popular by", "Jasimuddin's poem (1929)"], ["Famous district", "Mymensingh / Jamalpur"], ["Now sold", "commercially in handicraft shops"]],
+          "blanks": ["artistic pattern", "Bangladesh and West Bengal", "Jasimuddin's poem (1929)", "Mymensingh / Jamalpur", "commercially in handicraft shops"]
+        },
+        "match": {
+          "left": ["Nakshi Kantha is", "'Naksha' means", "Jasimuddin published", "The craft is indigenous", "The quilts are now"],
+          "right": ["artistic pattern.", "an embroidered quilt.", "sold commercially.", "his poem in 1929.", "to Bengal."],
+          "pairs": [[0,1],[1,0],[2,3],[3,4],[4,2]]
+        },
+        "summary": {
+          "model": "Nakshi Kantha is an embroidered quilt named after 'naksha', the Bangla word for artistic pattern. A traditional craft of rural Bengal, it became widely known after Jasimuddin's 1929 poem 'Nakshi Kanthar Math'. Made by stitching old or new cloth with coloured thread, it was once for family use but is now produced commercially and prized for its colourful designs.",
+          "skeleton": "Nakshi Kantha is an ____ quilt named after the word ____. It became famous after Jasimuddin's ____. It is made from ____ and thread and is now sold ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'Nakshi Kantha' (about 100 words).",
+          "model": "Nakshi Kantha is one of the most beautiful folk crafts of Bangladesh. The word comes from 'naksha', meaning an artistic pattern, and a Nakshi Kantha is simply a quilt covered in such patterns. For centuries, rural women have folded layers of old or new cloth and stitched them with coloured thread, embroidering flowers, birds and scenes of village life. The craft became famous after the poet Jasimuddin published 'Nakshi Kanthar Math' in 1929. Districts such as Mymensingh, Jamalpur and Jashore are especially known for it. Today these colourful quilts are made commercially and sold in handicraft shops, carrying our heritage to the world."
+        }
+      },
+      {
+        "id": "u1l3",
+        "number": 3,
+        "title": "Our Ethnic Communities",
+        "keywords": ["ethnic", "flatlands", "distinct", "urbanisation", "legacy", "hurdles", "livelihood"],
+        "learn_line": "Who the ethnic communities of Bangladesh are, where they live, and the challenges they face.",
+        "minutes": 10,
+        "warmup": [
+          "Which ethnic communities of Bangladesh have you heard of?",
+          "Do all of them live in the hills, or in the flatlands too?",
+          "What do you think 'distinct culture' means?",
+          "What challenges might a small community face when cities grow around them?"
+        ],
+        "reading": {
+          "summary_en": "Bangladesh is home to many ethnic communities, each with its own distinct language, dress, food and customs. Some live in the hill tracts while others live in the flatlands of the plains. These communities have a rich cultural legacy of songs, dances and festivals. However, they also face hurdles such as the loss of land, the pressure of urbanisation and difficulties in earning a livelihood, while working to keep their traditions alive.",
+          "gist_bn": "বাংলাদেশে নানা নৃগোষ্ঠী বাস করে, যাদের প্রত্যেকের আলাদা ভাষা, পোশাক, খাবার ও রীতিনীতি আছে। কেউ পাহাড়ি অঞ্চলে, কেউ সমতলে থাকে। তাদের গান, নাচ ও উৎসবের সমৃদ্ধ ঐতিহ্য রয়েছে। তবে জমি হারানো, নগরায়ণের চাপ ও জীবিকার সংকটের মতো নানা প্রতিবন্ধকতার মুখোমুখি হয়েও তারা নিজেদের ঐতিহ্য টিকিয়ে রাখার চেষ্টা করে।",
+          "book_page": 6
+        },
+        "vocab": [
+          {"word": "ethnic", "pos": "adj", "bangla": "নৃতাত্ত্বিক, জাতিগত", "synonym": "cultural, tribal", "antonym": "—", "meaning_en": "relating to a group with shared culture", "example": "Ethnic communities have unique customs."},
+          {"word": "flatlands", "pos": "n", "bangla": "সমতল ভূমি", "synonym": "plains, lowlands", "antonym": "highlands, hills", "meaning_en": "level land without hills", "example": "Some communities live in the flatlands."},
+          {"word": "distinct", "pos": "adj", "bangla": "স্বতন্ত্র, আলাদা", "synonym": "separate, unique", "antonym": "similar, identical", "meaning_en": "clearly different or separate", "example": "Each group has a distinct language."},
+          {"word": "urbanisation", "pos": "n", "bangla": "নগরায়ণ", "synonym": "city growth", "antonym": "ruralisation", "meaning_en": "the growth and spread of towns and cities", "example": "Urbanisation threatens their land."},
+          {"word": "legacy", "pos": "n", "bangla": "উত্তরাধিকার, ঐতিহ্য", "synonym": "heritage, inheritance", "antonym": "—", "meaning_en": "something handed down from the past", "example": "Their cultural legacy is rich."},
+          {"word": "hurdle", "pos": "n", "bangla": "বাধা, প্রতিবন্ধকতা", "synonym": "obstacle, barrier", "antonym": "help, aid", "meaning_en": "a problem or difficulty to overcome", "example": "They face many hurdles."},
+          {"word": "livelihood", "pos": "n", "bangla": "জীবিকা", "synonym": "living, income", "antonym": "—", "meaning_en": "a way of earning money to live", "example": "Farming is their main livelihood."},
+          {"word": "preserve", "pos": "v", "bangla": "সংরক্ষণ করা", "synonym": "protect, maintain", "antonym": "destroy, abandon", "meaning_en": "to keep something safe and unchanged", "example": "They want to preserve their traditions."},
+          {"word": "custom", "pos": "n", "bangla": "প্রথা, রীতি", "synonym": "tradition, practice", "antonym": "—", "meaning_en": "a usual way of behaving", "example": "Each community has its own customs."},
+          {"word": "festival", "pos": "n", "bangla": "উৎসব", "synonym": "celebration", "antonym": "—", "meaning_en": "a special day or period of celebration", "example": "Their festivals are full of music and dance."}
+        ],
+        "mcqs": [
+          {"q": "Ethnic communities in Bangladesh live —", "options": ["only in the hills", "only in cities", "in both hill tracts and flatlands", "only abroad"], "answer_index": 2, "explain": "Some live in the hill tracts and some in the flatlands."},
+          {"q": "The word 'distinct' is closest in meaning to —", "options": ["similar", "separate", "weak", "common"], "answer_index": 1, "explain": "Distinct means separate or clearly different."},
+          {"q": "'Urbanisation' refers to —", "options": ["the growth of towns and cities", "the loss of language", "a kind of festival", "a type of farming"], "answer_index": 0, "explain": "Urbanisation is the spread and growth of cities."},
+          {"q": "A 'hurdle' is —", "options": ["a celebration", "an obstacle", "a song", "a livelihood"], "answer_index": 1, "explain": "A hurdle is a difficulty or obstacle."},
+          {"q": "Which is a challenge faced by ethnic communities?", "options": ["too much land", "loss of land and pressure of urbanisation", "no festivals", "too many languages"], "answer_index": 1, "explain": "Loss of land and urbanisation are key hurdles."},
+          {"q": "'Livelihood' means —", "options": ["a way of earning a living", "a type of dance", "a hill region", "a kind of cloth"], "answer_index": 0, "explain": "Livelihood is the way one earns money to live."},
+          {"q": "The cultural 'legacy' of these communities includes —", "options": ["only farming tools", "songs, dances and festivals", "modern factories", "city buildings"], "answer_index": 1, "explain": "Their legacy is songs, dances and festivals."}
+        ],
+        "short_answers": [
+          {"q": "Who are the ethnic communities of Bangladesh?", "model": "They are groups of people who have their own distinct languages, dress, food and customs. Some live in the hill tracts and others in the flatlands of the plains."},
+          {"q": "What kind of cultural legacy do they have?", "model": "They have a rich cultural legacy that includes their own songs, dances, festivals and customs, which they pass down from one generation to the next."},
+          {"q": "What hurdles do these communities face?", "model": "They face hurdles such as loss of land, the pressure of urbanisation and difficulty earning a livelihood, all of which threaten their way of life."},
+          {"q": "Why is it important to preserve ethnic cultures?", "model": "Preserving these cultures keeps the country's diversity alive. Their languages, customs and arts are a valuable part of the national heritage that would be lost forever if they disappeared."}
+        ],
+        "true_false": [
+          {"statement": "All ethnic communities of Bangladesh live in the hills.", "is_true": false, "correction": "Some live in the hill tracts and others live in the flatlands."},
+          {"statement": "Each ethnic community has its own distinct language and customs.", "is_true": true, "correction": ""},
+          {"statement": "Urbanisation has made life easier for every ethnic community.", "is_true": false, "correction": "Urbanisation is a hurdle that puts pressure on their land and way of life."},
+          {"statement": "Their cultural legacy includes songs, dances and festivals.", "is_true": true, "correction": ""},
+          {"statement": "Livelihood means a kind of traditional dance.", "is_true": false, "correction": "Livelihood means a way of earning a living."}
+        ],
+        "cloze": {
+          "text_with_blanks": "Bangladesh has many ethnic communities with (1)____ languages and customs. Some live in the hills and others in the (2)____. They have a rich cultural (3)____ of songs and festivals. But they face many (4)____ such as the pressure of (5)____.",
+          "blanks": ["distinct", "flatlands", "legacy", "hurdles", "urbanisation"]
+        },
+        "table": {
+          "headers": ["Aspect", "Detail"],
+          "rows": [["Where they live", "hill tracts and flatlands"], ["What makes them special", "distinct language and customs"], ["Cultural legacy", "songs, dances and festivals"], ["A major hurdle", "loss of land / urbanisation"], ["Main concern", "earning a livelihood"]],
+          "blanks": ["hill tracts and flatlands", "distinct language and customs", "songs, dances and festivals", "loss of land / urbanisation", "earning a livelihood"]
+        },
+        "match": {
+          "left": ["Ethnic communities have", "Some live in", "Their legacy includes", "Urbanisation is", "Livelihood means"],
+          "right": ["the flatlands.", "distinct customs.", "a way of earning a living.", "songs and festivals.", "a hurdle for them."],
+          "pairs": [[0,1],[1,0],[2,3],[3,4],[4,2]]
+        },
+        "summary": {
+          "model": "Bangladesh is home to many ethnic communities, each with its own distinct language, dress and customs. They live in both the hill tracts and the flatlands and carry a rich legacy of songs, dances and festivals. Yet they face real hurdles — loss of land, the pressure of urbanisation and the struggle for a livelihood — even as they work to preserve their traditions.",
+          "skeleton": "Bangladesh has many ethnic communities with ____ customs. They live in the hills and the ____. They have a rich ____ of songs and festivals, but face ____ such as ____."
+        },
+        "writing": {
+          "type": "paragraph",
+          "prompt": "Write a paragraph on 'The Ethnic Communities of Bangladesh' (about 100 words).",
+          "model": "Bangladesh is not home to one people alone but to many ethnic communities, each with its own distinct language, dress, food and customs. Some live among the hills of the south-east, while others make their homes in the flatlands of the plains. Together they hold a rich cultural legacy of songs, dances and colourful festivals that adds to the beauty and diversity of the nation. Yet their lives are not easy. The loss of land, the steady pressure of urbanisation and the daily struggle for a livelihood are real hurdles. Protecting their cultures is a way of protecting the heritage of the whole country."
+        }
+      }
+    ]
+  },
+  "poems": [
+    {
+      "id": "p1",
+      "title": "The Field of the Embroidered Quilt",
+      "poet": "Jasimuddin (translated by E. M. Milford)",
+      "linked_unit": 1,
+      "theme": "Love, loss and remembrance stitched into a quilt",
+      "central_idea": "A grieving woman sews her whole life of joy and sorrow into an embroidered quilt, so that her pain and love are preserved and may one day bring relief.",
+      "gist_bn": "এই কবিতায় এক শোকার্ত নারী সারা রাত জেগে কাঁথা সেলাই করেন। কাঁথার প্রতিটি সুতায় তিনি তাঁর জীবনের সুখ-দুঃখ, যন্ত্রণা ও ভালোবাসা গেঁথে রাখেন, যেন তাঁর কষ্টের গল্প চিরকাল থেকে যায় এবং একদিন তা স্বস্তি এনে দেয়।",
+      "key_words": [
+        {"word": "bereaved", "bangla": "শোকার্ত, স্বজনহারা"},
+        {"word": "plight", "bangla": "দুরবস্থা, সংকট"},
+        {"word": "grief", "bangla": "শোক, দুঃখ"},
+        {"word": "mingling", "bangla": "মিশ্রিত হওয়া"},
+        {"word": "relief", "bangla": "স্বস্তি"}
+      ],
+      "qa": [
+        {"q": "What does the embroidered quilt symbolise in the poem?", "model": "The quilt symbolises the woman's whole life — her joys and her many sorrows. Every stitched line records a memory, so the quilt becomes a record of her love and grief."},
+        {"q": "Why does the woman work 'the livelong night'?", "model": "She works all night long because her heart is heavy with grief and longing. Stitching the quilt is how she expresses and lives with her sorrow, as if her beloved poet shares her bereaved plight."},
+        {"q": "Whose story is written on the quilt?", "model": "The story of Rupai's life is written on the quilt, line by line, along with the speaker's own joys and sorrows."},
+        {"q": "What does the woman ask her mother to do?", "model": "She asks her mother to lay the quilt on her grave, so that this picture of her grief — his sorrow and hers together — may find relief by mingling on its breast."},
+        {"q": "What mood or tone runs through the poem?", "model": "The tone is sorrowful and tender. It blends deep grief with love and a quiet hope that pain, once expressed in the quilt, may finally bring peace."}
+      ]
+    }
+  ]
+}

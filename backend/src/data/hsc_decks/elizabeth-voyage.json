@@ -1,0 +1,856 @@
+{
+ "id": "elizabeth-voyage",
+ "unit": "Extra 02",
+ "unitName": "Travel &amp; Colonial Literature",
+ "title": "Elizabeth's Voyage to India",
+ "titleBn": "এলিজাবেথের ভারত যাত্রা",
+ "lede": "ভূমধ্যসাগর থেকে ভারত মহাসাগর, রাতের ফসফরাসদীপ্ত জল, ক্লাবের কল্পনা আর কলম্বোর সাম্পান-ওয়ালাদের ঝগড়া — ঔপনিবেশিক ভারতের এক ঝলক।",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 50,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Read dense literary description",
+   "d": "দীর্ঘ বর্ণনামূলক বাক্য ভেঙে বোঝার কৌশল"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "১৮টি বাক্যের বাংলা অর্থ"
+  },
+  {
+   "t": "Spot the colonial attitude",
+   "d": "‘native’, ‘missie’, ‘sahiblog’ — শব্দের পেছনের মনোভাব"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "herald, skim, phosphorescent, reverent, sampan…"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — The voyage",
+   "s": [
+    {
+     "en": "Elizabeth spent ==thirty pounds on summer frocks== and ==set sail immediately==.",
+     "bn": "এলিজাবেথ ==গ্রীষ্মের পোশাকের পেছনে ত্রিশ পাউন্ড== খরচ করে ==সঙ্গে সঙ্গেই জাহাজে চড়ে বসল==।"
+    },
+    {
+     "en": "The ship, ==heralded by rolling porpoises==, ==ploughed across the Mediterranean== and down the Canal into a ==sea of staring, enamel-like blue==, then out into the ==green wastes of the Indian Ocean==, where ==flocks of flying fish skimmed in terror== from the ==approaching hull==.",
+     "bn": "জাহাজটি — যার ==আগমনবার্তা ঘোষণা করছিল গড়িয়ে চলা শুশুকেরা== — ==ভূমধ্যসাগর চিরে এগিয়ে চলল==, তারপর খাল বেয়ে নেমে গেল ==এনামেলের মতো ঝকঝকে নীল সমুদ্রে==, এবং শেষে বেরিয়ে পড়ল ==ভারত মহাসাগরের সবুজ জলরাশিতে==, যেখানে ==উড়ুক্কু মাছের ঝাঁক ভয়ে পিছলে সরে যাচ্ছিল== ==এগিয়ে আসা জাহাজের খোলের== সামনে থেকে।"
+    },
+    {
+     "en": "At night, the waters were ==phosphorescent==, and the ==wash of the bow== was like a ==moving arrowhead of green fire==.",
+     "bn": "রাতে জল ==আলোকদীপ্ত (ফসফরাসের মতো জ্বলজ্বলে)== হয়ে উঠত, আর ==জাহাজের গলুইয়ের ঢেউ== দেখাত ==সবুজ আগুনের এক চলমান তিরের ফলার== মতো।"
+    },
+    {
+     "en": "Elizabeth ‘loved’ the ==life on board ship==.",
+     "bn": "এলিজাবেথ ==জাহাজের জীবনকে== ‘ভালোবেসে’ ফেলেছিল।"
+    },
+    {
+     "en": "She was going to love India, ==she knew==.",
+     "bn": "সে ভারতকেও ভালোবাসবে — ==এ ব্যাপারে সে নিশ্চিত ছিল==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — The India of her imagination",
+   "s": [
+    {
+     "en": "She had formed quite a ==picture of India from the other passengers' conversation==; she had even learned some of the more necessary ==Hindustani phrases==, such as ==‘idher ao’, ‘jaldi’, ‘sahiblog’==, etc.",
+     "bn": "==সহযাত্রীদের কথাবার্তা থেকেই সে ভারত সম্পর্কে একটি ছবি== তৈরি করে ফেলেছিল; এমনকি প্রয়োজনীয় কিছু ==হিন্দুস্তানি বুলিও== শিখে নিয়েছিল — যেমন ==‘ইধার আও’, ‘জলদি’, ‘সাহেবলোগ’== ইত্যাদি।"
+    },
+    {
+     "en": "==In anticipation==, she tasted the ==agreeable atmosphere of Clubs==, with ==punkahs flapping== and ==barefooted white turbaned boys reverently salaaming==; and ==maidans== where ==bronze Englishmen with little clipped moustaches galloped to and fro, whacking polo balls==.",
+     "bn": "==আগাম কল্পনাতেই== সে উপভোগ করছিল ==ক্লাবের মনোরম পরিবেশ== — যেখানে ==পাখা দুলছে== আর ==খালি পায়ে সাদা পাগড়ি পরা বালকেরা শ্রদ্ধাভরে সালাম দিচ্ছে==; আর ==ময়দান==, যেখানে ==ছোট ছাঁটা গোঁফওয়ালা তামাটে ইংরেজরা ঘোড়া ছুটিয়ে পোলো বল পিটিয়ে বেড়ায়==।"
+    },
+    {
+     "en": "==It was almost as nice as being really rich==, the way people lived in India.",
+     "bn": "ভারতে মানুষ যেভাবে থাকত, তা ==প্রায় সত্যিকারের ধনী হওয়ার মতোই চমৎকার== ছিল।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — Arrival at Colombo",
+   "s": [
+    {
+     "en": "They sailed into ==Colombo== through ==green glassy waters==, where ==turtles and black snakes floated basking==.",
+     "bn": "==কাচের মতো স্বচ্ছ সবুজ জল== পেরিয়ে তারা ==কলম্বোয়== পৌঁছাল, যেখানে ==কচ্ছপ আর কালো সাপ রোদ পোহাতে পোহাতে ভাসছিল==।"
+    },
+    {
+     "en": "A ==fleet of sampans== came reaching out to meet the ship, ==propelled by coal-black men== with ==lips stained redder than blood by betel juice==.",
+     "bn": "==সাম্পানের একটি বহর== জাহাজের দিকে এগিয়ে এলো, যেগুলো ==বেয়ে নিয়ে আসছিল কুচকুচে কালো মানুষেরা==, যাদের ==ঠোঁট পানের রসে রক্তের চেয়েও লাল হয়ে ছিল==।"
+    },
+    {
+     "en": "They ==yelled and struggled round the gangway== while the passengers ==descended==.",
+     "bn": "যাত্রীরা যখন ==নামছিল==, তখন তারা ==জাহাজের সিঁড়ির চারপাশে চিৎকার করে ঠেলাঠেলি করছিল==।"
+    },
+    {
+     "en": "As Elizabeth and her friends came down, two ==sampan-wallahs==, their ==prows nosing against the gangway==, ==besought them with yells==.",
+     "bn": "এলিজাবেথ ও তার বন্ধুরা নামতেই দুই ==সাম্পান-ওয়ালা==, তাদের ==নৌকার গলুই সিঁড়িতে ঠেকিয়ে==, ==চিৎকার করে অনুনয় করতে লাগল==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 4 — The quarrel of the boatmen",
+   "s": [
+    {
+     "en": "“Don't you go with him, ==missie==! Not with him! ==Bad wicked man he==, not fit taking missie!”",
+     "bn": "“ওর সঙ্গে যেয়ো না, ==মেমসাহেব==! ওর সঙ্গে নয়! ==ও একটা খারাপ, দুষ্ট লোক==, মেমসাহেবকে নেওয়ার যোগ্যই নয়!”"
+    },
+    {
+     "en": "“Don't you listen him lies, missie! ==Nasty low fellow!== ==Nasty native tricks== him playing, nasty native tricks!”",
+     "bn": "“ওর মিথ্যে শুনো না, মেমসাহেব! ==জঘন্য নীচ লোক!== ==দেশি লোকের বিচ্ছিরি চালাকি== করছে ও, বিচ্ছিরি দেশি চালাকি!”"
+    },
+    {
+     "en": "“Ha, ha! ==He is not native himself!== Oh no! ==Him European man, white skin all same==, missie. Ha ha!”",
+     "bn": "“হা হা! ==ও নিজে বুঝি দেশি নয়!== ওহ না! ==ও তো ইউরোপীয় মানুষ, একেবারে সাদা চামড়া==, মেমসাহেব। হা হা!”"
+    },
+    {
+     "en": "“==Stop your bat, you two==, or I'll ==fetch one of you a kick==,” said the husband of Elizabeth's friend — ==he was a planter==.",
+     "bn": "“==থামাও তোমাদের বকবক, তোমরা দুজন==, নইলে ==একজনকে লাথি বসিয়ে দেব==,” — বললেন এলিজাবেথের বান্ধবীর স্বামী; ==তিনি ছিলেন একজন প্ল্যান্টার (বাগান-মালিক)==।"
+    },
+    {
+     "en": "They stepped into one of the sampans and were ==rowed towards the sun-bright quays==.",
+     "bn": "তারা একটি সাম্পানে উঠে বসল এবং ==রোদঝলমলে জেটির দিকে বেয়ে নিয়ে যাওয়া হলো==।"
+    },
+    {
+     "en": "And the ==successful sampan-wallah== turned and ==discharged at his rival a mouthful of spittle== which he must have been ==saving up for a very long time==.",
+     "bn": "আর ==জয়ী সাম্পান-ওয়ালা== ঘুরে দাঁড়িয়ে ==তার প্রতিদ্বন্দ্বীর দিকে এক মুখ থুতু ছুড়ে মারল==, যা সে নিশ্চয়ই ==অনেকক্ষণ ধরে জমিয়ে রেখেছিল==।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "set sail",
+   "pos": "phrase",
+   "pron": "/set seɪl/",
+   "bn": "জাহাজে যাত্রা শুরু করা",
+   "en": "to begin a voyage",
+   "ex": "She set sail immediately."
+  },
+  {
+   "w": "herald",
+   "pos": "verb/noun",
+   "pron": "/ˈherəld/",
+   "bn": "আগমনবার্তা ঘোষণা করা; অগ্রদূত",
+   "en": "to be a sign that something is coming",
+   "ex": "The ship was heralded by rolling porpoises."
+  },
+  {
+   "w": "porpoise",
+   "pos": "noun",
+   "pron": "/ˈpɔːpəs/",
+   "bn": "শুশুক, ছোট ডলফিন-জাতীয় সামুদ্রিক প্রাণী",
+   "en": "a sea animal like a small dolphin",
+   "ex": "heralded by rolling porpoises"
+  },
+  {
+   "w": "plough",
+   "pos": "verb",
+   "pron": "/plaʊ/",
+   "bn": "চিরে এগিয়ে চলা",
+   "en": "to move forcefully through something",
+   "ex": "The ship ploughed across the Mediterranean."
+  },
+  {
+   "w": "enamel-like",
+   "pos": "adj",
+   "pron": "/ɪˈnæml/",
+   "bn": "এনামেলের মতো মসৃণ ও ঝকঝকে",
+   "en": "smooth and glossy like enamel",
+   "ex": "a sea of staring, enamel-like blue"
+  },
+  {
+   "w": "waste",
+   "pos": "noun",
+   "pron": "/weɪst/",
+   "bn": "বিস্তীর্ণ জনহীন প্রান্তর/জলরাশি",
+   "en": "a vast empty expanse",
+   "ex": "the green wastes of the Indian Ocean"
+  },
+  {
+   "w": "skim",
+   "pos": "verb",
+   "pron": "/skɪm/",
+   "bn": "জলের উপর দিয়ে পিছলে/ভেসে চলা",
+   "en": "to move quickly just above a surface",
+   "ex": "flying fish skimmed in terror"
+  },
+  {
+   "w": "hull",
+   "pos": "noun",
+   "pron": "/hʌl/",
+   "bn": "জাহাজের খোল",
+   "en": "the main body of a ship",
+   "ex": "from the approaching hull"
+  },
+  {
+   "w": "phosphorescent",
+   "pos": "adj",
+   "pron": "/ˌfɒsfəˈresnt/",
+   "bn": "স্বপ্রভ, তাপহীন আলো বিকিরণকারী",
+   "en": "giving out light without heat, as by sea organisms",
+   "ex": "At night the waters were phosphorescent."
+  },
+  {
+   "w": "bow",
+   "pos": "noun",
+   "pron": "/baʊ/",
+   "bn": "জাহাজের সামনের অংশ, গলুই",
+   "en": "the front part of a ship",
+   "ex": "the wash of the bow"
+  },
+  {
+   "w": "anticipation",
+   "pos": "noun",
+   "pron": "/ænˌtɪsɪˈpeɪʃn/",
+   "bn": "আগাম কল্পনা, প্রত্যাশা",
+   "en": "the act of expecting something beforehand",
+   "ex": "In anticipation, she tasted the atmosphere of Clubs."
+  },
+  {
+   "w": "punkah",
+   "pos": "noun",
+   "pron": "/ˈpʌŋkə/",
+   "bn": "পাখা (হাতে টানা বড় পাখা)",
+   "en": "a large cloth fan swung by a servant",
+   "ex": "with punkahs flapping"
+  },
+  {
+   "w": "reverently",
+   "pos": "adverb",
+   "pron": "/ˈrevərəntli/",
+   "bn": "শ্রদ্ধাভরে",
+   "en": "with deep respect",
+   "ex": "boys reverently salaaming"
+  },
+  {
+   "w": "maidan",
+   "pos": "noun",
+   "pron": "/maɪˈdɑːn/",
+   "bn": "ময়দান, খোলা মাঠ",
+   "en": "an open space in a town (Indian usage)",
+   "ex": "maidans where Englishmen played polo"
+  },
+  {
+   "w": "gallop",
+   "pos": "verb",
+   "pron": "/ˈɡæləp/",
+   "bn": "ঘোড়া ছুটিয়ে চলা",
+   "en": "to ride a horse at full speed",
+   "ex": "Englishmen galloped to and fro."
+  },
+  {
+   "w": "bask",
+   "pos": "verb",
+   "pron": "/bɑːsk/",
+   "bn": "রোদ পোহানো",
+   "en": "to lie in warmth and light",
+   "ex": "turtles and black snakes floated basking"
+  },
+  {
+   "w": "sampan",
+   "pos": "noun",
+   "pron": "/ˈsæmpæn/",
+   "bn": "সাম্পান (ছোট নৌকা)",
+   "en": "a small flat-bottomed Asian boat",
+   "ex": "A fleet of sampans came."
+  },
+  {
+   "w": "propel",
+   "pos": "verb",
+   "pron": "/prəˈpel/",
+   "bn": "চালিত করা, বেয়ে নেওয়া",
+   "en": "to drive something forward",
+   "ex": "propelled by coal-black men"
+  },
+  {
+   "w": "gangway",
+   "pos": "noun",
+   "pron": "/ˈɡæŋweɪ/",
+   "bn": "জাহাজে ওঠানামার সিঁড়ি",
+   "en": "a movable bridge for boarding a ship",
+   "ex": "They struggled round the gangway."
+  },
+  {
+   "w": "beseech",
+   "pos": "verb",
+   "pron": "/bɪˈsiːtʃ/",
+   "bn": "কাকুতি-মিনতি করা",
+   "en": "to beg earnestly",
+   "ex": "They besought them with yells."
+  },
+  {
+   "w": "quay",
+   "pos": "noun",
+   "pron": "/kiː/",
+   "bn": "জেটি, ঘাট",
+   "en": "a landing place for ships",
+   "ex": "rowed towards the sun-bright quays"
+  },
+  {
+   "w": "spittle",
+   "pos": "noun",
+   "pron": "/ˈspɪtl/",
+   "bn": "থুতু",
+   "en": "saliva spat from the mouth",
+   "ex": "a mouthful of spittle"
+  }
+ ],
+ "synant": [
+  {
+   "w": "herald",
+   "bn": "অগ্রদূত",
+   "syn": [
+    "forerunner",
+    "harbinger",
+    "precursor"
+   ],
+   "ant": [
+    "follower",
+    "successor",
+    "sidekick"
+   ]
+  },
+  {
+   "w": "skim",
+   "bn": "পিছলে চলা",
+   "syn": [
+    "glide",
+    "slide",
+    "graze"
+   ],
+   "ant": [
+    "sink",
+    "plunge",
+    "dive"
+   ]
+  },
+  {
+   "w": "phosphorescent",
+   "bn": "স্বপ্রভ",
+   "syn": [
+    "luminous",
+    "glowing",
+    "self-lighting"
+   ],
+   "ant": [
+    "dark",
+    "dull",
+    "opaque"
+   ]
+  },
+  {
+   "w": "reverent",
+   "bn": "শ্রদ্ধাশীল",
+   "syn": [
+    "respectful",
+    "deferential",
+    "devout"
+   ],
+   "ant": [
+    "disrespectful",
+    "irreverent",
+    "rude"
+   ]
+  },
+  {
+   "w": "anticipation",
+   "bn": "প্রত্যাশা",
+   "syn": [
+    "expectation",
+    "foretaste",
+    "hope"
+   ],
+   "ant": [
+    "surprise",
+    "despair",
+    "hopelessness"
+   ]
+  },
+  {
+   "w": "agreeable",
+   "bn": "মনোরম",
+   "syn": [
+    "pleasant",
+    "delightful",
+    "congenial"
+   ],
+   "ant": [
+    "disagreeable",
+    "unpleasant",
+    "offensive"
+   ]
+  },
+  {
+   "w": "terror",
+   "bn": "আতঙ্ক",
+   "syn": [
+    "fright",
+    "panic",
+    "dread"
+   ],
+   "ant": [
+    "courage",
+    "calm",
+    "confidence"
+   ]
+  },
+  {
+   "w": "beseech",
+   "bn": "মিনতি করা",
+   "syn": [
+    "implore",
+    "entreat",
+    "beg"
+   ],
+   "ant": [
+    "demand",
+    "order",
+    "refuse"
+   ]
+  },
+  {
+   "w": "wicked",
+   "bn": "দুষ্ট",
+   "syn": [
+    "evil",
+    "villainous",
+    "immoral"
+   ],
+   "ant": [
+    "virtuous",
+    "good",
+    "honest"
+   ]
+  },
+  {
+   "w": "rival",
+   "bn": "প্রতিদ্বন্দ্বী",
+   "syn": [
+    "competitor",
+    "opponent",
+    "adversary"
+   ],
+   "ant": [
+    "ally",
+    "partner",
+    "friend"
+   ]
+  },
+  {
+   "w": "descend",
+   "bn": "নেমে আসা",
+   "syn": [
+    "come down",
+    "alight",
+    "dismount"
+   ],
+   "ant": [
+    "ascend",
+    "climb",
+    "rise"
+   ]
+  },
+  {
+   "w": "propel",
+   "bn": "চালিত করা",
+   "syn": [
+    "drive",
+    "push",
+    "impel"
+   ],
+   "ant": [
+    "halt",
+    "restrain",
+    "stop"
+   ]
+  }
+ ],
+ "summaryEn": "Having spent thirty pounds on summer frocks, Elizabeth sailed at once for the East. Heralded by rolling porpoises, her ship ploughed across the Mediterranean, went down the Canal into a glassy, enamel-like blue sea and then out into the green expanses of the Indian Ocean, where flocks of flying fish skimmed away in terror from the approaching hull; at night the phosphorescent water made the wash of the bow look like a moving arrowhead of green fire. Elizabeth loved life on board and felt sure she would love India too, for from the other passengers' talk she had already built up a picture of the country and had even picked up a few useful Hindustani phrases such as ‘idher ao’, ‘jaldi’ and ‘sahiblog’. In anticipation she enjoyed the agreeable atmosphere of the Clubs with their flapping punkahs and barefooted white-turbaned boys reverently salaaming, and the maidans where bronzed Englishmen with clipped moustaches galloped about whacking polo balls — the way people lived in India seemed almost as nice as being really rich. At last the ship sailed into Colombo through green glassy waters where turtles and black snakes floated basking, and a fleet of sampans rowed by coal-black men, their lips stained redder than blood with betel juice, came yelling and struggling round the gangway. Two boatmen begged for Elizabeth's party, each abusing the other as a wicked native trickster, until the planter husband of Elizabeth's friend threatened to kick them; and when the party had stepped into one sampan and were being rowed to the sun-bright quays, the winner turned and spat at his rival a mouthful of spittle he must have saved for a very long time.",
+ "summaryBn": "গ্রীষ্মের পোশাকের পেছনে ত্রিশ পাউন্ড খরচ করে এলিজাবেথ সঙ্গে সঙ্গেই প্রাচ্যের উদ্দেশে জাহাজে চড়ে বসল। গড়িয়ে চলা শুশুকেরা যেন আগমনবার্তা ঘোষণা করছিল; জাহাজ ভূমধ্যসাগর চিরে এগিয়ে খাল বেয়ে নামল এনামেলের মতো ঝকঝকে নীল সমুদ্রে, তারপর ভারত মহাসাগরের সবুজ জলরাশিতে — যেখানে উড়ুক্কু মাছের ঝাঁক ভয়ে পিছলে সরে যাচ্ছিল এগিয়ে আসা জাহাজের খোলের সামনে থেকে; রাতে ফসফরাসদীপ্ত জলে গলুইয়ের ঢেউ দেখাত সবুজ আগুনের চলমান তিরের ফলার মতো। এলিজাবেথ জাহাজের জীবন ভালোবেসে ফেলেছিল এবং নিশ্চিত ছিল ভারতকেও ভালোবাসবে, কারণ সহযাত্রীদের কথাবার্তা থেকেই সে দেশটির একটি ছবি গড়ে ফেলেছিল, এমনকি ‘ইধার আও’, ‘জলদি’, ‘সাহেবলোগ’-এর মতো কিছু হিন্দুস্তানি বুলিও শিখে নিয়েছিল। কল্পনাতেই সে উপভোগ করছিল ক্লাবের মনোরম পরিবেশ — দুলতে থাকা পাখা, খালি পায়ে সাদা পাগড়ি পরা বালকদের শ্রদ্ধাভরে সালাম — আর ময়দান, যেখানে ছাঁটা গোঁফওয়ালা তামাটে ইংরেজরা ঘোড়া ছুটিয়ে পোলো খেলে; ভারতে মানুষের জীবনযাপন তার কাছে প্রায় সত্যিকারের ধনী হওয়ার মতোই মনে হচ্ছিল। অবশেষে কাচের মতো সবুজ জল পেরিয়ে, যেখানে কচ্ছপ ও কালো সাপ রোদ পোহাতে ভাসছিল, জাহাজ কলম্বোয় পৌঁছাল; পানের রসে রক্তের চেয়েও লাল ঠোঁটওয়ালা কুচকুচে কালো মাঝিদের বাওয়া সাম্পানের বহর চিৎকার করতে করতে সিঁড়ির চারপাশে ভিড় করল। দুই মাঝি এলিজাবেথদের পাওয়ার জন্য কাকুতি করতে করতে একে অপরকে ‘দেশি ঠক’ বলে গালি দিতে লাগল, শেষে বান্ধবীর প্ল্যান্টার স্বামী লাথি মারার হুমকি দিলেন; আর তারা একটি সাম্পানে উঠে রোদঝলমলে জেটির দিকে রওনা হলে জয়ী মাঝি ঘুরে দাঁড়িয়ে প্রতিদ্বন্দ্বীর দিকে বহুক্ষণ জমিয়ে রাখা এক মুখ থুতু ছুড়ে মারল।",
+ "summaryTip": "**বর্ণনামূলক সাহিত্য:** এখানে ঘটনা কম, বর্ণনা বেশি। Summary-তে প্রতিটি উপমা তুলে দিও না — যাত্রাপথ, কল্পনার ভারত, কলম্বোর দৃশ্য — এই তিনটি ব্লকে গুছিয়ে লেখো।",
+ "mcq": [
+  {
+   "q": "What is the meaning of the word ‘herald’?",
+   "opts": [
+    "follower",
+    "forerunner",
+    "sidekick",
+    "learner"
+   ],
+   "ans": 1,
+   "why": "Herald = অগ্রদূত, যে আগমনের বার্তা আগে ঘোষণা করে = forerunner. শুশুকেরা জাহাজের আগে আগে চলছিল বলেই এই শব্দ।"
+  },
+  {
+   "q": "The closest synonym of ‘skim’ is —",
+   "opts": [
+    "swim",
+    "run",
+    "glide",
+    "flew"
+   ],
+   "ans": 2,
+   "why": "Skim = পানির উপর দিয়ে দ্রুত পিছলে চলা = glide. উড়ুক্কু মাছ সাঁতরায় না, ভেসে পিছলে যায়।"
+  },
+  {
+   "q": "‘Phosphorescent’ means —",
+   "opts": [
+    "emitting light from organisms",
+    "emitting light without heat",
+    "production of light from its own",
+    "both (i) and (ii)"
+   ],
+   "ans": 3,
+   "why": "সমুদ্রের জল রাতে জ্বলে ওঠে ক্ষুদ্র জীবের কারণে এবং সেই আলোয় তাপ থাকে না — তাই দুটি ব্যাখ্যাই সঠিক।"
+  },
+  {
+   "q": "___ are the Hindustani phrases that Elizabeth learnt.",
+   "opts": [
+    "Idher ao, kardo",
+    "Chalo, jaldi",
+    "Jaldi, sahiblog",
+    "Poocho, kiu"
+   ],
+   "ans": 2,
+   "why": "প্যাসেজে তিনটি বুলি আছে — ‘idher ao’, ‘jaldi’, ‘sahiblog’. শুধু (iii)-এর দুটোই প্যাসেজে আছে।"
+  },
+  {
+   "q": "The word ‘reverent’ in the passage means —",
+   "opts": [
+    "respectful",
+    "joyous",
+    "unwilling",
+    "spontaneous"
+   ],
+   "ans": 0,
+   "why": "‘boys **reverently** salaaming’ — শ্রদ্ধাভরে সালাম করা; তাই reverent = respectful."
+  },
+  {
+   "q": "Before coming to India, Elizabeth learned —",
+   "opts": [
+    "how to make summer frocks",
+    "Hindustani phrases",
+    "use of betel juice",
+    "club culture"
+   ],
+   "ans": 1,
+   "why": "‘she had even learned some of the more necessary **Hindustani phrases**’ — জাহাজেই সহযাত্রীদের কাছ থেকে।"
+  },
+  {
+   "q": "What particular thing did she love?",
+   "opts": [
+    "life on board ship",
+    "Indian lifestyle",
+    "natural beauty of India",
+    "green glassy water"
+   ],
+   "ans": 0,
+   "why": "‘Elizabeth ‘loved’ the **life on board ship**.’ — ভারতকে ভালোবাসবে বলে সে কেবল ভেবেছিল, তখনো ভালোবাসেনি।"
+  },
+  {
+   "q": "According to the text, what was redder than blood?",
+   "opts": [
+    "betel-juice",
+    "sampan-wallah's lips",
+    "the sky",
+    "sea water at sunset"
+   ],
+   "ans": 1,
+   "why": "‘men with **lips** stained redder than blood by betel juice’ — লাল ছিল ঠোঁট, পানের রস নয়। বাক্যগঠন ভালো করে পড়ো।"
+  },
+  {
+   "q": "The purpose of this text is —",
+   "opts": [
+    "to show the social condition of colonial India",
+    "to show the life story of Elizabeth",
+    "to give a description of rural India",
+    "to represent colonial India through Elizabeth's life story"
+   ],
+   "ans": 3,
+   "why": "লেখক এলিজাবেথের চোখ দিয়েই ঔপনিবেশিক ভারতের ক্লাব, সাহেব, ‘native’ শব্দ ও শ্রেণিবৈষম্য দেখিয়েছেন — অর্থাৎ দুটোই একসাথে।"
+  },
+  {
+   "q": "What terrified the flying fishes?",
+   "opts": [
+    "the incoming ship",
+    "movement of the water",
+    "predatory fishes",
+    "upcoming natural calamity"
+   ],
+   "ans": 0,
+   "why": "‘flying fish skimmed in terror from the **approaching hull**’ — এগিয়ে আসা জাহাজের খোলই তাদের আতঙ্কের কারণ।"
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "What does the writer mean by ‘a sea of staring’ in the passage?",
+   "a": "The phrase ‘a sea of staring, enamel-like blue’ describes the water beyond the Canal. The blue was so hard, bright and unbroken that it seemed to stare back at the traveller like a wide-open eye, and its smooth polished surface resembled enamel. The expression is thus a piece of vivid imagery with a touch of personification: the sea is given the human power of staring. It also suggests the glare and heat of the tropics that were quite new to Elizabeth.",
+   "bn": "‘a sea of staring, enamel-like blue’ কথাটি খাল পেরোনোর পরের সমুদ্রকে বোঝায়। নীল রংটি এত কঠিন, উজ্জ্বল ও অবিচ্ছিন্ন ছিল যে মনে হচ্ছিল বিশাল চোখের মতো তা তাকিয়ে আছে; আর মসৃণ পালিশ করা পৃষ্ঠ দেখাচ্ছিল এনামেলের মতো। এটি একটি প্রাণবন্ত চিত্রকল্প ও অল্প-স্বল্প ব্যক্তিত্বারোপ, যা গ্রীষ্মমণ্ডলের প্রখর আলোরও ইঙ্গিত দেয়।"
+  },
+  {
+   "q": "What picture of India did Elizabeth form in her mind?",
+   "a": "Elizabeth formed a wholly colonial and comfortable picture of India, gathered from the conversation of the other passengers. She imagined agreeable Clubs where punkahs flapped and barefooted, white-turbaned Indian boys salaamed reverently to their English masters, and maidans where bronzed Englishmen with little clipped moustaches galloped to and fro whacking polo balls. To her the way people lived in India seemed almost as nice as being really rich. It was, in short, a picture of leisure and privilege for the whites, with the natives only as obedient servants.",
+   "bn": "সহযাত্রীদের কথাবার্তা থেকে এলিজাবেথ ভারতের এক সম্পূর্ণ ঔপনিবেশিক ও আরামদায়ক ছবি গড়ে তুলেছিল। সে কল্পনা করছিল মনোরম ক্লাব, দুলতে থাকা পাখা, খালি পায়ে সাদা পাগড়ি পরা বালকদের শ্রদ্ধাভরে সালাম, আর ময়দানে ঘোড়া ছুটিয়ে পোলো খেলা তামাটে ইংরেজদের। ভারতে জীবনযাপন তার কাছে প্রায় ধনী হওয়ার মতোই মনে হয়েছিল — অর্থাৎ শ্বেতাঙ্গদের জন্য আরাম, আর দেশিরা কেবল অনুগত ভৃত্য।"
+  },
+  {
+   "q": "How can we say that the sampan-wallahs were not of British descent?",
+   "a": "Several details prove it. They are described as ‘coal-black men’ whose lips were stained redder than blood by betel juice — a habit of South Asia, not of Britain. They rowed sampans, an Asian country boat, and they were called ‘sampan-wallahs’, a word formed with the Indian suffix ‘wallah’. Above all, their broken English — ‘Bad wicked man he, not fit taking missie’ — and their mocking cry that the rival was ‘European man, white skin all same’ show that they were natives who considered ‘European’ something they clearly were not.",
+   "bn": "কয়েকটি সূত্রেই তা স্পষ্ট। তাদের বলা হয়েছে ‘কুচকুচে কালো মানুষ’, যাদের ঠোঁট পানের রসে লাল — যা দক্ষিণ এশিয়ার অভ্যাস। তারা সাম্পান বাইত এবং তাদের নাম ‘সাম্পান-ওয়ালা’, যেখানে ‘ওয়ালা’ ভারতীয় প্রত্যয়। সর্বোপরি তাদের ভাঙা ইংরেজি এবং প্রতিদ্বন্দ্বীকে ব্যঙ্গ করে ‘ও তো ইউরোপীয়, সাদা চামড়া’ বলা প্রমাণ করে তারা নিজেরা ইউরোপীয় ছিল না।"
+  },
+  {
+   "q": "How has the author represented Elizabeth in this text?",
+   "a": "The author represents Elizabeth as a young English girl of limited means but of strong colonial expectations. She spends thirty pounds on summer frocks and sails at once, delighted with life on board. Her knowledge of India comes only from other passengers' gossip and a few Hindustani phrases of command such as ‘idher ao’ and ‘jaldi’. The word ‘loved’ is placed within inverted commas, hinting gently that her feeling is shallow and second-hand. She dreams of clubs, servants and polo, because in India even a modest English person could live almost like the rich.",
+   "bn": "লেখক এলিজাবেথকে দেখিয়েছেন সীমিত সামর্থ্যের অথচ প্রবল ঔপনিবেশিক প্রত্যাশাসম্পন্ন এক তরুণী ইংরেজ মেয়ে হিসেবে। ত্রিশ পাউন্ডে পোশাক কিনেই সে যাত্রা করে এবং জাহাজের জীবনে মুগ্ধ হয়। ভারত সম্পর্কে তার জ্ঞান কেবল সহযাত্রীদের গল্প ও ‘ইধার আও’, ‘জলদি’-র মতো হুকুমের বুলি। ‘loved’ শব্দটি উদ্ধৃতিচিহ্নে রেখে লেখক ইঙ্গিত দেন তার অনুভূতি অগভীর ও ধার করা।"
+  },
+  {
+   "q": "Which words in the text seem to have an Indian origin? Why do you think they are used?",
+   "a": "Several words in the text are of Indian or Asian origin: ‘idher ao’, ‘jaldi’ and ‘sahiblog’ are Hindustani; ‘punkah’, ‘maidan’, ‘salaaming’ and ‘missie’ belong to Anglo-Indian usage; and ‘sampan’ with ‘sampan-wallah’ comes from Asian boat culture, ‘wallah’ being an Indian suffix. The writer uses them for two reasons. First, they give local colour and make the scene authentic. Secondly, they reveal the colonial relationship itself — most of these words are either commands given to servants or names for things done by natives for the English.",
+   "bn": "পাঠ্যাংশে ভারতীয় বা এশীয় উৎসের কয়েকটি শব্দ আছে — ‘ইধার আও’, ‘জলদি’, ‘সাহেবলোগ’ হিন্দুস্তানি; ‘পাংখা’, ‘ময়দান’, ‘সালাম’, ‘মিসি’ অ্যাংলো-ইন্ডিয়ান প্রয়োগ; আর ‘সাম্পান’, ‘সাম্পান-ওয়ালা’ এশীয় নৌকা-সংস্কৃতি থেকে। লেখক এগুলো ব্যবহার করেছেন দুই কারণে — স্থানীয় রঙ ও বাস্তবতা আনতে, এবং ঔপনিবেশিক সম্পর্কটিই ফুটিয়ে তুলতে, কারণ শব্দগুলোর অধিকাংশই ভৃত্যকে দেওয়া হুকুম বা দেশিদের কাজের নাম।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "Who / What",
+   "Event / Occurrence",
+   "What / When",
+   "Where / Why / How"
+  ],
+  "rows": [
+   [
+    "Elizabeth",
+    "set sail",
+    "(i) @immediately after spending thirty pounds on summer frocks",
+    "(ii) @for India"
+   ],
+   [
+    "The ship",
+    "passing through the Mediterranean and down the Canal into the sea of staring, (iii) @enamel-like blue",
+    "(iv) @went out into the green wastes of the Indian Ocean",
+    "heralded by rolling porpoises"
+   ],
+   [
+    "(v) @The waters",
+    "looked phosphorescent at night",
+    "(vi) @like a moving arrowhead of green fire",
+    "in the open sea"
+   ],
+   [
+    "The conversation of other passengers",
+    "(vii) @helped Elizabeth form a picture of India",
+    "during the voyage",
+    "on board the ship"
+   ],
+   [
+    "India",
+    "(viii) @was pictured in her imagination",
+    "had an anticipatory taste of (ix) @the agreeable atmosphere of Clubs",
+    "with punkahs flapping and barefooted white turbaned boys respectfully salaaming"
+   ],
+   [
+    "The way of living of the people in India",
+    "(x) @seemed almost as nice as being really rich",
+    "to Elizabeth",
+    "in colonial India"
+   ]
+  ],
+  "note": "সাহিত্যিক টেবিলে পুরো বর্ণনামূলক phrase বসাতে হয় — ‘enamel-like blue’, ‘a moving arrowhead of green fire’ — একটি শব্দ লিখলে নম্বর অসম্পূর্ণ।"
+ },
+ "flow": {
+  "title": "Experiences of Elizabeth during Her Journey to India — যাত্রাপথের অভিজ্ঞতা",
+  "items": [
+   {
+    "t": "Having a journey across the Mediterranean",
+    "bn": "ভূমধ্যসাগর পেরিয়ে যাত্রা (দেওয়া আছে)"
+   },
+   {
+    "t": "Sailing down the Canal into a sea of staring, enamel-like blue",
+    "bn": "খাল বেয়ে ঝকঝকে নীল সমুদ্রে প্রবেশ"
+   },
+   {
+    "t": "Watching flying fish skim in terror in the Indian Ocean",
+    "bn": "ভারত মহাসাগরে ভীত উড়ুক্কু মাছের ঝাঁক"
+   },
+   {
+    "t": "Seeing phosphorescent waters like a moving arrowhead of green fire at night",
+    "bn": "রাতে ফসফরাসদীপ্ত জল ও সবুজ আগুনের তির"
+   },
+   {
+    "t": "Learning Hindustani phrases and imagining Clubs and maidans",
+    "bn": "হিন্দুস্তানি বুলি শেখা ও ক্লাব-ময়দানের কল্পনা"
+   },
+   {
+    "t": "Reaching Colombo and being besought by quarrelling sampan-wallahs",
+    "bn": "কলম্বোয় পৌঁছে ঝগড়ারত সাম্পান-ওয়ালাদের মুখোমুখি"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "Imagery of the Voyage <span class='sub'>— যাত্রাপথের চিত্রকল্প</span>",
+   "key": "Imagery",
+   "table": {
+    "headers": [
+     "Expression",
+     "Device",
+     "What it conveys"
+    ],
+    "rows": [
+     [
+      "“heralded by rolling porpoises”",
+      "Personification",
+      "@শুশুকেরা যেন জাহাজের অগ্রদূত"
+     ],
+     [
+      "“ploughed across the Mediterranean”",
+      "Metaphor",
+      "@জাহাজ যেন লাঙল দিয়ে সমুদ্র চিরে চলেছে"
+     ],
+     [
+      "“a sea of staring, enamel-like blue”",
+      "Imagery + simile",
+      "@কঠিন, মসৃণ, চোখধাঁধানো নীল"
+     ],
+     [
+      "“the green wastes of the Indian Ocean”",
+      "Metaphor",
+      "@বিস্তীর্ণ, জনহীন সবুজ জলরাশি"
+     ],
+     [
+      "“skimmed in terror from the approaching hull”",
+      "Imagery",
+      "@মাছের আতঙ্ক ও গতি"
+     ],
+     [
+      "“like a moving arrowhead of green fire”",
+      "Simile",
+      "@রাতের আলোকদীপ্ত ঢেউয়ের রূপ"
+     ],
+     [
+      "“lips stained redder than blood”",
+      "Hyperbole",
+      "@পানের রসের তীব্র লাল"
+     ]
+    ]
+   },
+   "note": "‘What literary device…?’ প্রশ্নে **নাম + উদাহরণ + প্রভাব** — তিনটি অংশ লিখলেই পূর্ণ ৩ নম্বর।"
+  },
+  {
+   "title": "Colonial Vocabulary <span class='sub'>— ঔপনিবেশিক শব্দভান্ডার</span>",
+   "key": "Colonial Words",
+   "table": {
+    "headers": [
+     "Word",
+     "Origin / Meaning",
+     "What it reveals"
+    ],
+    "rows": [
+     [
+      "idher ao",
+      "@হিন্দুস্তানি — ‘এদিকে এসো’",
+      "A command given to servants"
+     ],
+     [
+      "jaldi",
+      "@হিন্দুস্তানি — ‘তাড়াতাড়ি’",
+      "Impatience of the master"
+     ],
+     [
+      "sahiblog",
+      "@হিন্দুস্তানি — ‘সাহেবরা’",
+      "The ruling class"
+     ],
+     [
+      "punkah",
+      "@হাতে টানা বড় পাখা",
+      "Comfort produced by another's labour"
+     ],
+     [
+      "maidan",
+      "@খোলা মাঠ",
+      "Space of English leisure — polo"
+     ],
+     [
+      "salaaming",
+      "@সালাম করা",
+      "Ritual of submission"
+     ],
+     [
+      "missie",
+      "@‘মেমসাহেব’-এর ভাঙা রূপ",
+      "Broken English of the colonised"
+     ],
+     [
+      "sampan-wallah",
+      "@সাম্পান-চালক (‘wallah’ ভারতীয় প্রত্যয়)",
+      "Local livelihood"
+     ],
+     [
+      "native",
+      "@দেশি — অবজ্ঞাসূচক অর্থে ব্যবহৃত",
+      "Racial contempt, even among the colonised"
+     ]
+    ]
+   },
+   "note": "লক্ষ করো, একজন সাম্পান-ওয়ালাই অন্যকে ‘native’ বলে গালি দিচ্ছে — ঔপনিবেশিক মানসিকতা যে শাসিতদের মনেও ঢুকে গিয়েছিল, এটিই তার প্রমাণ।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🧩",
+   "t": "Break long sentences at commas",
+   "d": "২ নম্বর বাক্যটি ৫০+ শব্দের। কমা ধরে ধরে ভেঙে নাও — কে (ship), কী করল (ploughed), কোথায় (Mediterranean → Canal → Indian Ocean)।"
+  },
+  {
+   "em": "🔍",
+   "t": "Read what exactly is red",
+   "type": "warn",
+   "d": "‘lips stained redder than blood **by** betel juice’ — লাল ছিল ঠোঁট, পানের রস নয়। Preposition ‘by’ কারণ বোঝাচ্ছে।"
+  },
+  {
+   "em": "❝",
+   "t": "Notice the inverted commas",
+   "d": "‘Elizabeth ‘loved’ the life…’ — উদ্ধৃতিচিহ্নটি ব্যঙ্গ। চরিত্র-বিশ্লেষণে এই সূক্ষ্মতা লিখলে পরীক্ষক মুগ্ধ হন।"
+  },
+  {
+   "em": "🌍",
+   "t": "Colonial words carry meaning",
+   "type": "ok",
+   "d": "punkah, maidan, salaaming, missie, native — এগুলো শুধু শব্দ নয়, শাসক-শাসিত সম্পর্কের প্রমাণ। ‘Why are they used?’ প্রশ্নে এটাই উত্তর।"
+  },
+  {
+   "em": "🎨",
+   "t": "Two devices are enough",
+   "d": "Simile ও Imagery — এই দুটি নাম উদাহরণসহ মুখস্থ রাখো; সাহিত্যিক প্যাসেজে এই প্রশ্ন প্রায় নিশ্চিত।"
+  },
+  {
+   "em": "🗺️",
+   "t": "Trace the route",
+   "d": "Mediterranean → Canal → blue sea → Indian Ocean → Colombo. এই ক্রমটিই Flow chart-এর কাঠামো।"
+  }
+ ],
+ "recap": [
+  "যাত্রাপথ: ভূমধ্যসাগর → খাল → এনামেল-নীল সমুদ্র → ভারত মহাসাগর → কলম্বো।",
+  "রাতের সমুদ্র: phosphorescent; গলুইয়ের ঢেউ = ‘a moving arrowhead of green fire’.",
+  "এলিজাবেথের ভারত-কল্পনা: ক্লাব, পাংখা, সালামরত বালক, ময়দানে পোলো।",
+  "কলম্বো: সাম্পান-ওয়ালাদের ঝগড়া, পানের রসে লাল ঠোঁট, ভাঙা ইংরেজি।",
+  "লেখকের লক্ষ্য: এলিজাবেথের চোখ দিয়ে ঔপনিবেশিক ভারতকে দেখানো।"
+ ],
+ "homework": [
+  "যাত্রাপথের ৫টি ধাপ ক্রম অনুসারে লিখে আনবে।",
+  "৭টি চিত্রকল্প ও তাদের অলংকারের নাম খাতায় লিখবে।",
+  "‘Which words seem to have Indian origin and why are they used?’ — উত্তরটি লিখবে।",
+  "Summary ১৫০ শব্দে লিখে আনবে।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

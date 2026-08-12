@@ -1,0 +1,882 @@
+{
+ "id": "polite-words-machine",
+ "unit": "Extra 01",
+ "unitName": "Art, Beauty &amp; Manners",
+ "title": "The Machine that Stole Polite Words",
+ "titleBn": "ভদ্র শব্দচোর যন্ত্র",
+ "lede": "এক হিংসুটে লোক, ভদ্র শব্দ চুরি করার যন্ত্র, আর দুই বাক্‌প্রতিবন্ধী মেয়ে — শিষ্টাচারের মূল্য নিয়ে একটি রূপকথা।",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 45,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Follow a fable and find its moral",
+   "d": "রূপকথার ঘটনা ও নীতিশিক্ষা বের করা"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "২৭টি বাক্যের বাংলা অর্থ"
+  },
+  {
+   "t": "Character of the strange man",
+   "d": "৬টি বৈশিষ্ট্য — Flow chart-এর ঘর"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "courteous, extravagant, apathy, hideout, gesture…"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — A strange man and a strange plan",
+   "s": [
+    {
+     "en": "Once upon a time, there was a strange man who was ==highly bothered to see others' happiness==.",
+     "bn": "এক সময় এক অদ্ভুত লোক ছিল, যে ==অন্যের সুখ দেখলেই ভীষণ বিরক্ত হতো==।"
+    },
+    {
+     "en": "His own ==personal interest was at any cost important== to him.",
+     "bn": "==যেকোনো মূল্যে নিজের ব্যক্তিগত স্বার্থই== তার কাছে গুরুত্বপূর্ণ ছিল।"
+    },
+    {
+     "en": "Neither was he a polite man, ==nor did he like other people to be polite to each other==.",
+     "bn": "সে নিজেও ভদ্র ছিল না, ==আবার অন্যরা পরস্পরের সঙ্গে ভদ্র আচরণ করুক তাও সে চাইত না==।"
+    },
+    {
+     "en": "In fact, he hated the ==courteous and polite people== around him and thus he hated a few expressions like ==please, thank you, don't mention it==, etc.",
+     "bn": "আসলে সে চারপাশের ==ভদ্র ও শিষ্ট মানুষদের== ঘৃণা করত এবং সেই কারণেই ঘৃণা করত ==‘প্লিজ’, ‘থ্যাংক ইউ’, ‘ডোন্ট মেনশন ইট’== ইত্যাদি কয়েকটি অভিব্যক্তি।"
+    },
+    {
+     "en": "It troubled him a lot when people around were ==smiling to use these expressions==.",
+     "bn": "চারপাশের মানুষ ==হাসিমুখে এই কথাগুলো বলছে== দেখলে তার খুব কষ্ট হতো।"
+    },
+    {
+     "en": "The man considered all these expressions ==extravagant==.",
+     "bn": "লোকটি এই সব অভিব্যক্তিকে ==বাড়াবাড়ি/অপচয়== বলে মনে করত।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — The invention",
+   "s": [
+    {
+     "en": "So, he took a mission to ==invent a device that would steal these polite words==.",
+     "bn": "তাই সে ==এমন একটি যন্ত্র উদ্ভাবনের লক্ষ্য নিল, যা এই ভদ্র শব্দগুলো চুরি করে নেবে==।"
+    },
+    {
+     "en": "He calculated ==two benefits== from his efforts: one, people won't use these words and thus he would be ==relieved of his apathy== to people's polite behaviour; and the second was ==earning money by selling the stolen words to somebody else==.",
+     "bn": "সে তার চেষ্টা থেকে ==দুটি লাভ== হিসাব করেছিল: এক, মানুষ আর এই শব্দগুলো ব্যবহার করবে না, ফলে মানুষের ভদ্র আচরণের প্রতি তার ==বিরক্তি থেকে সে মুক্তি পাবে==; আর দুই, ==চুরি করা শব্দগুলো অন্য কারও কাছে বিক্রি করে অর্থ উপার্জন==।"
+    },
+    {
+     "en": "He took ==great caution so that nobody would understand his secret plan==.",
+     "bn": "সে ==খুব সতর্কতা অবলম্বন করল যাতে কেউ তার গোপন পরিকল্পনা বুঝতে না পারে==।"
+    },
+    {
+     "en": "After a few months' ==hard work==, he ==succeeded in inventing the machine== he had desired for a long, long time.",
+     "bn": "কয়েক মাসের ==কঠোর পরিশ্রমের== পর সে বহুদিনের কাঙ্ক্ষিত ==যন্ত্রটি উদ্ভাবনে সফল হলো==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — What happened to the world",
+   "s": [
+    {
+     "en": "The machine started working and it gave the man ==complete satisfaction==.",
+     "bn": "যন্ত্রটি কাজ শুরু করল এবং লোকটিকে ==পূর্ণ তৃপ্তি== দিল।"
+    },
+    {
+     "en": "People from their long practice would try to say — ==thank you, so kind of you, my pleasure, don't mention it== — to appreciate others or ==express gratitude==.",
+     "bn": "দীর্ঘদিনের অভ্যাসবশে মানুষ অন্যকে প্রশংসা করতে বা ==কৃতজ্ঞতা জানাতে== বলতে চাইত — ==‘থ্যাংক ইউ’, ‘সো কাইন্ড অব ইউ’, ‘মাই প্লেজার’, ‘ডোন্ট মেনশন ইট’==।"
+    },
+    {
+     "en": "But ==their tongue could not produce these words==. ==The machine caught them.==",
+     "bn": "কিন্তু ==তাদের জিহ্বা এই শব্দগুলো উচ্চারণ করতে পারত না==। ==যন্ত্রটি সেগুলো ধরে ফেলত।=="
+    },
+    {
+     "en": "It resulted in a ==huge change in people's behaviour and attitudes==.",
+     "bn": "এর ফলে ==মানুষের আচরণ ও মনোভাবে বিরাট পরিবর্তন== এলো।"
+    },
+    {
+     "en": "Gradually people became ==rough and tough==, they ==lost their mental cool==, they were ==blaming each other or fighting with each other==.",
+     "bn": "ধীরে ধীরে মানুষ ==রুক্ষ ও কঠোর== হয়ে উঠল, ==মানসিক স্থিরতা হারাল==, ==একে অপরকে দোষারোপ বা মারামারি করতে== লাগল।"
+    },
+    {
+     "en": "They became so ==selfish== that they started ==refusing to help others without having a return== for their service.",
+     "bn": "তারা এতটাই ==স্বার্থপর== হয়ে গেল যে ==বিনিময়ে কিছু না পেলে অন্যকে সাহায্য করতে অস্বীকার== করতে লাগল।"
+    },
+    {
+     "en": "==Love, respect, affection and fellow feeling== became some ==unknown words== and, eventually, they were ==missing from people's practices==.",
+     "bn": "==ভালোবাসা, শ্রদ্ধা, স্নেহ ও সহমর্মিতা== হয়ে গেল ==অচেনা শব্দ== এবং অবশেষে সেগুলো ==মানুষের আচরণ থেকেই হারিয়ে গেল==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 4 — Two little girls who saved the world",
+   "s": [
+    {
+     "en": "The man was ==terribly happy with his success==, but he ==didn't count on two little girls of special needs==.",
+     "bn": "লোকটি ==নিজের সাফল্যে দারুণ খুশি== ছিল, কিন্তু সে ==বিশেষ চাহিদাসম্পন্ন দুটি ছোট মেয়ের কথা হিসাবে রাখেনি==।"
+    },
+    {
+     "en": "They had ==speech difficulty== and so they used to communicate using ==sign language==.",
+     "bn": "তাদের ==কথা বলায় সমস্যা== ছিল, তাই তারা ==ইশারা ভাষায়== ভাব বিনিময় করত।"
+    },
+    {
+     "en": "Since the ==machine couldn't steal gestures==, these girls ==continued their previous practices of being kind and polite==.",
+     "bn": "যেহেতু ==যন্ত্রটি অঙ্গভঙ্গি চুরি করতে পারত না==, তাই এই মেয়ে দুটি ==আগের মতোই দয়ালু ও ভদ্র আচরণ চালিয়ে গেল==।"
+    },
+    {
+     "en": "Soon they realized the ==difference between them and other people==, which led them to ==investigate the reason==.",
+     "bn": "শীঘ্রই তারা ==নিজেদের ও অন্য মানুষের মধ্যে পার্থক্য== বুঝতে পারল, যা তাদের ==কারণ অনুসন্ধানে== প্ররোচিত করল।"
+    },
+    {
+     "en": "After much ==toil==, they could discover the ==wicked man==, who was in a ==hideout on the top of a hill next to the sea== with his ==enormous machine== busy in ==capturing people's polite words and separating them into letters==.",
+     "bn": "অনেক ==পরিশ্রমের== পর তারা ==দুষ্ট লোকটিকে== খুঁজে বের করল, যে ==সমুদ্রের পাশে এক পাহাড়ের চূড়ায় এক গোপন আস্তানায়== তার ==বিশাল যন্ত্র== নিয়ে ==মানুষের ভদ্র শব্দ ধরে সেগুলোকে অক্ষরে অক্ষরে আলাদা করতে== ব্যস্ত ছিল।"
+    },
+    {
+     "en": "The girls found the man ==taking a nap== when they ==crept up to the machine and rewound it== so that people could ==get back to their normal behaviour==.",
+     "bn": "মেয়েরা লোকটিকে ==ঘুমিয়ে থাকতে== দেখে ==চুপিচুপি যন্ত্রটির কাছে গিয়ে সেটিকে উল্টো দিকে ঘুরিয়ে দিল==, যাতে মানুষ ==স্বাভাবিক আচরণে ফিরে আসতে== পারে।"
+    },
+    {
+     "en": "As a result, the ==machine exploded==, scattering ==all the letters it had gathered into the sky==.",
+     "bn": "ফলে ==যন্ত্রটি বিস্ফোরিত হলো== এবং ==সঞ্চিত সব অক্ষর আকাশে ছড়িয়ে পড়ল==।"
+    },
+    {
+     "en": "After some moments, the letters started ==coming down, like rain==, and ended up in the sea.",
+     "bn": "কিছুক্ষণ পর অক্ষরগুলো ==বৃষ্টির মতো নেমে আসতে== লাগল এবং সমুদ্রে গিয়ে পড়ল।"
+    },
+    {
+     "en": "After that, ==everyone became polite and respectful to each other again==.",
+     "bn": "এরপর ==সবাই আবার পরস্পরের প্রতি ভদ্র ও শ্রদ্ধাশীল হয়ে উঠল==।"
+    },
+    {
+     "en": "The ==anger and the arguments stopped==, proving that ==good manners are very useful for keeping people together in a spirit of happiness==.",
+     "bn": "==রাগ ও ঝগড়া বন্ধ হয়ে গেল==, যা প্রমাণ করল যে ==সুন্দর আচরণ মানুষকে আনন্দের বন্ধনে একসাথে রাখতে অত্যন্ত কার্যকর==।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "bothered",
+   "pos": "adj",
+   "pron": "/ˈbɒðəd/",
+   "bn": "বিরক্ত, উদ্বিগ্ন",
+   "en": "annoyed or worried",
+   "ex": "He was highly bothered to see others' happiness."
+  },
+  {
+   "w": "at any cost",
+   "pos": "idiom",
+   "pron": "/kɒst/",
+   "bn": "যেকোনো মূল্যে",
+   "en": "whatever the sacrifice may be",
+   "ex": "His interest was important at any cost."
+  },
+  {
+   "w": "courteous",
+   "pos": "adj",
+   "pron": "/ˈkɜːtiəs/",
+   "bn": "ভদ্র, নম্র",
+   "en": "polite and respectful",
+   "ex": "He hated the courteous people around him."
+  },
+  {
+   "w": "extravagant",
+   "pos": "adj",
+   "pron": "/ɪkˈstrævəɡənt/",
+   "bn": "বাড়াবাড়ি, অপচয়মূলক",
+   "en": "excessive; wasteful",
+   "ex": "He considered these expressions extravagant."
+  },
+  {
+   "w": "device",
+   "pos": "noun",
+   "pron": "/dɪˈvaɪs/",
+   "bn": "যন্ত্র, কৌশল",
+   "en": "a machine made for a particular purpose",
+   "ex": "a device that would steal polite words"
+  },
+  {
+   "w": "apathy",
+   "pos": "noun",
+   "pron": "/ˈæpəθi/",
+   "bn": "নির্লিপ্ততা, বিরক্তি-মিশ্রিত উদাসীনতা",
+   "en": "lack of interest or sympathy",
+   "ex": "relieved of his apathy to polite behaviour"
+  },
+  {
+   "w": "caution",
+   "pos": "noun",
+   "pron": "/ˈkɔːʃn/",
+   "bn": "সতর্কতা",
+   "en": "careful attention to avoid danger",
+   "ex": "He took great caution."
+  },
+  {
+   "w": "gratitude",
+   "pos": "noun",
+   "pron": "/ˈɡrætɪtjuːd/",
+   "bn": "কৃতজ্ঞতা",
+   "en": "the feeling of being thankful",
+   "ex": "to express gratitude"
+  },
+  {
+   "w": "attitude",
+   "pos": "noun",
+   "pron": "/ˈætɪtjuːd/",
+   "bn": "মনোভাব, দৃষ্টিভঙ্গি",
+   "en": "a way of thinking or feeling",
+   "ex": "a huge change in behaviour and attitudes"
+  },
+  {
+   "w": "mental cool",
+   "pos": "phrase",
+   "pron": "/ˈmentl kuːl/",
+   "bn": "মানসিক স্থিরতা, ধৈর্য",
+   "en": "calmness of mind",
+   "ex": "They lost their mental cool."
+  },
+  {
+   "w": "fellow feeling",
+   "pos": "phrase",
+   "pron": "/ˈfeləʊ/",
+   "bn": "সহমর্মিতা, ভ্রাতৃত্ববোধ",
+   "en": "sympathy for another because of shared experience",
+   "ex": "Fellow feeling became an unknown word."
+  },
+  {
+   "w": "special needs",
+   "pos": "phrase",
+   "pron": "/ˈspeʃl niːdz/",
+   "bn": "বিশেষ চাহিদাসম্পন্ন (প্রতিবন্ধী)",
+   "en": "needing extra help because of a disability",
+   "ex": "two little girls of special needs"
+  },
+  {
+   "w": "sign language",
+   "pos": "phrase",
+   "pron": "/saɪn/",
+   "bn": "ইশারা ভাষা",
+   "en": "a language of hand gestures used by deaf people",
+   "ex": "They communicated using sign language."
+  },
+  {
+   "w": "gesture",
+   "pos": "noun",
+   "pron": "/ˈdʒestʃə/",
+   "bn": "অঙ্গভঙ্গি, ইশারা",
+   "en": "a movement of the hand or head expressing meaning",
+   "ex": "The machine couldn't steal gestures."
+  },
+  {
+   "w": "investigate",
+   "pos": "verb",
+   "pron": "/ɪnˈvestɪɡeɪt/",
+   "bn": "অনুসন্ধান করা",
+   "en": "to examine carefully to find the truth",
+   "ex": "They investigated the reason."
+  },
+  {
+   "w": "toil",
+   "pos": "noun/verb",
+   "pron": "/tɔɪl/",
+   "bn": "কঠোর পরিশ্রম",
+   "en": "hard and continuous work",
+   "ex": "After much toil they discovered the man."
+  },
+  {
+   "w": "wicked",
+   "pos": "adj",
+   "pron": "/ˈwɪkɪd/",
+   "bn": "দুষ্ট, পাপিষ্ঠ",
+   "en": "morally bad; evil",
+   "ex": "They discovered the wicked man."
+  },
+  {
+   "w": "hideout",
+   "pos": "noun",
+   "pron": "/ˈhaɪdaʊt/",
+   "bn": "গোপন আস্তানা",
+   "en": "a secret place where one hides",
+   "ex": "a hideout on the top of a hill"
+  },
+  {
+   "w": "enormous",
+   "pos": "adj",
+   "pron": "/ɪˈnɔːməs/",
+   "bn": "বিশাল, প্রকাণ্ড",
+   "en": "extremely large",
+   "ex": "his enormous machine"
+  },
+  {
+   "w": "take a nap",
+   "pos": "idiom",
+   "pron": "/næp/",
+   "bn": "একটু ঘুমিয়ে নেওয়া",
+   "en": "to sleep for a short time",
+   "ex": "The man was taking a nap."
+  },
+  {
+   "w": "creep up",
+   "pos": "phrase",
+   "pron": "/kriːp/",
+   "bn": "চুপিচুপি এগোনো",
+   "en": "to move quietly and secretly",
+   "ex": "They crept up to the machine."
+  },
+  {
+   "w": "good manners",
+   "pos": "phrase",
+   "pron": "/ˈmænəz/",
+   "bn": "সদাচরণ, শিষ্টাচার",
+   "en": "polite behaviour towards others",
+   "ex": "Good manners keep people together."
+  }
+ ],
+ "synant": [
+  {
+   "w": "bothered",
+   "bn": "বিরক্ত",
+   "syn": [
+    "annoyed",
+    "irritated",
+    "disturbed"
+   ],
+   "ant": [
+    "pleased",
+    "delighted",
+    "content"
+   ]
+  },
+  {
+   "w": "courteous",
+   "bn": "ভদ্র",
+   "syn": [
+    "polite",
+    "civil",
+    "well-mannered"
+   ],
+   "ant": [
+    "rude",
+    "impolite",
+    "discourteous"
+   ]
+  },
+  {
+   "w": "extravagant",
+   "bn": "বাড়াবাড়ি",
+   "syn": [
+    "excessive",
+    "wasteful",
+    "lavish"
+   ],
+   "ant": [
+    "economical",
+    "moderate",
+    "frugal"
+   ]
+  },
+  {
+   "w": "fellow feeling",
+   "bn": "সহমর্মিতা",
+   "syn": [
+    "fraternity",
+    "sympathy",
+    "compassion"
+   ],
+   "ant": [
+    "hostility",
+    "indifference",
+    "enmity"
+   ]
+  },
+  {
+   "w": "apathy",
+   "bn": "উদাসীনতা",
+   "syn": [
+    "indifference",
+    "unconcern",
+    "coldness"
+   ],
+   "ant": [
+    "interest",
+    "enthusiasm",
+    "concern"
+   ]
+  },
+  {
+   "w": "wicked",
+   "bn": "দুষ্ট",
+   "syn": [
+    "evil",
+    "villainous",
+    "malicious"
+   ],
+   "ant": [
+    "virtuous",
+    "kind",
+    "noble"
+   ]
+  },
+  {
+   "w": "enormous",
+   "bn": "বিশাল",
+   "syn": [
+    "huge",
+    "immense",
+    "gigantic"
+   ],
+   "ant": [
+    "tiny",
+    "minute",
+    "small"
+   ]
+  },
+  {
+   "w": "selfish",
+   "bn": "স্বার্থপর",
+   "syn": [
+    "self-centred",
+    "greedy",
+    "egoistic"
+   ],
+   "ant": [
+    "selfless",
+    "generous",
+    "altruistic"
+   ]
+  },
+  {
+   "w": "gratitude",
+   "bn": "কৃতজ্ঞতা",
+   "syn": [
+    "thankfulness",
+    "appreciation"
+   ],
+   "ant": [
+    "ingratitude",
+    "thanklessness"
+   ]
+  },
+  {
+   "w": "toil",
+   "bn": "পরিশ্রম",
+   "syn": [
+    "labour",
+    "drudgery",
+    "effort"
+   ],
+   "ant": [
+    "rest",
+    "leisure",
+    "idleness"
+   ]
+  },
+  {
+   "w": "caution",
+   "bn": "সতর্কতা",
+   "syn": [
+    "care",
+    "prudence",
+    "vigilance"
+   ],
+   "ant": [
+    "carelessness",
+    "recklessness"
+   ]
+  },
+  {
+   "w": "polite",
+   "bn": "ভদ্র",
+   "syn": [
+    "civil",
+    "gracious",
+    "respectful"
+   ],
+   "ant": [
+    "rude",
+    "insolent",
+    "boorish"
+   ]
+  }
+ ],
+ "summaryEn": "There was once a strange man who could not bear to see other people happy and who valued his own interest above everything else. He was neither polite himself nor did he wish others to be polite, and he hated such courteous expressions as ‘please’, ‘thank you’ and ‘don't mention it’, considering them extravagant. He therefore took up the mission of inventing a device that would steal these polite words, expecting two benefits — freedom from his own irritation and money from selling the stolen words — and, working secretly and cautiously for a few months, he succeeded. Once the machine began to work, people who tried out of long habit to express thanks found that their tongues could not produce the words, and a huge change came over human behaviour: people grew rough and tough, lost their mental calm, blamed and fought with one another, refused to help without a return, and love, respect, affection and fellow feeling disappeared from their lives. The man was delighted, but he had not counted on two little girls with speech difficulty who talked in sign language; as the machine could not steal gestures, they remained kind and polite. Noticing the difference, they investigated, and after much toil they discovered the wicked man in a hideout on a hilltop beside the sea, where his enormous machine was capturing polite words and separating them into letters. Finding him asleep, they crept up and rewound the machine, which exploded and scattered the letters into the sky; the letters fell like rain into the sea, everyone became polite and respectful once more, and the anger and quarrels ceased — proving that good manners keep people together in a spirit of happiness.",
+ "summaryBn": "এক সময় এক অদ্ভুত লোক ছিল, যে অন্যের সুখ সহ্য করতে পারত না এবং সবকিছুর ঊর্ধ্বে নিজের স্বার্থকেই দেখত। সে নিজেও ভদ্র ছিল না, অন্যরা ভদ্র হোক তাও চাইত না; ‘প্লিজ’, ‘থ্যাংক ইউ’, ‘ডোন্ট মেনশন ইট’-এর মতো শিষ্ট অভিব্যক্তিকে সে বাড়াবাড়ি মনে করে ঘৃণা করত। তাই সে এমন একটি যন্ত্র উদ্ভাবনের লক্ষ্য নিল যা এই শব্দগুলো চুরি করে নেবে — এতে দুটি লাভ সে হিসাব করেছিল: নিজের বিরক্তি থেকে মুক্তি আর চুরি করা শব্দ বিক্রি করে অর্থ। কয়েক মাস গোপনে ও সতর্কভাবে পরিশ্রম করে সে সফল হলো। যন্ত্র চালু হতেই দীর্ঘ অভ্যাসবশে মানুষ কৃতজ্ঞতা জানাতে চাইলেও জিহ্বা সেই শব্দ উচ্চারণ করতে পারত না; ফলে আচরণে বিরাট পরিবর্তন এলো — মানুষ রুক্ষ ও কঠোর হয়ে উঠল, ধৈর্য হারাল, দোষারোপ ও মারামারি করতে লাগল, বিনিময় ছাড়া সাহায্য করতে অস্বীকার করল, আর ভালোবাসা, শ্রদ্ধা, স্নেহ ও সহমর্মিতা জীবন থেকে হারিয়ে গেল। লোকটি দারুণ খুশি ছিল, কিন্তু সে হিসাবে রাখেনি বিশেষ চাহিদাসম্পন্ন দুটি ছোট মেয়েকে, যারা ইশারা ভাষায় কথা বলত; যন্ত্রটি অঙ্গভঙ্গি চুরি করতে পারত না বলে তারা আগের মতোই দয়ালু ও ভদ্র রইল। পার্থক্যটি লক্ষ করে তারা অনুসন্ধান শুরু করে এবং বহু পরিশ্রমের পর সমুদ্রতীরের এক পাহাড়চূড়ার গোপন আস্তানায় দুষ্ট লোকটিকে খুঁজে পায়, যেখানে বিশাল যন্ত্রটি ভদ্র শব্দ ধরে অক্ষরে ভাগ করছিল। লোকটিকে ঘুমন্ত দেখে তারা চুপিচুপি গিয়ে যন্ত্রটি উল্টো ঘুরিয়ে দেয়; যন্ত্রটি বিস্ফোরিত হয়ে সব অক্ষর আকাশে ছড়িয়ে দেয়, অক্ষরগুলো বৃষ্টির মতো সমুদ্রে ঝরে পড়ে, আর সবাই আবার ভদ্র ও শ্রদ্ধাশীল হয়ে ওঠে — প্রমাণিত হয় যে সুন্দর আচরণই মানুষকে আনন্দের বন্ধনে বেঁধে রাখে।",
+ "summaryTip": "**রূপকথা/গল্পের Summary:** চরিত্র → সমস্যা → পরিণতি → সমাধান → নীতিশিক্ষা। শেষ বাক্যে অবশ্যই moral লিখবে — ‘good manners keep people together in a spirit of happiness’.",
+ "mcq": [
+  {
+   "q": "The strange man was extremely ___ at the sight of others' happiness.",
+   "opts": [
+    "annoyed",
+    "overjoyed",
+    "jealous",
+    "zealous"
+   ],
+   "ans": 0,
+   "why": "‘highly **bothered** to see others' happiness’ — bothered = বিরক্ত = annoyed. (‘Jealous’ কাছাকাছি হলেও প্যাসেজের শব্দ ‘bothered’-এর সরাসরি সমার্থক annoyed.)"
+  },
+  {
+   "q": "What could be the closest meaning of ‘fellow-feeling’?",
+   "opts": [
+    "fraternity",
+    "posterity",
+    "popularity",
+    "frailty"
+   ],
+   "ans": 0,
+   "why": "Fellow feeling = সহমর্মিতা / ভ্রাতৃত্ববোধ = fraternity. বাকি তিনটি কেবল ছন্দে মেলে — posterity (ভবিষ্যৎ বংশধর), frailty (দুর্বলতা)।"
+  },
+  {
+   "q": "What, according to the text, could the machine NOT steal?",
+   "opts": [
+    "words and expressions of politeness",
+    "body language",
+    "animal language",
+    "literary words and terms"
+   ],
+   "ans": 1,
+   "why": "‘Since the machine couldn't steal **gestures**…’ — gesture = অঙ্গভঙ্গি = body language. এই কারণেই মেয়ে দুটি রক্ষা পেয়েছিল।"
+  },
+  {
+   "q": "‘Please’, ‘thank you’ and ‘don't mention it’ are ___ expressions.",
+   "opts": [
+    "polite",
+    "rude",
+    "annoying",
+    "angry"
+   ],
+   "ans": 0,
+   "why": "প্যাসেজে এগুলোকে সরাসরি ‘polite words’ বলা হয়েছে; লোকটি এগুলোকেই চুরি করতে চেয়েছিল।"
+  },
+  {
+   "q": "What was the purpose of inventing the device?",
+   "opts": [
+    "to dominate the people",
+    "to make people impolite and argumentative",
+    "to teach people good manners",
+    "to steal the property of the people"
+   ],
+   "ans": 1,
+   "why": "যন্ত্রের ফল — মানুষ রুক্ষ হয়ে গেল, দোষারোপ ও ঝগড়া করতে লাগল। তার উদ্দেশ্যই ছিল ভদ্রতা মুছে দেওয়া, শব্দ ছাড়া অন্য সম্পত্তি চুরি নয়।"
+  },
+  {
+   "q": "The man was ___ of his plan.",
+   "opts": [
+    "certain",
+    "suspicious",
+    "unsure",
+    "doubtful"
+   ],
+   "ans": 0,
+   "why": "সে মাসের পর মাস পরিশ্রম করেছে, দুটি লাভ হিসাব করেছে এবং সতর্কতা নিয়েছে — অর্থাৎ পরিকল্পনার ব্যাপারে সে ছিল নিশ্চিত (certain)।"
+  },
+  {
+   "q": "The man invented a device —",
+   "opts": [
+    "in a short time",
+    "overnight",
+    "toiling much",
+    "spending a few days"
+   ],
+   "ans": 2,
+   "why": "‘After a few months' **hard work**, he succeeded’ — অর্থাৎ অনেক পরিশ্রম করে (toiling much)।"
+  },
+  {
+   "q": "Why did he take great caution to invent the machine?",
+   "opts": [
+    "So that everybody could understand his secret plan.",
+    "So that nobody could understand his secret plan.",
+    "So that anybody would understand his secret plan.",
+    "So that nobody would understand the open secret of his plan."
+   ],
+   "ans": 1,
+   "why": "‘He took great caution **so that nobody would understand his secret plan**.’ — ‘open secret’ কথাটি স্ববিরোধী, তাই (iv) ভুল।"
+  },
+  {
+   "q": "How many benefits did he calculate from his efforts?",
+   "opts": [
+    "one",
+    "two",
+    "four",
+    "five"
+   ],
+   "ans": 1,
+   "why": "‘He calculated **two** benefits’ — (১) নিজের বিরক্তি থেকে মুক্তি, (২) শব্দ বিক্রি করে অর্থ উপার্জন।"
+  },
+  {
+   "q": "What happened when the machine started working?",
+   "opts": [
+    "People could easily say the words of politeness.",
+    "People could not say the words and expressions of politeness.",
+    "People could not say anything at all.",
+    "People could say a lot about the expressions of politeness."
+   ],
+   "ans": 1,
+   "why": "‘their tongue could not produce these words. The machine caught them.’ — অন্য কথা তারা বলতে পারত, কেবল ভদ্র শব্দগুলোই নয়; তাই (iii) ভুল।"
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "How did people show politeness and courtesy?",
+   "a": "People showed politeness and courtesy chiefly through words and a smile. Out of long practice they used such expressions as ‘please’, ‘thank you’, ‘so kind of you’, ‘my pleasure’ and ‘don't mention it’ in order to appreciate others or to express their gratitude, and they smiled while using them. Besides words, courtesy was also shown through gestures, as the two little girls of special needs proved by remaining kind and polite in sign language.",
+   "bn": "মানুষ ভদ্রতা প্রকাশ করত মূলত কথায় ও হাসিতে। দীর্ঘদিনের অভ্যাসে তারা ‘প্লিজ’, ‘থ্যাংক ইউ’, ‘সো কাইন্ড অব ইউ’, ‘মাই প্লেজার’, ‘ডোন্ট মেনশন ইট’ ইত্যাদি বলে অন্যের প্রশংসা বা কৃতজ্ঞতা জানাত এবং হাসিমুখে তা বলত। শব্দ ছাড়াও অঙ্গভঙ্গিতেও ভদ্রতা প্রকাশ পায় — বাক্‌প্রতিবন্ধী দুই মেয়ে তাই প্রমাণ করেছে।"
+  },
+  {
+   "q": "What made the man angry?",
+   "a": "The man was made angry by the happiness and the good manners of other people. He was highly bothered to see others happy, and it troubled him a lot when people around him smiled while using polite expressions like ‘please’ and ‘thank you’. He hated courteous people and considered all such expressions extravagant, that is, a needless waste. In short, it was not any injury done to him but the very politeness of society that filled him with anger.",
+   "bn": "লোকটিকে রাগিয়ে তুলত অন্যের সুখ ও সদাচরণ। অন্যকে সুখী দেখলেই সে বিরক্ত হতো, আর চারপাশের মানুষ হাসিমুখে ‘প্লিজ’, ‘থ্যাংক ইউ’ বললে তার খুব কষ্ট হতো। সে ভদ্র মানুষদের ঘৃণা করত এবং এসব কথাকে অপ্রয়োজনীয় বাড়াবাড়ি মনে করত।"
+  },
+  {
+   "q": "What made the man invent a device to steal words?",
+   "a": "Two calculated benefits made him invent the device. The first was personal relief: if people could not use polite words, he would be freed from his apathy and irritation at their polite behaviour. The second was financial: he hoped to earn money by selling the stolen words to somebody else. Driven by these selfish motives, he worked hard for a few months with great caution so that nobody might understand his secret plan, and at last he succeeded.",
+   "bn": "হিসাব করা দুটি লাভ তাকে যন্ত্রটি উদ্ভাবনে প্ররোচিত করেছিল। প্রথমটি ব্যক্তিগত স্বস্তি — মানুষ ভদ্র শব্দ ব্যবহার করতে না পারলে তাদের ভদ্র আচরণ নিয়ে তার বিরক্তি দূর হবে। দ্বিতীয়টি আর্থিক — চুরি করা শব্দ অন্যের কাছে বিক্রি করে অর্থ উপার্জন। এই স্বার্থপর উদ্দেশ্যেই সে গোপনে কয়েক মাস পরিশ্রম করে।"
+  },
+  {
+   "q": "How was the man strange from others?",
+   "a": "He was strange in almost every way. Ordinary people feel glad at another's happiness, but he was highly bothered by it. Ordinary people value courtesy, but he hated courteous people and thought polite expressions extravagant. Ordinary people use their talent for the good of society, but he used months of hard work to invent a machine that would rob society of its politeness, and he even planned to sell the stolen words for money. Such a combination of jealousy, selfishness and cunning made him strange.",
+   "bn": "সে প্রায় সব দিক থেকেই অদ্ভুত ছিল। সাধারণ মানুষ অন্যের সুখে আনন্দিত হয়, সে হতো বিরক্ত। সাধারণ মানুষ ভদ্রতাকে মূল্য দেয়, সে ভদ্র মানুষদের ঘৃণা করত। সাধারণ মানুষ মেধা কাজে লাগায় সমাজের কল্যাণে, আর সে মাসের পর মাস পরিশ্রম করে সমাজের ভদ্রতা কেড়ে নেওয়ার যন্ত্র বানাল — এমনকি সেই শব্দ বিক্রির পরিকল্পনাও করল।"
+  },
+  {
+   "q": "“The man was evil to the core.” — Do you support it? Why/Why not?",
+   "a": "Yes, I fully support the statement. A man may be called evil to the core when he wishes harm to others without having been harmed himself, and this man did exactly that. He was disturbed by other people's happiness, hated their good manners, and secretly built a machine to rob the whole society of love, respect and fellow feeling merely to satisfy his own irritation and greed. He even felt terribly happy when people began quarrelling and refusing to help one another. Such deliberate cruelty for no cause proves that his wickedness went to the very core of his heart.",
+   "bn": "হ্যাঁ, আমি উক্তিটি সম্পূর্ণ সমর্থন করি। যে মানুষ নিজে ক্ষতিগ্রস্ত না হয়েও অন্যের ক্ষতি চায়, তাকেই বলা যায় ‘evil to the core’। সে অন্যের সুখে বিরক্ত হতো, সদাচরণ ঘৃণা করত এবং কেবল নিজের বিরক্তি ও লোভ মেটাতে গোপনে যন্ত্র বানিয়ে গোটা সমাজ থেকে ভালোবাসা ও শ্রদ্ধা কেড়ে নিল। মানুষ যখন ঝগড়া করছিল, তখন সে দারুণ খুশি হয়েছিল — এই বিনা কারণে নিষ্ঠুরতাই তার আপাদমস্তক দুষ্টতার প্রমাণ।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "What / Who",
+   "Event",
+   "Why / When",
+   "How"
+  ],
+  "rows": [
+   [
+    "The strange man",
+    "felt bothered",
+    "(i) @to see others' happiness",
+    "highly"
+   ],
+   [
+    "He",
+    "hated a few expressions of (ii) @politeness — please, thank you, don't mention it",
+    "because he considered them extravagant",
+    "in fact"
+   ],
+   [
+    "His plan",
+    "was to steal the polite words",
+    "(iii) @so that people could not use them and he could sell them for money",
+    "secretly and cautiously"
+   ],
+   [
+    "The machine",
+    "(iv) @brought a huge change",
+    "in people's behaviour and attitude",
+    "gradually"
+   ],
+   [
+    "Love, respect, affection and fellow feeling",
+    "became unknown and eventually were missing from people's practices",
+    "(v) @because the machine stole the polite words",
+    "eventually"
+   ],
+   [
+    "The man",
+    "(vi) @was terribly happy",
+    "being successful in his mission",
+    "completely"
+   ],
+   [
+    "(vii) @Two little girls of special needs",
+    "were not counted on",
+    "by the man",
+    "at all"
+   ],
+   [
+    "They",
+    "(viii) @had speech difficulty and communicated",
+    "with sign language",
+    "naturally"
+   ],
+   [
+    "The two girls",
+    "discovered (ix) @the wicked man in his hideout",
+    "after much toiling",
+    "(x) @by investigating the reason"
+   ],
+   [
+    "The anger and the arguments",
+    "stopped",
+    "after the machine exploded",
+    "finally"
+   ]
+  ],
+  "note": "‘How’ কলামে সাধারণত ক্রিয়াবিশেষণ (highly, gradually, secretly) অথবা ‘by + verb-ing’ বসে।"
+ },
+ "flow": {
+  "title": "Traits of the Strange Man — অদ্ভুত লোকটির বৈশিষ্ট্য",
+  "items": [
+   {
+    "t": "Highly bothered to see others' happiness",
+    "bn": "অন্যের সুখ দেখলেই বিরক্ত (দেওয়া আছে)"
+   },
+   {
+    "t": "Utterly selfish — his own interest important at any cost",
+    "bn": "চরম স্বার্থপর — যেকোনো মূল্যে নিজের স্বার্থ"
+   },
+   {
+    "t": "Neither polite himself nor tolerant of politeness in others",
+    "bn": "নিজে ভদ্র নয়, অন্যের ভদ্রতাও সহ্য করে না"
+   },
+   {
+    "t": "Hated courteous people and polite expressions",
+    "bn": "ভদ্র মানুষ ও শিষ্ট অভিব্যক্তিকে ঘৃণা করত"
+   },
+   {
+    "t": "Cunning and secretive — took great caution over his plan",
+    "bn": "ধূর্ত ও গোপনচারী — পরিকল্পনায় অতি সতর্ক"
+   },
+   {
+    "t": "Greedy — wanted to earn money by selling the stolen words",
+    "bn": "লোভী — চুরি করা শব্দ বিক্রি করে অর্থ চাইত"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "Before and After the Machine <span class='sub'>— যন্ত্রের আগে ও পরে সমাজ</span>",
+   "key": "Before/After",
+   "table": {
+    "headers": [
+     "Before the machine",
+     "After the machine started",
+     "After it was destroyed"
+    ],
+    "rows": [
+     [
+      "People said please, thank you, my pleasure",
+      "Their tongues could not produce these words",
+      "Everyone became polite again"
+     ],
+     [
+      "People smiled while being courteous",
+      "People became rough and tough",
+      "Respect returned to all"
+     ],
+     [
+      "People kept their mental cool",
+      "They lost their mental cool and quarrelled",
+      "Anger and arguments stopped"
+     ],
+     [
+      "People helped one another freely",
+      "They refused help without a return",
+      "Fellow feeling was restored"
+     ],
+     [
+      "Love, respect, affection existed",
+      "These became unknown words",
+      "Happiness bound people together"
+     ]
+    ]
+   },
+   "note": "‘What happened when the machine started working?’ ও ‘What was the result?’ — দুটি প্রশ্নেরই উত্তর এই টেবিলে।"
+  },
+  {
+   "title": "The Moral &amp; the Heroes <span class='sub'>— নীতিশিক্ষা ও নায়ক</span>",
+   "key": "Moral",
+   "list": [
+    {
+     "em": "🤟",
+     "t": "The machine could not steal gestures",
+     "d": "তাই ইশারা ভাষায় কথা বলা মেয়ে দুটিই বেঁচে গেল — এটিই গল্পের মোড়"
+    },
+    {
+     "em": "👧",
+     "t": "Two girls of special needs became the heroes",
+     "d": "বিশেষ চাহিদাসম্পন্ন মানুষও সমাজ বাঁচাতে পারে",
+     "type": "ok"
+    },
+    {
+     "em": "🔍",
+     "t": "They noticed the difference and investigated",
+     "d": "পার্থক্য লক্ষ করা ও অনুসন্ধান — সমাধানের প্রথম ধাপ"
+    },
+    {
+     "em": "💥",
+     "t": "Rewinding the machine made it explode",
+     "d": "যন্ত্র উল্টো ঘুরিয়ে দিতেই বিস্ফোরণ ও অক্ষরবৃষ্টি"
+    },
+    {
+     "em": "🌧️",
+     "t": "The letters fell like rain into the sea",
+     "d": "গল্পের সবচেয়ে কাব্যিক চিত্রকল্প (simile)"
+    },
+    {
+     "em": "🕊️",
+     "t": "Moral: good manners keep people together",
+     "d": "সুন্দর আচরণই মানুষকে আনন্দের বন্ধনে বেঁধে রাখে",
+     "type": "ok"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  {
+   "em": "📖",
+   "t": "Fable = look for the last sentence",
+   "d": "রূপকথার নীতিশিক্ষা প্রায় সবসময় শেষ বাক্যে থাকে। এখানে: ‘good manners are very useful for keeping people together in a spirit of happiness.’"
+  },
+  {
+   "em": "🔢",
+   "t": "‘Two benefits’ — count carefully",
+   "d": "সংখ্যা-প্রশ্ন নিশ্চিত: দুটি লাভ, দুটি মেয়ে। প্যাসেজে যেখানেই সংখ্যা, সেখানেই দাগ দাও।"
+  },
+  {
+   "em": "🤟",
+   "t": "Gesture vs word",
+   "type": "ok",
+   "d": "যন্ত্রটি শব্দ চুরি করতে পারত, অঙ্গভঙ্গি নয় — এই একটি তথ্য থেকেই MCQ ও Short Question দুটোই আসে।"
+  },
+  {
+   "em": "⚠️",
+   "t": "‘Could not say’ ≠ ‘could not speak’",
+   "type": "warn",
+   "d": "মানুষ কেবল ভদ্র শব্দগুলোই বলতে পারত না, বোবা হয়ে যায়নি। MCQ-তে এই পার্থক্যেই ফাঁদ।"
+  },
+  {
+   "em": "🧑‍⚖️",
+   "t": "Opinion question = evidence first",
+   "d": "‘Was the man evil to the core?’ — মত দেওয়ার আগে প্যাসেজ থেকে দুটি প্রমাণ (অন্যের সুখে বিরক্তি, শব্দ বিক্রির লোভ) দাও।"
+  },
+  {
+   "em": "✍️",
+   "t": "Character traits = adjectives",
+   "d": "Flow chart-এ বৈশিষ্ট্য লেখো বিশেষণে — jealous, selfish, cunning, greedy — পূর্ণ বাক্যে নয়।"
+  }
+ ],
+ "recap": [
+  "লোকটি: অন্যের সুখে বিরক্ত, স্বার্থপর, ভদ্রতাকে ‘extravagant’ মনে করত।",
+  "দুটি লাভের হিসাব: নিজের বিরক্তি থেকে মুক্তি + শব্দ বিক্রি করে অর্থ।",
+  "যন্ত্রের ফল: রুক্ষতা, ঝগড়া, স্বার্থপরতা; ভালোবাসা-শ্রদ্ধা-সহমর্মিতা উধাও।",
+  "নায়ক: বিশেষ চাহিদাসম্পন্ন দুই মেয়ে — যন্ত্র অঙ্গভঙ্গি চুরি করতে পারেনি।",
+  "নীতিশিক্ষা: সুন্দর আচরণই মানুষকে আনন্দের বন্ধনে একসাথে রাখে।"
+ ],
+ "homework": [
+  "লোকটির ৬টি চারিত্রিক বৈশিষ্ট্য লিখে আনবে।",
+  "‘Before and After the Machine’ টেবিলটি খাতায় তুলবে।",
+  "‘The man was evil to the core’ — নিজের মত যুক্তিসহ লিখবে।",
+  "Summary ১৪০ শব্দে লিখে আনবে, শেষে নীতিশিক্ষাসহ।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

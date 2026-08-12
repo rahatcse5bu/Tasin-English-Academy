@@ -1,0 +1,782 @@
+{
+ "id": "man-social-animal",
+ "unit": "Unit 06",
+ "unitName": "Relationships",
+ "title": "Man is by Nature a Social Animal",
+ "titleBn": "মানুষ স্বভাবতই সামাজিক জীব",
+ "lede": "অ্যারিস্টটলের বিখ্যাত উক্তি থেকে শুরু — সম্পর্কের প্রকারভেদ, একাকিত্বের যন্ত্রণা, এবং সম্পর্ক গড়ার শর্ত।",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 45,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Classify the kinds of relationships",
+   "d": "familial, social, school, workplace, human–animal — ৫ প্রকার"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "১৪টি বাক্যের বাংলা অর্থ"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "instinct, foster, isolation, possessive…"
+  },
+  {
+   "t": "Why relationships matter",
+   "d": "আনন্দ দ্বিগুণ, দুঃখ অর্ধেক — মানসিক স্বাস্থ্যের যুক্তি"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — Aristotle's saying",
+   "s": [
+    {
+     "en": "The famous Greek philosopher ==Aristotle== said, “==Man is by nature a social animal.==”",
+     "bn": "বিখ্যাত গ্রিক দার্শনিক ==অ্যারিস্টটল== বলেছিলেন, “==মানুষ স্বভাবতই একটি সামাজিক জীব।==”"
+    },
+    {
+     "en": "What he meant was that man, ==by instinct==, seeks ==company of others== and establishes relationships, much like most animals of the wild, for ==companionship== and for ==physical and emotional support==.",
+     "bn": "তিনি বোঝাতে চেয়েছিলেন যে মানুষ ==সহজাত প্রবৃত্তির বশে== অন্যের ==সঙ্গ== খোঁজে এবং সম্পর্ক গড়ে তোলে — অনেকটা বন্য প্রাণীদের মতোই — ==সাহচর্যের== জন্য এবং ==শারীরিক ও আবেগীয় সহায়তার== জন্য।"
+    },
+    {
+     "en": "Unlike the animals, however, man's relationships ==give meaning to his existence== and inspire him to ==do well in education, in workplace or in a profession== that he pursues.",
+     "bn": "তবে প্রাণীদের থেকে ভিন্নভাবে, মানুষের সম্পর্ক তার ==অস্তিত্বকে অর্থ দেয়== এবং তাকে ==শিক্ষায়, কর্মক্ষেত্রে বা যে পেশাই সে অনুসরণ করুক== তাতে ভালো করতে অনুপ্রাণিত করে।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — Kinds of relationships",
+   "s": [
+    {
+     "en": "Relationships are of different kinds: some are ==familial and intimate==, formed ==by blood and by marriage==; some are ==social== like the ones we have with friends, and some are ==made in school== where we form close bonds with classmates and teachers.",
+     "bn": "সম্পর্ক নানা রকমের: কিছু ==পারিবারিক ও ঘনিষ্ঠ==, যা ==রক্তের ও বিবাহের সূত্রে== গড়ে ওঠে; কিছু ==সামাজিক==, যেমন বন্ধুদের সঙ্গে; আর কিছু ==বিদ্যালয়ে তৈরি হয়==, যেখানে আমরা সহপাঠী ও শিক্ষকদের সঙ্গে ঘনিষ্ঠ বন্ধন গড়ি।"
+    },
+    {
+     "en": "Relationships can also be ==fostered== in workplace, which may quickly change from ==professional to social==.",
+     "bn": "কর্মক্ষেত্রেও সম্পর্ক ==লালিত হতে== পারে, যা দ্রুতই ==পেশাগত থেকে সামাজিক== রূপ নিতে পারে।"
+    },
+    {
+     "en": "There are relationships also between human beings and animals, between children and their toys that they ==cannot part with==.",
+     "bn": "মানুষ ও প্রাণীর মধ্যেও সম্পর্ক থাকে, থাকে শিশু ও তাদের সেই খেলনার মধ্যে, যা তারা ==ছেড়ে থাকতে পারে না==।"
+    },
+    {
+     "en": "All these relationships keep us close to each other and provide us all kinds of ==support, love and affection==.",
+     "bn": "এই সব সম্পর্কই আমাদের পরস্পরের কাছাকাছি রাখে এবং সব রকমের ==সহায়তা, ভালোবাসা ও স্নেহ== জোগায়।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — Loneliness and emotional health",
+   "s": [
+    {
+     "en": "A person who has no family feels the pain of ==loneliness and isolation==.",
+     "bn": "যে মানুষের পরিবার নেই, সে ==একাকিত্ব ও বিচ্ছিন্নতার== যন্ত্রণা অনুভব করে।"
+    },
+    {
+     "en": "There is no one to ==laugh or cry with== him/her.",
+     "bn": "তার সঙ্গে ==হাসার বা কাঁদার== মতো কেউ থাকে না।"
+    },
+    {
+     "en": "When we share our joy with someone, it simply ==redoubles==, and when we suffer a loss and someone shares our sorrow, it ==lessens==.",
+     "bn": "যখন আমরা কারও সঙ্গে আনন্দ ভাগ করি, তা ==দ্বিগুণ হয়ে যায়==; আর যখন আমরা কোনো ক্ষতি সহ্য করি এবং কেউ আমাদের দুঃখ ভাগ করে নেয়, তখন তা ==কমে যায়==।"
+    },
+    {
+     "en": "Relationships are thus needed for our ==emotional health==.",
+     "bn": "তাই আমাদের ==আবেগীয় তথা মানসিক স্বাস্থ্যের== জন্য সম্পর্ক প্রয়োজন।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 4 — How to build a relationship",
+   "s": [
+    {
+     "en": "To build relationships, we need to have ==trust and respect== for each other, and ==love== where this is needed.",
+     "bn": "সম্পর্ক গড়ে তুলতে হলে আমাদের পরস্পরের প্রতি ==আস্থা ও শ্রদ্ধা== থাকতে হবে, আর যেখানে প্রয়োজন সেখানে ==ভালোবাসা==।"
+    },
+    {
+     "en": "We cannot be ==selfish and possessive== if we want to establish an ==effective relationship==.",
+     "bn": "যদি আমরা একটি ==কার্যকর সম্পর্ক== গড়তে চাই, তবে আমরা ==স্বার্থপর ও অধিকারপরায়ণ== হতে পারি না।"
+    },
+    {
+     "en": "But quite often we see people ==quarrelling and fighting== with each other which only brings ==misery and loss== to all.",
+     "bn": "কিন্তু প্রায়ই আমরা মানুষকে পরস্পরের সঙ্গে ==ঝগড়া ও মারামারি== করতে দেখি, যা সবার জন্য কেবল ==দুর্দশা ও ক্ষতিই== বয়ে আনে।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "philosopher",
+   "pos": "noun",
+   "pron": "/fəˈlɒsəfə/",
+   "bn": "দার্শনিক",
+   "en": "a person who studies ideas about life and knowledge",
+   "ex": "the famous Greek philosopher Aristotle"
+  },
+  {
+   "w": "by nature",
+   "pos": "phrase",
+   "pron": "/baɪ ˈneɪtʃə/",
+   "bn": "স্বভাবতই, প্রকৃতিগতভাবে",
+   "en": "naturally; as part of one's character",
+   "ex": "Man is by nature a social animal."
+  },
+  {
+   "w": "instinct",
+   "pos": "noun",
+   "pron": "/ˈɪnstɪŋkt/",
+   "bn": "সহজাত প্রবৃত্তি",
+   "en": "a natural tendency to behave in a certain way",
+   "ex": "Man by instinct seeks company."
+  },
+  {
+   "w": "companionship",
+   "pos": "noun",
+   "pron": "/kəmˈpænjənʃɪp/",
+   "bn": "সাহচর্য, সঙ্গ",
+   "en": "the pleasant feeling of having company",
+   "ex": "relationships for companionship"
+  },
+  {
+   "w": "existence",
+   "pos": "noun",
+   "pron": "/ɪɡˈzɪstəns/",
+   "bn": "অস্তিত্ব",
+   "en": "the state of living or being",
+   "ex": "Relationships give meaning to his existence."
+  },
+  {
+   "w": "pursue",
+   "pos": "verb",
+   "pron": "/pəˈsjuː/",
+   "bn": "অনুসরণ করা, চর্চা করা",
+   "en": "to follow or work at something",
+   "ex": "the profession that he pursues"
+  },
+  {
+   "w": "familial",
+   "pos": "adj",
+   "pron": "/fəˈmɪliəl/",
+   "bn": "পারিবারিক",
+   "en": "relating to family",
+   "ex": "familial and intimate relationships"
+  },
+  {
+   "w": "intimate",
+   "pos": "adj",
+   "pron": "/ˈɪntɪmət/",
+   "bn": "ঘনিষ্ঠ, অন্তরঙ্গ",
+   "en": "very close and personal",
+   "ex": "intimate relationships formed by blood"
+  },
+  {
+   "w": "foster",
+   "pos": "verb",
+   "pron": "/ˈfɒstə/",
+   "bn": "লালন করা, পরিপুষ্ট করা",
+   "en": "to help something grow or develop",
+   "ex": "Relationships can be fostered in workplace."
+  },
+  {
+   "w": "part with",
+   "pos": "phrase",
+   "pron": "/pɑːt wɪð/",
+   "bn": "ছেড়ে দেওয়া, বিচ্ছিন্ন হওয়া",
+   "en": "to give up or let go of something",
+   "ex": "toys that they cannot part with"
+  },
+  {
+   "w": "isolation",
+   "pos": "noun",
+   "pron": "/ˌaɪsəˈleɪʃn/",
+   "bn": "বিচ্ছিন্নতা, নিঃসঙ্গতা",
+   "en": "the state of being alone or separated",
+   "ex": "the pain of loneliness and isolation"
+  },
+  {
+   "w": "redouble",
+   "pos": "verb",
+   "pron": "/riːˈdʌbl/",
+   "bn": "দ্বিগুণ হওয়া / করা",
+   "en": "to become twice as great",
+   "ex": "Shared joy simply redoubles."
+  },
+  {
+   "w": "lessen",
+   "pos": "verb",
+   "pron": "/ˈlesn/",
+   "bn": "কমে যাওয়া, লাঘব হওয়া",
+   "en": "to become or make smaller",
+   "ex": "Shared sorrow lessens."
+  },
+  {
+   "w": "possessive",
+   "pos": "adj",
+   "pron": "/pəˈzesɪv/",
+   "bn": "অধিকারপরায়ণ, দখলপ্রবণ",
+   "en": "wanting to keep someone or something only for oneself",
+   "ex": "We cannot be selfish and possessive."
+  },
+  {
+   "w": "misery",
+   "pos": "noun",
+   "pron": "/ˈmɪzəri/",
+   "bn": "দুর্দশা, যন্ত্রণা",
+   "en": "great suffering or unhappiness",
+   "ex": "Quarrels bring misery to all."
+  },
+  {
+   "w": "segregation",
+   "pos": "noun",
+   "pron": "/ˌseɡrɪˈɡeɪʃn/",
+   "bn": "পৃথকীকরণ, বিচ্ছিন্নকরণ",
+   "en": "the act of keeping people or groups apart",
+   "ex": "Social segregation causes estrangement."
+  }
+ ],
+ "synant": [
+  {
+   "w": "instinct",
+   "bn": "সহজাত প্রবৃত্তি",
+   "syn": [
+    "impulse",
+    "intuition",
+    "urge"
+   ],
+   "ant": [
+    "reason",
+    "deliberation",
+    "logic"
+   ]
+  },
+  {
+   "w": "foster",
+   "bn": "লালন করা",
+   "syn": [
+    "nourish",
+    "nurture",
+    "promote"
+   ],
+   "ant": [
+    "neglect",
+    "suppress",
+    "hinder"
+   ]
+  },
+  {
+   "w": "isolation",
+   "bn": "বিচ্ছিন্নতা",
+   "syn": [
+    "separation",
+    "solitude",
+    "seclusion"
+   ],
+   "ant": [
+    "company",
+    "togetherness",
+    "union"
+   ]
+  },
+  {
+   "w": "misery",
+   "bn": "দুর্দশা",
+   "syn": [
+    "suffering",
+    "distress",
+    "woe"
+   ],
+   "ant": [
+    "pleasure",
+    "joy",
+    "comfort"
+   ]
+  },
+  {
+   "w": "intimate",
+   "bn": "ঘনিষ্ঠ",
+   "syn": [
+    "close",
+    "familiar",
+    "confidential"
+   ],
+   "ant": [
+    "distant",
+    "formal",
+    "aloof"
+   ]
+  },
+  {
+   "w": "companionship",
+   "bn": "সাহচর্য",
+   "syn": [
+    "fellowship",
+    "friendship",
+    "society"
+   ],
+   "ant": [
+    "loneliness",
+    "isolation"
+   ]
+  },
+  {
+   "w": "possessive",
+   "bn": "অধিকারপরায়ণ",
+   "syn": [
+    "clinging",
+    "jealous",
+    "domineering"
+   ],
+   "ant": [
+    "generous",
+    "liberal",
+    "unselfish"
+   ]
+  },
+  {
+   "w": "selfish",
+   "bn": "স্বার্থপর",
+   "syn": [
+    "self-centred",
+    "egoistic",
+    "mean"
+   ],
+   "ant": [
+    "selfless",
+    "altruistic",
+    "generous"
+   ]
+  },
+  {
+   "w": "redouble",
+   "bn": "দ্বিগুণ হওয়া",
+   "syn": [
+    "multiply",
+    "intensify",
+    "increase"
+   ],
+   "ant": [
+    "reduce",
+    "diminish",
+    "halve"
+   ]
+  },
+  {
+   "w": "lessen",
+   "bn": "কমে যাওয়া",
+   "syn": [
+    "diminish",
+    "decrease",
+    "abate"
+   ],
+   "ant": [
+    "increase",
+    "aggravate",
+    "intensify"
+   ]
+  },
+  {
+   "w": "existence",
+   "bn": "অস্তিত্ব",
+   "syn": [
+    "being",
+    "life",
+    "survival"
+   ],
+   "ant": [
+    "non-existence",
+    "death",
+    "extinction"
+   ]
+  },
+  {
+   "w": "estrangement",
+   "bn": "সম্পর্কচ্ছেদ, দূরত্ব",
+   "syn": [
+    "alienation",
+    "separation",
+    "disaffection"
+   ],
+   "ant": [
+    "attachment",
+    "reconciliation",
+    "bond"
+   ]
+  }
+ ],
+ "summaryEn": "The Greek philosopher Aristotle described man as a social animal, meaning that by instinct a human being seeks the company of others and forms relationships for companionship and for physical and emotional support, just as most wild animals do. Man's relationships, however, do far more than an animal's, for they give meaning to his existence and inspire him to do well in education, at work and in whatever profession he follows. Such relationships take many shapes: familial and intimate ones formed by blood and marriage, social ones with friends, school bonds with classmates and teachers, workplace ties that soon turn from professional into social, and even the attachment between human beings and animals or between children and the toys they cannot part with. All of them keep people close and supply support, love and affection. Consequently a person without a family suffers loneliness and isolation, with nobody to laugh or cry with, whereas shared joy is doubled and shared sorrow is lightened; relationships are therefore necessary for emotional health. To build them one must have trust, respect and, where necessary, love, and must give up selfishness and possessiveness — yet people are often seen quarrelling and fighting, which brings nothing but misery and loss to everybody.",
+ "summaryBn": "গ্রিক দার্শনিক অ্যারিস্টটল মানুষকে সামাজিক জীব বলেছিলেন; অর্থাৎ মানুষ সহজাত প্রবৃত্তির টানে অন্যের সঙ্গ খোঁজে এবং সাহচর্য ও শারীরিক-আবেগীয় সহায়তার জন্য সম্পর্ক গড়ে — ঠিক যেমনটি বেশিরভাগ বন্য প্রাণীও করে। তবে মানুষের সম্পর্ক প্রাণীর চেয়ে অনেক বেশি কিছু করে: তা তার অস্তিত্বকে অর্থ দেয় এবং শিক্ষায়, কর্মে ও পেশায় ভালো করতে অনুপ্রাণিত করে। এই সম্পর্ক নানা রূপ নেয় — রক্ত ও বিবাহের সূত্রে গড়া পারিবারিক ও ঘনিষ্ঠ সম্পর্ক, বন্ধুদের সঙ্গে সামাজিক সম্পর্ক, বিদ্যালয়ে সহপাঠী ও শিক্ষকদের সঙ্গে বন্ধন, কর্মক্ষেত্রের সম্পর্ক যা দ্রুত পেশাগত থেকে সামাজিক হয়ে ওঠে, এমনকি মানুষ ও প্রাণীর কিংবা শিশু ও তার প্রিয় খেলনার সম্পর্কও। এসবই মানুষকে কাছাকাছি রাখে এবং সহায়তা, ভালোবাসা ও স্নেহ জোগায়। ফলে পরিবারহীন মানুষ একাকিত্ব ও বিচ্ছিন্নতায় ভোগে — হাসার বা কাঁদার সঙ্গী থাকে না; অথচ ভাগ করা আনন্দ দ্বিগুণ হয় আর ভাগ করা দুঃখ হালকা হয়। তাই মানসিক স্বাস্থ্যের জন্য সম্পর্ক অপরিহার্য। সম্পর্ক গড়তে চাই আস্থা, শ্রদ্ধা ও প্রয়োজনে ভালোবাসা, আর ছাড়তে হবে স্বার্থপরতা ও অধিকারপরায়ণতা — অথচ মানুষ প্রায়ই ঝগড়া-বিবাদে লিপ্ত হয়, যা সবার জন্য কেবল দুর্দশা ও ক্ষতিই আনে।",
+ "summaryTip": "**Expository passage:** এখানে ‘কী → কত প্রকার → কেন দরকার → কীভাবে গড়া যায়’ — চারটি ধাপ আছে। Summary-তে এই চারটি ধাপই রাখো, উদাহরণের তালিকা সংক্ষেপে একবারে লেখো।",
+ "mcq": [
+  {
+   "q": "What does a man pursue?",
+   "opts": [
+    "Wealth",
+    "Knowledge",
+    "Health",
+    "Relationship"
+   ],
+   "ans": 3,
+   "why": "প্যাসেজের মূল কথা — মানুষ সহজাতভাবেই অন্যের সঙ্গ খোঁজে ও সম্পর্ক স্থাপন করে। তাই মানুষ যা সবচেয়ে বেশি অনুসরণ করে তা হলো relationship."
+  },
+  {
+   "q": "Intimate bonds are formed through —",
+   "opts": [
+    "nuptial arrangements",
+    "community support",
+    "familial relationships",
+    "professional relationships"
+   ],
+   "ans": 0,
+   "why": "‘…familial and intimate, formed by blood and **by marriage**’ — nuptial মানেই বিবাহ-সংক্রান্ত। (iii) ‘familial relationships’ নিজেই সম্পর্কের নাম, গঠনের **উপায়** নয় — তাই উত্তর নয়।"
+  },
+  {
+   "q": "The word ‘foster’ mentioned in the passage means —",
+   "opts": [
+    "separate",
+    "cheer",
+    "nourish",
+    "imply"
+   ],
+   "ans": 2,
+   "why": "Foster = লালন-পালন করা, বেড়ে উঠতে সাহায্য করা = nourish."
+  },
+  {
+   "q": "We develop ___ relationships in school.",
+   "opts": [
+    "social",
+    "familial",
+    "professional",
+    "educational"
+   ],
+   "ans": 3,
+   "why": "প্যাসেজে ‘social’ বলতে বন্ধুদের সম্পর্ক বোঝানো হয়েছে, আর বিদ্যালয়ের সম্পর্ককে আলাদা করে দেখানো হয়েছে (‘some are made in school…’)। তাই বিদ্যালয়ের বন্ধন = educational. ⚠️ কিছু গাইডে ‘social’ লেখা থাকে — প্যাসেজের বাক্যগঠন অনুসারে ‘educational’ই যুক্তিসংগত।"
+  },
+  {
+   "q": "The best synonym of ‘instinct’ is —",
+   "opts": [
+    "instance",
+    "decent",
+    "impulse",
+    "significance"
+   ],
+   "ans": 2,
+   "why": "Instinct = সহজাত তাড়না = impulse. ‘Instance’ (উদাহরণ) কেবল বানানে কাছাকাছি — ফাঁদ।"
+  },
+  {
+   "q": "What does the word ‘isolation’ in the passage refer to?",
+   "opts": [
+    "Family",
+    "Livelihood",
+    "Separation",
+    "Bond"
+   ],
+   "ans": 2,
+   "why": "‘the pain of loneliness and isolation’ — isolation = বিচ্ছিন্নতা = separation."
+  },
+  {
+   "q": "The wild animals also need —",
+   "opts": [
+    "food",
+    "house",
+    "company",
+    "occupation"
+   ],
+   "ans": 2,
+   "why": "‘…much like most animals of the wild, for companionship’ — বন্য প্রাণীরাও সঙ্গ চায়। এখানে তুলনাটাই প্রশ্নের ভিত্তি।"
+  },
+  {
+   "q": "The word ‘misery’ mentioned in the passage means —",
+   "opts": [
+    "pleasure",
+    "impulse",
+    "suffering",
+    "turbulence"
+   ],
+   "ans": 2,
+   "why": "Misery = দুর্দশা / যন্ত্রণা = suffering. ‘…brings misery and loss to all.’"
+  },
+  {
+   "q": "Which one is an effect of social segregation?",
+   "opts": [
+    "Mental comfort",
+    "Marital gains",
+    "Physical pleasure",
+    "Emotional estrangement"
+   ],
+   "ans": 3,
+   "why": "Segregation (বিচ্ছিন্নকরণ) মানুষকে একা করে দেয়; প্যাসেজ বলে সম্পর্ক ছাড়া মানুষ loneliness ও isolation-এ ভোগে — অর্থাৎ আবেগীয় দূরত্ব বা emotional estrangement."
+  },
+  {
+   "q": "What keeps us close to each other?",
+   "opts": [
+    "Family",
+    "Livelihood",
+    "Relationship",
+    "Society"
+   ],
+   "ans": 2,
+   "why": "‘All these **relationships** keep us close to each other…’ — হুবহু বাক্য।"
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "How do relationships help us with mental health?",
+   "a": "Relationships are the greatest medicine for our mental health. A man who has no family feels the pain of loneliness and isolation, because there is nobody to laugh or cry with him. But when we share our joy with someone it simply redoubles, and when someone shares our sorrow the grief lessens. Relationships also give meaning to our existence and inspire us to do well in study and work. Thus they keep our mind free from despair and make us emotionally healthy.",
+   "bn": "সম্পর্কই আমাদের মানসিক স্বাস্থ্যের সবচেয়ে বড় ওষুধ। পরিবারহীন মানুষ একাকিত্ব ও বিচ্ছিন্নতার যন্ত্রণা ভোগে, কারণ তার সঙ্গে হাসার বা কাঁদার কেউ থাকে না। কিন্তু আনন্দ ভাগ করলে তা দ্বিগুণ হয় আর দুঃখ ভাগ করলে তা কমে যায়। সম্পর্ক আমাদের অস্তিত্বকে অর্থ দেয় ও ভালো করতে অনুপ্রাণিত করে।"
+  },
+  {
+   "q": "How do we increase our joy and decrease our misery?",
+   "a": "We increase our joy and decrease our misery simply by sharing them with others. According to the passage, when we share our joy with someone it redoubles, that is, it becomes twice as great, and when we suffer a loss and someone shares our sorrow, the sorrow lessens. This is possible only through relationships built on trust, respect and love. Therefore, a person who maintains good relationships enjoys more happiness and suffers less pain.",
+   "bn": "অন্যের সঙ্গে ভাগ করে নিলেই আনন্দ বাড়ে এবং দুঃখ কমে। প্যাসেজ অনুযায়ী আনন্দ ভাগ করলে তা দ্বিগুণ হয়, আর দুঃখ কেউ ভাগ করে নিলে তা লাঘব হয়। আর এটি সম্ভব কেবল আস্থা, শ্রদ্ধা ও ভালোবাসার সম্পর্কের মাধ্যমেই।"
+  },
+  {
+   "q": "“A person who has no family feels the pain of loneliness and isolation.” — Explain.",
+   "a": "The line means that the family is the first and strongest shelter of human emotion. A man without a family has nobody with whom he can share his happiness or his grief; there is no one to laugh or cry with him. As a result he feels cut off from society and suffers the pain of loneliness and isolation. Since man is by nature a social animal, such separation is unbearable for him and gradually damages his emotional health.",
+   "bn": "কথাটির অর্থ হলো, পরিবারই মানুষের আবেগের প্রথম ও দৃঢ়তম আশ্রয়। পরিবারহীন মানুষের সুখ-দুঃখ ভাগ করে নেওয়ার কেউ থাকে না; ফলে সে সমাজ থেকে বিচ্ছিন্ন বোধ করে এবং একাকিত্বের যন্ত্রণায় ভোগে। মানুষ যেহেতু স্বভাবতই সামাজিক জীব, এই বিচ্ছিন্নতা তার পক্ষে অসহনীয়।"
+  },
+  {
+   "q": "“Man is by nature a social animal” — Explain.",
+   "a": "This famous saying of the Greek philosopher Aristotle means that sociability is not a habit learnt by man but a part of his very nature. By instinct a human being seeks the company of others and establishes relationships for companionship and for physical and emotional support, much as wild animals live in groups. But unlike animals, man's relationships give meaning to his existence and inspire him to do well in education and in his profession. Hence no man can live a complete life in isolation.",
+   "bn": "গ্রিক দার্শনিক অ্যারিস্টটলের এই বিখ্যাত উক্তির অর্থ, সামাজিকতা মানুষের অর্জিত অভ্যাস নয়, বরং তার স্বভাবেরই অংশ। সহজাত প্রবৃত্তিতেই মানুষ অন্যের সঙ্গ খোঁজে ও সম্পর্ক গড়ে, অনেকটা দলবদ্ধ বন্য প্রাণীর মতো। তবে প্রাণীর থেকে ভিন্নভাবে মানুষের সম্পর্ক তার অস্তিত্বকে অর্থ দেয়।"
+  },
+  {
+   "q": "Why is a relationship so important?",
+   "a": "A relationship is important for many reasons. It satisfies man's natural instinct for company and gives him physical and emotional support. It gives meaning to his existence and inspires him to do well in education, in the workplace and in his profession. It saves him from loneliness and isolation, doubles his joy and lessens his sorrow, and thus keeps him emotionally healthy. To enjoy these benefits, however, we must have trust and respect for one another and must not be selfish or possessive.",
+   "bn": "সম্পর্ক গুরুত্বপূর্ণ নানা কারণে — এটি মানুষের সঙ্গলাভের সহজাত চাহিদা পূরণ করে ও শারীরিক-আবেগীয় সহায়তা দেয়; অস্তিত্বকে অর্থ দেয় ও শিক্ষা-কর্মে ভালো করতে অনুপ্রাণিত করে; একাকিত্ব থেকে রক্ষা করে, আনন্দ দ্বিগুণ ও দুঃখ অর্ধেক করে। তবে এর জন্য চাই আস্থা ও শ্রদ্ধা, আর ত্যাগ করতে হবে স্বার্থপরতা।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "What / Who",
+   "Event / Occurrence",
+   "Why / When",
+   "Where"
+  ],
+  "rows": [
+   [
+    "Man",
+    "seeks company of others",
+    "(i) @for companionship and physical and emotional support",
+    "(ii) @by instinct, much like animals of the wild"
+   ],
+   [
+    "Relationships",
+    "inspire man to do well",
+    "because they give meaning to his existence",
+    "in workplace, in education"
+   ],
+   [
+    "We",
+    "(iii) @form close bonds with classmates and teachers",
+    "to learn and grow together",
+    "in school"
+   ],
+   [
+    "(iv) @Familial and intimate relationship",
+    "is formed",
+    "by blood and marriage",
+    "in the family"
+   ],
+   [
+    "Love and affection",
+    "(v) @are provided to us",
+    "by keeping relationship",
+    "(vi) @in the society"
+   ],
+   [
+    "A person",
+    "feels lonely",
+    "(vii) @when he has no family",
+    "at home"
+   ],
+   [
+    "We",
+    "(viii) @share our joy with someone",
+    "to multiply it",
+    "(ix) @in our everyday life"
+   ],
+   [
+    "Trust and respect",
+    "are needed",
+    "to build relationships",
+    "everywhere"
+   ],
+   [
+    "Effective relationship",
+    "can't be established",
+    "(x) @if we are selfish and possessive",
+    "in any relation"
+   ]
+  ],
+  "note": "‘Why/When’ কলামে সবসময় কারণ বা সময় বসে — সেখানে বিশেষ্য নয়, বরং ‘for…’, ‘when…’, ‘if…’ দিয়ে শুরু হওয়া phrase বসাও।"
+ },
+ "flow": {
+  "title": "Why We Need to Establish Relationships — কেন সম্পর্ক গড়া দরকার",
+  "items": [
+   {
+    "t": "For companionship",
+    "bn": "সাহচর্যের জন্য (দেওয়া আছে)"
+   },
+   {
+    "t": "For physical and emotional support",
+    "bn": "শারীরিক ও আবেগীয় সহায়তার জন্য"
+   },
+   {
+    "t": "To give meaning to our existence",
+    "bn": "অস্তিত্বকে অর্থবহ করার জন্য"
+   },
+   {
+    "t": "To be inspired to do well in education and profession",
+    "bn": "শিক্ষা ও পেশায় ভালো করার অনুপ্রেরণা পেতে"
+   },
+   {
+    "t": "To escape loneliness and isolation",
+    "bn": "একাকিত্ব ও বিচ্ছিন্নতা এড়াতে"
+   },
+   {
+    "t": "To redouble our joy and lessen our sorrow — for emotional health",
+    "bn": "আনন্দ দ্বিগুণ ও দুঃখ লাঘব করে মানসিক স্বাস্থ্য রক্ষায়"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "Kinds of Relationships <span class='sub'>— সম্পর্কের প্রকারভেদ (নিশ্চিত প্রশ্ন)</span>",
+   "key": "Kinds",
+   "table": {
+    "headers": [
+     "Kind",
+     "How it is formed",
+     "Example from the passage"
+    ],
+    "rows": [
+     [
+      "Familial &amp; intimate",
+      "By blood and by marriage",
+      "Parents, children, husband and wife"
+     ],
+     [
+      "Social",
+      "By choice and liking",
+      "The relationship we have with friends"
+     ],
+     [
+      "Educational / school",
+      "By studying together",
+      "Close bonds with classmates and teachers"
+     ],
+     [
+      "Professional → social",
+      "Fostered in workplace",
+      "Colleagues who soon become friends"
+     ],
+     [
+      "Human–animal &amp; child–object",
+      "By affection and attachment",
+      "Pets; toys a child cannot part with"
+     ]
+    ]
+   },
+   "note": "‘Relationships are of different kinds’ — এই এক লাইন থেকেই MCQ, Short Question ও Flow chart তিনটাই আসে। **পাঁচটি প্রকার** মুখস্থ রাখো।"
+  },
+  {
+   "title": "Do's &amp; Don'ts of Relationship <span class='sub'>— সম্পর্ক গড়ার শর্ত</span>",
+   "key": "Do &amp; Don't",
+   "list": [
+    {
+     "em": "✅",
+     "t": "Have trust for each other",
+     "d": "পরস্পরের প্রতি আস্থা রাখা",
+     "type": "ok"
+    },
+    {
+     "em": "✅",
+     "t": "Show respect",
+     "d": "শ্রদ্ধা প্রদর্শন করা",
+     "type": "ok"
+    },
+    {
+     "em": "✅",
+     "t": "Give love where it is needed",
+     "d": "যেখানে দরকার সেখানে ভালোবাসা দেওয়া",
+     "type": "ok"
+    },
+    {
+     "em": "❌",
+     "t": "Do not be selfish",
+     "d": "স্বার্থপর হওয়া চলবে না",
+     "type": "warn"
+    },
+    {
+     "em": "❌",
+     "t": "Do not be possessive",
+     "d": "অধিকারপরায়ণ বা দখলপ্রবণ হওয়া চলবে না",
+     "type": "warn"
+    },
+    {
+     "em": "❌",
+     "t": "Avoid quarrelling and fighting",
+     "d": "ঝগড়া-বিবাদ কেবল দুর্দশা ও ক্ষতি আনে",
+     "type": "warn"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  {
+   "em": "🏛️",
+   "t": "Quotation-opening passages",
+   "d": "যে প্যাসেজ উক্তি দিয়ে শুরু, তার প্রথম দুটি বাক্য থেকেই ২–৩টি MCQ আসে। অ্যারিস্টটলের নাম ও উক্তি মুখস্থ রাখো।"
+  },
+  {
+   "em": "🗂️",
+   "t": "Make a list when the text lists",
+   "d": "‘Relationships are of different kinds’ — এমন তালিকাযুক্ত বাক্য দেখলেই মার্জিনে ১, ২, ৩ লিখে ফেলো; Flow chart-এ কাজে লাগবে।"
+  },
+  {
+   "em": "🔁",
+   "t": "Antonym pairs in this passage",
+   "d": "redouble ↔ lessen, companionship ↔ isolation, selfless ↔ selfish — জোড়ায় জোড়ায় মনে রাখলে Synonym/Antonym প্রশ্ন সহজ।"
+  },
+  {
+   "em": "💡",
+   "t": "‘Explain’ = meaning + reason + result",
+   "d": "‘Man is by nature a social animal — Explain’ প্রশ্নে: উক্তির অর্থ + কেন সত্য + এর ফল — তিনটি অংশ লিখলেই পূর্ণ ৩।"
+  },
+  {
+   "em": "⚠️",
+   "t": "instinct ≠ instance",
+   "type": "warn",
+   "d": "বানানে কাছাকাছি শব্দ MCQ-তে পাশাপাশি বসানো হয়। অর্থ মিলিয়ে তবেই উত্তর দাও।"
+  },
+  {
+   "em": "✍️",
+   "t": "Use the passage's phrases",
+   "type": "ok",
+   "d": "‘gives meaning to his existence’, ‘emotional health’, ‘trust and respect’ — এই phrase গুলো উত্তরে বসালেই পরীক্ষক বোঝেন তুমি প্যাসেজ বুঝেছ।"
+  }
+ ],
+ "recap": [
+  "অ্যারিস্টটল: ‘Man is by nature a social animal’ — সামাজিকতা মানুষের স্বভাবেরই অংশ।",
+  "সম্পর্ক ৫ প্রকার: familial, social, school, workplace, human–animal/child–toy.",
+  "প্রাণীর সঙ্গে পার্থক্য: মানুষের সম্পর্ক অস্তিত্বকে অর্থ দেয় ও অনুপ্রাণিত করে।",
+  "ভাগ করলে আনন্দ দ্বিগুণ (redoubles), দুঃখ কম (lessens) — তাই emotional health.",
+  "সম্পর্কের শর্ত: trust, respect, love; বাধা: selfishness, possessiveness, quarrelling."
+ ],
+ "homework": [
+  "সম্পর্কের ৫টি প্রকার উদাহরণসহ লিখে আনবে।",
+  "‘Why is a relationship so important?’ — উত্তরটি নিজের ভাষায় লিখবে।",
+  "Flow chart-এর ৬টি ঘর পূরণ করবে।",
+  "Summary ১২০ শব্দে লিখে আনবে।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

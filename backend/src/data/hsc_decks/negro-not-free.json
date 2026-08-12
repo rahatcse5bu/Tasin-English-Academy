@@ -1,0 +1,781 @@
+{
+ "id": "negro-not-free",
+ "unit": "Unit 10",
+ "unitName": "Dreams",
+ "title": "I Have a Dream — Part 1 (The Negro is Still Not Free)",
+ "titleBn": "আমার একটি স্বপ্ন আছে (১) — নিগ্রো আজও মুক্ত নয়",
+ "lede": "১৯৬৩ সালের ২৮ আগস্ট, ওয়াশিংটন — মার্টিন লুথার কিং জুনিয়রের অমর ভাষণের প্রথম অংশ: বঞ্চনার চিত্র এবং সমতার স্বপ্ন।",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 50,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Understand the historical background",
+   "d": "বর্ণবৈষম্যের যুগে কৃষ্ণাঙ্গদের অবস্থা"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "১৩টি বাক্যের বাংলা অর্থ"
+  },
+  {
+   "t": "Decode the metaphors",
+   "d": "manacles, chains, lonely island, oasis — রূপকগুলোর ব্যাখ্যা"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "crippled, segregation, languishing, sweltering…"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — A shameful condition",
+   "s": [
+    {
+     "en": "…The Negro is ==still not free==.",
+     "bn": "…নিগ্রো (কৃষ্ণাঙ্গ মানুষ) ==আজও মুক্ত নয়==।"
+    },
+    {
+     "en": "…The life of the Negro is still sadly ==crippled== by the ==manacles of segregation== and the ==chains of discrimination==.",
+     "bn": "…নিগ্রোর জীবন আজও দুঃখজনকভাবে ==পঙ্গু করে রাখা হয়েছে== ==পৃথকীকরণের হাতকড়া== আর ==বৈষম্যের শিকল== দিয়ে।"
+    },
+    {
+     "en": "…The Negro lives on a ==lonely island of poverty== in the midst of a ==vast ocean of material prosperity==.",
+     "bn": "…নিগ্রো বাস করে ==বস্তুগত সমৃদ্ধির বিশাল সমুদ্রের== মাঝখানে ==দারিদ্র্যের এক নিঃসঙ্গ দ্বীপে==।"
+    },
+    {
+     "en": "…The Negro is still ==languishing in the corners== of American society and finds himself an ==exile in his own land==.",
+     "bn": "…নিগ্রো আজও আমেরিকান সমাজের ==কোণে কোণে ধুঁকছে== এবং নিজেকে ==নিজেরই দেশে নির্বাসিত== হিসেবে আবিষ্কার করে।"
+    },
+    {
+     "en": "So we have come here today to ==dramatize a shameful condition==.",
+     "bn": "তাই আমরা আজ এখানে এসেছি ==একটি লজ্জাজনক অবস্থাকে সবার চোখের সামনে তুলে ধরতে==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — The dream begins",
+   "s": [
+    {
+     "en": "I say to you today, my friends, so even though we face the ==difficulties of today and tomorrow==, ==I still have a dream==.",
+     "bn": "বন্ধুরা, আজ আমি তোমাদের বলছি — আজ ও আগামীকালের ==সমস্ত কষ্টের মুখোমুখি হয়েও== ==আমার একটি স্বপ্ন আছে==।"
+    },
+    {
+     "en": "It is a dream ==deeply rooted in the American dream==.",
+     "bn": "এটি এমন এক স্বপ্ন, যা ==আমেরিকান স্বপ্নের গভীরে প্রোথিত==।"
+    },
+    {
+     "en": "I have a dream that one day this nation will rise up and ==live out the true meaning of its creed==: “==We hold these truths to be self-evident; that all men are created equal.==”",
+     "bn": "আমার স্বপ্ন, একদিন এই জাতি জেগে উঠবে এবং ==তার ধর্মবিশ্বাসের প্রকৃত অর্থ জীবনে বাস্তবায়িত করবে==: “==আমরা এই সত্যগুলোকে স্বতঃসিদ্ধ বলে মানি যে, সব মানুষ সমানভাবে সৃষ্ট।==”"
+    },
+    {
+     "en": "I have a dream that one day on the ==red hills of Georgia==, the ==sons of former slaves and the sons of former slave owners== will be able to sit down together at the ==table of brotherhood==.",
+     "bn": "আমার স্বপ্ন, একদিন ==জর্জিয়ার লাল পাহাড়ে== ==সাবেক দাসদের সন্তান আর সাবেক দাস-মালিকদের সন্তানেরা== একসঙ্গে ==ভ্রাতৃত্বের টেবিলে== বসতে পারবে।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — Mississippi and the four children",
+   "s": [
+    {
+     "en": "I have a dream that one day even the state of ==Mississippi==, a state ==sweltering with the heat of injustice==, sweltering with the ==heat of oppression==, will be ==transformed into an oasis of freedom and justice==.",
+     "bn": "আমার স্বপ্ন, একদিন ==মিসিসিপি== রাজ্যও — যে রাজ্য ==অবিচারের উত্তাপে দগ্ধ==, ==নিপীড়নের উত্তাপে== দগ্ধ — ==স্বাধীনতা ও ন্যায়ের এক মরূদ্যানে রূপান্তরিত হবে==।"
+    },
+    {
+     "en": "I have a dream that my ==four little children== will one day live in a nation where they will ==not be judged by the colour of their skin but by the content of their character==.",
+     "bn": "আমার স্বপ্ন, আমার ==চার শিশুসন্তান== একদিন এমন এক জাতির মধ্যে বাস করবে, যেখানে তাদের ==বিচার করা হবে না গায়ের রঙ দিয়ে, বরং তাদের চরিত্রের গুণ দিয়ে==।"
+    },
+    {
+     "en": "==I have a dream today.==",
+     "bn": "==আজ আমার একটি স্বপ্ন আছে।=="
+    },
+    {
+     "en": "I have a dream that one day down in ==Alabama==, with its ==vicious racists==, with its governor having his lips ==dripping with the words of ‘interposition’ and ‘nullification’==, that one day right down in Alabama little black boys and black girls will be able to ==join hands with little white boys and white girls as sisters and brothers==.",
+     "bn": "আমার স্বপ্ন, একদিন ==আলাবামাতেও== — যেখানে আছে ==নিষ্ঠুর বর্ণবাদীরা==, যেখানে গভর্নরের ঠোঁট থেকে ==‘হস্তক্ষেপ’ ও ‘বাতিলকরণ’ শব্দগুলো ঝরে পড়ে== — সেই আলাবামাতেই ছোট্ট কালো ছেলেমেয়েরা ছোট্ট সাদা ছেলেমেয়েদের সঙ্গে ==ভাইবোনের মতো হাতে হাত রাখতে পারবে==।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "Negro",
+   "pos": "noun",
+   "pron": "/ˈniːɡrəʊ/",
+   "bn": "কৃষ্ণাঙ্গ আফ্রিকান-আমেরিকান (তৎকালীন প্রচলিত শব্দ)",
+   "en": "a black person of African descent (a historical term)",
+   "ex": "The Negro is still not free."
+  },
+  {
+   "w": "crippled",
+   "pos": "adj",
+   "pron": "/ˈkrɪpld/",
+   "bn": "পঙ্গু, অক্ষম করে দেওয়া",
+   "en": "seriously damaged or weakened",
+   "ex": "His life is sadly crippled by segregation."
+  },
+  {
+   "w": "manacles",
+   "pos": "noun",
+   "pron": "/ˈmænəklz/",
+   "bn": "হাতকড়া, শৃঙ্খল",
+   "en": "metal rings for fastening the hands of a prisoner",
+   "ex": "the manacles of segregation"
+  },
+  {
+   "w": "segregation",
+   "pos": "noun",
+   "pron": "/ˌseɡrɪˈɡeɪʃn/",
+   "bn": "পৃথকীকরণ (বর্ণভিত্তিক বিচ্ছিন্নকরণ)",
+   "en": "the act of keeping races or groups apart",
+   "ex": "the manacles of segregation"
+  },
+  {
+   "w": "discrimination",
+   "pos": "noun",
+   "pron": "/dɪˌskrɪmɪˈneɪʃn/",
+   "bn": "বৈষম্য",
+   "en": "unfair treatment of a group of people",
+   "ex": "the chains of discrimination"
+  },
+  {
+   "w": "prosperity",
+   "pos": "noun",
+   "pron": "/prɒˈsperəti/",
+   "bn": "সমৃদ্ধি",
+   "en": "the state of being successful and rich",
+   "ex": "a vast ocean of material prosperity"
+  },
+  {
+   "w": "languish",
+   "pos": "verb",
+   "pron": "/ˈlæŋɡwɪʃ/",
+   "bn": "ধুঁকতে থাকা, ক্লিষ্ট হওয়া",
+   "en": "to remain in an unpleasant place and become weak",
+   "ex": "languishing in the corners of society"
+  },
+  {
+   "w": "exile",
+   "pos": "noun",
+   "pron": "/ˈeksaɪl/",
+   "bn": "নির্বাসিত ব্যক্তি; নির্বাসন",
+   "en": "a person forced to live away from his own country",
+   "ex": "an exile in his own land"
+  },
+  {
+   "w": "dramatize",
+   "pos": "verb",
+   "pron": "/ˈdræmətaɪz/",
+   "bn": "নাটকীয়ভাবে তুলে ধরা",
+   "en": "to present something so that people notice it",
+   "ex": "to dramatize a shameful condition"
+  },
+  {
+   "w": "creed",
+   "pos": "noun",
+   "pron": "/kriːd/",
+   "bn": "ধর্মবিশ্বাস, মূলনীতি",
+   "en": "a set of beliefs or principles",
+   "ex": "the true meaning of its creed"
+  },
+  {
+   "w": "self-evident",
+   "pos": "adj",
+   "pron": "/ˌself ˈevɪdənt/",
+   "bn": "স্বতঃসিদ্ধ, প্রমাণ নিষ্প্রয়োজন",
+   "en": "clear without any proof",
+   "ex": "We hold these truths to be self-evident."
+  },
+  {
+   "w": "brotherhood",
+   "pos": "noun",
+   "pron": "/ˈbrʌðəhʊd/",
+   "bn": "ভ্রাতৃত্ব",
+   "en": "the feeling of friendship among people",
+   "ex": "the table of brotherhood"
+  },
+  {
+   "w": "sweltering",
+   "pos": "adj",
+   "pron": "/ˈsweltərɪŋ/",
+   "bn": "প্রচণ্ড উত্তপ্ত, দগ্ধ",
+   "en": "uncomfortably hot",
+   "ex": "sweltering with the heat of injustice"
+  },
+  {
+   "w": "oppression",
+   "pos": "noun",
+   "pron": "/əˈpreʃn/",
+   "bn": "নিপীড়ন, অত্যাচার",
+   "en": "cruel and unfair treatment by those in power",
+   "ex": "the heat of oppression"
+  },
+  {
+   "w": "oasis",
+   "pos": "noun",
+   "pron": "/əʊˈeɪsɪs/",
+   "bn": "মরূদ্যান; শান্তির আশ্রয়",
+   "en": "a green place in a desert; a place of relief",
+   "ex": "an oasis of freedom and justice"
+  },
+  {
+   "w": "vicious",
+   "pos": "adj",
+   "pron": "/ˈvɪʃəs/",
+   "bn": "নিষ্ঠুর, হিংস্র",
+   "en": "cruel and violent",
+   "ex": "Alabama with its vicious racists"
+  },
+  {
+   "w": "interposition",
+   "pos": "noun",
+   "pron": "/ˌɪntəpəˈzɪʃn/",
+   "bn": "হস্তক্ষেপ (রাজ্যের কেন্দ্রীয় আইন ঠেকানোর দাবি)",
+   "en": "a state's claim to block a federal law",
+   "ex": "the words of ‘interposition’"
+  },
+  {
+   "w": "nullification",
+   "pos": "noun",
+   "pron": "/ˌnʌlɪfɪˈkeɪʃn/",
+   "bn": "বাতিলকরণ, রদ করা",
+   "en": "the act of making a law invalid",
+   "ex": "the words of ‘nullification’"
+  }
+ ],
+ "synant": [
+  {
+   "w": "transform",
+   "bn": "রূপান্তরিত করা",
+   "syn": [
+    "convert",
+    "change",
+    "alter"
+   ],
+   "ant": [
+    "persist",
+    "hold",
+    "remain"
+   ]
+  },
+  {
+   "w": "vicious",
+   "bn": "নিষ্ঠুর",
+   "syn": [
+    "cruel",
+    "brutal",
+    "savage"
+   ],
+   "ant": [
+    "friendly",
+    "kind",
+    "gentle"
+   ]
+  },
+  {
+   "w": "brotherhood",
+   "bn": "ভ্রাতৃত্ব",
+   "syn": [
+    "fellowship",
+    "fraternity",
+    "comradeship"
+   ],
+   "ant": [
+    "enmity",
+    "malevolence",
+    "hostility"
+   ]
+  },
+  {
+   "w": "segregation",
+   "bn": "পৃথকীকরণ",
+   "syn": [
+    "separation",
+    "isolation",
+    "apartheid"
+   ],
+   "ant": [
+    "integration",
+    "unity",
+    "inclusion"
+   ]
+  },
+  {
+   "w": "prosperity",
+   "bn": "সমৃদ্ধি",
+   "syn": [
+    "wealth",
+    "affluence",
+    "success"
+   ],
+   "ant": [
+    "poverty",
+    "adversity",
+    "destitution"
+   ]
+  },
+  {
+   "w": "languish",
+   "bn": "ধুঁকতে থাকা",
+   "syn": [
+    "suffer",
+    "weaken",
+    "decline"
+   ],
+   "ant": [
+    "flourish",
+    "thrive",
+    "prosper"
+   ]
+  },
+  {
+   "w": "exile",
+   "bn": "নির্বাসিত",
+   "syn": [
+    "outcast",
+    "refugee",
+    "banished person"
+   ],
+   "ant": [
+    "citizen",
+    "native",
+    "resident"
+   ]
+  },
+  {
+   "w": "oppression",
+   "bn": "নিপীড়ন",
+   "syn": [
+    "tyranny",
+    "persecution",
+    "repression"
+   ],
+   "ant": [
+    "freedom",
+    "justice",
+    "liberty"
+   ]
+  },
+  {
+   "w": "sweltering",
+   "bn": "দগ্ধ",
+   "syn": [
+    "scorching",
+    "burning",
+    "stifling"
+   ],
+   "ant": [
+    "soothing",
+    "cool",
+    "tranquil"
+   ]
+  },
+  {
+   "w": "crippled",
+   "bn": "পঙ্গু",
+   "syn": [
+    "disabled",
+    "paralysed",
+    "weakened"
+   ],
+   "ant": [
+    "strengthened",
+    "empowered",
+    "healthy"
+   ]
+  },
+  {
+   "w": "deprived",
+   "bn": "বঞ্চিত",
+   "syn": [
+    "disadvantaged",
+    "destitute",
+    "denied"
+   ],
+   "ant": [
+    "privileged",
+    "favoured",
+    "endowed"
+   ]
+  },
+  {
+   "w": "self-evident",
+   "bn": "স্বতঃসিদ্ধ",
+   "syn": [
+    "obvious",
+    "manifest",
+    "clear"
+   ],
+   "ant": [
+    "doubtful",
+    "obscure",
+    "questionable"
+   ]
+  }
+ ],
+ "summaryEn": "Speaking on behalf of his people, Martin Luther King Jr. declares that a hundred years after emancipation the Negro is still not free, since his life continues to be crippled by the manacles of segregation and the chains of discrimination. He lives on a lonely island of poverty surrounded by a vast ocean of material prosperity, languishes in the corners of American society and feels himself an exile in his own land; therefore the marchers have gathered to dramatize this shameful condition. Yet in spite of the difficulties of today and tomorrow, the speaker still holds a dream deeply rooted in the American dream itself. He dreams that one day the nation will truly live out its creed that all men are created equal; that on the red hills of Georgia the sons of former slaves and the sons of former slave owners will sit together at the table of brotherhood; that even Mississippi, sweltering with the heat of injustice and oppression, will become an oasis of freedom and justice; that his four little children will be judged not by the colour of their skin but by the content of their character; and that in Alabama, in spite of its vicious racists and its governor's words of interposition and nullification, little black boys and girls will join hands with little white boys and girls as sisters and brothers.",
+ "summaryBn": "নিজের জাতির পক্ষে দাঁড়িয়ে মার্টিন লুথার কিং জুনিয়র ঘোষণা করেন যে মুক্তির শত বছর পরেও নিগ্রো আজও স্বাধীন নয়, কারণ তার জীবন এখনো পৃথকীকরণের হাতকড়া ও বৈষম্যের শিকলে পঙ্গু হয়ে আছে। বস্তুগত সমৃদ্ধির বিশাল সমুদ্রের মাঝখানে সে বাস করে দারিদ্র্যের নিঃসঙ্গ দ্বীপে, আমেরিকান সমাজের কোণে ধুঁকে মরে এবং নিজের দেশেই নিজেকে নির্বাসিত মনে করে; তাই এই লজ্জাজনক অবস্থাকে সবার চোখের সামনে তুলে ধরতেই তাঁরা সমবেত হয়েছেন। তবু আজ ও আগামীকালের সব কষ্টের মুখেও বক্তার একটি স্বপ্ন আছে, যা আমেরিকান স্বপ্নেরই গভীরে প্রোথিত। তিনি স্বপ্ন দেখেন — একদিন এই জাতি সত্যিই তার ধর্মবিশ্বাস বাস্তবায়িত করবে যে সব মানুষ সমানভাবে সৃষ্ট; জর্জিয়ার লাল পাহাড়ে সাবেক দাস ও দাস-মালিকের সন্তানেরা একসঙ্গে ভ্রাতৃত্বের টেবিলে বসবে; অবিচার ও নিপীড়নের উত্তাপে দগ্ধ মিসিসিপিও স্বাধীনতা ও ন্যায়ের মরূদ্যান হয়ে উঠবে; তাঁর চার সন্তানের বিচার হবে গায়ের রঙ নয়, চরিত্রের গুণ দিয়ে; এবং নিষ্ঠুর বর্ণবাদী ও গভর্নরের ‘হস্তক্ষেপ-বাতিলকরণ’ শব্দসত্ত্বেও আলাবামায় কালো ও সাদা শিশুরা ভাইবোনের মতো হাতে হাত রাখবে।",
+ "summaryTip": "**Speech passage:** ‘I have a dream that…’ পাঁচবার এসেছে — Summary-তে পাঁচটি স্বপ্নকে একটি বাক্যে সেমিকোলন দিয়ে সাজাও (‘He dreams that…; that…; that…’)। এতে সংক্ষিপ্ত অথচ সম্পূর্ণ হয়।",
+ "mcq": [
+  {
+   "q": "The word ‘transform’ mentioned in the passage means —",
+   "opts": [
+    "persist",
+    "hold",
+    "convert",
+    "remain"
+   ],
+   "ans": 2,
+   "why": "Transform = রূপান্তরিত করা = convert. ‘Mississippi will be transformed into an oasis’ — এক অবস্থা থেকে আরেক অবস্থায় বদলে যাওয়া।"
+  },
+  {
+   "q": "The word ‘vicious’ is opposite in meaning to —",
+   "opts": [
+    "friendly",
+    "lovely",
+    "cruel",
+    "damaging"
+   ],
+   "ans": 0,
+   "why": "সাবধান — এখানে **বিপরীত** শব্দ চাওয়া হয়েছে। Vicious মানে নিষ্ঠুর, তাই বিপরীত friendly. ‘Cruel’ ও ‘damaging’ তো সমার্থক — এটাই ফাঁদ।"
+  },
+  {
+   "q": "The speaker is hopeful of a ___ free America.",
+   "opts": [
+    "justice",
+    "discrimination",
+    "poverty",
+    "Negro"
+   ],
+   "ans": 1,
+   "why": "তাঁর স্বপ্ন বৈষম্যমুক্ত আমেরিকা — ‘discrimination free America’. ‘Justice free’ বললে অর্থ উল্টে যাবে (ন্যায়হীন)।"
+  },
+  {
+   "q": "The Negroes were —",
+   "opts": [
+    "marooned",
+    "alone",
+    "guest",
+    "deprived"
+   ],
+   "ans": 3,
+   "why": "তারা দারিদ্র্যের দ্বীপে বাস করত, সমাজের কোণে ধুঁকত, নিজ দেশে নির্বাসিত ছিল — অর্থাৎ সব অধিকার থেকে **বঞ্চিত** = deprived."
+  },
+  {
+   "q": "The meaning of ‘brotherhood’ is —",
+   "opts": [
+    "fellowship",
+    "malevolence",
+    "friendly",
+    "enmity"
+   ],
+   "ans": 0,
+   "why": "Brotherhood = ভ্রাতৃত্ব/সৌহার্দ্য = fellowship. ‘Friendly’ adjective, তাই noun-এর জায়গায় বসবে না।"
+  },
+  {
+   "q": "When people are judged by the colour of their skin it signifies —",
+   "opts": [
+    "blue blood",
+    "anarchy",
+    "racism",
+    "gentleness"
+   ],
+   "ans": 2,
+   "why": "গায়ের রঙ দিয়ে বিচার করাই বর্ণবাদ = racism. কিং চেয়েছিলেন বিচার হোক ‘the content of their character’ দিয়ে।"
+  },
+  {
+   "q": "The Negro lives —",
+   "opts": [
+    "in the midst of luxury and peaceful environment",
+    "in the ocean of prosperity and in the life of dignity",
+    "in the midst of a vast ocean of material prosperity",
+    "in the life of honour and development"
+   ],
+   "ans": 2,
+   "why": "‘…lives on a lonely island of poverty **in the midst of a vast ocean of material prosperity**’ — চারদিকে সমৃদ্ধি, অথচ সে দরিদ্র; এই বৈপরীত্যই মূল কথা।"
+  },
+  {
+   "q": "The Negro finds himself an exile —",
+   "opts": [
+    "in foreign countries",
+    "in American society",
+    "throughout the world",
+    "in his own land"
+   ],
+   "ans": 3,
+   "why": "‘…finds himself an exile **in his own land**’ — নিজের দেশেই পরবাসী; এটিই বাক্যটির মর্মন্তুদ ব্যঙ্গ।"
+  },
+  {
+   "q": "The purpose of the author of this passage is —",
+   "opts": [
+    "to show the picture of the world",
+    "to highlight that all men are created equal",
+    "to show the picture of the Negro",
+    "to highlight our right"
+   ],
+   "ans": 1,
+   "why": "পুরো ভাষণের কেন্দ্রীয় বাণী — ‘We hold these truths to be self-evident; that all men are created equal.’ কৃষ্ণাঙ্গদের দুর্দশার চিত্র কেবল সেই বাণীরই ভিত্তি।"
+  },
+  {
+   "q": "“I have a dream” is a famous speech made by —",
+   "opts": [
+    "Nelson Mandela",
+    "Richard the Lion Heart",
+    "Robert Bruce",
+    "Martin Luther King Jr."
+   ],
+   "ans": 3,
+   "why": "১৯৬৩ সালের ২৮ আগস্ট ওয়াশিংটন ডি.সি.-তে মার্টিন লুথার কিং জুনিয়র এই ভাষণ দেন। ম্যান্ডেলার সঙ্গে গুলিয়ে ফেলা সবচেয়ে সাধারণ ভুল।"
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "Why does the Negro find himself an exile in his own land? Can you explain the reason for this condition?",
+   "a": "An exile is a person who is forced to live away from his own country. The Negro is called an exile in his own land because, though America is his birthplace, he is denied the rights of a citizen there. He is crippled by the manacles of segregation and the chains of discrimination, he lives on a lonely island of poverty in the midst of a vast ocean of material prosperity, and he languishes in the corners of American society. The reason for this condition is racism — people are judged by the colour of their skin instead of the content of their character.",
+   "bn": "নির্বাসিত সে-ই, যাকে নিজের দেশ ছেড়ে থাকতে বাধ্য করা হয়। নিগ্রোকে নিজের দেশেই নির্বাসিত বলা হয়, কারণ আমেরিকা তার জন্মভূমি হলেও সেখানে সে নাগরিক অধিকার পায় না। পৃথকীকরণ ও বৈষম্যের শৃঙ্খলে সে পঙ্গু, সমৃদ্ধির সমুদ্রের মাঝে দারিদ্র্যের দ্বীপে বন্দি। এর কারণ বর্ণবাদ — মানুষকে বিচার করা হয় চরিত্র দিয়ে নয়, গায়ের রঙ দিয়ে।"
+  },
+  {
+   "q": "How can the state of Mississippi be an oasis of freedom and justice?",
+   "a": "Mississippi is described as a state sweltering with the heat of injustice and the heat of oppression, that is, a burning desert for the black people. An oasis is a green, restful place in the middle of a desert. So Mississippi can become an oasis of freedom and justice only when injustice and oppression are removed — when black and white citizens enjoy equal rights, when nobody is judged by the colour of his skin, and when the state truly lives out the creed that all men are created equal.",
+   "bn": "মিসিসিপিকে বলা হয়েছে অবিচার ও নিপীড়নের উত্তাপে দগ্ধ রাজ্য, অর্থাৎ কৃষ্ণাঙ্গদের জন্য এক জ্বলন্ত মরুভূমি। মরূদ্যান হলো মরুভূমির মাঝে সবুজ আশ্রয়। তাই অবিচার ও নিপীড়ন দূর হলে, সাদা-কালো সবাই সমান অধিকার পেলে এবং ‘সব মানুষ সমান’ — এই বিশ্বাস বাস্তবায়িত হলেই মিসিসিপি স্বাধীনতা ও ন্যায়ের মরূদ্যান হতে পারে।"
+  },
+  {
+   "q": "Do you think that Martin Luther King's dreams have been fulfilled?",
+   "a": "His dreams have been partly fulfilled but not completely. Legally, segregation has ended, black and white children now study together, and a black man has even become the President of the United States — achievements that show the creed of equality is being lived out. Yet racial prejudice, police violence against black people and economic inequality still exist in many places, and people are still judged by the colour of their skin. So I think his dream has moved a long way towards fulfilment, but the journey is not over.",
+   "bn": "তাঁর স্বপ্ন আংশিকভাবে পূরণ হয়েছে, পুরোপুরি নয়। আইনত পৃথকীকরণ শেষ হয়েছে, সাদা-কালো শিশুরা একসঙ্গে পড়ে, এমনকি একজন কৃষ্ণাঙ্গ যুক্তরাষ্ট্রের প্রেসিডেন্টও হয়েছেন। তবু বর্ণবিদ্বেষ, কৃষ্ণাঙ্গদের ওপর সহিংসতা ও অর্থনৈতিক বৈষম্য আজও রয়ে গেছে। তাই স্বপ্নপূরণের পথে অনেকটা এগোলেও যাত্রা শেষ হয়নি।"
+  },
+  {
+   "q": "What does the expression ‘All men are created equal’ signify?",
+   "a": "The expression comes from the American Declaration of Independence and forms the creed of the American nation. It signifies that every human being, whatever his colour, race or religion may be, is born with the same dignity and the same rights, because equality is a gift of the Creator, not of the state. Martin Luther King quoted it to remind Americans that by keeping the Negro in segregation and poverty they were betraying their own sacred principle.",
+   "bn": "উক্তিটি আমেরিকার স্বাধীনতার ঘোষণাপত্র থেকে নেওয়া এবং এটিই আমেরিকান জাতির মূলমন্ত্র। এর অর্থ, গায়ের রঙ, বর্ণ বা ধর্ম যাই হোক, প্রতিটি মানুষ সমান মর্যাদা ও সমান অধিকার নিয়ে জন্মায়; কারণ সমতা রাষ্ট্রের দান নয়, স্রষ্টার দান। কিং এই উক্তি স্মরণ করিয়ে দেন যে নিগ্রোদের বৈষম্যে রেখে আমেরিকা নিজের পবিত্র নীতিকেই অস্বীকার করছে।"
+  },
+  {
+   "q": "What ideas of the governor of Alabama do you get from the passage?",
+   "a": "From the passage we learn that the governor of Alabama was a supporter of racial segregation. His lips are said to be dripping with the words ‘interposition’ and ‘nullification’, that is, he constantly claimed that his state could block or cancel the federal laws that gave equal rights to black people. He thus represented the vicious racism of the state and stood as the chief obstacle to the equality that Martin Luther King dreamt of.",
+   "bn": "প্যাসেজ থেকে জানা যায়, আলাবামার গভর্নর ছিলেন বর্ণবৈষম্যের সমর্থক। তাঁর ঠোঁট থেকে ঝরে পড়ত ‘interposition’ ও ‘nullification’ শব্দ দুটি — অর্থাৎ তিনি বারবার দাবি করতেন যে তাঁর রাজ্য কৃষ্ণাঙ্গদের সমান অধিকার দেওয়া কেন্দ্রীয় আইন ঠেকিয়ে বা বাতিল করে দিতে পারে। তিনিই ছিলেন সমতার পথে প্রধান বাধা।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "What / Who",
+   "Event / Occurrence",
+   "Why / When",
+   "Where"
+  ],
+  "rows": [
+   [
+    "Martin Luther King Jr.",
+    "(i) @dreams / has a dream",
+    "that the sons of former slaves and slave owners will sit together at the table of brotherhood, one day",
+    "(ii) @on the red hills of Georgia"
+   ],
+   [
+    "The state of Mississippi, sweltering with the heat of injustice and oppression",
+    "(iii) @will be transformed into an oasis of freedom and justice",
+    "(iv) @one day",
+    "in America"
+   ],
+   [
+    "(v) @Martin Luther King Jr.",
+    "dreams that his four children will live",
+    "one day",
+    "(vi) @in a nation where they will not be judged by the colour of their skin"
+   ],
+   [
+    "The four children of Martin Luther King Jr.",
+    "(vii) @will be judged by the content of their character",
+    "in the course of time",
+    "(viii) @in the United States of America"
+   ],
+   [
+    "Martin Luther King Jr.",
+    "dreams",
+    "(ix) @that little black boys and girls will join hands with little white boys and girls as sisters and brothers",
+    "(x) @down in Alabama"
+   ]
+  ],
+  "note": "জায়গার নাম তিনটি অবশ্যই মনে রাখো — **Georgia** (red hills), **Mississippi** (oasis), **Alabama** (children joining hands)।"
+ },
+ "flow": {
+  "title": "The Dreams of Martin Luther King Jr. — তাঁর স্বপ্নসমূহ",
+  "items": [
+   {
+    "t": "The sons of former slaves and slave owners advancing towards brotherhood",
+    "bn": "দাস ও দাস-মালিকের সন্তানদের ভ্রাতৃত্ব (দেওয়া আছে)"
+   },
+   {
+    "t": "The nation living out the true meaning of its creed — all men are created equal",
+    "bn": "জাতি তার মূলমন্ত্র বাস্তবায়িত করবে"
+   },
+   {
+    "t": "Mississippi transformed into an oasis of freedom and justice",
+    "bn": "মিসিসিপি হবে স্বাধীনতা ও ন্যায়ের মরূদ্যান"
+   },
+   {
+    "t": "His four children judged by character, not by skin colour",
+    "bn": "সন্তানদের বিচার হবে চরিত্র দিয়ে, রঙ দিয়ে নয়"
+   },
+   {
+    "t": "Black and white children joining hands in Alabama as sisters and brothers",
+    "bn": "আলাবামায় সাদা-কালো শিশুরা হাতে হাত রাখবে"
+   },
+   {
+    "t": "An America free from segregation and discrimination",
+    "bn": "পৃথকীকরণ ও বৈষম্যমুক্ত আমেরিকা"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "Metaphors Decoded <span class='sub'>— রূপকের অর্থ (৩ নম্বরের প্রশ্নের চাবি)</span>",
+   "key": "Metaphors",
+   "table": {
+    "headers": [
+     "Metaphor",
+     "Literal picture",
+     "What it really means"
+    ],
+    "rows": [
+     [
+      "manacles of segregation",
+      "Handcuffs",
+      "@পৃথকীকরণ কৃষ্ণাঙ্গদের হাত বেঁধে রেখেছে"
+     ],
+     [
+      "chains of discrimination",
+      "Iron chains",
+      "@বৈষম্য তাদের শৃঙ্খলিত করে রেখেছে"
+     ],
+     [
+      "lonely island of poverty",
+      "A small island",
+      "@চারদিকে সম্পদ, তবু তারা দরিদ্র ও বিচ্ছিন্ন"
+     ],
+     [
+      "vast ocean of material prosperity",
+      "A huge ocean",
+      "@আমেরিকার বিপুল ধনসম্পদ"
+     ],
+     [
+      "an exile in his own land",
+      "A banished man",
+      "@নিজের দেশেই পরবাসী"
+     ],
+     [
+      "sweltering with the heat of injustice",
+      "Burning desert heat",
+      "@অবিচার ও নিপীড়নের অসহনীয় যন্ত্রণা"
+     ],
+     [
+      "an oasis of freedom and justice",
+      "A green spot in a desert",
+      "@স্বাধীনতা ও ন্যায়ের শান্তিময় আশ্রয়"
+     ],
+     [
+      "the table of brotherhood",
+      "A dining table",
+      "@সাদা-কালোর সমান মর্যাদায় একসঙ্গে বসা"
+     ]
+    ]
+   },
+   "note": "‘What does the expression … mean?’ প্রশ্নে **আক্ষরিক ছবি + প্রকৃত অর্থ** দুটোই লিখলে পূর্ণ ৩ নম্বর।"
+  },
+  {
+   "title": "Background of the Speech <span class='sub'>— ভাষণের প্রেক্ষাপট</span>",
+   "key": "Background",
+   "table": {
+    "headers": [
+     "Item",
+     "Information"
+    ],
+    "rows": [
+     [
+      "Speaker",
+      "Dr Martin Luther King Jr., leader of the American Civil Rights Movement"
+     ],
+     [
+      "Occasion",
+      "The March on Washington for Jobs and Freedom"
+     ],
+     [
+      "Date &amp; place",
+      "28 August 1963, Lincoln Memorial, Washington D.C."
+     ],
+     [
+      "Audience",
+      "About 250,000 people, black and white together"
+     ],
+     [
+      "Central creed quoted",
+      "‘We hold these truths to be self-evident; that all men are created equal’ (Declaration of Independence)"
+     ],
+     [
+      "States named",
+      "Georgia, Mississippi, Alabama"
+     ],
+     [
+      "Method of protest",
+      "Non-violent resistance"
+     ]
+    ]
+   },
+   "note": "প্রেক্ষাপট জানা থাকলে ‘Why did the speaker have these dreams?’ ধরনের প্রশ্নের উত্তর অনেক সমৃদ্ধ হয়।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🎤",
+   "t": "Repetition = the main clue",
+   "d": "‘I have a dream that…’ পাঁচবার এসেছে। এই পুনরাবৃত্তির নাম **anaphora**; প্রতিটি পুনরাবৃত্তিই একেকটি স্বপ্ন — Flow chart-এর ঘর।"
+  },
+  {
+   "em": "🔄",
+   "t": "‘Opposite in meaning’ questions",
+   "type": "warn",
+   "d": "প্রশ্নে ‘opposite’ শব্দটি থাকলে সমার্থক option-এ চোখ আটকে যায়। ‘vicious → cruel’ নয়, উত্তর ‘friendly’।"
+  },
+  {
+   "em": "🖼️",
+   "t": "Every image has two layers",
+   "d": "island/ocean, desert/oasis, chains/hands — প্রথমে ছবি বোঝো, তারপর সামাজিক অর্থ লেখো।"
+  },
+  {
+   "em": "📍",
+   "t": "Three states, three dreams",
+   "d": "Georgia = brotherhood, Mississippi = oasis, Alabama = joining hands. এই ম্যাপিংটাই টেবিলের অর্ধেক নম্বর।"
+  },
+  {
+   "em": "🕊️",
+   "t": "Non-violence is the method",
+   "type": "ok",
+   "d": "কিং কোথাও প্রতিশোধের কথা বলেননি — ‘join hands’, ‘sit down together’। এই সুরটি উত্তরে ধরিয়ে দিলে নম্বর বাড়ে।"
+  },
+  {
+   "em": "⚠️",
+   "t": "King ≠ Mandela",
+   "type": "warn",
+   "d": "‘I have a dream’ — Martin Luther King Jr. (আমেরিকা); ‘apartheid’ — Nelson Mandela (দক্ষিণ আফ্রিকা)। দুটি প্যাসেজ একই ইউনিটে থাকলে গুলিয়ে যাওয়ার ঝুঁকি থাকে।"
+  }
+ ],
+ "recap": [
+  "নিগ্রোর অবস্থা: segregation-এর হাতকড়া, discrimination-এর শিকল, দারিদ্র্যের দ্বীপ, নিজ দেশে নির্বাসন।",
+  "উদ্দেশ্য: ‘to dramatize a shameful condition’ — লজ্জাজনক অবস্থাকে বিশ্বের সামনে আনা।",
+  "মূল বিশ্বাস: ‘all men are created equal’ — আমেরিকান স্বাধীনতার ঘোষণাপত্র থেকে।",
+  "পাঁচটি স্বপ্ন: creed বাস্তবায়ন, Georgia-র ভ্রাতৃত্ব, Mississippi-র মরূদ্যান, সন্তানদের চরিত্র-বিচার, Alabama-র মিলন।",
+  "বিচারের মানদণ্ড: ‘not by the colour of their skin but by the content of their character’."
+ ],
+ "homework": [
+  "৮টি রূপকের অর্থ (Metaphors Decoded) খাতায় লিখে আনবে।",
+  "পাঁচটি স্বপ্ন ক্রম অনুসারে লিখবে।",
+  "‘What does “All men are created equal” signify?’ — উত্তরটি লিখবে।",
+  "Summary ১৪০ শব্দে লিখে আনবে।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

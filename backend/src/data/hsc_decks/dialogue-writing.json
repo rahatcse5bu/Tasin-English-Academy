@@ -1,0 +1,383 @@
+{
+ "id": "dialogue-writing",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part B",
+ "unitName": "Composition — Writing",
+ "title": "Dialogue Writing",
+ "titleBn": "সংলাপ লেখা",
+ "lede": "দুজনের কথোপকথন — নাম, কোলন, তারপর কথা। স্বাভাবিক ভাষা, পালাক্রমে কথা আর একটি স্পষ্ট বিষয়: এই তিনটিই যথেষ্ট।",
+ "qType": "Composition — Dialogue Writing",
+ "minutes": 45,
+ "marks": "10",
+ "rulesTitle": "সংলাপ লেখার নিয়ম",
+ "rulesPerSlide": 3,
+ "objectives": [
+  {
+   "t": "The fixed format",
+   "d": "নাম : কথা — প্রতিটি লাইনে"
+  },
+  {
+   "t": "Greeting → topic → closing",
+   "d": "শুরু, মূল আলোচনা ও বিদায়"
+  },
+  {
+   "t": "Natural spoken English",
+   "d": "কথ্য ভাষা ও সংক্ষিপ্ত রূপ এখানে চলে"
+  },
+  {
+   "t": "Balance the turns",
+   "d": "দুজনেরই সমান সুযোগ"
+  },
+  {
+   "t": "A full model dialogue",
+   "d": "অংশে অংশে বিশ্লেষণসহ"
+  },
+  {
+   "t": "Common dialogue topics",
+   "d": "পড়াশোনা, স্বাস্থ্য, পরিবেশ, ক্যারিয়ার"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Format",
+   "name": "নাম + কোলন + কথা",
+   "bn": "প্রতিটি লাইনে বক্তার **নাম, তারপর কোলন (:)**, তারপর তার কথা। প্রতিটি নতুন বক্তার জন্য নতুন লাইন।",
+   "formula": "Name : speech",
+   "ex": "==Rahim:== Hello, Karim. How are you?"
+  },
+  {
+   "no": "02",
+   "tag": "Format",
+   "name": "শুরুতে সম্ভাষণ",
+   "bn": "সংলাপ শুরু হবে **অভিবাদন** দিয়ে — Hello, Hi, Good morning, How are you?",
+   "formula": "Greeting first",
+   "ex": "==Hello, Rahim! How are you?== — I am fine, thank you."
+  },
+  {
+   "no": "03",
+   "tag": "Format",
+   "name": "শেষে বিদায়",
+   "bn": "সংলাপ শেষ হবে **ধন্যবাদ ও বিদায়** দিয়ে — Thank you, Goodbye, See you again।",
+   "formula": "Thanks + goodbye",
+   "ex": "==Thank you for your advice.== — ==You are welcome. Goodbye.=="
+  },
+  {
+   "no": "04",
+   "tag": "Content",
+   "name": "একটি স্পষ্ট বিষয়",
+   "bn": "পুরো সংলাপ **একটি বিষয়ের** ওপর থাকবে। এদিক-ওদিক ঘুরলে বিষয়বস্তুর নম্বর কাটা যায়।",
+   "formula": "one clear topic throughout",
+   "ex": "বিষয়: পরীক্ষার প্রস্তুতি → শুরু থেকে শেষ পর্যন্ত সেটিই।"
+  },
+  {
+   "no": "05",
+   "tag": "Balance",
+   "name": "পালাক্রমে ও সমান কথা",
+   "bn": "দুজনের কথা **পালাক্রমে** আসবে এবং প্রায় **সমান দৈর্ঘ্যের** হবে। একজন লম্বা বক্তৃতা দিলে সেটি আর সংলাপ থাকে না।",
+   "formula": "alternate turns · equal length",
+   "ex": "প্রতিজনে ৫–৬টি করে turn, মোট ১০–১২টি।"
+  },
+  {
+   "no": "06",
+   "tag": "Language",
+   "name": "স্বাভাবিক কথ্য ভাষা",
+   "bn": "সংলাপে **সংক্ষিপ্ত রূপ চলে** — I’m, don’t, can’t, it’s। এখানে আনুষ্ঠানিক ভাষা বরং অস্বাভাবিক শোনায়।",
+   "formula": "contractions are natural here",
+   "ex": "✓ I’m fine, thanks. ✓ Don’t worry about it."
+  },
+  {
+   "no": "07",
+   "tag": "Language",
+   "name": "প্রশ্ন ও উত্তর মিশিয়ে দাও",
+   "bn": "সংলাপ প্রাণবন্ত হয় প্রশ্নে। একজন প্রশ্ন করবে, অন্যজন উত্তর দেবে ও পাল্টা প্রশ্ন করবে।",
+   "formula": "question → answer → counter-question",
+   "ex": "==What do you suggest?== — I suggest that you … ==What about you?=="
+  },
+  {
+   "no": "08",
+   "tag": "Language",
+   "name": "স্বাভাবিক প্রতিক্রিয়া",
+   "bn": "মাঝে মাঝে ছোট প্রতিক্রিয়া দাও — **Really? That’s a good idea. I see. Exactly.** এতে কথোপকথন বাস্তব মনে হয়।",
+   "formula": "Really? · I see. · That’s right.",
+   "ex": "==That’s a good idea!== I will try it from tomorrow."
+  },
+  {
+   "no": "09",
+   "tag": "Format",
+   "name": "দৈর্ঘ্য",
+   "bn": "সাধারণত **১০–১৪টি turn, ১৫০–২০০ শব্দ**। প্রতিটি turn ১–৩ বাক্যের হলেই ভালো।",
+   "formula": "10–14 turns · 150–200 words",
+   "ex": "খুব ছোট turn-এ আলোচনা অগভীর, খুব বড়তে বক্তৃতা।"
+  },
+  {
+   "no": "10",
+   "tag": "Marks",
+   "name": "নম্বর কোথায় থাকে",
+   "bn": "১০ নম্বরের বণ্টন — **ফরম্যাট ৩, বিষয়বস্তু ৪, ভাষা ২, বানান ও যতিচিহ্ন ১**।",
+   "formula": "Format 3 · Content 4 · Language 2 · Spelling 1",
+   "ex": "নাম ও কোলন বাদ দিলে সরাসরি ফরম্যাটের নম্বর কাটা।"
+  }
+ ],
+ "boardQ": {
+  "instruction": "Write a dialogue between two friends about the importance of reading newspapers. — সংবাদপত্র পড়ার গুরুত্ব নিয়ে দুই বন্ধুর সংলাপ লেখো। (10)",
+  "text": "Model dialogue — Rahim ও Karim, দুই বন্ধু।",
+  "items": [
+   {
+    "ans": "Rahim: Hello, Karim! How are you?",
+    "why": "**অভিবাদন দিয়ে শুরু** — নাম + কোলন। (নিয়ম ০১, ০২)"
+   },
+   {
+    "ans": "Karim: I’m fine, thank you. And you?",
+    "why": "সংক্ষিপ্ত রূপ ব্যবহার — স্বাভাবিক কথ্য ভাষা। (নিয়ম ০৬)"
+   },
+   {
+    "ans": "Rahim: I’m well too. By the way, do you read newspapers regularly?",
+    "why": "**বিষয়ে প্রবেশ** — প্রশ্ন দিয়ে। (নিয়ম ০৪, ০৭)"
+   },
+   {
+    "ans": "Karim: Not really. I don’t get much time. Why do you ask?",
+    "why": "সৎ উত্তর + পাল্টা প্রশ্ন — সংলাপ এগিয়ে যায়। (নিয়ম ০৭)"
+   },
+   {
+    "ans": "Rahim: Because a newspaper is a storehouse of knowledge. It keeps us updated about the world.",
+    "why": "যুক্তি দিয়ে বিষয়ের গুরুত্ব। (নিয়ম ০৪)"
+   },
+   {
+    "ans": "Karim: I see. But I think television news is enough.",
+    "why": "পাল্টা মত — সংলাপে মতপার্থক্য থাকলে প্রাণবন্ত হয়। (নিয়ম ০৭, ০৮)"
+   },
+   {
+    "ans": "Rahim: Not at all. A newspaper gives detailed analysis which television cannot.",
+    "why": "যুক্তি খণ্ডন — বিষয়বস্তুর গভীরতা। (নিয়ম ০৪)"
+   },
+   {
+    "ans": "Karim: That’s a good point. What else does it offer?",
+    "why": "**প্রতিক্রিয়া + প্রশ্ন** — turn ব্যালান্স রাখে। (নিয়ম ০৫, ০৮)"
+   },
+   {
+    "ans": "Rahim: It improves our vocabulary and helps in the examination as well.",
+    "why": "অতিরিক্ত যুক্তি — শিক্ষার্থীর প্রাসঙ্গিকতা। (নিয়ম ০৪)"
+   },
+   {
+    "ans": "Karim: Thank you, Rahim. I’ll start reading a newspaper from tomorrow. Goodbye. — Rahim: Goodbye.",
+    "why": "**ধন্যবাদ ও বিদায়** দিয়ে সমাপ্তি। (নিয়ম ০৩)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — শুরু ও শেষ",
+   "intro": "প্রতিটি অবস্থার জন্য উপযুক্ত বাক্য বলো।",
+   "items": [
+    {
+     "q": "সংলাপের প্রথম লাইন",
+     "ans": "Rahim: Hello, Karim! How are you?",
+     "why": "অভিবাদন + নাম + কোলন। (০১, ০২)"
+    },
+    {
+     "q": "বিষয়ে ঢোকার বাক্য",
+     "ans": "By the way, what do you think about …?",
+     "why": "স্বাভাবিক উত্তরণ। (০৪)"
+    },
+    {
+     "q": "মত জানতে চাওয়া",
+     "ans": "What do you suggest? / What is your opinion?",
+     "why": "প্রশ্ন দিয়ে সংলাপ এগোয়। (০৭)"
+    },
+    {
+     "q": "একমত হওয়া",
+     "ans": "That’s a good idea. / Exactly. / You are right.",
+     "why": "সংক্ষিপ্ত প্রতিক্রিয়া। (০৮)"
+    },
+    {
+     "q": "দ্বিমত হওয়া",
+     "ans": "I don’t think so. / Not at all.",
+     "why": "ভদ্রভাবে দ্বিমত। (০৭)"
+    },
+    {
+     "q": "শেষ করা",
+     "ans": "Thank you for your advice. Goodbye.",
+     "why": "ধন্যবাদ + বিদায়। (০৩)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — ফরম্যাট ঠিক আছে?",
+   "intro": "প্রতিটি লাইন দেখে বলো ঠিক না ভুল।",
+   "items": [
+    {
+     "q": "Rahim said that he was fine.",
+     "ans": "✗ এটি সংলাপ নয়, পরোক্ষ উক্তি → Rahim: I’m fine.",
+     "why": "সংলাপে সরাসরি কথা, নাম ও কোলনসহ। (০১)"
+    },
+    {
+     "q": "Rahim — Hello, Karim.",
+     "ans": "✗ ড্যাশ নয়, কোলন → Rahim: Hello, Karim.",
+     "why": "নামের পরে কোলন বাধ্যতামূলক। (০১)"
+    },
+    {
+     "q": "Karim: I am fine, thank you.",
+     "ans": "✓ সঠিক",
+     "why": "নাম + কোলন + কথা। (০১)"
+    },
+    {
+     "q": "একজন টানা ৮ বাক্য বলল",
+     "ans": "✗ ভারসাম্য নেই — পালাক্রমে ভাগ করো",
+     "why": "দুজনের turn প্রায় সমান হওয়া উচিত। (০৫)"
+    },
+    {
+     "q": "সংলাপে “I’m”, “don’t” লেখা",
+     "ans": "✓ সঠিক — কথ্য ভাষায় স্বাভাবিক",
+     "why": "সংলাপে সংক্ষিপ্ত রূপ চলে। (০৬)"
+    },
+    {
+     "q": "বিদায় ছাড়াই শেষ",
+     "ans": "✗ Goodbye / See you যোগ করো",
+     "why": "সমাপ্তি ফরম্যাটের অংশ। (০৩)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "Dialogue skeleton <span class='sub'>— যেকোনো বিষয়ে খাটে</span>",
+   "key": "Skeleton",
+   "table": {
+    "headers": [
+     "ক্রম",
+     "Turn সংখ্যা",
+     "কী থাকবে"
+    ],
+    "rows": [
+     [
+      "১",
+      "@১–২",
+      "অভিবাদন ও কুশল বিনিময়"
+     ],
+     [
+      "২",
+      "@১–২",
+      "বিষয়ে প্রবেশ (By the way, …)"
+     ],
+     [
+      "৩",
+      "@২–৩",
+      "প্রথম বন্ধুর যুক্তি ও তথ্য"
+     ],
+     [
+      "৪",
+      "@২–৩",
+      "দ্বিতীয় বন্ধুর প্রশ্ন বা পাল্টা মত"
+     ],
+     [
+      "৫",
+      "@২–৩",
+      "সমাধান বা পরামর্শ"
+     ],
+     [
+      "৬",
+      "@১–২",
+      "ধন্যবাদ ও বিদায়"
+     ]
+    ]
+   },
+   "note": "**১০–১৪টি turn-ই যথেষ্ট।** ছকের ক্রম মেনে চললে সংলাপ স্বাভাবিক ও গোছালো হয়।"
+  },
+  {
+   "title": "Conversation phrases <span class='sub'>— স্বাভাবিক কথোপকথনের বাক্য</span>",
+   "key": "Phrases",
+   "table": {
+    "headers": [
+     "কাজ",
+     "বাক্যাংশ"
+    ],
+    "rows": [
+     [
+      "অভিবাদন",
+      "@Hello! / Hi! / Good morning. / How are you?"
+     ],
+     [
+      "বিষয়ে ঢোকা",
+      "@By the way, … / Talking of that, … / May I ask you something?"
+     ],
+     [
+      "মত জানতে",
+      "@What do you think about …? / What is your opinion?"
+     ],
+     [
+      "একমত হওয়া",
+      "@Exactly. / You are right. / That’s a good idea."
+     ],
+     [
+      "দ্বিমত হওয়া",
+      "@I don’t think so. / Not at all. / I’m afraid I disagree."
+     ],
+     [
+      "পরামর্শ দিতে",
+      "@You should … / Why don’t you …? / I suggest that you …"
+     ],
+     [
+      "ধন্যবাদ",
+      "@Thank you for your advice. / Thanks a lot."
+     ],
+     [
+      "বিদায়",
+      "@Goodbye. / See you again. / Bye for now."
+     ]
+    ]
+   },
+   "note": "এই বাক্যগুলো মুখস্থ থাকলে যেকোনো বিষয়ে ১০ মিনিটেই সংলাপ লেখা যায়।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "📐",
+   "t": "Name + colon, every line",
+   "d": "প্রতিটি লাইনে বক্তার নাম ও কোলন — এটি বাদ দিলে ফরম্যাটের ৩ নম্বর সরাসরি যায়।",
+   "type": "ok"
+  },
+  {
+   "em": "⚖️",
+   "t": "Balance the turns",
+   "d": "একজন যেন লম্বা বক্তৃতা না দেয়। পালাক্রমে, প্রায় সমান দৈর্ঘ্যে কথা হবে।",
+   "type": "warn"
+  },
+  {
+   "em": "💬",
+   "t": "Contractions are welcome here",
+   "d": "I’m, don’t, can’t — সংলাপে এগুলোই স্বাভাবিক। আবেদনপত্রের নিয়ম এখানে খাটে না।"
+  },
+  {
+   "em": "❓",
+   "t": "Keep asking questions",
+   "d": "প্রশ্ন সংলাপকে এগিয়ে নেয়। প্রতি দুই turn-এ অন্তত একটি প্রশ্ন রাখো।"
+  },
+  {
+   "em": "🎯",
+   "t": "Stay on one topic",
+   "d": "পুরো সংলাপ এক বিষয়ে। এদিক-ওদিক ঘুরলে বিষয়বস্তুর ৪ নম্বরে আঘাত।",
+   "type": "warn"
+  },
+  {
+   "em": "👋",
+   "t": "Never forget the goodbye",
+   "d": "ধন্যবাদ ও বিদায় ছাড়া সংলাপ অসম্পূর্ণ — এটি সবচেয়ে সহজে পাওয়া নম্বর।",
+   "type": "ok"
+  }
+ ],
+ "recap": [
+  "ফরম্যাট: প্রতিটি লাইনে নাম + কোলন + কথা।",
+  "শুরু অভিবাদনে, শেষ ধন্যবাদ ও বিদায়ে।",
+  "একটি বিষয়ে ১০–১৪টি turn, দুজনের কথা প্রায় সমান।",
+  "কথ্য ভাষা ও সংক্ষিপ্ত রূপ এখানে স্বাভাবিক।",
+  "প্রশ্ন ও ছোট প্রতিক্রিয়া সংলাপকে জীবন্ত করে।"
+ ],
+ "homework": [
+  "Dialogue skeleton-এর ছয়টি ধাপ মুখস্থ করবে।",
+  "Conversation phrases খাতায় লিখবে।",
+  "সংবাদপত্র নিয়ে সংলাপটি না দেখে লিখবে।",
+  "“পরিবেশ দূষণ” ও “পরীক্ষার প্রস্তুতি” নিয়ে দুটি সংলাপ লিখে আনবে।"
+ ],
+ "paper": "paper2"
+}

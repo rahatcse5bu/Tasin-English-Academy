@@ -1,0 +1,457 @@
+{
+ "id": "voice-change",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part A",
+ "unitName": "Grammar — Transformation",
+ "title": "Voice Change — Active ↔ Passive",
+ "titleBn": "বাচ্য পরিবর্তন (কর্তৃবাচ্য ↔ কর্মবাচ্য)",
+ "lede": "Object সামনে আসে, subject পেছনে যায় by-এর সাথে, আর মূল verb হয় V3। বাকি সব নির্ভর করে tense-এর উপর।",
+ "qType": "Grammar — Transformation of Sentences",
+ "minutes": 50,
+ "marks": "5",
+ "rulesTitle": "Voice পরিবর্তনের নিয়ম",
+ "rulesPerSlide": 2,
+ "objectives": [
+  {
+   "t": "The three basic moves",
+   "d": "Object আগে · be verb + V3 · subject by-এর সাথে পরে"
+  },
+  {
+   "t": "Tense-wise be-verb chart",
+   "d": "কোন tense-এ কোন be verb — মূল ছক"
+  },
+  {
+   "t": "Special sentence types",
+   "d": "প্রশ্ন, আদেশ, modal, দুই object"
+  },
+  {
+   "t": "Solved board question",
+   "d": "১০টি বাক্য, প্রতিটির যুক্তিসহ"
+  },
+  {
+   "t": "Two live practice sets",
+   "d": "শ্রেণিকক্ষে সরাসরি অনুশীলন"
+  },
+  {
+   "t": "Traps &amp; tips",
+   "d": "যেখানে সবচেয়ে বেশি ভুল হয়"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Base",
+   "name": "The three basic moves",
+   "bn": "Active → Passive করতে তিনটি কাজ: **(১)** object সামনে এনে subject বানাও, **(২)** tense অনুযায়ী **be verb + মূল verb-এর V3** বসাও, **(৩)** আগের subject-কে **by**-এর পরে বসাও (object রূপে)।",
+   "formulaLabel": "STEPS",
+   "formula": "Object + be verb + V3 + by + Subject(object form)",
+   "ex": "**A:** He writes a letter. → **P:** A letter ==is written by== him."
+  },
+  {
+   "no": "02",
+   "tag": "Pronoun",
+   "name": "Pronoun বদলে যায়",
+   "bn": "Subject ও object স্থান বদলানোয় pronoun-ও রূপ বদলায় — **I→me, we→us, he→him, she→her, they→them, who→whom**।",
+   "formulaLabel": "SHIFT",
+   "formula": "I→me · we→us · he→him · she→her · they→them",
+   "ex": "**A:** I know him. → **P:** He is known to ==me==."
+  },
+  {
+   "no": "03",
+   "tag": "Tense",
+   "name": "Present Indefinite",
+   "bn": "Subject অনুযায়ী **am / is / are + V3**।",
+   "formula": "am / is / are + V3",
+   "ex": "**A:** They play football. → **P:** Football ==is played== by them."
+  },
+  {
+   "no": "04",
+   "tag": "Tense",
+   "name": "Past Indefinite",
+   "bn": "Subject অনুযায়ী **was / were + V3**।",
+   "formula": "was / were + V3",
+   "ex": "**A:** He wrote a letter. → **P:** A letter ==was written== by him."
+  },
+  {
+   "no": "05",
+   "tag": "Tense",
+   "name": "Future Indefinite",
+   "bn": "**shall be / will be + V3**।",
+   "formula": "shall be / will be + V3",
+   "ex": "**A:** He will do the work. → **P:** The work ==will be done== by him."
+  },
+  {
+   "no": "06",
+   "tag": "Tense",
+   "name": "Continuous Tense",
+   "bn": "Continuous-এ **being** যোগ হয় — am/is/are **being** + V3 (Present), was/were **being** + V3 (Past)।",
+   "formula": "am/is/are/was/were + being + V3",
+   "ex": "**A:** He is doing the work. → **P:** The work ==is being done== by him.",
+   "note": "Future Continuous ও Perfect Continuous-এর passive হয় না।"
+  },
+  {
+   "no": "07",
+   "tag": "Tense",
+   "name": "Perfect Tense",
+   "bn": "Perfect-এ **been** যোগ হয় — have/has **been** + V3 (Present Perfect), had **been** + V3 (Past Perfect)।",
+   "formula": "have / has / had + been + V3",
+   "ex": "**A:** He has done the work. → **P:** The work ==has been done== by him."
+  },
+  {
+   "no": "08",
+   "tag": "Modal",
+   "name": "Modal auxiliary থাকলে",
+   "bn": "**can, could, may, might, should, must, ought to** থাকলে গঠন হয় **modal + be + V3**।",
+   "formula": "modal + be + V3",
+   "ex": "**A:** You must do it. → **P:** It ==must be done== by you."
+  },
+  {
+   "no": "09",
+   "tag": "Type",
+   "name": "Interrogative — Yes/No প্রশ্ন",
+   "bn": "সহায়ক verb সামনে থাকে, তারপর নতুন subject, তারপর be verb + V3।",
+   "formula": "Aux + object(new sub) + be verb + V3 + by + agent?",
+   "ex": "**A:** Did he do the work? → **P:** ==Was the work done by him?=="
+  },
+  {
+   "no": "10",
+   "tag": "Type",
+   "name": "Interrogative — Wh প্রশ্ন",
+   "bn": "Wh-word সামনেই থাকে; **who → by whom** হয়ে যায়।",
+   "formula": "By whom + be verb + object + V3?",
+   "ex": "**A:** Who broke the glass? → **P:** ==By whom was the glass broken?=="
+  },
+  {
+   "no": "11",
+   "tag": "Type",
+   "name": "Imperative — আদেশ / অনুরোধ",
+   "bn": "আদেশসূচক বাক্যের passive শুরু হয় **Let** দিয়ে; নিষেধে **Let not**।",
+   "formula": "Let + object + be + V3",
+   "ex": "**A:** Do the work. → **P:** ==Let the work be done.== / Shut the door. → ==Let the door be shut.=="
+  },
+  {
+   "no": "12",
+   "tag": "Type",
+   "name": "Imperative — অনুরোধ / উপদেশ",
+   "bn": "Please/Kindly থাকলে passive হয় **You are requested to + V1**; উপদেশে **You are advised to + V1**।",
+   "formula": "You are requested / advised + to + V1",
+   "ex": "**A:** Please help me. → **P:** ==You are requested to help me.=="
+  },
+  {
+   "no": "13",
+   "tag": "Object",
+   "name": "দুটি object থাকলে",
+   "bn": "কিছু verb-এর দুটি object থাকে (him, a book)। যেকোনো একটিকে subject করা যায়; সাধারণত **ব্যক্তিবাচক object**-কে সামনে আনা হয়।",
+   "formula": "Person-object + be verb + V3 + thing-object",
+   "ex": "**A:** He gave me a book. → **P:** ==I was given a book by him.== / A book was given to me by him."
+  },
+  {
+   "no": "14",
+   "tag": "Special",
+   "name": "by-এর বদলে অন্য preposition",
+   "bn": "কিছু V3-এর পরে by বসে না — **known to, satisfied with, pleased with, tired of, interested in, contained in, filled with, surprised at**।",
+   "formulaLabel": "EXCEPTIONS",
+   "formula": "known to · pleased with · tired of · interested in · surprised at",
+   "ex": "**A:** All know him. → **P:** He is known ==to== all. (✗ by all)"
+  },
+  {
+   "no": "15",
+   "tag": "Special",
+   "name": "Agent বাদ দেওয়া",
+   "bn": "Subject যদি **people, they, someone, everybody** ইত্যাদি অনির্দিষ্ট হয়, তবে passive-এ **by + agent** বাদ দেওয়া যায়।",
+   "formula": "Object + be verb + V3 (agent omitted)",
+   "ex": "**A:** People speak English all over the world. → **P:** English ==is spoken== all over the world."
+  },
+  {
+   "no": "16",
+   "tag": "Special",
+   "name": "Passive → Active",
+   "bn": "উল্টো করতে হলে **by**-এর পরের শব্দটিকে subject বানাও, be verb ফেলে দাও এবং V3-কে tense অনুযায়ী মূল রূপে নাও।",
+   "formula": "Agent(sub) + verb(tense) + object",
+   "ex": "**P:** The work was done by him. → **A:** ==He did the work.=="
+  }
+ ],
+ "boardQ": {
+  "instruction": "Change the voice of the following sentences. — নিচের বাক্যগুলোর voice পরিবর্তন করো। (5)",
+  "text": "(a) He writes a letter. (b) They are building a house. (c) She has finished the work. (d) You must obey your parents. (e) Do the sum. (f) Who broke the glass? (g) Did he help you? (h) People speak English everywhere. (i) All know him. (j) The work was done by them.",
+  "items": [
+   {
+    "ans": "A letter is written by him.",
+    "why": "Present Indefinite → **is + V3**. (নিয়ম ০৩)"
+   },
+   {
+    "ans": "A house is being built by them.",
+    "why": "Present Continuous → **is being + V3**. (নিয়ম ০৬)"
+   },
+   {
+    "ans": "The work has been finished by her.",
+    "why": "Present Perfect → **has been + V3**; she→her. (নিয়ম ০৭, ০২)"
+   },
+   {
+    "ans": "Your parents must be obeyed by you.",
+    "why": "Modal → **must be + V3**. (নিয়ম ০৮)"
+   },
+   {
+    "ans": "Let the sum be done.",
+    "why": "Imperative → **Let + object + be + V3**. (নিয়ম ১১)"
+   },
+   {
+    "ans": "By whom was the glass broken?",
+    "why": "Wh-প্রশ্ন; who → **by whom**. (নিয়ম ১০)"
+   },
+   {
+    "ans": "Were you helped by him?",
+    "why": "Yes/No প্রশ্ন → aux সামনে; did → were। (নিয়ম ০৯)"
+   },
+   {
+    "ans": "English is spoken everywhere.",
+    "why": "‘People’ অনির্দিষ্ট → **by them বাদ**. (নিয়ম ১৫)"
+   },
+   {
+    "ans": "He is known to all.",
+    "why": "‘known’-এর পরে by নয়, **to** বসে। (নিয়ম ১৪)"
+   },
+   {
+    "ans": "They did the work.",
+    "why": "Passive → Active: by-এর পরের শব্দ subject; was done → did. (নিয়ম ১৬)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — Tense অনুযায়ী be verb",
+   "intro": "প্রথমে tense বলো, তারপর be verb — তারপর পুরো বাক্য।",
+   "items": [
+    {
+     "q": "They play cricket.",
+     "ans": "Cricket is played by them.",
+     "why": "Present Indefinite → is/are + V3. (০৩)"
+    },
+    {
+     "q": "He was writing a letter.",
+     "ans": "A letter was being written by him.",
+     "why": "Past Continuous → was being + V3. (০৬)"
+    },
+    {
+     "q": "She had done the work.",
+     "ans": "The work had been done by her.",
+     "why": "Past Perfect → had been + V3. (০৭)"
+    },
+    {
+     "q": "We shall complete the task.",
+     "ans": "The task will be completed by us.",
+     "why": "Future → will/shall be + V3. (০৫)"
+    },
+    {
+     "q": "You can solve this sum.",
+     "ans": "This sum can be solved by you.",
+     "why": "Modal → can be + V3. (০৮)"
+    },
+    {
+     "q": "He gave me a pen.",
+     "ans": "I was given a pen by him.",
+     "why": "দুই object → ব্যক্তিটিকে সামনে। (১৩)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — প্রশ্ন, আদেশ ও ব্যতিক্রম",
+   "intro": "এই সেটে গঠনই আসল — Let, By whom, এবং by ছাড়া preposition।",
+   "items": [
+    {
+     "q": "Open the door.",
+     "ans": "Let the door be opened.",
+     "why": "Imperative → Let + be + V3. (১১)"
+    },
+    {
+     "q": "Do not disturb him.",
+     "ans": "Let him not be disturbed.",
+     "why": "নিষেধসূচক imperative → Let … not be + V3. (১১)"
+    },
+    {
+     "q": "Please give me a glass of water.",
+     "ans": "You are requested to give me a glass of water.",
+     "why": "অনুরোধ → You are requested to + V1. (১২)"
+    },
+    {
+     "q": "Who wrote this poem?",
+     "ans": "By whom was this poem written?",
+     "why": "who → by whom. (১০)"
+    },
+    {
+     "q": "The news pleased me.",
+     "ans": "I was pleased with the news.",
+     "why": "‘pleased’-এর পরে **with**, by নয়। (১৪)"
+    },
+    {
+     "q": "The box contains books.",
+     "ans": "Books are contained in the box.",
+     "why": "‘contained’-এর পরে **in**. (১৪)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "Tense → Passive form <span class='sub'>— মূল ছক</span>",
+   "key": "Tense Chart",
+   "table": {
+    "headers": [
+     "Tense",
+     "Active",
+     "Passive"
+    ],
+    "rows": [
+     [
+      "Present Indefinite",
+      "He writes a letter.",
+      "@A letter is written by him."
+     ],
+     [
+      "Present Continuous",
+      "He is writing a letter.",
+      "@A letter is being written by him."
+     ],
+     [
+      "Present Perfect",
+      "He has written a letter.",
+      "@A letter has been written by him."
+     ],
+     [
+      "Past Indefinite",
+      "He wrote a letter.",
+      "@A letter was written by him."
+     ],
+     [
+      "Past Continuous",
+      "He was writing a letter.",
+      "@A letter was being written by him."
+     ],
+     [
+      "Past Perfect",
+      "He had written a letter.",
+      "@A letter had been written by him."
+     ],
+     [
+      "Future Indefinite",
+      "He will write a letter.",
+      "@A letter will be written by him."
+     ],
+     [
+      "Future Perfect",
+      "He will have written a letter.",
+      "@A letter will have been written by him."
+     ],
+     [
+      "Modal",
+      "He must write a letter.",
+      "@A letter must be written by him."
+     ]
+    ]
+   },
+   "note": "**সূত্র:** Continuous-এ **being**, Perfect-এ **been**, Modal-এ **be** — বাকিটা be verb + V3। Future Continuous ও Perfect Continuous-এর passive হয় না।"
+  },
+  {
+   "title": "Not 'by' — other prepositions <span class='sub'>— যেখানে by বসে না</span>",
+   "key": "Not By",
+   "table": {
+    "headers": [
+     "Past participle",
+     "Preposition",
+     "উদাহরণ"
+    ],
+    "rows": [
+     [
+      "known",
+      "@to",
+      "He is known **to** all."
+     ],
+     [
+      "pleased / satisfied / delighted",
+      "@with",
+      "I am pleased **with** the result."
+     ],
+     [
+      "tired / afraid",
+      "@of",
+      "She is tired **of** waiting."
+     ],
+     [
+      "interested / contained / included",
+      "@in",
+      "Books are contained **in** the box."
+     ],
+     [
+      "surprised / astonished / annoyed",
+      "@at",
+      "We were surprised **at** the news."
+     ],
+     [
+      "filled / crowded",
+      "@with",
+      "The hall was filled **with** people."
+     ],
+     [
+      "married",
+      "@to",
+      "She was married **to** a doctor."
+     ],
+     [
+      "covered / decorated",
+      "@with",
+      "The table was covered **with** a cloth."
+     ]
+    ]
+   },
+   "note": "এই ৮টি জোড়া মুখস্থ না থাকলে ‘known by all’ লিখে ফেলা প্রায় নিশ্চিত — আর সেটিই ভুল।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "1️⃣",
+   "t": "Three moves, always the same order",
+   "d": "Object সামনে → be verb + V3 → by + agent। এই ক্রম মনে রাখলে যেকোনো বাক্য করা যায়।"
+  },
+  {
+   "em": "⏳",
+   "t": "Tense never changes",
+   "d": "Active যে tense-এ, Passive-ও সেই tense-এই থাকবে। শুধু be verb-এর রূপ বদলায়।"
+  },
+  {
+   "em": "⚠️",
+   "t": "being / been গুলিয়ে ফেলো না",
+   "type": "warn",
+   "d": "**Continuous → being**, **Perfect → been**। ‘has being done’ লেখা সবচেয়ে সাধারণ ভুল।"
+  },
+  {
+   "em": "🔄",
+   "t": "Pronoun must change form",
+   "type": "ok",
+   "d": "I→me, he→him, she→her, they→them, who→whom। ‘by he’ লিখলে নম্বর কাটা।"
+  },
+  {
+   "em": "🚪",
+   "t": "Imperative starts with Let",
+   "d": "‘Do the work’ → ‘**Let** the work be done.’ অনুরোধ হলে ‘You are requested to…’।"
+  },
+  {
+   "em": "🧲",
+   "t": "Some verbs refuse 'by'",
+   "d": "known **to**, pleased **with**, tired **of**, interested **in**, surprised **at** — মুখস্থ রাখা ছাড়া উপায় নেই।"
+  }
+ ],
+ "recap": [
+  "তিন ধাপ: object সামনে → be verb + V3 → by + agent (object রূপে)।",
+  "Continuous-এ being, Perfect-এ been, Modal-এ be বসে।",
+  "প্রশ্নে aux সামনে; who → by whom; imperative-এ Let … be + V3।",
+  "অনির্দিষ্ট subject (people/they/someone) হলে by-অংশ বাদ দেওয়া যায়।",
+  "known to, pleased with, tired of, interested in, surprised at — by বসে না।"
+ ],
+ "homework": [
+  "Tense → Passive ছকের ৯টি সারি খাতায় লিখে মুখস্থ করবে।",
+  "‘Not by’ ছকের ৮টি জোড়া লিখবে।",
+  "বোর্ড প্রশ্নের ১০টি বাক্য না দেখে রূপান্তর করবে।",
+  "নিজে ১০টি active বাক্য লিখে passive করবে।"
+ ],
+ "paper": "paper2"
+}

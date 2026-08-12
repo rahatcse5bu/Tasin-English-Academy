@@ -1,0 +1,871 @@
+{
+ "id": "the-orphanage",
+ "unit": "Unit 06",
+ "unitName": "Relationships",
+ "title": "A Mother in Manville — The Orphanage",
+ "titleBn": "অনাথ আশ্রম — জেরির গল্প",
+ "lede": "ক্যারোলিনা পাহাড়ের অনাথ আশ্রম, এক লেখিকা আর বারো বছরের ছোট্ট জেরি — মমতা ও মর্যাদার এক নিঃশব্দ গল্প।",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 50,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Read a literary narrative closely",
+   "d": "গল্পভিত্তিক প্যাসেজে বর্ণনা, সংলাপ ও চরিত্রচিত্রণ বোঝা"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "২৯টি বাক্যের বাংলা অর্থ"
+  },
+  {
+   "t": "Figures of speech &amp; imagery",
+   "d": "simile, imagery — ‘like a consistent rain’, ‘eyes like the mountain sky’"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "isolation, startled, undersized, miraculous…"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — Why the authoress came to the mountains",
+   "s": [
+    {
+     "en": "The ==orphanage== is high in the ==Carolina mountains==.",
+     "bn": "==অনাথ আশ্রমটি== ==ক্যারোলিনা পাহাড়ের== উঁচুতে অবস্থিত।"
+    },
+    {
+     "en": "I was there in the ==autumn==.",
+     "bn": "আমি সেখানে ছিলাম ==শরৎকালে==।"
+    },
+    {
+     "en": "I wanted quiet, ==isolation==, to do some ==troublesome writing==.",
+     "bn": "আমি চেয়েছিলাম নিস্তব্ধতা ও ==নির্জনতা==, যাতে কিছু ==কষ্টসাধ্য লেখালেখি== করতে পারি।"
+    },
+    {
+     "en": "I wanted mountain air to ==blow out the malaria== from too long a time in the ==subtropics==.",
+     "bn": "আমি চেয়েছিলাম পাহাড়ি বাতাস যেন ==উপক্রান্তীয় অঞ্চলে== দীর্ঘদিন থাকার ফলে হওয়া ==ম্যালেরিয়া উড়িয়ে নিয়ে যায়==।"
+    },
+    {
+     "en": "I was ==homesick== too, for the ==flaming of maples== in October, and for ==corn shocks== and pumpkins and ==black-walnut trees==.",
+     "bn": "আমার ==দেশের জন্য মনও কেমন করছিল== — অক্টোবরের ==ম্যাপল পাতার আগুনরাঙা রূপের== জন্য, ==ভুট্টার আঁটির==, কুমড়োর আর ==কালো আখরোট গাছের== জন্য।"
+    },
+    {
+     "en": "I found them all living in a ==cabin== that belonged to the orphanage, ==half a mile beyond the orphanage farm==.",
+     "bn": "আশ্রমের মালিকানাধীন একটি ==কুটিরে==, ==আশ্রমের খামার থেকে আধা মাইল দূরে== থাকতে গিয়ে আমি সেসব কিছুই পেয়ে গেলাম।"
+    },
+    {
+     "en": "When I took the cabin, I asked for a boy or man to come and ==chop wood== for the ==fireplace==.",
+     "bn": "কুটিরটি নেওয়ার সময় আমি একজন ছেলে বা লোক চেয়েছিলাম, যে এসে ==অগ্নিকুণ্ডের== জন্য ==কাঠ কেটে দেবে==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — The boy at the door",
+   "s": [
+    {
+     "en": "I looked up from my ==typewriter== one late afternoon, a little ==startled==.",
+     "bn": "এক পড়ন্ত বিকেলে আমি একটু ==চমকে== গিয়ে আমার ==টাইপরাইটার== থেকে চোখ তুললাম।"
+    },
+    {
+     "en": "A boy stood at the door and my ==pointer dog==, my ==companion==, was at his side and had not barked to warn me.",
+     "bn": "দরজায় দাঁড়িয়ে ছিল একটি ছেলে, আর আমার ==পয়েন্টার কুকুরটি== — আমার ==সঙ্গী== — তার পাশে দাঁড়িয়ে ছিল এবং আমাকে সতর্ক করতে ঘেউ ঘেউ করেনি।"
+    },
+    {
+     "en": "The boy was ==probably twelve years old==, but ==undersized==.",
+     "bn": "ছেলেটির বয়স ==সম্ভবত বারো বছর==, কিন্তু ==বয়সের তুলনায় ছোটখাটো==।"
+    },
+    {
+     "en": "He wore ==overalls== and a torn shirt, and was ==barefooted==.",
+     "bn": "তার পরনে ছিল ==ওভারঅল== আর একটি ছেঁড়া শার্ট, আর সে ছিল ==খালি পায়ে==।"
+    },
+    {
+     "en": "He said, “I can chop some wood today.”",
+     "bn": "সে বলল, “আমি আজ কিছু কাঠ কেটে দিতে পারি।”"
+    },
+    {
+     "en": "“You? But you're ==small==.”",
+     "bn": "“তুমি? কিন্তু তুমি তো ==ছোট==।”"
+    },
+    {
+     "en": "“==Size don't matter, chopping wood==,” he said. “Some of the big boys don't chop good. I've been chopping wood at the orphanage a long time.”",
+     "bn": "সে বলল, “==কাঠ কাটায় আকার কোনো ব্যাপার নয়==। বড় ছেলেদের কেউ কেউ ভালো কাটতেই পারে না। আমি অনেকদিন ধরে আশ্রমে কাঠ কাটছি।”"
+    },
+    {
+     "en": "“Very well. There's the ==ax==. Go ahead and see what you can do.”",
+     "bn": "“বেশ। ওই তো ==কুড়াল==। যাও, দেখো তুমি কী করতে পারো।”"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — The sound of the axe",
+   "s": [
+    {
+     "en": "I went back to work, closing the door.",
+     "bn": "আমি দরজা বন্ধ করে আবার কাজে ফিরে গেলাম।"
+    },
+    {
+     "en": "He began to chop.",
+     "bn": "সে কাঠ কাটতে শুরু করল।"
+    },
+    {
+     "en": "The blows were ==rhythmic and steady==, and shortly I had forgotten him, the sound ==no more of an interruption than a consistent rain==.",
+     "bn": "কুড়ালের আঘাতগুলো ছিল ==ছন্দময় ও স্থির==, আর কিছুক্ষণের মধ্যেই আমি তাকে ভুলে গেলাম — শব্দটি ==একটানা বৃষ্টির চেয়ে বেশি বিঘ্নকর ছিল না==।"
+    },
+    {
+     "en": "I suppose an hour and a half passed and I heard the boy's steps on the cabin ==stoop==.",
+     "bn": "আমার ধারণা দেড় ঘণ্টা কেটে গেল, তারপর কুটিরের ==সিঁড়ি-চাতালে== ছেলেটির পায়ের শব্দ শুনতে পেলাম।"
+    },
+    {
+     "en": "The boy said, “I have to go to ==supper== now. I can come again tomorrow.”",
+     "bn": "ছেলেটি বলল, “এখন আমাকে ==রাতের খাবারে== যেতে হবে। আমি কাল আবার আসতে পারি।”"
+    },
+    {
+     "en": "I said, “I'll pay you now for what you've done,” thinking I should probably have to ==insist on== an older boy.",
+     "bn": "আমি বললাম, “তুমি যা করেছ তার জন্য আমি এখনই তোমাকে টাকা দিয়ে দিচ্ছি,” — মনে মনে ভাবছিলাম যে হয়তো আমাকে একজন বড় ছেলের জন্য ==জোর দিতেই== হবে।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 4 — The splendid pile and the boy's eyes",
+   "s": [
+    {
+     "en": "We went together back of the cabin.",
+     "bn": "আমরা একসঙ্গে কুটিরের পেছনে গেলাম।"
+    },
+    {
+     "en": "An ==astonishing== amount of ==solid wood== had been cut.",
+     "bn": "==বিস্ময়কর== পরিমাণ ==শক্ত কাঠ== কাটা হয়ে গিয়েছিল।"
+    },
+    {
+     "en": "“But you've done ==as much as a man==,” I said. “This is a ==splendid pile==.”",
+     "bn": "আমি বললাম, “কিন্তু তুমি তো ==একজন পুরুষের সমান== কাজ করেছ। এ তো ==চমৎকার একটি স্তূপ==।”"
+    },
+    {
+     "en": "I looked at him, actually, ==for the first time==.",
+     "bn": "আসলে আমি তখনই ==প্রথমবারের মতো== তার দিকে তাকালাম।"
+    },
+    {
+     "en": "His hair was the colour of the ==corn shocks== and his eyes, very ==direct==, were like the ==mountain sky when rain is pending== — gray, with a shadowing of that ==miraculous blue==.",
+     "bn": "তার চুলের রং ছিল ==ভুট্টার আঁটির== মতো, আর তার ==সরাসরি তাকানো== চোখ দুটি ছিল ==বৃষ্টি নামার আগের পাহাড়ি আকাশের== মতো — ধূসর, তার ভেতরে ছায়া ফেলে থাকা সেই ==অলৌকিক নীল==।"
+    },
+    {
+     "en": "I gave him a ==quarter==.",
+     "bn": "আমি তাকে ==পঁচিশ সেন্টের একটি মুদ্রা== দিলাম।"
+    },
+    {
+     "en": "“You may come tomorrow afternoon,” I said, “and thank you very much.”",
+     "bn": "আমি বললাম, “তুমি কাল বিকেলে আসতে পারো, আর তোমাকে অনেক ধন্যবাদ।”"
+    },
+    {
+     "en": "He looked at me, and at the ==coin==, and seemed to ==want to speak, but could not==, and turned away.",
+     "bn": "সে আমার দিকে তাকাল, তারপর ==মুদ্রাটির== দিকে; মনে হলো সে ==কিছু বলতে চাইছে, কিন্তু পারল না==, আর মুখ ফিরিয়ে চলে গেল।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "orphanage",
+   "pos": "noun",
+   "pron": "/ˈɔːfənɪdʒ/",
+   "bn": "অনাথ আশ্রম",
+   "en": "a home for children without parents",
+   "ex": "The orphanage is high in the Carolina mountains."
+  },
+  {
+   "w": "isolation",
+   "pos": "noun",
+   "pron": "/ˌaɪsəˈleɪʃn/",
+   "bn": "নির্জনতা, বিচ্ছিন্নতা",
+   "en": "the state of being alone and separated",
+   "ex": "I wanted quiet, isolation."
+  },
+  {
+   "w": "troublesome",
+   "pos": "adj",
+   "pron": "/ˈtrʌblsəm/",
+   "bn": "কষ্টসাধ্য, ঝামেলাপূর্ণ",
+   "en": "causing difficulty or worry",
+   "ex": "some troublesome writing"
+  },
+  {
+   "w": "subtropics",
+   "pos": "noun",
+   "pron": "/sʌbˈtrɒpɪks/",
+   "bn": "উপক্রান্তীয় অঞ্চল",
+   "en": "regions bordering on the tropics",
+   "ex": "too long a time in the subtropics"
+  },
+  {
+   "w": "homesick",
+   "pos": "adj",
+   "pron": "/ˈhəʊmsɪk/",
+   "bn": "ঘরের জন্য মনকেমন করা",
+   "en": "sad because you are away from home",
+   "ex": "I was homesick too."
+  },
+  {
+   "w": "flaming",
+   "pos": "adj",
+   "pron": "/ˈfleɪmɪŋ/",
+   "bn": "আগুনরাঙা, জ্বলজ্বলে",
+   "en": "burning bright red or orange",
+   "ex": "the flaming of maples in October"
+  },
+  {
+   "w": "corn shock",
+   "pos": "noun",
+   "pron": "/kɔːn ʃɒk/",
+   "bn": "ভুট্টার আঁটি/গাদা",
+   "en": "a bundle of corn stalks set upright to dry",
+   "ex": "his hair was the colour of the corn shocks"
+  },
+  {
+   "w": "cabin",
+   "pos": "noun",
+   "pron": "/ˈkæbɪn/",
+   "bn": "কুটির, ছোট কাঠের ঘর",
+   "en": "a small simple house made of wood",
+   "ex": "a cabin that belonged to the orphanage"
+  },
+  {
+   "w": "chop",
+   "pos": "verb",
+   "pron": "/tʃɒp/",
+   "bn": "কেটে টুকরো করা",
+   "en": "to cut something with an axe",
+   "ex": "a boy to come and chop wood"
+  },
+  {
+   "w": "startled",
+   "pos": "adj",
+   "pron": "/ˈstɑːtld/",
+   "bn": "চমকিত, হকচকিত",
+   "en": "suddenly surprised or frightened",
+   "ex": "I looked up, a little startled."
+  },
+  {
+   "w": "undersized",
+   "pos": "adj",
+   "pron": "/ˌʌndəˈsaɪzd/",
+   "bn": "বয়সের তুলনায় ছোটখাটো",
+   "en": "smaller than the usual size",
+   "ex": "twelve years old, but undersized"
+  },
+  {
+   "w": "barefooted",
+   "pos": "adj",
+   "pron": "/ˌbeəˈfʊtɪd/",
+   "bn": "খালি পায়ে",
+   "en": "wearing nothing on the feet",
+   "ex": "He wore overalls and was barefooted."
+  },
+  {
+   "w": "rhythmic",
+   "pos": "adj",
+   "pron": "/ˈrɪðmɪk/",
+   "bn": "ছন্দময়",
+   "en": "having a regular repeated pattern",
+   "ex": "The blows were rhythmic and steady."
+  },
+  {
+   "w": "interruption",
+   "pos": "noun",
+   "pron": "/ˌɪntəˈrʌpʃn/",
+   "bn": "বাধা, ব্যাঘাত",
+   "en": "something that stops an action for a time",
+   "ex": "no more of an interruption than a rain"
+  },
+  {
+   "w": "insist on",
+   "pos": "phrase",
+   "pron": "/ɪnˈsɪst/",
+   "bn": "জোর দেওয়া, দাবি করা",
+   "en": "to demand something firmly",
+   "ex": "I should have to insist on an older boy."
+  },
+  {
+   "w": "astonishing",
+   "pos": "adj",
+   "pron": "/əˈstɒnɪʃɪŋ/",
+   "bn": "বিস্ময়কর",
+   "en": "very surprising",
+   "ex": "an astonishing amount of solid wood"
+  },
+  {
+   "w": "splendid",
+   "pos": "adj",
+   "pron": "/ˈsplendɪd/",
+   "bn": "চমৎকার, দুর্দান্ত",
+   "en": "excellent; very impressive",
+   "ex": "This is a splendid pile."
+  },
+  {
+   "w": "pending",
+   "pos": "adj",
+   "pron": "/ˈpendɪŋ/",
+   "bn": "আসন্ন, ঘটতে যাচ্ছে এমন",
+   "en": "about to happen",
+   "ex": "the mountain sky when rain is pending"
+  },
+  {
+   "w": "miraculous",
+   "pos": "adj",
+   "pron": "/mɪˈrækjələs/",
+   "bn": "অলৌকিক, বিস্ময়কর",
+   "en": "wonderful; like a miracle",
+   "ex": "a shadowing of that miraculous blue"
+  },
+  {
+   "w": "quarter",
+   "pos": "noun",
+   "pron": "/ˈkwɔːtə/",
+   "bn": "পঁচিশ সেন্টের মুদ্রা",
+   "en": "a coin worth 25 cents in America",
+   "ex": "I gave him a quarter."
+  }
+ ],
+ "synant": [
+  {
+   "w": "isolation",
+   "bn": "নির্জনতা",
+   "syn": [
+    "separation",
+    "solitude",
+    "seclusion"
+   ],
+   "ant": [
+    "inclusion",
+    "fellowship",
+    "association"
+   ]
+  },
+  {
+   "w": "flaming",
+   "bn": "আগুনরাঙা",
+   "syn": [
+    "glowing",
+    "blazing",
+    "burning"
+   ],
+   "ant": [
+    "dim",
+    "faded",
+    "dull"
+   ]
+  },
+  {
+   "w": "miraculous",
+   "bn": "অলৌকিক",
+   "syn": [
+    "amazing",
+    "wondrous",
+    "extraordinary"
+   ],
+   "ant": [
+    "ordinary",
+    "dull",
+    "commonplace"
+   ]
+  },
+  {
+   "w": "interruption",
+   "bn": "বাধা",
+   "syn": [
+    "intervention",
+    "disturbance",
+    "break"
+   ],
+   "ant": [
+    "continuation",
+    "connection",
+    "flow"
+   ]
+  },
+  {
+   "w": "startled",
+   "bn": "চমকিত",
+   "syn": [
+    "surprised",
+    "alarmed",
+    "shocked"
+   ],
+   "ant": [
+    "calm",
+    "unmoved",
+    "composed"
+   ]
+  },
+  {
+   "w": "undersized",
+   "bn": "ছোটখাটো",
+   "syn": [
+    "small",
+    "stunted",
+    "tiny"
+   ],
+   "ant": [
+    "oversized",
+    "large",
+    "well-built"
+   ]
+  },
+  {
+   "w": "astonishing",
+   "bn": "বিস্ময়কর",
+   "syn": [
+    "amazing",
+    "remarkable",
+    "staggering"
+   ],
+   "ant": [
+    "ordinary",
+    "expected",
+    "unimpressive"
+   ]
+  },
+  {
+   "w": "splendid",
+   "bn": "চমৎকার",
+   "syn": [
+    "magnificent",
+    "excellent",
+    "superb"
+   ],
+   "ant": [
+    "poor",
+    "shabby",
+    "wretched"
+   ]
+  },
+  {
+   "w": "insist on",
+   "bn": "জোর দেওয়া",
+   "syn": [
+    "demand",
+    "urge",
+    "press for"
+   ],
+   "ant": [
+    "yield",
+    "give in",
+    "waive"
+   ]
+  },
+  {
+   "w": "steady",
+   "bn": "স্থির",
+   "syn": [
+    "constant",
+    "regular",
+    "unwavering"
+   ],
+   "ant": [
+    "irregular",
+    "unsteady",
+    "erratic"
+   ]
+  },
+  {
+   "w": "impoverished",
+   "bn": "দরিদ্র",
+   "syn": [
+    "poor",
+    "destitute",
+    "needy"
+   ],
+   "ant": [
+    "wealthy",
+    "affluent",
+    "rich"
+   ]
+  },
+  {
+   "w": "clumsy",
+   "bn": "আনাড়ি, জবুথবু",
+   "syn": [
+    "awkward",
+    "unskilful",
+    "bungling"
+   ],
+   "ant": [
+    "skilful",
+    "deft",
+    "adroit"
+   ]
+  }
+ ],
+ "summaryEn": "The narrator, a writer, went in autumn to a cabin belonging to an orphanage high in the Carolina mountains, because she wanted quiet and isolation for a piece of difficult writing, wished the mountain air to drive the malaria out of her after a long stay in the subtropics, and felt homesick for the flaming maples of October, the corn shocks, the pumpkins and the black-walnut trees. Having taken the cabin half a mile beyond the orphanage farm, she asked for a boy or a man to chop firewood. One late afternoon she was startled to find a boy standing at her door, with her pointer dog beside him — the dog had not even barked. He was probably twelve, but undersized, barefooted, in overalls and a torn shirt, and he quietly claimed that size did not matter in chopping wood, since he had been doing it at the orphanage for a long time. She let him try. His axe-strokes were so rhythmic and steady that the sound disturbed her no more than a continuous rain, and she forgot him for an hour and a half. When he came to say that he must go to supper, she went out to pay him and was astonished by the splendid pile of solid wood. Only then did she really look at him: his hair had the colour of corn shocks and his direct grey eyes were like a mountain sky before rain. She gave him a quarter and thanked him; he looked at her and at the coin, seemed to want to speak, could not, and turned away.",
+ "summaryBn": "লেখিকা শরৎকালে ক্যারোলিনা পাহাড়ের উঁচুতে অবস্থিত এক অনাথ আশ্রমের কুটিরে এসেছিলেন, কারণ কঠিন এক লেখার জন্য তাঁর দরকার ছিল নিস্তব্ধতা ও নির্জনতা; তিনি চেয়েছিলেন পাহাড়ি বাতাস যেন উপক্রান্তীয় অঞ্চলে দীর্ঘদিন থাকার ম্যালেরিয়া উড়িয়ে দেয়; আর অক্টোবরের আগুনরাঙা ম্যাপল, ভুট্টার আঁটি, কুমড়ো ও কালো আখরোট গাছের জন্য তাঁর মন কেমন করছিল। খামার থেকে আধা মাইল দূরের কুটিরটি নিয়ে তিনি অগ্নিকুণ্ডের জন্য কাঠ কেটে দেওয়ার লোক চেয়েছিলেন। এক পড়ন্ত বিকেলে চমকে উঠে তিনি দেখলেন দরজায় দাঁড়িয়ে এক বালক, পাশে তাঁর পয়েন্টার কুকুর — যে ঘেউ ঘেউ পর্যন্ত করেনি। বয়স সম্ভবত বারো, কিন্তু ছোটখাটো, খালি পায়ে, ছেঁড়া শার্ট গায়ে; সে শান্তভাবে বলল, কাঠ কাটায় আকার কিছু নয়, কারণ সে বহুদিন ধরে আশ্রমে কাঠ কাটছে। লেখিকা তাকে সুযোগ দিলেন। তার কুড়ালের আঘাত এত ছন্দময় ও স্থির ছিল যে শব্দটি একটানা বৃষ্টির চেয়ে বেশি বিরক্তিকর মনে হয়নি, আর দেড় ঘণ্টা তিনি তাকে ভুলেই ছিলেন। খাবারের সময় হয়েছে বলে সে বিদায় নিতে এলে লেখিকা টাকা দিতে বাইরে গিয়ে দেখলেন শক্ত কাঠের এক বিস্ময়কর স্তূপ। তখনই তিনি প্রথমবারের মতো ছেলেটির দিকে সত্যিকারভাবে তাকালেন — ভুট্টার আঁটির রঙা চুল, আর বৃষ্টির আগের পাহাড়ি আকাশের মতো সরল ধূসর চোখ। তিনি তাকে পঁচিশ সেন্ট দিয়ে ধন্যবাদ জানালেন; সে তাঁর দিকে ও মুদ্রার দিকে তাকিয়ে কিছু বলতে চেয়েও পারল না, মুখ ফিরিয়ে চলে গেল।",
+ "summaryTip": "**Fiction passage-এর Summary:** ঘটনার ক্রম (কেন এলেন → কাকে পেলেন → কী ঘটল → শেষ দৃশ্য) মেনে লেখো। সংলাপ হুবহু নয়, indirect-এ লেখো। বর্ণনার সৌন্দর্য (চুল, চোখ) এক বাক্যেই ধরো।",
+ "mcq": [
+  {
+   "q": "The word ‘isolation’ mentioned in the passage means —",
+   "opts": [
+    "Inclusion",
+    "Fellowship",
+    "Association",
+    "Separation"
+   ],
+   "ans": 3,
+   "why": "‘I wanted quiet, isolation’ — লেখিকা একা থাকতে চেয়েছিলেন, তাই isolation = separation (নির্জনতা/বিচ্ছিন্নতা)।"
+  },
+  {
+   "q": "The word ‘coin’ mentioned in the passage means —",
+   "opts": [
+    "Create",
+    "Invention",
+    "Dim",
+    "Change"
+   ],
+   "ans": 3,
+   "why": "এখানে ‘coin’ বিশেষ্য — ধাতব মুদ্রা (a quarter)। ইংরেজিতে খুচরা মুদ্রাকে ‘change’ বলা হয়। ‘Coin’ ক্রিয়া হিসেবে ‘নতুন শব্দ তৈরি করা’ বোঝায়, কিন্তু এখানে তা নয়।"
+  },
+  {
+   "q": "The word ‘flaming’ mentioned in the passage means —",
+   "opts": [
+    "Crashing",
+    "Rolling",
+    "Bowling",
+    "Glowing"
+   ],
+   "ans": 3,
+   "why": "‘the flaming of maples in October’ — শরতে ম্যাপল পাতা আগুনের মতো লাল-কমলা হয়ে জ্বলজ্বল করে = glowing."
+  },
+  {
+   "q": "The word ‘miraculous’ mentioned in the passage means —",
+   "opts": [
+    "Dark",
+    "Amazing",
+    "Cosmic",
+    "Dull"
+   ],
+   "ans": 1,
+   "why": "Miracle = অলৌকিক ঘটনা; তাই miraculous = বিস্ময়কর = amazing. ‘that miraculous blue’ = সেই অপূর্ব নীল।"
+  },
+  {
+   "q": "The word ‘interruption’ mentioned in the passage means —",
+   "opts": [
+    "Introduction",
+    "Continuation",
+    "Connection",
+    "Intervention"
+   ],
+   "ans": 3,
+   "why": "Interruption = কাজের মাঝে বাধা = intervention. প্যাসেজে বলা হয়েছে কুড়ালের শব্দ বৃষ্টির মতোই — বাধা মনে হয়নি।"
+  },
+  {
+   "q": "The boy was ___ twelve years old.",
+   "opts": [
+    "Unerringly",
+    "Certainly",
+    "Precisely",
+    "Approximately"
+   ],
+   "ans": 3,
+   "why": "‘The boy was **probably** twelve years old’ — probably = approximately (আনুমানিক)। Certainly বা precisely বললে নিশ্চয়তা বোঝাত, যা লেখিকা বলেননি।"
+  },
+  {
+   "q": "Jerry is not —",
+   "opts": [
+    "reliable",
+    "clumsy",
+    "undernourished",
+    "impoverished"
+   ],
+   "ans": 1,
+   "why": "জেরি নির্ভরযোগ্য (reliable), অপুষ্ট (undersized/undernourished) এবং দরিদ্র (ছেঁড়া শার্ট, খালি পা) — কিন্তু সে মোটেও **আনাড়ি নয়**; তার কুড়ালের আঘাত ছিল ছন্দময় ও দক্ষ।"
+  },
+  {
+   "q": "The phrase ‘insist on’ implies —",
+   "opts": [
+    "Formal request",
+    "Taking part",
+    "Forceful demand",
+    "Removal of something"
+   ],
+   "ans": 2,
+   "why": "Insist on = দৃঢ়ভাবে দাবি করা / জোর দেওয়া = forceful demand."
+  },
+  {
+   "q": "The cabin was —",
+   "opts": [
+    "Far away from the orphanage",
+    "Close to the orphanage",
+    "Inside the orphanage",
+    "Behind the orphanage"
+   ],
+   "ans": 0,
+   "why": "‘…half a mile beyond the orphanage farm’ — খামার ছাড়িয়ে আরও আধা মাইল দূরে, অর্থাৎ আশ্রম থেকে দূরে।"
+  },
+  {
+   "q": "During what season did the story take place?",
+   "opts": [
+    "spring",
+    "fall",
+    "summer",
+    "winter"
+   ],
+   "ans": 1,
+   "why": "‘I was there in the **autumn**’ — আমেরিকান ইংরেজিতে autumn-কেই ‘fall’ বলা হয়। অক্টোবরের ম্যাপল পাতাও শরতের প্রমাণ।"
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "Why did the authoress choose the Carolina mountains as the setting of her story?",
+   "a": "The authoress chose the Carolina mountains for three reasons. First, she wanted quiet and isolation so that she might finish some troublesome writing. Secondly, she wanted the fresh mountain air to blow the malaria out of her body after too long a stay in the subtropics. Thirdly, she was homesick for the flaming maples of October, for corn shocks, pumpkins and black-walnut trees, and she found them all near the orphanage cabin. The lonely mountain setting also suits the quiet, tender story of the orphan boy.",
+   "bn": "লেখিকা তিনটি কারণে ক্যারোলিনা পাহাড়কে বেছে নিয়েছিলেন — কঠিন লেখার জন্য নিস্তব্ধতা ও নির্জনতা, উপক্রান্তীয় অঞ্চলে দীর্ঘ বসবাসের পর ম্যালেরিয়া তাড়াতে পাহাড়ি বাতাস, এবং অক্টোবরের ম্যাপল, ভুট্টার আঁটি ও আখরোট গাছের জন্য মনকেমন করা। নির্জন পাহাড়ি পটভূমি অনাথ বালকের কোমল গল্পের সঙ্গেও মানানসই।"
+  },
+  {
+   "q": "What kind of story is this? How could you tell its literary genre?",
+   "a": "This is a piece of narrative fiction — a short story told in the first person by the writer herself. Several signs prove the genre: it has a definite setting (an orphanage in the Carolina mountains in autumn), a narrator with feelings, a character named Jerry, dialogue in direct speech, and vivid imagery such as ‘the flaming of maples’ and eyes ‘like the mountain sky when rain is pending’. Since it describes human emotion and relationship rather than facts, it is clearly a literary, not an informative, text.",
+   "bn": "এটি একটি আখ্যানধর্মী কথাসাহিত্য — লেখিকার নিজের জবানিতে বলা একটি ছোটগল্প। নির্দিষ্ট পটভূমি, অনুভূতিপ্রবণ কথক, জেরি নামের চরিত্র, প্রত্যক্ষ সংলাপ এবং ‘flaming of maples’, ‘eyes like the mountain sky’-এর মতো চিত্রকল্প — এসবই প্রমাণ করে এটি তথ্যমূলক নয়, সাহিত্যিক রচনা।"
+  },
+  {
+   "q": "“Size doesn't matter, chopping wood.” — What does it imply?",
+   "a": "The boy's simple remark carries a deep truth: real ability does not depend on physical size. Though he was undersized and barefooted, he had been chopping wood at the orphanage for a long time, and some of the bigger boys, he said, could not chop well. His words imply that skill, practice and determination matter more than appearance. The splendid pile of solid wood that he cut in an hour and a half proved his claim completely true.",
+   "bn": "বালকটির সরল কথায় গভীর সত্য লুকিয়ে আছে: প্রকৃত সামর্থ্য দেহের আকারের ওপর নির্ভর করে না। সে ছোটখাটো হলেও দীর্ঘদিন কাঠ কেটেছে, অথচ বড় ছেলেদের কেউ কেউ ভালো কাটতে পারে না। অর্থাৎ চেহারার চেয়ে দক্ষতা, অভ্যাস ও সংকল্পই বড় — দেড় ঘণ্টায় কাটা কাঠের স্তূপই তার প্রমাণ।"
+  },
+  {
+   "q": "Why is the wood chopping but ‘a consistent rain’, according to the authoress?",
+   "a": "The authoress uses a simile here. The boy's axe-strokes were rhythmic and steady, never irregular or noisy, so the sound became a soft, unbroken background just like the sound of continuous rain. A steady rain does not disturb a person; rather it soothes and is soon forgotten. In the same way the writer forgot the boy altogether and went on with her work for an hour and a half. The comparison thus praises the boy's skill and quiet efficiency.",
+   "bn": "এখানে লেখিকা একটি উপমা ব্যবহার করেছেন। ছেলেটির কুড়ালের আঘাত ছিল ছন্দময় ও স্থির, ফলে শব্দটি একটানা বৃষ্টির মতো নরম ও অবিচ্ছিন্ন পটভূমি হয়ে গিয়েছিল। একটানা বৃষ্টি যেমন বিরক্ত করে না, বরং ভুলিয়ে দেয়, তেমনি লেখিকাও তাকে ভুলে দেড় ঘণ্টা কাজ করে গেলেন — এই তুলনাই তার নিপুণতার প্রশংসা।"
+  },
+  {
+   "q": "Why was Jerry speechless after receiving the reward?",
+   "a": "Jerry was speechless because he was moved by something greater than money. He looked at the authoress and then at the coin, seemed to want to speak, but could not. He had probably not expected such warm words as ‘You've done as much as a man’ and ‘thank you very much’; being an orphan, he was starved of affection and recognition rather than of money. His silence therefore expresses gratitude, shyness and a deep, unspoken need for love.",
+   "bn": "জেরি নিরুত্তর হয়ে গিয়েছিল, কারণ অর্থের চেয়েও বড় কিছুতে সে আপ্লুত হয়েছিল। ‘তুমি একজন পুরুষের সমান কাজ করেছ’ এবং ‘অনেক ধন্যবাদ’ — এমন উষ্ণ কথা সে হয়তো আশা করেনি। অনাথ হওয়ায় তার অভাব ছিল অর্থের নয়, স্নেহ ও স্বীকৃতির। তাই তার নীরবতাই কৃতজ্ঞতা, লজ্জা ও ভালোবাসার নিঃশব্দ আকুতি।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "What / Who",
+   "Event / Occurrence",
+   "Why / When",
+   "Where"
+  ],
+  "rows": [
+   [
+    "The authoress",
+    "stayed",
+    "(i) @in the autumn",
+    "in a cabin belonging to the orphanage"
+   ],
+   [
+    "She",
+    "wanted quiet and isolation",
+    "(ii) @to do some troublesome writing",
+    "in the Carolina mountains"
+   ],
+   [
+    "(iii) @She",
+    "also wanted mountain air",
+    "(iv) @to blow out the malaria from too long a time in the subtropics",
+    "in the mountains"
+   ],
+   [
+    "She",
+    "was homesick too",
+    "for the flaming of maples",
+    "(v) @in October"
+   ],
+   [
+    "She",
+    "found her (vi) @cabin",
+    "(vii) @half a mile beyond the orphanage farm",
+    "in the Carolina mountains"
+   ],
+   [
+    "Taking a cabin, she",
+    "asked for someone",
+    "(viii) @to chop wood for the fireplace",
+    "(ix) @at the cabin"
+   ],
+   [
+    "(x) @Her pointer dog (her companion)",
+    "had not barked",
+    "to warn her",
+    "at the door"
+   ]
+  ],
+  "note": "সাহিত্যিক প্যাসেজের টেবিলে বর্ণনামূলক phrase বসে — ‘in the autumn’, ‘to do some troublesome writing’ — সবসময় preposition-সহ পুরো phrase লিখবে।"
+ },
+ "flow": {
+  "title": "Why the Authoress Was in the Carolina Mountains &amp; What She Was Homesick for",
+  "items": [
+   {
+    "t": "Needed quiet isolation",
+    "bn": "নিস্তব্ধতা ও নির্জনতা প্রয়োজন ছিল (দেওয়া আছে)"
+   },
+   {
+    "t": "To do some troublesome writing",
+    "bn": "কষ্টসাধ্য লেখার কাজ শেষ করতে"
+   },
+   {
+    "t": "To let mountain air blow out the malaria",
+    "bn": "পাহাড়ি বাতাসে ম্যালেরিয়া তাড়াতে"
+   },
+   {
+    "t": "Homesick for the flaming of maples in October",
+    "bn": "অক্টোবরের আগুনরাঙা ম্যাপলের জন্য মনকেমন"
+   },
+   {
+    "t": "Homesick for corn shocks and pumpkins",
+    "bn": "ভুট্টার আঁটি ও কুমড়োর জন্য"
+   },
+   {
+    "t": "Homesick for black-walnut trees",
+    "bn": "কালো আখরোট গাছের জন্য"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "Literary Devices <span class='sub'>— সাহিত্যিক অলংকার (এই গল্পের প্রাণ)</span>",
+   "key": "Devices",
+   "table": {
+    "headers": [
+     "Line from the text",
+     "Device",
+     "What it does"
+    ],
+    "rows": [
+     [
+      "“the sound no more of an interruption than a consistent rain”",
+      "Simile",
+      "@শব্দকে বৃষ্টির সঙ্গে তুলনা — বালকের নিপুণতা বোঝায়"
+     ],
+     [
+      "“his eyes… were like the mountain sky when rain is pending”",
+      "Simile",
+      "@চোখের সরলতা ও বিষণ্নতা ফুটিয়ে তোলে"
+     ],
+     [
+      "“the flaming of maples in October”",
+      "Imagery / Metaphor",
+      "@শরতের রঙিন দৃশ্য চোখের সামনে আনে"
+     ],
+     [
+      "“His hair was the colour of the corn shocks”",
+      "Imagery",
+      "@বালকটিকে প্রকৃতিরই অংশ করে তোলে"
+     ],
+     [
+      "“an astonishing amount of solid wood”",
+      "Hyperbole-like emphasis",
+      "@বিস্ময় ও প্রশংসা প্রকাশ করে"
+     ],
+     [
+      "“seemed to want to speak, but could not”",
+      "Understatement",
+      "@না-বলা আবেগই সবচেয়ে জোরালো"
+     ]
+    ]
+   },
+   "note": "‘What literary devices does the writer use?’ — এই প্রশ্ন প্রায়ই আসে। **Simile ও Imagery** দুটি নাম উদাহরণসহ লিখলেই ৩ নম্বর।"
+  },
+  {
+   "title": "Character Sketch of Jerry <span class='sub'>— জেরির চরিত্র</span>",
+   "key": "Jerry",
+   "table": {
+    "headers": [
+     "Trait",
+     "Evidence from the passage"
+    ],
+    "rows": [
+     [
+      "Small but strong",
+      "Twelve years old and undersized, yet ‘you've done as much as a man'"
+     ],
+     [
+      "Skilful",
+      "Rhythmic, steady blows; ‘some of the big boys don't chop good'"
+     ],
+     [
+      "Self-confident",
+      "‘Size don't matter, chopping wood.’"
+     ],
+     [
+      "Experienced",
+      "‘I've been chopping wood at the orphanage a long time.’"
+     ],
+     [
+      "Poor",
+      "Overalls, a torn shirt, barefooted"
+     ],
+     [
+      "Honest and direct",
+      "His eyes were ‘very direct'"
+     ],
+     [
+      "Emotionally starved",
+      "Wanted to speak after being thanked, but could not"
+     ],
+     [
+      "Trusted by animals",
+      "The pointer dog stood beside him and did not bark"
+     ]
+    ]
+   },
+   "note": "কুকুরের না-ঘেউ-করাটি ছোট একটি বিবরণ, কিন্তু এটিই বোঝায় জেরি নিরীহ ও বিশ্বাসযোগ্য — উত্তরে এটি লিখলে পরীক্ষক মুগ্ধ হন।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "📖",
+   "t": "Literary passage = read twice",
+   "d": "প্রথমবার গল্প বোঝার জন্য, দ্বিতীয়বার শব্দ ও উপমার জন্য পড়ো। সাহিত্যিক প্যাসেজে অর্থ সরাসরি লেখা থাকে না।"
+  },
+  {
+   "em": "🎨",
+   "t": "Learn two devices by name",
+   "d": "Simile (like/as দিয়ে তুলনা) আর Imagery (ইন্দ্রিয়গ্রাহ্য বর্ণনা) — এই দুটি নাম ও উদাহরণ মুখস্থ রাখলে ৩ নম্বরের প্রশ্ন নিশ্চিত।"
+  },
+  {
+   "em": "🔇",
+   "t": "Silence carries meaning",
+   "type": "ok",
+   "d": "‘seemed to want to speak, but could not’ — শেষ বাক্যটিই গল্পের মূল আবেগ। ‘Why was Jerry speechless?’ প্রশ্নে অনাথের স্নেহের অভাবের কথা লিখবে।"
+  },
+  {
+   "em": "🐕",
+   "t": "Notice small details",
+   "type": "warn",
+   "d": "কুকুরটি ঘেউ ঘেউ করেনি, ছেলেটি খালি পায়ে — এই ছোট বিবরণ থেকেই MCQ ও চরিত্র-বিশ্লেষণ আসে।"
+  },
+  {
+   "em": "🗣️",
+   "t": "Grammar of dialogue",
+   "d": "‘Size don't matter’ — এটি ব্যাকরণগতভাবে ভুল, কিন্তু ইচ্ছাকৃত: গ্রামের অশিক্ষিত বালকের মুখের ভাষা বোঝাতে। উত্তরে এটি ব্যাখ্যা করলে বাড়তি নম্বর।"
+  },
+  {
+   "em": "🍂",
+   "t": "Autumn = fall",
+   "d": "আমেরিকান ইংরেজিতে autumn = fall. ঋতু-সংক্রান্ত MCQ-তে এই সমার্থকটি জানা থাকলে ভুল হবে না।"
+  }
+ ],
+ "recap": [
+  "পটভূমি: ক্যারোলিনা পাহাড়ের অনাথ আশ্রম, শরৎকাল; লেখিকা কুটিরে থাকতে এসেছিলেন।",
+  "তিনটি কারণ: নির্জনতা (লেখার জন্য), পাহাড়ি বাতাস (ম্যালেরিয়া), স্বদেশের জন্য মনকেমন।",
+  "জেরি: বারো বছর, ছোটখাটো, খালি পায়ে — তবু ‘as much as a man’ কাজ করেছে।",
+  "উপমা: কুড়ালের শব্দ = একটানা বৃষ্টি; চোখ = বৃষ্টির আগের পাহাড়ি আকাশ।",
+  "শেষ দৃশ্য: টাকা পেয়ে জেরি কিছু বলতে চেয়েও পারল না — অর্থ নয়, স্নেহের ক্ষুধাই মূল ভাব।"
+ ],
+ "homework": [
+  "জেরির চরিত্র-বিশ্লেষণ ৮টি বৈশিষ্ট্যসহ লিখে আনবে।",
+  "গল্পের ২টি simile ও ২টি imagery খুঁজে খাতায় লিখবে।",
+  "‘Why was Jerry speechless?’ — উত্তরটি নিজের ভাষায় লিখবে।",
+  "Summary ১৪০ শব্দে লিখে আনবে।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

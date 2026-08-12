@@ -1,0 +1,782 @@
+{
+ "id": "adolescence-stages",
+ "unit": "Unit 03",
+ "unitName": "Adolescence",
+ "title": "Adolescence — Stages of Human Growth",
+ "titleBn": "কৈশোর — মানব বিকাশের স্তরসমূহ",
+ "lede": "মানুষের জীবনের চার-পাঁচটি ধাপ, WHO-এর সংজ্ঞায় কৈশোর, বয়ঃসন্ধির সূচনা এবং কৈশোরের সম্ভাবনা ও ঝুঁকি — বোর্ড পরীক্ষার সবচেয়ে বেশি আসা Seen Passage.",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 45,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Read the passage with correct pausing",
+   "d": "১৪টি বাক্য — নম্বর ধরে ধরে পড়া ও বোঝা"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "প্রতিটি বাক্যের নির্ভুল বাংলা অর্থ"
+  },
+  {
+   "t": "18 key words + Synonym & Antonym",
+   "d": "onset, puberty, determinant, maturation ইত্যাদি"
+  },
+  {
+   "t": "Summary in English + বাংলা",
+   "d": "১০ নম্বরের মডেল সারাংশ লেখার কাঠামো"
+  },
+  {
+   "t": "10 MCQ with reasoning",
+   "d": "কেন এই উত্তর — প্রতিটির যুক্তিসহ ব্যাখ্যা"
+  },
+  {
+   "t": "5 Short Questions (3×5)",
+   "d": "বোর্ড-মানের মডেল উত্তর"
+  },
+  {
+   "t": "Information Transfer Table",
+   "d": "১০টি খালিঘরের সম্পূর্ণ সমাধান"
+  },
+  {
+   "t": "Flow Chart + Exam Tricks",
+   "d": "৫ নম্বরের ফ্লো-চার্ট ও সময় বাঁচানোর কৌশল"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — The stages of growth",
+   "s": [
+    {
+     "en": "Children must pass through several ==stages== in their lives to become adults.",
+     "bn": "প্রাপ্তবয়স্ক হয়ে ওঠার জন্য শিশুদেরকে জীবনে অবশ্যই কয়েকটি ==ধাপ== পেরিয়ে যেতে হয়।"
+    },
+    {
+     "en": "For most people, there are four or five such stages of growth where they learn certain things: ==infancy== (birth to age 2), early childhood (3 to 8 years), later childhood (9 to 12 years) and ==adolescence== (13 to 18 years).",
+     "bn": "অধিকাংশ মানুষের ক্ষেত্রে বেড়ে ওঠার এমন চার বা পাঁচটি ধাপ থাকে, যেখানে তারা নির্দিষ্ট কিছু বিষয় শেখে: ==শৈশব== (জন্ম থেকে ২ বছর), প্রারম্ভিক বাল্যকাল (৩ থেকে ৮ বছর), পরবর্তী বাল্যকাল (৯ থেকে ১২ বছর) এবং ==কৈশোর== (১৩ থেকে ১৮ বছর)।"
+    },
+    {
+     "en": "Persons 18 and over are considered adults in our society.",
+     "bn": "আমাদের সমাজে ১৮ বছর ও তার বেশি বয়সের ব্যক্তিদের প্রাপ্তবয়স্ক হিসেবে গণ্য করা হয়।"
+    },
+    {
+     "en": "Of course, there are some who will try to act older than their years.",
+     "bn": "অবশ্য, কেউ কেউ আছে যারা নিজেদের বয়সের চেয়ে বড় সেজে আচরণ করার চেষ্টা করে।"
+    },
+    {
+     "en": "But, for the most part, most individuals have to go through these stages ==irrespective of== their economic or social status.",
+     "bn": "কিন্তু বেশিরভাগ ক্ষেত্রেই, অর্থনৈতিক বা সামাজিক অবস্থান ==নির্বিশেষে== অধিকাংশ মানুষকেই এই ধাপগুলোর মধ্য দিয়ে যেতে হয়।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — WHO's definition of adolescence",
+   "s": [
+    {
+     "en": "World Health Organisation (WHO) identifies adolescence as the period in human growth and development that occurs ==after childhood and before adulthood==.",
+     "bn": "বিশ্ব স্বাস্থ্য সংস্থা (WHO) কৈশোরকে চিহ্নিত করে মানব বৃদ্ধি ও বিকাশের সেই সময়কাল হিসেবে, যা ==বাল্যকালের পরে এবং প্রাপ্তবয়স্ক হওয়ার আগে== ঘটে।"
+    },
+    {
+     "en": "This phase represents one of the ==critical transitions== in one's life span and is characterized by fast paced growth and change which are ==second only to those at infancy==.",
+     "bn": "এই পর্যায়টি একজন মানুষের জীবনকালের অন্যতম ==গুরুত্বপূর্ণ পরিবর্তনকাল== এবং এটি দ্রুতগতির বৃদ্ধি ও পরিবর্তনের দ্বারা চিহ্নিত, যা ==কেবল শৈশবকালের বৃদ্ধির চেয়েই কম== (অর্থাৎ শৈশবের পরেই দ্বিতীয় দ্রুততম)।"
+    },
+    {
+     "en": "Biological processes drive many aspects of this growth and development with the ==onset of puberty== marking the passage from childhood to adolescence.",
+     "bn": "জৈবিক প্রক্রিয়াগুলো এই বৃদ্ধি ও বিকাশের বহু দিক পরিচালনা করে, আর ==বয়ঃসন্ধির সূচনা== বাল্যকাল থেকে কৈশোরে উত্তরণকে চিহ্নিত করে।"
+    },
+    {
+     "en": "The biological determinants of adolescence are ==fairly universal==; however, the duration and defining characteristics of this period may ==vary across time, cultures, and socio-economic situations==.",
+     "bn": "কৈশোরের জৈবিক নির্ধারকগুলো ==মোটামুটি সর্বজনীন==; তবে এই সময়কালের স্থায়িত্ব ও নির্ধারক বৈশিষ্ট্যগুলো ==সময়, সংস্কৃতি এবং আর্থ-সামাজিক অবস্থাভেদে ভিন্ন হতে পারে==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — Changes over the past century",
+   "s": [
+    {
+     "en": "This period has seen many changes over the past century — puberty, for example, comes earlier than before, people marry late, and their sexual attitudes and behaviours are different from their grandparents, or even parents.",
+     "bn": "গত শতাব্দীতে এই সময়কালে অনেক পরিবর্তন এসেছে — যেমন, বয়ঃসন্ধি আগের চেয়ে আগেভাগে আসে, মানুষ দেরিতে বিয়ে করে, এবং তাদের যৌন দৃষ্টিভঙ্গি ও আচরণ তাদের দাদা-দাদির, এমনকি বাবা-মায়ের চেয়েও আলাদা।"
+    },
+    {
+     "en": "Among the factors responsible for the change are ==education, urbanization and spread of global communication==.",
+     "bn": "এই পরিবর্তনের জন্য দায়ী কারণগুলোর মধ্যে রয়েছে ==শিক্ষা, নগরায়ণ এবং বৈশ্বিক যোগাযোগের বিস্তার==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 4 — Preparation for adulthood",
+   "s": [
+    {
+     "en": "The time of adolescence is a ==period of preparation for adulthood== during which one experiences several key developments.",
+     "bn": "কৈশোরকাল হলো ==প্রাপ্তবয়স্ক জীবনের জন্য প্রস্তুতির সময়==, যে সময়ে একজন মানুষ কয়েকটি গুরুত্বপূর্ণ বিকাশের অভিজ্ঞতা লাভ করে।"
+    },
+    {
+     "en": "Besides physical and sexual maturation, these experiences include movement toward social and economic independence, development of identity, the acquisition of skills needed to carry out adult relationships and roles and the capacity for abstract reasoning.",
+     "bn": "শারীরিক ও যৌন পরিপক্বতা ছাড়াও এই অভিজ্ঞতাগুলোর মধ্যে রয়েছে সামাজিক ও অর্থনৈতিক স্বাধীনতার দিকে অগ্রসর হওয়া, নিজস্ব পরিচয় গড়ে ওঠা, প্রাপ্তবয়স্ক সম্পর্ক ও দায়িত্ব পালনের জন্য প্রয়োজনীয় দক্ষতা অর্জন এবং বিমূর্তভাবে চিন্তা করার ক্ষমতা।"
+    },
+    {
+     "en": "While adolescence is a time of ==tremendous growth and potential==, it is also a time of ==considerable risks== during which social contexts exert powerful influences.",
+     "bn": "কৈশোর যেমন ==বিপুল বিকাশ ও সম্ভাবনার== সময়, তেমনি এটি ==যথেষ্ট ঝুঁকিরও== সময়, যখন সামাজিক পরিবেশ প্রবল প্রভাব বিস্তার করে।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "adolescence",
+   "pos": "noun",
+   "pron": "/ˌædəˈlesns/",
+   "bn": "কৈশোর, বয়ঃসন্ধিকাল (১৩–১৮ বছর)",
+   "en": "the period between childhood and adulthood",
+   "ex": "Adolescence is a critical transition in one's life span."
+  },
+  {
+   "w": "infancy",
+   "pos": "noun",
+   "pron": "/ˈɪnfənsi/",
+   "bn": "শৈশবকাল (জন্ম থেকে ২ বছর)",
+   "en": "the earliest period of life",
+   "ex": "Growth is fastest during infancy."
+  },
+  {
+   "w": "stage",
+   "pos": "noun",
+   "pron": "/steɪdʒ/",
+   "bn": "ধাপ, স্তর, পর্যায়",
+   "en": "a point or period in a process of development",
+   "ex": "Children pass through several stages."
+  },
+  {
+   "w": "irrespective of",
+   "pos": "phrase",
+   "pron": "/ˌɪrɪˈspektɪv/",
+   "bn": "নির্বিশেষে, না গণ্য করে",
+   "en": "without considering; regardless of",
+   "ex": "…irrespective of their economic or social status."
+  },
+  {
+   "w": "transition",
+   "pos": "noun",
+   "pron": "/trænˈzɪʃn/",
+   "bn": "উত্তরণ, পরিবর্তনকাল",
+   "en": "the process of changing from one state to another",
+   "ex": "One of the critical transitions in life."
+  },
+  {
+   "w": "phase",
+   "pos": "noun",
+   "pron": "/feɪz/",
+   "bn": "পর্ব, পর্যায়",
+   "en": "a distinct stage in a series of events",
+   "ex": "This phase represents a critical transition."
+  },
+  {
+   "w": "characterized by",
+   "pos": "phrase",
+   "pron": "/ˈkærəktəraɪzd/",
+   "bn": "…দ্বারা চিহ্নিত / বৈশিষ্ট্যযুক্ত",
+   "en": "having as a typical or noticeable feature",
+   "ex": "It is characterized by fast paced growth."
+  },
+  {
+   "w": "onset",
+   "pos": "noun",
+   "pron": "/ˈɒnset/",
+   "bn": "সূচনা, শুরু",
+   "en": "the beginning of something, especially something unpleasant or important",
+   "ex": "the onset of puberty"
+  },
+  {
+   "w": "puberty",
+   "pos": "noun",
+   "pron": "/ˈpjuːbəti/",
+   "bn": "বয়ঃসন্ধি",
+   "en": "the stage at which a person becomes sexually mature",
+   "ex": "Puberty comes earlier than before."
+  },
+  {
+   "w": "determinant",
+   "pos": "noun",
+   "pron": "/dɪˈtɜːmɪnənt/",
+   "bn": "নির্ধারক, নিয়ামক",
+   "en": "a factor that decides or fixes something",
+   "ex": "The biological determinants are fairly universal."
+  },
+  {
+   "w": "fairly",
+   "pos": "adverb",
+   "pron": "/ˈfeəli/",
+   "bn": "মোটামুটি, কিছুটা, খানিকটা",
+   "en": "to some extent, but not very",
+   "ex": "The determinants are fairly universal."
+  },
+  {
+   "w": "universal",
+   "pos": "adj",
+   "pron": "/ˌjuːnɪˈvɜːsl/",
+   "bn": "সর্বজনীন, বিশ্বজনীন",
+   "en": "true or right at all times and in all places",
+   "ex": "Biological changes are universal."
+  },
+  {
+   "w": "duration",
+   "pos": "noun",
+   "pron": "/djuˈreɪʃn/",
+   "bn": "স্থায়িত্বকাল, ব্যাপ্তি",
+   "en": "the length of time something continues",
+   "ex": "The duration of this period may vary."
+  },
+  {
+   "w": "urbanization",
+   "pos": "noun",
+   "pron": "/ˌɜːbənaɪˈzeɪʃn/",
+   "bn": "নগরায়ণ, শহরায়ন",
+   "en": "the process of making an area more urban",
+   "ex": "Urbanization is a factor behind the change."
+  },
+  {
+   "w": "maturation",
+   "pos": "noun",
+   "pron": "/ˌmætʃəˈreɪʃn/",
+   "bn": "পরিপক্বতা লাভ",
+   "en": "the process of becoming fully developed",
+   "ex": "physical and sexual maturation"
+  },
+  {
+   "w": "acquisition",
+   "pos": "noun",
+   "pron": "/ˌækwɪˈzɪʃn/",
+   "bn": "অর্জন, লাভ",
+   "en": "the act of gaining a skill or possession",
+   "ex": "the acquisition of skills"
+  },
+  {
+   "w": "abstract reasoning",
+   "pos": "phrase",
+   "pron": "/ˈæbstrækt/",
+   "bn": "বিমূর্ত চিন্তা করার ক্ষমতা",
+   "en": "thinking about ideas rather than concrete objects",
+   "ex": "the capacity for abstract reasoning"
+  },
+  {
+   "w": "exert",
+   "pos": "verb",
+   "pron": "/ɪɡˈzɜːt/",
+   "bn": "প্রয়োগ করা, বিস্তার করা",
+   "en": "to apply influence, force or pressure",
+   "ex": "Social contexts exert powerful influences."
+  }
+ ],
+ "synant": [
+  {
+   "w": "adolescence",
+   "bn": "কৈশোর",
+   "syn": [
+    "teenage",
+    "youth",
+    "puberty"
+   ],
+   "ant": [
+    "adulthood",
+    "maturity",
+    "old age"
+   ]
+  },
+  {
+   "w": "infancy",
+   "bn": "শৈশব",
+   "syn": [
+    "babyhood",
+    "early childhood"
+   ],
+   "ant": [
+    "adulthood",
+    "maturity"
+   ]
+  },
+  {
+   "w": "critical",
+   "bn": "সংকটপূর্ণ, গুরুত্বপূর্ণ",
+   "syn": [
+    "crucial",
+    "vital",
+    "decisive"
+   ],
+   "ant": [
+    "trivial",
+    "unimportant",
+    "minor"
+   ]
+  },
+  {
+   "w": "fairly",
+   "bn": "মোটামুটি",
+   "syn": [
+    "moderately",
+    "reasonably",
+    "to some extent"
+   ],
+   "ant": [
+    "completely",
+    "entirely",
+    "absolutely"
+   ]
+  },
+  {
+   "w": "universal",
+   "bn": "সর্বজনীন",
+   "syn": [
+    "global",
+    "common",
+    "worldwide"
+   ],
+   "ant": [
+    "local",
+    "particular",
+    "individual"
+   ]
+  },
+  {
+   "w": "onset",
+   "bn": "সূচনা",
+   "syn": [
+    "beginning",
+    "start",
+    "commencement"
+   ],
+   "ant": [
+    "end",
+    "conclusion",
+    "termination"
+   ]
+  },
+  {
+   "w": "vary",
+   "bn": "ভিন্ন হওয়া",
+   "syn": [
+    "differ",
+    "change",
+    "fluctuate"
+   ],
+   "ant": [
+    "remain static",
+    "stay same",
+    "fix"
+   ]
+  },
+  {
+   "w": "tremendous",
+   "bn": "বিপুল",
+   "syn": [
+    "enormous",
+    "immense",
+    "huge"
+   ],
+   "ant": [
+    "tiny",
+    "negligible",
+    "slight"
+   ]
+  },
+  {
+   "w": "considerable",
+   "bn": "উল্লেখযোগ্য",
+   "syn": [
+    "significant",
+    "substantial",
+    "notable"
+   ],
+   "ant": [
+    "insignificant",
+    "trifling",
+    "negligible"
+   ]
+  },
+  {
+   "w": "acquisition",
+   "bn": "অর্জন",
+   "syn": [
+    "attainment",
+    "gaining",
+    "procurement"
+   ],
+   "ant": [
+    "loss",
+    "forfeiture",
+    "surrender"
+   ]
+  },
+  {
+   "w": "exert",
+   "bn": "প্রয়োগ করা",
+   "syn": [
+    "apply",
+    "wield",
+    "employ"
+   ],
+   "ant": [
+    "withhold",
+    "restrain"
+   ]
+  },
+  {
+   "w": "irrespective of",
+   "bn": "নির্বিশেষে",
+   "syn": [
+    "regardless of",
+    "notwithstanding"
+   ],
+   "ant": [
+    "depending on",
+    "considering"
+   ]
+  }
+ ],
+ "summaryEn": "Human beings grow up through four or five clear stages — infancy, early childhood, later childhood and adolescence — and, whatever their economic or social status may be, almost everyone has to pass through them before being treated as an adult at eighteen. The World Health Organisation defines adolescence as the period of growth that comes after childhood but before adulthood. It is one of the most critical transitions of life, marked by rapid growth that is second only to infancy and driven by biological processes, with the onset of puberty signalling the change. Though these biological determinants are fairly universal, the length and features of adolescence differ with time, culture and socio-economic condition; because of education, urbanization and global communication, puberty now begins earlier and people marry later than their forefathers did. Essentially adolescence is a preparation for adulthood, during which a young person moves towards social and economic independence, forms an identity, acquires adult skills and develops the power of abstract reasoning. Therefore it is a time of tremendous growth and potential, but also of considerable risk, because the surrounding social context exerts a powerful influence on the adolescent.",
+ "summaryBn": "মানুষ চার-পাঁচটি সুস্পষ্ট ধাপে বড় হয় — শৈশব, প্রারম্ভিক বাল্যকাল, পরবর্তী বাল্যকাল এবং কৈশোর; অর্থনৈতিক বা সামাজিক অবস্থান যেমনই হোক, আঠারো বছরে প্রাপ্তবয়স্ক হিসেবে গণ্য হওয়ার আগে প্রায় সবাইকেই এই ধাপগুলো পেরোতে হয়। বিশ্ব স্বাস্থ্য সংস্থার সংজ্ঞায় কৈশোর হলো বাল্যকালের পরে ও প্রাপ্তবয়স্কতার আগের বৃদ্ধিকাল। এটি জীবনের অন্যতম গুরুত্বপূর্ণ উত্তরণকাল — এ সময়ের দ্রুত বৃদ্ধি কেবল শৈশবের চেয়েই কম, আর এই বৃদ্ধি পরিচালিত হয় জৈবিক প্রক্রিয়ার দ্বারা, যার সূচনা ঘটায় বয়ঃসন্ধি। জৈবিক নির্ধারকগুলো মোটামুটি সর্বজনীন হলেও কৈশোরের দৈর্ঘ্য ও বৈশিষ্ট্য সময়, সংস্কৃতি ও আর্থ-সামাজিক অবস্থাভেদে বদলায়; শিক্ষা, নগরায়ণ ও বৈশ্বিক যোগাযোগের কারণে এখন বয়ঃসন্ধি আগেভাগে আসে এবং মানুষ পূর্বপুরুষদের চেয়ে দেরিতে বিয়ে করে। মূলত কৈশোর হলো প্রাপ্তবয়স্ক জীবনের প্রস্তুতিকাল — এ সময়ে তরুণ-তরুণী সামাজিক ও অর্থনৈতিক স্বাধীনতার দিকে এগোয়, নিজের পরিচয় গড়ে তোলে, প্রয়োজনীয় দক্ষতা অর্জন করে এবং বিমূর্ত চিন্তার ক্ষমতা লাভ করে। তাই এটি একদিকে বিপুল সম্ভাবনার সময়, অন্যদিকে যথেষ্ট ঝুঁকিরও সময়, কারণ চারপাশের সমাজ এ সময়ে প্রবল প্রভাব ফেলে।",
+ "summaryTip": "**Summary লেখার নিয়ম:** মূল প্যাসেজের প্রায় **এক-তৃতীয়াংশ** দৈর্ঘ্য, **একটিমাত্র প্যারাগ্রাফ**, **নিজের ভাষায়**, **third person**-এ, কোনো উদাহরণ/পরিসংখ্যান/উদ্ধৃতি নয় এবং নিজের মতামত নয়। এখানে ১৪টি বাক্য থেকে ৭টি মূল ভাব নেওয়া হয়েছে।",
+ "mcq": [
+  {
+   "q": "The most complicated stage in human life is —",
+   "opts": [
+    "infancy",
+    "adolescence",
+    "adulthood",
+    "old age"
+   ],
+   "ans": 1,
+   "why": "প্যাসেজে কৈশোরকে বলা হয়েছে ‘one of the critical transitions’ এবং ‘a time of considerable risks’ — তাই সবচেয়ে জটিল/স্পর্শকাতর ধাপ হলো adolescence."
+  },
+  {
+   "q": "“The biological determinants of adolescence are fairly universal.” Here the word ‘fairly’ means —",
+   "opts": [
+    "finely",
+    "forcefully",
+    "to some extent",
+    "completely"
+   ],
+   "ans": 2,
+   "why": "‘Fairly’ মানে সম্পূর্ণভাবে নয়, বরং ‘মোটামুটি / কিছুটা’ — তাই ‘to some extent’. মনে রেখো, ‘fairly’ কখনোই ‘completely’ নয়; এটাই এখানে ফাঁদ।"
+  },
+  {
+   "q": "Adolescence is —",
+   "opts": [
+    "a stage of life",
+    "a grooming period of life",
+    "last stage for becoming an adult",
+    "last stage of life"
+   ],
+   "ans": 2,
+   "why": "প্যাসেজে ধাপগুলোর ক্রম দেওয়া আছে — infancy → early childhood → later childhood → adolescence, তারপর ১৮ বছরে adulthood. তাই কৈশোরই প্রাপ্তবয়স্ক হওয়ার **শেষ ধাপ**. (i) সত্য হলেও অতি সাধারণ; MCQ-তে সবচেয়ে **সুনির্দিষ্ট** option বেছে নিতে হয়।"
+  },
+  {
+   "q": "Adolescence usually starts at the age of —",
+   "opts": [
+    "eight",
+    "nine",
+    "twelve",
+    "thirteen"
+   ],
+   "ans": 3,
+   "why": "প্যাসেজে সরাসরি লেখা — adolescence (13 to 18 years). সংখ্যাভিত্তিক প্রশ্নের উত্তর সবসময় লাইনের ভেতরেই পাওয়া যায়।"
+  },
+  {
+   "q": "WHO stands for —",
+   "opts": [
+    "World Humans Organisation",
+    "World Humanity Organism",
+    "World Health Organisation",
+    "World Higher Organisation"
+   ],
+   "ans": 2,
+   "why": "প্যাসেজের দ্বিতীয় প্যারার প্রথম বাক্যেই পূর্ণরূপ দেওয়া আছে — World Health Organisation."
+  },
+  {
+   "q": "Duration of each stage of human life —",
+   "opts": [
+    "are static",
+    "may vary",
+    "is same everywhere",
+    "is universal"
+   ],
+   "ans": 1,
+   "why": "‘…the duration and defining characteristics of this period **may vary** across time, cultures, and socio-economic situations.’ — হুবহু লাইনটিই উত্তর।"
+  },
+  {
+   "q": "The pace of growth at adolescence is fast, but less fast than that at —",
+   "opts": [
+    "infancy",
+    "early childhood",
+    "later childhood",
+    "adulthood"
+   ],
+   "ans": 0,
+   "why": "‘second only to those at infancy’ = শৈশবের বৃদ্ধিই সবচেয়ে দ্রুত, কৈশোর দ্বিতীয়। তাই কৈশোরের গতি শৈশবের চেয়ে কম।"
+  },
+  {
+   "q": "The most sensitive stage in human life is —",
+   "opts": [
+    "infancy",
+    "childhood",
+    "adolescence",
+    "maturity"
+   ],
+   "ans": 2,
+   "why": "কৈশোরেই ‘social contexts exert powerful influences’ এবং ‘considerable risks’ থাকে — তাই এটিই সবচেয়ে স্পর্শকাতর ধাপ।"
+  },
+  {
+   "q": "To become adults, children have —",
+   "opts": [
+    "to get proper education",
+    "to have good intelligence",
+    "to be social",
+    "to pass several stages of life"
+   ],
+   "ans": 3,
+   "why": "প্যাসেজের একেবারে প্রথম বাক্য — ‘Children must pass through several stages in their lives to become adults.’"
+  },
+  {
+   "q": "Most of the growth and development occurs during —",
+   "opts": [
+    "infancy",
+    "childhood",
+    "later childhood",
+    "adolescence"
+   ],
+   "ans": 0,
+   "why": "সাবধান! কৈশোরের বৃদ্ধি ‘second only to those at **infancy**’ — অর্থাৎ সর্বোচ্চ বৃদ্ধি ঘটে শৈশবে, কৈশোরে নয়। এটিই এই প্যাসেজের সবচেয়ে বড় ফাঁদ-প্রশ্ন।"
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "Define adolescence in your own words.",
+   "a": "Adolescence is the transitional stage of human life that begins at about thirteen and continues up to eighteen, that is, it lies between childhood and adulthood. According to the World Health Organisation it is a critical period of rapid physical, mental and emotional growth which starts with the onset of puberty. During this time a young person prepares for adult life by moving towards social and economic independence, forming an identity and acquiring adult skills.",
+   "bn": "কৈশোর হলো মানব জীবনের সেই উত্তরণকাল যা প্রায় তেরো বছরে শুরু হয়ে আঠারো বছর পর্যন্ত চলে, অর্থাৎ এটি বাল্যকাল ও প্রাপ্তবয়স্কতার মাঝামাঝি সময়। WHO-এর মতে এটি দ্রুত শারীরিক, মানসিক ও আবেগীয় বিকাশের একটি গুরুত্বপূর্ণ সময়, যার সূচনা হয় বয়ঃসন্ধির মাধ্যমে।"
+  },
+  {
+   "q": "What are the experiences an adolescent undergoes?",
+   "a": "An adolescent undergoes both physical and sexual maturation. Besides these, he or she moves towards social and economic independence, develops a personal identity, acquires the skills that are needed to carry out adult relationships and roles, and gains the capacity for abstract reasoning. At the same time the adolescent faces considerable risks, because the surrounding social context exerts a powerful influence upon him.",
+   "bn": "একজন কিশোর শারীরিক ও যৌন পরিপক্বতা লাভ করে। এছাড়াও সে সামাজিক ও অর্থনৈতিক স্বাধীনতার দিকে এগোয়, নিজের পরিচয় গড়ে তোলে, প্রাপ্তবয়স্ক সম্পর্ক ও দায়িত্ব পালনের দক্ষতা অর্জন করে এবং বিমূর্ত চিন্তার ক্ষমতা পায়। পাশাপাশি সামাজিক প্রভাবের কারণে নানা ঝুঁকিরও মুখোমুখি হয়।"
+  },
+  {
+   "q": "Mention the stages of growth from childhood to adulthood.",
+   "a": "According to the passage there are four or five stages of growth. They are infancy, which lasts from birth to the age of two; early childhood, from three to eight years; later childhood, from nine to twelve years; and adolescence, from thirteen to eighteen years. After the age of eighteen a person is considered an adult in our society, and almost everybody has to pass through these stages irrespective of economic or social status.",
+   "bn": "প্যাসেজ অনুযায়ী বৃদ্ধির চার বা পাঁচটি ধাপ আছে — শৈশব (জন্ম থেকে ২ বছর), প্রারম্ভিক বাল্যকাল (৩–৮ বছর), পরবর্তী বাল্যকাল (৯–১২ বছর) এবং কৈশোর (১৩–১৮ বছর)। আঠারো বছরের পর একজনকে প্রাপ্তবয়স্ক ধরা হয়।"
+  },
+  {
+   "q": "“Adolescence is a time of tremendous growth and potential.” — Describe in brief.",
+   "a": "The expression means that adolescence is the richest period of human development. During this time growth is extremely fast, second only to that of infancy, and biological processes shape the body and the mind. A young person develops identity, independence, adult skills and the power of abstract reasoning; hence enormous possibilities open before him. If this potential is properly guided, an adolescent can build a bright future, but if it is neglected the same period may lead him to serious risks.",
+   "bn": "কথাটির অর্থ হলো, কৈশোর মানব বিকাশের সবচেয়ে সমৃদ্ধ সময়। এ সময়ে বৃদ্ধি অত্যন্ত দ্রুত হয় এবং জৈবিক প্রক্রিয়া দেহ-মন গড়ে তোলে। এ সময়ে গড়ে ওঠে পরিচয়, স্বাধীনতা, দক্ষতা ও চিন্তাশক্তি — ফলে বিপুল সম্ভাবনার দ্বার খুলে যায়। সঠিক দিকনির্দেশনা পেলে সে উজ্জ্বল ভবিষ্যৎ গড়তে পারে, আর অবহেলিত হলে ঝুঁকিতে পড়ে।"
+  },
+  {
+   "q": "Which significant developments do the adolescents experience?",
+   "a": "Adolescents experience several significant developments. Physically and sexually they mature; socially and economically they begin to move towards independence; psychologically they develop their own identity and the capacity for abstract reasoning; and practically they acquire the skills needed to perform adult roles and relationships. These developments together prepare them for adulthood.",
+   "bn": "কিশোর-কিশোরীরা কয়েকটি গুরুত্বপূর্ণ বিকাশের অভিজ্ঞতা পায় — শারীরিক ও যৌন পরিপক্বতা, সামাজিক ও অর্থনৈতিক স্বাধীনতার দিকে অগ্রসর হওয়া, নিজস্ব পরিচয় ও বিমূর্ত চিন্তার ক্ষমতা অর্জন এবং প্রাপ্তবয়স্ক ভূমিকা পালনের দক্ষতা লাভ। এসবই তাদের প্রাপ্তবয়স্ক জীবনের জন্য প্রস্তুত করে।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "What / Who",
+   "Events / Occurrences",
+   "What / Where",
+   "When / How"
+  ],
+  "rows": [
+   [
+    "According to the identification of WHO",
+    "(i) @adolescence is considered",
+    "the period in human growth and development",
+    "that occurs (ii) @after childhood and before adulthood"
+   ],
+   [
+    "(iii) @This phase (adolescence)",
+    "is characterized",
+    "by (iv) @fast paced growth and change",
+    "in one's life span"
+   ],
+   [
+    "(v) @Biological processes",
+    "drive many aspects of",
+    "human (vi) @growth and development",
+    "with the onset of puberty from childhood to adolescence"
+   ],
+   [
+    "(vii) @The duration and defining characteristics of adolescence",
+    "may vary",
+    "across (viii) @time, cultures and socio-economic situations",
+    "over the past century"
+   ],
+   [
+    "The period of adolescence",
+    "has met many changes",
+    "for example (ix) @puberty comes earlier than before",
+    "(x) @people marry late / their sexual attitudes and behaviours are different from their grandparents"
+   ]
+  ],
+  "note": "খালিঘরে passage-এর হুবহু শব্দগুচ্ছ বসাও — নিজের ভাষায় ঘুরিয়ে লিখলে নম্বর কাটা যায়।"
+ },
+ "flow": {
+  "title": "Traits of Adolescence — কৈশোরের বৈশিষ্ট্যসমূহ",
+  "items": [
+   {
+    "t": "Period in human growth and development",
+    "bn": "মানব বৃদ্ধি ও বিকাশের একটি সময়কাল (দেওয়া আছে)"
+   },
+   {
+    "t": "Occurs after childhood and before adulthood",
+    "bn": "বাল্যকালের পরে ও প্রাপ্তবয়স্কতার আগে"
+   },
+   {
+    "t": "One of the critical transitions in one's life span",
+    "bn": "জীবনের অন্যতম গুরুত্বপূর্ণ উত্তরণকাল"
+   },
+   {
+    "t": "Characterized by fast paced growth and change",
+    "bn": "দ্রুতগতির বৃদ্ধি ও পরিবর্তনে চিহ্নিত"
+   },
+   {
+    "t": "Driven by biological processes with the onset of puberty",
+    "bn": "বয়ঃসন্ধিসহ জৈবিক প্রক্রিয়ায় পরিচালিত"
+   },
+   {
+    "t": "A time of tremendous potential as well as considerable risks",
+    "bn": "বিপুল সম্ভাবনার পাশাপাশি যথেষ্ট ঝুঁকির সময়"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "Stages of Human Life <span class='sub'>— এক নজরে (মুখস্থ রাখার টেবিল)</span>",
+   "key": "Stages Table",
+   "table": {
+    "headers": [
+     "Stage",
+     "Age Range",
+     "বাংলা নাম",
+     "Key point from passage"
+    ],
+    "rows": [
+     [
+      "Infancy",
+      "Birth – 2 years",
+      "@শৈশবকাল",
+      "Fastest growth of all stages"
+     ],
+     [
+      "Early childhood",
+      "3 – 8 years",
+      "@প্রারম্ভিক বাল্যকাল",
+      "Basic learning begins"
+     ],
+     [
+      "Later childhood",
+      "9 – 12 years",
+      "@পরবর্তী বাল্যকাল",
+      "Just before puberty"
+     ],
+     [
+      "Adolescence",
+      "13 – 18 years",
+      "@কৈশোর / বয়ঃসন্ধিকাল",
+      "Second fastest growth; critical transition"
+     ],
+     [
+      "Adulthood",
+      "18 years and over",
+      "@প্রাপ্তবয়স্ককাল",
+      "Legally and socially an adult"
+     ]
+    ]
+   },
+   "note": "**পরীক্ষায় সবচেয়ে বেশি আসা তথ্য:** কোন ধাপ কোন বয়সে, আর কোন ধাপে বৃদ্ধি সবচেয়ে দ্রুত (উত্তর: infancy)।"
+  },
+  {
+   "title": "Causes &amp; Effects <span class='sub'>— কারণ ও ফলাফল (Short Question-এর জন্য)</span>",
+   "key": "Cause–Effect",
+   "table": {
+    "headers": [
+     "Change in adolescence today",
+     "Reason mentioned in the passage"
+    ],
+    "rows": [
+     [
+      "Puberty comes earlier than before",
+      "Better nutrition, education and changed lifestyle"
+     ],
+     [
+      "People marry late",
+      "Education and economic preparation"
+     ],
+     [
+      "Sexual attitudes differ from parents/grandparents",
+      "Urbanization and spread of global communication"
+     ],
+     [
+      "Duration of adolescence varies",
+      "Time, culture and socio-economic situation"
+     ]
+    ]
+   },
+   "note": "Short Question-এ ‘Why/How’ ধরনের প্রশ্ন এলে এই তিনটি factor — **education, urbanization, global communication** — অবশ্যই উল্লেখ করবে।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🎯",
+   "t": "First read the questions, then the passage",
+   "d": "প্রথমে প্রশ্ন পড়ে নাও — তাহলে প্যাসেজ পড়ার সময়ই উত্তরের জায়গাগুলো চোখে পড়বে। সময় বাঁচবে ৫–৭ মিনিট।"
+  },
+  {
+   "em": "🔍",
+   "t": "‘Closest meaning’ = replace and read",
+   "d": "শব্দটির জায়গায় প্রতিটি option বসিয়ে বাক্যটি পড়ো। যেটি বসালে অর্থ অটুট থাকে, সেটিই উত্তর।"
+  },
+  {
+   "em": "⚠️",
+   "t": "Beware of ‘second only to’",
+   "type": "warn",
+   "d": "‘second only to X’ মানে **X-ই সবচেয়ে বেশি**, এটি দ্বিতীয়। এই এক লাইন থেকেই দুটি ফাঁদ-MCQ আসে।"
+  },
+  {
+   "em": "✍️",
+   "t": "3-mark answer = 3 sentences",
+   "d": "১টি সরাসরি উত্তর + ১টি passage থেকে প্রমাণ + ১টি ব্যাখ্যা — এই কাঠামোতে লিখলে পুরো ৩ পাও।"
+  },
+  {
+   "em": "📋",
+   "t": "Table: copy the exact phrase",
+   "type": "ok",
+   "d": "Information transfer-এ passage-এর হুবহু phrase বসাও, পুরো বাক্য নয়। Grammar মিলিয়ে দেখো (verb form, preposition)।"
+  },
+  {
+   "em": "⏱️",
+   "t": "Time budget for Q.1–3",
+   "d": "MCQ ৫ মিনিট · Short Q ১৫ মিনিট · Table/Flow chart ৭ মিনিট · Summary ১৩ মিনিট — মোট ৪০ মিনিট।"
+  },
+  {
+   "em": "🧠",
+   "t": "Never copy sentences in Summary",
+   "type": "warn",
+   "d": "Summary-তে হুবহু বাক্য তুলে দিলে নম্বর কাটা যায়। Synonym দিয়ে বদলে নিজের বাক্যে লেখো।"
+  },
+  {
+   "em": "🗂️",
+   "t": "Flow chart = short phrases",
+   "d": "ফ্লো-চার্টে পূর্ণ বাক্য নয়, ৩–৭ শব্দের phrase লেখো এবং passage-এর ক্রম বজায় রাখো।"
+  }
+ ],
+ "recap": [
+  "মানুষের জীবনের ধাপ ৪–৫টি: infancy → early childhood → later childhood → adolescence → adulthood (18+).",
+  "WHO-এর সংজ্ঞা: কৈশোর = বাল্যকালের পরে, প্রাপ্তবয়স্কতার আগে।",
+  "বৃদ্ধির গতি: সবচেয়ে বেশি infancy-তে, দ্বিতীয় adolescence-এ (‘second only to’)।",
+  "পরিবর্তনের কারণ ৩টি: education, urbanization, spread of global communication.",
+  "কৈশোর = tremendous potential + considerable risks — দুটোই একসাথে লিখলে পূর্ণ নম্বর।"
+ ],
+ "homework": [
+  "প্যাসেজটির ১৪টি বাক্য বাংলা অর্থসহ খাতায় লিখে আনবে।",
+  "১৮টি শব্দের Synonym ও Antonym মুখস্থ করে ছোট Vocabulary test দেবে।",
+  "Summary-টি না দেখে নিজের ভাষায় ১১০–১২০ শব্দে লিখে আনবে।",
+  "Flow chart-এর ৬টি ঘর নিজে পূরণ করে আনবে।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

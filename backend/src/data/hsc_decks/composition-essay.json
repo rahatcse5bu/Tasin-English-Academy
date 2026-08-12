@@ -1,0 +1,382 @@
+{
+ "id": "composition-essay",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part B",
+ "unitName": "Composition — Writing",
+ "title": "Composition / Essay Writing",
+ "titleBn": "রচনা লেখা",
+ "lede": "ভূমিকা, মূল অংশ ও উপসংহার — তিনটি স্তম্ভ। বিষয় যাই হোক, কাঠামো এক; তাই কাঠামো মুখস্থ করলেই যেকোনো রচনা লেখা যায়।",
+ "qType": "Composition — Composition / Essay Writing",
+ "minutes": 55,
+ "marks": "10",
+ "rulesTitle": "রচনার কাঠামো ও নিয়ম",
+ "rulesPerSlide": 3,
+ "objectives": [
+  {
+   "t": "Three pillars",
+   "d": "ভূমিকা → মূল অংশ → উপসংহার"
+  },
+  {
+   "t": "Plan before you write",
+   "d": "২ মিনিটের পরিকল্পনায় ৮ নম্বর"
+  },
+  {
+   "t": "One idea, one paragraph",
+   "d": "প্রতি অনুচ্ছেদে একটি ভাব"
+  },
+  {
+   "t": "Linkers &amp; quotations",
+   "d": "ভাষার নম্বর যেখানে লুকানো"
+  },
+  {
+   "t": "A full model outline",
+   "d": "অংশে অংশে বিশ্লেষণসহ"
+  },
+  {
+   "t": "Common topics",
+   "d": "পরিবেশ, শিক্ষা, প্রযুক্তি, দেশপ্রেম"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Structure",
+   "name": "ভূমিকা (Introduction)",
+   "bn": "প্রথম অনুচ্ছেদে বিষয়ের **পরিচয়** — সংজ্ঞা, প্রেক্ষাপট বা একটি উদ্ধৃতি দিয়ে শুরু করা যায়। ৩–৪ বাক্যই যথেষ্ট।",
+   "formula": "definition / quotation / background",
+   "ex": "==Environment means everything that surrounds us.=="
+  },
+  {
+   "no": "02",
+   "tag": "Structure",
+   "name": "মূল অংশ (Body)",
+   "bn": "**৩–৫টি অনুচ্ছেদ**, প্রতিটিতে একটি করে ভাব — কারণ, ফলাফল, উদাহরণ, সমাধান। প্রতিটি অনুচ্ছেদের প্রথম বাক্যই তার topic sentence।",
+   "formula": "one idea per paragraph",
+   "ex": "অনুচ্ছেদ ১: কারণ · অনুচ্ছেদ ২: ফলাফল · অনুচ্ছেদ ৩: সমাধান"
+  },
+  {
+   "no": "03",
+   "tag": "Structure",
+   "name": "উপসংহার (Conclusion)",
+   "bn": "শেষ অনুচ্ছেদে **সারসংক্ষেপ ও করণীয়**। নতুন তথ্য যোগ করা যাবে না।",
+   "formula": "In conclusion / To sum up , … should …",
+   "ex": "==In conclusion==, we must all work together to save our environment."
+  },
+  {
+   "no": "04",
+   "tag": "Method",
+   "name": "লেখার আগে ২ মিনিটের পরিকল্পনা",
+   "bn": "খাতার পাশে **পয়েন্ট আকারে** ৫–৬টি ভাব লিখে নাও, তারপর লেখা শুরু করো। এতে লেখা গোছালো হয় এবং কিছু বাদ পড়ে না।",
+   "formula": "outline → then write",
+   "ex": "১. সংজ্ঞা ২. কারণ ৩. ফল ৪. উদাহরণ ৫. সমাধান ৬. উপসংহার"
+  },
+  {
+   "no": "05",
+   "tag": "Language",
+   "name": "প্রতিটি অনুচ্ছেদে topic sentence",
+   "bn": "প্রতিটি অনুচ্ছেদ শুরু হবে একটি **মূল বাক্য** দিয়ে, তারপর সেটির ব্যাখ্যা ও উদাহরণ।",
+   "formula": "topic sentence → explanation → example",
+   "ex": "==There are many causes of environmental pollution.== First, …"
+  },
+  {
+   "no": "06",
+   "tag": "Language",
+   "name": "Linker ব্যবহার",
+   "bn": "অনুচ্ছেদের মধ্যে ও অনুচ্ছেদের মাঝে সংযোগ রাখতে **Firstly, Moreover, In addition, However, As a result, Finally** ব্যবহার করো।",
+   "formula": "Firstly · Moreover · However · Finally",
+   "ex": "==Firstly==, … ==Moreover==, … ==Finally==, …"
+  },
+  {
+   "no": "07",
+   "tag": "Language",
+   "name": "উদ্ধৃতি ও প্রবাদ",
+   "bn": "একটি উপযুক্ত উদ্ধৃতি বা প্রবাদ রচনাকে সমৃদ্ধ করে — তবে **একটি বা দুটিই যথেষ্ট**, বেশি হলে কৃত্রিম লাগে।",
+   "formula": "one apt quotation",
+   "ex": "==“Health is wealth”== — এই প্রবাদটি আজও সমান সত্য।"
+  },
+  {
+   "no": "08",
+   "tag": "Rule",
+   "name": "প্রাসঙ্গিক থাকো",
+   "bn": "বিষয়ের বাইরে কিছু লিখলে নম্বর বাড়ে না, বরং সময় নষ্ট হয়। প্রতিটি অনুচ্ছেদ বিষয়ের সাথে সরাসরি যুক্ত হতে হবে।",
+   "formula": "stay on the topic",
+   "ex": "মুখস্থ রচনা হুবহু বসিয়ে দিয়ো না — প্রশ্ন অনুযায়ী সাজাও।"
+  },
+  {
+   "no": "09",
+   "tag": "Rule",
+   "name": "দৈর্ঘ্য",
+   "bn": "সাধারণত **২৫০–৩০০ শব্দ, ৫–৬টি অনুচ্ছেদ**। খুব বড় রচনা লিখতে গিয়ে অন্য প্রশ্নের সময় নষ্ট কোরো না।",
+   "formula": "250–300 words · 5–6 paragraphs",
+   "ex": "পরিমাণ নয়, মান দেখে নম্বর দেওয়া হয়।"
+  },
+  {
+   "no": "10",
+   "tag": "Marks",
+   "name": "নম্বর কোথায় থাকে",
+   "bn": "১০ নম্বরের বণ্টন — **বিষয়বস্তু ৪, ভাষা ৩, কাঠামো ২, বানান ও যতিচিহ্ন ১**। তাই তথ্যের পাশাপাশি ভাষাও গুরুত্বপূর্ণ।",
+   "formula": "Content 4 · Language 3 · Structure 2 · Spelling 1",
+   "ex": "পরিচ্ছন্ন হাতের লেখা ও স্পষ্ট অনুচ্ছেদ-বিভাজন বাড়তি সুবিধা দেয়।"
+  }
+ ],
+ "boardQ": {
+  "instruction": "Write a composition on “Environmental Pollution”. — “পরিবেশ দূষণ” বিষয়ে একটি রচনা লেখো। (10)",
+  "text": "Model outline — প্রতিটি ঘর এক-একটি অনুচ্ছেদ।",
+  "items": [
+   {
+    "ans": "Introduction: Environment means everything that surrounds us — air, water, soil and living beings.",
+    "why": "**ভূমিকা** — সংজ্ঞা দিয়ে শুরু। (নিয়ম ০১)"
+   },
+   {
+    "ans": "Today this environment is being polluted in many ways, which is a matter of great concern.",
+    "why": "ভূমিকার দ্বিতীয় বাক্যে সমস্যার ইঙ্গিত। (নিয়ম ০১)"
+   },
+   {
+    "ans": "Para 2 — Causes: There are many causes of environmental pollution.",
+    "why": "**Topic sentence** দিয়ে অনুচ্ছেদ শুরু। (নিয়ম ০৫)"
+   },
+   {
+    "ans": "Mills and factories emit smoke; vehicles release poisonous gases; polythene and chemical waste pollute water and soil.",
+    "why": "কারণের উদাহরণ — নির্দিষ্ট ও বাস্তব। (নিয়ম ০২)"
+   },
+   {
+    "ans": "Para 3 — Effects: Pollution has a serious effect on our health and nature.",
+    "why": "নতুন অনুচ্ছেদ, নতুন ভাব। (নিয়ম ০২)"
+   },
+   {
+    "ans": "As a result, people suffer from various diseases and the balance of nature is destroyed.",
+    "why": "**As a result** — ফলাফলসূচক linker। (নিয়ম ০৬)"
+   },
+   {
+    "ans": "Para 4 — Remedies: However, this problem can be solved if we all become aware.",
+    "why": "**However** দিয়ে সমাধানে উত্তরণ। (নিয়ম ০৬)"
+   },
+   {
+    "ans": "Mills should be set up far from residential areas and the use of polythene must be banned.",
+    "why": "সমাধান — সুনির্দিষ্ট পদক্ষেপ। (নিয়ম ০২)"
+   },
+   {
+    "ans": "Moreover, tree plantation programmes should be taken on a large scale.",
+    "why": "**Moreover** — অতিরিক্ত সমাধান। (নিয়ম ০৬)"
+   },
+   {
+    "ans": "Conclusion: In conclusion, we must all come forward to save our environment for the next generation.",
+    "why": "**উপসংহার** — সারসংক্ষেপ ও করণীয়; নতুন তথ্য নয়। (নিয়ম ০৩)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — ভূমিকা লেখো",
+   "intro": "প্রতিটি বিষয়ের প্রথম বাক্যটি বলো।",
+   "items": [
+    {
+     "q": "Environmental Pollution",
+     "ans": "Environment means everything that surrounds us.",
+     "why": "সংজ্ঞা দিয়ে শুরু। (০১)"
+    },
+    {
+     "q": "Value of Education",
+     "ans": "Education is the backbone of a nation.",
+     "why": "প্রবাদতুল্য বাক্য। (০১, ০৭)"
+    },
+    {
+     "q": "Uses and Abuses of Internet",
+     "ans": "The internet is one of the greatest wonders of modern science.",
+     "why": "প্রেক্ষাপট দিয়ে শুরু। (০১)"
+    },
+    {
+     "q": "Patriotism",
+     "ans": "Patriotism means love for one’s own country.",
+     "why": "সংজ্ঞা। (০১)"
+    },
+    {
+     "q": "Female Education",
+     "ans": "Female education means the education of girls and women.",
+     "why": "সংজ্ঞা। (০১)"
+    },
+    {
+     "q": "Physical Exercise",
+     "ans": "“Health is wealth” — physical exercise is the key to good health.",
+     "why": "উদ্ধৃতি দিয়ে শুরু। (০৭)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — অনুচ্ছেদ পরিকল্পনা",
+   "intro": "প্রতিটি বিষয়ের জন্য মূল অংশের ৩টি অনুচ্ছেদের ভাব বলো।",
+   "items": [
+    {
+     "q": "Environmental Pollution",
+     "ans": "কারণ → ফলাফল → প্রতিকার",
+     "why": "সমস্যা-ভিত্তিক বিষয়ের আদর্শ ছক। (০২)"
+    },
+    {
+     "q": "Value of Education",
+     "ans": "শিক্ষা কী দেয় → জাতির উন্নয়নে ভূমিকা → বর্তমান অবস্থা ও করণীয়",
+     "why": "গুণ-ভিত্তিক বিষয়। (০২)"
+    },
+    {
+     "q": "Uses and Abuses of Internet",
+     "ans": "উপকারিতা → অপব্যবহার → করণীয়",
+     "why": "দ্বিমুখী বিষয়। (০২)"
+    },
+    {
+     "q": "Female Education",
+     "ans": "প্রয়োজনীয়তা → বাধা → সমাধান",
+     "why": "সামাজিক বিষয়। (০২)"
+    },
+    {
+     "q": "Tree Plantation",
+     "ans": "উপকারিতা → বৃক্ষনিধনের ফল → করণীয়",
+     "why": "পরিবেশ বিষয়। (০২)"
+    },
+    {
+     "q": "Duties of a Student",
+     "ans": "পড়াশোনা → শৃঙ্খলা ও চরিত্র → সমাজের প্রতি দায়িত্ব",
+     "why": "ব্যক্তিকেন্দ্রিক বিষয়। (০২)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "Essay skeleton <span class='sub'>— যেকোনো রচনায় খাটে</span>",
+   "key": "Skeleton",
+   "table": {
+    "headers": [
+     "অনুচ্ছেদ",
+     "কী লিখবে",
+     "শুরু করার শব্দ"
+    ],
+    "rows": [
+     [
+      "১ · ভূমিকা",
+      "@সংজ্ঞা / প্রেক্ষাপট / উদ্ধৃতি",
+      "X means … / “Quotation” …"
+     ],
+     [
+      "২ · কারণ বা গুরুত্ব",
+      "@কেন এটি ঘটে বা কেন জরুরি",
+      "There are many causes of …"
+     ],
+     [
+      "৩ · ফলাফল বা উপকার",
+      "@কী ফল হয়",
+      "As a result, … / It helps us …"
+     ],
+     [
+      "৪ · সমস্যা / বর্তমান অবস্থা",
+      "@এখন কী অবস্থা",
+      "However, the present situation is …"
+     ],
+     [
+      "৫ · সমাধান / করণীয়",
+      "@কী করা উচিত",
+      "Steps should be taken to …"
+     ],
+     [
+      "৬ · উপসংহার",
+      "@সারসংক্ষেপ ও আহ্বান",
+      "In conclusion, … / To sum up, …"
+     ]
+    ]
+   },
+   "note": "**বিষয় বদলায়, কাঠামো বদলায় না** — এই ছয়টি ঘর ভরাতে পারলেই ২৫০ শব্দের রচনা তৈরি।"
+  },
+  {
+   "title": "Useful quotations <span class='sub'>— রচনায় ব্যবহারের জন্য</span>",
+   "key": "Quotations",
+   "table": {
+    "headers": [
+     "বিষয়",
+     "উদ্ধৃতি / প্রবাদ"
+    ],
+    "rows": [
+     [
+      "শিক্ষা",
+      "@“Education is the backbone of a nation.”"
+     ],
+     [
+      "স্বাস্থ্য",
+      "@“Health is wealth.”"
+     ],
+     [
+      "পরিশ্রম",
+      "@“Industry is the key to success.”"
+     ],
+     [
+      "সময়",
+      "@“Time and tide wait for none.”"
+     ],
+     [
+      "ঐক্য",
+      "@“Unity is strength.”"
+     ],
+     [
+      "দেশপ্রেম",
+      "@“Breathes there the man with soul so dead / Who never to himself hath said, This is my own, my native land!”"
+     ],
+     [
+      "প্রকৃতি",
+      "@“Nature never did betray the heart that loved her.” — Wordsworth"
+     ],
+     [
+      "সততা",
+      "@“Honesty is the best policy.”"
+     ]
+    ]
+   },
+   "note": "প্রতিটি রচনায় **একটি উদ্ধৃতিই যথেষ্ট** — ভূমিকা বা উপসংহারে বসালে সবচেয়ে ভালো লাগে।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "📝",
+   "t": "Two minutes of planning saves ten",
+   "d": "লেখার আগে পয়েন্ট আকারে ৫–৬টি ভাব লিখে নাও — লেখা গোছালো হবে ও কিছু বাদ পড়বে না।",
+   "type": "ok"
+  },
+  {
+   "em": "🧱",
+   "t": "One idea per paragraph",
+   "d": "প্রতিটি অনুচ্ছেদে একটি করে ভাব। সব মিশিয়ে একটানা লিখলে কাঠামোর ২ নম্বর যায়।",
+   "type": "warn"
+  },
+  {
+   "em": "🔗",
+   "t": "Link your paragraphs",
+   "d": "Firstly, Moreover, However, As a result, Finally — অনুচ্ছেদগুলো জুড়ে দিলে লেখা পরিণত মনে হয়।"
+  },
+  {
+   "em": "💬",
+   "t": "One quotation is enough",
+   "d": "একটি উপযুক্ত উদ্ধৃতি রচনাকে সমৃদ্ধ করে; তিন-চারটি দিলে কৃত্রিম শোনায়।"
+  },
+  {
+   "em": "🎯",
+   "t": "Answer the given topic",
+   "d": "মুখস্থ রচনা হুবহু বসিয়ে দিয়ো না। প্রশ্নের শব্দগুলো নিজের লেখায় ফিরিয়ে আনো।",
+   "type": "warn"
+  },
+  {
+   "em": "🕒",
+   "t": "Time budget: 18 minutes",
+   "d": "২ মিনিট পরিকল্পনা, ১৪ মিনিট লেখা, ২ মিনিট বানান ও যতিচিহ্ন যাচাই।"
+  }
+ ],
+ "recap": [
+  "তিনটি স্তম্ভ: ভূমিকা → মূল অংশ (৩–৫ অনুচ্ছেদ) → উপসংহার।",
+  "লেখার আগে ২ মিনিটে পয়েন্ট আকারে পরিকল্পনা।",
+  "প্রতিটি অনুচ্ছেদে একটি ভাব ও একটি topic sentence।",
+  "Linker ও একটি উদ্ধৃতি ভাষার নম্বর বাড়ায়।",
+  "২৫০–৩০০ শব্দ; নম্বর: বিষয়বস্তু ৪ + ভাষা ৩ + কাঠামো ২ + বানান ১।"
+ ],
+ "homework": [
+  "Essay skeleton-এর ছয়টি ঘর মুখস্থ করবে।",
+  "আটটি উদ্ধৃতি খাতায় লিখবে।",
+  "“Environmental Pollution” রচনাটি না দেখে লিখবে।",
+  "“Value of Education” ও “Uses and Abuses of Internet” — দুটি রচনা লিখে আনবে।"
+ ],
+ "paper": "paper2"
+}

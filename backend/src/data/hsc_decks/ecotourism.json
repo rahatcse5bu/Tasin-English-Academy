@@ -1,0 +1,778 @@
+{
+ "id": "ecotourism",
+ "unit": "Unit 11",
+ "unitName": "Nature and Environment",
+ "title": "An Introduction to Ecotourism",
+ "titleBn": "পরিবেশবান্ধব পর্যটন — একটি পরিচিতি",
+ "lede": "Ecotourism কী, প্রচলিত পর্যটন থেকে কীভাবে আলাদা, TIES-এর ৬টি নীতি এবং কোমোডো ন্যাশনাল পার্কের বাস্তব উদাহরণ।",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 45,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Define ecotourism precisely",
+   "d": "‘low impact travel to endangered and often undisturbed locations’"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "১৪টি বাক্যের বাংলা অর্থ"
+  },
+  {
+   "t": "Memorise the six TIES principles",
+   "d": "৬টি নীতি — প্রশ্ন প্রায় নিশ্চিত"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "conservation, impoverished, biodiversity, accommodation…"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Section 1 — An Introduction to Ecotourism",
+   "s": [
+    {
+     "en": "Ecotourism is broadly defined as ==low impact travel to endangered and often undisturbed locations==.",
+     "bn": "ইকোট্যুরিজমকে ব্যাপকভাবে সংজ্ঞায়িত করা হয় ==বিপন্ন এবং প্রায়শই অবিকৃত স্থানে স্বল্প-ক্ষতিকর ভ্রমণ== হিসেবে।"
+    },
+    {
+     "en": "It is ==different from traditional tourism== because it allows the traveller to ==become educated about the areas they visit== in terms of the ==physical landscape and cultural characteristics==.",
+     "bn": "এটি ==প্রচলিত পর্যটন থেকে ভিন্ন==, কারণ এটি ভ্রমণকারীকে সে যে অঞ্চলে যায় সেই অঞ্চলের ==ভূপ্রকৃতি ও সাংস্কৃতিক বৈশিষ্ট্য== সম্পর্কে ==জ্ঞান অর্জনের সুযোগ দেয়==।"
+    },
+    {
+     "en": "It often ==provides funds for conservation== and benefits the ==economic development of places that are often impoverished==.",
+     "bn": "এটি প্রায়ই ==সংরক্ষণের জন্য অর্থ জোগায়== এবং ==প্রায়শই দরিদ্র এলাকাগুলোর অর্থনৈতিক উন্নয়নে== সহায়তা করে।"
+    }
+   ]
+  },
+  {
+   "tag": "Section 2 — Principles of Ecotourism",
+   "s": [
+    {
+     "en": "Due to the ==growing popularity of environmentally-related and adventure travel==, various types of trips are now being ==classified as ecotourism==.",
+     "bn": "==পরিবেশ-সংশ্লিষ্ট ও দুঃসাহসিক ভ্রমণের ক্রমবর্ধমান জনপ্রিয়তার== কারণে এখন নানা ধরনের ভ্রমণকেই ==ইকোট্যুরিজম হিসেবে শ্রেণিবদ্ধ করা হচ্ছে==।"
+    },
+    {
+     "en": "Most of these are ==not truly ecotourism==, however, because they do not emphasize ==conservation, education, low impact travel, and social and cultural participation== in the locations being visited.",
+     "bn": "তবে এগুলোর অধিকাংশই ==প্রকৃত ইকোট্যুরিজম নয়==, কারণ এগুলো ভ্রমণকৃত স্থানে ==সংরক্ষণ, শিক্ষা, স্বল্প-ক্ষতিকর ভ্রমণ এবং সামাজিক ও সাংস্কৃতিক অংশগ্রহণের== ওপর জোর দেয় না।"
+    },
+    {
+     "en": "Therefore, to be considered ecotourism, a trip must meet the following principles set forth by the ==International Ecotourism Society (TIES: 2015)==.",
+     "bn": "তাই ইকোট্যুরিজম হিসেবে গণ্য হতে হলে একটি ভ্রমণকে ==আন্তর্জাতিক ইকোট্যুরিজম সোসাইটি (TIES: ২০১৫)== কর্তৃক নির্ধারিত নিম্নলিখিত নীতিগুলো মেনে চলতে হবে।"
+    },
+    {
+     "en": "**(1)** ==Minimize the impact== of visiting the location (i.e. the use of roads). **(2)** ==Build respect and awareness== of the travellers for the ==environment and cultural practices==. **(3)** ==Ensure positive experiences== for both the ==travellers and the hosts==.",
+     "bn": "**(১)** স্থানটিতে ভ্রমণের ==প্রভাব যথাসম্ভব কমিয়ে আনা== (যেমন রাস্তার ব্যবহার)। **(২)** ভ্রমণকারীদের মধ্যে ==পরিবেশ ও সাংস্কৃতিক রীতির== প্রতি ==শ্রদ্ধা ও সচেতনতা গড়ে তোলা==। **(৩)** ==ভ্রমণকারী ও আতিথেয়তাদানকারী== — উভয়ের জন্যই ==ইতিবাচক অভিজ্ঞতা নিশ্চিত করা==।"
+    },
+    {
+     "en": "**(4)** Provide ==direct financial aid for conservation==. **(5)** Provide ==financial aid, empowerment and other benefits for local peoples==. **(6)** ==Raise the travellers' awareness== of the host country's ==political, environmental and social climate==.",
+     "bn": "**(৪)** ==সংরক্ষণের জন্য সরাসরি আর্থিক সহায়তা== দেওয়া। **(৫)** ==স্থানীয় জনগণের জন্য আর্থিক সহায়তা, ক্ষমতায়ন ও অন্যান্য সুবিধা== নিশ্চিত করা। **(৬)** আতিথেয়তাদানকারী দেশের ==রাজনৈতিক, পরিবেশগত ও সামাজিক পরিস্থিতি== সম্পর্কে ==ভ্রমণকারীদের সচেতনতা বাড়ানো==।"
+    }
+   ]
+  },
+  {
+   "tag": "Section 3 — An Example of Ecotourism",
+   "s": [
+    {
+     "en": "Ecotourism is popular in ==Indonesia at Komodo National Park==.",
+     "bn": "==ইন্দোনেশিয়ার কোমোডো ন্যাশনাল পার্কে== ইকোট্যুরিজম জনপ্রিয়।"
+    },
+    {
+     "en": "The park has an area of ==233 square miles (603 sq. km) of land== that is spread out over ==several islands== and ==469 square miles (1,214 sq. km) of water==.",
+     "bn": "পার্কটির ==স্থলভাগের আয়তন ২৩৩ বর্গমাইল (৬০৩ বর্গকিমি)==, যা ==কয়েকটি দ্বীপজুড়ে== বিস্তৃত, এবং ==জলভাগ ৪৬৯ বর্গমাইল (১,২১৪ বর্গকিমি)==।"
+    },
+    {
+     "en": "The area was ==established as a national park in 1980== and is popular for ecotourism because of its ==unique and endangered biodiversity==.",
+     "bn": "এলাকাটি ==১৯৮০ সালে জাতীয় উদ্যান হিসেবে প্রতিষ্ঠিত হয়== এবং এর ==অনন্য ও বিপন্ন জীববৈচিত্র্যের== কারণে ইকোট্যুরিজমের জন্য জনপ্রিয়।"
+    },
+    {
+     "en": "Activities at Komodo National Park ==vary from whale watching to hiking==.",
+     "bn": "কোমোডো ন্যাশনাল পার্কের কার্যক্রম ==তিমি দেখা থেকে শুরু করে পাহাড়ে হাঁটা পর্যন্ত== বিস্তৃত।"
+    },
+    {
+     "en": "==Tourist accommodations strive to have a low impact== on the natural environment.",
+     "bn": "==পর্যটকদের থাকার ব্যবস্থাগুলোও প্রাকৃতিক পরিবেশে যতটা সম্ভব কম প্রভাব ফেলার চেষ্টা করে==।"
+    },
+    {
+     "en": "Ecotourism is also popular in ==Central and South America==.",
+     "bn": "==মধ্য ও দক্ষিণ আমেরিকাতেও== ইকোট্যুরিজম জনপ্রিয়।"
+    },
+    {
+     "en": "Destinations include ==Bolivia, Brazil, Ecuador, Venezuela, Guatemala and Panama==.",
+     "bn": "গন্তব্যগুলোর মধ্যে রয়েছে ==বলিভিয়া, ব্রাজিল, ইকুয়েডর, ভেনেজুয়েলা, গুয়াতেমালা ও পানামা==।"
+    },
+    {
+     "en": "Apart from these places, opportunities for ecotourism exist in ==hundreds of more places worldwide==.",
+     "bn": "এসব জায়গা ছাড়াও ==বিশ্বজুড়ে আরও শত শত স্থানে== ইকোট্যুরিজমের সুযোগ রয়েছে।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "ecotourism",
+   "pos": "noun",
+   "pron": "/ˈiːkəʊtʊərɪzəm/",
+   "bn": "পরিবেশবান্ধব পর্যটন",
+   "en": "responsible travel to natural areas that conserves the environment",
+   "ex": "Ecotourism is low impact travel."
+  },
+  {
+   "w": "low impact",
+   "pos": "phrase",
+   "pron": "/ləʊ ˈɪmpækt/",
+   "bn": "স্বল্প-ক্ষতিকর, কম প্রভাব ফেলে এমন",
+   "en": "causing little damage to the environment",
+   "ex": "low impact travel"
+  },
+  {
+   "w": "endangered",
+   "pos": "adj",
+   "pron": "/ɪnˈdeɪndʒəd/",
+   "bn": "বিপন্ন, বিলুপ্তির ঝুঁকিতে",
+   "en": "at risk of extinction or destruction",
+   "ex": "endangered locations and biodiversity"
+  },
+  {
+   "w": "undisturbed",
+   "pos": "adj",
+   "pron": "/ˌʌndɪˈstɜːbd/",
+   "bn": "অবিকৃত, অটুট",
+   "en": "not touched or spoiled",
+   "ex": "often undisturbed locations"
+  },
+  {
+   "w": "landscape",
+   "pos": "noun",
+   "pron": "/ˈlændskeɪp/",
+   "bn": "ভূদৃশ্য, প্রাকৃতিক দৃশ্য",
+   "en": "the visible features of an area of land",
+   "ex": "the physical landscape"
+  },
+  {
+   "w": "conservation",
+   "pos": "noun",
+   "pron": "/ˌkɒnsəˈveɪʃn/",
+   "bn": "সংরক্ষণ",
+   "en": "the protection of nature and wildlife",
+   "ex": "It provides funds for conservation."
+  },
+  {
+   "w": "impoverished",
+   "pos": "adj",
+   "pron": "/ɪmˈpɒvərɪʃt/",
+   "bn": "দরিদ্র, নিঃস্ব",
+   "en": "made poor",
+   "ex": "places that are often impoverished"
+  },
+  {
+   "w": "classify",
+   "pos": "verb",
+   "pron": "/ˈklæsɪfaɪ/",
+   "bn": "শ্রেণিবদ্ধ করা",
+   "en": "to arrange into groups",
+   "ex": "trips classified as ecotourism"
+  },
+  {
+   "w": "emphasize",
+   "pos": "verb",
+   "pron": "/ˈemfəsaɪz/",
+   "bn": "গুরুত্ব দেওয়া, জোর দেওয়া",
+   "en": "to give special importance to something",
+   "ex": "They do not emphasize conservation."
+  },
+  {
+   "w": "minimize",
+   "pos": "verb",
+   "pron": "/ˈmɪnɪmaɪz/",
+   "bn": "যথাসম্ভব কমানো",
+   "en": "to reduce to the smallest possible amount",
+   "ex": "Minimize the impact of visiting."
+  },
+  {
+   "w": "empowerment",
+   "pos": "noun",
+   "pron": "/ɪmˈpaʊəmənt/",
+   "bn": "ক্ষমতায়ন",
+   "en": "giving people control over their own lives",
+   "ex": "empowerment for local peoples"
+  },
+  {
+   "w": "host",
+   "pos": "noun",
+   "pron": "/həʊst/",
+   "bn": "আতিথেয়তাদানকারী, স্বাগতিক",
+   "en": "a person or country that receives guests",
+   "ex": "positive experiences for hosts"
+  },
+  {
+   "w": "biodiversity",
+   "pos": "noun",
+   "pron": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+   "bn": "জীববৈচিত্র্য",
+   "en": "the variety of living things in an area",
+   "ex": "unique and endangered biodiversity"
+  },
+  {
+   "w": "accommodation",
+   "pos": "noun",
+   "pron": "/əˌkɒməˈdeɪʃn/",
+   "bn": "থাকার ব্যবস্থা, আবাসন",
+   "en": "a place to stay",
+   "ex": "Tourist accommodations have low impact."
+  },
+  {
+   "w": "strive",
+   "pos": "verb",
+   "pron": "/straɪv/",
+   "bn": "প্রাণপণ চেষ্টা করা",
+   "en": "to try very hard",
+   "ex": "They strive to have a low impact."
+  },
+  {
+   "w": "climate",
+   "pos": "noun",
+   "pron": "/ˈklaɪmət/",
+   "bn": "পরিস্থিতি, আবহ (এখানে রূপক অর্থে)",
+   "en": "the general situation or atmosphere",
+   "ex": "the host country's political and social climate"
+  }
+ ],
+ "synant": [
+  {
+   "w": "endangered",
+   "bn": "বিপন্ন",
+   "syn": [
+    "threatened",
+    "at risk",
+    "vulnerable"
+   ],
+   "ant": [
+    "safe",
+    "secure",
+    "thriving"
+   ]
+  },
+  {
+   "w": "undisturbed",
+   "bn": "অবিকৃত",
+   "syn": [
+    "untouched",
+    "unspoiled",
+    "pristine"
+   ],
+   "ant": [
+    "disturbed",
+    "spoiled",
+    "polluted"
+   ]
+  },
+  {
+   "w": "impact",
+   "bn": "প্রভাব",
+   "syn": [
+    "influence",
+    "effect",
+    "consequence"
+   ],
+   "ant": [
+    "ineffectiveness",
+    "insignificance"
+   ]
+  },
+  {
+   "w": "landscape",
+   "bn": "ভূদৃশ্য",
+   "syn": [
+    "scenery",
+    "terrain",
+    "countryside"
+   ],
+   "ant": [
+    "—"
+   ]
+  },
+  {
+   "w": "conservation",
+   "bn": "সংরক্ষণ",
+   "syn": [
+    "preservation",
+    "protection",
+    "safeguarding"
+   ],
+   "ant": [
+    "destruction",
+    "waste",
+    "neglect"
+   ]
+  },
+  {
+   "w": "impoverished",
+   "bn": "দরিদ্র",
+   "syn": [
+    "underprivileged",
+    "poor",
+    "needy"
+   ],
+   "ant": [
+    "affluent",
+    "well-off",
+    "prosperous"
+   ]
+  },
+  {
+   "w": "different",
+   "bn": "ভিন্ন",
+   "syn": [
+    "dissimilar",
+    "distinct",
+    "unlike"
+   ],
+   "ant": [
+    "similar",
+    "identical",
+    "alike"
+   ]
+  },
+  {
+   "w": "minimize",
+   "bn": "কমানো",
+   "syn": [
+    "reduce",
+    "lessen",
+    "curtail"
+   ],
+   "ant": [
+    "maximize",
+    "increase",
+    "magnify"
+   ]
+  },
+  {
+   "w": "emphasize",
+   "bn": "জোর দেওয়া",
+   "syn": [
+    "stress",
+    "highlight",
+    "underline"
+   ],
+   "ant": [
+    "ignore",
+    "downplay",
+    "understate"
+   ]
+  },
+  {
+   "w": "unique",
+   "bn": "অনন্য",
+   "syn": [
+    "exceptional",
+    "singular",
+    "unmatched"
+   ],
+   "ant": [
+    "common",
+    "ordinary",
+    "typical"
+   ]
+  },
+  {
+   "w": "strive",
+   "bn": "চেষ্টা করা",
+   "syn": [
+    "endeavour",
+    "struggle",
+    "attempt"
+   ],
+   "ant": [
+    "give up",
+    "neglect",
+    "idle"
+   ]
+  },
+  {
+   "w": "awareness",
+   "bn": "সচেতনতা",
+   "syn": [
+    "consciousness",
+    "knowledge",
+    "realization"
+   ],
+   "ant": [
+    "ignorance",
+    "unawareness"
+   ]
+  }
+ ],
+ "summaryEn": "Ecotourism is broadly defined as low impact travel to endangered and often undisturbed places, and it differs from traditional tourism because it lets the traveller learn about the physical landscape and the cultural characteristics of the area visited, while at the same time providing funds for conservation and helping the economic development of regions that are usually impoverished. Because environmentally related and adventure travel has grown so popular, many kinds of trips are now loosely called ecotourism, though most of them are not genuine, since they do not stress conservation, education, low impact travel or social and cultural participation. To be truly ecotourism, therefore, a trip must satisfy the principles laid down by the International Ecotourism Society in 2015: it must minimise the impact of the visit, build the travellers' respect and awareness for the environment and local culture, ensure positive experiences for both guests and hosts, give direct financial aid for conservation, provide money, empowerment and other benefits to local people, and make travellers aware of the political, environmental and social climate of the host country. A well-known example is Komodo National Park in Indonesia, established in 1980, which covers 233 square miles of land spread over several islands and 469 square miles of water and attracts visitors by its unique and endangered biodiversity; activities there range from whale watching to hiking, and even the tourist accommodations try to keep their impact low. Ecotourism is popular also in Central and South America — in Bolivia, Brazil, Ecuador, Venezuela, Guatemala and Panama — and hundreds of other places worldwide offer similar opportunities.",
+ "summaryBn": "ইকোট্যুরিজমকে বিস্তৃতভাবে সংজ্ঞায়িত করা হয় বিপন্ন ও প্রায়শই অবিকৃত স্থানে স্বল্প-ক্ষতিকর ভ্রমণ হিসেবে; এটি প্রচলিত পর্যটন থেকে আলাদা, কারণ এটি ভ্রমণকারীকে ভ্রমণকৃত এলাকার ভূপ্রকৃতি ও সাংস্কৃতিক বৈশিষ্ট্য সম্পর্কে শিক্ষা দেয় এবং একই সঙ্গে সংরক্ষণের জন্য অর্থ জোগায় ও সাধারণত দরিদ্র অঞ্চলের অর্থনৈতিক উন্নয়নে সাহায্য করে। পরিবেশ-সংশ্লিষ্ট ও দুঃসাহসিক ভ্রমণের জনপ্রিয়তা বাড়ায় এখন নানা ধরনের ভ্রমণকেই ঢালাওভাবে ইকোট্যুরিজম বলা হচ্ছে, যদিও এদের অধিকাংশই প্রকৃত নয় — কারণ সেগুলোতে সংরক্ষণ, শিক্ষা, স্বল্প-ক্ষতিকর ভ্রমণ বা সামাজিক-সাংস্কৃতিক অংশগ্রহণের ওপর জোর দেওয়া হয় না। প্রকৃত ইকোট্যুরিজম হতে হলে ২০১৫ সালে আন্তর্জাতিক ইকোট্যুরিজম সোসাইটির নির্ধারিত নীতিগুলো মানতে হবে: ভ্রমণের প্রভাব কমানো, পরিবেশ ও স্থানীয় সংস্কৃতির প্রতি শ্রদ্ধা ও সচেতনতা গড়া, অতিথি ও স্বাগতিক উভয়ের জন্য ইতিবাচক অভিজ্ঞতা নিশ্চিত করা, সংরক্ষণে সরাসরি আর্থিক সহায়তা দেওয়া, স্থানীয় জনগণের আর্থিক সহায়তা ও ক্ষমতায়ন নিশ্চিত করা এবং স্বাগতিক দেশের রাজনৈতিক, পরিবেশগত ও সামাজিক পরিস্থিতি সম্পর্কে ভ্রমণকারীদের সচেতন করা। এর একটি বিখ্যাত উদাহরণ ইন্দোনেশিয়ার কোমোডো ন্যাশনাল পার্ক, যা ১৯৮০ সালে প্রতিষ্ঠিত এবং কয়েকটি দ্বীপজুড়ে ২৩৩ বর্গমাইল স্থল ও ৪৬৯ বর্গমাইল জলভাগ নিয়ে বিস্তৃত; সেখানে তিমি দেখা থেকে হাইকিং পর্যন্ত নানা কার্যক্রম চলে এবং পর্যটকদের আবাসনও কম প্রভাব ফেলার চেষ্টা করে। মধ্য ও দক্ষিণ আমেরিকাতেও — বলিভিয়া, ব্রাজিল, ইকুয়েডর, ভেনেজুয়েলা, গুয়াতেমালা ও পানামায় — ইকোট্যুরিজম জনপ্রিয়, আর বিশ্বজুড়ে আরও শত শত স্থানে এর সুযোগ রয়েছে।",
+ "summaryTip": "**তথ্যমূলক প্যাসেজ:** সংজ্ঞা → পার্থক্য → নীতি → উদাহরণ, এই চার ধাপে লেখো। ৬টি নীতি আলাদা বাক্যে নয়, একটি বাক্যে কমা দিয়ে সাজাও। সব দেশের নাম না লিখে ‘Central and South America’ লিখলেই যথেষ্ট।",
+ "mcq": [
+  {
+   "q": "What is ecotourism?",
+   "opts": [
+    "An organised travel to unique and endangered locations with little damage to the environment and animals",
+    "Ecological travel with low impact to the govt.",
+    "Economical tourism with low impact to the local environment",
+    "Both (ii) and (iii)"
+   ],
+   "ans": 0,
+   "why": "সংজ্ঞাটি হলো ‘low impact travel to endangered and often undisturbed locations’ — অর্থাৎ পরিবেশ ও প্রাণীর ক্ষতি না করে বিপন্ন এলাকায় ভ্রমণ। ‘Eco’ মানে পরিবেশ, ‘economical’ (সাশ্রয়ী) নয় — এটাই ফাঁদ।"
+  },
+  {
+   "q": "Ecotourism is ___ to traditional tourism.",
+   "opts": [
+    "safe",
+    "removed",
+    "dissimilar",
+    "away"
+   ],
+   "ans": 2,
+   "why": "‘It is **different from** traditional tourism’ — different = dissimilar. (লক্ষ করো: dissimilar **to**, different **from** — preposition আলাদা।)"
+  },
+  {
+   "q": "‘Physical landscape’ means —",
+   "opts": [
+    "patterns of natural environment",
+    "horizon",
+    "vertical limit",
+    "none"
+   ],
+   "ans": 0,
+   "why": "Physical landscape = কোনো এলাকার প্রাকৃতিক ভূরূপ — পাহাড়, নদী, বন ইত্যাদির বিন্যাস।"
+  },
+  {
+   "q": "The word ‘impact’ means —",
+   "opts": [
+    "import",
+    "insist",
+    "influence",
+    "inner"
+   ],
+   "ans": 2,
+   "why": "Impact = প্রভাব = influence. ‘Low impact travel’ মানে যে ভ্রমণ পরিবেশে কম প্রভাব ফেলে।"
+  },
+  {
+   "q": "The word ‘landscape’ means —",
+   "opts": [
+    "land",
+    "escape",
+    "scenery",
+    "field"
+   ],
+   "ans": 2,
+   "why": "Landscape = ভূদৃশ্য / প্রাকৃতিক দৃশ্য = scenery. শব্দটিকে land + escape ভেবে ভাঙা যাবে না।"
+  },
+  {
+   "q": "Ecotourism provides funds for —",
+   "opts": [
+    "the animals",
+    "natural beauty",
+    "preservation",
+    "natural calamities"
+   ],
+   "ans": 2,
+   "why": "‘It often provides funds for **conservation**’ — conservation = preservation (সংরক্ষণ)।"
+  },
+  {
+   "q": "Ecotourism benefits the economic development of places that are often —",
+   "opts": [
+    "financially stable",
+    "well off",
+    "traditional",
+    "underprivileged"
+   ],
+   "ans": 3,
+   "why": "‘places that are often **impoverished**’ — impoverished = দরিদ্র = underprivileged."
+  },
+  {
+   "q": "Which of the following is a characteristic of ecotourism?",
+   "opts": [
+    "travel to endangered locations",
+    "travel to undisturbed locations",
+    "low impact travel",
+    "all of the above"
+   ],
+   "ans": 3,
+   "why": "সংজ্ঞার একটিমাত্র বাক্যেই তিনটি বৈশিষ্ট্য আছে — low impact, endangered, undisturbed. তাই ‘all of the above’."
+  },
+  {
+   "q": "What is different from traditional tourism?",
+   "opts": [
+    "environmental tourism",
+    "ecological tourism",
+    "mainstream tourism",
+    "heritage tourism"
+   ],
+   "ans": 1,
+   "why": "Ecotourism-এর পূর্ণরূপ ecological tourism; প্যাসেজ বলছে এটিই traditional tourism থেকে ভিন্ন।"
+  },
+  {
+   "q": "Ecotourism allows a traveller to learn about —",
+   "opts": [
+    "physical landscape",
+    "cultural characteristics",
+    "both (i) and (ii)",
+    "none"
+   ],
+   "ans": 2,
+   "why": "‘…educated about the areas they visit in terms of the **physical landscape and cultural characteristics**’ — দুটোই।"
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "From your reading of the passage describe ecotourism.",
+   "a": "Ecotourism may be described as low impact travel to endangered and often undisturbed locations. Unlike traditional tourism, it educates travellers about the physical landscape and the cultural characteristics of the places they visit. It also provides funds for conservation and helps the economic development of areas that are often impoverished. To be genuine, however, a trip must follow the principles of the International Ecotourism Society — minimising impact, building respect for the environment and culture, ensuring benefits for local people and raising the travellers' awareness of the host country.",
+   "bn": "ইকোট্যুরিজম হলো বিপন্ন ও প্রায়শই অবিকৃত স্থানে স্বল্প-ক্ষতিকর ভ্রমণ। প্রচলিত পর্যটনের বিপরীতে এটি ভ্রমণকারীকে সেই এলাকার ভূপ্রকৃতি ও সাংস্কৃতিক বৈশিষ্ট্য সম্পর্কে শিক্ষা দেয়, সংরক্ষণের জন্য অর্থ জোগায় এবং দরিদ্র অঞ্চলের অর্থনৈতিক উন্নয়নে সাহায্য করে। প্রকৃত হতে হলে TIES-এর নীতিগুলো মানতে হয়।"
+  },
+  {
+   "q": "What is the meaning of the word ‘endangered’ and how is it related to ecotourism?",
+   "a": "The word ‘endangered’ means being at risk of destruction or extinction. It is closely related to ecotourism in two ways. First, ecotourism is defined as travel to endangered and often undisturbed locations, that is, to places whose nature is under threat. Secondly, Komodo National Park is popular for ecotourism precisely because of its unique and endangered biodiversity. Ecotourism, therefore, does not merely visit such fragile places; it also provides direct financial aid for their conservation so that they may survive.",
+   "bn": "‘Endangered’ শব্দের অর্থ ধ্বংস বা বিলুপ্তির ঝুঁকিতে থাকা। ইকোট্যুরিজমের সংজ্ঞাতেই আছে ‘বিপন্ন ও অবিকৃত স্থানে ভ্রমণ’; আবার কোমোডো ন্যাশনাল পার্ক জনপ্রিয় তার অনন্য ও বিপন্ন জীববৈচিত্র্যের কারণেই। তাই ইকোট্যুরিজম শুধু এসব ভঙ্গুর স্থানে যায় না, সংরক্ষণের জন্য সরাসরি অর্থও জোগায়।"
+  },
+  {
+   "q": "How is ecotourism different from traditional tourism?",
+   "a": "Ecotourism differs from traditional tourism in several ways. Traditional tourism aims mainly at pleasure and comfort, whereas ecotourism aims at low impact travel that does not harm the environment. Ecotourism educates the traveller about the physical landscape and cultural characteristics of the place, provides funds for conservation and benefits the economic development of impoverished areas. It also demands social and cultural participation, empowerment of local people and awareness of the host country's political, environmental and social climate — none of which traditional tourism requires.",
+   "bn": "প্রচলিত পর্যটনের লক্ষ্য মূলত আনন্দ ও আরাম, কিন্তু ইকোট্যুরিজমের লক্ষ্য পরিবেশের ক্ষতি না করে ভ্রমণ। ইকোট্যুরিজম ভ্রমণকারীকে ভূপ্রকৃতি ও সংস্কৃতি সম্পর্কে শেখায়, সংরক্ষণে অর্থ জোগায়, দরিদ্র এলাকার অর্থনীতিতে অবদান রাখে এবং স্থানীয় মানুষের ক্ষমতায়ন ও সাংস্কৃতিক অংশগ্রহণ নিশ্চিত করে — যা প্রচলিত পর্যটনে নেই।"
+  },
+  {
+   "q": "Mention at least three characteristics of ecotourism.",
+   "a": "First, ecotourism is low impact travel: it minimises the damage caused by visiting a location, for example by limiting the use of roads. Secondly, it is educative: the traveller learns about the physical landscape and the cultural practices of the area and becomes aware of the host country's political, environmental and social climate. Thirdly, it is beneficial to both nature and people, for it provides direct financial aid for conservation as well as money, empowerment and other benefits for the local people, and ensures positive experiences for travellers and hosts alike.",
+   "bn": "প্রথমত, ইকোট্যুরিজম স্বল্প-ক্ষতিকর ভ্রমণ — স্থানটিতে ভ্রমণের প্রভাব যথাসম্ভব কমায়। দ্বিতীয়ত, এটি শিক্ষামূলক — ভ্রমণকারী ভূপ্রকৃতি, সংস্কৃতি ও স্বাগতিক দেশের পরিস্থিতি সম্পর্কে জানে। তৃতীয়ত, এটি প্রকৃতি ও মানুষ উভয়ের জন্যই উপকারী — সংরক্ষণে অর্থ দেয় এবং স্থানীয় জনগণের ক্ষমতায়ন ঘটায়।"
+  },
+  {
+   "q": "What is the significance of ecotourism?",
+   "a": "The significance of ecotourism is threefold. Environmentally, it protects endangered and undisturbed locations by keeping the impact of visitors low and by giving direct financial aid for conservation. Economically, it benefits the development of places that are often impoverished and provides money and empowerment to local people. Educationally and socially, it makes travellers respect the environment and cultural practices and aware of the host country's condition, while ensuring positive experiences for both guests and hosts. Thus it turns tourism from a threat into a means of protection.",
+   "bn": "ইকোট্যুরিজমের গুরুত্ব তিনদিক থেকে। পরিবেশগতভাবে এটি বিপন্ন ও অবিকৃত স্থান রক্ষা করে ও সংরক্ষণে অর্থ জোগায়। অর্থনৈতিকভাবে এটি দরিদ্র এলাকার উন্নয়ন ঘটায় ও স্থানীয় জনগণকে ক্ষমতায়িত করে। শিক্ষাগত ও সামাজিকভাবে এটি ভ্রমণকারীদের পরিবেশ ও সংস্কৃতির প্রতি শ্রদ্ধাশীল ও সচেতন করে। এভাবে পর্যটন হুমকির বদলে রক্ষার উপায় হয়ে ওঠে।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "What / Who",
+   "Event / Occurrence",
+   "What / Why / When",
+   "Where / How"
+  ],
+  "rows": [
+   [
+    "Ecotourism",
+    "refers to",
+    "(i) @low impact travel to endangered and often undisturbed locations",
+    "(ii) @worldwide"
+   ],
+   [
+    "Ecotourism",
+    "differs from",
+    "(iii) @traditional tourism",
+    "because it educates the traveller about the area"
+   ],
+   [
+    "Ecotourism",
+    "provides funds for",
+    "(iv) @conservation",
+    "(v) @and benefits the economic development of impoverished places"
+   ],
+   [
+    "Various types of trips",
+    "are now being (vi) @classified as ecotourism",
+    "due to the growing popularity of environmentally-related and adventure travel",
+    "all over the world"
+   ],
+   [
+    "(vii) @The International Ecotourism Society (TIES)",
+    "set forth the principles of ecotourism",
+    "in 2015",
+    "internationally"
+   ],
+   [
+    "Komodo National Park",
+    "was established",
+    "(viii) @in 1980",
+    "(ix) @in Indonesia"
+   ],
+   [
+    "Ecotourism",
+    "is also popular",
+    "(x) @in Central and South America",
+    "e.g. Bolivia, Brazil, Ecuador, Venezuela, Guatemala and Panama"
+   ]
+  ],
+  "note": "সংখ্যা ও সাল হুবহু লিখতে হবে — TIES 2015, Komodo 1980, 233 sq. miles land, 469 sq. miles water."
+ },
+ "flow": {
+  "title": "Features of Ecotourism — ইকোট্যুরিজমের বৈশিষ্ট্যসমূহ",
+  "items": [
+   {
+    "t": "Low impact travel",
+    "bn": "স্বল্প-ক্ষতিকর ভ্রমণ (দেওয়া আছে)"
+   },
+   {
+    "t": "Travel to endangered and often undisturbed locations",
+    "bn": "বিপন্ন ও অবিকৃত স্থানে ভ্রমণ"
+   },
+   {
+    "t": "Educates travellers about landscape and culture",
+    "bn": "ভূপ্রকৃতি ও সংস্কৃতি সম্পর্কে শিক্ষা দেয়"
+   },
+   {
+    "t": "Provides direct financial aid for conservation",
+    "bn": "সংরক্ষণে সরাসরি আর্থিক সহায়তা"
+   },
+   {
+    "t": "Benefits the economy and empowerment of impoverished local people",
+    "bn": "দরিদ্র স্থানীয় জনগণের অর্থনীতি ও ক্ষমতায়ন"
+   },
+   {
+    "t": "Ensures positive experiences for both travellers and hosts",
+    "bn": "অতিথি ও স্বাগতিক উভয়ের জন্য ইতিবাচক অভিজ্ঞতা"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "The Six TIES Principles <span class='sub'>— আন্তর্জাতিক ইকোট্যুরিজম সোসাইটির ৬টি নীতি (2015)</span>",
+   "key": "TIES Principles",
+   "table": {
+    "headers": [
+     "No.",
+     "Principle",
+     "বাংলা"
+    ],
+    "rows": [
+     [
+      "1",
+      "Minimize the impact of visiting the location (e.g. the use of roads)",
+      "@ভ্রমণের প্রভাব যথাসম্ভব কমানো"
+     ],
+     [
+      "2",
+      "Build respect and awareness for the environment and cultural practices",
+      "@পরিবেশ ও সংস্কৃতির প্রতি শ্রদ্ধা ও সচেতনতা"
+     ],
+     [
+      "3",
+      "Ensure positive experiences for both travellers and hosts",
+      "@অতিথি ও স্বাগতিক উভয়ের ইতিবাচক অভিজ্ঞতা"
+     ],
+     [
+      "4",
+      "Provide direct financial aid for conservation",
+      "@সংরক্ষণে সরাসরি আর্থিক সহায়তা"
+     ],
+     [
+      "5",
+      "Provide financial aid, empowerment and other benefits for local peoples",
+      "@স্থানীয়দের আর্থিক সহায়তা ও ক্ষমতায়ন"
+     ],
+     [
+      "6",
+      "Raise awareness of the host country's political, environmental and social climate",
+      "@স্বাগতিক দেশের পরিস্থিতি সম্পর্কে সচেতনতা"
+     ]
+    ]
+   },
+   "note": "‘Mention at least three characteristics’ ধরনের প্রশ্নে এই তালিকা থেকে যেকোনো তিনটি লিখলেই পূর্ণ নম্বর।"
+  },
+  {
+   "title": "Komodo National Park <span class='sub'>— একটি বাস্তব উদাহরণ</span>",
+   "key": "Komodo",
+   "table": {
+    "headers": [
+     "Item",
+     "Information"
+    ],
+    "rows": [
+     [
+      "Country",
+      "Indonesia"
+     ],
+     [
+      "Established",
+      "1980"
+     ],
+     [
+      "Land area",
+      "233 square miles (603 sq. km), spread over several islands"
+     ],
+     [
+      "Water area",
+      "469 square miles (1,214 sq. km)"
+     ],
+     [
+      "Why popular",
+      "Its unique and endangered biodiversity"
+     ],
+     [
+      "Activities",
+      "From whale watching to hiking"
+     ],
+     [
+      "Accommodation",
+      "Strives to have a low impact on the natural environment"
+     ],
+     [
+      "Other ecotourism regions",
+      "Central &amp; South America — Bolivia, Brazil, Ecuador, Venezuela, Guatemala, Panama"
+     ]
+    ]
+   },
+   "note": "স্থলভাগ ২৩৩ আর জলভাগ ৪৬৯ — এই দুটি সংখ্যা উল্টে ফেলা সবচেয়ে সাধারণ ভুল।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🌿",
+   "t": "eco ≠ economical",
+   "type": "warn",
+   "d": "‘Eco’ এসেছে ecology (পরিবেশ) থেকে, economical (সাশ্রয়ী) থেকে নয়। MCQ-তে এই দুটি পাশাপাশি option হিসেবে দেওয়া হয়।"
+  },
+  {
+   "em": "📜",
+   "t": "Bullet points = ready-made answers",
+   "d": "প্যাসেজে যেখানেই bullet বা তালিকা, সেখান থেকেই ‘Mention three…’ ধরনের প্রশ্ন হয়। ৬টি নীতি মুখস্থ রাখো।"
+  },
+  {
+   "em": "🔢",
+   "t": "Numbers to memorise",
+   "d": "TIES 2015, Komodo 1980, 233 sq. mi land, 469 sq. mi water — চারটি সংখ্যা থেকেই MCQ ও Table আসে।"
+  },
+  {
+   "em": "🔁",
+   "t": "Definition question = quote the definition",
+   "type": "ok",
+   "d": "‘What is ecotourism?’ প্রশ্নে প্যাসেজের সংজ্ঞাটি প্রথম বাক্যে বসাও, তারপর নিজের ব্যাখ্যা দাও।"
+  },
+  {
+   "em": "⚖️",
+   "t": "Compare in pairs",
+   "d": "Traditional tourism vs Ecotourism — উদ্দেশ্য, প্রভাব, শিক্ষা, স্থানীয় উপকার। জোড়ায় লিখলে তুলনামূলক প্রশ্নে পূর্ণ নম্বর।"
+  },
+  {
+   "em": "🇧🇩",
+   "t": "Connect to Bangladesh",
+   "d": "‘Significance’ প্রশ্নে সুন্দরবন, সেন্টমার্টিন বা শ্রীমঙ্গলের উদাহরণ যোগ করলে উত্তর আরও সমৃদ্ধ হয়।"
+  }
+ ],
+ "recap": [
+  "সংজ্ঞা: ‘low impact travel to endangered and often undisturbed locations’.",
+  "প্রচলিত পর্যটন থেকে পার্থক্য: শিক্ষা + সংরক্ষণের তহবিল + দরিদ্র এলাকার অর্থনীতি।",
+  "TIES (2015)-এর ৬টি নীতি — impact কমানো থেকে স্থানীয় ক্ষমতায়ন পর্যন্ত।",
+  "উদাহরণ: কোমোডো ন্যাশনাল পার্ক, ইন্দোনেশিয়া (১৯৮০) — অনন্য ও বিপন্ন জীববৈচিত্র্য।",
+  "অন্যান্য অঞ্চল: মধ্য ও দক্ষিণ আমেরিকা এবং বিশ্বজুড়ে আরও শত শত স্থান।"
+ ],
+ "homework": [
+  "TIES-এর ৬টি নীতি খাতায় লিখে মুখস্থ করবে।",
+  "কোমোডো ন্যাশনাল পার্কের তথ্য-ছক লিখে আনবে।",
+  "‘How is ecotourism different from traditional tourism?’ — উত্তরটি লিখবে।",
+  "Summary ১৪০ শব্দে লিখে আনবে।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

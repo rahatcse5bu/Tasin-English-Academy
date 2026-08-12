@@ -1,0 +1,343 @@
+{
+ "id": "substitution-table",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part A",
+ "unitName": "Grammar — Sentence Structure",
+ "title": "Substitution Table — Making Sentences",
+ "titleBn": "সাবস্টিটিউশন টেবিল — বাক্য তৈরি",
+ "lede": "ছকের ঘর থেকে শব্দ নিয়ে অর্থপূর্ণ বাক্য বানাতে হয়। নিয়ম মাত্র তিনটি — subject-verb মিল, অর্থ ও ক্রম। সহজতম ৫ নম্বর।",
+ "qType": "Grammar — Substitution Table",
+ "minutes": 40,
+ "marks": "5",
+ "rulesTitle": "বাক্য তৈরির নিয়ম",
+ "rulesPerSlide": 3,
+ "objectives": [
+  {
+   "t": "How the table works",
+   "d": "বাঁ থেকে ডানে ঘর মিলিয়ে বাক্য তৈরি"
+  },
+  {
+   "t": "Subject–verb agreement",
+   "d": "একবচন subject-এ verb-এ s/es"
+  },
+  {
+   "t": "Meaning must be sensible",
+   "d": "ব্যাকরণ ঠিক হলেও অর্থ অদ্ভুত হলে নম্বর কাটা"
+  },
+  {
+   "t": "Solved board table",
+   "d": "৫টি বাক্য, প্রতিটির যুক্তিসহ"
+  },
+  {
+   "t": "Two live practice sets",
+   "d": "শ্রেণিকক্ষে সরাসরি অনুশীলন"
+  },
+  {
+   "t": "Tips to earn full marks",
+   "d": "সবচেয়ে সহজ ৫ নম্বর নিশ্চিত করার কৌশল"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Base",
+   "name": "How to read the table",
+   "bn": "ছকের প্রতিটি **কলাম** বাক্যের এক-একটি অংশ। বাঁ দিক থেকে ডান দিকে **প্রতিটি কলাম থেকে একটি করে ঘর** নিয়ে অর্থপূর্ণ বাক্য তৈরি করতে হয়।",
+   "formulaLabel": "METHOD",
+   "formula": "Column 1 + Column 2 + Column 3 + … = one sentence",
+   "ex": "Subject | verb | object/complement → **Rahim is a good student.**"
+  },
+  {
+   "no": "02",
+   "tag": "Rule",
+   "name": "Subject–verb agreement",
+   "bn": "Subject **একবচন** হলে verb-এ **s/es** বসে; বহুবচন হলে বসে না। Be-verb-এও একই নিয়ম — **is/was** একবচনে, **are/were** বহুবচনে।",
+   "formula": "He plays ✓ · They play ✓ · He play ✗",
+   "ex": "**Rahim ==goes== to school.** / **The students ==go== to school.**"
+  },
+  {
+   "no": "03",
+   "tag": "Rule",
+   "name": "Meaning must be sensible",
+   "bn": "ব্যাকরণ ঠিক থাকলেও **অর্থ অদ্ভুত** হলে নম্বর পাওয়া যায় না। ঘর মেলানোর আগে বাক্যটি মনে মনে পড়ে অর্থ যাচাই করো।",
+   "formula": "Grammar ✓ + Meaning ✓ = mark",
+   "ex": "✓ The sun rises in the east. &nbsp;&nbsp; ✗ The sun rises in the school."
+  },
+  {
+   "no": "04",
+   "tag": "Rule",
+   "name": "Keep the word order",
+   "bn": "ইংরেজি বাক্যের স্বাভাবিক ক্রম **Subject + Verb + Object + Adverbial**। ছকের কলামের ক্রমই সাধারণত এই ক্রম মেনে চলে — উল্টে দিয়ো না।",
+   "formula": "S + V + O + (place / time)",
+   "ex": "**He ==reads a book in the library every day==.**"
+  },
+  {
+   "no": "05",
+   "tag": "Rule",
+   "name": "Article ও preposition ঠিক রাখা",
+   "bn": "ঘরে যদি article বা preposition দেওয়া না থাকে, তবে বাক্য লেখার সময় প্রয়োজনমতো বসিয়ে নিতে হয়।",
+   "formula": "add a / an / the · in / on / at as needed",
+   "ex": "Rahim | is | good student → **Rahim is ==a== good student.**"
+  },
+  {
+   "no": "06",
+   "tag": "Rule",
+   "name": "Tense সামঞ্জস্য",
+   "bn": "ছকে যদি সময়সূচক শব্দ থাকে (yesterday, every day, now), তবে verb-এর tense তার সাথে মিলিয়ে নিতে হবে।",
+   "formula": "every day → Present · yesterday → Past · now → Continuous",
+   "ex": "He ==went== to Dhaka yesterday. / He ==goes== to school every day."
+  },
+  {
+   "no": "07",
+   "tag": "Rule",
+   "name": "একটি ঘর একবারই",
+   "bn": "সাধারণত একটি ঘর **একটি বাক্যেই** ব্যবহার করা হয়। পাঁচটি বাক্যে যতটা সম্ভব **ভিন্ন ভিন্ন ঘর** ব্যবহার করলে উত্তর ভালো দেখায়।",
+   "formula": "5 sentences → use different cells",
+   "ex": "একই subject বারবার না নিয়ে ছকের বিভিন্ন subject ব্যবহার করো।"
+  },
+  {
+   "no": "08",
+   "tag": "Rule",
+   "name": "সঠিক সংখ্যায় লেখা",
+   "bn": "যত সংখ্যক বাক্য চাওয়া হয়েছে **ঠিক ততগুলোই** লিখতে হবে — সাধারণত ৫টি। বেশি লিখলে বাড়তি নম্বর নেই, কম লিখলে নম্বর কাটা।",
+   "formula": "Exactly 5 sentences",
+   "ex": "প্রশ্নে ‘Make five sentences’ থাকলে ৫টিই লেখো, ৬টি নয়।"
+  },
+  {
+   "no": "09",
+   "tag": "Rule",
+   "name": "নম্বর দিয়ে আলাদা করে লেখা",
+   "bn": "প্রতিটি বাক্য **আলাদা লাইনে, নম্বর দিয়ে** লেখো। একসাথে অনুচ্ছেদ আকারে লিখলে পরীক্ষক আলাদা করে নম্বর দিতে পারেন না।",
+   "formula": "(i) … (ii) … (iii) …",
+   "ex": "(i) Rahim is a good student. (ii) He goes to school every day."
+  }
+ ],
+ "boardQ": {
+  "instruction": "Make five sentences from the substitution table. — ছক থেকে পাঁচটি বাক্য তৈরি করো। (1×5 = 5)",
+  "text": "TABLE — Column A: Rahim / The students / My mother / The sun / Honest people . Column B: is / are / rises / cooks / respected . Column C: a meritorious student / in the east / delicious food / by all / present in the class .",
+  "items": [
+   {
+    "ans": "Rahim is a meritorious student.",
+    "why": "একবচন subject ‘Rahim’ + **is**; অর্থও যথাযথ। (নিয়ম ০২, ০৩)"
+   },
+   {
+    "ans": "The students are present in the class.",
+    "why": "বহুবচন subject ‘The students’ + **are**। (নিয়ম ০২)"
+   },
+   {
+    "ans": "My mother cooks delicious food.",
+    "why": "একবচন subject + **cooks** (verb-এ s); অর্থ স্বাভাবিক। (নিয়ম ০২, ০৩)"
+   },
+   {
+    "ans": "The sun rises in the east.",
+    "why": "চিরন্তন সত্য → Present Indefinite, verb-এ s। (নিয়ম ০২, ০৬)"
+   },
+   {
+    "ans": "Honest people are respected by all.",
+    "why": "বহুবচন + are + past participle → passive গঠন; ‘by all’ মানানসই। (নিয়ম ০২, ০৩)"
+   },
+   {
+    "ans": "কেন ‘Rahim are…’ ভুল?",
+    "why": "একবচন subject-এর সাথে **are** বসে না — subject-verb agreement ভাঙে। (নিয়ম ০২)"
+   },
+   {
+    "ans": "কেন ‘The sun rises in the class’ ভুল?",
+    "why": "ব্যাকরণ ঠিক হলেও **অর্থ অসংগত**। (নিয়ম ০৩)"
+   },
+   {
+    "ans": "কতগুলো বাক্য লিখব?",
+    "why": "প্রশ্নে যতগুলো চাওয়া হয়েছে ঠিক ততগুলো — এখানে **৫টি**। (নিয়ম ০৮)"
+   },
+   {
+    "ans": "কীভাবে সাজাব?",
+    "why": "প্রতিটি বাক্য আলাদা লাইনে (i), (ii) নম্বর দিয়ে। (নিয়ম ০৯)"
+   },
+   {
+    "ans": "একই ঘর দুবার ব্যবহার করা যাবে?",
+    "why": "সাধারণত নয় — ভিন্ন ভিন্ন ঘর ব্যবহার করলে উত্তর শক্তিশালী হয়। (নিয়ম ০৭)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — সঠিক না ভুল?",
+   "intro": "প্রতিটি বাক্য শুনে বলো ঠিক না ভুল, আর ভুল হলে কেন।",
+   "items": [
+    {
+     "q": "The students is playing football.",
+     "ans": "✗ → The students are playing football.",
+     "why": "বহুবচন subject-এ **are** বসবে। (০২)"
+    },
+    {
+     "q": "My father go to office every day.",
+     "ans": "✗ → My father goes to office every day.",
+     "why": "একবচন subject + Present Indefinite → verb-এ **s**। (০২)"
+    },
+    {
+     "q": "The moon rises in the kitchen.",
+     "ans": "✗ অর্থ অসংগত → The moon rises at night.",
+     "why": "ব্যাকরণ ঠিক, কিন্তু অর্থ অদ্ভুত। (০৩)"
+    },
+    {
+     "q": "Honest men respected by all.",
+     "ans": "✗ → Honest men are respected by all.",
+     "why": "Passive গঠনে **be verb** লাগবে। (০২)"
+    },
+    {
+     "q": "He went to Dhaka yesterday.",
+     "ans": "✓ সঠিক",
+     "why": "‘yesterday’-এর সাথে Past Indefinite মিলেছে। (০৬)"
+    },
+    {
+     "q": "Rahim is a good student.",
+     "ans": "✓ সঠিক",
+     "why": "Subject-verb মিল, article ঠিক, অর্থ যথাযথ। (০২, ০৫)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — নিজে বাক্য বানাও",
+   "intro": "ছক: **A:** He / They / Water — **B:** is / are / flows — **C:** downwards / good friends / a doctor",
+   "items": [
+    {
+     "q": "‘He’ দিয়ে একটি বাক্য",
+     "ans": "He is a doctor.",
+     "why": "একবচন + is + article সহ complement। (০২, ০৫)"
+    },
+    {
+     "q": "‘They’ দিয়ে একটি বাক্য",
+     "ans": "They are good friends.",
+     "why": "বহুবচন + are। (০২)"
+    },
+    {
+     "q": "‘Water’ দিয়ে একটি বাক্য",
+     "ans": "Water flows downwards.",
+     "why": "Uncountable noun singular হিসেবে কাজ করে → verb-এ s। (০২)"
+    },
+    {
+     "q": "‘They is good friends’ — কী ভুল?",
+     "ans": "They are good friends.",
+     "why": "বহুবচনে is বসে না। (০২)"
+    },
+    {
+     "q": "‘Water flow downwards’ — কী ভুল?",
+     "ans": "Water flows downwards.",
+     "why": "Uncountable subject singular verb নেয়। (০২)"
+    },
+    {
+     "q": "উত্তর কীভাবে সাজাবে?",
+     "ans": "(i), (ii), (iii) — আলাদা লাইনে",
+     "why": "নম্বর দিয়ে আলাদা লাইনে লিখতে হয়। (০৯)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "Subject → Verb quick chart <span class='sub'>— কোন subject-এ কোন verb</span>",
+   "key": "Agreement",
+   "table": {
+    "headers": [
+     "Subject",
+     "Be verb",
+     "Present Indefinite",
+     "উদাহরণ"
+    ],
+    "rows": [
+     [
+      "I",
+      "@am",
+      "@V1",
+      "I am a student. / I go."
+     ],
+     [
+      "He / She / It / নাম",
+      "@is",
+      "@V1 + s/es",
+      "He is happy. / He goes."
+     ],
+     [
+      "We / You / They / বহুবচন",
+      "@are",
+      "@V1",
+      "They are happy. / They go."
+     ],
+     [
+      "Uncountable (water, milk)",
+      "@is",
+      "@V1 + s",
+      "Water is precious. / Water flows."
+     ],
+     [
+      "Each / Every / Everybody",
+      "@is",
+      "@V1 + s",
+      "Everybody is present."
+     ],
+     [
+      "অতীতে (একবচন)",
+      "@was",
+      "@V2",
+      "He was ill. / He went."
+     ],
+     [
+      "অতীতে (বহুবচন)",
+      "@were",
+      "@V2",
+      "They were ill. / They went."
+     ]
+    ]
+   },
+   "note": "Substitution table-এ **৮০% নম্বর নির্ভর করে এই একটি ছকের উপর** — subject আর verb মিলিয়ে নিতে পারলেই ৫ নম্বর।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "👀",
+   "t": "Read the whole table first",
+   "d": "লেখা শুরুর আগে পুরো ছক একবার পড়ো — কোন subject-এর সাথে কোন verb ও কোন complement যায় তা মাথায় গেঁথে নাও।"
+  },
+  {
+   "em": "🔗",
+   "t": "Match number before meaning",
+   "type": "ok",
+   "d": "প্রথমে subject একবচন না বহুবচন দেখো, তারপর verb বাছো। এতে অর্ধেক ভুল এমনিতেই কমে যায়।"
+  },
+  {
+   "em": "🤔",
+   "t": "Say it in your head",
+   "d": "বাক্যটি মনে মনে পড়ো — অদ্ভুত শোনালে অর্থ ভুল। ব্যাকরণ ঠিক হলেও অসংগত অর্থে নম্বর নেই।"
+  },
+  {
+   "em": "🔢",
+   "t": "Exactly the number asked",
+   "type": "warn",
+   "d": "৫টি চাইলে ৫টিই। বেশি লিখলে বাড়তি নম্বর নেই, বরং সময় নষ্ট; কম লিখলে সরাসরি নম্বর কাটা।"
+  },
+  {
+   "em": "📝",
+   "t": "Number them on separate lines",
+   "d": "(i), (ii), (iii) — আলাদা লাইনে লিখলে পরীক্ষক সহজে আলাদা নম্বর দিতে পারেন।"
+  },
+  {
+   "em": "⏱️",
+   "t": "This is your fastest 5 marks",
+   "type": "ok",
+   "d": "৩–৪ মিনিটেই শেষ করা যায়। প্রশ্নপত্র হাতে পেয়ে এই অংশটি আগে শেষ করে ফেললে আত্মবিশ্বাস বাড়ে।"
+  }
+ ],
+ "recap": [
+  "ছকের প্রতিটি কলাম থেকে একটি করে ঘর নিয়ে বাঁ থেকে ডানে বাক্য তৈরি।",
+  "Subject একবচন হলে verb-এ s/es; be verb is/was; বহুবচনে are/were।",
+  "ব্যাকরণের পাশাপাশি অর্থও সংগত হতে হবে।",
+  "সময়সূচক শব্দ থাকলে tense মিলিয়ে নিতে হবে।",
+  "যতগুলো চাওয়া হয়েছে ঠিক ততগুলো, নম্বর দিয়ে আলাদা লাইনে লিখতে হবে।"
+ ],
+ "homework": [
+  "Subject → Verb ছকটি খাতায় লিখে মুখস্থ করবে।",
+  "বোর্ডের ছক থেকে আরও ৫টি নতুন বাক্য তৈরি করবে।",
+  "নিজে একটি ৩ কলামের ছক বানিয়ে সহপাঠীকে বাক্য বানাতে দেবে।",
+  "৫টি ভুল বাক্য লিখে তার পাশে সংশোধন লিখবে।"
+ ],
+ "paper": "paper2"
+}

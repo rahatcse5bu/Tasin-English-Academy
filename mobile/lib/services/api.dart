@@ -172,4 +172,22 @@ class Api {
       Teacher.fromJson(
           Map<String, dynamic>.from(await client.patch('/teachers/$id', body)));
   Future<void> deleteTeacher(String id) => client.delete('/teachers/$id');
+
+  // ---- Learning (curriculum: class -> subject -> unit -> lesson) ----
+  // Public, read-only content served from the backend's bundled JSON.
+  // Returned as raw maps/lists because the lesson body is loosely structured.
+  Future<List<Map<String, dynamic>>> learnClasses() =>
+      client.getList('/learn/classes');
+
+  Future<Map<String, dynamic>> learnClass(String classId) async =>
+      Map<String, dynamic>.from(await client.get('/learn/$classId'));
+
+  Future<Map<String, dynamic>> learnSubject(
+          String classId, String subjectId) async =>
+      Map<String, dynamic>.from(await client.get('/learn/$classId/$subjectId'));
+
+  Future<Map<String, dynamic>> learnUnit(
+          String classId, String subjectId, String unitId) async =>
+      Map<String, dynamic>.from(
+          await client.get('/learn/$classId/$subjectId/$unitId'));
 }

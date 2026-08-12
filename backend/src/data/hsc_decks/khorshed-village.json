@@ -1,0 +1,746 @@
+{
+ "id": "khorshed-village",
+ "unit": "Extra 02",
+ "unitName": "Travel &amp; Colonial Literature",
+ "title": "Khorshed Set Me Up a Camp",
+ "titleBn": "গ্রামে বিদেশিনী — খোরশেদের তাঁবু",
+ "lede": "বাঁশ-নারকেলের ছায়ায় এক কুটির, পুকুরে জোনাকির নাচ, আর দুই শতাব্দীতে প্রথম ইউরোপীয় নারীকে দেখতে ছুটে আসা গোটা গ্রাম।",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 45,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Understand a travelogue",
+   "d": "ভ্রমণকাহিনির স্বর — কৌতুক, বিস্ময় ও আত্ম-ব্যঙ্গ"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "১১টি বাক্যের বাংলা অর্থ"
+  },
+  {
+   "t": "Feel the ‘zoo animal’ simile",
+   "d": "লেখিকা নিজেকে চিড়িয়াখানার প্রাণীর সঙ্গে তুলনা কেন করলেন"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "intricate, remonstrate, celebrity, thatched, plead…"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — The camp among bamboo and coco-palms",
+   "s": [
+    {
+     "en": "Khorshed ==set me up a camp==, a wooden bed, chair and table in a ==thatched bamboo outhouse==.",
+     "bn": "খোরশেদ ==আমার জন্য একটি আস্তানা তৈরি করে দিল== — একটি ==ছনে ছাওয়া বাঁশের বাইরের ঘরে== কাঠের খাট, চেয়ার আর টেবিল।"
+    },
+    {
+     "en": "It was a ==lovely spot among bamboo and coco-palms==, facing a ==tank where fireflies wove intricate dances at night==.",
+     "bn": "জায়গাটি ছিল ==বাঁশঝাড় আর নারকেলগাছের মাঝে চমৎকার একটি স্থান==, সামনে ছিল একটি ==পুকুর, যেখানে রাতে জোনাকিরা জটিল নকশার নাচ বুনত==।"
+    },
+    {
+     "en": "He put his own bed beside it ==for protection==, and there I stayed, ==holding permanent court from dawn to bedtime==.",
+     "bn": "==নিরাপত্তার জন্য== সে নিজের খাটটি তার পাশেই পেতেছিল; আর সেখানেই আমি রইলাম, ==ভোর থেকে শোবার সময় পর্যন্ত যেন স্থায়ী দরবার বসিয়ে==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — The first European in village memory",
+   "s": [
+    {
+     "en": "==Within village memory== — and that went back for some ==two centuries== — I was the ==first European to go there==: it was ==too remote even for a district commissioner to pass through==.",
+     "bn": "==গ্রামের স্মৃতিতে== — আর সেই স্মৃতি ==প্রায় দুই শতাব্দী== পেছন পর্যন্ত যায় — আমিই ছিলাম ==সেখানে যাওয়া প্রথম ইউরোপীয়==; জায়গাটি এতটাই ==প্রত্যন্ত ছিল যে সেখানে জেলা কমিশনারও কখনো যাননি==।"
+    },
+    {
+     "en": "Also since I was a woman, ==the women could come (at different times from the men) to look at me without losing their characters==.",
+     "bn": "আর যেহেতু আমি একজন নারী, তাই ==মেয়েরাও (পুরুষদের থেকে আলাদা সময়ে) আমাকে দেখতে আসতে পারত, তাতে তাদের সুনাম নষ্ট হতো না==।"
+    },
+    {
+     "en": "==People kept coming and coming.==",
+     "bn": "==মানুষ আসতেই থাকল, আসতেই থাকল।=="
+    },
+    {
+     "en": "Only the rains and the fact that ==few of them were rich enough to have boats== prevented them from coming ==from ten miles round==.",
+     "bn": "কেবল বর্ষা আর ==খুব কম মানুষেরই নৌকা কেনার সামর্থ্য ছিল== — এই দুটি কারণেই তারা ==দশ মাইল দূর থেকেও== আসতে পারছিল না।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — Curtains and a small boy's plea",
+   "s": [
+    {
+     "en": "When he saw that they would not stop coming, Khorshed ==fixed some curtains round the bed== so that I could ==crawl behind them when I was tired of being looked at==, ==like a zoo animal into its sleeping box==.",
+     "bn": "যখন সে দেখল মানুষের আসা থামছে না, তখন খোরশেদ ==খাটের চারপাশে কিছু পর্দা টাঙিয়ে দিল==, যাতে ==দেখা-হওয়ার ক্লান্তিতে আমি সেগুলোর পেছনে গিয়ে গুটিয়ে থাকতে পারি== — ঠিক ==চিড়িয়াখানার প্রাণী যেমন তার ঘুমঘরে ঢুকে পড়ে==।"
+    },
+    {
+     "en": "Even then the little hut would ==fill up with women and children==.",
+     "bn": "তবু ছোট্ট কুটিরটি ==নারী ও শিশুতে ভরে যেত==।"
+    },
+    {
+     "en": "Children followed when I went out, and when Khorshed ==remonstrated==, a small boy ==pleaded==, “==Don't send us away! After she's gone not even a strange bird will come to the village.==”",
+     "bn": "আমি বাইরে গেলে শিশুরা পিছু নিত; আর খোরশেদ যখন ==আপত্তি জানাল==, তখন একটি ছোট ছেলে ==কাকুতি করে বলল==, “==আমাদের তাড়িয়ে দিও না! উনি চলে গেলে তো গ্রামে একটা অচেনা পাখিও আর আসবে না।==”"
+    },
+    {
+     "en": "I ==stood up to being the celebrity== for the ==two days we had planned==, but ==it was enough==.",
+     "bn": "==আমাদের পরিকল্পনা অনুযায়ী দুই দিন== আমি ==এই তারকা-জীবন সহ্য করলাম==, কিন্তু ==ওইটুকুই যথেষ্ট ছিল==।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "set up",
+   "pos": "phrase",
+   "pron": "/set ʌp/",
+   "bn": "স্থাপন করা, বসিয়ে দেওয়া",
+   "en": "to install or arrange something",
+   "ex": "Khorshed set me up a camp."
+  },
+  {
+   "w": "thatched",
+   "pos": "adj",
+   "pron": "/θætʃt/",
+   "bn": "ছনে/খড়ে ছাওয়া",
+   "en": "covered with straw or dry leaves",
+   "ex": "a thatched bamboo outhouse"
+  },
+  {
+   "w": "outhouse",
+   "pos": "noun",
+   "pron": "/ˈaʊthaʊs/",
+   "bn": "বাইরের ঘর, আলাদা ছোট ঘর",
+   "en": "a small building separate from the main house",
+   "ex": "in a thatched bamboo outhouse"
+  },
+  {
+   "w": "coco-palm",
+   "pos": "noun",
+   "pron": "/ˈkəʊkəʊ pɑːm/",
+   "bn": "নারকেল গাছ",
+   "en": "a coconut tree",
+   "ex": "among bamboo and coco-palms"
+  },
+  {
+   "w": "tank",
+   "pos": "noun",
+   "pron": "/tæŋk/",
+   "bn": "পুকুর, দিঘি (উপমহাদেশীয় ইংরেজি)",
+   "en": "a pond or reservoir (South Asian usage)",
+   "ex": "facing a tank where fireflies danced"
+  },
+  {
+   "w": "firefly",
+   "pos": "noun",
+   "pron": "/ˈfaɪəflaɪ/",
+   "bn": "জোনাকি",
+   "en": "an insect that glows in the dark",
+   "ex": "fireflies wove intricate dances"
+  },
+  {
+   "w": "intricate",
+   "pos": "adj",
+   "pron": "/ˈɪntrɪkət/",
+   "bn": "জটিল, কারুকার্যময়",
+   "en": "having many complicated parts",
+   "ex": "intricate dances at night"
+  },
+  {
+   "w": "weave",
+   "pos": "verb",
+   "pron": "/wiːv/",
+   "bn": "বুনে চলা, আঁকাবাঁকা পথে চলা",
+   "en": "to move in and out in a pattern",
+   "ex": "fireflies wove intricate dances"
+  },
+  {
+   "w": "hold court",
+   "pos": "idiom",
+   "pron": "/kɔːt/",
+   "bn": "দরবার বসানো; ঘিরে থাকা ভক্তদের সঙ্গে সময় কাটানো",
+   "en": "to be surrounded by admirers or visitors",
+   "ex": "holding permanent court from dawn to bedtime"
+  },
+  {
+   "w": "remote",
+   "pos": "adj",
+   "pron": "/rɪˈməʊt/",
+   "bn": "প্রত্যন্ত, দুর্গম",
+   "en": "far away and difficult to reach",
+   "ex": "too remote even for a district commissioner"
+  },
+  {
+   "w": "district commissioner",
+   "pos": "phrase",
+   "pron": "/kəˈmɪʃənə/",
+   "bn": "জেলা প্রশাসক",
+   "en": "the chief government officer of a district",
+   "ex": "too remote for a district commissioner"
+  },
+  {
+   "w": "lose one's character",
+   "pos": "phrase",
+   "pron": "/ˈkærəktə/",
+   "bn": "সুনাম বা সম্মান হারানো",
+   "en": "to lose one's good reputation",
+   "ex": "to look at me without losing their characters"
+  },
+  {
+   "w": "crawl",
+   "pos": "verb",
+   "pron": "/krɔːl/",
+   "bn": "হামাগুড়ি দিয়ে ঢোকা, গুটিয়ে যাওয়া",
+   "en": "to move slowly on hands and knees",
+   "ex": "I could crawl behind the curtains."
+  },
+  {
+   "w": "remonstrate",
+   "pos": "verb",
+   "pron": "/ˈremənstreɪt/",
+   "bn": "প্রতিবাদ করা, আপত্তি জানানো",
+   "en": "to protest or complain",
+   "ex": "when Khorshed remonstrated"
+  },
+  {
+   "w": "plead",
+   "pos": "verb",
+   "pron": "/pliːd/",
+   "bn": "মিনতি করা, আকুতি জানানো",
+   "en": "to make an emotional request",
+   "ex": "a small boy pleaded"
+  },
+  {
+   "w": "celebrity",
+   "pos": "noun",
+   "pron": "/səˈlebrəti/",
+   "bn": "খ্যাতিমান ব্যক্তি, তারকা",
+   "en": "a famous person",
+   "ex": "I stood up to being the celebrity."
+  },
+  {
+   "w": "stand up to",
+   "pos": "phrase",
+   "pron": "/stænd ʌp/",
+   "bn": "সহ্য করা, টিকে থাকা",
+   "en": "to endure or resist something",
+   "ex": "I stood up to being the celebrity for two days."
+  }
+ ],
+ "synant": [
+  {
+   "w": "intricate",
+   "bn": "জটিল",
+   "syn": [
+    "complicated",
+    "complex",
+    "elaborate"
+   ],
+   "ant": [
+    "simple",
+    "plain",
+    "candid"
+   ]
+  },
+  {
+   "w": "set up",
+   "bn": "স্থাপন করা",
+   "syn": [
+    "install",
+    "establish",
+    "arrange"
+   ],
+   "ant": [
+    "uproot",
+    "withdraw",
+    "dismantle"
+   ]
+  },
+  {
+   "w": "remote",
+   "bn": "প্রত্যন্ত",
+   "syn": [
+    "distant",
+    "isolated",
+    "far-off"
+   ],
+   "ant": [
+    "nearby",
+    "accessible",
+    "central"
+   ]
+  },
+  {
+   "w": "remonstrate",
+   "bn": "আপত্তি জানানো",
+   "syn": [
+    "protest",
+    "object",
+    "expostulate"
+   ],
+   "ant": [
+    "approve",
+    "agree",
+    "consent"
+   ]
+  },
+  {
+   "w": "plead",
+   "bn": "মিনতি করা",
+   "syn": [
+    "beg",
+    "entreat",
+    "implore"
+   ],
+   "ant": [
+    "demand",
+    "command",
+    "refuse"
+   ]
+  },
+  {
+   "w": "celebrity",
+   "bn": "তারকা",
+   "syn": [
+    "star",
+    "notable",
+    "personality"
+   ],
+   "ant": [
+    "nobody",
+    "unknown person"
+   ]
+  },
+  {
+   "w": "lovely",
+   "bn": "মনোরম",
+   "syn": [
+    "charming",
+    "delightful",
+    "beautiful"
+   ],
+   "ant": [
+    "ugly",
+    "dreary",
+    "unpleasant"
+   ]
+  },
+  {
+   "w": "prevent",
+   "bn": "বাধা দেওয়া",
+   "syn": [
+    "hinder",
+    "stop",
+    "obstruct"
+   ],
+   "ant": [
+    "allow",
+    "permit",
+    "encourage"
+   ]
+  },
+  {
+   "w": "protection",
+   "bn": "সুরক্ষা",
+   "syn": [
+    "security",
+    "safety",
+    "shelter"
+   ],
+   "ant": [
+    "danger",
+    "exposure",
+    "threat"
+   ]
+  },
+  {
+   "w": "permanent",
+   "bn": "স্থায়ী",
+   "syn": [
+    "lasting",
+    "continuous",
+    "perpetual"
+   ],
+   "ant": [
+    "temporary",
+    "brief",
+    "transient"
+   ]
+  },
+  {
+   "w": "tired",
+   "bn": "ক্লান্ত",
+   "syn": [
+    "weary",
+    "exhausted",
+    "fed up"
+   ],
+   "ant": [
+    "fresh",
+    "energetic",
+    "eager"
+   ]
+  },
+  {
+   "w": "strange",
+   "bn": "অচেনা, অদ্ভুত",
+   "syn": [
+    "unfamiliar",
+    "unusual",
+    "odd"
+   ],
+   "ant": [
+    "familiar",
+    "usual",
+    "ordinary"
+   ]
+  }
+ ],
+ "summaryEn": "In this travel sketch the writer, a European woman, describes the two days she spent in a remote Bangladeshi village. Khorshed arranged a camp for her in a thatched bamboo outhouse with a wooden bed, a chair and a table; it was a lovely spot among bamboo and coco-palms, facing a tank where fireflies wove intricate dances at night, and he put his own bed beside hers for protection. There she stayed, holding permanent court from dawn till bedtime. Within a village memory that reached back about two centuries she was the first European ever to come, for the place was so remote that not even a district commissioner had passed through it; and because she was a woman, the village women too could come, at hours different from the men, to look at her without losing their good name. People kept coming and coming, and only the rains and their poverty — few could afford boats — kept away those who lived within ten miles. When Khorshed saw that the crowd would not stop, he fixed curtains round the bed so that she could creep behind them, like a zoo animal into its sleeping box, whenever she grew tired of being stared at; yet even then the little hut filled with women and children. Children followed her whenever she went out, and when Khorshed protested, a small boy pleaded that they should not be sent away, since after she left not even a strange bird would come to their village. She endured being a celebrity for the two planned days — but that was quite enough.",
+ "summaryBn": "এই ভ্রমণচিত্রে লেখিকা, একজন ইউরোপীয় নারী, বাংলাদেশের এক প্রত্যন্ত গ্রামে কাটানো দুই দিনের বর্ণনা দিয়েছেন। খোরশেদ তাঁর জন্য ছনে ছাওয়া বাঁশের এক বাইরের ঘরে কাঠের খাট, চেয়ার ও টেবিল দিয়ে আস্তানা গুছিয়ে দিয়েছিল; জায়গাটি ছিল বাঁশঝাড় ও নারকেলগাছের মাঝে মনোরম, সামনে সেই পুকুর যেখানে রাতে জোনাকিরা জটিল নকশার নাচ বুনত, আর নিরাপত্তার জন্য খোরশেদ নিজের খাটটিও পাশে পেতেছিল। সেখানেই তিনি রইলেন, ভোর থেকে শোবার সময় পর্যন্ত যেন স্থায়ী দরবার বসিয়ে। প্রায় দুই শতাব্দী পেছন পর্যন্ত বিস্তৃত গ্রামের স্মৃতিতে তিনিই প্রথম ইউরোপীয়, কারণ জায়গাটি এতই দুর্গম যে জেলা কমিশনারও কখনো যাননি; আর তিনি নারী বলেই গ্রামের মেয়েরাও পুরুষদের থেকে আলাদা সময়ে এসে তাঁকে দেখতে পারত, তাতে তাদের সুনাম নষ্ট হতো না। মানুষ আসতেই থাকল; কেবল বর্ষা আর দারিদ্র্য — খুব কমজনেরই নৌকা ছিল — দশ মাইলের ভেতরের বাকিদের আটকে রাখল। ভিড় থামছে না দেখে খোরশেদ খাটের চারপাশে পর্দা টাঙিয়ে দিল, যাতে দেখা-হওয়ার ক্লান্তিতে তিনি চিড়িয়াখানার প্রাণীর মতো তার পেছনে গুটিয়ে যেতে পারেন; তবু ছোট কুটিরটি নারী-শিশুতে ভরে যেত। বাইরে গেলেই শিশুরা পিছু নিত, আর খোরশেদ আপত্তি জানালে এক ছোট ছেলে মিনতি করে বলল, তাদের যেন তাড়িয়ে না দেওয়া হয়, কারণ তিনি চলে গেলে গ্রামে একটা অচেনা পাখিও আর আসবে না। পরিকল্পিত দুই দিন তিনি এই তারকা-জীবন সহ্য করলেন — কিন্তু ওইটুকুই যথেষ্ট।",
+ "summaryTip": "**Travelogue-এর Summary:** ‘I’ থাকলেও Summary লিখবে **third person**-এ (‘the writer’)। স্থান → কারণ → ভিড় → পর্দা → শিশুর আকুতি → শেষ মন্তব্য — এই ক্রমে লেখো।",
+ "mcq": [
+  {
+   "q": "What is the closest meaning of the word ‘intricate’?",
+   "opts": [
+    "candid",
+    "complicated",
+    "intrigue",
+    "investigate"
+   ],
+   "ans": 1,
+   "why": "Intricate = জটিল, বহু নকশাযুক্ত = complicated. ‘Intrigue’ ও ‘investigate’ কেবল বানানে কাছাকাছি — ক্লাসিক ফাঁদ।"
+  },
+  {
+   "q": "The phrase ‘set up’ refers to —",
+   "opts": [
+    "engage",
+    "install",
+    "uproot",
+    "withdraw"
+   ],
+   "ans": 1,
+   "why": "‘Khorshed set me up a camp’ — অর্থাৎ তাঁবু/আস্তানা বসিয়ে দিল = install. ‘Uproot’ ও ‘withdraw’ ঠিক উল্টো।"
+  },
+  {
+   "q": "The speaker was a/an —",
+   "opts": [
+    "Asian",
+    "African",
+    "Australian",
+    "European"
+   ],
+   "ans": 3,
+   "why": "‘I was the first **European** to go there’ — লেখিকা নিজেই বলেছেন। এবং তিনি একজন নারী (‘since I was a woman’)।"
+  },
+  {
+   "q": "They were coming from ___ miles round.",
+   "opts": [
+    "hundred",
+    "twelve",
+    "ten",
+    "eight"
+   ],
+   "ans": 2,
+   "why": "‘…prevented them from coming from **ten** miles round.’ — অর্থাৎ দশ মাইলের ভেতর থেকেই মানুষ আসত।"
+  },
+  {
+   "q": "“People kept coming and coming.” Which people were coming?",
+   "opts": [
+    "the people from Dhaka city",
+    "the people from the surrounding villages",
+    "the people from Europe",
+    "the urban people"
+   ],
+   "ans": 1,
+   "why": "দশ মাইলের মধ্যে থাকা আশপাশের গ্রামের মানুষ — নৌকা না থাকায় ও বর্ষার কারণে অনেকে আসতে পারছিল না।"
+  },
+  {
+   "q": "Which is NOT an element of the thatched bamboo outhouse?",
+   "opts": [
+    "wooden bed",
+    "chair",
+    "table",
+    "almirah"
+   ],
+   "ans": 3,
+   "why": "প্যাসেজে তিনটি জিনিসের কথা আছে — ‘a wooden bed, chair and table’. আলমারির উল্লেখ নেই।"
+  },
+  {
+   "q": "Where were the fireflies dancing?",
+   "opts": [
+    "in the tank",
+    "near the wooden bed",
+    "among bamboo and coco-palms",
+    "in the permanent court"
+   ],
+   "ans": 0,
+   "why": "‘facing a **tank** where fireflies wove intricate dances at night’ — নাচ হতো পুকুরের উপরে। বাঁশ-নারকেল ছিল কুটিরের চারপাশে।"
+  },
+  {
+   "q": "When did the fireflies dance?",
+   "opts": [
+    "at dawn",
+    "at night",
+    "in the afternoon",
+    "at twilight"
+   ],
+   "ans": 1,
+   "why": "‘fireflies wove intricate dances **at night**’ — জোনাকি রাতেই জ্বলে।"
+  },
+  {
+   "q": "Which could prevent people from coming from ten miles?",
+   "opts": [
+    "only the rains",
+    "zoo animals",
+    "camp",
+    "Khorshed"
+   ],
+   "ans": 0,
+   "why": "দুটি কারণ ছিল — বর্ষা এবং নৌকার অভাব। প্রদত্ত option-গুলোর মধ্যে কেবল ‘the rains’-ই প্যাসেজসম্মত।"
+  },
+  {
+   "q": "Who had fixed some curtains round the bed?",
+   "opts": [
+    "the speaker herself",
+    "the children",
+    "Khorshed",
+    "the boy"
+   ],
+   "ans": 2,
+   "why": "‘**Khorshed** fixed some curtains round the bed’ — ভিড় থামছে না দেখে সে-ই এই ব্যবস্থা করেছিল।"
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "“Khorshed fixed some curtains round the bed.” — Why did Khorshed do it?",
+   "a": "Khorshed did it to give the writer some privacy. Since she was the first European ever to visit that remote village, people kept coming and coming from all around to look at her, and the crowd would not stop. When Khorshed saw this, he fixed curtains round her bed so that whenever she grew tired of being stared at she could crawl behind them, like a zoo animal creeping into its sleeping box. It was, in short, an act of thoughtful care and protection.",
+   "bn": "খোরশেদ এটি করেছিল লেখিকাকে কিছুটা নিভৃতি দেওয়ার জন্য। তিনি ছিলেন সেই প্রত্যন্ত গ্রামে আসা প্রথম ইউরোপীয়, তাই মানুষ দলে দলে তাঁকে দেখতে আসছিল এবং ভিড় থামছিল না। তাই খোরশেদ খাটের চারপাশে পর্দা টাঙিয়ে দিল, যাতে ক্লান্ত হলে তিনি তার পেছনে গুটিয়ে থাকতে পারেন — এটি ছিল যত্ন ও সুরক্ষারই প্রকাশ।"
+  },
+  {
+   "q": "Describe the spot where fireflies wove intricate dances.",
+   "a": "The spot was a tank, that is, a village pond, which lay just in front of the writer's hut. The hut itself was a thatched bamboo outhouse standing in a lovely place among bamboo clumps and coco-palms. Every night countless fireflies flew over the water in complicated, criss-cross patterns, so that the writer says they ‘wove intricate dances’. The image gives us a picture of a quiet, beautiful and almost magical rural Bengal at night.",
+   "bn": "জায়গাটি ছিল একটি পুকুর, যা লেখিকার কুটিরের ঠিক সামনে ছিল। কুটিরটি ছিল বাঁশঝাড় ও নারকেলগাছের মাঝে ছনে ছাওয়া একটি বাঁশের ঘর। প্রতি রাতে অসংখ্য জোনাকি জলের উপরে জটিল, আঁকাবাঁকা নকশায় উড়ে বেড়াত — তাই লেখিকা বলেছেন তারা ‘জটিল নাচ বুনত’। ছবিটি রাতের গ্রামবাংলার শান্ত ও মায়াবী রূপ ফুটিয়ে তোলে।"
+  },
+  {
+   "q": "What is the significance of “like a zoo animal into its sleeping hut”?",
+   "a": "The simile is the heart of the passage. In a zoo, people crowd round to stare at an animal, and the animal escapes into its sleeping box when it can bear the gaze no longer. The writer felt exactly like that: the villagers were not unkind, but their endless curiosity turned her into an object of display, so that she had to creep behind the curtains for relief. The comparison therefore expresses, with gentle humour and a little self-mockery, how uncomfortable it is to be looked at as a curiosity instead of being treated as a person.",
+   "bn": "উপমাটিই প্যাসেজের প্রাণ। চিড়িয়াখানায় মানুষ ভিড় করে প্রাণীটিকে দেখে, আর প্রাণীটি সহ্য করতে না পেরে ঘুমঘরে ঢুকে পড়ে। লেখিকার অবস্থাও ঠিক তাই — গ্রামবাসীর কৌতূহল নিষ্ঠুর ছিল না, কিন্তু তা তাঁকে প্রদর্শনীর বস্তু বানিয়ে ফেলেছিল, ফলে স্বস্তির জন্য তাঁকে পর্দার আড়ালে যেতে হতো। মৃদু কৌতুক ও আত্ম-ব্যঙ্গে উপমাটি বোঝায়, মানুষ হিসেবে নয় বরং কৌতূহলের বস্তু হিসেবে দেখা হওয়া কতটা অস্বস্তিকর।"
+  },
+  {
+   "q": "How long did the speaker stay?",
+   "a": "The speaker stayed in the village for two days only. That was the length of time they had planned for the visit, and she says that she ‘stood up to being the celebrity’ for those two days. Her closing remark, ‘but it was enough’, makes it clear that although the villagers were friendly and Khorshed took good care of her, the constant staring had exhausted her and she had no wish to stay any longer.",
+   "bn": "লেখিকা গ্রামে ছিলেন মাত্র দুই দিন। পরিকল্পনা অনুযায়ী এই সময়টুকুই ঠিক করা ছিল এবং তিনি বলেছেন, ওই দুই দিন তিনি ‘তারকা-জীবন সহ্য করেছেন’। শেষ মন্তব্য ‘but it was enough’ থেকেই বোঝা যায়, গ্রামবাসী বন্ধুভাবাপন্ন হলেও নিরন্তর দেখা-হওয়া তাঁকে ক্লান্ত করে তুলেছিল।"
+  },
+  {
+   "q": "What was the speaker tired of?",
+   "a": "The speaker was tired of being looked at. From dawn to bedtime she had to hold what she calls ‘permanent court’, because she was the first European in two centuries of village memory and everybody wished to see her. Men came at one time and women at another, children followed her whenever she went out, and even after Khorshed had fixed curtains the little hut would fill up with women and children. It was this endless, unbroken gaze — not the villagers themselves — that wearied her.",
+   "bn": "লেখিকা ক্লান্ত হয়ে পড়েছিলেন নিরন্তর দেখা-হওয়ায়। ভোর থেকে শোবার সময় পর্যন্ত তাঁকে যেন ‘স্থায়ী দরবার’ বসিয়ে থাকতে হতো, কারণ দুই শতাব্দীর গ্রামস্মৃতিতে তিনিই প্রথম ইউরোপীয় এবং সবাই তাঁকে দেখতে চাইত। পুরুষ ও নারীরা আলাদা সময়ে আসত, বাইরে গেলে শিশুরা পিছু নিত, পর্দা টাঙানোর পরও কুটির ভরে যেত। মানুষ নয়, এই অবিরাম দৃষ্টিই তাঁকে ক্লান্ত করেছিল।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "Who / What",
+   "Event / Occurrence",
+   "What / When",
+   "Why / How / Where"
+  ],
+  "rows": [
+   [
+    "Khorshed",
+    "provided the writer (i) @with a camp — a wooden bed, chair and table",
+    "(ii) @in a thatched bamboo outhouse",
+    "among bamboo and coco-palms"
+   ],
+   [
+    "(iii) @Khorshed's own bed",
+    "was situated (iv) @beside the writer's bed",
+    "for protection",
+    "in the same outhouse"
+   ],
+   [
+    "A tank",
+    "(v) @faced the writer's hut",
+    "(vi) @where fireflies wove intricate dances at night",
+    "in front of the outhouse"
+   ],
+   [
+    "(vii) @The writer (the authoress)",
+    "was the first European woman to go to the village",
+    "within village memory of some two centuries",
+    "because the place was too remote"
+   ],
+   [
+    "People around the village",
+    "(viii) @kept coming and coming",
+    "(ix) @to look at the writer",
+    "from ten miles round"
+   ],
+   [
+    "Khorshed",
+    "set some curtains around the bed",
+    "when the writer felt bored of being looked at",
+    "(x) @so that she could crawl behind them like a zoo animal into its sleeping box"
+   ]
+  ],
+  "note": "‘Why/How/Where’ কলামে কারণ বা উপায়সূচক clause বসে — ‘so that…’, ‘because…’, ‘among…’ দিয়ে শুরু করো।"
+ },
+ "flow": {
+  "title": "Condition of the Writer in the Village — গ্রামে লেখিকার অবস্থা",
+  "items": [
+   {
+    "t": "Living in a thatched bamboo outhouse",
+    "bn": "ছনে ছাওয়া বাঁশের ঘরে বসবাস (দেওয়া আছে)"
+   },
+   {
+    "t": "Holding permanent court from dawn to bedtime",
+    "bn": "ভোর থেকে রাত পর্যন্ত যেন স্থায়ী দরবার"
+   },
+   {
+    "t": "Being the first European in two centuries of village memory",
+    "bn": "দুই শতাব্দীতে গ্রামের প্রথম ইউরোপীয়"
+   },
+   {
+    "t": "Watched by crowds coming from ten miles round",
+    "bn": "দশ মাইল দূর থেকেও আসা ভিড়ের কৌতূহল"
+   },
+   {
+    "t": "Crawling behind curtains like a zoo animal into its sleeping box",
+    "bn": "চিড়িয়াখানার প্রাণীর মতো পর্দার আড়ালে আশ্রয়"
+   },
+   {
+    "t": "Standing up to being a celebrity for two days — but it was enough",
+    "bn": "দুই দিন তারকা-জীবন সহ্য — ওইটুকুই যথেষ্ট"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "Why Was She Such an Attraction? <span class='sub'>— কেন এত ভিড়</span>",
+   "key": "Why crowds",
+   "table": {
+    "headers": [
+     "Reason from the text",
+     "Explanation"
+    ],
+    "rows": [
+     [
+      "First European in village memory",
+      "That memory went back about two centuries"
+     ],
+     [
+      "The village was extremely remote",
+      "Too remote even for a district commissioner to pass through"
+     ],
+     [
+      "She was a woman",
+      "So village women could also come to see her without losing their character"
+     ],
+     [
+      "Nothing new ever happened there",
+      "‘After she's gone not even a strange bird will come to the village.’"
+     ],
+     [
+      "What limited the crowd",
+      "Only the rains and the fact that few could afford boats"
+     ]
+    ]
+   },
+   "note": "ছোট ছেলেটির একটি বাক্যেই গোটা গ্রামের একঘেয়েমি ধরা পড়েছে — Short Question-এ এই উদ্ধৃতিটি ব্যবহার করলে উত্তর প্রাণ পায়।"
+  },
+  {
+   "title": "Literary Devices <span class='sub'>— সাহিত্যিক কৌশল</span>",
+   "key": "Devices",
+   "table": {
+    "headers": [
+     "Expression",
+     "Device",
+     "Effect"
+    ],
+    "rows": [
+     [
+      "“fireflies wove intricate dances”",
+      "Personification / imagery",
+      "@জোনাকিদের ওড়াকে নাচ ও বয়নশিল্পের রূপ দেয়"
+     ],
+     [
+      "“holding permanent court”",
+      "Metaphor",
+      "@লেখিকা যেন রানি, চারপাশে প্রজাদের ভিড়"
+     ],
+     [
+      "“like a zoo animal into its sleeping box”",
+      "Simile",
+      "@প্রদর্শিত হওয়ার অস্বস্তি ও আত্ম-ব্যঙ্গ"
+     ],
+     [
+      "“not even a strange bird will come”",
+      "Understatement / pathos",
+      "@গ্রামের চরম একঘেয়েমি ও নিঃসঙ্গতা"
+     ],
+     [
+      "“People kept coming and coming.”",
+      "Repetition",
+      "@ভিড়ের অন্তহীনতা বোঝায়"
+     ]
+    ]
+   },
+   "note": "**Simile ও Metaphor** — এই দুটি নাম উদাহরণসহ মনে রাখলেই ‘literary device’ প্রশ্নে পূর্ণ নম্বর।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🧭",
+   "t": "First-person travelogue → third-person summary",
+   "d": "‘I’, ‘me’, ‘my’ দিয়ে লেখা প্যাসেজের Summary লিখবে ‘the writer’, ‘she’ দিয়ে — এটি বোর্ডের নিয়ম।"
+  },
+  {
+   "em": "🐦",
+   "t": "The boy's line is the emotional peak",
+   "type": "ok",
+   "d": "‘After she's gone not even a strange bird will come to the village’ — এই একটি বাক্যেই গ্রামের নিঃসঙ্গতা। উদ্ধৃত করলে নম্বর বাড়ে।"
+  },
+  {
+   "em": "🦓",
+   "t": "Explain the zoo simile fully",
+   "d": "উপমার তিন ধাপ লেখো: চিড়িয়াখানার ছবি + লেখিকার অবস্থা + যে অনুভূতি বোঝাচ্ছে (প্রদর্শিত হওয়ার অস্বস্তি)।"
+  },
+  {
+   "em": "🏞️",
+   "t": "‘Tank’ means pond here",
+   "type": "warn",
+   "d": "উপমহাদেশীয় ইংরেজিতে ‘tank’ = পুকুর/দিঘি, পানির ট্যাংক নয়। MCQ-তে এখানেই ভুল হয়।"
+  },
+  {
+   "em": "🔍",
+   "t": "Two causes, one option",
+   "d": "ভিড় ঠেকিয়েছিল দুটি কারণ (বর্ষা + নৌকার অভাব), কিন্তু option-এ থাকে একটি। প্যাসেজসম্মত যেটি, সেটিই নাও।"
+  },
+  {
+   "em": "✂️",
+   "t": "Short passage, detailed questions",
+   "d": "মাত্র ১১টি বাক্য, কিন্তু ১০টি MCQ। তাই প্রতিটি বিশেষণ ও সংখ্যা (two centuries, ten miles, two days) দাগিয়ে রাখো।"
+  }
+ ],
+ "recap": [
+  "খোরশেদ ছনে ছাওয়া বাঁশের ঘরে খাট-চেয়ার-টেবিল দিয়ে আস্তানা গড়ে দেয়, পাশে নিজের খাট রাখে নিরাপত্তার জন্য।",
+  "লেখিকা দুই শতাব্দীর গ্রামস্মৃতিতে প্রথম ইউরোপীয়; জায়গাটি এতই দুর্গম যে DC-ও যাননি।",
+  "নারী হওয়ায় গ্রামের মেয়েরাও আলাদা সময়ে তাঁকে দেখতে আসতে পারত।",
+  "ভিড় থামাতে খোরশেদ পর্দা টাঙায় — ‘like a zoo animal into its sleeping box’.",
+  "ছেলেটির আকুতি: ‘উনি চলে গেলে একটা অচেনা পাখিও আর আসবে না।’ — দুই দিনেই যথেষ্ট।"
+ ],
+ "homework": [
+  "‘zoo animal’ উপমাটির ব্যাখ্যা তিন ধাপে লিখে আনবে।",
+  "‘Why was she such an attraction?’ — ৫টি কারণ লিখবে।",
+  "৫টি সাহিত্যিক কৌশল উদাহরণসহ খাতায় তুলবে।",
+  "Summary ১২০ শব্দে third person-এ লিখে আনবে।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

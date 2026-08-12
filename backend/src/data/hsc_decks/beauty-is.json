@@ -1,0 +1,773 @@
+{
+ "id": "beauty-is",
+ "unit": "Extra 01",
+ "unitName": "Art, Beauty &amp; Manners",
+ "title": "Beauty is Easy to Appreciate but Difficult to Define",
+ "titleBn": "সৌন্দর্য উপভোগ সহজ, সংজ্ঞা কঠিন",
+ "lede": "সৌন্দর্য কি বস্তুনিষ্ঠ না দর্শকের চোখে? কুৎসিততারও কি জীবনে স্থান আছে? আর কিটসের অমর পঙ্‌ক্তি — ‘Beauty is truth, truth beauty’.",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 50,
+ "marks": "30",
+ "mcqMarks": "1×5 = 5 (+ practice)",
+ "objectives": [
+  {
+   "t": "Follow a philosophical argument",
+   "d": "প্রশ্ন → জটিলতা → উত্তর — দার্শনিক প্যাসেজ পড়ার কৌশল"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "১৬টি বাক্যের বাংলা অর্থ"
+  },
+  {
+   "t": "Understand Keats's line",
+   "d": "‘Beauty is truth, truth beauty’ — তিন স্তরের ব্যাখ্যা"
+  },
+  {
+   "t": "Vocabulary + Synonym / Antonym",
+   "d": "appreciate, beholder, repulse, manifest, incorporate…"
+  },
+  {
+   "t": "MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — Easy to feel, hard to define",
+   "s": [
+    {
+     "en": "Beauty is easy to ==appreciate== but difficult to ==define==.",
+     "bn": "সৌন্দর্য ==উপভোগ করা== সহজ, কিন্তু তার ==সংজ্ঞা দেওয়া== কঠিন।"
+    },
+    {
+     "en": "As we look around, we discover beauty in ==pleasurable objects and sights== — in ==nature==, in the ==laughter of children==, in the ==kindness of strangers==.",
+     "bn": "চারপাশে তাকালেই আমরা সৌন্দর্য খুঁজে পাই ==আনন্দদায়ক বস্তু ও দৃশ্যে== — ==প্রকৃতিতে==, ==শিশুদের হাসিতে==, ==অচেনা মানুষের দয়ায়==।"
+    },
+    {
+     "en": "But asked to define, we ==run into difficulties==.",
+     "bn": "কিন্তু সংজ্ঞা দিতে বললেই আমরা ==সমস্যায় পড়ে যাই==।"
+    },
+    {
+     "en": "Does beauty have an ==independent objective identity==?",
+     "bn": "সৌন্দর্যের কি কোনো ==স্বাধীন, বস্তুনিষ্ঠ সত্তা== আছে?"
+    },
+    {
+     "en": "Is it ==universal==, or is it ==dependent on our sense perceptions==?",
+     "bn": "এটি কি ==সর্বজনীন==, নাকি ==আমাদের ইন্দ্রিয়-অনুভূতির ওপর নির্ভরশীল==?"
+    },
+    {
+     "en": "Does it ==lie in the eye of the beholder==? We ask ourselves.",
+     "bn": "এটি কি ==দর্শকের চোখেই নিহিত==? — আমরা নিজেদের প্রশ্ন করি।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — The place of ugliness",
+   "s": [
+    {
+     "en": "A further difficulty arises when beauty ==manifests itself not only by its presence, but by its absence as well==, as when we are ==repulsed by ugliness== and desire beauty.",
+     "bn": "আরও একটি জটিলতা দেখা দেয় যখন সৌন্দর্য ==কেবল তার উপস্থিতিতে নয়, অনুপস্থিতিতেও নিজেকে প্রকাশ করে== — যেমন যখন আমরা ==কুৎসিততায় বিতৃষ্ণ হয়ে== সৌন্দর্য কামনা করি।"
+    },
+    {
+     "en": "But then ==ugliness has as much a place in our lives as beauty==, or maybe more, as when there is ==widespread hunger and injustice== in a society.",
+     "bn": "কিন্তু তাহলে ==সৌন্দর্যের মতোই কুৎসিততারও আমাদের জীবনে স্থান আছে==, হয়তো আরও বেশি — যেমন যখন সমাজে ==ব্যাপক ক্ষুধা ও অবিচার== বিরাজ করে।"
+    },
+    {
+     "en": "Philosophers have told us that ==beauty is an important part of life==, but ==isn't ugliness a part of life too?==",
+     "bn": "দার্শনিকেরা আমাদের বলেছেন ==সৌন্দর্য জীবনের একটি গুরুত্বপূর্ণ অংশ==, কিন্তু ==কুৎসিততাও কি জীবনেরই অংশ নয়?=="
+    },
+    {
+     "en": "And if art has beauty as an ==important ingredient==, can it ==confine itself only to a projection of beauty==?",
+     "bn": "আর শিল্পের যদি সৌন্দর্য একটি ==গুরুত্বপূর্ণ উপাদান== হয়, তবে কি শিল্প ==কেবল সৌন্দর্যের উপস্থাপনেই নিজেকে সীমাবদ্ধ রাখতে== পারে?"
+    },
+    {
+     "en": "==Can art ignore what is not beautiful?==",
+     "bn": "==যা সুন্দর নয়, শিল্প কি তা উপেক্ষা করতে পারে?=="
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — The answer of poets and artists",
+   "s": [
+    {
+     "en": "Poets and artists have provided an answer by ==incorporating both into their work==.",
+     "bn": "কবি ও শিল্পীরা এর উত্তর দিয়েছেন ==দুটোকেই নিজেদের সৃষ্টিতে অন্তর্ভুক্ত করে==।"
+    },
+    {
+     "en": "In doing so, they have often ==tied beauty to truth and justice==, so that what is not beautiful ==assumes a tolerable proportion== as something that ==represents some truth about life==.",
+     "bn": "এভাবে তাঁরা প্রায়ই ==সৌন্দর্যকে সত্য ও ন্যায়ের সঙ্গে বেঁধে দিয়েছেন==, ফলে যা সুন্দর নয় তা ==সহনীয় মাত্রা লাভ করে== এমন কিছু হিসেবে যা ==জীবনের কোনো সত্যকে তুলে ধরে==।"
+    },
+    {
+     "en": "==John Keats==, the ==romantic poet==, wrote in his celebrated ==‘Ode on a Grecian Urn’==, “==Beauty is truth, truth beauty==”, by which he means that ==truth, even if it's not pleasant, becomes beautiful at a higher level==.",
+     "bn": "==রোমান্টিক কবি জন কিটস== তাঁর বিখ্যাত ==‘ওড অন আ গ্রিসিয়ান আর্ন’== কবিতায় লিখেছেন, “==সৌন্দর্যই সত্য, সত্যই সৌন্দর্য==” — এর দ্বারা তিনি বোঝাতে চেয়েছেন যে ==সত্য, তা অপ্রীতিকর হলেও, উচ্চতর স্তরে সুন্দর হয়ে ওঠে==।"
+    },
+    {
+     "en": "Similarly, ==what is beautiful forever remains true==.",
+     "bn": "একইভাবে, ==যা সুন্দর তা চিরকাল সত্য হয়েই থাকে==।"
+    },
+    {
+     "en": "Another meaning, in the context of the Grecian Urn — ==an art object== — is that ==truth is a condition of art==.",
+     "bn": "গ্রিসিয়ান আর্ন — অর্থাৎ ==একটি শিল্পবস্তুর== — প্রসঙ্গে আরেকটি অর্থ হলো, ==সত্যই শিল্পের অপরিহার্য শর্ত==।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "appreciate",
+   "pos": "verb",
+   "pron": "/əˈpriːʃieɪt/",
+   "bn": "কদর করা, উপভোগ করা, প্রশংসা করা",
+   "en": "to recognise the good qualities of something",
+   "ex": "Beauty is easy to appreciate."
+  },
+  {
+   "w": "define",
+   "pos": "verb",
+   "pron": "/dɪˈfaɪn/",
+   "bn": "সংজ্ঞা দেওয়া",
+   "en": "to state the exact meaning of something",
+   "ex": "Beauty is difficult to define."
+  },
+  {
+   "w": "pleasurable",
+   "pos": "adj",
+   "pron": "/ˈpleʒərəbl/",
+   "bn": "আনন্দদায়ক",
+   "en": "giving pleasure",
+   "ex": "beauty in pleasurable objects and sights"
+  },
+  {
+   "w": "objective",
+   "pos": "adj",
+   "pron": "/əbˈdʒektɪv/",
+   "bn": "বস্তুনিষ্ঠ (ব্যক্তিগত মত-নিরপেক্ষ)",
+   "en": "existing independently of the mind",
+   "ex": "an independent objective identity"
+  },
+  {
+   "w": "universal",
+   "pos": "adj",
+   "pron": "/ˌjuːnɪˈvɜːsl/",
+   "bn": "সর্বজনীন",
+   "en": "true for everyone everywhere",
+   "ex": "Is beauty universal?"
+  },
+  {
+   "w": "sense perception",
+   "pos": "phrase",
+   "pron": "/pəˈsepʃn/",
+   "bn": "ইন্দ্রিয়-অনুভূতি",
+   "en": "the way we know things through our senses",
+   "ex": "dependent on our sense perceptions"
+  },
+  {
+   "w": "beholder",
+   "pos": "noun",
+   "pron": "/bɪˈhəʊldə/",
+   "bn": "দর্শক, যে দেখে",
+   "en": "a person who looks at something",
+   "ex": "Beauty lies in the eye of the beholder."
+  },
+  {
+   "w": "manifest",
+   "pos": "verb",
+   "pron": "/ˈmænɪfest/",
+   "bn": "প্রকাশ পাওয়া, প্রকট হওয়া",
+   "en": "to show itself clearly",
+   "ex": "Beauty manifests itself by its absence too."
+  },
+  {
+   "w": "repulse",
+   "pos": "verb",
+   "pron": "/rɪˈpʌls/",
+   "bn": "বিতৃষ্ণ করা, ঘৃণা জাগানো",
+   "en": "to cause a feeling of strong dislike",
+   "ex": "We are repulsed by ugliness."
+  },
+  {
+   "w": "ugliness",
+   "pos": "noun",
+   "pron": "/ˈʌɡlinəs/",
+   "bn": "কুৎসিততা, কদর্যতা",
+   "en": "the quality of being unpleasant to look at",
+   "ex": "Ugliness has a place in our lives."
+  },
+  {
+   "w": "widespread",
+   "pos": "adj",
+   "pron": "/ˈwaɪdspred/",
+   "bn": "ব্যাপক",
+   "en": "found or happening over a large area",
+   "ex": "widespread hunger and injustice"
+  },
+  {
+   "w": "ingredient",
+   "pos": "noun",
+   "pron": "/ɪnˈɡriːdiənt/",
+   "bn": "উপাদান",
+   "en": "one of the parts that make up a whole",
+   "ex": "beauty as an important ingredient of art"
+  },
+  {
+   "w": "confine",
+   "pos": "verb",
+   "pron": "/kənˈfaɪn/",
+   "bn": "সীমাবদ্ধ রাখা",
+   "en": "to keep within limits",
+   "ex": "Can art confine itself only to beauty?"
+  },
+  {
+   "w": "projection",
+   "pos": "noun",
+   "pron": "/prəˈdʒekʃn/",
+   "bn": "উপস্থাপন, তুলে ধরা",
+   "en": "the act of presenting something",
+   "ex": "a projection of beauty"
+  },
+  {
+   "w": "incorporate",
+   "pos": "verb",
+   "pron": "/ɪnˈkɔːpəreɪt/",
+   "bn": "অন্তর্ভুক্ত করা",
+   "en": "to include something as a part",
+   "ex": "incorporating both into their work"
+  },
+  {
+   "w": "tolerable",
+   "pos": "adj",
+   "pron": "/ˈtɒlərəbl/",
+   "bn": "সহনীয়",
+   "en": "that can be accepted or endured",
+   "ex": "assumes a tolerable proportion"
+  },
+  {
+   "w": "celebrated",
+   "pos": "adj",
+   "pron": "/ˈselɪbreɪtɪd/",
+   "bn": "বিখ্যাত, খ্যাতনামা",
+   "en": "famous and much praised",
+   "ex": "his celebrated ‘Ode on a Grecian Urn’"
+  },
+  {
+   "w": "urn",
+   "pos": "noun",
+   "pron": "/ɜːn/",
+   "bn": "কলস, পাত্র (প্রাচীন শিল্পবস্তু)",
+   "en": "a tall decorated vase",
+   "ex": "Ode on a Grecian Urn"
+  }
+ ],
+ "synant": [
+  {
+   "w": "appreciate",
+   "bn": "কদর করা",
+   "syn": [
+    "praise",
+    "admire",
+    "value"
+   ],
+   "ant": [
+    "depreciate",
+    "belittle",
+    "despise"
+   ]
+  },
+  {
+   "w": "beholder",
+   "bn": "দর্শক",
+   "syn": [
+    "watcher",
+    "observer",
+    "spectator"
+   ],
+   "ant": [
+    "performer",
+    "actor"
+   ]
+  },
+  {
+   "w": "repulse",
+   "bn": "বিতৃষ্ণ করা",
+   "syn": [
+    "disgust",
+    "revolt",
+    "drive back"
+   ],
+   "ant": [
+    "attract",
+    "please",
+    "charm"
+   ]
+  },
+  {
+   "w": "objective",
+   "bn": "বস্তুনিষ্ঠ",
+   "syn": [
+    "impartial",
+    "unbiased",
+    "factual"
+   ],
+   "ant": [
+    "subjective",
+    "biased",
+    "personal"
+   ]
+  },
+  {
+   "w": "universal",
+   "bn": "সর্বজনীন",
+   "syn": [
+    "general",
+    "worldwide",
+    "common"
+   ],
+   "ant": [
+    "particular",
+    "local",
+    "individual"
+   ]
+  },
+  {
+   "w": "manifest",
+   "bn": "প্রকাশ পাওয়া",
+   "syn": [
+    "reveal",
+    "display",
+    "exhibit"
+   ],
+   "ant": [
+    "conceal",
+    "hide",
+    "mask"
+   ]
+  },
+  {
+   "w": "ugliness",
+   "bn": "কুৎসিততা",
+   "syn": [
+    "hideousness",
+    "unsightliness",
+    "deformity"
+   ],
+   "ant": [
+    "beauty",
+    "loveliness",
+    "charm"
+   ]
+  },
+  {
+   "w": "confine",
+   "bn": "সীমাবদ্ধ রাখা",
+   "syn": [
+    "restrict",
+    "limit",
+    "enclose"
+   ],
+   "ant": [
+    "free",
+    "release",
+    "expand"
+   ]
+  },
+  {
+   "w": "incorporate",
+   "bn": "অন্তর্ভুক্ত করা",
+   "syn": [
+    "include",
+    "absorb",
+    "embody"
+   ],
+   "ant": [
+    "exclude",
+    "omit",
+    "separate"
+   ]
+  },
+  {
+   "w": "tolerable",
+   "bn": "সহনীয়",
+   "syn": [
+    "bearable",
+    "endurable",
+    "acceptable"
+   ],
+   "ant": [
+    "intolerable",
+    "unbearable"
+   ]
+  },
+  {
+   "w": "celebrated",
+   "bn": "বিখ্যাত",
+   "syn": [
+    "renowned",
+    "famous",
+    "acclaimed"
+   ],
+   "ant": [
+    "obscure",
+    "unknown",
+    "notorious"
+   ]
+  },
+  {
+   "w": "pleasurable",
+   "bn": "আনন্দদায়ক",
+   "syn": [
+    "delightful",
+    "enjoyable",
+    "agreeable"
+   ],
+   "ant": [
+    "painful",
+    "unpleasant",
+    "disagreeable"
+   ]
+  }
+ ],
+ "summaryEn": "Beauty is something that everyone can enjoy but nobody can easily explain. Looking around us we find it in pleasurable objects and sights — in nature, in the laughter of children, in the kindness of strangers — yet the moment we are asked for a definition we run into difficulty, for we cannot decide whether beauty has an independent objective identity, whether it is universal or depends on our sense perceptions, or whether it merely lies in the eye of the beholder. A greater difficulty is that beauty reveals itself not only by its presence but also by its absence, since we long for beauty most when ugliness repels us; and ugliness occupies as large a place in life as beauty, perhaps larger, where hunger and injustice are widespread. If philosophers call beauty an important part of life, ugliness too is a part of life; and if beauty is an essential ingredient of art, art still cannot confine itself to beauty alone or ignore what is unbeautiful. Poets and artists have answered this problem by taking both into their work, and by tying beauty to truth and justice, so that whatever is not beautiful becomes tolerable as the expression of some truth of life. This is what the romantic poet John Keats meant in his celebrated ‘Ode on a Grecian Urn’ when he wrote, “Beauty is truth, truth beauty” — an unpleasant truth becomes beautiful at a higher level, what is beautiful remains forever true, and, in the context of an art object, truth itself is the condition of art.",
+ "summaryBn": "সৌন্দর্য এমন এক জিনিস যা সবাই উপভোগ করতে পারে, অথচ সহজে কেউ ব্যাখ্যা করতে পারে না। চারপাশে তাকালেই আমরা তা খুঁজে পাই আনন্দদায়ক বস্তু ও দৃশ্যে — প্রকৃতিতে, শিশুদের হাসিতে, অচেনা মানুষের দয়ায়; কিন্তু সংজ্ঞা চাইলেই আমরা বিপাকে পড়ি, কারণ ঠিক করতে পারি না সৌন্দর্যের কোনো স্বাধীন বস্তুনিষ্ঠ সত্তা আছে কি না, এটি সর্বজনীন নাকি আমাদের ইন্দ্রিয়-অনুভূতির ওপর নির্ভরশীল, নাকি তা কেবল দর্শকের চোখেই নিহিত। আরও বড় জটিলতা হলো, সৌন্দর্য কেবল উপস্থিতিতে নয়, অনুপস্থিতিতেও নিজেকে প্রকাশ করে — কুৎসিততা যখন আমাদের বিতৃষ্ণ করে, তখনই আমরা সৌন্দর্যের জন্য সবচেয়ে বেশি ব্যাকুল হই; আর যেখানে ক্ষুধা ও অবিচার ব্যাপক, সেখানে জীবনে কুৎসিততার স্থান সৌন্দর্যের সমান, হয়তো তারও বেশি। দার্শনিকেরা যদি সৌন্দর্যকে জীবনের গুরুত্বপূর্ণ অংশ বলেন, তবে কুৎসিততাও জীবনেরই অংশ; আর সৌন্দর্য শিল্পের অপরিহার্য উপাদান হলেও শিল্প কেবল সৌন্দর্যে সীমাবদ্ধ থাকতে বা অসুন্দরকে উপেক্ষা করতে পারে না। কবি ও শিল্পীরা এর উত্তর দিয়েছেন দুটোকেই সৃষ্টিতে ঠাঁই দিয়ে এবং সৌন্দর্যকে সত্য ও ন্যায়ের সঙ্গে বেঁধে দিয়ে, যাতে যা সুন্দর নয় তা জীবনের কোনো সত্যের প্রকাশ হিসেবে সহনীয় হয়ে ওঠে। রোমান্টিক কবি জন কিটস তাঁর বিখ্যাত ‘ওড অন আ গ্রিসিয়ান আর্ন’-এ ঠিক এ কথাই বলেছেন — “সৌন্দর্যই সত্য, সত্যই সৌন্দর্য”: অপ্রীতিকর সত্যও উচ্চতর স্তরে সুন্দর হয়ে ওঠে, যা সুন্দর তা চিরকাল সত্য থাকে, আর শিল্পবস্তুর প্রসঙ্গে সত্যই শিল্পের শর্ত।",
+ "summaryTip": "**দার্শনিক প্যাসেজ:** এখানে অনেক প্রশ্নবোধক বাক্য আছে। Summary-তে প্রশ্ন রেখো না — প্রশ্নগুলোকে বিবৃতিতে বদলে দাও (‘we cannot decide whether…’)। শেষে কিটসের উক্তি ও তার তিনটি অর্থ অবশ্যই রাখো।",
+ "mcq": [
+  {
+   "q": "The word ‘appreciate’ means —",
+   "opts": [
+    "praise",
+    "choose",
+    "select",
+    "like"
+   ],
+   "ans": 0,
+   "why": "Appreciate = গুণ চিনে কদর/প্রশংসা করা = praise. ‘Like’ কেবল পছন্দ বোঝায়, মূল্যায়ন নয়।"
+  },
+  {
+   "q": "The word “repulsed” stands for —",
+   "opts": [
+    "disgusted",
+    "ignored",
+    "attracted",
+    "regarded"
+   ],
+   "ans": 0,
+   "why": "Repulse = তীব্র বিতৃষ্ণা জাগানো = disgusted (‘we are repulsed by ugliness’)। ‘Attracted’ ঠিক উল্টো অর্থ। ⚠️ প্রশ্নপত্রে অনেক সময় বানানভুলে ‘disguised’ ছাপা হয় — আসল শব্দ **disgusted**."
+  },
+  {
+   "q": "Beauty also prevails in —",
+   "opts": [
+    "truth",
+    "pleasurable objects",
+    "ugliness",
+    "beautification"
+   ],
+   "ans": 1,
+   "why": "‘we discover beauty in **pleasurable objects and sights**’ — প্রকৃতি, শিশুর হাসি, অচেনা মানুষের দয়া।"
+  },
+  {
+   "q": "The best synonym of “beholder” is —",
+   "opts": [
+    "runner",
+    "sender",
+    "watcher",
+    "stopper"
+   ],
+   "ans": 2,
+   "why": "Behold = দেখা; তাই beholder = দর্শক = watcher. প্রবাদটি — ‘Beauty lies in the eye of the beholder.’"
+  },
+  {
+   "q": "We face difficulties —",
+   "opts": [
+    "when we go through any poem",
+    "when we are told to define beauty",
+    "when we appreciate beauty",
+    "when we are told to define truth"
+   ],
+   "ans": 1,
+   "why": "‘But asked to **define**, we run into difficulties.’ — উপভোগে নয়, সংজ্ঞা দিতেই সমস্যা।"
+  },
+  {
+   "q": "‘Ode on a Grecian Urn’ was written by —",
+   "opts": [
+    "William Wordsworth",
+    "John Keats",
+    "P. B. Shelley",
+    "Lord Byron"
+   ],
+   "ans": 1,
+   "why": "রোমান্টিক কবি জন কিটস — প্যাসেজে সরাসরি উল্লেখ আছে। (চারজনই রোমান্টিক কবি, তাই মনোযোগ দরকার।)"
+  },
+  {
+   "q": "“Beauty is truth, truth beauty” means that —",
+   "opts": [
+    "only pleasant things are true",
+    "truth, even if unpleasant, becomes beautiful at a higher level",
+    "beauty and truth are opposites",
+    "art must avoid the truth"
+   ],
+   "ans": 1,
+   "why": "প্যাসেজেই ব্যাখ্যা আছে — ‘truth, even if it's not pleasant, becomes beautiful at a higher level’."
+  },
+  {
+   "q": "According to the passage, ugliness has —",
+   "opts": [
+    "no place in our lives",
+    "as much a place in our lives as beauty",
+    "a place only in art",
+    "a place only in nature"
+   ],
+   "ans": 1,
+   "why": "‘ugliness has **as much a place in our lives as beauty**, or maybe more’ — বিশেষত যেখানে ক্ষুধা ও অবিচার ব্যাপক।"
+  },
+  {
+   "q": "How did poets and artists solve the problem of beauty and ugliness?",
+   "opts": [
+    "by ignoring ugliness",
+    "by incorporating both into their work",
+    "by painting only beautiful scenes",
+    "by refusing to define beauty"
+   ],
+   "ans": 1,
+   "why": "‘Poets and artists have provided an answer by **incorporating both into their work**’ — এবং সৌন্দর্যকে সত্য ও ন্যায়ের সঙ্গে বেঁধে দিয়ে।"
+  },
+  {
+   "q": "In the context of the Grecian Urn, another meaning of Keats's line is that —",
+   "opts": [
+    "art must be pleasant",
+    "truth is a condition of art",
+    "urns are beautiful",
+    "poetry is superior to art"
+   ],
+   "ans": 1,
+   "why": "প্যাসেজের শেষ বাক্য — ‘truth is a condition of art’, অর্থাৎ সত্য ছাড়া শিল্প হয় না।"
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "From where can we discover beauty?",
+   "a": "According to the writer, we can discover beauty all around us, in pleasurable objects and sights. He mentions three examples in particular: in nature, in the laughter of children and in the kindness of strangers. This shows that beauty is not confined to physical appearance alone; it exists in natural scenery, in innocent joy and even in a good human quality like kindness. Thus beauty may be found wherever something gives us pleasure of the eye or of the heart.",
+   "bn": "লেখকের মতে আমরা চারপাশের আনন্দদায়ক বস্তু ও দৃশ্যেই সৌন্দর্য খুঁজে পাই। তিনি তিনটি উদাহরণ দিয়েছেন — প্রকৃতিতে, শিশুদের হাসিতে এবং অচেনা মানুষের দয়ায়। অর্থাৎ সৌন্দর্য কেবল বাহ্যিক রূপে সীমাবদ্ধ নয়; প্রাকৃতিক দৃশ্য, নিষ্পাপ আনন্দ এমনকি মানুষের সদ্‌গুণেও তা থাকে।"
+  },
+  {
+   "q": "What questions do we ask ourselves in the attempt to define beauty?",
+   "a": "When we try to define beauty we ask ourselves several searching questions. First, does beauty have an independent objective identity of its own? Secondly, is it universal, that is, the same for everybody everywhere, or is it dependent on our sense perceptions? Thirdly, does it simply lie in the eye of the beholder, so that the same object may be beautiful to one person and ordinary to another? Because none of these questions can be answered with certainty, defining beauty becomes so difficult.",
+   "bn": "সৌন্দর্যের সংজ্ঞা দিতে গিয়ে আমরা নিজেদের কয়েকটি কঠিন প্রশ্ন করি — সৌন্দর্যের কি নিজস্ব স্বাধীন বস্তুনিষ্ঠ সত্তা আছে? এটি কি সর্বজনীন, নাকি আমাদের ইন্দ্রিয়-অনুভূতির ওপর নির্ভরশীল? নাকি এটি কেবল দর্শকের চোখেই নিহিত? এসব প্রশ্নের নিশ্চিত উত্তর নেই বলেই সংজ্ঞা দেওয়া কঠিন।"
+  },
+  {
+   "q": "How do poets and artists provide an answer to the questions on how to define beauty?",
+   "a": "Poets and artists answer the problem not by argument but by practice. They incorporate both beauty and ugliness into their work instead of showing only what is pleasant. In doing so they tie beauty to truth and justice, so that whatever is not beautiful assumes a tolerable proportion because it represents some truth about life. John Keats expressed this idea in his ‘Ode on a Grecian Urn’ with the line ‘Beauty is truth, truth beauty’, meaning that an unpleasant truth becomes beautiful at a higher level.",
+   "bn": "কবি ও শিল্পীরা তর্ক দিয়ে নয়, সৃষ্টির মধ্য দিয়েই উত্তর দিয়েছেন। তাঁরা কেবল সুন্দরকে নয়, সৌন্দর্য ও কুৎসিততা — দুটোকেই নিজেদের কাজে ঠাঁই দিয়েছেন এবং সৌন্দর্যকে সত্য ও ন্যায়ের সঙ্গে বেঁধে দিয়েছেন; ফলে অসুন্দরও জীবনের সত্যের প্রকাশ হিসেবে সহনীয় হয়ে ওঠে। কিটসের পঙ্‌ক্তিটিই এর প্রমাণ।"
+  },
+  {
+   "q": "When does ‘ugliness’ occupy a place in our life?",
+   "a": "Ugliness occupies a place in our life in two ways. First, it occupies a place whenever we are repulsed by it and therefore desire beauty; in this negative way beauty manifests itself by its very absence. Secondly, and more seriously, ugliness fills our life when there is widespread hunger and injustice in a society — in such times it may occupy even a larger place than beauty. That is why the writer insists that ugliness is as much a part of life as beauty and cannot be ignored by art.",
+   "bn": "কুৎসিততা আমাদের জীবনে দুইভাবে স্থান পায়। প্রথমত, যখন তা আমাদের বিতৃষ্ণ করে এবং সেই কারণেই আমরা সৌন্দর্য কামনা করি — এভাবে সৌন্দর্য তার অনুপস্থিতিতেই নিজেকে প্রকাশ করে। দ্বিতীয়ত, সমাজে যখন ব্যাপক ক্ষুধা ও অবিচার থাকে, তখন কুৎসিততা সৌন্দর্যের চেয়েও বড় স্থান দখল করে।"
+  },
+  {
+   "q": "“Beauty is truth, truth beauty” — Do you agree or disagree with this statement? Give reasons.",
+   "a": "I fully agree with the statement of John Keats. Truth is often unpleasant — poverty, hunger and injustice are not pleasing to the eye — yet when a poet or an artist presents such truth honestly, it rises to a higher level and becomes beautiful, because it awakens our conscience. Conversely, whatever is genuinely beautiful never turns false with time; it remains true for ever. Moreover, as the poem is about a Grecian urn, an art object, the line also means that truth is a condition of art: art that hides the truth cannot be beautiful at all.",
+   "bn": "আমি জন কিটসের উক্তির সঙ্গে সম্পূর্ণ একমত। সত্য প্রায়ই অপ্রীতিকর — দারিদ্র্য, ক্ষুধা ও অবিচার চোখে সুন্দর নয়; তবু কবি বা শিল্পী যখন সেই সত্যকে সততার সঙ্গে তুলে ধরেন, তা উচ্চতর স্তরে সুন্দর হয়ে ওঠে, কারণ তা আমাদের বিবেক জাগায়। আবার যা প্রকৃতই সুন্দর তা কখনো মিথ্যা হয় না, চিরকাল সত্য থাকে। গ্রিসিয়ান আর্নের প্রসঙ্গে এর আরেক অর্থ — সত্যই শিল্পের শর্ত।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "Who / What",
+   "Event / Action",
+   "What",
+   "Where / When"
+  ],
+  "rows": [
+   [
+    "(i) @Beauty",
+    "is easy to appreciate",
+    "but difficult to define",
+    "at all times"
+   ],
+   [
+    "(ii) @We",
+    "notice the existence of beauty",
+    "(iii) @in pleasurable objects and sights — in nature, in the laughter of children, in the kindness of strangers",
+    "as we look around"
+   ],
+   [
+    "We",
+    "(iv) @run",
+    "into difficulties",
+    "(v) @when we are asked to give a definition of beauty"
+   ],
+   [
+    "We",
+    "(vi) @ask ourselves questions",
+    "in respect of beauty",
+    "(vii) @as to beauty's independent objective identity, universality or its dependence on our sense perception"
+   ],
+   [
+    "Both (viii) @beauty and ugliness",
+    "occupy an important place",
+    "(ix) @in our lives",
+    "especially where hunger and injustice are widespread"
+   ],
+   [
+    "Art",
+    "cannot be indifferent to",
+    "(x) @what is not beautiful (ugliness)",
+    "in its projection of life"
+   ]
+  ],
+  "note": "দার্শনিক প্যাসেজের টেবিলে বিমূর্ত বিশেষ্য বসে (beauty, ugliness, difficulty) — উত্তর লেখার সময় article ও preposition মিলিয়ে নাও।"
+ },
+ "flow": {
+  "title": "Difficulties We Face When Asked to Define Beauty — সংজ্ঞা দিতে গিয়ে যেসব সমস্যা",
+  "items": [
+   {
+    "t": "Difficult to define though easy to appreciate",
+    "bn": "উপভোগ সহজ, সংজ্ঞা কঠিন (দেওয়া আছে)"
+   },
+   {
+    "t": "Uncertainty whether beauty has an independent objective identity",
+    "bn": "স্বাধীন বস্তুনিষ্ঠ সত্তা আছে কি না — অনিশ্চয়তা"
+   },
+   {
+    "t": "Doubt whether it is universal or dependent on sense perceptions",
+    "bn": "সর্বজনীন নাকি ইন্দ্রিয়নির্ভর — সংশয়"
+   },
+   {
+    "t": "The question whether it lies in the eye of the beholder",
+    "bn": "দর্শকের চোখেই নিহিত কি না"
+   },
+   {
+    "t": "Beauty manifests itself by its absence too — through ugliness",
+    "bn": "অনুপস্থিতিতেও প্রকাশ পায় — কুৎসিততার মধ্য দিয়ে"
+   },
+   {
+    "t": "Ugliness has as much a place in life as beauty, sometimes more",
+    "bn": "কুৎসিততার স্থানও কম নয়, কখনো বেশি"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "Keats's Line in Three Layers <span class='sub'>— একটি পঙ্‌ক্তির তিন অর্থ</span>",
+   "key": "Keats",
+   "table": {
+    "headers": [
+     "Layer",
+     "Meaning",
+     "বাংলা"
+    ],
+    "rows": [
+     [
+      "1. Beauty is truth",
+      "Truth, even if unpleasant, becomes beautiful at a higher level",
+      "@অপ্রীতিকর সত্যও উচ্চতর স্তরে সুন্দর"
+     ],
+     [
+      "2. Truth beauty",
+      "Whatever is beautiful forever remains true",
+      "@যা সুন্দর তা চিরকাল সত্য"
+     ],
+     [
+      "3. In the context of the Urn",
+      "Truth is a condition of art — art without truth is not art",
+      "@সত্যই শিল্পের অপরিহার্য শর্ত"
+     ]
+    ]
+   },
+   "note": "**উৎস:** John Keats, ‘Ode on a Grecian Urn’ — একজন **romantic poet**. কবির নাম, কবিতার নাম ও তিনটি অর্থ — সব মুখস্থ রাখো।"
+  },
+  {
+   "title": "The Argument Map <span class='sub'>— যুক্তির কাঠামো (Summary লেখার নকশা)</span>",
+   "key": "Argument",
+   "table": {
+    "headers": [
+     "Step",
+     "What the writer does"
+    ],
+    "rows": [
+     [
+      "1. Claim",
+      "Beauty is easy to appreciate but difficult to define"
+     ],
+     [
+      "2. Evidence",
+      "We find it in nature, children's laughter, strangers' kindness"
+     ],
+     [
+      "3. Problem",
+      "Three unanswerable questions — objective? universal? in the beholder's eye?"
+     ],
+     [
+      "4. Deeper problem",
+      "Beauty shows itself through its absence; ugliness also fills life"
+     ],
+     [
+      "5. Challenge to art",
+      "Can art show only beauty and ignore the unbeautiful?"
+     ],
+     [
+      "6. Answer",
+      "Poets and artists include both, tying beauty to truth and justice"
+     ],
+     [
+      "7. Authority",
+      "Keats: ‘Beauty is truth, truth beauty’"
+     ]
+    ]
+   },
+   "note": "এই ৭ ধাপ ক্রমে লিখলেই একটি নিখুঁত Summary তৈরি হয়ে যায়।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "❓",
+   "t": "Turn questions into statements",
+   "d": "প্যাসেজে ৬টি প্রশ্নবোধক বাক্য আছে। উত্তরে ও Summary-তে এগুলোকে বিবৃতিতে বদলাও — ‘We ask whether beauty is universal.’"
+  },
+  {
+   "em": "⚖️",
+   "t": "Beauty ↔ Ugliness balance",
+   "type": "ok",
+   "d": "এই প্যাসেজের মূল কথা: দুটোই জীবনের অংশ। যেকোনো উত্তরে দুটোর ভারসাম্য দেখালেই নম্বর বাড়ে।"
+  },
+  {
+   "em": "✍️",
+   "t": "Quote Keats accurately",
+   "d": "‘Beauty is truth, truth beauty’ — কবির নাম John Keats, কবিতা ‘Ode on a Grecian Urn’. তিনটি তথ্য একসাথে লিখলে ৩ নম্বরের প্রশ্নে পূর্ণ নম্বর।"
+  },
+  {
+   "em": "🔤",
+   "t": "repulse / repulsive",
+   "type": "warn",
+   "d": "প্রশ্নপত্রে অনেক সময় ‘disgusted’-কে ভুল বানানে ‘disguised’ ছাপা হয়। অর্থ ধরে উত্তর দাও, বানান দেখে নয়।"
+  },
+  {
+   "em": "🧠",
+   "t": "‘Do you agree?’ needs both sides",
+   "type": "ok",
+   "d": "একমত হলেও কেন — অন্তত দুটি যুক্তি (অপ্রীতিকর সত্যের সৌন্দর্য + শিল্পে সত্যের প্রয়োজন) দাও।"
+  },
+  {
+   "em": "📐",
+   "t": "Abstract nouns in the table",
+   "d": "টেবিলে beauty, ugliness, difficulty-র মতো বিমূর্ত বিশেষ্য বসে। Article (the/a) ও preposition ঠিক রাখো।"
+  }
+ ],
+ "recap": [
+  "সৌন্দর্য: উপভোগ সহজ, সংজ্ঞা কঠিন — তিনটি অমীমাংসিত প্রশ্ন।",
+  "সৌন্দর্যের সন্ধান: প্রকৃতি, শিশুর হাসি, অচেনা মানুষের দয়া।",
+  "কুৎসিততারও স্থান আছে — বিশেষত ব্যাপক ক্ষুধা ও অবিচারের সমাজে।",
+  "কবি-শিল্পীর সমাধান: দুটোকেই সৃষ্টিতে ঠাঁই দেওয়া, সৌন্দর্যকে সত্য ও ন্যায়ের সঙ্গে বাঁধা।",
+  "কিটস: ‘Beauty is truth, truth beauty’ — এবং সত্যই শিল্পের শর্ত।"
+ ],
+ "homework": [
+  "কিটসের পঙ্‌ক্তির তিনটি অর্থ খাতায় লিখে আনবে।",
+  "সংজ্ঞা দেওয়ার তিনটি প্রশ্ন (objective / universal / beholder) মুখস্থ করবে।",
+  "‘Do you agree with Keats?’ — উত্তরটি নিজের যুক্তিতে লিখবে।",
+  "Summary ১৩০ শব্দে লিখে আনবে (প্রশ্নবোধক বাক্য ছাড়া)।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

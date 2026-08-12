@@ -8,6 +8,7 @@ A full-stack platform for **Tasin English Academy** — a virtual online academy
 - **Payments**: bKash / Nagad / Rocket / Cash with Transaction ID + sender number — manual admin approval
 - **Exams**: scheduled per batch with Google Form URL; admin enters marks; ranks auto-computed
 - **Top performers**: top 3 of each batch's most recent evaluated exam, shown on the homepage
+- **Slide classes**: projector-ready HSC English 1st & 2nd Paper decks — passage, sentence-wise Bangla, MCQ, tables, grammar rules and drills, with answers revealed one at a time
 
 ## Project structure
 
@@ -16,6 +17,61 @@ A full-stack platform for **Tasin English Academy** — a virtual online academy
 ├── backend/    NestJS + MongoDB API (port 4000)
 └── frontend/   Next.js + Tailwind site (port 3000)
 ```
+
+## Slide classes (`/decks`)
+
+Projector-ready lesson decks for HSC English, in Bangla and English.
+
+- **1st Paper (21 chapters)** — passage, বাক্যভিত্তিক বাংলা অর্থ, vocabulary, synonym/antonym,
+  summary (EN + বাংলা), MCQ with reasoning, short questions, information-transfer table, flow chart.
+- **2nd Paper (3 chapters)** — grammar: rule cards (নিয়ম বাংলায়, উদাহরণ ইংরেজিতে), a solved board
+  question, live practice sets, and the academy's magic tricks.
+
+Teaching controls: `→ / ←` navigate · **`R` opens exactly one answer at a time** · `A` opens all ·
+`B` hides the Bangla so students translate first · `W` whiteboard (pen / highlighter / laser) ·
+`O` slide overview · `D` dark · `F` fullscreen · the PDF button prints a full-answer handout.
+`/decks/<id>?s=12` deep-links to a single slide.
+
+**Where the content lives**
+
+Decks are stored in **MongoDB** (`decks` collection) — one document per chapter, with
+the paper/unit metadata denormalised onto it and the whole teaching payload in `content`.
+The JSON files are the *seed source*, not the runtime source.
+
+```
+backend/src/data/hsc_decks/manifest.json   seed: papers → units → chapters
+backend/src/data/hsc_decks/<id>.json       seed: one chapter's full content
+backend/src/decks/schemas/deck.schema.ts   the Mongo document
+backend/src/decks/decks.seed.ts            idempotent upsert-by-slug seeder
+backend/src/decks/                         read-only API (no auth, like /api/learn)
+frontend/lib/deck/build.ts                 pure slide builders (no DOM)
+frontend/components/decks/SlideDeck.tsx    the projector view
+frontend/app/deck.css                      deck styles, all scoped under `.tea-deck`
+```
+
+**API**
+
+| Route | Returns |
+|---|---|
+| `GET /api/decks` | library: papers → units → chapters, with teaching counts |
+| `GET /api/decks/index` | flat chapter list (search / prerender) |
+| `GET /api/decks/:id` | one chapter's full content |
+| `GET /api/decks/:id/neighbours` | previous / next chapter in the same paper |
+
+**Seeding**
+
+```bash
+npm run seed:decks              # upsert all 24 chapters (safe to re-run)
+SEED_WIPE=1 npm run seed:decks  # drop the collection first
+npm run seed                    # full seed, decks included
+```
+
+Seeding is idempotent (upsert by `slug`) and never clobbers `isPublished`, so you can hide a
+chapter from the library without deleting it. If the collection is empty the API seeds itself
+on first boot, so a fresh deploy is never blank.
+
+To add a chapter: drop `<id>.json` in `backend/src/data/hsc_decks/`, add it to `manifest.json`,
+run `npm run decks:index`, then `npm run seed:decks`.
 
 ## Prerequisites
 
@@ -48,13 +104,14 @@ Open http://localhost:3000
 
 `backend/.env`:
 ```
-MONGODB_URI=mongodb+srv://rahatcse5bu:1234567890Rahat@cluster0.mq4m6wd.mongodb.net/tasin-english-academy?retryWrites=true&w=majority&appName=Cluster0
+MONGODB_URI=mongodb+srv://<user>:<password>@cluster0.ft6plvl.mongodb.net/tasin-english-academy?retryWrites=true&w=majority&appName=Cluster0
 JWT_SECRET=...
 PORT=4000
 CORS_ORIGIN=http://localhost:3000
 ```
 
-The same `MONGODB_URI` works for local and production. For production, just set `CORS_ORIGIN` to your deployed frontend URL and the frontend's `NEXT_PUBLIC_API_BASE` to your deployed backend URL.
+The live cluster is `cluster0.ft6plvl` — the real credentials live in `backend/.env`, which is not
+committed. The same `MONGODB_URI` works for local and production. For production, just set `CORS_ORIGIN` to your deployed frontend URL and the frontend's `NEXT_PUBLIC_API_BASE` to your deployed backend URL.
 
 `frontend/.env.local`:
 ```

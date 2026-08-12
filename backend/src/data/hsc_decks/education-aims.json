@@ -1,0 +1,809 @@
+{
+ "id": "education-aims",
+ "unit": "Unit 12",
+ "unitName": "Education and Life",
+ "title": "Education Aims to Bring Positive Changes — Civic Engagement",
+ "titleBn": "শিক্ষা ও নাগরিক সম্পৃক্ততা",
+ "lede": "শিক্ষার আসল লক্ষ্য, civic engagement কী, তার উদাহরণ, আর তিনটি গুরুত্বপূর্ণ পার্থক্য — Civic Engagement, Service Learning ও Volunteerism.",
+ "qType": "Seen Passage — Q.1(a+b), 2, 3",
+ "minutes": 45,
+ "marks": "35",
+ "objectives": [
+  {
+   "t": "Understand the aim of education",
+   "d": "গ্রেড-সার্টিফিকেট নয়, আচরণে ইতিবাচক পরিবর্তনই লক্ষ্য"
+  },
+  {
+   "t": "Sentence-wise Bangla meaning",
+   "d": "২২টি বাক্যের বাংলা অর্থ"
+  },
+  {
+   "t": "Define civic engagement with examples",
+   "d": "মিছিল, স্বাক্ষর সংগ্রহ, মানববন্ধন, পিটিশন…"
+  },
+  {
+   "t": "Civic engagement vs Service learning vs Volunteerism",
+   "d": "তিনটির পার্থক্য — সবচেয়ে বেশি আসা প্রশ্ন"
+  },
+  {
+   "t": "10 MCQ + 5 Short Questions",
+   "d": "ব্যাখ্যাসহ"
+  },
+  {
+   "t": "Summary, Table &amp; Flow Chart",
+   "d": "সম্পূর্ণ সমাধান"
+  }
+ ],
+ "passage": [
+  {
+   "tag": "Paragraph 1 — What education really aims at",
+   "s": [
+    {
+     "en": "Education aims to bring about ==positive changes in our behaviour==.",
+     "bn": "শিক্ষার লক্ষ্য আমাদের ==আচরণে ইতিবাচক পরিবর্তন== আনা।"
+    },
+    {
+     "en": "It helps us try to change ==our lives as well as the society we live in==.",
+     "bn": "এটি আমাদের ==নিজেদের জীবন এবং যে সমাজে আমরা বাস করি== — দুটোই বদলানোর চেষ্টায় সাহায্য করে।"
+    },
+    {
+     "en": "Education that does not ==illuminate our minds== or does not inspire us to ==work for the community== is ==not complete at all==.",
+     "bn": "যে শিক্ষা আমাদের ==মনকে আলোকিত করে না== কিংবা ==সমাজের জন্য কাজ করতে== অনুপ্রাণিত করে না, সেই শিক্ষা ==মোটেই সম্পূর্ণ নয়==।"
+    },
+    {
+     "en": "Education is ==not all about getting grades or receiving certificates== — we use education to ==make life better==.",
+     "bn": "শিক্ষা মানে কেবল ==গ্রেড পাওয়া বা সার্টিফিকেট নেওয়া নয়== — আমরা শিক্ষাকে ব্যবহার করি ==জীবনকে আরও ভালো করার জন্য==।"
+    },
+    {
+     "en": "We are expected to ==apply the knowledge, skills and values== that we learn in a classroom in our ==engagement with the world that lies outside==.",
+     "bn": "আমাদের কাছে প্রত্যাশা করা হয় যে শ্রেণিকক্ষে শেখা ==জ্ঞান, দক্ষতা ও মূল্যবোধ== আমরা ==বাইরের জগতের সঙ্গে সম্পৃক্ততায়== প্রয়োগ করব।"
+    },
+    {
+     "en": "And we can do so in many different ways. Let's have a look at how education works.",
+     "bn": "আর আমরা তা নানাভাবে করতে পারি। চলো দেখি শিক্ষা কীভাবে কাজ করে।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 2 — What civic engagement means",
+   "s": [
+    {
+     "en": "Learners' ==civic engagement== is highly appreciated ==all over the world==.",
+     "bn": "শিক্ষার্থীদের ==নাগরিক সম্পৃক্ততা== ==সারা বিশ্বেই== অত্যন্ত প্রশংসিত।"
+    },
+    {
+     "en": "Civic engagement means ==working to make a difference in the civic life== (the ==public life of the citizens== as contrasted with private or personal life) of the community ==using knowledge, skills, values and motivation==.",
+     "bn": "নাগরিক সম্পৃক্ততা মানে ==জ্ঞান, দক্ষতা, মূল্যবোধ ও প্রেরণা কাজে লাগিয়ে== সমাজের ==নাগরিক জীবনে ইতিবাচক পার্থক্য গড়ে তোলার জন্য কাজ করা== — এখানে নাগরিক জীবন বলতে ব্যক্তিগত জীবনের বিপরীতে ==নাগরিকদের সর্বজনীন জীবনকে== বোঝায়।"
+    },
+    {
+     "en": "Civic engagement ==promotes the quality of life== in a community by contributing to the improvement of ==health and wellbeing== of the people.",
+     "bn": "নাগরিক সম্পৃক্ততা মানুষের ==স্বাস্থ্য ও কল্যাণের== উন্নতিতে অবদান রেখে সমাজে ==জীবনযাত্রার মান বাড়ায়==।"
+    },
+    {
+     "en": "Civically engaged individuals recognize themselves as ==members of a larger social community== and are ==concerned about civic issues==.",
+     "bn": "নাগরিকভাবে সম্পৃক্ত ব্যক্তিরা নিজেদের ==একটি বৃহত্তর সমাজের সদস্য== বলে চিনে নেয় এবং ==নাগরিক সমস্যাগুলো নিয়ে ভাবে==।"
+    },
+    {
+     "en": "They consider themselves ==responsible citizens== who ==take action or raise their voices== against ==injustice, discrimination and other forms of social ills==.",
+     "bn": "তারা নিজেদের ==দায়িত্বশীল নাগরিক== মনে করে, যারা ==অবিচার, বৈষম্য ও অন্যান্য সামাজিক ব্যাধির== বিরুদ্ধে ==পদক্ষেপ নেয় বা প্রতিবাদে সোচ্চার হয়==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 3 — Examples of civic engagement",
+   "s": [
+    {
+     "en": "In civic engagement, ==issues of public concern are crucial==.",
+     "bn": "নাগরিক সম্পৃক্ততায় ==জনস্বার্থসংশ্লিষ্ট বিষয়গুলোই মুখ্য==।"
+    },
+    {
+     "en": "Civic engagement includes ==individual or group activities== to ==protect public interests== and change the way the community ==values itself==.",
+     "bn": "নাগরিক সম্পৃক্ততার মধ্যে রয়েছে ==ব্যক্তিগত বা দলগত কার্যক্রম==, যা ==জনস্বার্থ রক্ষা করে== এবং সমাজ ==নিজেকে যেভাবে মূল্যায়ন করে== তা বদলে দেয়।"
+    },
+    {
+     "en": "For example, if you are ==protesting against any unjust decision of the local municipality== such as ==raising taxes== or an act that might work against people's interests, you are civically engaged.",
+     "bn": "যেমন, তুমি যদি ==স্থানীয় পৌরসভার কোনো অন্যায় সিদ্ধান্তের== — যেমন ==কর বৃদ্ধির== — বিরুদ্ধে প্রতিবাদ করো, কিংবা জনস্বার্থবিরোধী কোনো কাজের বিরুদ্ধে দাঁড়াও, তবে তুমি নাগরিকভাবে সম্পৃক্ত।"
+    },
+    {
+     "en": "This protest can be done in different ways such as ==organizing rallies, collecting signatures, making human chains, writing petitions==, etc.",
+     "bn": "এই প্রতিবাদ নানাভাবে করা যায় — যেমন ==মিছিল আয়োজন, স্বাক্ষর সংগ্রহ, মানববন্ধন, আবেদনপত্র লেখা== ইত্যাদি।"
+    },
+    {
+     "en": "You can also ==help control traffic in front of a school==, help children to ==cross the roads==, work in a team to ==clean a park or a sea beach==.",
+     "bn": "তুমি ==বিদ্যালয়ের সামনে যানবাহন নিয়ন্ত্রণে সাহায্য== করতে পারো, শিশুদের ==রাস্তা পার হতে== সাহায্য করতে পারো, দলবদ্ধভাবে ==পার্ক বা সমুদ্রসৈকত পরিষ্কার== করতে পারো।"
+    },
+    {
+     "en": "You can also give some ==services to elderly people==.",
+     "bn": "তুমি ==বয়স্ক মানুষের সেবাও== করতে পারো।"
+    },
+    {
+     "en": "These are all examples of civic engagement as ==what you do directly affects the community==.",
+     "bn": "এগুলো সবই নাগরিক সম্পৃক্ততার উদাহরণ, কারণ ==তোমার কাজ সরাসরি সমাজকে প্রভাবিত করে==।"
+    }
+   ]
+  },
+  {
+   "tag": "Paragraph 4 — Service learning and volunteerism",
+   "s": [
+    {
+     "en": "When civic engagement is a ==part of an academic programme==, and the learners' engagement is ==assessed following a scale==, then it is called ==service learning==.",
+     "bn": "যখন নাগরিক সম্পৃক্ততা ==কোনো শিক্ষাক্রমের অংশ== হয় এবং শিক্ষার্থীর সম্পৃক্ততা ==একটি মানদণ্ড অনুসারে মূল্যায়ন করা হয়==, তখন তাকে বলা হয় ==সার্ভিস লার্নিং==।"
+    },
+    {
+     "en": "It involves the ==application of knowledge and skills learned in the classroom== and then making a ==complete plan of action== — i.e. ==preparing a budget, starting the process of implementation, involving people and activating operational strategies==.",
+     "bn": "এতে থাকে ==শ্রেণিকক্ষে শেখা জ্ঞান ও দক্ষতার প্রয়োগ== এবং তারপর একটি ==পূর্ণাঙ্গ কর্মপরিকল্পনা প্রণয়ন== — অর্থাৎ ==বাজেট তৈরি, বাস্তবায়ন প্রক্রিয়া শুরু, মানুষকে যুক্ত করা এবং কার্যকর কৌশল সচল করা==।"
+    },
+    {
+     "en": "When civic engagement is ==spontaneous but irregular== and ==not a part of any academic programme==, it is considered ==volunteerism==.",
+     "bn": "আর যখন নাগরিক সম্পৃক্ততা ==স্বতঃস্ফূর্ত কিন্তু অনিয়মিত== হয় এবং ==কোনো শিক্ষাক্রমের অংশ নয়==, তখন তাকে বলা হয় ==স্বেচ্ছাসেবা (volunteerism)==।"
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "w": "aim at",
+   "pos": "phrase",
+   "pron": "/eɪm/",
+   "bn": "লক্ষ্য রাখা, উদ্দেশ্য করা",
+   "en": "to have something as a purpose",
+   "ex": "Education aims to bring positive changes."
+  },
+  {
+   "w": "illuminate",
+   "pos": "verb",
+   "pron": "/ɪˈluːmɪneɪt/",
+   "bn": "আলোকিত করা, জ্ঞানের আলো দেওয়া",
+   "en": "to light up; to make clear to the mind",
+   "ex": "Education that does not illuminate our minds…"
+  },
+  {
+   "w": "civic",
+   "pos": "adj",
+   "pron": "/ˈsɪvɪk/",
+   "bn": "নাগরিক-সংক্রান্ত, পৌর",
+   "en": "relating to a city or citizens",
+   "ex": "civic life; civic engagement"
+  },
+  {
+   "w": "engagement",
+   "pos": "noun",
+   "pron": "/ɪnˈɡeɪdʒmənt/",
+   "bn": "সম্পৃক্ততা, অংশগ্রহণ",
+   "en": "the act of taking part in something",
+   "ex": "Learners' civic engagement is appreciated."
+  },
+  {
+   "w": "make a difference",
+   "pos": "idiom",
+   "pron": "/ˈdɪfrəns/",
+   "bn": "ইতিবাচক পরিবর্তন আনা",
+   "en": "to have an important effect on something",
+   "ex": "working to make a difference in civic life"
+  },
+  {
+   "w": "promote",
+   "pos": "verb",
+   "pron": "/prəˈməʊt/",
+   "bn": "উন্নীত করা, বাড়ানো",
+   "en": "to help something develop or increase",
+   "ex": "It promotes the quality of life."
+  },
+  {
+   "w": "wellbeing",
+   "pos": "noun",
+   "pron": "/ˌwelˈbiːɪŋ/",
+   "bn": "কল্যাণ, সুস্থতা",
+   "en": "the state of being healthy and happy",
+   "ex": "the health and wellbeing of the people"
+  },
+  {
+   "w": "crucial",
+   "pos": "adj",
+   "pron": "/ˈkruːʃl/",
+   "bn": "অত্যন্ত গুরুত্বপূর্ণ, মুখ্য",
+   "en": "extremely important",
+   "ex": "Issues of public concern are crucial."
+  },
+  {
+   "w": "public interest",
+   "pos": "phrase",
+   "pron": "/ˈpʌblɪk/",
+   "bn": "জনস্বার্থ",
+   "en": "the welfare of the general public",
+   "ex": "activities to protect public interests"
+  },
+  {
+   "w": "municipality",
+   "pos": "noun",
+   "pron": "/mjuːˌnɪsɪˈpæləti/",
+   "bn": "পৌরসভা",
+   "en": "a town or city with its own local government",
+   "ex": "an unjust decision of the local municipality"
+  },
+  {
+   "w": "rally",
+   "pos": "noun",
+   "pron": "/ˈræli/",
+   "bn": "সমাবেশ, মিছিল",
+   "en": "a large public meeting to support a cause",
+   "ex": "organizing rallies"
+  },
+  {
+   "w": "petition",
+   "pos": "noun",
+   "pron": "/pəˈtɪʃn/",
+   "bn": "আবেদনপত্র, দরখাস্ত",
+   "en": "a written request signed by many people",
+   "ex": "writing petitions"
+  },
+  {
+   "w": "human chain",
+   "pos": "phrase",
+   "pron": "/ˈhjuːmən tʃeɪn/",
+   "bn": "মানববন্ধন",
+   "en": "a line of people joining hands in protest",
+   "ex": "making human chains"
+  },
+  {
+   "w": "social ills",
+   "pos": "phrase",
+   "pron": "/ɪlz/",
+   "bn": "সামাজিক ব্যাধি",
+   "en": "the problems and evils of society",
+   "ex": "injustice, discrimination and other social ills"
+  },
+  {
+   "w": "assess",
+   "pos": "verb",
+   "pron": "/əˈses/",
+   "bn": "মূল্যায়ন করা",
+   "en": "to judge the quality or value of something",
+   "ex": "engagement is assessed following a scale"
+  },
+  {
+   "w": "implementation",
+   "pos": "noun",
+   "pron": "/ˌɪmplɪmenˈteɪʃn/",
+   "bn": "বাস্তবায়ন",
+   "en": "the act of putting a plan into action",
+   "ex": "starting the process of implementation"
+  },
+  {
+   "w": "spontaneous",
+   "pos": "adj",
+   "pron": "/spɒnˈteɪniəs/",
+   "bn": "স্বতঃস্ফূর্ত",
+   "en": "done without being planned or forced",
+   "ex": "spontaneous but irregular engagement"
+  },
+  {
+   "w": "volunteerism",
+   "pos": "noun",
+   "pron": "/ˌvɒlənˈtɪərɪzəm/",
+   "bn": "স্বেচ্ছাসেবামূলক কাজ",
+   "en": "the practice of doing unpaid work for others",
+   "ex": "It is considered volunteerism."
+  }
+ ],
+ "synant": [
+  {
+   "w": "illuminate",
+   "bn": "আলোকিত করা",
+   "syn": [
+    "light up",
+    "brighten",
+    "enlighten"
+   ],
+   "ant": [
+    "darken",
+    "obscure",
+    "confuse"
+   ]
+  },
+  {
+   "w": "crucial",
+   "bn": "মুখ্য",
+   "syn": [
+    "vital",
+    "decisive",
+    "critical"
+   ],
+   "ant": [
+    "trivial",
+    "unimportant",
+    "minor"
+   ]
+  },
+  {
+   "w": "promote",
+   "bn": "উন্নীত করা",
+   "syn": [
+    "advance",
+    "foster",
+    "boost"
+   ],
+   "ant": [
+    "hinder",
+    "demote",
+    "obstruct"
+   ]
+  },
+  {
+   "w": "engagement",
+   "bn": "সম্পৃক্ততা",
+   "syn": [
+    "participation",
+    "involvement",
+    "commitment"
+   ],
+   "ant": [
+    "detachment",
+    "withdrawal",
+    "indifference"
+   ]
+  },
+  {
+   "w": "responsible",
+   "bn": "দায়িত্বশীল",
+   "syn": [
+    "accountable",
+    "dutiful",
+    "reliable"
+   ],
+   "ant": [
+    "irresponsible",
+    "careless",
+    "negligent"
+   ]
+  },
+  {
+   "w": "injustice",
+   "bn": "অবিচার",
+   "syn": [
+    "unfairness",
+    "inequity",
+    "wrong"
+   ],
+   "ant": [
+    "justice",
+    "fairness",
+    "equity"
+   ]
+  },
+  {
+   "w": "spontaneous",
+   "bn": "স্বতঃস্ফূর্ত",
+   "syn": [
+    "voluntary",
+    "unforced",
+    "instinctive"
+   ],
+   "ant": [
+    "planned",
+    "forced",
+    "deliberate"
+   ]
+  },
+  {
+   "w": "assess",
+   "bn": "মূল্যায়ন করা",
+   "syn": [
+    "evaluate",
+    "judge",
+    "appraise"
+   ],
+   "ant": [
+    "ignore",
+    "overlook"
+   ]
+  },
+  {
+   "w": "constructive",
+   "bn": "গঠনমূলক",
+   "syn": [
+    "positive",
+    "productive",
+    "helpful"
+   ],
+   "ant": [
+    "destructive",
+    "derogatory",
+    "harmful"
+   ]
+  },
+  {
+   "w": "wellbeing",
+   "bn": "কল্যাণ",
+   "syn": [
+    "welfare",
+    "prosperity",
+    "comfort"
+   ],
+   "ant": [
+    "misery",
+    "distress",
+    "hardship"
+   ]
+  },
+  {
+   "w": "protest",
+   "bn": "প্রতিবাদ",
+   "syn": [
+    "objection",
+    "demonstration",
+    "dissent"
+   ],
+   "ant": [
+    "approval",
+    "consent",
+    "acceptance"
+   ]
+  },
+  {
+   "w": "irregular",
+   "bn": "অনিয়মিত",
+   "syn": [
+    "occasional",
+    "sporadic",
+    "unsteady"
+   ],
+   "ant": [
+    "regular",
+    "constant",
+    "systematic"
+   ]
+  }
+ ],
+ "summaryEn": "The true aim of education is to bring positive changes in our behaviour and to help us change both our own lives and the society in which we live; consequently any education that neither illuminates the mind nor inspires a person to work for the community remains incomplete, since education is not merely a matter of grades and certificates but a means of making life better by applying in the outside world the knowledge, skills and values learnt in the classroom. One such application, appreciated all over the world, is the civic engagement of learners, which means working to make a difference in the public life of the community by using one's knowledge, skills, values and motivation. It raises the quality of life by improving the health and wellbeing of people, and those who practise it see themselves as members of a larger social community and as responsible citizens who act or raise their voices against injustice, discrimination and other social ills. In civic engagement issues of public concern are crucial: protesting against an unjust municipal decision such as a tax rise, organising rallies, collecting signatures, forming human chains, writing petitions, controlling traffic before a school, helping children cross the road, cleaning a park or a sea beach and serving elderly people are all examples, because such acts directly affect the community. Finally, when this engagement forms part of an academic programme and is assessed on a scale — involving a full plan of action with a budget, implementation, people's participation and operational strategies — it is called service learning; when it is spontaneous, irregular and outside any academic programme, it is called volunteerism.",
+ "summaryBn": "শিক্ষার প্রকৃত লক্ষ্য আমাদের আচরণে ইতিবাচক পরিবর্তন আনা এবং নিজেদের জীবন ও সমাজ — দুটোই বদলাতে সাহায্য করা; তাই যে শিক্ষা মনকে আলোকিত করে না কিংবা সমাজের জন্য কাজ করতে অনুপ্রাণিত করে না, তা অসম্পূর্ণ। কারণ শিক্ষা মানে কেবল গ্রেড বা সার্টিফিকেট নয়, বরং শ্রেণিকক্ষে শেখা জ্ঞান, দক্ষতা ও মূল্যবোধ বাইরের জগতে প্রয়োগ করে জীবনকে আরও ভালো করার উপায়। এমনই একটি প্রয়োগ, যা সারা বিশ্বে প্রশংসিত, তা হলো শিক্ষার্থীদের নাগরিক সম্পৃক্ততা — অর্থাৎ জ্ঞান, দক্ষতা, মূল্যবোধ ও প্রেরণা কাজে লাগিয়ে সমাজের সর্বজনীন জীবনে ইতিবাচক পার্থক্য গড়ে তোলা। এটি মানুষের স্বাস্থ্য ও কল্যাণের উন্নতি ঘটিয়ে জীবনযাত্রার মান বাড়ায়, আর যারা এতে যুক্ত তারা নিজেদের বৃহত্তর সমাজের সদস্য ও দায়িত্বশীল নাগরিক মনে করে, যারা অবিচার, বৈষম্য ও সামাজিক ব্যাধির বিরুদ্ধে সোচ্চার হয়। এখানে জনস্বার্থের বিষয়গুলোই মুখ্য: পৌরসভার অন্যায় সিদ্ধান্ত (যেমন কর বৃদ্ধি) -এর বিরুদ্ধে প্রতিবাদ, মিছিল, স্বাক্ষর সংগ্রহ, মানববন্ধন, আবেদনপত্র, বিদ্যালয়ের সামনে যান নিয়ন্ত্রণ, শিশুদের রাস্তা পার করানো, পার্ক বা সৈকত পরিষ্কার এবং বয়স্কদের সেবা — সবই এর উদাহরণ, কারণ এসব কাজ সরাসরি সমাজকে প্রভাবিত করে। সবশেষে, এই সম্পৃক্ততা যখন শিক্ষাক্রমের অংশ হয় ও মানদণ্ডে মূল্যায়ন করা হয় — বাজেট, বাস্তবায়ন ও কৌশলসহ পূর্ণ কর্মপরিকল্পনাসমেত — তখন তা সার্ভিস লার্নিং; আর যখন তা স্বতঃস্ফূর্ত, অনিয়মিত ও শিক্ষাক্রমের বাইরে, তখন তা স্বেচ্ছাসেবা।",
+ "summaryTip": "**সংজ্ঞা-ভিত্তিক প্যাসেজ:** তিনটি পরিভাষা (civic engagement, service learning, volunteerism) অবশ্যই Summary-তে থাকতে হবে। উদাহরণের লম্বা তালিকা কমা দিয়ে এক বাক্যে গুছিয়ে নাও।",
+ "mcq": [
+  {
+   "q": "Education aims at —",
+   "opts": [
+    "creating positive changes in behaviour",
+    "bringing down positive changes in behaviour",
+    "causing derogatory changes in behaviour",
+    "making abnormal changes in behaviour"
+   ],
+   "ans": 0,
+   "why": "প্রথম বাক্যেই আছে — ‘Education aims to bring about **positive changes** in our behaviour.’"
+  },
+  {
+   "q": "Civic engagement promotes —",
+   "opts": [
+    "the comfort of a life",
+    "the worries of life",
+    "the standard of life",
+    "the purity of life"
+   ],
+   "ans": 2,
+   "why": "‘Civic engagement promotes the **quality of life** in a community’ — quality of life = জীবনযাত্রার মান = standard of life."
+  },
+  {
+   "q": "What is the objective of education?",
+   "opts": [
+    "to bring about negative changes in behaviour",
+    "to bring about constructive changes in behaviour",
+    "to bring about negative changes in society",
+    "to protest positive changes in behaviour"
+   ],
+   "ans": 1,
+   "why": "Positive = constructive (গঠনমূলক)। বোর্ড প্রায়ই মূল শব্দ বদলে সমার্থক দেয় — তাই সমার্থক চেনা জরুরি।"
+  },
+  {
+   "q": "What does ‘civic engagement’ mean?",
+   "opts": [
+    "working to make a difference in the institution",
+    "working to make a difference in the private life",
+    "working to cause a difference in the family",
+    "working to create a difference in the civic life"
+   ],
+   "ans": 3,
+   "why": "সংজ্ঞাটিই উত্তর — ‘working to make a difference in the **civic life** of the community’. ‘Private or personal life’-কে সরাসরি বাদ দেওয়া হয়েছে।"
+  },
+  {
+   "q": "What does the word ‘illuminate’ in the passage refer to?",
+   "opts": [
+    "lightening",
+    "illusion",
+    "light up",
+    "discriminate"
+   ],
+   "ans": 2,
+   "why": "Illuminate = আলোকিত করা = light up (এখানে রূপক অর্থে — মনকে জ্ঞানের আলোয় ভরিয়ে দেওয়া)। ‘Lightning’ (বিদ্যুৎচমক) ও ‘illusion’ (মায়া) সম্পূর্ণ ভিন্ন।"
+  },
+  {
+   "q": "Getting grades is —",
+   "opts": [
+    "the only purpose of education",
+    "not the purpose of education at all",
+    "the main aim of education",
+    "one of the purposes of education"
+   ],
+   "ans": 3,
+   "why": "‘Education is **not all about** getting grades’ — অর্থাৎ গ্রেড একটি উদ্দেশ্য বটে, কিন্তু একমাত্র বা প্রধান নয়। ‘not at all’ বললে অতিরঞ্জন হয়ে যাবে।"
+  },
+  {
+   "q": "Why do we use education?",
+   "opts": [
+    "to make life hazardous",
+    "to make life better",
+    "to make money",
+    "to earn fame"
+   ],
+   "ans": 1,
+   "why": "‘…we use education to **make life better**.’ — হুবহু বাক্য।"
+  },
+  {
+   "q": "How does education help us?",
+   "opts": [
+    "to change our life",
+    "to change our society",
+    "to change both our life and society",
+    "to change our economic condition"
+   ],
+   "ans": 2,
+   "why": "‘It helps us try to change **our lives as well as the society** we live in.’ — দুটোই, তাই ‘both’."
+  },
+  {
+   "q": "One can get a certificate —",
+   "opts": [
+    "by spending money",
+    "by receiving education",
+    "by earning fame",
+    "by appreciating the leaders"
+   ],
+   "ans": 1,
+   "why": "প্যাসেজে শিক্ষার ফল হিসেবেই গ্রেড ও সার্টিফিকেটের কথা বলা হয়েছে — যদিও সেটি শিক্ষার একমাত্র উদ্দেশ্য নয়।"
+  },
+  {
+   "q": "What is the purpose of the author of this passage?",
+   "opts": [
+    "to show the disparity of the society",
+    "to explain the beauty of life",
+    "to describe the way of life in the society",
+    "to highlight the purpose of education"
+   ],
+   "ans": 3,
+   "why": "পুরো প্যাসেজ শিক্ষার উদ্দেশ্য ও তার বাস্তব প্রয়োগ (civic engagement) নিয়ে — তাই লেখকের লক্ষ্য শিক্ষার উদ্দেশ্য তুলে ধরা।"
+  }
+ ],
+ "shortQ": [
+  {
+   "q": "How does ‘civic engagement’ promote the quality of life?",
+   "a": "Civic engagement promotes the quality of life in a community by contributing to the improvement of the health and wellbeing of the people. Those who are civically engaged work for public interests — they clean parks and sea beaches, help children cross the road, control traffic before schools and serve elderly people. They also raise their voices against injustice, discrimination and other social ills. Since all these actions directly affect the community, the standard of living of everybody in it rises.",
+   "bn": "নাগরিক সম্পৃক্ততা মানুষের স্বাস্থ্য ও কল্যাণের উন্নতিতে অবদান রেখে সমাজে জীবনযাত্রার মান বাড়ায়। সম্পৃক্ত ব্যক্তিরা জনস্বার্থে কাজ করে — পার্ক ও সৈকত পরিষ্কার করে, শিশুদের রাস্তা পার করায়, যান নিয়ন্ত্রণে সাহায্য করে, বয়স্কদের সেবা করে এবং অবিচার-বৈষম্যের বিরুদ্ধে সোচ্চার হয়। এসব কাজ সরাসরি সমাজকে প্রভাবিত করে।"
+  },
+  {
+   "q": "What does the expression ‘Education is not all about getting grades or receiving certificates’ mean?",
+   "a": "The expression means that examination results are only a small part of education, not its whole purpose. Real education aims to bring positive changes in our behaviour, to illuminate our minds and to inspire us to work for the community. We are expected to apply in the outside world the knowledge, skills and values we learn in the classroom, and thereby to make life better for ourselves and for society. A person with high grades but no sense of social duty has therefore not received complete education.",
+   "bn": "কথাটির অর্থ, পরীক্ষার ফল শিক্ষার একটি ছোট অংশ মাত্র, পুরো উদ্দেশ্য নয়। প্রকৃত শিক্ষার লক্ষ্য আচরণে ইতিবাচক পরিবর্তন আনা, মনকে আলোকিত করা এবং সমাজের জন্য কাজ করতে অনুপ্রাণিত করা। শ্রেণিকক্ষে শেখা জ্ঞান বাইরের জগতে প্রয়োগ করে জীবনকে ভালো করাই আসল কথা। তাই ভালো গ্রেড থাকলেও সমাজবোধ না থাকলে শিক্ষা সম্পূর্ণ নয়।"
+  },
+  {
+   "q": "“In civic engagement, issues of public concern are crucial.” — How?",
+   "a": "They are crucial because civic engagement is by definition concerned with civic life, that is, the public life of citizens as opposed to private life. Its activities, whether individual or in a group, are meant to protect public interests and to change the way a community values itself. That is why protesting against an unjust decision of the local municipality, such as raising taxes, is civic engagement, while a purely personal matter is not. Only when an action directly affects the community does it count as civic engagement.",
+   "bn": "কারণ নাগরিক সম্পৃক্ততা সংজ্ঞাগতভাবেই নাগরিক জীবন নিয়ে, অর্থাৎ ব্যক্তিগত জীবনের বিপরীতে নাগরিকদের সর্বজনীন জীবন নিয়ে। এর কার্যক্রম — ব্যক্তিগত হোক বা দলগত — জনস্বার্থ রক্ষা করে ও সমাজের আত্মমূল্যায়ন বদলে দেয়। তাই পৌরসভার অন্যায় সিদ্ধান্তের বিরুদ্ধে প্রতিবাদ নাগরিক সম্পৃক্ততা, কিন্তু নিছক ব্যক্তিগত বিষয় নয়।"
+  },
+  {
+   "q": "What is regarded as complete education?",
+   "a": "Complete education is that which illuminates our minds and inspires us to work for the community. It brings positive changes in our behaviour and helps us change both our own lives and our society. It does not stop at grades and certificates; rather it enables us to apply the knowledge, skills and values learnt in the classroom to the world outside, through civic engagement, service learning or volunteerism. Education that fails to do this is not complete at all.",
+   "bn": "সম্পূর্ণ শিক্ষা সেটিই, যা আমাদের মনকে আলোকিত করে এবং সমাজের জন্য কাজ করতে অনুপ্রাণিত করে। এটি আচরণে ইতিবাচক পরিবর্তন আনে এবং নিজের জীবন ও সমাজ দুটোই বদলাতে সাহায্য করে। এটি গ্রেড-সার্টিফিকেটে থেমে থাকে না, বরং শ্রেণিকক্ষের শিক্ষা বাইরের জগতে প্রয়োগ করতে শেখায়।"
+  },
+  {
+   "q": "What types of work does civic engagement include?",
+   "a": "Civic engagement includes both individual and group activities that protect public interests. It includes protesting against unjust decisions of the local municipality, such as an unfair rise in taxes, and the protest may take the form of organising rallies, collecting signatures, making human chains or writing petitions. It also includes helping to control traffic in front of a school, helping children to cross the roads, working in a team to clean a park or a sea beach, and giving services to elderly people.",
+   "bn": "নাগরিক সম্পৃক্ততার মধ্যে রয়েছে জনস্বার্থ রক্ষাকারী ব্যক্তিগত ও দলগত কার্যক্রম — পৌরসভার অন্যায় সিদ্ধান্তের (যেমন কর বৃদ্ধি) বিরুদ্ধে প্রতিবাদ, যা হতে পারে মিছিল, স্বাক্ষর সংগ্রহ, মানববন্ধন বা আবেদনপত্রের মাধ্যমে। এছাড়া বিদ্যালয়ের সামনে যান নিয়ন্ত্রণ, শিশুদের রাস্তা পার করানো, পার্ক বা সৈকত পরিষ্কার এবং বয়স্কদের সেবাও এর অন্তর্ভুক্ত।"
+  }
+ ],
+ "table": {
+  "headers": [
+   "What / Who",
+   "Event / Action",
+   "Why / When",
+   "Where"
+  ],
+  "rows": [
+   [
+    "Education",
+    "aims at",
+    "(i) @bringing about positive changes in our behaviour",
+    "(ii) @in our life"
+   ],
+   [
+    "Education",
+    "helps in trying",
+    "(iii) @to change our lives",
+    "and (iv) @the society we live in"
+   ],
+   [
+    "(v) @Education that doesn't illuminate our minds",
+    "(vi) @is not complete",
+    "at all",
+    "anywhere in the world"
+   ],
+   [
+    "(vii) @Learners' civic engagement",
+    "is highly appreciated",
+    "(viii) @all over the world",
+    "in the field of education"
+   ],
+   [
+    "Civic engagement",
+    "(ix) @promotes the quality of life",
+    "by contributing to the improvement of health and wellbeing",
+    "(x) @in a community"
+   ]
+  ],
+  "note": "‘Aims at’-এর পরে সবসময় verb + ing বসে (aims at bringing) — খালিঘর পূরণের সময় এই ব্যাকরণটি মাথায় রাখো।"
+ },
+ "flow": {
+  "title": "Importance of Education — শিক্ষার গুরুত্ব",
+  "items": [
+   {
+    "t": "Brings about positive changes in behaviour",
+    "bn": "আচরণে ইতিবাচক পরিবর্তন আনে (দেওয়া আছে)"
+   },
+   {
+    "t": "Helps change our own lives and our society",
+    "bn": "নিজের জীবন ও সমাজ বদলাতে সাহায্য করে"
+   },
+   {
+    "t": "Illuminates our minds and inspires community work",
+    "bn": "মনকে আলোকিত করে ও সমাজসেবায় উদ্বুদ্ধ করে"
+   },
+   {
+    "t": "Makes life better — beyond grades and certificates",
+    "bn": "গ্রেড-সার্টিফিকেট ছাড়িয়ে জীবনকে উন্নত করে"
+   },
+   {
+    "t": "Enables us to apply classroom knowledge in the outside world",
+    "bn": "শ্রেণিকক্ষের শিক্ষা বাস্তবে প্রয়োগ করতে শেখায়"
+   },
+   {
+    "t": "Leads to civic engagement, service learning and volunteerism",
+    "bn": "নাগরিক সম্পৃক্ততা, সার্ভিস লার্নিং ও স্বেচ্ছাসেবায় পৌঁছে দেয়"
+   }
+  ]
+ },
+ "extras": [
+  {
+   "title": "Three Terms Compared <span class='sub'>— সবচেয়ে গুরুত্বপূর্ণ পার্থক্য</span>",
+   "key": "3 Terms",
+   "table": {
+    "headers": [
+     "Term",
+     "Part of an academic programme?",
+     "Assessed?",
+     "Nature",
+     "বাংলা"
+    ],
+    "rows": [
+     [
+      "Civic engagement",
+      "Not necessarily",
+      "Not necessarily",
+      "Working to make a difference in civic life",
+      "@নাগরিক সম্পৃক্ততা"
+     ],
+     [
+      "Service learning",
+      "Yes — it is part of the syllabus",
+      "Yes — assessed on a scale",
+      "Planned: budget, implementation, people, strategies",
+      "@শিক্ষাক্রমভুক্ত ও মূল্যায়িত সেবা-শিক্ষা"
+     ],
+     [
+      "Volunteerism",
+      "No",
+      "No",
+      "Spontaneous but irregular",
+      "@স্বতঃস্ফূর্ত কিন্তু অনিয়মিত স্বেচ্ছাসেবা"
+     ]
+    ]
+   },
+   "note": "**মনে রাখার সূত্র:** পাঠ্যক্রমে আছে + নম্বর দেওয়া হয় = **Service learning**; স্বতঃস্ফূর্ত + অনিয়মিত = **Volunteerism**; দুটোই আসলে **Civic engagement**-এর রূপ।"
+  },
+  {
+   "title": "Examples of Civic Engagement <span class='sub'>— যেসব কাজ এর অন্তর্ভুক্ত</span>",
+   "key": "Examples",
+   "list": [
+    {
+     "em": "📣",
+     "t": "Organizing rallies",
+     "d": "মিছিল বা সমাবেশ আয়োজন"
+    },
+    {
+     "em": "✍️",
+     "t": "Collecting signatures",
+     "d": "গণস্বাক্ষর সংগ্রহ"
+    },
+    {
+     "em": "🔗",
+     "t": "Making human chains",
+     "d": "মানববন্ধন"
+    },
+    {
+     "em": "📄",
+     "t": "Writing petitions",
+     "d": "আবেদনপত্র লেখা"
+    },
+    {
+     "em": "🚦",
+     "t": "Helping control traffic before a school",
+     "d": "বিদ্যালয়ের সামনে যান নিয়ন্ত্রণ",
+     "type": "ok"
+    },
+    {
+     "em": "🧒",
+     "t": "Helping children cross the road",
+     "d": "শিশুদের রাস্তা পার করানো",
+     "type": "ok"
+    },
+    {
+     "em": "🏖️",
+     "t": "Cleaning a park or a sea beach",
+     "d": "পার্ক বা সৈকত পরিষ্কার",
+     "type": "ok"
+    },
+    {
+     "em": "🧓",
+     "t": "Serving elderly people",
+     "d": "বয়স্কদের সেবা",
+     "type": "ok"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  {
+   "em": "🧭",
+   "t": "Definition passages: mark every ‘means’ and ‘is called’",
+   "d": "‘Civic engagement **means**…’, ‘then it **is called** service learning’, ‘it **is considered** volunteerism’ — এই তিনটি বাক্যেই তিনটি সংজ্ঞা।"
+  },
+  {
+   "em": "⚖️",
+   "t": "‘not all about’ ≠ ‘not at all’",
+   "type": "warn",
+   "d": "‘Education is not all about getting grades’ মানে গ্রেড একমাত্র উদ্দেশ্য নয় — গ্রেড অকেজো নয়। MCQ-তে এই সূক্ষ্মতা ধরা পড়ে।"
+  },
+  {
+   "em": "🔤",
+   "t": "illuminate / lightning / illusion",
+   "type": "warn",
+   "d": "বানানে কাছাকাছি তিনটি শব্দ পাশাপাশি option হিসেবে দেওয়া হয়। illuminate = light up (আলোকিত করা)।"
+  },
+  {
+   "em": "📝",
+   "t": "Give examples in 3-mark answers",
+   "type": "ok",
+   "d": "‘What types of work does civic engagement include?’ — অন্তত ৪টি উদাহরণ লিখো (rally, signature, human chain, petition)। উদাহরণেই নম্বর।"
+  },
+  {
+   "em": "🎯",
+   "t": "Learn the 3-term table by heart",
+   "d": "Civic engagement / Service learning / Volunteerism — এই পার্থক্য থেকে প্রতিবছরই কোনো না কোনো প্রশ্ন হয়।"
+  },
+  {
+   "em": "🌍",
+   "t": "Link to your own life",
+   "d": "উত্তরে নিজের এলাকার উদাহরণ (রাস্তা পরিষ্কার, বৃক্ষরোপণ) যোগ করলে ‘Do you support…?’ ধরনের প্রশ্নে বাড়তি নম্বর পাওয়া যায়।"
+  }
+ ],
+ "recap": [
+  "শিক্ষার লক্ষ্য: আচরণে ইতিবাচক পরিবর্তন + নিজের জীবন ও সমাজের পরিবর্তন।",
+  "অসম্পূর্ণ শিক্ষা: যা মন আলোকিত করে না বা সমাজসেবায় উদ্বুদ্ধ করে না।",
+  "Civic engagement = জ্ঞান-দক্ষতা-মূল্যবোধ দিয়ে নাগরিক জীবনে পার্থক্য গড়া।",
+  "উদাহরণ: rally, signature, human chain, petition, traffic, park cleaning, elderly service.",
+  "Service learning = পাঠ্যক্রমভুক্ত ও মূল্যায়িত; Volunteerism = স্বতঃস্ফূর্ত ও অনিয়মিত।"
+ ],
+ "homework": [
+  "তিনটি পরিভাষার পার্থক্যের টেবিল খাতায় তুলে আনবে।",
+  "নিজের এলাকায় করা যায় এমন ৫টি civic engagement-এর তালিকা লিখবে।",
+  "‘What is regarded as complete education?’ — উত্তরটি লিখবে।",
+  "Summary ১৪০ শব্দে লিখে আনবে (তিনটি পরিভাষা অবশ্যই রাখবে)।"
+ ],
+ "paper": "paper1",
+ "paperName": "HSC English 1st Paper"
+}

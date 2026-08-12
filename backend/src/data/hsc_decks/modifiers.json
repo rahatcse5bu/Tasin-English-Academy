@@ -1,0 +1,481 @@
+{
+ "id": "modifiers",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part A",
+ "unitName": "Grammar — Modifiers",
+ "title": "Use of Modifiers — Pre &amp; Post",
+ "titleBn": "মডিফায়ার — পূর্ব ও পরবর্তী অলংকরণ",
+ "lede": "Modifier হলো সেই শব্দ বা শব্দগুচ্ছ যা noun বা verb-কে আরও স্পষ্ট করে। বন্ধনীর নির্দেশই বলে দেয় কী বসাতে হবে — সেটাই এই অধ্যায়ের আসল চাবি।",
+ "qType": "Grammar — Use of Modifiers",
+ "minutes": 55,
+ "marks": "0.5×10 = 5",
+ "rulesTitle": "কোথায় কোন Modifier",
+ "rulesPerSlide": 2,
+ "objectives": [
+  {
+   "t": "What a modifier actually does",
+   "d": "Noun বা verb-কে সুনির্দিষ্ট ও সুন্দর করা"
+  },
+  {
+   "t": "Pre-modifier vs Post-modifier",
+   "d": "আগে বসলে pre, পরে বসলে post — অবস্থানই নাম ঠিক করে"
+  },
+  {
+   "t": "Read the bracket instruction",
+   "d": "‘(pre-modify the noun)’ পড়েই বোঝা যায় কী বসবে"
+  },
+  {
+   "t": "18 rules with structure &amp; example",
+   "d": "প্রতিটির গঠন ও ইংরেজি উদাহরণ"
+  },
+  {
+   "t": "Solved board question",
+   "d": "১০টি খালিঘর, প্রতিটির যুক্তিসহ"
+  },
+  {
+   "t": "Two live practice sets + traps",
+   "d": "শ্রেণিকক্ষে সরাসরি অনুশীলন"
+  }
+ ],
+ "rules": [
+  {
+   "no": "PRE·01",
+   "tag": "Pre",
+   "name": "Adjective as pre-modifier",
+   "bn": "Noun-এর ঠিক আগে **adjective** বসিয়ে noun-টিকে বিশেষায়িত করা হয়। এটিই সবচেয়ে সাধারণ pre-modifier।",
+   "formula": "Adjective + Noun",
+   "ex": "She is a ==brilliant== student. (pre-modify the noun)"
+  },
+  {
+   "no": "PRE·02",
+   "tag": "Pre",
+   "name": "Determiner / Article as pre-modifier",
+   "bn": "**a, an, the, this, that, some, many, each, every** — এসব determiner noun-এর আগে বসে সংখ্যা বা নির্দিষ্টতা বোঝায়।",
+   "formula": "Determiner + (Adjective) + Noun",
+   "ex": "==Every== student must attend the class. (use a determiner)"
+  },
+  {
+   "no": "PRE·03",
+   "tag": "Pre",
+   "name": "Noun as pre-modifier (noun adjunct)",
+   "bn": "একটি **noun** আরেকটি noun-এর আগে বসে তার ধরন বোঝাতে পারে। এখানে প্রথম noun-টি adjective-এর কাজ করে।",
+   "formula": "Noun + Noun",
+   "ex": "He lives in a ==brick== house. (use a noun adjunct)",
+   "note": "‘brick house’, ‘school bag’, ‘village fair’ — প্রথম শব্দটি বিশেষ্য হয়েও বিশেষণের কাজ করছে।"
+  },
+  {
+   "no": "PRE·04",
+   "tag": "Pre",
+   "name": "Present participle as pre-modifier",
+   "bn": "**Verb + ing** রূপ noun-এর আগে বসে চলমান বৈশিষ্ট্য বোঝায়।",
+   "formula": "V-ing + Noun",
+   "ex": "The ==running== train stopped suddenly. (use a participle)"
+  },
+  {
+   "no": "PRE·05",
+   "tag": "Pre",
+   "name": "Past participle as pre-modifier",
+   "bn": "**V3 (past participle)** noun-এর আগে বসে সম্পন্ন বা প্রাপ্ত অবস্থা বোঝায়।",
+   "formula": "V3 + Noun",
+   "ex": "He picked up the ==broken== glass. (use a participle)"
+  },
+  {
+   "no": "PRE·06",
+   "tag": "Pre",
+   "name": "Intensifier before an adjective",
+   "bn": "**very, quite, so, too, extremely, highly, rather** — এসব intensifier adjective-এর আগে বসে মাত্রা বাড়ায়।",
+   "formula": "Intensifier + Adjective + Noun",
+   "ex": "He is a ==very== honest man. (use an intensifier)"
+  },
+  {
+   "no": "PRE·07",
+   "tag": "Pre",
+   "name": "Possessive as pre-modifier",
+   "bn": "**my, our, your, his, her, their, Rahim's** — মালিকানা বোঝাতে noun-এর আগে বসে।",
+   "formula": "Possessive + Noun",
+   "ex": "==His== elder brother lives abroad. (use a possessive)"
+  },
+  {
+   "no": "PRE·08",
+   "tag": "Pre",
+   "name": "Quantifier as pre-modifier",
+   "bn": "পরিমাণ বোঝাতে **many, much, a few, a little, several, plenty of, a lot of** noun-এর আগে বসে।",
+   "formula": "Quantifier + Noun",
+   "ex": "==Many== people gathered there. (use a quantifier)"
+  },
+  {
+   "no": "PRE·09",
+   "tag": "Pre",
+   "name": "Demonstrative as pre-modifier",
+   "bn": "**this, that, these, those** — নির্দিষ্ট করে দেখাতে noun-এর আগে বসে।",
+   "formula": "This / That / These / Those + Noun",
+   "ex": "==Those== boys are playing football. (use a demonstrative)"
+  },
+  {
+   "no": "POST·01",
+   "tag": "Post",
+   "name": "Prepositional phrase as post-modifier",
+   "bn": "Noun-এর **পরে** একটি preposition-যুক্ত phrase বসে তাকে সুনির্দিষ্ট করে।",
+   "formula": "Noun + Preposition + …",
+   "ex": "The book ==on the table== is mine. (post-modify the noun)"
+  },
+  {
+   "no": "POST·02",
+   "tag": "Post",
+   "name": "Relative clause as post-modifier",
+   "bn": "**who, whom, which, that, whose, where** দিয়ে শুরু হওয়া clause noun-এর পরে বসে বিস্তারিত জানায়।",
+   "formula": "Noun + who / which / that + …",
+   "ex": "The man ==who helped me== is a doctor. (use a relative clause)"
+  },
+  {
+   "no": "POST·03",
+   "tag": "Post",
+   "name": "Infinitive as post-modifier",
+   "bn": "**to + V1** noun-এর পরে বসে উদ্দেশ্য বা সম্ভাবনা বোঝায়।",
+   "formula": "Noun + to + V1",
+   "ex": "He has no time ==to waste==. (use an infinitive)"
+  },
+  {
+   "no": "POST·04",
+   "tag": "Post",
+   "name": "Present participle phrase as post-modifier",
+   "bn": "**V-ing phrase** noun-এর পরে বসে চলমান কাজ বোঝায়।",
+   "formula": "Noun + V-ing + …",
+   "ex": "The boy ==reading a book== is my brother. (use a participle phrase)"
+  },
+  {
+   "no": "POST·05",
+   "tag": "Post",
+   "name": "Past participle phrase as post-modifier",
+   "bn": "**V3 phrase** noun-এর পরে বসে নিষ্ক্রিয় বা সম্পন্ন অর্থ বোঝায় (passive sense)।",
+   "formula": "Noun + V3 + …",
+   "ex": "The letter ==written by him== is very touching. (use a participle phrase)"
+  },
+  {
+   "no": "POST·06",
+   "tag": "Post",
+   "name": "Appositive as post-modifier",
+   "bn": "Noun-এর ঠিক পরে কমা দিয়ে আরেকটি noun phrase বসে একই ব্যক্তি/বস্তুর পরিচয় দেয়।",
+   "formula": "Noun , appositive ,",
+   "ex": "Dhaka, ==the capital of Bangladesh==, is a busy city. (use an appositive)"
+  },
+  {
+   "no": "ADV·01",
+   "tag": "Adverbial",
+   "name": "Adverb of manner (how)",
+   "bn": "কাজটি **কীভাবে** হয়েছে তা বোঝাতে verb-এর পরে adverb বসে — সাধারণত **adjective + ly**।",
+   "formula": "Verb + adverb(-ly)",
+   "ex": "He runs ==quickly==. (post-modify the verb)"
+  },
+  {
+   "no": "ADV·02",
+   "tag": "Adverbial",
+   "name": "Adverbial of time / place",
+   "bn": "কাজটি **কখন** বা **কোথায়** হয়েছে তা বোঝাতে verb-এর পরে time/place phrase বসে।",
+   "formula": "Verb + (time / place phrase)",
+   "ex": "She came ==in the morning==. / They played ==in the field==."
+  },
+  {
+   "no": "ADV·03",
+   "tag": "Adverbial",
+   "name": "Adverbial phrase before the verb",
+   "bn": "কখনো adverbial বাক্যের শুরুতে বা verb-এর আগে বসে কাজটিকে বিশেষায়িত করে — একে **pre-modify the verb** বলে।",
+   "formula": "Adverb + Verb",
+   "ex": "He ==slowly== opened the door. (pre-modify the verb)"
+  }
+ ],
+ "boardQ": {
+  "instruction": "Complete the text with suitable modifiers as directed. — নির্দেশ অনুযায়ী উপযুক্ত modifier বসিয়ে অনুচ্ছেদটি পূরণ করো। (0.5×10 = 5)",
+  "text": "Rabindranath Tagore was a (a) ___ (pre-modify the noun) poet of Bengali literature. He was born in a (b) ___ (use a noun adjunct) family in Kolkata. He wrote Gitanjali, (c) ___ (use an appositive), which won the Nobel Prize. The poems (d) ___ (post-modify the noun with a participle phrase) touched the heart of the world. He was (e) ___ (use an intensifier) fond of nature. He established a school (f) ___ (post-modify the noun with a prepositional phrase). He (g) ___ (pre-modify the verb) devoted his life to literature. The people (h) ___ (use a relative clause) still remember him. He had no desire (i) ___ (use an infinitive). He wrote (j) ___ (post-modify the verb) till his last day.",
+  "items": [
+   {
+    "ans": "great / famous / renowned",
+    "why": "Noun ‘poet’-এর আগে **adjective** চাওয়া হয়েছে → pre-modifier. (নিয়ম PRE·01)"
+   },
+   {
+    "ans": "landlord / zamindar",
+    "why": "‘family’-এর আগে আরেকটি **noun** বসিয়ে ধরন বোঝাতে হবে → noun adjunct. (নিয়ম PRE·03)"
+   },
+   {
+    "ans": "a collection of songs",
+    "why": "Gitanjali-র পরিচয় কমার মধ্যে দিতে হবে → **appositive**. (নিয়ম POST·06)"
+   },
+   {
+    "ans": "written by him",
+    "why": "‘poems’-এর পরে **V3 phrase** — passive অর্থে post-modifier. (নিয়ম POST·05)"
+   },
+   {
+    "ans": "very / deeply / extremely",
+    "why": "‘fond’ একটি adjective; তার আগে **intensifier** বসবে। (নিয়ম PRE·06)"
+   },
+   {
+    "ans": "at Santiniketan",
+    "why": "‘school’-এর পরে **prepositional phrase** → post-modifier. (নিয়ম POST·01)"
+   },
+   {
+    "ans": "wholly / completely / sincerely",
+    "why": "Verb ‘devoted’-এর আগে **adverb** → pre-modify the verb. (নিয়ম ADV·03)"
+   },
+   {
+    "ans": "who love literature",
+    "why": "‘people’-এর পরে **relative clause** → who দিয়ে শুরু। (নিয়ম POST·02)"
+   },
+   {
+    "ans": "to be famous",
+    "why": "‘desire’-এর পরে **to + V1** → infinitive post-modifier. (নিয়ম POST·03)"
+   },
+   {
+    "ans": "regularly / continuously",
+    "why": "Verb ‘wrote’-এর পরে **adverb** → post-modify the verb. (নিয়ম ADV·01)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — Pre-modifier",
+   "intro": "বন্ধনীর নির্দেশ পড়ে বলো কী ধরনের শব্দ বসবে — তারপর **R** চেপে উত্তর মিলাও।",
+   "items": [
+    {
+     "q": "He is a ___ (pre-modify the noun) boy.",
+     "ans": "good / honest / meritorious",
+     "why": "Noun ‘boy’-এর আগে adjective। (PRE·01)"
+    },
+    {
+     "q": "___ (use a determiner) student should be punctual.",
+     "ans": "Every / Each",
+     "why": "Singular noun ‘student’-এর আগে determiner। (PRE·02)"
+    },
+    {
+     "q": "She bought a ___ (use a noun adjunct) bag.",
+     "ans": "school / leather",
+     "why": "Noun + Noun গঠন; প্রথমটি ধরন বোঝায়। (PRE·03)"
+    },
+    {
+     "q": "The ___ (use a participle) water is not drinkable.",
+     "ans": "polluted / running",
+     "why": "V3 বা V-ing noun-এর আগে বসে। (PRE·04 / PRE·05)"
+    },
+    {
+     "q": "He is a ___ (use an intensifier) kind man.",
+     "ans": "very / extremely",
+     "why": "Adjective ‘kind’-এর আগে intensifier। (PRE·06)"
+    },
+    {
+     "q": "___ (use a possessive) mother is a teacher.",
+     "ans": "My / His / Her",
+     "why": "মালিকানা বোঝাতে possessive adjective। (PRE·07)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — Post-modifier ও Adverbial",
+   "intro": "এই সেটে সব খালিঘর noun বা verb-এর **পরে** বসবে।",
+   "items": [
+    {
+     "q": "The girl ___ (use a relative clause) is my sister.",
+     "ans": "who is singing",
+     "why": "Noun-এর পরে who দিয়ে relative clause। (POST·02)"
+    },
+    {
+     "q": "The man ___ (post-modify the noun) is a doctor.",
+     "ans": "in the blue shirt",
+     "why": "Preposition দিয়ে শুরু হওয়া phrase। (POST·01)"
+    },
+    {
+     "q": "I have no money ___ (use an infinitive).",
+     "ans": "to spend",
+     "why": "to + V1 গঠন। (POST·03)"
+    },
+    {
+     "q": "The boy ___ (use a participle phrase) is my friend.",
+     "ans": "standing at the gate",
+     "why": "V-ing phrase noun-এর পরে। (POST·04)"
+    },
+    {
+     "q": "He speaks English ___ (post-modify the verb).",
+     "ans": "fluently",
+     "why": "Verb-এর পরে manner-adverb। (ADV·01)"
+    },
+    {
+     "q": "Kazi Nazrul Islam, ___ (use an appositive), is our national poet.",
+     "ans": "the rebel poet",
+     "why": "কমার মধ্যে পরিচয়সূচক noun phrase। (POST·06)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "Instruction → What to write <span class='sub'>— বন্ধনীর নির্দেশ পড়ার ছক (মূল চাবি)</span>",
+   "key": "Instruction Chart",
+   "table": {
+    "headers": [
+     "বন্ধনীতে যা লেখা থাকে",
+     "যা বসাতে হবে",
+     "উদাহরণ"
+    ],
+    "rows": [
+     [
+      "pre-modify the noun",
+      "@Adjective (noun-এর আগে)",
+      "a **brilliant** student"
+     ],
+     [
+      "post-modify the noun",
+      "@Prepositional phrase / clause (noun-এর পরে)",
+      "the book **on the table**"
+     ],
+     [
+      "pre-modify the verb",
+      "@Adverb (verb-এর আগে)",
+      "he **slowly** walked"
+     ],
+     [
+      "post-modify the verb",
+      "@Adverb (verb-এর পরে)",
+      "he walked **slowly**"
+     ],
+     [
+      "use a determiner",
+      "@a, an, the, every, each, some",
+      "**Every** student"
+     ],
+     [
+      "use a quantifier",
+      "@many, much, a few, a little, several",
+      "**Many** people"
+     ],
+     [
+      "use an intensifier",
+      "@very, quite, so, too, extremely",
+      "**very** honest"
+     ],
+     [
+      "use a participle",
+      "@V-ing বা V3",
+      "a **running** train / a **broken** glass"
+     ],
+     [
+      "use a participle phrase",
+      "@V-ing / V3 + বাকি অংশ (noun-এর পরে)",
+      "the boy **reading a book**"
+     ],
+     [
+      "use an infinitive",
+      "@to + V1",
+      "no time **to waste**"
+     ],
+     [
+      "use an appositive",
+      "@কমার মধ্যে পরিচয়সূচক noun phrase",
+      "Dhaka, **the capital**,"
+     ],
+     [
+      "use a relative clause",
+      "@who / which / that + …",
+      "the man **who came**"
+     ],
+     [
+      "use a noun adjunct",
+      "@Noun + Noun",
+      "a **brick** house"
+     ],
+     [
+      "use a possessive",
+      "@my, his, her, their, Rahim's",
+      "**His** brother"
+     ],
+     [
+      "use a demonstrative",
+      "@this, that, these, those",
+      "**Those** boys"
+     ]
+    ]
+   },
+   "note": "**পরীক্ষার নিয়ম:** আগে বন্ধনী পড়ো, তারপর খালিঘরের **আগে-পরে** কী আছে দেখো। নির্দেশই বলে দেয় উত্তরের ধরন — অর্থ পরে ভাবো।"
+  },
+  {
+   "title": "Pre vs Post at a glance <span class='sub'>— অবস্থানই পার্থক্য</span>",
+   "key": "Pre vs Post",
+   "table": {
+    "headers": [
+     "",
+     "Pre-modifier",
+     "Post-modifier"
+    ],
+    "rows": [
+     [
+      "অবস্থান",
+      "@Noun/Verb-এর আগে",
+      "@Noun/Verb-এর পরে"
+     ],
+     [
+      "সাধারণ রূপ",
+      "adjective, determiner, intensifier, participle, noun adjunct",
+      "prepositional phrase, relative clause, infinitive, participle phrase, appositive"
+     ],
+     [
+      "Noun-এর উদাহরণ",
+      "a **beautiful** flower",
+      "the flower **in the vase**"
+     ],
+     [
+      "Verb-এর উদাহরণ",
+      "he **quickly** ran",
+      "he ran **quickly**"
+     ]
+    ]
+   },
+   "note": "একই শব্দ অবস্থান বদলালেই নাম বদলায় — ‘quickly’ আগে বসলে pre, পরে বসলে post।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "📖",
+   "t": "Read the bracket before the blank",
+   "d": "Modifier প্রশ্নে বন্ধনীর নির্দেশই উত্তরের ধরন ঠিক করে দেয়। নির্দেশ না পড়ে অর্থ দিয়ে বসালে ভুল হবেই।"
+  },
+  {
+   "em": "📍",
+   "t": "Position decides the name",
+   "type": "ok",
+   "d": "আগে বসলে **pre**, পরে বসলে **post**। একই শব্দ দুই জায়গাতেই বসতে পারে, নাম বদলে যায়।"
+  },
+  {
+   "em": "⚠️",
+   "t": "Participle ≠ participle phrase",
+   "type": "warn",
+   "d": "‘use a participle’ = একটি শব্দ (**broken**)। ‘use a participle phrase’ = শব্দগুচ্ছ (**written by him**)।"
+  },
+  {
+   "em": "✍️",
+   "t": "Keep it short and natural",
+   "d": "Modifier যত ছোট ও স্বাভাবিক, তত ভালো। এক-দুই শব্দেই যথেষ্ট; লম্বা বাক্য লিখতে গেলে ব্যাকরণ ভেঙে যায়।"
+  },
+  {
+   "em": "🔗",
+   "t": "Check the sentence still reads well",
+   "d": "উত্তর বসিয়ে পুরো বাক্যটি একবার পড়ো। অর্থ বা গঠন ভাঙলে সেটি ভুল modifier।"
+  },
+  {
+   "em": "🎯",
+   "t": "Adjective vs Adverb",
+   "type": "warn",
+   "d": "Noun-কে বিশেষায়িত করলে **adjective** (a *quick* runner), verb-কে করলে **adverb** (runs *quickly*)।"
+  }
+ ],
+ "recap": [
+  "Modifier = noun বা verb-কে স্পষ্ট ও সুন্দর করার শব্দ/শব্দগুচ্ছ।",
+  "Pre-modifier আগে বসে: adjective, determiner, intensifier, participle, noun adjunct, possessive।",
+  "Post-modifier পরে বসে: prepositional phrase, relative clause, infinitive, participle phrase, appositive।",
+  "Verb-এর ক্ষেত্রে adverb — আগে বসলে pre-modify, পরে বসলে post-modify।",
+  "বন্ধনীর নির্দেশই উত্তরের ধরন ঠিক করে — আগে নির্দেশ, পরে অর্থ।"
+ ],
+ "homework": [
+  "‘Instruction → What to write’ ছকের ১৫টি সারি মুখস্থ করবে।",
+  "বোর্ড প্রশ্নটি না দেখে আবার সমাধান করবে।",
+  "নিজে ১০টি বাক্য লিখে তাতে pre ও post modifier চিহ্নিত করবে।",
+  "Pre vs Post ছকটি খাতায় তুলে আনবে।"
+ ],
+ "paper": "paper2"
+}

@@ -6,6 +6,7 @@ import '../../theme.dart';
 import '../../widgets/common.dart';
 import 'vocabulary_screen.dart';
 import 'grammar_screen.dart';
+import 'learn/learn_browse.dart';
 
 /// Bottom sheet showing the full content of a resource (bilingual).
 void showResourceDetail(BuildContext context, Resource r) {
@@ -124,6 +125,50 @@ class _ResourcesScreenState extends State<ResourcesScreen> {
       ),
       body: Column(
         children: [
+          Padding(
+            padding: const EdgeInsets.fromLTRB(12, 12, 12, 0),
+            child: InkWell(
+              borderRadius: BorderRadius.circular(16),
+              onTap: () => Navigator.of(context).push(MaterialPageRoute(
+                  builder: (_) => const ClassListScreen())),
+              child: Container(
+                width: double.infinity,
+                padding: const EdgeInsets.all(18),
+                decoration: BoxDecoration(
+                  gradient: const LinearGradient(
+                      colors: [AppTheme.seed, Color(0xFF6A53C9)],
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight),
+                  borderRadius: BorderRadius.circular(16),
+                ),
+                child: Row(
+                  children: [
+                    const Icon(Icons.auto_stories,
+                        color: Colors.white, size: 34),
+                    const SizedBox(width: 14),
+                    const Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text('Class Lessons',
+                              style: TextStyle(
+                                  color: Colors.white,
+                                  fontSize: 18,
+                                  fontWeight: FontWeight.w800)),
+                          SizedBox(height: 2),
+                          Text(
+                              'শ্রেণি → বিষয় → অধ্যায় · পড়ো, কুইজ খেলো, শব্দ শেখো',
+                              style: TextStyle(
+                                  color: Colors.white70, fontSize: 12)),
+                        ],
+                      ),
+                    ),
+                    const Icon(Icons.arrow_forward, color: Colors.white),
+                  ],
+                ),
+              ),
+            ),
+          ),
           Padding(
             padding: const EdgeInsets.fromLTRB(12, 12, 12, 0),
             child: Row(children: [

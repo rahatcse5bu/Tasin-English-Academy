@@ -7,7 +7,9 @@
     "start": "nest start",
     "start:dev": "nest start --watch",
     "start:prod": "node dist/main",
-    "seed": "ts-node -r tsconfig-paths/register src/seed.ts"
+    "seed": "ts-node -r tsconfig-paths/register src/seed.ts",
+    "decks:index": "node scripts/build-decks-index.js",
+    "seed:decks": "ts-node -r tsconfig-paths/register src/decks/seed-decks.ts"
   },
   "dependencies": {
     "@nestjs/common": "^10.3.0",

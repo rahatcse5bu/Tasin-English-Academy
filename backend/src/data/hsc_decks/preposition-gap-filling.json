@@ -1,0 +1,432 @@
+{
+ "id": "preposition-gap-filling",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part A",
+ "unitName": "Grammar — Gap Filling",
+ "title": "Gap Filling with Clues — Prepositions",
+ "titleBn": "শূন্যস্থান পূরণ (সংকেতসহ) — Preposition",
+ "lede": "Preposition মুখস্থ করার জিনিস নয়, জোড়া চেনার জিনিস। কোন verb/adjective/noun-এর সাথে কোনটি বসে — সেই জোড়াগুলোই এখানে।",
+ "qType": "Grammar — Gap Filling with Clues",
+ "minutes": 50,
+ "marks": "0.5×10 = 5",
+ "rulesTitle": "Preposition-এর নিয়ম",
+ "rulesPerSlide": 3,
+ "objectives": [
+  {
+   "t": "Time prepositions: in / on / at",
+   "d": "বড় সময়ে in, নির্দিষ্ট দিনে on, ঘড়ির সময়ে at"
+  },
+  {
+   "t": "Place prepositions: in / on / at",
+   "d": "বড় জায়গায় in, উপরিতলে on, নির্দিষ্ট বিন্দুতে at"
+  },
+  {
+   "t": "Verb + preposition pairs",
+   "d": "depend on, listen to, look after — জোড়া মুখস্থ"
+  },
+  {
+   "t": "Adjective &amp; noun + preposition",
+   "d": "fond of, afraid of, reason for…"
+  },
+  {
+   "t": "Solved board question",
+   "d": "১০টি খালিঘর, প্রতিটির যুক্তিসহ"
+  },
+  {
+   "t": "Two live practice sets",
+   "d": "শ্রেণিকক্ষে সরাসরি অনুশীলন"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Time",
+   "name": "in — বড় সময়ের একক",
+   "bn": "মাস, ঋতু, বছর, শতাব্দী, সকাল/দুপুর/সন্ধ্যা — অর্থাৎ **বড় সময়ের একক** বোঝাতে **in** বসে।",
+   "formula": "in + month / year / season / morning / evening",
+   "ex": "He was born ==in== 1998. / She reads ==in== the morning."
+  },
+  {
+   "no": "02",
+   "tag": "Time",
+   "name": "on — নির্দিষ্ট দিন ও তারিখ",
+   "bn": "বার, তারিখ, বিশেষ দিন — অর্থাৎ **নির্দিষ্ট দিন** বোঝাতে **on** বসে।",
+   "formula": "on + day / date / special day",
+   "ex": "We have a test ==on== Monday. / He came ==on== 21 February."
+  },
+  {
+   "no": "03",
+   "tag": "Time",
+   "name": "at — ঘড়ির সময় ও বিন্দু-সময়",
+   "bn": "ঘড়ির নির্দিষ্ট সময়, রাত, দুপুরবেলা — অর্থাৎ **সময়ের বিন্দু** বোঝাতে **at** বসে।",
+   "formula": "at + clock time / night / noon / dawn",
+   "ex": "The class starts ==at== 9 a.m. / He returned ==at== night."
+  },
+  {
+   "no": "04",
+   "tag": "Place",
+   "name": "in / on / at — স্থান",
+   "bn": "বড় জায়গা (দেশ, শহর, ঘরের ভেতর) → **in**; উপরিতল → **on**; ছোট নির্দিষ্ট বিন্দু → **at**।",
+   "formula": "in + country/city/room · on + surface · at + point",
+   "ex": "He lives ==in== Dhaka. The book is ==on== the table. He is ==at== the door."
+  },
+  {
+   "no": "05",
+   "tag": "Time",
+   "name": "for / since — সময়ের ব্যাপ্তি",
+   "bn": "**for** + সময়ের **পরিমাণ** (দুই ঘণ্টা, তিন বছর); **since** + সময়ের **শুরুবিন্দু** (সকাল থেকে, ২০১৫ সাল থেকে)।",
+   "formula": "for + period · since + point of time",
+   "ex": "He has been ill ==for== three days. / He has been ill ==since== Monday."
+  },
+  {
+   "no": "06",
+   "tag": "Time",
+   "name": "by / within / after",
+   "bn": "**by** = নির্দিষ্ট সময়ের মধ্যেই (তার আগেই); **within** = ভেতরে; **after** = পরে।",
+   "formula": "by + deadline · within + period · after + point",
+   "ex": "Finish it ==by== Friday. / Come back ==within== an hour."
+  },
+  {
+   "no": "07",
+   "tag": "Verb",
+   "name": "Verb + on",
+   "bn": "**depend on, rely on, insist on, concentrate on, congratulate on, comment on** — এই verb গুলোর সাথে **on** বসে।",
+   "formulaLabel": "PAIRS",
+   "formula": "depend · rely · insist · concentrate · congratulate · comment + on",
+   "ex": "Success depends ==on== hard work."
+  },
+  {
+   "no": "08",
+   "tag": "Verb",
+   "name": "Verb + to",
+   "bn": "**listen to, belong to, refer to, object to, reply to, prefer … to, look forward to** — এদের সাথে **to** বসে।",
+   "formulaLabel": "PAIRS",
+   "formula": "listen · belong · refer · object · reply · prefer + to",
+   "ex": "Listen ==to== your teacher attentively."
+  },
+  {
+   "no": "09",
+   "tag": "Verb",
+   "name": "Verb + for",
+   "bn": "**wait for, look for, apply for, long for, care for, pay for, ask for** — এদের সাথে **for** বসে।",
+   "formulaLabel": "PAIRS",
+   "formula": "wait · look · apply · long · care · pay · ask + for",
+   "ex": "He applied ==for== the post of a teacher."
+  },
+  {
+   "no": "10",
+   "tag": "Verb",
+   "name": "Verb + at",
+   "bn": "**look at, laugh at, aim at, shout at, wonder at, arrive at** — এদের সাথে **at** বসে।",
+   "formulaLabel": "PAIRS",
+   "formula": "look · laugh · aim · shout · wonder · arrive + at",
+   "ex": "Don't laugh ==at== the poor."
+  },
+  {
+   "no": "11",
+   "tag": "Verb",
+   "name": "Verb + with / from / of / in",
+   "bn": "**agree with** (ব্যক্তি), **quarrel with**, **deal with**; **suffer from, differ from, prevent from**; **consist of, dispose of, think of**; **succeed in, believe in, take part in**।",
+   "formulaLabel": "PAIRS",
+   "formula": "agree/quarrel/deal + with · suffer/differ/prevent + from · consist/think + of · succeed/believe + in",
+   "ex": "He suffers ==from== fever. / She succeeded ==in== the exam."
+  },
+  {
+   "no": "12",
+   "tag": "Adjective",
+   "name": "Adjective + of",
+   "bn": "**fond of, afraid of, proud of, aware of, sure of, capable of, full of, tired of, ashamed of** — এদের সাথে **of** বসে।",
+   "formulaLabel": "PAIRS",
+   "formula": "fond · afraid · proud · aware · capable · full · tired + of",
+   "ex": "He is fond ==of== music."
+  },
+  {
+   "no": "13",
+   "tag": "Adjective",
+   "name": "Adjective + to / with / at / in",
+   "bn": "**good to** (ব্যক্তির প্রতি), **kind to, similar to, addicted to**; **angry with** (ব্যক্তি), **pleased with, satisfied with**; **angry at** (কাজ), **good at, expert in, rich in, interested in**।",
+   "formulaLabel": "PAIRS",
+   "formula": "kind/similar/addicted + to · angry/pleased/satisfied + with · good/expert + at/in",
+   "ex": "He is good ==at== mathematics. / She is angry ==with== me."
+  },
+  {
+   "no": "14",
+   "tag": "Noun",
+   "name": "Noun + preposition",
+   "bn": "**reason for, cause of, need for, demand for, solution to, answer to, key to, effect on, influence on** — এই জোড়াগুলো নিশ্চিতভাবে আসে।",
+   "formulaLabel": "PAIRS",
+   "formula": "reason/need/demand + for · cause + of · solution/answer/key + to · effect/influence + on",
+   "ex": "There is no solution ==to== this problem."
+  },
+  {
+   "no": "15",
+   "tag": "Trap",
+   "name": "যেখানে preposition বসে না",
+   "bn": "**discuss, enter, marry, reach, resemble, lack, attack, order, join** — এসব verb-এর পরে সরাসরি object বসে, কোনো preposition লাগে না।",
+   "formulaLabel": "NO PREPOSITION",
+   "formula": "discuss / enter / marry / reach / resemble / lack + object",
+   "ex": "We discussed ==the matter== (✗ discussed about). He entered ==the room== (✗ entered into).",
+   "note": "এটি বোর্ডের প্রিয় ফাঁদ — ‘discuss about’, ‘enter into the room’ লিখলেই নম্বর কাটা।"
+  }
+ ],
+ "boardQ": {
+  "instruction": "Fill in the blanks with suitable prepositions. — উপযুক্ত preposition দিয়ে শূন্যস্থান পূরণ করো। (0.5×10 = 5)",
+  "text": "Discipline is essential (a) ___ our life. It depends (b) ___ self-control. A student who is fond (c) ___ discipline never suffers (d) ___ failure. He is always punctual and reaches school (e) ___ time. He listens (f) ___ his teachers attentively and takes part (g) ___ different activities. He is never angry (h) ___ anybody. There is a great demand (i) ___ disciplined students in every society, and the key (j) ___ a bright future lies in discipline.",
+  "items": [
+   {
+    "ans": "in / to",
+    "why": "‘essential to/in our life’ — জীবনে অপরিহার্য। (নিয়ম ০৪)"
+   },
+   {
+    "ans": "on",
+    "why": "**depend on** — নির্দিষ্ট জোড়া। (নিয়ম ০৭)"
+   },
+   {
+    "ans": "of",
+    "why": "**fond of** — adjective + of. (নিয়ম ১২)"
+   },
+   {
+    "ans": "from",
+    "why": "**suffer from** — নির্দিষ্ট জোড়া। (নিয়ম ১১)"
+   },
+   {
+    "ans": "in",
+    "why": "‘in time’ = যথাসময়ে। (‘on time’ = ঠিক কাঁটায় কাঁটায়) (নিয়ম ০১)"
+   },
+   {
+    "ans": "to",
+    "why": "**listen to** — নির্দিষ্ট জোড়া। (নিয়ম ০৮)"
+   },
+   {
+    "ans": "in",
+    "why": "**take part in** — নির্দিষ্ট জোড়া। (নিয়ম ১১)"
+   },
+   {
+    "ans": "with",
+    "why": "**angry with** + ব্যক্তি (কাজের ক্ষেত্রে angry at)। (নিয়ম ১৩)"
+   },
+   {
+    "ans": "for",
+    "why": "**demand for** — noun + for. (নিয়ম ১৪)"
+   },
+   {
+    "ans": "to",
+    "why": "**key to** — noun + to. (নিয়ম ১৪)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — Verb + Preposition",
+   "intro": "জোড়াটা মনে আছে কি না দেখো — আগে বলো, তারপর **R**।",
+   "items": [
+    {
+     "q": "He is waiting ___ the bus.",
+     "ans": "for",
+     "why": "wait for. (০৯)"
+    },
+    {
+     "q": "She is looking ___ her lost pen.",
+     "ans": "for",
+     "why": "look for = খোঁজা। (০৯)"
+    },
+    {
+     "q": "Please look ___ my child.",
+     "ans": "after",
+     "why": "look after = দেখাশোনা করা।"
+    },
+    {
+     "q": "This book belongs ___ me.",
+     "ans": "to",
+     "why": "belong to. (০৮)"
+    },
+    {
+     "q": "He succeeded ___ the examination.",
+     "ans": "in",
+     "why": "succeed in. (১১)"
+    },
+    {
+     "q": "Don't laugh ___ the poor.",
+     "ans": "at",
+     "why": "laugh at. (১০)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — Adjective, Noun ও ফাঁদ",
+   "intro": "শেষ দুটিতে সাবধান — সেখানে preposition বসবে না।",
+   "items": [
+    {
+     "q": "He is proud ___ his son.",
+     "ans": "of",
+     "why": "proud of. (১২)"
+    },
+    {
+     "q": "She is good ___ English.",
+     "ans": "at / in",
+     "why": "good at (দক্ষতা)। (১৩)"
+    },
+    {
+     "q": "What is the reason ___ his failure?",
+     "ans": "for",
+     "why": "reason for. (১৪)"
+    },
+    {
+     "q": "There is no answer ___ this question.",
+     "ans": "to",
+     "why": "answer to. (১৪)"
+    },
+    {
+     "q": "We discussed ___ the matter.",
+     "ans": "(no preposition)",
+     "why": "discuss-এর পরে সরাসরি object — ‘discuss about’ ভুল। (১৫)"
+    },
+    {
+     "q": "He entered ___ the room.",
+     "ans": "(no preposition)",
+     "why": "enter-এর পরে সরাসরি object — ‘enter into’ ভুল (রূপক অর্থে ছাড়া)। (১৫)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "Fixed pairs to memorise <span class='sub'>— যে জোড়াগুলো প্রতি বছর আসে</span>",
+   "key": "Pairs",
+   "table": {
+    "headers": [
+     "Preposition",
+     "যাদের সাথে বসে"
+    ],
+    "rows": [
+     [
+      "on",
+      "depend, rely, insist, concentrate, congratulate, comment, effect, influence, impose"
+     ],
+     [
+      "to",
+      "listen, belong, refer, object, reply, prefer, similar, addicted, kind, solution, answer, key"
+     ],
+     [
+      "for",
+      "wait, look, apply, long, care, pay, ask, reason, need, demand, famous, sorry"
+     ],
+     [
+      "at",
+      "look, laugh, aim, shout, wonder, arrive, good, expert, angry (কাজ), surprised"
+     ],
+     [
+      "with",
+      "agree (ব্যক্তি), quarrel, deal, pleased, satisfied, angry (ব্যক্তি), busy, popular"
+     ],
+     [
+      "from",
+      "suffer, differ, prevent, refrain, escape, recover, absent, different"
+     ],
+     [
+      "of",
+      "fond, afraid, proud, aware, sure, capable, full, tired, ashamed, consist, cause, dispose"
+     ],
+     [
+      "in",
+      "succeed, believe, take part, interested, rich, weak, engaged, confidence"
+     ]
+    ]
+   },
+   "note": "**পড়ার কৌশল:** preposition ধরে ধরে পড়ো (সব ‘on’ একসাথে), শব্দ ধরে নয়। এভাবে ৮টি দলে পুরো তালিকা মুখস্থ হয়ে যায়।"
+  },
+  {
+   "title": "No preposition needed <span class='sub'>— বোর্ডের প্রিয় ফাঁদ</span>",
+   "key": "No Preposition",
+   "table": {
+    "headers": [
+     "✗ ভুল",
+     "✓ সঠিক"
+    ],
+    "rows": [
+     [
+      "discuss about the matter",
+      "==discuss the matter=="
+     ],
+     [
+      "enter into the room",
+      "==enter the room=="
+     ],
+     [
+      "marry with her",
+      "==marry her=="
+     ],
+     [
+      "reach at the station",
+      "==reach the station=="
+     ],
+     [
+      "resemble to his father",
+      "==resemble his father=="
+     ],
+     [
+      "lack of confidence (verb হিসেবে)",
+      "==lack confidence== (noun হলে: a lack **of** confidence)"
+     ],
+     [
+      "attack on the enemy (verb)",
+      "==attack the enemy== (noun হলে: an attack **on**)"
+     ],
+     [
+      "order to him",
+      "==order him=="
+     ]
+    ]
+   },
+   "note": "Verb হিসেবে preposition লাগে না, কিন্তু **noun** হিসেবে লাগে — ‘a lack of’, ‘an attack on’। এই পার্থক্যেই ফাঁদ।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🔗",
+   "t": "Learn pairs, not words",
+   "d": "‘depend’ একা মুখস্থ কোরো না — **depend on** জোড়া হিসেবে মুখস্থ করো। পরীক্ষায় জোড়াই কাজে লাগে।"
+  },
+  {
+   "em": "🕐",
+   "t": "Time: in → on → at (বড় থেকে ছোট)",
+   "type": "ok",
+   "d": "বছর/মাস = **in**, দিন/তারিখ = **on**, ঘড়ির সময় = **at**। স্থানেও একই ক্রম: দেশ = in, তল = on, বিন্দু = at।"
+  },
+  {
+   "em": "⚠️",
+   "t": "discuss / enter / marry / reach",
+   "type": "warn",
+   "d": "এই verb গুলোর পরে preposition বসে না। ‘discussed about’ প্রতি বছর হাজারো খাতায় ভুল হয়।"
+  },
+  {
+   "em": "🧲",
+   "t": "for vs since",
+   "d": "**for** + কতক্ষণ (three days), **since** + কখন থেকে (Monday, 2015)। Present Perfect Continuous-এ এই দুটিই আসে।"
+  },
+  {
+   "em": "😠",
+   "t": "angry with vs angry at",
+   "d": "মানুষের ওপর রাগ = angry **with**; কাজের ওপর রাগ = angry **at**। একইভাবে good **at** (দক্ষ), good **to** (দয়ালু)।"
+  },
+  {
+   "em": "✍️",
+   "t": "Read the whole sentence",
+   "d": "একই শব্দ ভিন্ন preposition নিতে পারে (good at / good to / good for)। অর্থ দেখে বাছো, মুখস্থে নয়।"
+  }
+ ],
+ "recap": [
+  "সময়: বড় একক in, নির্দিষ্ট দিন on, ঘড়ির সময় at।",
+  "for = সময়ের পরিমাণ, since = শুরুর বিন্দু।",
+  "জোড়া মুখস্থ: depend on, listen to, wait for, laugh at, suffer from, fond of, succeed in।",
+  "Noun-এর জোড়া: reason for, cause of, solution to, effect on, demand for।",
+  "discuss, enter, marry, reach, resemble — এদের পরে preposition বসে না।"
+ ],
+ "homework": [
+  "‘Fixed pairs’ ছকের ৮টি দল খাতায় লিখে মুখস্থ করবে।",
+  "‘No preposition needed’-এর ৮টি জোড়া লিখবে।",
+  "বোর্ড প্রশ্নটি না দেখে আবার পূরণ করবে।",
+  "নিজে ২০টি বাক্য লিখে তাতে শেখা জোড়াগুলো ব্যবহার করবে।"
+ ],
+ "paper": "paper2"
+}

@@ -1,0 +1,573 @@
+{
+ "id": "completing-sentences",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part A",
+ "unitName": "Grammar — Sentence Structure",
+ "title": "Completing Sentences",
+ "titleBn": "বাক্য সম্পূর্ণ করা",
+ "lede": "অসম্পূর্ণ বাক্যের সংকেত-শব্দটিই বলে দেয় বাকি অংশের গঠন কী হবে। ২৪টি গঠন, প্রতিটির নিয়ম ও উদাহরণসহ।",
+ "qType": "Grammar — Completing Sentences",
+ "minutes": 55,
+ "marks": "1×5 = 5",
+ "rulesTitle": "সংকেত অনুযায়ী গঠন",
+ "rulesPerSlide": 3,
+ "objectives": [
+  {
+   "t": "Spot the signal word first",
+   "d": "so that, too…to, unless, lest, wish — সংকেতই গঠন ঠিক করে"
+  },
+  {
+   "t": "24 structures with examples",
+   "d": "প্রতিটির গঠন ও সম্পূর্ণ ইংরেজি উদাহরণ"
+  },
+  {
+   "t": "Keep tense and meaning consistent",
+   "d": "যে অংশ দেওয়া আছে তার সাথে মিল রেখে লিখতে হবে"
+  },
+  {
+   "t": "Solved board question",
+   "d": "১০টি বাক্য, প্রতিটির যুক্তিসহ"
+  },
+  {
+   "t": "Two live practice sets",
+   "d": "শ্রেণিকক্ষে সরাসরি অনুশীলন"
+  },
+  {
+   "t": "Traps &amp; tips",
+   "d": "যেখানে সবচেয়ে বেশি ভুল হয়"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Purpose",
+   "name": "so that / in order that",
+   "bn": "**উদ্দেশ্য** বোঝাতে — পরের অংশে subject + **can/could/may/might/will/would** + V1 বসে।",
+   "formula": "… so that + sub + can / could / may / might + V1",
+   "ex": "He works hard ==so that he can shine in life==."
+  },
+  {
+   "no": "02",
+   "tag": "Result",
+   "name": "so … that",
+   "bn": "**এত … যে** — so-এর পরে adjective/adverb, that-এর পরে পূর্ণ clause বসে।",
+   "formula": "so + adj/adv + that + sub + verb",
+   "ex": "He is so weak ==that he cannot walk==."
+  },
+  {
+   "no": "03",
+   "tag": "Result",
+   "name": "such … that",
+   "bn": "**এমন … যে** — such-এর পরে **a/an + adjective + noun**, তারপর that + clause।",
+   "formula": "such + a/an + adj + noun + that + sub + verb",
+   "ex": "It was such a fine morning ==that we went out for a walk==."
+  },
+  {
+   "no": "04",
+   "tag": "Excess",
+   "name": "too … to",
+   "bn": "**এত … যে পারে না** — নেতিবাচক অর্থ বহন করে, তাই পরে আর not বসে না।",
+   "formula": "too + adj + to + V1",
+   "ex": "He is too weak ==to walk==."
+  },
+  {
+   "no": "05",
+   "tag": "Sufficiency",
+   "name": "enough to",
+   "bn": "**যথেষ্ট … করার মতো** — adjective/adverb-এর পরে enough, তারপর to + V1।",
+   "formula": "adj + enough + to + V1",
+   "ex": "He is strong enough ==to carry the box==."
+  },
+  {
+   "no": "06",
+   "tag": "Condition",
+   "name": "First Conditional — If + Present",
+   "bn": "সম্ভাব্য ভবিষ্যৎ শর্ত — If-অংশ Present Indefinite, অপর অংশে **will/shall/can/may + V1**।",
+   "formula": "If + sub + V1/V5 , sub + will/can/may + V1",
+   "ex": "If you work hard, ==you will succeed in life==."
+  },
+  {
+   "no": "07",
+   "tag": "Condition",
+   "name": "Second Conditional — If + Past",
+   "bn": "বর্তমানের **অবাস্তব** কল্পনা — If-অংশ Past Indefinite, অপর অংশে **would/could/might + V1**।",
+   "formula": "If + sub + V2 , sub + would / could / might + V1",
+   "ex": "If I were a bird, ==I would fly in the sky==."
+  },
+  {
+   "no": "08",
+   "tag": "Condition",
+   "name": "Third Conditional — If + Past Perfect",
+   "bn": "অতীতের **অবাস্তব** কল্পনা — If-অংশ had + V3, অপর অংশে **would/could/might have + V3**।",
+   "formula": "If + sub + had + V3 , sub + would have + V3",
+   "ex": "If he had studied, ==he would have passed the exam==."
+  },
+  {
+   "no": "09",
+   "tag": "Condition",
+   "name": "Unless (যদি না)",
+   "bn": "Unless-এর মধ্যেই **‘না’** আছে; তাই এর পরে আর not বসবে না। প্রধান অংশ সাধারণত negative হয়।",
+   "formula": "Unless + sub + V1/V5 , sub + will not + V1",
+   "ex": "Unless you work hard, ==you will not succeed==."
+  },
+  {
+   "no": "10",
+   "tag": "Purpose",
+   "name": "lest (পাছে ভয় হয় যে)",
+   "bn": "Lest নিজেই নেতিবাচক; এর পরে subject + **should / might** + V1 বসে, কখনো not নয়।",
+   "formula": "lest + sub + should / might + V1",
+   "ex": "Walk fast lest ==you should miss the train==."
+  },
+  {
+   "no": "11",
+   "tag": "Time",
+   "name": "No sooner had … than",
+   "bn": "একটি কাজ শেষ হতে না হতেই আরেকটি — had-এর সাথে **V3**, than-এর পরে **V2**।",
+   "formula": "No sooner had + sub + V3 + than + sub + V2",
+   "ex": "No sooner had he seen the police ==than he ran away==."
+  },
+  {
+   "no": "12",
+   "tag": "Time",
+   "name": "As soon as / Hardly had … when",
+   "bn": "**As soon as**-এর দুই অংশই সাধারণত Past Indefinite। **Hardly/Scarcely had … when** গঠনে had + V3, তারপর V2।",
+   "formula": "As soon as + sub + V2 , sub + V2",
+   "ex": "As soon as the bell rang, ==the students entered the class==."
+  },
+  {
+   "no": "13",
+   "tag": "Contrast",
+   "name": "Though / Although",
+   "bn": "**যদিও** — এর পরে পূর্ণ clause (subject + verb) বসে; প্রধান অংশে বিপরীত কথা আসে।",
+   "formula": "Though + sub + verb , sub + verb",
+   "ex": "Though he is poor, ==he is honest==."
+  },
+  {
+   "no": "14",
+   "tag": "Contrast",
+   "name": "In spite of / Despite",
+   "bn": "এদের পরে **noun বা V-ing** বসে, কখনো subject + verb নয়।",
+   "formula": "In spite of / Despite + noun / V-ing , …",
+   "ex": "In spite of his poverty, ==he is happy==.",
+   "note": "‘Despite of’ বলে কিছু নেই — Despite + noun ✓, In spite of + noun ✓"
+  },
+  {
+   "no": "15",
+   "tag": "Wish",
+   "name": "wish / It is high time",
+   "bn": "**wish, It is high time, It is time** — এদের পরে subject থাকলে verb-এর **V2** রূপ বসে (be হলে were)।",
+   "formula": "wish / It is high time + sub + V2",
+   "ex": "It is high time we ==changed our bad habits==."
+  },
+  {
+   "no": "16",
+   "tag": "Unreal",
+   "name": "as if / as though",
+   "bn": "**যেন** — আগের অংশ Present হলে পরে **V2/were**, আগের অংশ Past হলে পরে **had + V3**।",
+   "formula": "Present + as if + sub + V2 / were",
+   "ex": "He talks as if ==he knew everything==."
+  },
+  {
+   "no": "17",
+   "tag": "Preference",
+   "name": "would rather / had better",
+   "bn": "**would rather** (বরং ভালো) ও **had better** (ভালো হয়) — এদের পরে সরাসরি **V1** বসে।",
+   "formula": "would rather / had better + V1",
+   "ex": "You had better ==consult a doctor==."
+  },
+  {
+   "no": "18",
+   "tag": "Relative",
+   "name": "Relative pronoun clause",
+   "bn": "**who, which, that, whose, where** দিয়ে শুরু হওয়া clause noun-কে ব্যাখ্যা করে।",
+   "formula": "Noun + who / which / that + verb + …",
+   "ex": "The man who ==helped me yesterday== is a doctor."
+  },
+  {
+   "no": "19",
+   "tag": "Time",
+   "name": "since (কারণ / সময়)",
+   "bn": "**Since** কারণ বোঝালে ‘যেহেতু’; সময় বোঝালে আগের অংশ Present → পরে **V2**।",
+   "formula": "It is + time + since + sub + V2",
+   "ex": "It is many years since ==I met him last==."
+  },
+  {
+   "no": "20",
+   "tag": "Time",
+   "name": "before / after / until / till",
+   "bn": "সময়ের ক্রম বোঝায়। **until/till** = যতক্ষণ না; এর পরে আর not বসে না।",
+   "formula": "sub + verb + until / till + sub + verb",
+   "ex": "Wait here until ==I come back==."
+  },
+  {
+   "no": "21",
+   "tag": "Pair",
+   "name": "not only … but also",
+   "bn": "জোড়া সংযোজক — দুই অংশে **একই ধরনের শব্দ/গঠন** বসাতে হয় (parallel structure)।",
+   "formula": "not only + X + but also + X",
+   "ex": "He is not only a poet ==but also a novelist==."
+  },
+  {
+   "no": "22",
+   "tag": "Pair",
+   "name": "either … or / neither … nor",
+   "bn": "**either…or** = দুইয়ের একটি; **neither…nor** = কোনোটিই নয় (এর মধ্যেই ‘না’ আছে)।",
+   "formula": "either + X + or + X | neither + X + nor + X",
+   "ex": "Neither Rahim nor Karim ==was present in the class==."
+  },
+  {
+   "no": "23",
+   "tag": "Comparison",
+   "name": "The more … the more",
+   "bn": "**যত… তত…** — দুই অংশেই comparative degree বসে।",
+   "formula": "The + comparative + … , the + comparative + …",
+   "ex": "The more you read, ==the more you learn==."
+  },
+  {
+   "no": "24",
+   "tag": "Condition",
+   "name": "provided that / in case",
+   "bn": "**এই শর্তে যে / যদি এমন হয়** — First Conditional-এর মতোই গঠন।",
+   "formula": "provided that + sub + V1/V5 , sub + will + V1",
+   "ex": "You may go out provided that ==you finish your homework==."
+  }
+ ],
+ "boardQ": {
+  "instruction": "Complete the following sentences. — নিচের বাক্যগুলো সম্পূর্ণ করো। (1×5 = 5, এখানে অনুশীলনের জন্য ১০টি)",
+  "text": "(a) He works hard so that ___ . (b) It is high time we ___ . (c) Unless you work hard, ___ . (d) No sooner had the teacher entered the class than ___ . (e) He is too weak ___ . (f) If I were a bird, ___ . (g) Though he is poor, ___ . (h) Walk fast lest ___ . (i) The more you practise, ___ . (j) He talks as if ___ .",
+  "items": [
+   {
+    "ans": "he can shine in life",
+    "why": "**so that** → পরের অংশে can/could + V1. (নিয়ম ০১)"
+   },
+   {
+    "ans": "changed our bad habits",
+    "why": "**It is high time** + subject → verb-এর **V2**. (নিয়ম ১৫)"
+   },
+   {
+    "ans": "you will not succeed in life",
+    "why": "**Unless** নিজেই negative; প্রধান অংশ negative হবে, unless-এর পরে not নয়। (নিয়ম ০৯)"
+   },
+   {
+    "ans": "the students stood up",
+    "why": "**No sooner had … than** → than-এর পরে **V2**. (নিয়ম ১১)"
+   },
+   {
+    "ans": "to walk",
+    "why": "**too … to** → to + V1; আলাদা করে not বসে না। (নিয়ম ০৪)"
+   },
+   {
+    "ans": "I would fly in the sky",
+    "why": "**If + were** (Second Conditional) → would + V1. (নিয়ম ০৭)"
+   },
+   {
+    "ans": "he is honest",
+    "why": "**Though** + clause → প্রধান অংশে বিপরীত কথা। (নিয়ম ১৩)"
+   },
+   {
+    "ans": "you should miss the train",
+    "why": "**lest** → subject + should/might + V1, কখনো not নয়। (নিয়ম ১০)"
+   },
+   {
+    "ans": "the more you learn",
+    "why": "**The more … the more** → দুই অংশেই comparative. (নিয়ম ২৩)"
+   },
+   {
+    "ans": "he knew everything",
+    "why": "**as if** + আগের অংশ Present → পরে **V2** (be হলে were)। (নিয়ম ১৬)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — সংকেত চিনে গঠন",
+   "intro": "প্রথমে সংকেত-শব্দটি বলো, তারপর গঠন — শেষে বাক্য।",
+   "items": [
+    {
+     "q": "He ran fast so that ___ .",
+     "ans": "he could catch the train",
+     "why": "so that → could + V1. (০১)"
+    },
+    {
+     "q": "It was such a hot day ___ .",
+     "ans": "that we could not go out",
+     "why": "such + a + adj + noun + that + clause. (০৩)"
+    },
+    {
+     "q": "He is strong enough ___ .",
+     "ans": "to lift the box",
+     "why": "enough + to + V1. (০৫)"
+    },
+    {
+     "q": "If he had come earlier, ___ .",
+     "ans": "he would have met the minister",
+     "why": "Third Conditional → would have + V3. (০৮)"
+    },
+    {
+     "q": "In spite of his illness, ___ .",
+     "ans": "he attended the class",
+     "why": "In spite of + noun; প্রধান অংশে বিপরীত কথা। (১৪)"
+    },
+    {
+     "q": "You had better ___ .",
+     "ans": "see a doctor",
+     "why": "had better + V1. (১৭)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — জোড়া ও সময়ের গঠন",
+   "intro": "এই সেটে জোড়া সংযোজক ও সময়ের নিয়ম মেশানো আছে।",
+   "items": [
+    {
+     "q": "Neither Rahim nor Karim ___ .",
+     "ans": "was present in the meeting",
+     "why": "neither…nor → কাছের subject অনুযায়ী verb; আর not বসে না। (২২)"
+    },
+    {
+     "q": "He is not only a teacher ___ .",
+     "ans": "but also a writer",
+     "why": "not only … but also — parallel গঠন। (২১)"
+    },
+    {
+     "q": "Wait here until ___ .",
+     "ans": "I come back",
+     "why": "until = যতক্ষণ না; এর পরে not বসে না। (২০)"
+    },
+    {
+     "q": "It is two years since ___ .",
+     "ans": "I saw him last",
+     "why": "since-এর আগের অংশ Present → পরে V2. (১৯)"
+    },
+    {
+     "q": "As soon as he saw me, ___ .",
+     "ans": "he ran away",
+     "why": "As soon as → দুই অংশই Past Indefinite. (১২)"
+    },
+    {
+     "q": "You may go provided that ___ .",
+     "ans": "you return before dark",
+     "why": "provided that → শর্তের গঠন। (২৪)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "Signal → Structure <span class='sub'>— সংকেত দেখেই গঠন (মূল ছক)</span>",
+   "key": "Signal Chart",
+   "table": {
+    "headers": [
+     "সংকেত",
+     "গঠন",
+     "উদাহরণ (বাকি অংশ)"
+    ],
+    "rows": [
+     [
+      "so that",
+      "@can / could / may / might + V1",
+      "…so that he can succeed"
+     ],
+     [
+      "so … that",
+      "@that + sub + verb",
+      "so weak that he cannot walk"
+     ],
+     [
+      "such … that",
+      "@a/an + adj + noun + that + clause",
+      "such a fine day that we went out"
+     ],
+     [
+      "too … to",
+      "@to + V1 (আর not নয়)",
+      "too weak to walk"
+     ],
+     [
+      "enough to",
+      "@to + V1",
+      "strong enough to lift it"
+     ],
+     [
+      "If + Present",
+      "@will / shall / can / may + V1",
+      "If you read, you will learn"
+     ],
+     [
+      "If + Past (V2)",
+      "@would / could / might + V1",
+      "If I were rich, I would help"
+     ],
+     [
+      "If + had + V3",
+      "@would have + V3",
+      "If he had come, I would have gone"
+     ],
+     [
+      "Unless",
+      "@প্রধান অংশ negative; unless-এ not নয়",
+      "Unless you read, you will fail"
+     ],
+     [
+      "lest",
+      "@sub + should / might + V1",
+      "lest he should fail"
+     ],
+     [
+      "No sooner had … than",
+      "@than + sub + V2",
+      "…than he ran away"
+     ],
+     [
+      "Though / Although",
+      "@sub + verb (বিপরীত কথা)",
+      "Though poor, he is honest"
+     ],
+     [
+      "In spite of / Despite",
+      "@noun / V-ing",
+      "In spite of his illness…"
+     ],
+     [
+      "wish / It is high time",
+      "@sub + V2 (be → were)",
+      "It is high time we changed"
+     ],
+     [
+      "as if / as though",
+      "@sub + V2 / were (আগে Present)",
+      "as if he knew everything"
+     ],
+     [
+      "would rather / had better",
+      "@V1",
+      "had better consult a doctor"
+     ],
+     [
+      "not only … but also",
+      "@একই ধরনের গঠন",
+      "not only a poet but also a singer"
+     ],
+     [
+      "neither … nor",
+      "@দ্বিতীয় অংশ (not নয়)",
+      "neither Rahim nor Karim was there"
+     ],
+     [
+      "The more …",
+      "@the + comparative + …",
+      "the more you read, the more you learn"
+     ],
+     [
+      "until / till",
+      "@sub + verb (not নয়)",
+      "wait until I come"
+     ]
+    ]
+   },
+   "note": "**পরীক্ষার নিয়ম:** সংকেত-শব্দে গোল দাগ দাও → ছক থেকে গঠন নাও → দেওয়া অংশের tense ও ব্যক্তি মিলিয়ে বাক্য লেখো।"
+  },
+  {
+   "title": "Where students lose marks <span class='sub'>— যেখানে নম্বর কাটা যায়</span>",
+   "key": "Traps",
+   "table": {
+    "headers": [
+     "✗ ভুল",
+     "✓ সঠিক",
+     "কারণ"
+    ],
+    "rows": [
+     [
+      "Unless you do not read, you will fail.",
+      "==Unless you read==, you will fail.",
+      "@Unless-এর মধ্যেই ‘না’ আছে"
+     ],
+     [
+      "He is too weak to cannot walk.",
+      "He is too weak ==to walk==.",
+      "@too…to নিজেই নেতিবাচক"
+     ],
+     [
+      "Lest he should not fail",
+      "==Lest he should fail==",
+      "@Lest নিজেই নেতিবাচক"
+     ],
+     [
+      "Wait until I do not come.",
+      "Wait ==until I come==.",
+      "@until = যতক্ষণ না"
+     ],
+     [
+      "Despite of his poverty",
+      "==Despite his poverty== / In spite of his poverty",
+      "@‘Despite of’ বলে কিছু নেই"
+     ],
+     [
+      "It is high time we change.",
+      "It is high time we ==changed==.",
+      "@It is high time + V2"
+     ],
+     [
+      "If I was a bird",
+      "If I ==were== a bird",
+      "@অবাস্তব কল্পনায় were"
+     ],
+     [
+      "No sooner had he came than…",
+      "No sooner had he ==come== than…",
+      "@had-এর সাথে V3"
+     ]
+    ]
+   },
+   "note": "এই ৮টি ভুল প্রতি বছর হাজারো খাতায় পাওয়া যায় — আলাদা করে মুখস্থ রাখো।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "🔍",
+   "t": "Circle the signal word first",
+   "d": "so that, too…to, unless, lest, wish, as if — সংকেত পেলেই গঠন নির্ধারিত। অর্থ পরে ভাবো।"
+  },
+  {
+   "em": "🚫",
+   "t": "Never double the negative",
+   "type": "warn",
+   "d": "**unless, lest, until, too…to, neither…nor** — এদের মধ্যেই ‘না’ আছে। আবার not বসালে অর্থ উল্টে যায়।"
+  },
+  {
+   "em": "⏳",
+   "t": "Match the tense you are given",
+   "type": "ok",
+   "d": "দেওয়া অংশ Past হলে তোমার অংশও সাধারণত Past হবে। Tense না মিললে অর্থ ঠিক থাকলেও নম্বর কাটে।"
+  },
+  {
+   "em": "👤",
+   "t": "Match the person too",
+   "d": "‘He works hard so that **he** can…’ — subject বদলে ফেলো না। দেওয়া অংশের ব্যক্তিই ধরে রাখো।"
+  },
+  {
+   "em": "✍️",
+   "t": "One clause is enough",
+   "d": "বাকি অংশে একটি অর্থপূর্ণ clause-ই যথেষ্ট। লম্বা করতে গিয়ে ব্যাকরণ ভেঙে ফেলো না।"
+  },
+  {
+   "em": "📖",
+   "t": "Read the whole sentence aloud",
+   "d": "লেখার পরে পুরো বাক্যটি একবার পড়ো — অর্থ ও গঠন দুটোই ঠিক আছে কি না বোঝা যাবে।"
+  }
+ ],
+ "recap": [
+  "সংকেত-শব্দই গঠন ঠিক করে — so that → can/could + V1, lest → should + V1।",
+  "Conditional তিনটি: If+Present→will+V1; If+V2→would+V1; If+had+V3→would have+V3।",
+  "নেতিবাচক-বহনকারী শব্দ: unless, lest, until, too…to, neither…nor — এদের সাথে not নয়।",
+  "Though + clause, In spite of + noun — গঠন না মিললে ভুল।",
+  "wish / It is high time / as if (Present) → V2; be হলে সবসময় were।"
+ ],
+ "homework": [
+  "‘Signal → Structure’ ছকের ২০টি সারি মুখস্থ করবে।",
+  "‘Where students lose marks’-এর ৮টি জোড়া খাতায় লিখবে।",
+  "বোর্ড প্রশ্নের ১০টি বাক্য না দেখে সম্পূর্ণ করবে।",
+  "নিজে ১০টি অসম্পূর্ণ বাক্য লিখে সহপাঠীকে সম্পূর্ণ করতে দেবে।"
+ ],
+ "paper": "paper2"
+}

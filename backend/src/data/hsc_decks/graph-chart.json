@@ -1,0 +1,392 @@
+{
+ "id": "graph-chart",
+ "paperName": "HSC English 2nd Paper",
+ "unit": "Part B",
+ "unitName": "Composition — Writing",
+ "title": "Graph &amp; Chart Description",
+ "titleBn": "গ্রাফ ও চার্ট বর্ণনা",
+ "lede": "ছবিকে ভাষায় বদলানোর কাজ। কী দেখাচ্ছে, সর্বোচ্চ-সর্বনিম্ন কোথায়, প্রবণতা কী — তিনটি প্রশ্নের উত্তরেই পুরো বর্ণনা।",
+ "qType": "Composition — Graph &amp; Chart Description",
+ "minutes": 45,
+ "marks": "10",
+ "rulesTitle": "গ্রাফ বর্ণনার নিয়ম",
+ "rulesPerSlide": 3,
+ "objectives": [
+  {
+   "t": "Open with what it shows",
+   "d": "প্রথম বাক্যেই গ্রাফের বিষয়"
+  },
+  {
+   "t": "Highest, lowest, then trend",
+   "d": "সর্বোচ্চ → সর্বনিম্ন → প্রবণতা"
+  },
+  {
+   "t": "Language of change",
+   "d": "rise, fall, fluctuate, remain steady"
+  },
+  {
+   "t": "Use figures accurately",
+   "d": "সংখ্যা হুবহু, অনুমান নয়"
+  },
+  {
+   "t": "A full model description",
+   "d": "অংশে অংশে বিশ্লেষণসহ"
+  },
+  {
+   "t": "Never add opinions",
+   "d": "কারণ বা মত নয়, শুধু বর্ণনা"
+  }
+ ],
+ "rules": [
+  {
+   "no": "01",
+   "tag": "Opening",
+   "name": "প্রথম বাক্যে গ্রাফের পরিচয়",
+   "bn": "প্রথম বাক্যেই বলে দাও গ্রাফটি **কী দেখাচ্ছে** — বিষয়, একক ও সময়কালসহ। প্রশ্নের শিরোনামটিই নিজের ভাষায় লিখে দাও।",
+   "formula": "The graph shows / illustrates / presents …",
+   "ex": "==The graph shows== the literacy rate of Bangladesh from 2000 to 2020."
+  },
+  {
+   "no": "02",
+   "tag": "Structure",
+   "name": "সর্বোচ্চ ও সর্বনিম্ন",
+   "bn": "দ্বিতীয় ধাপে **সবচেয়ে বেশি ও সবচেয়ে কম** কোথায় তা সংখ্যাসহ লেখো। পরীক্ষক এই দুটি তথ্য খোঁজেন।",
+   "formula": "The highest … while the lowest …",
+   "ex": "==The highest== rate, 75%, was in 2020, ==while the lowest==, 45%, was in 2000."
+  },
+  {
+   "no": "03",
+   "tag": "Structure",
+   "name": "প্রবণতা (trend) বর্ণনা",
+   "bn": "সংখ্যা কি বাড়ছে, কমছে, ওঠানামা করছে, নাকি স্থির? এটিই বর্ণনার প্রাণ।",
+   "formula": "rise · fall · fluctuate · remain steady",
+   "ex": "The rate ==rose steadily== from 2000 to 2010, then ==fluctuated==."
+  },
+  {
+   "no": "04",
+   "tag": "Language",
+   "name": "পরিবর্তনের শব্দভান্ডার",
+   "bn": "বাড়া: **rise, increase, go up, grow**; কমা: **fall, decrease, decline, drop**; ওঠানামা: **fluctuate**; স্থির: **remain steady/constant**।",
+   "formula": "rise / fall / fluctuate / remain steady",
+   "ex": "The number ==declined sharply== after 2015."
+  },
+  {
+   "no": "05",
+   "tag": "Language",
+   "name": "মাত্রাসূচক বিশেষণ",
+   "bn": "পরিবর্তনের মাত্রা বোঝাতে — **sharply, significantly, gradually, slightly, steadily, dramatically**।",
+   "formula": "sharply · gradually · slightly · steadily",
+   "ex": "It increased ==gradually== but fell ==sharply== in 2018."
+  },
+  {
+   "no": "06",
+   "tag": "Rule",
+   "name": "সংখ্যা হুবহু ব্যবহার করো",
+   "bn": "গ্রাফের সংখ্যা **অনুমান করা যাবে না**। যা দেখানো আছে হুবহু লেখো, শতকরা চিহ্নসহ।",
+   "formula": "use exact figures from the graph",
+   "ex": "✓ 75%   ✗ about seventy-something"
+  },
+  {
+   "no": "07",
+   "tag": "Rule",
+   "name": "মতামত বা কারণ নয়",
+   "bn": "গ্রাফ বর্ণনায় **কেন এমন হলো** তা লেখা যায় না, যদি না প্রশ্নে চাওয়া হয়। শুধু যা দেখা যাচ্ছে তাই লেখো।",
+   "formula": "Describe, do not explain",
+   "ex": "✗ This happened because of government policy."
+  },
+  {
+   "no": "08",
+   "tag": "Language",
+   "name": "তুলনা করার ভাষা",
+   "bn": "দুটি বিষয় থাকলে তুলনা করো — **compared to, in comparison with, whereas, while, twice as much as**।",
+   "formula": "compared to · whereas · while",
+   "ex": "Urban literacy was 80% ==whereas== rural literacy was only 60%."
+  },
+  {
+   "no": "09",
+   "tag": "Structure",
+   "name": "সমাপ্তি বাক্য",
+   "bn": "শেষে সামগ্রিক প্রবণতা এক বাক্যে বলো — **Overall / In brief / To sum up**।",
+   "formula": "Overall, … / In brief, …",
+   "ex": "==Overall==, the literacy rate showed an upward trend over the period."
+  },
+  {
+   "no": "10",
+   "tag": "Marks",
+   "name": "দৈর্ঘ্য ও নম্বর",
+   "bn": "**১২০–১৫০ শব্দ, একটি অনুচ্ছেদ**। নম্বর: **তথ্যের সঠিকতা ৪, ভাষা ৩, কাঠামো ২, বানান ১**।",
+   "formula": "120–150 words · Accuracy 4 · Language 3",
+   "ex": "ভুল সংখ্যা লিখলে তথ্যের নম্বর সরাসরি কাটা।"
+  }
+ ],
+ "boardQ": {
+  "instruction": "Describe the graph showing the literacy rate of Bangladesh (2000–2020). — গ্রাফটির বর্ণনা লেখো। (10)",
+  "text": "Graph data — 2000: 45% · 2005: 52% · 2010: 60% · 2015: 68% · 2018: 64% · 2020: 75% (urban 80%, rural 60%)",
+  "items": [
+   {
+    "ans": "The graph shows the literacy rate of Bangladesh from 2000 to 2020.",
+    "why": "**পরিচিতি বাক্য** — বিষয় ও সময়কাল। (নিয়ম ০১)"
+   },
+   {
+    "ans": "It is evident that the overall rate increased remarkably over these twenty years.",
+    "why": "সামগ্রিক প্রবণতা এক বাক্যে। (নিয়ম ০৩)"
+   },
+   {
+    "ans": "In 2000, the literacy rate was only 45%, which was the lowest of the period.",
+    "why": "**সর্বনিম্ন** সংখ্যাসহ। (নিয়ম ০২, ০৬)"
+   },
+   {
+    "ans": "It then rose gradually to 52% in 2005 and 60% in 2010.",
+    "why": "**gradually** — মাত্রাসূচক শব্দ। (নিয়ম ০৪, ০৫)"
+   },
+   {
+    "ans": "The rate continued to grow and reached 68% in 2015.",
+    "why": "ধারাবাহিক বৃদ্ধি। (নিয়ম ০৪)"
+   },
+   {
+    "ans": "However, it dropped slightly to 64% in 2018.",
+    "why": "**However** + slightly — বিপরীত প্রবণতা। (নিয়ম ০৪, ০৫)"
+   },
+   {
+    "ans": "Finally, it climbed to 75% in 2020, the highest of the period.",
+    "why": "**সর্বোচ্চ** সংখ্যাসহ। (নিয়ম ০২)"
+   },
+   {
+    "ans": "Urban literacy stood at 80% whereas rural literacy was only 60%.",
+    "why": "**whereas** দিয়ে তুলনা। (নিয়ম ০৮)"
+   },
+   {
+    "ans": "Overall, the literacy rate of Bangladesh showed a steady upward trend.",
+    "why": "**Overall** — সমাপ্তি বাক্য। (নিয়ম ০৯)"
+   },
+   {
+    "ans": "কেন কারণ লিখিনি?",
+    "why": "গ্রাফ বর্ণনায় ব্যাখ্যা নয়, কেবল যা দেখা যাচ্ছে তাই লেখা হয়। (নিয়ম ০৭)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "title": "Practice Set 1 — পরিবর্তনের শব্দ",
+   "intro": "প্রতিটি অবস্থার জন্য উপযুক্ত শব্দ বলো।",
+   "items": [
+    {
+     "q": "সংখ্যা দ্রুত বেড়েছে",
+     "ans": "rose sharply / increased dramatically",
+     "why": "মাত্রাসূচক শব্দসহ। (০৪, ০৫)"
+    },
+    {
+     "q": "ধীরে ধীরে বেড়েছে",
+     "ans": "rose gradually / increased steadily",
+     "why": "ধীর গতি। (০৫)"
+    },
+    {
+     "q": "সামান্য কমেছে",
+     "ans": "fell slightly / dropped a little",
+     "why": "সামান্য পরিবর্তন। (০৫)"
+    },
+    {
+     "q": "ওঠানামা করেছে",
+     "ans": "fluctuated",
+     "why": "অনিয়মিত পরিবর্তন। (০৪)"
+    },
+    {
+     "q": "একই রয়ে গেছে",
+     "ans": "remained steady / stayed constant",
+     "why": "পরিবর্তনহীন। (০৪)"
+    },
+    {
+     "q": "সর্বোচ্চে পৌঁছেছে",
+     "ans": "reached its peak / hit the highest point",
+     "why": "শীর্ষবিন্দু। (০২)"
+    }
+   ]
+  },
+  {
+   "title": "Practice Set 2 — বাক্য গঠন",
+   "intro": "প্রতিটি তথ্য এক বাক্যে প্রকাশ করো।",
+   "items": [
+    {
+     "q": "২০০০ সালে ৪৫%, সর্বনিম্ন",
+     "ans": "In 2000, the rate was only 45%, the lowest of the period.",
+     "why": "সংখ্যা + সর্বনিম্ন। (০২, ০৬)"
+    },
+    {
+     "q": "শহরে ৮০%, গ্রামে ৬০%",
+     "ans": "Urban literacy was 80% whereas rural literacy was 60%.",
+     "why": "whereas দিয়ে তুলনা। (০৮)"
+    },
+    {
+     "q": "গ্রাফটি কী দেখায়",
+     "ans": "The graph shows the literacy rate from 2000 to 2020.",
+     "why": "পরিচিতি বাক্য। (০১)"
+    },
+    {
+     "q": "সামগ্রিকভাবে বেড়েছে",
+     "ans": "Overall, the rate showed an upward trend.",
+     "why": "সমাপ্তি বাক্য। (০৯)"
+    },
+    {
+     "q": "২০১৮-তে সামান্য কমে ৬৪%",
+     "ans": "It dropped slightly to 64% in 2018.",
+     "why": "slightly + সংখ্যা। (০৫)"
+    },
+    {
+     "q": "২০২০-তে সর্বোচ্চ ৭৫%",
+     "ans": "It reached 75% in 2020, the highest of the period.",
+     "why": "সর্বোচ্চ + সংখ্যা। (০২)"
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "title": "Graph skeleton <span class='sub'>— যেকোনো গ্রাফে খাটে</span>",
+   "key": "Skeleton",
+   "table": {
+    "headers": [
+     "ক্রম",
+     "বাক্যসংখ্যা",
+     "কী লিখবে"
+    ],
+    "rows": [
+     [
+      "১",
+      "@১",
+      "The graph shows … (বিষয় ও সময়কাল)"
+     ],
+     [
+      "২",
+      "@১",
+      "সামগ্রিক প্রবণতা এক বাক্যে"
+     ],
+     [
+      "৩",
+      "@২",
+      "সর্বনিম্ন কোথায়, সংখ্যাসহ"
+     ],
+     [
+      "৪",
+      "@২–৩",
+      "মাঝের পরিবর্তনগুলো ক্রম অনুসারে"
+     ],
+     [
+      "৫",
+      "@২",
+      "সর্বোচ্চ কোথায়, সংখ্যাসহ"
+     ],
+     [
+      "৬",
+      "@১",
+      "তুলনা (থাকলে) — whereas / while"
+     ],
+     [
+      "৭",
+      "@১",
+      "Overall, … (সমাপ্তি)"
+     ]
+    ]
+   },
+   "note": "**১০ বাক্যেই সম্পূর্ণ বর্ণনা** — বেশি লেখার দরকার নেই, সঠিক সংখ্যা ও শব্দই আসল।"
+  },
+  {
+   "title": "Language of change <span class='sub'>— পরিবর্তন বোঝানোর শব্দ</span>",
+   "key": "Language",
+   "table": {
+    "headers": [
+     "ধরন",
+     "Verb",
+     "Adverb / Adjective"
+    ],
+    "rows": [
+     [
+      "বৃদ্ধি",
+      "@rise, increase, grow, go up, climb",
+      "sharply, gradually, steadily, dramatically"
+     ],
+     [
+      "হ্রাস",
+      "@fall, decrease, decline, drop, go down",
+      "slightly, sharply, significantly"
+     ],
+     [
+      "ওঠানামা",
+      "@fluctuate, vary",
+      "irregularly, wildly"
+     ],
+     [
+      "স্থিরতা",
+      "@remain steady, stay constant, level off",
+      "—"
+     ],
+     [
+      "শীর্ষ",
+      "@reach a peak, hit the highest point",
+      "—"
+     ],
+     [
+      "তলানি",
+      "@hit the lowest point, bottom out",
+      "—"
+     ],
+     [
+      "তুলনা",
+      "@compared to, in comparison with",
+      "whereas, while, twice as much as"
+     ]
+    ]
+   },
+   "note": "একই শব্দ বারবার না লিখে এই ছক থেকে ভিন্ন ভিন্ন শব্দ নাও — ভাষার ৩ নম্বর এখানেই।"
+  }
+ ],
+ "tips": [
+  {
+   "em": "1️⃣",
+   "t": "Start with what it shows",
+   "d": "প্রথম বাক্যেই ‘The graph shows …’ — এটি ছাড়া বর্ণনা শুরু করলে কাঠামোর নম্বর কাটে।",
+   "type": "ok"
+  },
+  {
+   "em": "🔢",
+   "t": "Copy the figures exactly",
+   "d": "সংখ্যা অনুমান কোরো না। ভুল সংখ্যা লিখলে তথ্যের ৪ নম্বরে সরাসরি আঘাত।",
+   "type": "warn"
+  },
+  {
+   "em": "🚫",
+   "t": "Describe, don’t explain",
+   "d": "কেন এমন হলো তা লিখতে যেয়ো না — প্রশ্নে চাওয়া না হলে সেটি বাড়তি ও ঝুঁকিপূর্ণ।",
+   "type": "warn"
+  },
+  {
+   "em": "🔁",
+   "t": "Vary your verbs",
+   "d": "rise, increase, grow, climb — একই শব্দ বারবার লিখলে ভাষার নম্বর কমে।"
+  },
+  {
+   "em": "⬆️",
+   "t": "Always give highest and lowest",
+   "d": "পরীক্ষক এই দুটি তথ্য বিশেষভাবে খোঁজেন — সংখ্যাসহ লিখতে ভুলো না।",
+   "type": "ok"
+  },
+  {
+   "em": "🕒",
+   "t": "Time budget: 12 minutes",
+   "d": "২ মিনিট গ্রাফ পড়া, ৮ মিনিট লেখা, ২ মিনিট সংখ্যা মিলিয়ে দেখা।"
+  }
+ ],
+ "recap": [
+  "প্রথম বাক্য: The graph shows … (বিষয় ও সময়কাল)।",
+  "সর্বোচ্চ ও সর্বনিম্ন সংখ্যাসহ লিখতেই হবে।",
+  "প্রবণতা: rise, fall, fluctuate, remain steady + sharply/gradually/slightly।",
+  "তুলনায় whereas / while; সমাপ্তিতে Overall।",
+  "সংখ্যা হুবহু; কারণ বা মতামত নয়।"
+ ],
+ "homework": [
+  "Graph skeleton-এর সাতটি ধাপ মুখস্থ করবে।",
+  "Language of change ছকটি খাতায় লিখবে।",
+  "সাক্ষরতার গ্রাফটি না দেখে বর্ণনা করবে।",
+  "পত্রিকা থেকে একটি গ্রাফ নিয়ে ১২০ শব্দে বর্ণনা লিখবে।"
+ ],
+ "paper": "paper2"
+}
