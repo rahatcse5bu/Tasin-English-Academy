@@ -1,456 +1,461 @@
 {
- "brand": {
-  "name": "Tasin English Academy",
-  "phone": "01722335722",
-  "address": "সরকারি আলেকান্দা কলেজের বিপরীতে, বরিশাল"
- },
- "papers": [
-  {
-   "id": "paper1",
-   "name": "English 1st Paper",
-   "nameBn": "প্রথম পত্র",
-   "blurb": "Seen passages — passage, বাক্যভিত্তিক বাংলা অর্থ, vocabulary, summary, MCQ, short questions, table &amp; flow chart.",
-   "units": [
-    {
-     "no": "Unit 01",
-     "name": "People or Institutions Making History",
-     "nameBn": "ইতিহাস গড়া মানুষ ও প্রতিষ্ঠান",
-     "em": "🏛️",
-     "accent": "navy",
-     "chapters": [
-      {
-       "id": "nelson-mandela",
-       "title": "Nelson Mandela — From Apartheid to Democracy",
-       "titleBn": "নেলসন ম্যান্ডেলা",
-       "tag": "Biography",
-       "level": "Hard"
-      }
-     ]
-    },
-    {
-     "no": "Unit 03",
-     "name": "Adolescence",
-     "nameBn": "কৈশোর",
-     "em": "🌱",
-     "accent": "teal",
-     "chapters": [
-      {
-       "id": "adolescence-stages",
-       "title": "Adolescence — Stages of Human Growth",
-       "titleBn": "মানব বিকাশের স্তর",
-       "tag": "Expository",
-       "level": "Medium"
-      },
-      {
-       "id": "adolescents-core-resource",
-       "title": "Adolescents Constitute a Nation's Core Resource",
-       "titleBn": "কিশোর-কিশোরীরাই জাতির মূল সম্পদ",
-       "tag": "Report",
-       "level": "Medium"
-      },
-      {
-       "id": "when-a-girl-gets-married",
-       "title": "When a Girl Gets Married",
-       "titleBn": "বাল্যবিবাহের পরিণতি",
-       "tag": "Report",
-       "level": "Medium"
-      },
-      {
-       "id": "shilpi-early-marriage",
-       "title": "Shilpi Was Only 15 — Saying No to Early Marriage",
-       "titleBn": "শিল্পীর গল্প",
-       "tag": "Case Study",
-       "level": "Medium"
-      },
-      {
-       "id": "bullying",
-       "title": "Bullying — Violence in and around School",
-       "titleBn": "বুলিং / উত্ত্যক্তকরণ",
-       "tag": "News Report",
-       "level": "Medium"
-      }
-     ]
-    },
-    {
-     "no": "Unit 05",
-     "name": "Youthful Achievers",
-     "nameBn": "তরুণ অর্জনকারী",
-     "em": "🏅",
-     "accent": "amber",
-     "chapters": [
-      {
-       "id": "kalsindur-girls",
-       "title": "The Success of Kalsindur Girls",
-       "titleBn": "কলসিন্দুরের মেয়েরা",
-       "tag": "Feature",
-       "level": "Easy"
-      },
-      {
-       "id": "nishat-mazumder",
-       "title": "Nishat Mazumder — Conquering the Peak",
-       "titleBn": "নিশাত মজুমদার",
-       "tag": "Biography",
-       "level": "Easy"
-      }
-     ]
-    },
-    {
-     "no": "Unit 06",
-     "name": "Relationships",
-     "nameBn": "সম্পর্ক",
-     "em": "🤝",
-     "accent": "rose",
-     "chapters": [
-      {
-       "id": "man-social-animal",
-       "title": "Man is by Nature a Social Animal",
-       "titleBn": "মানুষ সামাজিক জীব",
-       "tag": "Expository",
-       "level": "Medium"
-      },
-      {
-       "id": "the-orphanage",
-       "title": "A Mother in Manville — The Orphanage",
-       "titleBn": "অনাথ আশ্রম",
-       "tag": "Fiction",
-       "level": "Hard"
-      }
-     ]
-    },
-    {
-     "no": "Unit 10",
-     "name": "Dreams",
-     "nameBn": "স্বপ্ন",
-     "em": "💭",
-     "accent": "violet",
-     "chapters": [
-      {
-       "id": "dreams-psychology",
-       "title": "What is a Dream? — Theories of Dreams",
-       "titleBn": "স্বপ্নের বিজ্ঞান",
-       "tag": "Science",
-       "level": "Hard"
-      },
-      {
-       "id": "negro-not-free",
-       "title": "I Have a Dream — Part 1 (The Negro is Still Not Free)",
-       "titleBn": "আমার একটি স্বপ্ন আছে (১)",
-       "tag": "Speech",
-       "level": "Hard"
-      },
-      {
-       "id": "i-have-a-dream",
-       "title": "I Have a Dream — Part 2 (Let Freedom Ring)",
-       "titleBn": "আমার একটি স্বপ্ন আছে (২)",
-       "tag": "Speech",
-       "level": "Hard"
-      }
-     ]
-    },
-    {
-     "no": "Unit 11",
-     "name": "Nature and Environment",
-     "nameBn": "প্রকৃতি ও পরিবেশ",
-     "em": "🌿",
-     "accent": "teal",
-     "chapters": [
-      {
-       "id": "ecotourism",
-       "title": "An Introduction to Ecotourism",
-       "titleBn": "পরিবেশবান্ধব পর্যটন",
-       "tag": "Informative",
-       "level": "Medium"
-      }
-     ]
-    },
-    {
-     "no": "Unit 12",
-     "name": "Education and Life",
-     "nameBn": "শিক্ষা ও জীবন",
-     "em": "🎓",
-     "accent": "navy",
-     "chapters": [
-      {
-       "id": "education-gives",
-       "title": "Education Gives Us Knowledge",
-       "titleBn": "শিক্ষা আমাদের যা দেয়",
-       "tag": "Expository",
-       "level": "Medium"
-      },
-      {
-       "id": "education-aims",
-       "title": "Education Aims to Bring Positive Changes — Civic Engagement",
-       "titleBn": "শিক্ষা ও নাগরিক সম্পৃক্ততা",
-       "tag": "Expository",
-       "level": "Medium"
-      },
-      {
-       "id": "alex-romania",
-       "title": "Alex — A Young Hero from California",
-       "titleBn": "অ্যালেক্সের গল্প",
-       "tag": "Story",
-       "level": "Easy"
-      }
-     ]
-    },
-    {
-     "no": "Extra 01",
-     "name": "Art, Beauty & Manners",
-     "nameBn": "শিল্প, সৌন্দর্য ও শিষ্টাচার",
-     "em": "🎨",
-     "accent": "amber",
-     "chapters": [
-      {
-       "id": "beauty-is",
-       "title": "Beauty is Easy to Appreciate but Difficult to Define",
-       "titleBn": "সৌন্দর্যের সংজ্ঞা",
-       "tag": "Essay",
-       "level": "Hard"
-      },
-      {
-       "id": "polite-words-machine",
-       "title": "The Machine that Stole Polite Words",
-       "titleBn": "ভদ্র শব্দচোর যন্ত্র",
-       "tag": "Story",
-       "level": "Easy"
-      }
-     ]
-    },
-    {
-     "no": "Extra 02",
-     "name": "Travel & Colonial Literature",
-     "nameBn": "ভ্রমণ ও ঔপনিবেশিক সাহিত্য",
-     "em": "⛵",
-     "accent": "violet",
-     "chapters": [
-      {
-       "id": "elizabeth-voyage",
-       "title": "Elizabeth's Voyage to India",
-       "titleBn": "এলিজাবেথের ভারত যাত্রা",
-       "tag": "Fiction",
-       "level": "Hard"
-      },
-      {
-       "id": "khorshed-village",
-       "title": "Khorshed Set Me Up a Camp",
-       "titleBn": "গ্রামে বিদেশিনী",
-       "tag": "Travelogue",
-       "level": "Hard"
-      }
-     ]
-    }
-   ]
+  "brand": {
+    "name": "Tasin English Academy",
+    "phone": "01722335722",
+    "address": "সরকারি আলেকান্দা কলেজের বিপরীতে, বরিশাল"
   },
-  {
-   "id": "paper2",
-   "name": "English 2nd Paper",
-   "nameBn": "দ্বিতীয় পত্র",
-   "blurb": "Grammar &amp; composition — নিয়ম বাংলায়, উদাহরণ ইংরেজিতে; প্রতিটি নিয়মের পরে live practice, বোর্ড প্রশ্নের সমাধান ও magic tricks.",
-   "units": [
+  "papers": [
     {
-     "no": "Part A",
-     "name": "Grammar — Verb &amp; Tense",
-     "nameBn": "ব্যাকরণ — ক্রিয়া ও কাল",
-     "em": "⏳",
-     "accent": "navy",
-     "chapters": [
-      {
-       "id": "right-form-verbs",
-       "title": "Right Form of Verbs — Complete Master Rules",
-       "titleBn": "ক্রিয়ার সঠিক রূপ (V1–V5)",
-       "tag": "46 rules",
-       "level": "Hard"
-      }
-     ]
+      "id": "paper1",
+      "name": "English 1st Paper",
+      "nameBn": "প্রথম পত্র",
+      "blurb": "Seen passages — passage, বাক্যভিত্তিক বাংলা অর্থ, vocabulary, summary, MCQ, short questions, table &amp; flow chart.",
+      "units": [
+        {
+          "no": "Unit 01",
+          "name": "People or Institutions Making History",
+          "nameBn": "ইতিহাস গড়া মানুষ ও প্রতিষ্ঠান",
+          "em": "🏛️",
+          "accent": "navy",
+          "chapters": [
+            {
+              "id": "nelson-mandela",
+              "title": "Nelson Mandela — From Apartheid to Democracy",
+              "titleBn": "নেলসন ম্যান্ডেলা",
+              "tag": "Biography",
+              "level": "Hard"
+            }
+          ]
+        },
+        {
+          "no": "Unit 06",
+          "name": "Relationships",
+          "nameBn": "সম্পর্ক",
+          "em": "🤝",
+          "accent": "rose",
+          "chapters": [
+            {
+              "id": "man-social-animal",
+              "title": "Man is by Nature a Social Animal",
+              "titleBn": "মানুষ সামাজিক জীব",
+              "tag": "Expository",
+              "level": "Medium"
+            },
+            {
+              "id": "the-orphanage",
+              "title": "A Mother in Manville — The Orphanage",
+              "titleBn": "অনাথ আশ্রম",
+              "tag": "Fiction",
+              "level": "Hard"
+            }
+          ]
+        },
+        {
+          "no": "Unit 07",
+          "name": "Youthful Achievers",
+          "nameBn": "তরুণ অর্জনকারী",
+          "em": "🏅",
+          "accent": "amber",
+          "chapters": [
+            {
+              "id": "kalsindur-girls",
+              "title": "The Success of Kalsindur Girls",
+              "titleBn": "কলসিন্দুরের মেয়েরা",
+              "tag": "Feature",
+              "level": "Easy"
+            },
+            {
+              "id": "nishat-mazumder",
+              "title": "Nishat Mazumder — Conquering the Peak",
+              "titleBn": "নিশাত মজুমদার",
+              "tag": "Biography",
+              "level": "Easy"
+            }
+          ]
+        },
+        {
+          "no": "Unit 09",
+          "name": "Adolescence",
+          "nameBn": "কৈশোর",
+          "em": "🌱",
+          "accent": "teal",
+          "chapters": [
+            {
+              "id": "adolescence-stages",
+              "title": "Adolescence — Stages of Human Growth",
+              "titleBn": "মানব বিকাশের স্তর",
+              "tag": "Expository",
+              "level": "Medium",
+              "lesson": 1
+            },
+            {
+              "id": "adolescents-core-resource",
+              "title": "Adolescents Constitute a Nation's Core Resource",
+              "titleBn": "কিশোর-কিশোরীরাই জাতির মূল সম্পদ",
+              "tag": "Report",
+              "level": "Medium",
+              "lesson": 2
+            },
+            {
+              "id": "when-a-girl-gets-married",
+              "title": "When a Girl Gets Married",
+              "titleBn": "বাল্যবিবাহের পরিণতি",
+              "tag": "Report",
+              "level": "Medium",
+              "lesson": 2
+            },
+            {
+              "id": "shilpi-early-marriage",
+              "title": "Shilpi Was Only 15 — Saying No to Early Marriage",
+              "titleBn": "শিল্পীর গল্প",
+              "tag": "Case Study",
+              "level": "Medium",
+              "lesson": 3
+            },
+            {
+              "id": "bullying",
+              "title": "Bullying — Violence in and around School",
+              "titleBn": "বুলিং / উত্ত্যক্তকরণ",
+              "tag": "News Report",
+              "level": "Medium",
+              "lesson": 4
+            }
+          ]
+        },
+        {
+          "no": "Unit 10",
+          "name": "Dreams",
+          "nameBn": "স্বপ্ন",
+          "em": "💭",
+          "accent": "violet",
+          "chapters": [
+            {
+              "id": "dreams-psychology",
+              "title": "What is a Dream? — Theories of Dreams",
+              "titleBn": "স্বপ্নের বিজ্ঞান",
+              "tag": "Science",
+              "level": "Hard"
+            },
+            {
+              "id": "negro-not-free",
+              "title": "I Have a Dream — Part 1 (The Negro is Still Not Free)",
+              "titleBn": "আমার একটি স্বপ্ন আছে (১)",
+              "tag": "Speech",
+              "level": "Hard"
+            },
+            {
+              "id": "i-have-a-dream",
+              "title": "I Have a Dream — Part 2 (Let Freedom Ring)",
+              "titleBn": "আমার একটি স্বপ্ন আছে (২)",
+              "tag": "Speech",
+              "level": "Hard"
+            }
+          ]
+        },
+        {
+          "no": "Unit 11",
+          "name": "Nature and Environment",
+          "nameBn": "প্রকৃতি ও পরিবেশ",
+          "em": "🌿",
+          "accent": "teal",
+          "chapters": [
+            {
+              "id": "ecotourism",
+              "title": "An Introduction to Ecotourism",
+              "titleBn": "পরিবেশবান্ধব পর্যটন",
+              "tag": "Informative",
+              "level": "Medium"
+            }
+          ]
+        },
+        {
+          "no": "Unit 12",
+          "name": "Education and Life",
+          "nameBn": "শিক্ষা ও জীবন",
+          "em": "🎓",
+          "accent": "navy",
+          "chapters": [
+            {
+              "id": "education-gives",
+              "title": "Education Gives Us Knowledge",
+              "titleBn": "শিক্ষা আমাদের যা দেয়",
+              "tag": "Expository",
+              "level": "Medium"
+            },
+            {
+              "id": "education-aims",
+              "title": "Education Aims to Bring Positive Changes — Civic Engagement",
+              "titleBn": "শিক্ষা ও নাগরিক সম্পৃক্ততা",
+              "tag": "Expository",
+              "level": "Medium"
+            },
+            {
+              "id": "alex-romania",
+              "title": "Alex — A Young Hero from California",
+              "titleBn": "অ্যালেক্সের গল্প",
+              "tag": "Story",
+              "level": "Easy"
+            }
+          ]
+        },
+        {
+          "no": "Extra 01",
+          "name": "Art, Beauty & Manners",
+          "nameBn": "শিল্প, সৌন্দর্য ও শিষ্টাচার",
+          "em": "🎨",
+          "accent": "amber",
+          "chapters": [
+            {
+              "id": "beauty-is",
+              "title": "Beauty is Easy to Appreciate but Difficult to Define",
+              "titleBn": "সৌন্দর্যের সংজ্ঞা",
+              "tag": "Essay",
+              "level": "Hard"
+            },
+            {
+              "id": "polite-words-machine",
+              "title": "The Machine that Stole Polite Words",
+              "titleBn": "ভদ্র শব্দচোর যন্ত্র",
+              "tag": "Story",
+              "level": "Easy"
+            }
+          ]
+        },
+        {
+          "no": "Extra 02",
+          "name": "Travel & Colonial Literature",
+          "nameBn": "ভ্রমণ ও ঔপনিবেশিক সাহিত্য",
+          "em": "⛵",
+          "accent": "violet",
+          "chapters": [
+            {
+              "id": "elizabeth-voyage",
+              "title": "Elizabeth's Voyage to India",
+              "titleBn": "এলিজাবেথের ভারত যাত্রা",
+              "tag": "Fiction",
+              "level": "Hard"
+            },
+            {
+              "id": "khorshed-village",
+              "title": "Khorshed Set Me Up a Camp",
+              "titleBn": "গ্রামে বিদেশিনী",
+              "tag": "Travelogue",
+              "level": "Hard"
+            }
+          ]
+        }
+      ]
     },
     {
-     "no": "Part A",
-     "name": "Grammar — Sentence Structure",
-     "nameBn": "ব্যাকরণ — বাক্যগঠন",
-     "em": "🔗",
-     "accent": "teal",
-     "chapters": [
-      {
-       "id": "connectors",
-       "title": "Sentence Connectors — Complete Master Handnote",
-       "titleBn": "বাক্য সংযোজক",
-       "tag": "21 rules + 10 tricks",
-       "level": "Medium"
-      },
-      {
-       "id": "completing-sentences",
-       "title": "Completing Sentences",
-       "titleBn": "বাক্য সম্পূর্ণ করা",
-       "tag": "24 structures",
-       "level": "Medium"
-      },
-      {
-       "id": "substitution-table",
-       "title": "Substitution Table — Making Sentences",
-       "titleBn": "সাবস্টিটিউশন টেবিল",
-       "tag": "Easiest 5 marks",
-       "level": "Easy"
-      }
-     ]
-    },
-    {
-     "no": "Part A",
-     "name": "Grammar — Transformation",
-     "nameBn": "ব্যাকরণ — বাক্য রূপান্তর",
-     "em": "🔄",
-     "accent": "rose",
-     "chapters": [
-      {
-       "id": "affirmative-negative",
-       "title": "Transformation: Affirmative ↔ Negative",
-       "titleBn": "হ্যাঁ-বাচক ↔ না-বাচক",
-       "tag": "25 rules",
-       "level": "Hard"
-      },
-      {
-       "id": "transformation-sentences",
-       "title": "Transformation — Simple, Complex, Compound &amp; Degree",
-       "titleBn": "সরল, জটিল, যৌগিক ও ডিগ্রি",
-       "tag": "14 rules",
-       "level": "Hard"
-      },
-      {
-       "id": "voice-change",
-       "title": "Voice Change — Active ↔ Passive",
-       "titleBn": "বাচ্য পরিবর্তন",
-       "tag": "16 rules",
-       "level": "Medium"
-      },
-      {
-       "id": "narrative-style",
-       "title": "Narrative Style — Direct ↔ Indirect Speech",
-       "titleBn": "উক্তি পরিবর্তন",
-       "tag": "16 rules",
-       "level": "Hard"
-      }
-     ]
-    },
-    {
-     "no": "Part A",
-     "name": "Grammar — Modifiers &amp; Gap Filling",
-     "nameBn": "ব্যাকরণ — মডিফায়ার ও শূন্যস্থান",
-     "em": "🧩",
-     "accent": "amber",
-     "chapters": [
-      {
-       "id": "modifiers",
-       "title": "Use of Modifiers — Pre &amp; Post",
-       "titleBn": "মডিফায়ার",
-       "tag": "18 rules",
-       "level": "Medium"
-      },
-      {
-       "id": "preposition-gap-filling",
-       "title": "Gap Filling with Clues — Prepositions",
-       "titleBn": "শূন্যস্থান (সংকেতসহ)",
-       "tag": "15 rules",
-       "level": "Medium"
-      },
-      {
-       "id": "article-gap-filling",
-       "title": "Gap Filling without Clues — Articles",
-       "titleBn": "শূন্যস্থান (সংকেত ছাড়া)",
-       "tag": "18 rules",
-       "level": "Medium"
-      }
-     ]
-    },
-    {
-     "no": "Part A",
-     "name": "Grammar — Punctuation &amp; Vocabulary",
-     "nameBn": "ব্যাকরণ — যতিচিহ্ন ও শব্দভান্ডার",
-     "em": "✒️",
-     "accent": "violet",
-     "chapters": [
-      {
-       "id": "punctuation",
-       "title": "Punctuation &amp; Capitalisation",
-       "titleBn": "যতিচিহ্ন ও বড় হাতের অক্ষর",
-       "tag": "15 rules",
-       "level": "Easy"
-      },
-      {
-       "id": "synonym-antonym-2nd",
-       "title": "Synonyms &amp; Antonyms",
-       "titleBn": "সমার্থক ও বিপরীত শব্দ",
-       "tag": "80 pairs",
-       "level": "Easy"
-      }
-     ]
-    },
-    {
-     "no": "Part B",
-     "name": "Composition — Short Writing",
-     "nameBn": "রচনামূলক — সংক্ষিপ্ত লেখা",
-     "em": "✍️",
-     "accent": "teal",
-     "chapters": [
-      {
-       "id": "paragraph-writing",
-       "title": "Paragraph Writing",
-       "titleBn": "অনুচ্ছেদ লেখা",
-       "tag": "10 marks",
-       "level": "Easy"
-      },
-      {
-       "id": "completing-story",
-       "title": "Completing a Story",
-       "titleBn": "গল্প সম্পূর্ণ করা",
-       "tag": "10 marks",
-       "level": "Medium"
-      },
-      {
-       "id": "dialogue-writing",
-       "title": "Dialogue Writing",
-       "titleBn": "সংলাপ লেখা",
-       "tag": "10 marks",
-       "level": "Easy"
-      }
-     ]
-    },
-    {
-     "no": "Part B",
-     "name": "Composition — Formal Writing",
-     "nameBn": "রচনামূলক — আনুষ্ঠানিক লেখা",
-     "em": "📄",
-     "accent": "navy",
-     "chapters": [
-      {
-       "id": "application-email",
-       "title": "Application, Formal Letter &amp; E-mail",
-       "titleBn": "আবেদনপত্র ও ই-মেইল",
-       "tag": "10 marks",
-       "level": "Easy"
-      },
-      {
-       "id": "report-writing",
-       "title": "Report Writing",
-       "titleBn": "প্রতিবেদন লেখা",
-       "tag": "10 marks",
-       "level": "Medium"
-      },
-      {
-       "id": "graph-chart",
-       "title": "Graph &amp; Chart Description",
-       "titleBn": "গ্রাফ ও চার্ট বর্ণনা",
-       "tag": "10 marks",
-       "level": "Medium"
-      },
-      {
-       "id": "composition-essay",
-       "title": "Composition / Essay Writing",
-       "titleBn": "রচনা লেখা",
-       "tag": "10 marks",
-       "level": "Medium"
-      }
-     ]
+      "id": "paper2",
+      "name": "English 2nd Paper",
+      "nameBn": "দ্বিতীয় পত্র",
+      "blurb": "Grammar &amp; composition — নিয়ম বাংলায়, উদাহরণ ইংরেজিতে; প্রতিটি নিয়মের পরে live practice, বোর্ড প্রশ্নের সমাধান ও magic tricks.",
+      "units": [
+        {
+          "no": "Part A",
+          "name": "Grammar — Verb &amp; Tense",
+          "nameBn": "ব্যাকরণ — ক্রিয়া ও কাল",
+          "em": "⏳",
+          "accent": "navy",
+          "chapters": [
+            {
+              "id": "right-form-verbs",
+              "title": "Right Form of Verbs — Complete Master Rules",
+              "titleBn": "ক্রিয়ার সঠিক রূপ (V1–V5)",
+              "tag": "46 rules",
+              "level": "Hard"
+            }
+          ]
+        },
+        {
+          "no": "Part A",
+          "name": "Grammar — Sentence Structure",
+          "nameBn": "ব্যাকরণ — বাক্যগঠন",
+          "em": "🔗",
+          "accent": "teal",
+          "chapters": [
+            {
+              "id": "connectors",
+              "title": "Sentence Connectors — Complete Master Handnote",
+              "titleBn": "বাক্য সংযোজক",
+              "tag": "21 rules + 10 tricks",
+              "level": "Medium"
+            },
+            {
+              "id": "completing-sentences",
+              "title": "Completing Sentences",
+              "titleBn": "বাক্য সম্পূর্ণ করা",
+              "tag": "24 structures",
+              "level": "Medium"
+            },
+            {
+              "id": "substitution-table",
+              "title": "Substitution Table — Making Sentences",
+              "titleBn": "সাবস্টিটিউশন টেবিল",
+              "tag": "Easiest 5 marks",
+              "level": "Easy"
+            }
+          ]
+        },
+        {
+          "no": "Part A",
+          "name": "Grammar — Transformation",
+          "nameBn": "ব্যাকরণ — বাক্য রূপান্তর",
+          "em": "🔄",
+          "accent": "rose",
+          "chapters": [
+            {
+              "id": "affirmative-negative",
+              "title": "Transformation: Affirmative ↔ Negative",
+              "titleBn": "হ্যাঁ-বাচক ↔ না-বাচক",
+              "tag": "25 rules",
+              "level": "Hard"
+            },
+            {
+              "id": "transformation-sentences",
+              "title": "Transformation — Simple, Complex, Compound &amp; Degree",
+              "titleBn": "সরল, জটিল, যৌগিক ও ডিগ্রি",
+              "tag": "14 rules",
+              "level": "Hard"
+            },
+            {
+              "id": "voice-change",
+              "title": "Voice Change — Active ↔ Passive",
+              "titleBn": "বাচ্য পরিবর্তন",
+              "tag": "16 rules",
+              "level": "Medium"
+            },
+            {
+              "id": "narrative-style",
+              "title": "Narrative Style — Direct ↔ Indirect Speech",
+              "titleBn": "উক্তি পরিবর্তন",
+              "tag": "16 rules",
+              "level": "Hard"
+            }
+          ]
+        },
+        {
+          "no": "Part A",
+          "name": "Grammar — Modifiers &amp; Gap Filling",
+          "nameBn": "ব্যাকরণ — মডিফায়ার ও শূন্যস্থান",
+          "em": "🧩",
+          "accent": "amber",
+          "chapters": [
+            {
+              "id": "modifiers",
+              "title": "Use of Modifiers — Pre &amp; Post",
+              "titleBn": "মডিফায়ার",
+              "tag": "18 rules",
+              "level": "Medium"
+            },
+            {
+              "id": "preposition-gap-filling",
+              "title": "Gap Filling with Clues — Prepositions",
+              "titleBn": "শূন্যস্থান (সংকেতসহ)",
+              "tag": "15 rules",
+              "level": "Medium"
+            },
+            {
+              "id": "article-gap-filling",
+              "title": "Gap Filling without Clues — Articles",
+              "titleBn": "শূন্যস্থান (সংকেত ছাড়া)",
+              "tag": "18 rules",
+              "level": "Medium"
+            }
+          ]
+        },
+        {
+          "no": "Part A",
+          "name": "Grammar — Punctuation &amp; Vocabulary",
+          "nameBn": "ব্যাকরণ — যতিচিহ্ন ও শব্দভান্ডার",
+          "em": "✒️",
+          "accent": "violet",
+          "chapters": [
+            {
+              "id": "punctuation",
+              "title": "Punctuation &amp; Capitalisation",
+              "titleBn": "যতিচিহ্ন ও বড় হাতের অক্ষর",
+              "tag": "15 rules",
+              "level": "Easy"
+            },
+            {
+              "id": "synonym-antonym-2nd",
+              "title": "Synonyms &amp; Antonyms",
+              "titleBn": "সমার্থক ও বিপরীত শব্দ",
+              "tag": "80 pairs",
+              "level": "Easy"
+            }
+          ]
+        },
+        {
+          "no": "Part B",
+          "name": "Composition — Short Writing",
+          "nameBn": "রচনামূলক — সংক্ষিপ্ত লেখা",
+          "em": "✍️",
+          "accent": "teal",
+          "chapters": [
+            {
+              "id": "paragraph-writing",
+              "title": "Paragraph Writing",
+              "titleBn": "অনুচ্ছেদ লেখা",
+              "tag": "10 marks",
+              "level": "Easy"
+            },
+            {
+              "id": "completing-story",
+              "title": "Completing a Story",
+              "titleBn": "গল্প সম্পূর্ণ করা",
+              "tag": "10 marks",
+              "level": "Medium"
+            },
+            {
+              "id": "dialogue-writing",
+              "title": "Dialogue Writing",
+              "titleBn": "সংলাপ লেখা",
+              "tag": "10 marks",
+              "level": "Easy"
+            }
+          ]
+        },
+        {
+          "no": "Part B",
+          "name": "Composition — Formal Writing",
+          "nameBn": "রচনামূলক — আনুষ্ঠানিক লেখা",
+          "em": "📄",
+          "accent": "navy",
+          "chapters": [
+            {
+              "id": "application-email",
+              "title": "Application, Formal Letter &amp; E-mail",
+              "titleBn": "আবেদনপত্র ও ই-মেইল",
+              "tag": "10 marks",
+              "level": "Easy"
+            },
+            {
+              "id": "report-writing",
+              "title": "Report Writing",
+              "titleBn": "প্রতিবেদন লেখা",
+              "tag": "10 marks",
+              "level": "Medium"
+            },
+            {
+              "id": "graph-chart",
+              "title": "Graph &amp; Chart Description",
+              "titleBn": "গ্রাফ ও চার্ট বর্ণনা",
+              "tag": "10 marks",
+              "level": "Medium"
+            },
+            {
+              "id": "composition-essay",
+              "title": "Composition / Essay Writing",
+              "titleBn": "রচনা লেখা",
+              "tag": "10 marks",
+              "level": "Medium"
+            }
+          ]
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

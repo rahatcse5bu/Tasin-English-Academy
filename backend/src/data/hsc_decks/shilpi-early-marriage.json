@@ -1,787 +1,788 @@
 {
- "id": "shilpi-early-marriage",
- "unit": "Unit 03",
- "unitName": "Adolescence",
- "title": "Shilpi Was Only 15 — Saying No to Early Marriage",
- "titleBn": "শিল্পীর গল্প — বাল্যবিবাহকে ‘না’ বলা",
- "lede": "১৫ বছরে বিয়ে, তারপর একটি ক্ষমতায়ন দল, একজন কাউন্সেলর ও একজন স্বামীর সাহস — একটি গ্রাম কীভাবে বদলে গেল তার সত্য কাহিনি।",
- "qType": "Seen Passage — Q.1(a+b), 2, 3",
- "minutes": 45,
- "marks": "35",
- "objectives": [
-  {
-   "t": "Follow Shilpi's journey step by step",
-   "d": "বিয়ে → দলে যোগদান → শেখা → স্বামীকে রাজি করানো → সমাজ বদলানো"
-  },
-  {
-   "t": "Sentence-wise Bangla meaning",
-   "d": "২০টি বাক্যের বাংলা অর্থ"
-  },
-  {
-   "t": "Vocabulary + Synonym / Antonym",
-   "d": "empowerment, counselling, haemorrhage, rift…"
-  },
-  {
-   "t": "Health statistics of maternal mortality",
-   "d": "৩২২ → ১৯৪ → ১৪৩ — সংখ্যাগুলোর মানে"
-  },
-  {
-   "t": "10 MCQ + 5 Short Questions",
-   "d": "ব্যাখ্যাসহ"
-  },
-  {
-   "t": "Summary, Table &amp; Flow Chart",
-   "d": "সম্পূর্ণ সমাধান"
-  }
- ],
- "passage": [
-  {
-   "tag": "Paragraph 1 — Marriage and the empowerment group",
-   "s": [
+  "id": "shilpi-early-marriage",
+  "unit": "Unit 09",
+  "unitName": "Adolescence",
+  "title": "Shilpi Was Only 15 — Saying No to Early Marriage",
+  "titleBn": "শিল্পীর গল্প — বাল্যবিবাহকে ‘না’ বলা",
+  "lede": "১৫ বছরে বিয়ে, তারপর একটি ক্ষমতায়ন দল, একজন কাউন্সেলর ও একজন স্বামীর সাহস — একটি গ্রাম কীভাবে বদলে গেল তার সত্য কাহিনি।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
     {
-     "en": "Shilpi was only ==15 years old== when she married Rashid in ==2008==.",
-     "bn": "==২০০৮ সালে== যখন শিল্পী রশিদকে বিয়ে করেন, তখন তাঁর বয়স ছিল মাত্র ==১৫ বছর==।"
+      "t": "Follow Shilpi's journey step by step",
+      "d": "বিয়ে → দলে যোগদান → শেখা → স্বামীকে রাজি করানো → সমাজ বদলানো"
     },
     {
-     "en": "Marrying off daughters at an early age is ==standard practice== for many families living in rural Bangladesh.",
-     "bn": "গ্রামীণ বাংলাদেশে বসবাসকারী বহু পরিবারের কাছে অল্প বয়সে মেয়েদের বিয়ে দেওয়া একটি ==সাধারণ রীতি==।"
+      "t": "Sentence-wise Bangla meaning",
+      "d": "২০টি বাক্যের বাংলা অর্থ"
     },
     {
-     "en": "After her wedding, Shilpi joined a local ==empowerment group== that provides adolescent girls with the tools needed to gradually change ==cultural practices==, particularly those ==pertaining to== early marriage and pregnancy.",
-     "bn": "বিয়ের পর শিল্পী একটি স্থানীয় ==ক্ষমতায়ন দলে== যোগ দেন, যা কিশোরীদের সেই সব উপকরণ জোগায় যা দিয়ে ধীরে ধীরে ==সাংস্কৃতিক রীতি==, বিশেষত বাল্যবিবাহ ও গর্ভধারণ ==সম্পর্কিত== রীতিগুলো বদলানো যায়।"
+      "t": "Vocabulary + Synonym / Antonym",
+      "d": "empowerment, counselling, haemorrhage, rift…"
     },
     {
-     "en": "The group's activities include discussions on how to most ==effectively== change behaviour related to ==reproductive health== as well as ==one-on-one counselling==.",
-     "bn": "দলটির কার্যক্রমের মধ্যে রয়েছে ==প্রজনন স্বাস্থ্য== সম্পর্কিত আচরণ কীভাবে সবচেয়ে ==কার্যকরভাবে== বদলানো যায় সে বিষয়ে আলোচনা এবং ==একের সঙ্গে একের পরামর্শসভা==।"
+      "t": "Health statistics of maternal mortality",
+      "d": "৩২২ → ১৯৪ → ১৪৩ — সংখ্যাগুলোর মানে"
     },
     {
-     "en": "It also offers ==peer-to-peer support== and ==life skills training== that help adolescents ==say no to early marriage==.",
-     "bn": "এটি ==সমবয়সীদের পারস্পরিক সহায়তা== এবং ==জীবনদক্ষতা প্রশিক্ষণও== দেয়, যা কিশোরীদের ==বাল্যবিবাহকে ‘না’ বলতে== সাহায্য করে।"
+      "t": "10 MCQ + 5 Short Questions",
+      "d": "ব্যাখ্যাসহ"
     },
     {
-     "en": "The empowerment group is one of more than ==10,000 groups== supported by some local ==Non-Government Organizations (NGOs)== working all over Bangladesh.",
-     "bn": "এই ক্ষমতায়ন দলটি সারা বাংলাদেশে কর্মরত কিছু স্থানীয় ==বেসরকারি সংস্থার (NGO)== সহায়তাপুষ্ট ==১০,০০০-এরও বেশি দলের== একটি।"
-    },
-    {
-     "en": "These NGOs work through ==Canada's Adolescent Reproductive Health Project== which also aims to increase access to ==quality health services== for adolescents.",
-     "bn": "এই এনজিওগুলো কাজ করে ==কানাডার ‘অ্যাডোলেসেন্ট রিপ্রোডাক্টিভ হেলথ প্রজেক্ট’-এর== মাধ্যমে, যার লক্ষ্য কিশোর-কিশোরীদের জন্য ==মানসম্পন্ন স্বাস্থ্যসেবার== সুযোগ বাড়ানো।"
+      "t": "Summary, Table &amp; Flow Chart",
+      "d": "সম্পূর্ণ সমাধান"
     }
-   ]
-  },
-  {
-   "tag": "Paragraph 2 — What Shilpi learnt about the risks",
-   "s": [
-    {
-     "en": "During one of the group sessions, Shilpi came to understand the ==potentially harmful effects== of early marriage and pregnancy.",
-     "bn": "দলের একটি সভায় শিল্পী বাল্যবিবাহ ও অল্প বয়সে গর্ভধারণের ==সম্ভাব্য ক্ষতিকর প্রভাব== সম্পর্কে বুঝতে পারেন।"
-    },
-    {
-     "en": "While ==maternal mortality== in Bangladesh has ==declined by nearly 40 percent since 2001==, the rate remains high with ==194 maternal deaths per 100,000 live births in 2010== — dropping from ==322 in 2001== with a projected decrease to ==143 by 2015==.",
-     "bn": "যদিও বাংলাদেশে ==মাতৃমৃত্যু ২০০১ সাল থেকে প্রায় ৪০ শতাংশ কমেছে==, হারটি এখনো বেশি — ==২০১০ সালে প্রতি ১,০০,০০০ জীবিত জন্মে ১৯৪ জন মাতৃমৃত্যু==, যা ==২০০১ সালের ৩২২ থেকে== নেমে এসেছে এবং ==২০১৫ সালের মধ্যে ১৪৩-এ== নামার পূর্বাভাস ছিল।"
-    },
-    {
-     "en": "Girls who get pregnant are ==at risk of serious health complications==.",
-     "bn": "যেসব মেয়ে গর্ভবতী হয়, তারা ==গুরুতর স্বাস্থ্য জটিলতার ঝুঁকিতে== থাকে।"
-    },
-    {
-     "en": "These include dangerous ==haemorrhage== and ==fistula==, a painful internal injury caused by ==obstructed childbirth== that commonly leads to serious ==maternal morbidities==.",
-     "bn": "এর মধ্যে রয়েছে ভয়ংকর ==রক্তক্ষরণ== এবং ==ফিস্টুলা== — ==বাধাগ্রস্ত প্রসবের== কারণে সৃষ্ট একটি যন্ত্রণাদায়ক অভ্যন্তরীণ ক্ষত, যা সাধারণত গুরুতর ==মাতৃব্যাধির== দিকে নিয়ে যায়।"
-    }
-   ]
-  },
-  {
-   "tag": "Paragraph 3 — Rashid takes a brave decision",
-   "s": [
-    {
-     "en": "When Shilpi heard about those risks, she invited her husband, Rashid, to discuss pregnancy with a ==counsellor==.",
-     "bn": "সেই ঝুঁকির কথা শুনে শিল্পী তাঁর স্বামী রশিদকে একজন ==পরামর্শদাতার== সঙ্গে গর্ভধারণ নিয়ে আলোচনা করতে আমন্ত্রণ জানান।"
-    },
-    {
-     "en": "After hearing about the risks, Rashid agreed to ==delay having children for five years== despite ==pressures from his parents and neighbours== to produce an ==offspring==.",
-     "bn": "ঝুঁকির কথা শোনার পর রশিদ ==পাঁচ বছর সন্তান নেওয়া পিছিয়ে দিতে== রাজি হন, যদিও ==বাবা-মা ও প্রতিবেশীদের চাপ== ছিল একটি ==সন্তান== নেওয়ার জন্য।"
-    },
-    {
-     "en": "Together, the couple met with a ==female health care provider==, who informed them about the various ==family planning options== available.",
-     "bn": "দম্পতি একসঙ্গে একজন ==নারী স্বাস্থ্যকর্মীর== সঙ্গে দেখা করেন, যিনি তাঁদের বিদ্যমান নানা ==পরিবার পরিকল্পনা পদ্ধতি== সম্পর্কে জানান।"
-    }
-   ]
-  },
-  {
-   "tag": "Paragraph 4 — Changing the whole village",
-   "s": [
-    {
-     "en": "Shilpi's mother-in-law and neighbours continued to ==pressurize== the ==newlyweds==.",
-     "bn": "শিল্পীর শাশুড়ি ও প্রতিবেশীরা ==নবদম্পতির== ওপর ==চাপ দিয়ে== যেতে থাকেন।"
-    },
-    {
-     "en": "==Deeply rooted cultural practices== and traditions caused a ==rift== between Shilpi and Rashid and their ==extended family==, some of whose members ==insulted and criticized== the couple.",
-     "bn": "==গভীরে প্রোথিত সাংস্কৃতিক রীতি== ও ঐতিহ্য শিল্পী-রশিদ এবং তাঁদের ==বর্ধিত পরিবারের== মধ্যে ==ফাটল== সৃষ্টি করে; পরিবারের কেউ কেউ দম্পতিকে ==অপমান ও সমালোচনা== করেন।"
-    },
-    {
-     "en": "Unable to ==convince== their close relatives of the risks, Shilpi and Rashid returned to the counsellor.",
-     "bn": "নিকটাত্মীয়দের ঝুঁকির কথা ==বোঝাতে ব্যর্থ হয়ে== শিল্পী ও রশিদ আবার পরামর্শদাতার কাছে ফিরে যান।"
-    },
-    {
-     "en": "They took the help of a ==parent peer== who has been trained to speak to other parents about ==adolescent issues==.",
-     "bn": "তাঁরা একজন ==অভিভাবক-সহযোগীর== সাহায্য নেন, যিনি অন্য অভিভাবকদের সঙ্গে ==কিশোর-কিশোরী বিষয়ে== কথা বলার প্রশিক্ষণপ্রাপ্ত।"
-    },
-    {
-     "en": "Shilpi's mother-in-law and neighbours ==eventually== came to understand the harmful effects of early pregnancy on mother and child.",
-     "bn": "শিল্পীর শাশুড়ি ও প্রতিবেশীরা ==অবশেষে== মা ও শিশুর ওপর অল্প বয়সে গর্ভধারণের ক্ষতিকর প্রভাব বুঝতে পারেন।"
-    },
-    {
-     "en": "Today, the village ==no longer pressurizes== the couple; their parents and neighbours now ==support them and speak out against== early marriage and pregnancy.",
-     "bn": "আজ গ্রামটি আর দম্পতির ওপর ==চাপ দেয় না==; তাঁদের বাবা-মা ও প্রতিবেশীরা এখন ==তাঁদের সমর্থন করেন এবং== বাল্যবিবাহ ও অল্প বয়সে গর্ভধারণের ==বিরুদ্ধে সোচ্চার হন==।"
-    }
-   ]
-  }
- ],
- "words": [
-  {
-   "w": "standard practice",
-   "pos": "phrase",
-   "pron": "/ˈstændəd/",
-   "bn": "প্রচলিত/স্বাভাবিক রীতি",
-   "en": "the usual way of doing something",
-   "ex": "Early marriage is standard practice in many villages."
-  },
-  {
-   "w": "empowerment",
-   "pos": "noun",
-   "pron": "/ɪmˈpaʊəmənt/",
-   "bn": "ক্ষমতায়ন",
-   "en": "the process of giving people power over their own lives",
-   "ex": "a local empowerment group"
-  },
-  {
-   "w": "pertaining to",
-   "pos": "phrase",
-   "pron": "/pəˈteɪnɪŋ/",
-   "bn": "সম্পর্কিত, সংক্রান্ত",
-   "en": "relating to; connected with",
-   "ex": "practices pertaining to early marriage"
-  },
-  {
-   "w": "reproductive health",
-   "pos": "phrase",
-   "pron": "/ˌriːprəˈdʌktɪv/",
-   "bn": "প্রজনন স্বাস্থ্য",
-   "en": "health matters related to having children",
-   "ex": "behaviour related to reproductive health"
-  },
-  {
-   "w": "counselling",
-   "pos": "noun",
-   "pron": "/ˈkaʊnsəlɪŋ/",
-   "bn": "পরামর্শদান",
-   "en": "professional advice about personal problems",
-   "ex": "one-on-one counselling"
-  },
-  {
-   "w": "life skills",
-   "pos": "phrase",
-   "pron": "/laɪf skɪlz/",
-   "bn": "জীবনদক্ষতা",
-   "en": "abilities needed to deal with everyday life",
-   "ex": "life skills training"
-  },
-  {
-   "w": "maternal mortality",
-   "pos": "phrase",
-   "pron": "/məˈtɜːnl/",
-   "bn": "মাতৃমৃত্যু",
-   "en": "death of a woman due to pregnancy or childbirth",
-   "ex": "Maternal mortality has declined."
-  },
-  {
-   "w": "decline",
-   "pos": "verb",
-   "pron": "/dɪˈklaɪn/",
-   "bn": "হ্রাস পাওয়া, কমে যাওয়া",
-   "en": "to become less or worse",
-   "ex": "It has declined by nearly 40 percent."
-  },
-  {
-   "w": "complication",
-   "pos": "noun",
-   "pron": "/ˌkɒmplɪˈkeɪʃn/",
-   "bn": "জটিলতা",
-   "en": "an extra medical problem",
-   "ex": "serious health complications"
-  },
-  {
-   "w": "haemorrhage",
-   "pos": "noun",
-   "pron": "/ˈhemərɪdʒ/",
-   "bn": "রক্তক্ষরণ",
-   "en": "a large flow of blood from a broken vessel",
-   "ex": "dangerous haemorrhage"
-  },
-  {
-   "w": "obstructed",
-   "pos": "adj",
-   "pron": "/əbˈstrʌktɪd/",
-   "bn": "বাধাগ্রস্ত",
-   "en": "blocked",
-   "ex": "obstructed childbirth"
-  },
-  {
-   "w": "morbidity",
-   "pos": "noun",
-   "pron": "/mɔːˈbɪdəti/",
-   "bn": "রোগগ্রস্ততা, অসুস্থতা",
-   "en": "the condition of suffering from a disease",
-   "ex": "serious maternal morbidities"
-  },
-  {
-   "w": "offspring",
-   "pos": "noun",
-   "pron": "/ˈɒfsprɪŋ/",
-   "bn": "সন্তান, বংশধর",
-   "en": "a person's child or children",
-   "ex": "pressure to produce an offspring"
-  },
-  {
-   "w": "newlyweds",
-   "pos": "noun",
-   "pron": "/ˈnjuːliwedz/",
-   "bn": "নবদম্পতি",
-   "en": "a recently married couple",
-   "ex": "They pressurized the newlyweds."
-  },
-  {
-   "w": "rift",
-   "pos": "noun",
-   "pron": "/rɪft/",
-   "bn": "ফাটল, মনোমালিন্য",
-   "en": "a serious break in a relationship",
-   "ex": "It caused a rift in the family."
-  },
-  {
-   "w": "extended family",
-   "pos": "phrase",
-   "pron": "/ɪkˈstendɪd/",
-   "bn": "বর্ধিত/যৌথ পরিবার",
-   "en": "a family including relatives beyond parents and children",
-   "ex": "their extended family"
-  },
-  {
-   "w": "eventually",
-   "pos": "adverb",
-   "pron": "/ɪˈventʃuəli/",
-   "bn": "অবশেষে, শেষ পর্যন্ত",
-   "en": "in the end, after a long time",
-   "ex": "They eventually came to understand."
-  },
-  {
-   "w": "speak out against",
-   "pos": "phrase",
-   "pron": "/spiːk aʊt/",
-   "bn": "প্রতিবাদে সোচ্চার হওয়া",
-   "en": "to state one's opposition publicly",
-   "ex": "They speak out against early marriage."
-  }
- ],
- "synant": [
-  {
-   "w": "effectively",
-   "bn": "কার্যকরভাবে",
-   "syn": [
-    "fruitfully",
-    "successfully",
-    "efficiently"
-   ],
-   "ant": [
-    "ineffectively",
-    "uselessly",
-    "in vain"
-   ]
-  },
-  {
-   "w": "vulnerable",
-   "bn": "ঝুঁকিপূর্ণ",
-   "syn": [
-    "susceptible",
-    "exposed",
-    "prone"
-   ],
-   "ant": [
-    "immune",
-    "protected",
-    "resistant"
-   ]
-  },
-  {
-   "w": "prematurely",
-   "bn": "অকালে",
-   "syn": [
-    "too early",
-    "untimely",
-    "before time"
-   ],
-   "ant": [
-    "timely",
-    "at maturity",
-    "duly"
-   ]
-  },
-  {
-   "w": "decline",
-   "bn": "হ্রাস পাওয়া",
-   "syn": [
-    "decrease",
-    "drop",
-    "fall"
-   ],
-   "ant": [
-    "rise",
-    "increase",
-    "grow"
-   ]
-  },
-  {
-   "w": "victim",
-   "bn": "ভুক্তভোগী",
-   "syn": [
-    "sufferer",
-    "prey",
-    "casualty"
-   ],
-   "ant": [
-    "culprit",
-    "offender",
-    "pioneer"
-   ]
-  },
-  {
-   "w": "convince",
-   "bn": "বোঝানো",
-   "syn": [
-    "persuade",
-    "assure",
-    "satisfy"
-   ],
-   "ant": [
-    "dissuade",
-    "confuse",
-    "discourage"
-   ]
-  },
-  {
-   "w": "rift",
-   "bn": "ফাটল",
-   "syn": [
-    "breach",
-    "split",
-    "division"
-   ],
-   "ant": [
-    "union",
-    "harmony",
-    "reconciliation"
-   ]
-  },
-  {
-   "w": "insult",
-   "bn": "অপমান করা",
-   "syn": [
-    "offend",
-    "humiliate",
-    "abuse"
-   ],
-   "ant": [
-    "praise",
-    "compliment",
-    "honour"
-   ]
-  },
-  {
-   "w": "eventually",
-   "bn": "অবশেষে",
-   "syn": [
-    "finally",
-    "ultimately",
-    "in the end"
-   ],
-   "ant": [
-    "initially",
-    "at first",
-    "never"
-   ]
-  },
-  {
-   "w": "harmful",
-   "bn": "ক্ষতিকর",
-   "syn": [
-    "injurious",
-    "detrimental",
-    "damaging"
-   ],
-   "ant": [
-    "beneficial",
-    "helpful",
-    "wholesome"
-   ]
-  },
-  {
-   "w": "cultural practice",
-   "bn": "সাংস্কৃতিক রীতি",
-   "syn": [
-    "custom",
-    "tradition",
-    "convention"
-   ],
-   "ant": [
-    "innovation",
-    "novelty"
-   ]
-  },
-  {
-   "w": "support",
-   "bn": "সমর্থন করা",
-   "syn": [
-    "back",
-    "encourage",
-    "uphold"
-   ],
-   "ant": [
-    "oppose",
-    "resist",
-    "hinder"
-   ]
-  }
- ],
- "summaryEn": "Shilpi's story shows how one informed girl can change a whole village. She was married to Rashid in 2008 when she was only fifteen, for marrying daughters off early is still standard practice in rural Bangladesh. After the wedding she joined a local empowerment group — one of more than ten thousand such groups run by NGOs under Canada's Adolescent Reproductive Health Project — which holds discussions, gives one-to-one counselling, peer support and life-skills training so that girls can say no to early marriage. At one of its sessions Shilpi learnt how dangerous early marriage and pregnancy are: although maternal mortality in Bangladesh has fallen by about forty percent since 2001, young mothers still risk haemorrhage and fistula, a painful injury caused by obstructed childbirth. She therefore took Rashid to a counsellor, and he bravely agreed to postpone children for five years in spite of pressure from his parents and neighbours, after which the couple learnt about family planning from a female health worker. Deep-rooted customs, however, created a rift with the extended family, who insulted and criticized them; so they returned to the counsellor and took the help of a trained parent peer. In the end the mother-in-law and the neighbours understood the harm of early pregnancy, and today the whole village supports the couple and speaks out against early marriage.",
- "summaryBn": "শিল্পীর গল্প দেখায়, সচেতন একজন মেয়েই গোটা গ্রামকে বদলে দিতে পারে। ২০০৮ সালে মাত্র পনেরো বছর বয়সে তাঁর বিয়ে হয় রশিদের সঙ্গে, কারণ গ্রামীণ বাংলাদেশে অল্প বয়সে মেয়ে বিয়ে দেওয়া এখনো স্বাভাবিক রীতি। বিয়ের পর তিনি একটি স্থানীয় ক্ষমতায়ন দলে যোগ দেন — কানাডার ‘অ্যাডোলেসেন্ট রিপ্রোডাক্টিভ হেলথ প্রজেক্ট’-এর অধীনে এনজিও-পরিচালিত দশ হাজারের বেশি দলের একটি — যেখানে আলোচনা, একান্ত পরামর্শ, সমবয়সীদের সহায়তা ও জীবনদক্ষতা প্রশিক্ষণের মাধ্যমে মেয়েদের বাল্যবিবাহকে ‘না’ বলতে শেখানো হয়। একটি সভায় শিল্পী জানতে পারেন বাল্যবিবাহ ও অল্প বয়সে গর্ভধারণ কতটা বিপজ্জনক: ২০০১ সাল থেকে মাতৃমৃত্যু প্রায় ৪০ শতাংশ কমলেও অল্পবয়সী মায়েরা এখনো রক্তক্ষরণ ও ফিস্টুলার ঝুঁকিতে থাকেন। তাই তিনি রশিদকে পরামর্শদাতার কাছে নিয়ে যান, আর রশিদ বাবা-মা ও প্রতিবেশীদের চাপ উপেক্ষা করে পাঁচ বছর সন্তান না নেওয়ার সাহসী সিদ্ধান্ত নেন; পরে দম্পতি একজন নারী স্বাস্থ্যকর্মীর কাছ থেকে পরিবার পরিকল্পনা সম্পর্কে জানেন। কিন্তু গভীরে প্রোথিত রীতি পরিবারের সঙ্গে ফাটল তৈরি করে, কেউ কেউ তাঁদের অপমান ও সমালোচনা করেন; তখন তাঁরা আবার পরামর্শদাতার কাছে যান এবং প্রশিক্ষিত একজন অভিভাবক-সহযোগীর সাহায্য নেন। শেষ পর্যন্ত শাশুড়ি ও প্রতিবেশীরা বিষয়টি বোঝেন এবং আজ গোটা গ্রাম দম্পতির পাশে দাঁড়িয়ে বাল্যবিবাহের বিরুদ্ধে কথা বলে।",
- "summaryTip": "**Case-study passage:** এক ব্যক্তির গল্প দিয়ে বড় সমস্যা বোঝানো হয়। Summary-তে গল্পের ক্রম (বিয়ে → শেখা → সিদ্ধান্ত → বাধা → সমাধান) রাখো, আর পরিসংখ্যান থেকে কেবল একটি-দুটি ব্যবহার করো।",
- "mcq": [
-  {
-   "q": "Health complications in the passage are related to —",
-   "opts": [
-    "women",
-    "girls",
-    "teenage bridegroom",
-    "adolescent bride"
-   ],
-   "ans": 3,
-   "why": "প্যাসেজে জটিলতার কথা বলা হয়েছে অল্প বয়সে বিয়ে হওয়া মেয়েদের গর্ভধারণ প্রসঙ্গে — অর্থাৎ adolescent bride. সাধারণ ‘women’ বা ‘girls’ নয়, নির্দিষ্ট দলটিই উত্তর।"
-  },
-  {
-   "q": "“Marrying off daughters at an early age is a standard practice for many families living in rural Bangladesh.” — What does it imply?",
-   "opts": [
-    "Early marriage is forbidden there.",
-    "The concerning parents are penalized.",
-    "Early marriage is a common phenomenon.",
-    "No early marriage is available there."
-   ],
-   "ans": 2,
-   "why": "‘standard practice’ মানে প্রচলিত/স্বাভাবিক রীতি = common phenomenon."
-  },
-  {
-   "q": "It is true that the rate of maternal mortality ___ in Bangladesh recently.",
-   "opts": [
-    "has gone up",
-    "has come down",
-    "has remained static",
-    "has remained still"
-   ],
-   "ans": 1,
-   "why": "‘maternal mortality… has **declined** by nearly 40 percent since 2001’ (322 → 194) — অর্থাৎ কমেছে। তবে হার এখনো বেশি — এই দুটি তথ্য গুলিয়ে ফেলো না।"
-  },
-  {
-   "q": "The word ‘effectively’ in this passage means —",
-   "opts": [
-    "affectively",
-    "fruitfully",
-    "essentially",
-    "ultimately"
-   ],
-   "ans": 1,
-   "why": "Effectively = কার্যকরভাবে/ফলপ্রসূভাবে = fruitfully. ‘Affectively’ (আবেগগতভাবে) কেবল বানানে কাছাকাছি — ক্লাসিক ফাঁদ।"
-  },
-  {
-   "q": "In the passage, ‘cultural practices’ refer to —",
-   "opts": [
-    "rules sustaining in the community",
-    "customs prevailing in the culture of a society",
-    "celebrations existing in the society",
-    "regulations existing in the community"
-   ],
-   "ans": 1,
-   "why": "Cultural practice = সমাজে প্রচলিত রীতি/প্রথা = customs. ‘Rules’ ও ‘regulations’ আইনি অর্থ বোঝায়, সংস্কৃতি নয়।"
-  },
-  {
-   "q": "In Bangladesh, many people have a tendency to marry their daughters off —",
-   "opts": [
-    "when they are adult",
-    "prematurely",
-    "timely",
-    "when they reach maturity"
-   ],
-   "ans": 1,
-   "why": "‘at an early age’ = অকালে/পরিণত হওয়ার আগেই = prematurely."
-  },
-  {
-   "q": "Girls who get pregnant are —",
-   "opts": [
-    "free from any risk",
-    "intelligent",
-    "fortunate enough",
-    "at risk of serious health complications"
-   ],
-   "ans": 3,
-   "why": "প্যাসেজে হুবহু — ‘Girls who get pregnant are at risk of serious health complications.’"
-  },
-  {
-   "q": "What is the passage about?",
-   "opts": [
-    "the life cycle of Shilpi",
-    "the conjugal life of Shilpi",
-    "the harmful effects of early marriage and pregnancy",
-    "the empowerment of rural women"
-   ],
-   "ans": 2,
-   "why": "শিল্পীর গল্প কেবল উদাহরণ; প্যাসেজের মূল বিষয় বাল্যবিবাহ ও অল্প বয়সে গর্ভধারণের ক্ষতি। ‘What is the passage about?’ প্রশ্নে সবসময় **কেন্দ্রীয় ভাব** বাছো, চরিত্র নয়।"
-  },
-  {
-   "q": "The adolescent mothers are particularly more ___ to serious diseases.",
-   "opts": [
-    "addicted",
-    "vulnerable",
-    "devoted",
-    "delayed"
-   ],
-   "ans": 1,
-   "why": "‘at risk of serious health complications’ = vulnerable (ঝুঁকিপূর্ণ)। Preposition-ও মেলে: vulnerable **to**."
-  },
-  {
-   "q": "Shilpi was a ___ of early marriage.",
-   "opts": [
-    "girl",
-    "victim",
-    "culprit",
-    "pioneer"
-   ],
-   "ans": 1,
-   "why": "মাত্র ১৫ বছরে বিয়ে হওয়ায় তিনি বাল্যবিবাহের ভুক্তভোগী = victim. Culprit (অপরাধী) বা pioneer (পথিকৃৎ) নয়।"
-  }
- ],
- "shortQ": [
-  {
-   "q": "Why is female child marriage so common in rural Bangladesh?",
-   "a": "Female child marriage is common in rural Bangladesh because it has become a standard practice for many families there. Deeply rooted cultural practices and traditions teach people that a daughter must be married off as early as possible, and social pressure from relatives and neighbours keeps the custom alive. Poverty, lack of education and ignorance about reproductive health make the situation worse, for most parents do not know the harmful effects of early marriage and pregnancy.",
-   "bn": "গ্রামীণ বাংলাদেশে বাল্যবিবাহ সাধারণ, কারণ বহু পরিবারের কাছে এটি প্রচলিত রীতি হয়ে দাঁড়িয়েছে। গভীরে প্রোথিত সাংস্কৃতিক প্রথা ও আত্মীয়-প্রতিবেশীর চাপ এটি টিকিয়ে রাখে; দারিদ্র্য, শিক্ষার অভাব ও প্রজনন স্বাস্থ্য সম্পর্কে অজ্ঞতা অবস্থা আরও খারাপ করে।"
-  },
-  {
-   "q": "Why was Shilpi married off at an early age?",
-   "a": "Shilpi was married off at the age of only fifteen because in rural Bangladesh marrying daughters early is regarded as standard practice. Her family simply followed the deeply rooted custom of the society without thinking of the risks. Neither she nor her guardians then knew the potentially harmful effects of early marriage and pregnancy, which she learnt only later at a session of the empowerment group.",
-   "bn": "মাত্র পনেরো বছর বয়সে শিল্পীর বিয়ে হয়েছিল, কারণ গ্রামীণ বাংলাদেশে অল্প বয়সে মেয়ে বিয়ে দেওয়াকে স্বাভাবিক রীতি মনে করা হয়। তাঁর পরিবার ঝুঁকির কথা না ভেবেই সমাজের প্রথাটি অনুসরণ করেছিল; ক্ষতিকর প্রভাবের কথা তিনি পরে ক্ষমতায়ন দলের সভায় জানতে পারেন।"
-  },
-  {
-   "q": "What does the local empowerment group provide adolescent girls with?",
-   "a": "The local empowerment group provides adolescent girls with the tools that they need to change harmful cultural practices gradually, especially those relating to early marriage and pregnancy. Its activities include group discussions on how to change behaviour related to reproductive health, one-on-one counselling, peer-to-peer support and life-skills training. All these help the adolescents to say no to early marriage.",
-   "bn": "স্থানীয় ক্ষমতায়ন দলটি কিশোরীদের সেই উপকরণ দেয়, যা দিয়ে তারা ধীরে ধীরে ক্ষতিকর সাংস্কৃতিক রীতি — বিশেষত বাল্যবিবাহ ও গর্ভধারণ সংক্রান্ত রীতি — বদলাতে পারে। এর কার্যক্রমে আছে দলীয় আলোচনা, একান্ত পরামর্শ, সমবয়সীদের সহায়তা ও জীবনদক্ষতা প্রশিক্ষণ, যা তাদের বাল্যবিবাহকে ‘না’ বলতে সাহায্য করে।"
-  },
-  {
-   "q": "Marrying off daughters at an early age is a standard practice of many families in rural Bangladesh. Do you support it? Why/Why not?",
-   "a": "No, I do not support this practice at all. Early marriage snatches away a girl's education, her mobility and her social status, and it exposes her to abuse in her in-laws' house. Medically it is even more dangerous, because girls who become pregnant early risk haemorrhage and fistula, and the maternal mortality rate among them remains high. Shilpi's own life proves that once girls learn the truth they refuse the custom. Therefore this so-called standard practice should be replaced by education and awareness.",
-   "bn": "না, আমি এই প্রথাকে মোটেও সমর্থন করি না। বাল্যবিবাহ একটি মেয়ের শিক্ষা, চলাফেরার স্বাধীনতা ও সামাজিক মর্যাদা কেড়ে নেয় এবং তাকে নির্যাতনের মুখে ঠেলে দেয়। চিকিৎসাগতভাবেও এটি বিপজ্জনক — রক্তক্ষরণ ও ফিস্টুলার ঝুঁকি থাকে। শিল্পীর জীবনই প্রমাণ, সত্য জানলে মেয়েরা এই প্রথা প্রত্যাখ্যান করে।"
-  },
-  {
-   "q": "Mention some of the risks of the pregnancy of girls.",
-   "a": "Adolescent pregnancy carries several serious risks. The girls are at risk of dangerous haemorrhage, that is, heavy bleeding during or after childbirth. They may also suffer from fistula, a painful internal injury caused by obstructed childbirth, which commonly leads to serious maternal morbidities. Above all, the maternal mortality rate remains high — 194 deaths per 100,000 live births in 2010 — and the newborn child is also endangered.",
-   "bn": "অল্প বয়সে গর্ভধারণে কয়েকটি গুরুতর ঝুঁকি আছে — ভয়ংকর রক্তক্ষরণ, বাধাগ্রস্ত প্রসবের কারণে সৃষ্ট যন্ত্রণাদায়ক ক্ষত ফিস্টুলা, এবং তা থেকে গুরুতর মাতৃব্যাধি। সর্বোপরি মাতৃমৃত্যুর হার এখনো বেশি (২০১০ সালে প্রতি লাখে ১৯৪), এবং নবজাতকও ঝুঁকিতে পড়ে।"
-  }
- ],
- "table": {
-  "headers": [
-   "What / Who",
-   "Source / Action",
-   "What / Where",
-   "When / Why"
   ],
-  "rows": [
-   [
-    "At the age of 15, Shilpi",
-    "was married to (i) @Rashid",
-    "in rural Bangladesh",
-    "in (ii) @2008"
-   ],
-   [
-    "Shilpi",
-    "joined (iii) @a local empowerment group",
-    "in her locality",
-    "(iv) after @her wedding"
-   ],
-   [
-    "The local empowerment group",
-    "offers peer-to-peer support and (v) @life skills training",
-    "that helps adolescents (vi) @say no to early marriage",
-    "through regular sessions"
-   ],
-   [
-    "(vii) @Some local NGOs",
-    "work all over Bangladesh",
-    "through Canada's Adolescent Reproductive Health Project",
-    "(viii) to @increase access to quality health services for adolescents"
-   ],
-   [
-    "Shilpi",
-    "realised the potentially harmful effects of (ix) @early marriage and pregnancy",
-    "in the group",
-    "(x) during @one of the group sessions"
-   ]
+  "passage": [
+    {
+      "tag": "Paragraph 1 — Marriage and the empowerment group",
+      "s": [
+        {
+          "en": "Shilpi was only ==15 years old== when she married Rashid in ==2008==.",
+          "bn": "==২০০৮ সালে== যখন শিল্পী রশিদকে বিয়ে করেন, তখন তাঁর বয়স ছিল মাত্র ==১৫ বছর==।"
+        },
+        {
+          "en": "Marrying off daughters at an early age is ==standard practice== for many families living in rural Bangladesh.",
+          "bn": "গ্রামীণ বাংলাদেশে বসবাসকারী বহু পরিবারের কাছে অল্প বয়সে মেয়েদের বিয়ে দেওয়া একটি ==সাধারণ রীতি==।"
+        },
+        {
+          "en": "After her wedding, Shilpi joined a local ==empowerment group== that provides adolescent girls with the tools needed to gradually change ==cultural practices==, particularly those ==pertaining to== early marriage and pregnancy.",
+          "bn": "বিয়ের পর শিল্পী একটি স্থানীয় ==ক্ষমতায়ন দলে== যোগ দেন, যা কিশোরীদের সেই সব উপকরণ জোগায় যা দিয়ে ধীরে ধীরে ==সাংস্কৃতিক রীতি==, বিশেষত বাল্যবিবাহ ও গর্ভধারণ ==সম্পর্কিত== রীতিগুলো বদলানো যায়।"
+        },
+        {
+          "en": "The group's activities include discussions on how to most ==effectively== change behaviour related to ==reproductive health== as well as ==one-on-one counselling==.",
+          "bn": "দলটির কার্যক্রমের মধ্যে রয়েছে ==প্রজনন স্বাস্থ্য== সম্পর্কিত আচরণ কীভাবে সবচেয়ে ==কার্যকরভাবে== বদলানো যায় সে বিষয়ে আলোচনা এবং ==একের সঙ্গে একের পরামর্শসভা==।"
+        },
+        {
+          "en": "It also offers ==peer-to-peer support== and ==life skills training== that help adolescents ==say no to early marriage==.",
+          "bn": "এটি ==সমবয়সীদের পারস্পরিক সহায়তা== এবং ==জীবনদক্ষতা প্রশিক্ষণও== দেয়, যা কিশোরীদের ==বাল্যবিবাহকে ‘না’ বলতে== সাহায্য করে।"
+        },
+        {
+          "en": "The empowerment group is one of more than ==10,000 groups== supported by some local ==Non-Government Organizations (NGOs)== working all over Bangladesh.",
+          "bn": "এই ক্ষমতায়ন দলটি সারা বাংলাদেশে কর্মরত কিছু স্থানীয় ==বেসরকারি সংস্থার (NGO)== সহায়তাপুষ্ট ==১০,০০০-এরও বেশি দলের== একটি।"
+        },
+        {
+          "en": "These NGOs work through ==Canada's Adolescent Reproductive Health Project== which also aims to increase access to ==quality health services== for adolescents.",
+          "bn": "এই এনজিওগুলো কাজ করে ==কানাডার ‘অ্যাডোলেসেন্ট রিপ্রোডাক্টিভ হেলথ প্রজেক্ট’-এর== মাধ্যমে, যার লক্ষ্য কিশোর-কিশোরীদের জন্য ==মানসম্পন্ন স্বাস্থ্যসেবার== সুযোগ বাড়ানো।"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — What Shilpi learnt about the risks",
+      "s": [
+        {
+          "en": "During one of the group sessions, Shilpi came to understand the ==potentially harmful effects== of early marriage and pregnancy.",
+          "bn": "দলের একটি সভায় শিল্পী বাল্যবিবাহ ও অল্প বয়সে গর্ভধারণের ==সম্ভাব্য ক্ষতিকর প্রভাব== সম্পর্কে বুঝতে পারেন।"
+        },
+        {
+          "en": "While ==maternal mortality== in Bangladesh has ==declined by nearly 40 percent since 2001==, the rate remains high with ==194 maternal deaths per 100,000 live births in 2010== — dropping from ==322 in 2001== with a projected decrease to ==143 by 2015==.",
+          "bn": "যদিও বাংলাদেশে ==মাতৃমৃত্যু ২০০১ সাল থেকে প্রায় ৪০ শতাংশ কমেছে==, হারটি এখনো বেশি — ==২০১০ সালে প্রতি ১,০০,০০০ জীবিত জন্মে ১৯৪ জন মাতৃমৃত্যু==, যা ==২০০১ সালের ৩২২ থেকে== নেমে এসেছে এবং ==২০১৫ সালের মধ্যে ১৪৩-এ== নামার পূর্বাভাস ছিল।"
+        },
+        {
+          "en": "Girls who get pregnant are ==at risk of serious health complications==.",
+          "bn": "যেসব মেয়ে গর্ভবতী হয়, তারা ==গুরুতর স্বাস্থ্য জটিলতার ঝুঁকিতে== থাকে।"
+        },
+        {
+          "en": "These include dangerous ==haemorrhage== and ==fistula==, a painful internal injury caused by ==obstructed childbirth== that commonly leads to serious ==maternal morbidities==.",
+          "bn": "এর মধ্যে রয়েছে ভয়ংকর ==রক্তক্ষরণ== এবং ==ফিস্টুলা== — ==বাধাগ্রস্ত প্রসবের== কারণে সৃষ্ট একটি যন্ত্রণাদায়ক অভ্যন্তরীণ ক্ষত, যা সাধারণত গুরুতর ==মাতৃব্যাধির== দিকে নিয়ে যায়।"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — Rashid takes a brave decision",
+      "s": [
+        {
+          "en": "When Shilpi heard about those risks, she invited her husband, Rashid, to discuss pregnancy with a ==counsellor==.",
+          "bn": "সেই ঝুঁকির কথা শুনে শিল্পী তাঁর স্বামী রশিদকে একজন ==পরামর্শদাতার== সঙ্গে গর্ভধারণ নিয়ে আলোচনা করতে আমন্ত্রণ জানান।"
+        },
+        {
+          "en": "After hearing about the risks, Rashid agreed to ==delay having children for five years== despite ==pressures from his parents and neighbours== to produce an ==offspring==.",
+          "bn": "ঝুঁকির কথা শোনার পর রশিদ ==পাঁচ বছর সন্তান নেওয়া পিছিয়ে দিতে== রাজি হন, যদিও ==বাবা-মা ও প্রতিবেশীদের চাপ== ছিল একটি ==সন্তান== নেওয়ার জন্য।"
+        },
+        {
+          "en": "Together, the couple met with a ==female health care provider==, who informed them about the various ==family planning options== available.",
+          "bn": "দম্পতি একসঙ্গে একজন ==নারী স্বাস্থ্যকর্মীর== সঙ্গে দেখা করেন, যিনি তাঁদের বিদ্যমান নানা ==পরিবার পরিকল্পনা পদ্ধতি== সম্পর্কে জানান।"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 4 — Changing the whole village",
+      "s": [
+        {
+          "en": "Shilpi's mother-in-law and neighbours continued to ==pressurize== the ==newlyweds==.",
+          "bn": "শিল্পীর শাশুড়ি ও প্রতিবেশীরা ==নবদম্পতির== ওপর ==চাপ দিয়ে== যেতে থাকেন।"
+        },
+        {
+          "en": "==Deeply rooted cultural practices== and traditions caused a ==rift== between Shilpi and Rashid and their ==extended family==, some of whose members ==insulted and criticized== the couple.",
+          "bn": "==গভীরে প্রোথিত সাংস্কৃতিক রীতি== ও ঐতিহ্য শিল্পী-রশিদ এবং তাঁদের ==বর্ধিত পরিবারের== মধ্যে ==ফাটল== সৃষ্টি করে; পরিবারের কেউ কেউ দম্পতিকে ==অপমান ও সমালোচনা== করেন।"
+        },
+        {
+          "en": "Unable to ==convince== their close relatives of the risks, Shilpi and Rashid returned to the counsellor.",
+          "bn": "নিকটাত্মীয়দের ঝুঁকির কথা ==বোঝাতে ব্যর্থ হয়ে== শিল্পী ও রশিদ আবার পরামর্শদাতার কাছে ফিরে যান।"
+        },
+        {
+          "en": "They took the help of a ==parent peer== who has been trained to speak to other parents about ==adolescent issues==.",
+          "bn": "তাঁরা একজন ==অভিভাবক-সহযোগীর== সাহায্য নেন, যিনি অন্য অভিভাবকদের সঙ্গে ==কিশোর-কিশোরী বিষয়ে== কথা বলার প্রশিক্ষণপ্রাপ্ত।"
+        },
+        {
+          "en": "Shilpi's mother-in-law and neighbours ==eventually== came to understand the harmful effects of early pregnancy on mother and child.",
+          "bn": "শিল্পীর শাশুড়ি ও প্রতিবেশীরা ==অবশেষে== মা ও শিশুর ওপর অল্প বয়সে গর্ভধারণের ক্ষতিকর প্রভাব বুঝতে পারেন।"
+        },
+        {
+          "en": "Today, the village ==no longer pressurizes== the couple; their parents and neighbours now ==support them and speak out against== early marriage and pregnancy.",
+          "bn": "আজ গ্রামটি আর দম্পতির ওপর ==চাপ দেয় না==; তাঁদের বাবা-মা ও প্রতিবেশীরা এখন ==তাঁদের সমর্থন করেন এবং== বাল্যবিবাহ ও অল্প বয়সে গর্ভধারণের ==বিরুদ্ধে সোচ্চার হন==।"
+        }
+      ]
+    }
   ],
-  "note": "নাম ও সাল হুবহু লিখতে হবে — Rashid, 2008, Canada's Adolescent Reproductive Health Project, 10,000 groups."
- },
- "flow": {
-  "title": "What Shilpi Did After Her Marriage &amp; What She Learned — শিল্পীর পদক্ষেপ",
-  "items": [
-   {
-    "t": "Married off at an early age (only 15, in 2008)",
-    "bn": "মাত্র ১৫ বছরে বিয়ে (দেওয়া আছে)"
-   },
-   {
-    "t": "Joined a local empowerment group after the wedding",
-    "bn": "বিয়ের পর স্থানীয় ক্ষমতায়ন দলে যোগদান"
-   },
-   {
-    "t": "Learnt the harmful effects of early marriage and pregnancy",
-    "bn": "বাল্যবিবাহ ও গর্ভধারণের ক্ষতি সম্পর্কে জানা"
-   },
-   {
-    "t": "Invited her husband Rashid to meet a counsellor",
-    "bn": "স্বামীকে পরামর্শদাতার কাছে নিয়ে যাওয়া"
-   },
-   {
-    "t": "Agreed with Rashid to delay children for five years",
-    "bn": "পাঁচ বছর সন্তান না নেওয়ার সিদ্ধান্ত"
-   },
-   {
-    "t": "Took the help of a parent peer and convinced the family",
-    "bn": "অভিভাবক-সহযোগীর সাহায্যে পরিবারকে বোঝানো"
-   }
-  ]
- },
- "extras": [
-  {
-   "title": "Maternal Mortality Figures <span class='sub'>— সংখ্যাগুলো কী বলছে</span>",
-   "key": "MMR Figures",
-   "table": {
+  "words": [
+    {
+      "w": "standard practice",
+      "pos": "phrase",
+      "pron": "/ˈstændəd/",
+      "bn": "প্রচলিত/স্বাভাবিক রীতি",
+      "en": "the usual way of doing something",
+      "ex": "Early marriage is standard practice in many villages."
+    },
+    {
+      "w": "empowerment",
+      "pos": "noun",
+      "pron": "/ɪmˈpaʊəmənt/",
+      "bn": "ক্ষমতায়ন",
+      "en": "the process of giving people power over their own lives",
+      "ex": "a local empowerment group"
+    },
+    {
+      "w": "pertaining to",
+      "pos": "phrase",
+      "pron": "/pəˈteɪnɪŋ/",
+      "bn": "সম্পর্কিত, সংক্রান্ত",
+      "en": "relating to; connected with",
+      "ex": "practices pertaining to early marriage"
+    },
+    {
+      "w": "reproductive health",
+      "pos": "phrase",
+      "pron": "/ˌriːprəˈdʌktɪv/",
+      "bn": "প্রজনন স্বাস্থ্য",
+      "en": "health matters related to having children",
+      "ex": "behaviour related to reproductive health"
+    },
+    {
+      "w": "counselling",
+      "pos": "noun",
+      "pron": "/ˈkaʊnsəlɪŋ/",
+      "bn": "পরামর্শদান",
+      "en": "professional advice about personal problems",
+      "ex": "one-on-one counselling"
+    },
+    {
+      "w": "life skills",
+      "pos": "phrase",
+      "pron": "/laɪf skɪlz/",
+      "bn": "জীবনদক্ষতা",
+      "en": "abilities needed to deal with everyday life",
+      "ex": "life skills training"
+    },
+    {
+      "w": "maternal mortality",
+      "pos": "phrase",
+      "pron": "/məˈtɜːnl/",
+      "bn": "মাতৃমৃত্যু",
+      "en": "death of a woman due to pregnancy or childbirth",
+      "ex": "Maternal mortality has declined."
+    },
+    {
+      "w": "decline",
+      "pos": "verb",
+      "pron": "/dɪˈklaɪn/",
+      "bn": "হ্রাস পাওয়া, কমে যাওয়া",
+      "en": "to become less or worse",
+      "ex": "It has declined by nearly 40 percent."
+    },
+    {
+      "w": "complication",
+      "pos": "noun",
+      "pron": "/ˌkɒmplɪˈkeɪʃn/",
+      "bn": "জটিলতা",
+      "en": "an extra medical problem",
+      "ex": "serious health complications"
+    },
+    {
+      "w": "haemorrhage",
+      "pos": "noun",
+      "pron": "/ˈhemərɪdʒ/",
+      "bn": "রক্তক্ষরণ",
+      "en": "a large flow of blood from a broken vessel",
+      "ex": "dangerous haemorrhage"
+    },
+    {
+      "w": "obstructed",
+      "pos": "adj",
+      "pron": "/əbˈstrʌktɪd/",
+      "bn": "বাধাগ্রস্ত",
+      "en": "blocked",
+      "ex": "obstructed childbirth"
+    },
+    {
+      "w": "morbidity",
+      "pos": "noun",
+      "pron": "/mɔːˈbɪdəti/",
+      "bn": "রোগগ্রস্ততা, অসুস্থতা",
+      "en": "the condition of suffering from a disease",
+      "ex": "serious maternal morbidities"
+    },
+    {
+      "w": "offspring",
+      "pos": "noun",
+      "pron": "/ˈɒfsprɪŋ/",
+      "bn": "সন্তান, বংশধর",
+      "en": "a person's child or children",
+      "ex": "pressure to produce an offspring"
+    },
+    {
+      "w": "newlyweds",
+      "pos": "noun",
+      "pron": "/ˈnjuːliwedz/",
+      "bn": "নবদম্পতি",
+      "en": "a recently married couple",
+      "ex": "They pressurized the newlyweds."
+    },
+    {
+      "w": "rift",
+      "pos": "noun",
+      "pron": "/rɪft/",
+      "bn": "ফাটল, মনোমালিন্য",
+      "en": "a serious break in a relationship",
+      "ex": "It caused a rift in the family."
+    },
+    {
+      "w": "extended family",
+      "pos": "phrase",
+      "pron": "/ɪkˈstendɪd/",
+      "bn": "বর্ধিত/যৌথ পরিবার",
+      "en": "a family including relatives beyond parents and children",
+      "ex": "their extended family"
+    },
+    {
+      "w": "eventually",
+      "pos": "adverb",
+      "pron": "/ɪˈventʃuəli/",
+      "bn": "অবশেষে, শেষ পর্যন্ত",
+      "en": "in the end, after a long time",
+      "ex": "They eventually came to understand."
+    },
+    {
+      "w": "speak out against",
+      "pos": "phrase",
+      "pron": "/spiːk aʊt/",
+      "bn": "প্রতিবাদে সোচ্চার হওয়া",
+      "en": "to state one's opposition publicly",
+      "ex": "They speak out against early marriage."
+    }
+  ],
+  "synant": [
+    {
+      "w": "effectively",
+      "bn": "কার্যকরভাবে",
+      "syn": [
+        "fruitfully",
+        "successfully",
+        "efficiently"
+      ],
+      "ant": [
+        "ineffectively",
+        "uselessly",
+        "in vain"
+      ]
+    },
+    {
+      "w": "vulnerable",
+      "bn": "ঝুঁকিপূর্ণ",
+      "syn": [
+        "susceptible",
+        "exposed",
+        "prone"
+      ],
+      "ant": [
+        "immune",
+        "protected",
+        "resistant"
+      ]
+    },
+    {
+      "w": "prematurely",
+      "bn": "অকালে",
+      "syn": [
+        "too early",
+        "untimely",
+        "before time"
+      ],
+      "ant": [
+        "timely",
+        "at maturity",
+        "duly"
+      ]
+    },
+    {
+      "w": "decline",
+      "bn": "হ্রাস পাওয়া",
+      "syn": [
+        "decrease",
+        "drop",
+        "fall"
+      ],
+      "ant": [
+        "rise",
+        "increase",
+        "grow"
+      ]
+    },
+    {
+      "w": "victim",
+      "bn": "ভুক্তভোগী",
+      "syn": [
+        "sufferer",
+        "prey",
+        "casualty"
+      ],
+      "ant": [
+        "culprit",
+        "offender",
+        "pioneer"
+      ]
+    },
+    {
+      "w": "convince",
+      "bn": "বোঝানো",
+      "syn": [
+        "persuade",
+        "assure",
+        "satisfy"
+      ],
+      "ant": [
+        "dissuade",
+        "confuse",
+        "discourage"
+      ]
+    },
+    {
+      "w": "rift",
+      "bn": "ফাটল",
+      "syn": [
+        "breach",
+        "split",
+        "division"
+      ],
+      "ant": [
+        "union",
+        "harmony",
+        "reconciliation"
+      ]
+    },
+    {
+      "w": "insult",
+      "bn": "অপমান করা",
+      "syn": [
+        "offend",
+        "humiliate",
+        "abuse"
+      ],
+      "ant": [
+        "praise",
+        "compliment",
+        "honour"
+      ]
+    },
+    {
+      "w": "eventually",
+      "bn": "অবশেষে",
+      "syn": [
+        "finally",
+        "ultimately",
+        "in the end"
+      ],
+      "ant": [
+        "initially",
+        "at first",
+        "never"
+      ]
+    },
+    {
+      "w": "harmful",
+      "bn": "ক্ষতিকর",
+      "syn": [
+        "injurious",
+        "detrimental",
+        "damaging"
+      ],
+      "ant": [
+        "beneficial",
+        "helpful",
+        "wholesome"
+      ]
+    },
+    {
+      "w": "cultural practice",
+      "bn": "সাংস্কৃতিক রীতি",
+      "syn": [
+        "custom",
+        "tradition",
+        "convention"
+      ],
+      "ant": [
+        "innovation",
+        "novelty"
+      ]
+    },
+    {
+      "w": "support",
+      "bn": "সমর্থন করা",
+      "syn": [
+        "back",
+        "encourage",
+        "uphold"
+      ],
+      "ant": [
+        "oppose",
+        "resist",
+        "hinder"
+      ]
+    }
+  ],
+  "summaryEn": "Shilpi's story shows how one informed girl can change a whole village. She was married to Rashid in 2008 when she was only fifteen, for marrying daughters off early is still standard practice in rural Bangladesh. After the wedding she joined a local empowerment group — one of more than ten thousand such groups run by NGOs under Canada's Adolescent Reproductive Health Project — which holds discussions, gives one-to-one counselling, peer support and life-skills training so that girls can say no to early marriage. At one of its sessions Shilpi learnt how dangerous early marriage and pregnancy are: although maternal mortality in Bangladesh has fallen by about forty percent since 2001, young mothers still risk haemorrhage and fistula, a painful injury caused by obstructed childbirth. She therefore took Rashid to a counsellor, and he bravely agreed to postpone children for five years in spite of pressure from his parents and neighbours, after which the couple learnt about family planning from a female health worker. Deep-rooted customs, however, created a rift with the extended family, who insulted and criticized them; so they returned to the counsellor and took the help of a trained parent peer. In the end the mother-in-law and the neighbours understood the harm of early pregnancy, and today the whole village supports the couple and speaks out against early marriage.",
+  "summaryBn": "শিল্পীর গল্প দেখায়, সচেতন একজন মেয়েই গোটা গ্রামকে বদলে দিতে পারে। ২০০৮ সালে মাত্র পনেরো বছর বয়সে তাঁর বিয়ে হয় রশিদের সঙ্গে, কারণ গ্রামীণ বাংলাদেশে অল্প বয়সে মেয়ে বিয়ে দেওয়া এখনো স্বাভাবিক রীতি। বিয়ের পর তিনি একটি স্থানীয় ক্ষমতায়ন দলে যোগ দেন — কানাডার ‘অ্যাডোলেসেন্ট রিপ্রোডাক্টিভ হেলথ প্রজেক্ট’-এর অধীনে এনজিও-পরিচালিত দশ হাজারের বেশি দলের একটি — যেখানে আলোচনা, একান্ত পরামর্শ, সমবয়সীদের সহায়তা ও জীবনদক্ষতা প্রশিক্ষণের মাধ্যমে মেয়েদের বাল্যবিবাহকে ‘না’ বলতে শেখানো হয়। একটি সভায় শিল্পী জানতে পারেন বাল্যবিবাহ ও অল্প বয়সে গর্ভধারণ কতটা বিপজ্জনক: ২০০১ সাল থেকে মাতৃমৃত্যু প্রায় ৪০ শতাংশ কমলেও অল্পবয়সী মায়েরা এখনো রক্তক্ষরণ ও ফিস্টুলার ঝুঁকিতে থাকেন। তাই তিনি রশিদকে পরামর্শদাতার কাছে নিয়ে যান, আর রশিদ বাবা-মা ও প্রতিবেশীদের চাপ উপেক্ষা করে পাঁচ বছর সন্তান না নেওয়ার সাহসী সিদ্ধান্ত নেন; পরে দম্পতি একজন নারী স্বাস্থ্যকর্মীর কাছ থেকে পরিবার পরিকল্পনা সম্পর্কে জানেন। কিন্তু গভীরে প্রোথিত রীতি পরিবারের সঙ্গে ফাটল তৈরি করে, কেউ কেউ তাঁদের অপমান ও সমালোচনা করেন; তখন তাঁরা আবার পরামর্শদাতার কাছে যান এবং প্রশিক্ষিত একজন অভিভাবক-সহযোগীর সাহায্য নেন। শেষ পর্যন্ত শাশুড়ি ও প্রতিবেশীরা বিষয়টি বোঝেন এবং আজ গোটা গ্রাম দম্পতির পাশে দাঁড়িয়ে বাল্যবিবাহের বিরুদ্ধে কথা বলে।",
+  "summaryTip": "**Case-study passage:** এক ব্যক্তির গল্প দিয়ে বড় সমস্যা বোঝানো হয়। Summary-তে গল্পের ক্রম (বিয়ে → শেখা → সিদ্ধান্ত → বাধা → সমাধান) রাখো, আর পরিসংখ্যান থেকে কেবল একটি-দুটি ব্যবহার করো।",
+  "mcq": [
+    {
+      "q": "Health complications in the passage are related to —",
+      "opts": [
+        "women",
+        "girls",
+        "teenage bridegroom",
+        "adolescent bride"
+      ],
+      "ans": 3,
+      "why": "প্যাসেজে জটিলতার কথা বলা হয়েছে অল্প বয়সে বিয়ে হওয়া মেয়েদের গর্ভধারণ প্রসঙ্গে — অর্থাৎ adolescent bride. সাধারণ ‘women’ বা ‘girls’ নয়, নির্দিষ্ট দলটিই উত্তর।"
+    },
+    {
+      "q": "“Marrying off daughters at an early age is a standard practice for many families living in rural Bangladesh.” — What does it imply?",
+      "opts": [
+        "Early marriage is forbidden there.",
+        "The concerning parents are penalized.",
+        "Early marriage is a common phenomenon.",
+        "No early marriage is available there."
+      ],
+      "ans": 2,
+      "why": "‘standard practice’ মানে প্রচলিত/স্বাভাবিক রীতি = common phenomenon."
+    },
+    {
+      "q": "It is true that the rate of maternal mortality ___ in Bangladesh recently.",
+      "opts": [
+        "has gone up",
+        "has come down",
+        "has remained static",
+        "has remained still"
+      ],
+      "ans": 1,
+      "why": "‘maternal mortality… has **declined** by nearly 40 percent since 2001’ (322 → 194) — অর্থাৎ কমেছে। তবে হার এখনো বেশি — এই দুটি তথ্য গুলিয়ে ফেলো না।"
+    },
+    {
+      "q": "The word ‘effectively’ in this passage means —",
+      "opts": [
+        "affectively",
+        "fruitfully",
+        "essentially",
+        "ultimately"
+      ],
+      "ans": 1,
+      "why": "Effectively = কার্যকরভাবে/ফলপ্রসূভাবে = fruitfully. ‘Affectively’ (আবেগগতভাবে) কেবল বানানে কাছাকাছি — ক্লাসিক ফাঁদ।"
+    },
+    {
+      "q": "In the passage, ‘cultural practices’ refer to —",
+      "opts": [
+        "rules sustaining in the community",
+        "customs prevailing in the culture of a society",
+        "celebrations existing in the society",
+        "regulations existing in the community"
+      ],
+      "ans": 1,
+      "why": "Cultural practice = সমাজে প্রচলিত রীতি/প্রথা = customs. ‘Rules’ ও ‘regulations’ আইনি অর্থ বোঝায়, সংস্কৃতি নয়।"
+    },
+    {
+      "q": "In Bangladesh, many people have a tendency to marry their daughters off —",
+      "opts": [
+        "when they are adult",
+        "prematurely",
+        "timely",
+        "when they reach maturity"
+      ],
+      "ans": 1,
+      "why": "‘at an early age’ = অকালে/পরিণত হওয়ার আগেই = prematurely."
+    },
+    {
+      "q": "Girls who get pregnant are —",
+      "opts": [
+        "free from any risk",
+        "intelligent",
+        "fortunate enough",
+        "at risk of serious health complications"
+      ],
+      "ans": 3,
+      "why": "প্যাসেজে হুবহু — ‘Girls who get pregnant are at risk of serious health complications.’"
+    },
+    {
+      "q": "What is the passage about?",
+      "opts": [
+        "the life cycle of Shilpi",
+        "the conjugal life of Shilpi",
+        "the harmful effects of early marriage and pregnancy",
+        "the empowerment of rural women"
+      ],
+      "ans": 2,
+      "why": "শিল্পীর গল্প কেবল উদাহরণ; প্যাসেজের মূল বিষয় বাল্যবিবাহ ও অল্প বয়সে গর্ভধারণের ক্ষতি। ‘What is the passage about?’ প্রশ্নে সবসময় **কেন্দ্রীয় ভাব** বাছো, চরিত্র নয়।"
+    },
+    {
+      "q": "The adolescent mothers are particularly more ___ to serious diseases.",
+      "opts": [
+        "addicted",
+        "vulnerable",
+        "devoted",
+        "delayed"
+      ],
+      "ans": 1,
+      "why": "‘at risk of serious health complications’ = vulnerable (ঝুঁকিপূর্ণ)। Preposition-ও মেলে: vulnerable **to**."
+    },
+    {
+      "q": "Shilpi was a ___ of early marriage.",
+      "opts": [
+        "girl",
+        "victim",
+        "culprit",
+        "pioneer"
+      ],
+      "ans": 1,
+      "why": "মাত্র ১৫ বছরে বিয়ে হওয়ায় তিনি বাল্যবিবাহের ভুক্তভোগী = victim. Culprit (অপরাধী) বা pioneer (পথিকৃৎ) নয়।"
+    }
+  ],
+  "shortQ": [
+    {
+      "q": "Why is female child marriage so common in rural Bangladesh?",
+      "a": "Female child marriage is common in rural Bangladesh because it has become a standard practice for many families there. Deeply rooted cultural practices and traditions teach people that a daughter must be married off as early as possible, and social pressure from relatives and neighbours keeps the custom alive. Poverty, lack of education and ignorance about reproductive health make the situation worse, for most parents do not know the harmful effects of early marriage and pregnancy.",
+      "bn": "গ্রামীণ বাংলাদেশে বাল্যবিবাহ সাধারণ, কারণ বহু পরিবারের কাছে এটি প্রচলিত রীতি হয়ে দাঁড়িয়েছে। গভীরে প্রোথিত সাংস্কৃতিক প্রথা ও আত্মীয়-প্রতিবেশীর চাপ এটি টিকিয়ে রাখে; দারিদ্র্য, শিক্ষার অভাব ও প্রজনন স্বাস্থ্য সম্পর্কে অজ্ঞতা অবস্থা আরও খারাপ করে।"
+    },
+    {
+      "q": "Why was Shilpi married off at an early age?",
+      "a": "Shilpi was married off at the age of only fifteen because in rural Bangladesh marrying daughters early is regarded as standard practice. Her family simply followed the deeply rooted custom of the society without thinking of the risks. Neither she nor her guardians then knew the potentially harmful effects of early marriage and pregnancy, which she learnt only later at a session of the empowerment group.",
+      "bn": "মাত্র পনেরো বছর বয়সে শিল্পীর বিয়ে হয়েছিল, কারণ গ্রামীণ বাংলাদেশে অল্প বয়সে মেয়ে বিয়ে দেওয়াকে স্বাভাবিক রীতি মনে করা হয়। তাঁর পরিবার ঝুঁকির কথা না ভেবেই সমাজের প্রথাটি অনুসরণ করেছিল; ক্ষতিকর প্রভাবের কথা তিনি পরে ক্ষমতায়ন দলের সভায় জানতে পারেন।"
+    },
+    {
+      "q": "What does the local empowerment group provide adolescent girls with?",
+      "a": "The local empowerment group provides adolescent girls with the tools that they need to change harmful cultural practices gradually, especially those relating to early marriage and pregnancy. Its activities include group discussions on how to change behaviour related to reproductive health, one-on-one counselling, peer-to-peer support and life-skills training. All these help the adolescents to say no to early marriage.",
+      "bn": "স্থানীয় ক্ষমতায়ন দলটি কিশোরীদের সেই উপকরণ দেয়, যা দিয়ে তারা ধীরে ধীরে ক্ষতিকর সাংস্কৃতিক রীতি — বিশেষত বাল্যবিবাহ ও গর্ভধারণ সংক্রান্ত রীতি — বদলাতে পারে। এর কার্যক্রমে আছে দলীয় আলোচনা, একান্ত পরামর্শ, সমবয়সীদের সহায়তা ও জীবনদক্ষতা প্রশিক্ষণ, যা তাদের বাল্যবিবাহকে ‘না’ বলতে সাহায্য করে।"
+    },
+    {
+      "q": "Marrying off daughters at an early age is a standard practice of many families in rural Bangladesh. Do you support it? Why/Why not?",
+      "a": "No, I do not support this practice at all. Early marriage snatches away a girl's education, her mobility and her social status, and it exposes her to abuse in her in-laws' house. Medically it is even more dangerous, because girls who become pregnant early risk haemorrhage and fistula, and the maternal mortality rate among them remains high. Shilpi's own life proves that once girls learn the truth they refuse the custom. Therefore this so-called standard practice should be replaced by education and awareness.",
+      "bn": "না, আমি এই প্রথাকে মোটেও সমর্থন করি না। বাল্যবিবাহ একটি মেয়ের শিক্ষা, চলাফেরার স্বাধীনতা ও সামাজিক মর্যাদা কেড়ে নেয় এবং তাকে নির্যাতনের মুখে ঠেলে দেয়। চিকিৎসাগতভাবেও এটি বিপজ্জনক — রক্তক্ষরণ ও ফিস্টুলার ঝুঁকি থাকে। শিল্পীর জীবনই প্রমাণ, সত্য জানলে মেয়েরা এই প্রথা প্রত্যাখ্যান করে।"
+    },
+    {
+      "q": "Mention some of the risks of the pregnancy of girls.",
+      "a": "Adolescent pregnancy carries several serious risks. The girls are at risk of dangerous haemorrhage, that is, heavy bleeding during or after childbirth. They may also suffer from fistula, a painful internal injury caused by obstructed childbirth, which commonly leads to serious maternal morbidities. Above all, the maternal mortality rate remains high — 194 deaths per 100,000 live births in 2010 — and the newborn child is also endangered.",
+      "bn": "অল্প বয়সে গর্ভধারণে কয়েকটি গুরুতর ঝুঁকি আছে — ভয়ংকর রক্তক্ষরণ, বাধাগ্রস্ত প্রসবের কারণে সৃষ্ট যন্ত্রণাদায়ক ক্ষত ফিস্টুলা, এবং তা থেকে গুরুতর মাতৃব্যাধি। সর্বোপরি মাতৃমৃত্যুর হার এখনো বেশি (২০১০ সালে প্রতি লাখে ১৯৪), এবং নবজাতকও ঝুঁকিতে পড়ে।"
+    }
+  ],
+  "table": {
     "headers": [
-     "Year",
-     "Maternal deaths per 100,000 live births",
-     "Comment"
+      "What / Who",
+      "Source / Action",
+      "What / Where",
+      "When / Why"
     ],
     "rows": [
-     [
-      "2001",
-      "322",
-      "The starting point of the comparison"
-     ],
-     [
-      "2010",
-      "194",
-      "Actual figure — a fall of nearly 40 percent"
-     ],
-     [
-      "2015 (projected)",
-      "143",
-      "Target / expected further decrease"
-     ]
-    ]
-   },
-   "note": "**দুটি সত্য একসাথে লিখতে হবে:** হার কমেছে (322 → 194), কিন্তু এখনো ‘remains high’. যেকোনো একটি লিখলে উত্তর অসম্পূর্ণ।"
-  },
-  {
-   "title": "Who Did What <span class='sub'>— চরিত্র ও ভূমিকা</span>",
-   "key": "Characters",
-   "table": {
-    "headers": [
-     "Person / Body",
-     "Role in the story"
+      [
+        "At the age of 15, Shilpi",
+        "was married to (i) @Rashid",
+        "in rural Bangladesh",
+        "in (ii) @2008"
+      ],
+      [
+        "Shilpi",
+        "joined (iii) @a local empowerment group",
+        "in her locality",
+        "(iv) after @her wedding"
+      ],
+      [
+        "The local empowerment group",
+        "offers peer-to-peer support and (v) @life skills training",
+        "that helps adolescents (vi) @say no to early marriage",
+        "through regular sessions"
+      ],
+      [
+        "(vii) @Some local NGOs",
+        "work all over Bangladesh",
+        "through Canada's Adolescent Reproductive Health Project",
+        "(viii) to @increase access to quality health services for adolescents"
+      ],
+      [
+        "Shilpi",
+        "realised the potentially harmful effects of (ix) @early marriage and pregnancy",
+        "in the group",
+        "(x) during @one of the group sessions"
+      ]
     ],
-    "rows": [
-     [
-      "Shilpi",
-      "The victim of early marriage who became the change-maker"
-     ],
-     [
-      "Rashid",
-      "Her husband; bravely agreed to delay children for five years"
-     ],
-     [
-      "The empowerment group",
-      "Gave discussion, counselling, peer support and life-skills training"
-     ],
-     [
-      "The counsellor",
-      "Explained the risks of early pregnancy to the couple"
-     ],
-     [
-      "Female health care provider",
-      "Informed them about family planning options"
-     ],
-     [
-      "Parent peer",
-      "Trained person who convinced the parents and neighbours"
-     ],
-     [
-      "Mother-in-law &amp; neighbours",
-      "First pressurized, criticized — finally understood and supported"
-     ]
+    "note": "নাম ও সাল হুবহু লিখতে হবে — Rashid, 2008, Canada's Adolescent Reproductive Health Project, 10,000 groups."
+  },
+  "flow": {
+    "title": "What Shilpi Did After Her Marriage &amp; What She Learned — শিল্পীর পদক্ষেপ",
+    "items": [
+      {
+        "t": "Married off at an early age (only 15, in 2008)",
+        "bn": "মাত্র ১৫ বছরে বিয়ে (দেওয়া আছে)"
+      },
+      {
+        "t": "Joined a local empowerment group after the wedding",
+        "bn": "বিয়ের পর স্থানীয় ক্ষমতায়ন দলে যোগদান"
+      },
+      {
+        "t": "Learnt the harmful effects of early marriage and pregnancy",
+        "bn": "বাল্যবিবাহ ও গর্ভধারণের ক্ষতি সম্পর্কে জানা"
+      },
+      {
+        "t": "Invited her husband Rashid to meet a counsellor",
+        "bn": "স্বামীকে পরামর্শদাতার কাছে নিয়ে যাওয়া"
+      },
+      {
+        "t": "Agreed with Rashid to delay children for five years",
+        "bn": "পাঁচ বছর সন্তান না নেওয়ার সিদ্ধান্ত"
+      },
+      {
+        "t": "Took the help of a parent peer and convinced the family",
+        "bn": "অভিভাবক-সহযোগীর সাহায্যে পরিবারকে বোঝানো"
+      }
     ]
-   },
-   "note": "‘Who helped whom’ ধরনের Short Question-এ এই টেবিলই যথেষ্ট।"
-  }
- ],
- "tips": [
-  {
-   "em": "🧵",
-   "t": "Case study = one thread",
-   "d": "গল্পটি একটি সুতোয় গাঁথা: সমস্যা → জ্ঞান → সিদ্ধান্ত → বাধা → সমাধান। এই ৫টি ধাপ মনে রাখলে যেকোনো প্রশ্নের উত্তর বের হবে।"
   },
-  {
-   "em": "📉",
-   "t": "‘Declined but still high’",
-   "type": "warn",
-   "d": "MCQ-তে ‘has come down’ সঠিক, কিন্তু Short Question-এ ‘তবু হার বেশি’ কথাটিও লিখতে হবে — নইলে অসম্পূর্ণ।"
-  },
-  {
-   "em": "🔤",
-   "t": "effectively ≠ affectively",
-   "d": "বানানে কাছাকাছি শব্দ (effective/affective, morbidity/mobility) আলাদা করে মুখস্থ করো — বোর্ড ঠিক এখানেই ফাঁদ পাতে।"
-  },
-  {
-   "em": "🗣️",
-   "t": "Opinion question = reason + evidence",
-   "d": "‘Do you support it?’ প্রশ্নে ‘না’ বলেই থেমো না — প্যাসেজ থেকে অন্তত দুটি কারণ (শিক্ষা হারানো, স্বাস্থ্যঝুঁকি) দাও।"
-  },
-  {
-   "em": "👨‍👩‍👧",
-   "t": "Rashid's role is examinable",
-   "type": "ok",
-   "d": "শুধু শিল্পী নয়, রশিদের সাহসী সিদ্ধান্তও প্রশ্ন হয়। ‘despite pressures from his parents and neighbours’ — এই অংশটুকু লিখলে নম্বর বাড়ে।"
-  },
-  {
-   "em": "🏁",
-   "t": "End with the transformation",
-   "d": "উত্তরের শেষে গ্রামের পরিবর্তনের কথা লিখো — ‘Today the village no longer pressurizes the couple.’ এটি উত্তরকে সম্পূর্ণ করে।"
-  }
- ],
- "recap": [
-  "শিল্পীর বিয়ে ২০০৮ সালে, বয়স মাত্র ১৫ — গ্রামীণ বাংলাদেশের ‘standard practice’.",
-  "ক্ষমতায়ন দল দেয়: আলোচনা, একান্ত পরামর্শ, সমবয়সীদের সহায়তা, জীবনদক্ষতা প্রশিক্ষণ।",
-  "ঝুঁকি: haemorrhage, fistula (obstructed childbirth থেকে), maternal morbidity.",
-  "মাতৃমৃত্যু: ২০০১-এ ৩২২ → ২০১০-এ ১৯৪ → ২০১৫-তে লক্ষ্য ১৪৩।",
-  "ফলাফল: রশিদের সাহসী সিদ্ধান্ত ও parent peer-এর সাহায্যে পুরো গ্রামের মত পরিবর্তন।"
- ],
- "homework": [
-  "‘Who Did What’ টেবিলটি খাতায় তুলে আনবে।",
-  "মাতৃমৃত্যুর তিনটি সংখ্যা ও তাদের সাল মুখস্থ করবে।",
-  "Flow chart-এর ৬টি ঘর নিজে পূরণ করবে।",
-  "Summary ১৩০–১৪০ শব্দে লিখে আনবে।"
- ],
- "paper": "paper1",
- "paperName": "HSC English 1st Paper"
+  "extras": [
+    {
+      "title": "Maternal Mortality Figures <span class='sub'>— সংখ্যাগুলো কী বলছে</span>",
+      "key": "MMR Figures",
+      "table": {
+        "headers": [
+          "Year",
+          "Maternal deaths per 100,000 live births",
+          "Comment"
+        ],
+        "rows": [
+          [
+            "2001",
+            "322",
+            "The starting point of the comparison"
+          ],
+          [
+            "2010",
+            "194",
+            "Actual figure — a fall of nearly 40 percent"
+          ],
+          [
+            "2015 (projected)",
+            "143",
+            "Target / expected further decrease"
+          ]
+        ]
+      },
+      "note": "**দুটি সত্য একসাথে লিখতে হবে:** হার কমেছে (322 → 194), কিন্তু এখনো ‘remains high’. যেকোনো একটি লিখলে উত্তর অসম্পূর্ণ।"
+    },
+    {
+      "title": "Who Did What <span class='sub'>— চরিত্র ও ভূমিকা</span>",
+      "key": "Characters",
+      "table": {
+        "headers": [
+          "Person / Body",
+          "Role in the story"
+        ],
+        "rows": [
+          [
+            "Shilpi",
+            "The victim of early marriage who became the change-maker"
+          ],
+          [
+            "Rashid",
+            "Her husband; bravely agreed to delay children for five years"
+          ],
+          [
+            "The empowerment group",
+            "Gave discussion, counselling, peer support and life-skills training"
+          ],
+          [
+            "The counsellor",
+            "Explained the risks of early pregnancy to the couple"
+          ],
+          [
+            "Female health care provider",
+            "Informed them about family planning options"
+          ],
+          [
+            "Parent peer",
+            "Trained person who convinced the parents and neighbours"
+          ],
+          [
+            "Mother-in-law &amp; neighbours",
+            "First pressurized, criticized — finally understood and supported"
+          ]
+        ]
+      },
+      "note": "‘Who helped whom’ ধরনের Short Question-এ এই টেবিলই যথেষ্ট।"
+    }
+  ],
+  "tips": [
+    {
+      "em": "🧵",
+      "t": "Case study = one thread",
+      "d": "গল্পটি একটি সুতোয় গাঁথা: সমস্যা → জ্ঞান → সিদ্ধান্ত → বাধা → সমাধান। এই ৫টি ধাপ মনে রাখলে যেকোনো প্রশ্নের উত্তর বের হবে।"
+    },
+    {
+      "em": "📉",
+      "t": "‘Declined but still high’",
+      "type": "warn",
+      "d": "MCQ-তে ‘has come down’ সঠিক, কিন্তু Short Question-এ ‘তবু হার বেশি’ কথাটিও লিখতে হবে — নইলে অসম্পূর্ণ।"
+    },
+    {
+      "em": "🔤",
+      "t": "effectively ≠ affectively",
+      "d": "বানানে কাছাকাছি শব্দ (effective/affective, morbidity/mobility) আলাদা করে মুখস্থ করো — বোর্ড ঠিক এখানেই ফাঁদ পাতে।"
+    },
+    {
+      "em": "🗣️",
+      "t": "Opinion question = reason + evidence",
+      "d": "‘Do you support it?’ প্রশ্নে ‘না’ বলেই থেমো না — প্যাসেজ থেকে অন্তত দুটি কারণ (শিক্ষা হারানো, স্বাস্থ্যঝুঁকি) দাও।"
+    },
+    {
+      "em": "👨‍👩‍👧",
+      "t": "Rashid's role is examinable",
+      "type": "ok",
+      "d": "শুধু শিল্পী নয়, রশিদের সাহসী সিদ্ধান্তও প্রশ্ন হয়। ‘despite pressures from his parents and neighbours’ — এই অংশটুকু লিখলে নম্বর বাড়ে।"
+    },
+    {
+      "em": "🏁",
+      "t": "End with the transformation",
+      "d": "উত্তরের শেষে গ্রামের পরিবর্তনের কথা লিখো — ‘Today the village no longer pressurizes the couple.’ এটি উত্তরকে সম্পূর্ণ করে।"
+    }
+  ],
+  "recap": [
+    "শিল্পীর বিয়ে ২০০৮ সালে, বয়স মাত্র ১৫ — গ্রামীণ বাংলাদেশের ‘standard practice’.",
+    "ক্ষমতায়ন দল দেয়: আলোচনা, একান্ত পরামর্শ, সমবয়সীদের সহায়তা, জীবনদক্ষতা প্রশিক্ষণ।",
+    "ঝুঁকি: haemorrhage, fistula (obstructed childbirth থেকে), maternal morbidity.",
+    "মাতৃমৃত্যু: ২০০১-এ ৩২২ → ২০১০-এ ১৯৪ → ২০১৫-তে লক্ষ্য ১৪৩।",
+    "ফলাফল: রশিদের সাহসী সিদ্ধান্ত ও parent peer-এর সাহায্যে পুরো গ্রামের মত পরিবর্তন।"
+  ],
+  "homework": [
+    "‘Who Did What’ টেবিলটি খাতায় তুলে আনবে।",
+    "মাতৃমৃত্যুর তিনটি সংখ্যা ও তাদের সাল মুখস্থ করবে।",
+    "Flow chart-এর ৬টি ঘর নিজে পূরণ করবে।",
+    "Summary ১৩০–১৪০ শব্দে লিখে আনবে।"
+  ],
+  "paper": "paper1",
+  "paperName": "HSC English 1st Paper",
+  "lesson": 3
 }

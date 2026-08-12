@@ -60,6 +60,8 @@ export interface DeckAnswer { q?: string; ans: string; why?: string }
 
 export interface DeckChapterMeta {
   id: string; title: string; titleBn: string; tag: string; level: "Easy" | "Medium" | "Hard";
+  /** lesson within the unit — several chapters may share one */
+  lesson?: number; lessonName?: string;
 }
 export interface DeckUnit {
   no: string; name: string; nameBn: string; em: string; accent: string; chapters: DeckChapterMeta[];
@@ -75,7 +77,8 @@ export interface DeckManifest {
 /** The full teaching content of one chapter. Shape differs by lesson type. */
 export interface Deck {
   id: string; paper: string; paperName: string;
-  unit: string; unitName: string; title: string; titleBn: string;
+  unit: string; unitName: string; lesson?: number; lessonName?: string;
+  title: string; titleBn: string;
   lede?: string; qType?: string; minutes?: number; marks?: string;
   objectives?: { t: string; d: string }[];
   /* 1st Paper — passage lessons */

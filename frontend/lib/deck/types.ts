@@ -20,6 +20,11 @@ export interface ChapterMeta {
   tag: string;
   level: 'Easy' | 'Medium' | 'Hard';
   available?: boolean;
+  /** lesson within the unit — several chapters may share one */
+  lesson?: number | null;
+  lessonName?: string | null;
+  /** position inside the lesson */
+  order?: number;
   minutes?: number | null;
   marks?: string | null;
   answers?: number;
@@ -35,7 +40,22 @@ export interface DeckUnit {
   nameBn: string;
   em: string;
   accent: string;
+  order?: number;
   chapters: ChapterMeta[];
+}
+
+/** One row of GET /api/decks/units — feeds the "move to unit" dropdown. */
+export interface UnitSummary {
+  paperId: string;
+  paperName: string;
+  no: string;
+  name: string;
+  nameBn: string;
+  em: string;
+  accent: string;
+  order: number;
+  chapters: number;
+  lessons: number[];
 }
 
 export interface DeckPaper {
@@ -68,6 +88,8 @@ export interface Deck {
   paperName?: string;
   unit: string;
   unitName: string;
+  lesson?: number | null;
+  lessonName?: string | null;
   title: string;
   titleBn?: string;
   lede?: string;

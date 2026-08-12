@@ -7,7 +7,8 @@ import { useAuth } from '@/lib/auth';
 import Protected from '@/components/Protected';
 import { bnNum } from '@/lib/format';
 import { plain } from '@/lib/deck/text';
-import type { DeckCatalogue } from '@/lib/deck/types';
+import PlacementEditor from '@/components/decks/PlacementEditor';
+import type { ChapterMeta, DeckCatalogue, DeckUnit, UnitSummary } from '@/lib/deck/types';
 
 const LEVEL_BN: Record<string, string> = { Easy: 'সহজ', Medium: 'মাঝারি', Hard: 'কঠিন' };
 const LEVEL_CLASS: Record<string, string> = {
@@ -23,9 +24,22 @@ function DecksLibrary() {
   const [paper, setPaper] = useState(0);
   const [q, setQ] = useState('');
 
-  useEffect(() => {
+  // syllabus editing — staff correct which unit / lesson a chapter belongs to
+  const [edit, setEdit] = useState(false);
+  const [unitList, setUnitList] = useState<UnitSummary[]>([]);
+  const [editing, setEditing] = useState<
+    { mode: 'unit' | 'chapter'; unit: DeckUnit; chapter?: ChapterMeta } | null
+  >(null);
+
+  const reload = () => {
     if (!token) return;
     api<DeckCatalogue>('/decks', { token }).then(setData).catch(() => setErr(true));
+    api<UnitSummary[]>('/decks/units', { token }).then(setUnitList).catch(() => {});
+  };
+
+  useEffect(() => {
+    reload();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [token]);
 
   const active = data?.papers[paper];
@@ -63,6 +77,17 @@ function DecksLibrary() {
 
   const totalChapters = data.papers.reduce((n, p) => n + p.chapterCount, 0);
 
+  /** A unit's chapters grouped by lesson; units without lessons yield one group. */
+  const lessons = (u: DeckUnit) => {
+    const groups: { lesson: number | null; chapters: ChapterMeta[] }[] = [];
+    for (const c of u.chapters) {
+      const key = c.lesson ?? null;
+      const g = groups.find((x) => x.lesson === key);
+      g ? g.chapters.push(c) : groups.push({ lesson: key, chapters: [c] });
+    }
+    return groups;
+  };
+
   return (
     <div className="max-w-6xl mx-auto px-4 py-8 sm:py-10">
       <div className="inline-flex items-center gap-2 rounded-full bg-amber-50 text-amber-700 px-3 py-1 text-xs font-bold tracking-wide">
@@ -84,7 +109,22 @@ function DecksLibrary() {
         <span className="badge bg-slate-100 text-slate-700">প্রজেক্টর-রেডি</span>
         <span className="badge bg-slate-100 text-slate-700">প্রিন্ট করা যায়</span>
         <span className="badge bg-slate-100 text-slate-700">হোয়াইটবোর্ড</span>
+        <button
+          onClick={() => setEdit(!edit)}
+          className={`badge transition ${
+            edit ? 'bg-brand-600 text-white' : 'bg-white border border-slate-300 text-slate-600 hover:border-brand-400'
+          }`}
+        >
+          {edit ? '✓ সিলেবাস সম্পাদনা চালু' : '✎ সিলেবাস সম্পাদনা'}
+        </button>
       </div>
+
+      {edit && (
+        <p className="mt-3 text-xs text-slate-500 bg-amber-50 border border-amber-200 rounded-lg px-3 py-2 leading-relaxed">
+          ইউনিটের নম্বর/নাম বদলাতে ইউনিট শিরোনামের পাশের <b>✎</b>, আর কোনো অধ্যায়কে অন্য ইউনিট
+          বা লেসনে সরাতে কার্ডের <b>✎</b> চাপুন। পরিবর্তন সব শিক্ষকের জন্য সাথে সাথে কার্যকর হবে।
+        </p>
+      )}
 
       {/* paper tabs */}
       <div className="mt-7 flex flex-wrap gap-2">
@@ -133,47 +173,99 @@ function DecksLibrary() {
             <span className="ml-auto badge bg-white border border-slate-200 text-slate-600">
               {bnNum(u.chapters.length)} অধ্যায়
             </span>
-          </div>
-
-          <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-            {u.chapters.map((c) => (
-              <Link
-                key={c.id}
-                href={`/decks/${c.id}`}
-                className="card hover:border-brand-400 hover:shadow-md transition group"
+            {edit && (
+              <button
+                onClick={() => setEditing({ mode: 'unit', unit: u })}
+                className="badge bg-white border border-brand-300 text-brand-700 hover:bg-brand-50"
+                title="ইউনিট নম্বর / নাম বদলান"
               >
-                <div className="flex items-center gap-2">
-                  <span className="text-[11px] font-bold tracking-wide text-slate-400">
-                    {plain(c.tag)}
-                  </span>
-                  <span
-                    className={`badge ml-auto ${LEVEL_CLASS[c.level] || 'bg-slate-100 text-slate-600'}`}
-                  >
-                    {LEVEL_BN[c.level] || c.level}
-                  </span>
-                </div>
-                <div className="mt-2 font-semibold text-slate-900 leading-snug group-hover:text-brand-700">
-                  {plain(c.title)}
-                </div>
-                <div className="mt-1 text-sm text-emerald-700">{plain(c.titleBn)}</div>
-
-                <div className="mt-3 pt-3 border-t border-dashed border-slate-200 flex items-center gap-3 text-xs text-slate-500">
-                  {c.stats?.kind === 'grammar' ? (
-                    <span>
-                      {bnNum(c.stats.rules)} নিয়ম · {bnNum(c.stats.drills)} অনুশীলন
-                    </span>
-                  ) : c.stats ? (
-                    <span>
-                      {bnNum(c.stats.mcq)} MCQ · {bnNum(c.stats.words)} শব্দ
-                    </span>
-                  ) : null}
-                  <span className="ml-auto font-semibold text-brand-700">ক্লাস শুরু →</span>
-                </div>
-              </Link>
-            ))}
+                ✎ ইউনিট
+              </button>
+            )}
           </div>
+
+          {lessons(u).map((g) => (
+            <div key={g.lesson ?? 'none'} className="mt-4">
+              {g.lesson != null && (
+                <div className="flex items-center gap-2 mb-2">
+                  <span className="badge bg-brand-50 text-brand-700 border border-brand-200">
+                    লেসন {bnNum(g.lesson)}
+                  </span>
+                  <span className="text-xs text-slate-400">
+                    {plain(g.chapters[0].lessonName || '')}
+                  </span>
+                  <span className="flex-1 border-t border-dashed border-slate-200" />
+                </div>
+              )}
+
+              <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+                {g.chapters.map((c) => (
+                  <div key={c.id} className="relative">
+                    {edit && (
+                      <button
+                        onClick={() => setEditing({ mode: 'chapter', unit: u, chapter: c })}
+                        className="absolute top-2 right-2 z-10 w-7 h-7 rounded-lg bg-white border border-brand-300 text-brand-700 text-xs shadow-sm hover:bg-brand-50"
+                        title="ইউনিট / লেসন বদলান"
+                      >
+                        ✎
+                      </button>
+                    )}
+                    <Link
+                      href={`/decks/${c.id}`}
+                      className="card block h-full hover:border-brand-400 hover:shadow-md transition group"
+                    >
+                      <div className="flex items-center gap-2">
+                        <span className="text-[11px] font-bold tracking-wide text-slate-400">
+                          {plain(c.tag)}
+                        </span>
+                        <span
+                          className={`badge ml-auto ${edit ? 'mr-8' : ''} ${
+                            LEVEL_CLASS[c.level] || 'bg-slate-100 text-slate-600'
+                          }`}
+                        >
+                          {LEVEL_BN[c.level] || c.level}
+                        </span>
+                      </div>
+                      <div className="mt-2 font-semibold text-slate-900 leading-snug group-hover:text-brand-700">
+                        {plain(c.title)}
+                      </div>
+                      <div className="mt-1 text-sm text-emerald-700">{plain(c.titleBn)}</div>
+
+                      <div className="mt-3 pt-3 border-t border-dashed border-slate-200 flex items-center gap-3 text-xs text-slate-500">
+                        {c.stats?.kind === 'grammar' ? (
+                          <span>
+                            {bnNum(c.stats.rules)} নিয়ম · {bnNum(c.stats.drills)} অনুশীলন
+                          </span>
+                        ) : c.stats ? (
+                          <span>
+                            {bnNum(c.stats.mcq)} MCQ · {bnNum(c.stats.words)} শব্দ
+                          </span>
+                        ) : null}
+                        <span className="ml-auto font-semibold text-brand-700">ক্লাস শুরু →</span>
+                      </div>
+                    </Link>
+                  </div>
+                ))}
+              </div>
+            </div>
+          ))}
         </section>
       ))}
+
+      {editing && (
+        <PlacementEditor
+          mode={editing.mode}
+          paperId={active.id}
+          unit={editing.unit}
+          chapter={editing.chapter}
+          units={unitList}
+          onClose={() => setEditing(null)}
+          onSaved={() => {
+            setEditing(null);
+            reload();
+          }}
+        />
+      )}
     </div>
   );
 }

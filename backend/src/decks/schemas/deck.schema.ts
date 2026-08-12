@@ -53,6 +53,21 @@ export class Deck {
   @Prop({ default: 0 })
   unitOrder: number;
 
+  /* ---- lesson ---- */
+  /** lesson within the unit; two passages may share one lesson number */
+  @Prop()
+  lessonNo?: number;
+
+  @Prop()
+  lessonName?: string;
+
+  /**
+   * Set when a teacher edits the placement from the app. The seeder then leaves
+   * unit/lesson alone on re-import so a manual correction survives `npm run seed`.
+   */
+  @Prop({ default: false })
+  placementLocked: boolean;
+
   /* ---- chapter ---- */
   @Prop({ required: true })
   title: string;
@@ -89,4 +104,4 @@ export type DeckDocument = Deck & Document;
 export const DeckSchema = SchemaFactory.createForClass(Deck);
 
 // the library lists chapters paper → unit → chapter, so index that path
-DeckSchema.index({ paperOrder: 1, unitOrder: 1, order: 1 });
+DeckSchema.index({ paperOrder: 1, unitOrder: 1, lessonNo: 1, order: 1 });

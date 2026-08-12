@@ -728,3 +728,151 @@
 }
 .tea-deck, .tea-deck * { box-sizing: border-box; }
 .tea-deck button { font-family: inherit; }
+
+/* ============================================================
+   Clickable vocabulary — tap a word in the passage for a word card
+   ============================================================ */
+
+.tea-deck .wq {
+  cursor: help;
+  border-bottom: 1.5px dotted var(--navy-600);
+  transition: background .15s, border-color .15s;
+  border-radius: 3px;
+}
+.tea-deck .wq:hover,
+.tea-deck .wq:focus-visible {
+  background: var(--navy-100);
+  border-bottom-color: var(--amber-500);
+  border-bottom-style: solid;
+  outline: none;
+}
+/* inside a highlighted phrase the dotted rule would fight the highlight */
+.tea-deck mark .wq,
+.tea-deck .hl .wq { border-bottom-color: var(--amber-600); }
+
+/* Hover preview — the Bangla meaning, without leaving the passage.
+   Fixed rather than absolute: .slide-body scrolls and clips its overflow, so a
+   tooltip anchored inside the passage would be cut off on the first line. */
+.tea-deck .wq-tip {
+  position: fixed;
+  z-index: 95;
+  max-width: min(360px, 76vw);
+  padding: 8px 12px;
+  border-radius: 10px;
+  background: var(--navy-900);
+  color: #fff;
+  font-family: var(--font-bn);
+  font-size: 15px;
+  line-height: 1.5;
+  text-align: center;
+  pointer-events: none;
+  box-shadow: 0 10px 26px rgba(6, 14, 28, .35);
+  animation: wmIn .12s ease-out;
+}
+.tea-deck .wq-tip::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  margin-left: -5px;
+  border: 5px solid transparent;
+}
+.tea-deck .wq-tip.above::after { top: 100%; border-top-color: var(--navy-900); }
+.tea-deck .wq-tip.below::after { bottom: 100%; border-bottom-color: var(--navy-900); }
+
+/* ---- the word card ---- */
+
+.tea-deck .wm-back {
+  position: fixed; inset: 0; z-index: 90;
+  background: rgba(8, 16, 30, .55);
+  backdrop-filter: blur(3px);
+  display: flex; align-items: center; justify-content: center;
+  padding: 20px;
+  animation: wmIn .14s ease-out;
+}
+@keyframes wmIn { from { opacity: 0 } to { opacity: 1 } }
+
+.tea-deck .wm {
+  width: min(620px, 100%);
+  max-height: min(84vh, 760px);
+  display: flex; flex-direction: column;
+  background: var(--card);
+  color: var(--ink);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: 0 24px 60px rgba(6, 14, 28, .35);
+  overflow: hidden;
+}
+
+.tea-deck .wm-head {
+  display: flex; align-items: flex-start; gap: 12px;
+  padding: 16px 18px;
+  background: linear-gradient(135deg, var(--navy-700), var(--navy-600) 60%, var(--amber-500));
+  color: #fff;
+}
+.tea-deck .wm-word { font-size: 26px; font-weight: 800; line-height: 1.15; }
+.tea-deck .wm-meta { margin-top: 4px; display: flex; gap: 10px; flex-wrap: wrap; font-size: 13px; }
+.tea-deck .wm-pos {
+  background: rgba(255, 255, 255, .2);
+  padding: 1px 8px; border-radius: 999px; font-weight: 700;
+  letter-spacing: .02em;
+}
+.tea-deck .wm-pron { opacity: .85; font-family: var(--font-read); }
+.tea-deck .wm-x {
+  margin-left: auto; background: rgba(255, 255, 255, .16); color: #fff;
+  border: 0; border-radius: 9px; width: 32px; height: 32px; font-size: 15px;
+  cursor: pointer; flex: none;
+}
+.tea-deck .wm-x:hover { background: rgba(255, 255, 255, .3); }
+
+.tea-deck .wm-body { padding: 6px 18px 16px; overflow-y: auto; }
+.tea-deck .wm-body section { padding: 13px 0; border-bottom: 1px dashed var(--line); }
+.tea-deck .wm-body section:last-child { border-bottom: 0; }
+.tea-deck .wm-body h4 {
+  margin: 0 0 6px; font-size: 11px; font-weight: 800;
+  letter-spacing: .09em; text-transform: uppercase; color: var(--amber-600);
+}
+.tea-deck .wm-body p { margin: 0; line-height: 1.65; font-size: 17px; color: var(--ink-2); }
+.tea-deck .wm-body p.bn { font-family: var(--font-bn); font-size: 18px; color: var(--ink); }
+.tea-deck .wm-bn p.bn { font-size: 21px; font-weight: 600; }
+.tea-deck .wm-ex { font-family: var(--font-read); font-style: italic; color: var(--ink-2); }
+
+.tea-deck .wm-sa { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+@media (max-width: 520px) { .tea-deck .wm-sa { grid-template-columns: 1fr; } }
+.tea-deck .wm-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.tea-deck .wm-chip {
+  border: 1px solid transparent; border-radius: 999px;
+  padding: 4px 11px; font-size: 14px; font-weight: 600;
+  cursor: pointer; transition: transform .12s, box-shadow .12s;
+}
+.tea-deck .wm-chip:hover { transform: translateY(-1px); box-shadow: var(--shadow-sm); }
+.tea-deck .wm-chip.syn { background: var(--ok-bg); color: var(--ok); }
+.tea-deck .wm-chip.ant { background: var(--rose-100); color: var(--rose-600); }
+
+.tea-deck .wm-use {
+  border-left: 3px solid var(--navy-600);
+  background: var(--navy-050);
+  border-radius: 0 8px 8px 0;
+  padding: 9px 12px;
+  margin-top: 8px;
+}
+.tea-deck .wm-use p { font-size: 16px; }
+.tea-deck .wm-use p.bn { margin-top: 4px; font-size: 16px; color: var(--ink-2); }
+
+.tea-deck .wm-foot {
+  padding: 10px 18px;
+  border-top: 1px solid var(--line);
+  background: var(--card-2);
+  font-family: var(--font-bn);
+  font-size: 13px;
+  color: var(--ink-3);
+}
+.tea-deck .wm-foot kbd {
+  font-family: var(--font-en); font-size: 11px;
+  border: 1px solid var(--line-strong); border-bottom-width: 2px;
+  border-radius: 5px; padding: 1px 5px; background: var(--card);
+}
+
+@media print {
+  .tea-deck .wq { border-bottom: 0; }
+  .tea-deck .wm-back, .tea-deck .wq-tip { display: none; }
+}

@@ -19,6 +19,8 @@ import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import { build } from '@/lib/deck/build';
 import { plain } from '@/lib/deck/text';
+import { buildLexicon, linkWords, norm, type WordEntry } from '@/lib/deck/lexicon';
+import WordModal from './WordModal';
 import type { Deck, Neighbours } from '@/lib/deck/types';
 
 const BRAND = { name: 'Tasin English Academy', phone: '01722335722' };
@@ -46,6 +48,11 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
   const [color, setColor] = useState(WB_COLORS[0]);
   const [size, setSize] = useState(3);
   const [ans, setAns] = useState({ left: 0, total: 0 });
+  const [word, setWord] = useState<WordEntry | null>(null);
+  const [hint, setHint] = useState<{ x: number; y: number; bn: string; above: boolean } | null>(null);
+
+  /** Vocabulary of this chapter, joined and indexed for in-passage lookup. */
+  const lex = useMemo(() => buildLexicon(deck), [deck]);
 
   /* ---------------- slide helpers ---------------- */
 
@@ -112,6 +119,32 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
     refit();
     countAnswers();
   }, [refit, countAnswers]);
+
+  /**
+   * Make the vocabulary in the passage tappable. Runs once per deck, after the
+   * slides are in the DOM — the linker rewrites text nodes, so it must not see
+   * markup React still owns.
+   */
+  useEffect(() => {
+    const stage = stageRef.current;
+    if (!stage) return;
+    stage
+      .querySelectorAll<HTMLElement>('.slide[data-kind="passage"] .passage, .slide[data-kind="summary"] .sum-en')
+      .forEach((el) => linkWords(el, lex));
+  }, [lex]);
+
+  const openWord = useCallback(
+    (key: string) => {
+      const e = lex.lookup.get(norm(key));
+      if (e) {
+        setHint(null);
+        setWord(e);
+      }
+    },
+    [lex],
+  );
+
+  useEffect(() => setHint(null), [i]);
 
   /* ---------------- navigation ---------------- */
 
@@ -318,6 +351,13 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
       const t = e.target as HTMLElement;
       if (t && /INPUT|TEXTAREA|SELECT/.test(t.tagName)) return;
       const k = e.key;
+      // a focused vocabulary word opens its card instead of advancing
+      if ((k === 'Enter' || k === ' ') && t?.classList?.contains('wq')) {
+        e.preventDefault();
+        openWord(t.dataset.word || t.textContent || '');
+        return;
+      }
+      if (word) return; // the word card owns the keyboard while it is open
       if (k === 'ArrowRight' || k === 'PageDown' || k === ' ') { e.preventDefault(); go(i + 1); }
       else if (k === 'ArrowLeft' || k === 'PageUp') { e.preventDefault(); go(i - 1); }
       else if (k === 'Home') { e.preventDefault(); go(0); }
@@ -334,7 +374,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [i, slides.length, go, revealNext, revealAll]);
+  }, [i, slides.length, go, revealNext, revealAll, openWord, word]);
 
   useEffect(() => {
     try { localStorage.setItem('tea:theme', dark ? 'dark' : 'light'); } catch {}
@@ -346,8 +386,31 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
   }
 
   /* clicking a single answer opens just that one */
+  /** Hover a vocabulary word → its Bangla meaning, anchored to the word. */
+  const onStageOver = (e: React.MouseEvent) => {
+    const w = (e.target as HTMLElement).closest<HTMLElement>('.wq');
+    if (!w || !w.dataset.bn) {
+      if (hint) setHint(null);
+      return;
+    }
+    const r = w.getBoundingClientRect();
+    const above = r.top > 110; // not enough room up top → drop it below the word
+    setHint({
+      x: Math.min(Math.max(r.left + r.width / 2, 190), window.innerWidth - 190),
+      y: above ? r.top - 10 : r.bottom + 10,
+      bn: w.dataset.bn,
+      above,
+    });
+  };
+
   const onStageClick = (e: React.MouseEvent) => {
     const t = e.target as HTMLElement;
+    const w = t.closest<HTMLElement>('.wq');
+    if (w) {
+      e.stopPropagation();
+      openWord(w.dataset.word || w.textContent || '');
+      return;
+    }
     const opt = t.closest<HTMLElement>('[data-opt]');
     if (opt) {
       const box = opt.closest<HTMLElement>('[data-mcq]')!;
@@ -415,7 +478,9 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
             <span>Tasin English Academy</span>
           </Link>
           <div className="crumb">
-            {plain(deck.unit)} &nbsp;›&nbsp; {plain(deck.unitName)} &nbsp;›&nbsp; <b>{plain(deck.title)}</b>
+            {plain(deck.unit)}
+            {deck.lesson != null && <> &nbsp;·&nbsp; Lesson {deck.lesson}</>}
+            &nbsp;›&nbsp; {plain(deck.unitName)} &nbsp;›&nbsp; <b>{plain(deck.title)}</b>
           </div>
           <div className="spacer" />
           {ans.total > 0 && (
@@ -479,6 +544,8 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
           id="stage"
           ref={stageRef}
           onClick={onStageClick}
+          onMouseOver={onStageOver}
+          onMouseOut={() => setHint(null)}
           onTouchStart={onTouchStart}
           onTouchEnd={onTouchEnd}
         >
@@ -487,6 +554,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
               key={n}
               className={`slide${n === i ? ' active' : ''}${back && n === i ? ' back' : ''}`}
               data-i={n}
+              data-kind={s.kind}
             >
               {s.bare ? (
                 <>
@@ -654,6 +722,30 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
           )}
         </div>
       </div>
+
+      {hint && !word && (
+        <div
+          className={`wq-tip ${hint.above ? 'above' : 'below'}`}
+          style={{
+            left: hint.x,
+            top: hint.y,
+            transform: `translate(-50%, ${hint.above ? '-100%' : '0'})`,
+          }}
+        >
+          {hint.bn}
+        </div>
+      )}
+
+      {word && (
+        <WordModal
+          entry={word}
+          onClose={() => setWord(null)}
+          onPick={(w) => {
+            const e = lex.lookup.get(norm(w));
+            if (e) setWord(e);
+          }}
+        />
+      )}
     </div>
   );
 }

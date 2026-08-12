@@ -1,762 +1,763 @@
 {
- "id": "bullying",
- "unit": "Unit 03",
- "unitName": "Adolescence",
- "title": "Bullying — Violence in and around School",
- "titleBn": "বুলিং — বিদ্যালয়ে ও তার আশপাশে সহিংসতা",
- "lede": "ইউনিসেফের প্রতিবেদন: বিশ্বের প্রতি দুইজন কিশোরের একজন সহপাঠীর সহিংসতার শিকার; বাংলাদেশে ৩৫ শতাংশ। অনলাইন বুলিং থেকে অস্ত্রের সহিংসতা পর্যন্ত।",
- "qType": "Seen Passage — Q.1(a+b), 2, 3",
- "minutes": 45,
- "marks": "35",
- "objectives": [
-  {
-   "t": "Understand what a ‘report-based’ passage is",
-   "d": "সংবাদ-প্রতিবেদনের ভাষা ও পরিসংখ্যান পড়ার কৌশল"
-  },
-  {
-   "t": "Sentence-wise Bangla meaning",
-   "d": "১৬টি বাক্যের বাংলা অর্থ"
-  },
-  {
-   "t": "Vocabulary + Synonym / Antonym",
-   "d": "bully, peer, disseminate, harassment…"
-  },
-  {
-   "t": "Types &amp; effects of bullying",
-   "d": "ধরন ও স্বল্প/দীর্ঘমেয়াদি প্রভাব"
-  },
-  {
-   "t": "10 MCQ + 5 Short Questions",
-   "d": "ব্যাখ্যাসহ"
-  },
-  {
-   "t": "Summary, Table &amp; Flow Chart",
-   "d": "সম্পূর্ণ সমাধান"
-  }
- ],
- "passage": [
-  {
-   "tag": "Paragraph 1 — The figures",
-   "s": [
+  "id": "bullying",
+  "unit": "Unit 09",
+  "unitName": "Adolescence",
+  "title": "Bullying — Violence in and around School",
+  "titleBn": "বুলিং — বিদ্যালয়ে ও তার আশপাশে সহিংসতা",
+  "lede": "ইউনিসেফের প্রতিবেদন: বিশ্বের প্রতি দুইজন কিশোরের একজন সহপাঠীর সহিংসতার শিকার; বাংলাদেশে ৩৫ শতাংশ। অনলাইন বুলিং থেকে অস্ত্রের সহিংসতা পর্যন্ত।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
     {
-     "en": "In Bangladesh, ==35 percent== of students aged between 13 and 15 reported being ==bullied== one or more days in 30 days or involved in a physical fight at least once in 12 months in ==2014==, says a new report.",
-     "bn": "একটি নতুন প্রতিবেদন বলছে, বাংলাদেশে ১৩ থেকে ১৫ বছর বয়সী শিক্ষার্থীদের ==৩৫ শতাংশ== জানিয়েছে যে তারা ==২০১৪ সালে== ৩০ দিনের মধ্যে এক বা একাধিক দিন ==উত্ত্যক্তের (bullying) শিকার== হয়েছে অথবা ১২ মাসে অন্তত একবার শারীরিক সংঘর্ষে জড়িয়েছে।"
+      "t": "Understand what a ‘report-based’ passage is",
+      "d": "সংবাদ-প্রতিবেদনের ভাষা ও পরিসংখ্যান পড়ার কৌশল"
     },
     {
-     "en": "Globally, ==half of the students== aged between 13 and 15 worldwide — around ==150 million== — report having experienced ==peer-to-peer violence== such as physical fights or forms of bullying, from their ==peers== in and around school, according to the report released by ==UNICEF==.",
-     "bn": "==ইউনিসেফ== প্রকাশিত প্রতিবেদন অনুযায়ী, বিশ্বজুড়ে ১৩ থেকে ১৫ বছর বয়সী শিক্ষার্থীদের ==অর্ধেক== — প্রায় ==১৫ কোটি== — জানিয়েছে যে তারা বিদ্যালয়ে ও তার আশপাশে ==সহপাঠীদের== কাছ থেকে শারীরিক সংঘর্ষ বা নানা ধরনের উত্ত্যক্তকরণের মতো ==সমবয়সীদের সহিংসতার== শিকার হয়েছে।"
+      "t": "Sentence-wise Bangla meaning",
+      "d": "১৬টি বাক্যের বাংলা অর্থ"
+    },
+    {
+      "t": "Vocabulary + Synonym / Antonym",
+      "d": "bully, peer, disseminate, harassment…"
+    },
+    {
+      "t": "Types &amp; effects of bullying",
+      "d": "ধরন ও স্বল্প/দীর্ঘমেয়াদি প্রভাব"
+    },
+    {
+      "t": "10 MCQ + 5 Short Questions",
+      "d": "ব্যাখ্যাসহ"
+    },
+    {
+      "t": "Summary, Table &amp; Flow Chart",
+      "d": "সম্পূর্ণ সমাধান"
     }
-   ]
-  },
-  {
-   "tag": "Paragraph 2 — The source of the data",
-   "s": [
-    {
-     "en": "The report is based on data from the *Health Behaviour in School-aged Children: Cross-national Study* and the *Global School-based Student Health Surveys*.",
-     "bn": "প্রতিবেদনটি তৈরি হয়েছে ‘হেলথ বিহেভিয়ার ইন স্কুল-এজড চিলড্রেন: ক্রস-ন্যাশনাল স্টাডি’ এবং ‘গ্লোবাল স্কুল-বেজড স্টুডেন্ট হেলথ সার্ভে’-এর তথ্যের ভিত্তিতে।"
-    },
-    {
-     "en": "The data include ==122 countries==, representing ==51 percent== of the global population of children between 13 and 15.",
-     "bn": "এই তথ্যে ==১২২টি দেশ== অন্তর্ভুক্ত, যা ১৩ থেকে ১৫ বছর বয়সী শিশুদের বৈশ্বিক জনসংখ্যার ==৫১ শতাংশের== প্রতিনিধিত্ব করে।"
-    },
-    {
-     "en": "The report finds that students experience other forms of violence at school, such as ==attacks in classrooms== or ==physical punishment by teachers==.",
-     "bn": "প্রতিবেদনে দেখা যায়, শিক্ষার্থীরা বিদ্যালয়ে আরও নানা ধরনের সহিংসতার শিকার হয়, যেমন ==শ্রেণিকক্ষে আক্রমণ== অথবা ==শিক্ষকের শারীরিক শাস্তি==।"
-    },
-    {
-     "en": "About ==720 million school-age children== live in countries where they are ==not fully protected by law== against forms of physical punishment at school, according to the report.",
-     "bn": "প্রতিবেদন অনুযায়ী, প্রায় ==৭২ কোটি বিদ্যালয়গামী শিশু== এমন দেশে বাস করে যেখানে বিদ্যালয়ে শারীরিক শাস্তির বিরুদ্ধে তারা ==আইন দ্বারা পুরোপুরি সুরক্ষিত নয়==।"
-    }
-   ]
-  },
-  {
-   "tag": "Paragraph 3 — What UNICEF's Executive Director said",
-   "s": [
-    {
-     "en": "“Education is the ==key to building peaceful societies==, and yet, for millions of children around the world, ==school itself is not safe==,” said UNICEF Executive Director ==Henrietta Fore==.",
-     "bn": "ইউনিসেফের নির্বাহী পরিচালক ==হেনরিয়েটা ফোর== বলেন, “শিক্ষা হলো ==শান্তিপূর্ণ সমাজ গড়ার চাবিকাঠি==, অথচ বিশ্বের লক্ষ লক্ষ শিশুর জন্য ==বিদ্যালয় নিজেই নিরাপদ নয়==।”"
-    },
-    {
-     "en": "“Every day, students face ==multiple dangers==, including fighting, pressure to join gangs, bullying — both in person and online — ==violent discipline==, ==sexual harassment== and ==armed violence==.”",
-     "bn": "“প্রতিদিন শিক্ষার্থীরা ==নানাবিধ বিপদের== মুখোমুখি হয় — মারামারি, দলে যোগ দেওয়ার চাপ, সরাসরি ও অনলাইনে উত্ত্যক্তকরণ, ==সহিংস শাস্তি==, ==যৌন হয়রানি== এবং ==সশস্ত্র সহিংসতা==।”"
-    },
-    {
-     "en": "“In the short-term this ==impacts their learning==, and in the long-term it can lead to ==depression, anxiety and even suicide==.”",
-     "bn": "“স্বল্প মেয়াদে এটি তাদের ==শেখার ওপর প্রভাব ফেলে==, আর দীর্ঘ মেয়াদে এটি ==বিষণ্নতা, উদ্বেগ, এমনকি আত্মহত্যার== দিকে নিয়ে যেতে পারে।”"
-    },
-    {
-     "en": "“Violence is an ==unforgettable lesson== that no child needs to learn.”",
-     "bn": "“সহিংসতা এমন এক ==অবিস্মরণীয় শিক্ষা==, যা কোনো শিশুরই শেখার প্রয়োজন নেই।”"
-    }
-   ]
-  },
-  {
-   "tag": "Paragraph 4 — Who bullies whom",
-   "s": [
-    {
-     "en": "Globally, slightly more than ==one in three students== between 13 and 15 said they experience bullying, according to the report.",
-     "bn": "প্রতিবেদন অনুযায়ী বিশ্বজুড়ে ১৩ থেকে ১৫ বছর বয়সী শিক্ষার্থীদের ==প্রতি তিনজনের একজনেরও কিছু বেশি== জানিয়েছে যে তারা উত্ত্যক্তের শিকার হয়।"
-    },
-    {
-     "en": "About ==one in three== has been involved in physical fights.",
-     "bn": "প্রায় ==প্রতি তিনজনের একজন== শারীরিক সংঘর্ষে জড়িয়েছে।"
-    },
-    {
-     "en": "On the other hand, ==17 million== young adolescents in ==39 industrialised countries== have ==admitted bullying others== at school, according to the report.",
-     "bn": "অন্যদিকে, ==৩৯টি শিল্পোন্নত দেশের ১ কোটি ৭০ লক্ষ== কিশোর-কিশোরী স্বীকার করেছে যে তারা বিদ্যালয়ে ==অন্যদের উত্ত্যক্ত করেছে==।"
-    },
-    {
-     "en": "While girls and boys are ==equally at risk== of bullying, girls are more likely to become victims of ==psychological forms== of bullying and boys are more at risk of ==physical violence and threats==.",
-     "bn": "যদিও ছেলে ও মেয়ে ==সমানভাবে ঝুঁকিতে== থাকে, মেয়েরা বেশি শিকার হয় ==মানসিক ধরনের== উত্ত্যক্তকরণের এবং ছেলেরা বেশি ঝুঁকিতে থাকে ==শারীরিক সহিংসতা ও হুমকির==।"
-    },
-    {
-     "en": "The report notes that ==violence involving weapons== in schools, such as knives and guns, ==continues to claim lives==.",
-     "bn": "প্রতিবেদনে উল্লেখ করা হয়, বিদ্যালয়ে ছুরি ও বন্দুকের মতো ==অস্ত্রসংশ্লিষ্ট সহিংসতা== এখনো ==প্রাণ কেড়ে নিচ্ছে==।"
-    },
-    {
-     "en": "It also says that in an increasingly ==digital world==, bullies are ==disseminating== violent, hurtful and ==humiliating content== with the click of a button.",
-     "bn": "এতে আরও বলা হয়, ক্রমবর্ধমান ==ডিজিটাল দুনিয়ায়== উত্ত্যক্তকারীরা কেবল একটি বোতামের ক্লিকেই সহিংস, কষ্টদায়ক ও ==অপমানজনক বিষয়বস্তু ছড়িয়ে দিচ্ছে==।"
-    }
-   ]
-  }
- ],
- "words": [
-  {
-   "w": "bully",
-   "pos": "verb/noun",
-   "pron": "/ˈbʊli/",
-   "bn": "উত্ত্যক্ত করা; উত্ত্যক্তকারী",
-   "en": "to frighten or hurt a weaker person repeatedly",
-   "ex": "35 percent reported being bullied."
-  },
-  {
-   "w": "peer",
-   "pos": "noun",
-   "pron": "/pɪə/",
-   "bn": "সমবয়সী, সহপাঠী",
-   "en": "a person of the same age or position",
-   "ex": "violence from their peers"
-  },
-  {
-   "w": "peer-to-peer violence",
-   "pos": "phrase",
-   "pron": "/pɪə tə pɪə/",
-   "bn": "সমবয়সীদের মধ্যে সহিংসতা",
-   "en": "violence between students of the same age",
-   "ex": "They experienced peer-to-peer violence."
-  },
-  {
-   "w": "cross-national",
-   "pos": "adj",
-   "pron": "/krɒs ˈnæʃnəl/",
-   "bn": "আন্তঃদেশীয়, বহুদেশীয়",
-   "en": "involving several countries",
-   "ex": "a cross-national study"
-  },
-  {
-   "w": "physical punishment",
-   "pos": "phrase",
-   "pron": "/ˈfɪzɪkl/",
-   "bn": "শারীরিক শাস্তি",
-   "en": "punishment that hurts the body",
-   "ex": "physical punishment by teachers"
-  },
-  {
-   "w": "gang",
-   "pos": "noun",
-   "pron": "/ɡæŋ/",
-   "bn": "দল, সংঘবদ্ধ দুর্বৃত্তদল",
-   "en": "an organised group of criminals or youths",
-   "ex": "pressure to join gangs"
-  },
-  {
-   "w": "violent discipline",
-   "pos": "phrase",
-   "pron": "/ˈvaɪələnt/",
-   "bn": "সহিংস শাসন/শাস্তি",
-   "en": "controlling children by hurting them",
-   "ex": "violent discipline at school"
-  },
-  {
-   "w": "harassment",
-   "pos": "noun",
-   "pron": "/ˈhærəsmənt/",
-   "bn": "হয়রানি, উত্ত্যক্তকরণ",
-   "en": "behaviour that annoys or threatens someone",
-   "ex": "sexual harassment"
-  },
-  {
-   "w": "armed violence",
-   "pos": "phrase",
-   "pron": "/ɑːmd/",
-   "bn": "সশস্ত্র সহিংসতা",
-   "en": "violence involving weapons",
-   "ex": "students face armed violence"
-  },
-  {
-   "w": "impact",
-   "pos": "verb/noun",
-   "pron": "/ˈɪmpækt/",
-   "bn": "প্রভাব ফেলা; প্রভাব",
-   "en": "to have a strong effect on something",
-   "ex": "It impacts their learning."
-  },
-  {
-   "w": "depression",
-   "pos": "noun",
-   "pron": "/dɪˈpreʃn/",
-   "bn": "বিষণ্নতা",
-   "en": "a long feeling of sadness and hopelessness",
-   "ex": "It can lead to depression."
-  },
-  {
-   "w": "anxiety",
-   "pos": "noun",
-   "pron": "/æŋˈzaɪəti/",
-   "bn": "উদ্বেগ, দুশ্চিন্তা",
-   "en": "a feeling of worry or fear",
-   "ex": "depression, anxiety and even suicide"
-  },
-  {
-   "w": "industrialised",
-   "pos": "adj",
-   "pron": "/ɪnˈdʌstriəlaɪzd/",
-   "bn": "শিল্পোন্নত",
-   "en": "having many developed industries",
-   "ex": "39 industrialised countries"
-  },
-  {
-   "w": "claim lives",
-   "pos": "idiom",
-   "pron": "/kleɪm/",
-   "bn": "প্রাণ কেড়ে নেওয়া",
-   "en": "to cause deaths",
-   "ex": "Violence continues to claim lives."
-  },
-  {
-   "w": "disseminate",
-   "pos": "verb",
-   "pron": "/dɪˈsemɪneɪt/",
-   "bn": "ছড়িয়ে দেওয়া, প্রচার করা",
-   "en": "to spread information widely",
-   "ex": "Bullies are disseminating hurtful content."
-  },
-  {
-   "w": "humiliating",
-   "pos": "adj",
-   "pron": "/hjuːˈmɪlieɪtɪŋ/",
-   "bn": "অপমানজনক, লজ্জাজনক",
-   "en": "making someone feel ashamed",
-   "ex": "violent, hurtful and humiliating content"
-  }
- ],
- "synant": [
-  {
-   "w": "bully",
-   "bn": "উত্ত্যক্ত করা",
-   "syn": [
-    "intimidate",
-    "torment",
-    "harass"
-   ],
-   "ant": [
-    "protect",
-    "encourage",
-    "support"
-   ]
-  },
-  {
-   "w": "violence",
-   "bn": "সহিংসতা",
-   "syn": [
-    "brutality",
-    "aggression",
-    "force"
-   ],
-   "ant": [
-    "peace",
-    "gentleness",
-    "harmony"
-   ]
-  },
-  {
-   "w": "unforgettable",
-   "bn": "অবিস্মরণীয়",
-   "syn": [
-    "memorable",
-    "indelible",
-    "haunting"
-   ],
-   "ant": [
-    "forgettable",
-    "trivial"
-   ]
-  },
-  {
-   "w": "corporeal / physical",
-   "bn": "শারীরিক",
-   "syn": [
-    "bodily",
-    "material",
-    "tangible"
-   ],
-   "ant": [
-    "mental",
-    "spiritual",
-    "psychological"
-   ]
-  },
-  {
-   "w": "protect",
-   "bn": "রক্ষা করা",
-   "syn": [
-    "safeguard",
-    "shield",
-    "defend"
-   ],
-   "ant": [
-    "endanger",
-    "expose",
-    "harm"
-   ]
-  },
-  {
-   "w": "harassment",
-   "bn": "হয়রানি",
-   "syn": [
-    "persecution",
-    "annoyance",
-    "molestation"
-   ],
-   "ant": [
-    "respect",
-    "courtesy"
-   ]
-  },
-  {
-   "w": "disseminate",
-   "bn": "ছড়ানো",
-   "syn": [
-    "spread",
-    "circulate",
-    "broadcast"
-   ],
-   "ant": [
-    "conceal",
-    "suppress",
-    "withhold"
-   ]
-  },
-  {
-   "w": "humiliating",
-   "bn": "অপমানজনক",
-   "syn": [
-    "degrading",
-    "shameful",
-    "mortifying"
-   ],
-   "ant": [
-    "dignifying",
-    "honouring"
-   ]
-  },
-  {
-   "w": "depression",
-   "bn": "বিষণ্নতা",
-   "syn": [
-    "melancholy",
-    "despair",
-    "gloom"
-   ],
-   "ant": [
-    "cheerfulness",
-    "joy",
-    "elation"
-   ]
-  },
-  {
-   "w": "victim",
-   "bn": "ভুক্তভোগী",
-   "syn": [
-    "sufferer",
-    "prey",
-    "casualty"
-   ],
-   "ant": [
-    "victimizer",
-    "offender",
-    "attacker"
-   ]
-  },
-  {
-   "w": "peaceful",
-   "bn": "শান্তিপূর্ণ",
-   "syn": [
-    "tranquil",
-    "calm",
-    "harmonious"
-   ],
-   "ant": [
-    "violent",
-    "turbulent",
-    "chaotic"
-   ]
-  },
-  {
-   "w": "equally",
-   "bn": "সমানভাবে",
-   "syn": [
-    "alike",
-    "evenly",
-    "similarly"
-   ],
-   "ant": [
-    "unequally",
-    "disproportionately"
-   ]
-  }
- ],
- "summaryEn": "A new UNICEF report shows that school, which ought to be the safest place for a child, has become a place of fear. In Bangladesh thirty-five percent of students between thirteen and fifteen said in 2014 that they had been bullied within a month or had joined a physical fight within a year, while half of the students of that age in the world — about a hundred and fifty million — reported peer-to-peer violence in and around school. Drawn from two large surveys covering a hundred and twenty-two countries, the report also records attacks in classrooms and physical punishment by teachers, and notes that some seven hundred and twenty million children live where the law does not fully protect them from such punishment. The Executive Director of UNICEF, Henrietta Fore, observed that although education is the key to peaceful societies, school itself is unsafe, for students daily meet fighting, gang pressure, bullying both in person and online, violent discipline, sexual harassment and armed violence, which harm their learning at once and may later cause depression, anxiety and even suicide. Bullying, she said, is an unforgettable lesson no child needs. Girls suffer more from psychological bullying and boys from physical violence; weapons continue to claim lives; and in the digital age humiliating content can be spread at the click of a button.",
- "summaryBn": "ইউনিসেফের একটি নতুন প্রতিবেদনে দেখা যায়, যে বিদ্যালয়ের হওয়ার কথা ছিল শিশুর সবচেয়ে নিরাপদ জায়গা, সেটিই আজ ভয়ের জায়গা হয়ে উঠেছে। বাংলাদেশে ২০১৪ সালে ১৩–১৫ বছর বয়সী শিক্ষার্থীদের ৩৫ শতাংশ জানিয়েছে যে তারা এক মাসের মধ্যে উত্ত্যক্তের শিকার হয়েছে বা এক বছরে শারীরিক সংঘর্ষে জড়িয়েছে; আর বিশ্বজুড়ে ওই বয়সের অর্ধেক শিক্ষার্থী — প্রায় ১৫ কোটি — বিদ্যালয়ে ও তার আশপাশে সমবয়সীদের সহিংসতার কথা জানিয়েছে। ১২২টি দেশের দুটি বড় জরিপের ভিত্তিতে তৈরি এই প্রতিবেদনে শ্রেণিকক্ষে আক্রমণ ও শিক্ষকের শারীরিক শাস্তির কথাও আছে এবং বলা হয়েছে, প্রায় ৭২ কোটি শিশু এমন দেশে থাকে যেখানে আইন তাদের এসব শাস্তি থেকে পুরোপুরি রক্ষা করে না। ইউনিসেফের নির্বাহী পরিচালক হেনরিয়েটা ফোর বলেন, শিক্ষা শান্তিপূর্ণ সমাজ গড়ার চাবিকাঠি হলেও বিদ্যালয় নিজেই নিরাপদ নয়; শিক্ষার্থীরা প্রতিদিন মারামারি, দলে যোগ দেওয়ার চাপ, সরাসরি ও অনলাইনে উত্ত্যক্তকরণ, সহিংস শাস্তি, যৌন হয়রানি ও সশস্ত্র সহিংসতার মুখোমুখি হয়, যা তাৎক্ষণিকভাবে শেখার ক্ষতি করে এবং পরে বিষণ্নতা, উদ্বেগ এমনকি আত্মহত্যার কারণ হতে পারে। মেয়েরা বেশি ভোগে মানসিক উত্ত্যক্তকরণে, ছেলেরা শারীরিক সহিংসতায়; অস্ত্রের সহিংসতা প্রাণ কেড়ে নিচ্ছে এবং ডিজিটাল যুগে এক ক্লিকেই ছড়িয়ে পড়ছে অপমানজনক বিষয়বস্তু।",
- "summaryTip": "**Report-based passage:** ‘says a new report’, ‘according to the report’ — এই phrase গুলো Summary-তে একবারই লিখো। সব সংখ্যা নয়, সবচেয়ে জোরালো ৩–৪টি সংখ্যা রাখো এবং উদ্ধৃতি indirect করে লেখো।",
- "mcq": [
-  {
-   "q": "What leads to depression, anxiety and suicide?",
-   "opts": [
-    "facebook",
-    "bullying",
-    "sports",
-    "adda"
-   ],
-   "ans": 1,
-   "why": "‘In the short-term this impacts their learning, and in the long-term it can lead to depression, anxiety and even suicide’ — এখানে ‘this’ বলতে বুলিংসহ সহিংসতাকেই বোঝানো হয়েছে।"
-  },
-  {
-   "q": "What kind of lesson is ‘violence’?",
-   "opts": [
-    "odd lesson",
-    "revengeful lesson",
-    "unforgettable lesson",
-    "meaningful lesson"
-   ],
-   "ans": 2,
-   "why": "হেনরিয়েটা ফোর-এর উক্তি — ‘Violence is an **unforgettable lesson** that no child needs to learn.’"
-  },
-  {
-   "q": "School-going adolescents are involved in ___ fight.",
-   "opts": [
-    "corporeal",
-    "eternal",
-    "dual",
-    "psychological"
-   ],
-   "ans": 0,
-   "why": "প্যাসেজে আছে ‘physical fight’; corporeal মানেই শারীরিক/দৈহিক। Psychological মানে মানসিক — বুলিংয়ের ভিন্ন ধরন।"
-  },
-  {
-   "q": "The name of the threat that is engulfing the school-going adolescents is —",
-   "opts": [
-    "snatching",
-    "bullying",
-    "extortion",
-    "nepotism"
-   ],
-   "ans": 1,
-   "why": "পুরো প্যাসেজের কেন্দ্রীয় বিষয়ই bullying — শিরোনাম-প্রশ্নের উত্তর সবসময় কেন্দ্রীয় বিষয়।"
-  },
-  {
-   "q": "Who are not fully protected by law against physical punishment at school?",
-   "opts": [
-    "school-aged boys",
-    "high school aged girls",
-    "school-aged youths",
-    "school-going children"
-   ],
-   "ans": 3,
-   "why": "‘About 720 million **school-age children** live in countries where they are not fully protected by law…’ — ছেলে বা মেয়ে আলাদা নয়, সব শিশু।"
-  },
-  {
-   "q": "What is the key to building peaceful societies?",
-   "opts": [
-    "generosity",
-    "education",
-    "sensitivity",
-    "domination"
-   ],
-   "ans": 1,
-   "why": "‘**Education** is the key to building peaceful societies’ — উদ্ধৃতির প্রথম শব্দেই উত্তর।"
-  },
-  {
-   "q": "Where do half of the students become victims of peer-to-peer violence?",
-   "opts": [
-    "in parks",
-    "in home",
-    "in playground",
-    "in and around school"
-   ],
-   "ans": 3,
-   "why": "‘…from their peers **in and around school**.’ শুধু ‘in school’ নয় — ‘and around’ অংশটুকুও উত্তরের অংশ।"
-  },
-  {
-   "q": "The most serious form of bullying is —",
-   "opts": [
-    "violence involving weapons",
-    "claiming lives",
-    "physical punishment",
-    "both (i) and (ii)"
-   ],
-   "ans": 3,
-   "why": "‘violence involving weapons… continues to **claim lives**’ — অস্ত্রের সহিংসতা ও তাতে প্রাণহানি দুটো একসাথেই সবচেয়ে গুরুতর, তাই both."
-  },
-  {
-   "q": "The report says that students aged between 13 and 15 are becoming —",
-   "opts": [
-    "innocent",
-    "violent",
-    "kind",
-    "benevolent"
-   ],
-   "ans": 1,
-   "why": "৩৯টি শিল্পোন্নত দেশের ১৭ মিলিয়ন কিশোর স্বীকার করেছে যে তারা অন্যদের বুলিং করেছে — অর্থাৎ তারা নিজেরাই সহিংস হয়ে উঠছে।"
-  },
-  {
-   "q": "___ violence has become a concern.",
-   "opts": [
-    "Facebooking",
-    "Online",
-    "Peer-to-peer",
-    "Unarmed"
-   ],
-   "ans": 2,
-   "why": "প্যাসেজের মূল উদ্বেগ ‘peer-to-peer violence’ — বিশ্বের অর্ধেক শিক্ষার্থী এর শিকার। Online bullying তার একটি ধরন মাত্র।"
-  }
- ],
- "shortQ": [
-  {
-   "q": "From your reading of the text, give two examples of the victim and the victimizer.",
-   "a": "The text gives clear examples of both. As victims we find the fifty percent of the world's students aged between thirteen and fifteen — about a hundred and fifty million children — who suffer peer-to-peer violence in and around school, and the thirty-five percent of Bangladeshi students of the same age who reported being bullied or beaten. As victimizers we find the seventeen million young adolescents of thirty-nine industrialised countries who have admitted bullying others at school, and the teachers who give physical punishment in the classroom.",
-   "bn": "ভুক্তভোগীর উদাহরণ: বিশ্বের ১৩–১৫ বছর বয়সী অর্ধেক শিক্ষার্থী (প্রায় ১৫ কোটি) এবং বাংলাদেশের ৩৫ শতাংশ শিক্ষার্থী। নির্যাতনকারীর উদাহরণ: ৩৯টি শিল্পোন্নত দেশের ১ কোটি ৭০ লক্ষ কিশোর, যারা অন্যদের বুলিং করার কথা স্বীকার করেছে, এবং শারীরিক শাস্তিদানকারী শিক্ষকেরা।"
-  },
-  {
-   "q": "Who are more vulnerable — boys or girls? Give reasons in favour of your answer.",
-   "a": "According to the report, girls and boys are equally at risk of bullying, so neither group is safer than the other; the difference lies only in the kind of suffering. Girls are more likely to become the victims of psychological forms of bullying, such as insults, rumours and humiliation, whose wounds are invisible but long-lasting. Boys, on the other hand, are more at risk of physical violence and threats. In my opinion girls are finally more vulnerable, because psychological injury is harder to detect and to cure.",
-   "bn": "প্রতিবেদন অনুযায়ী ছেলে ও মেয়ে সমানভাবে ঝুঁকিতে; পার্থক্য কেবল ধরনে। মেয়েরা বেশি শিকার হয় মানসিক উত্ত্যক্তকরণের, আর ছেলেরা শারীরিক সহিংসতা ও হুমকির। আমার মতে মেয়েরাই শেষ পর্যন্ত বেশি ঝুঁকিপূর্ণ, কারণ মানসিক আঘাত বাইরে থেকে বোঝা যায় না এবং সারতেও বেশি সময় লাগে।"
-  },
-  {
-   "q": "Show how the statistics of bullying vary between Bangladesh and the global context.",
-   "a": "The figures show that the problem is far wider in the world than in Bangladesh. In Bangladesh thirty-five percent of students between thirteen and fifteen reported being bullied or being involved in a physical fight in 2014. Globally, however, the rate is about fifty percent — nearly one hundred and fifty million children of the same age suffer peer-to-peer violence. Again, slightly more than one in three students worldwide say they face bullying and about one in three has joined a physical fight. So Bangladesh's rate, though alarming, is lower than the global average.",
-   "bn": "পরিসংখ্যান দেখায় সমস্যাটি বাংলাদেশের চেয়ে বিশ্বে অনেক ব্যাপক। বাংলাদেশে ২০১৪ সালে ৩৫ শতাংশ শিক্ষার্থী বুলিং বা সংঘর্ষের কথা জানিয়েছে, অথচ বিশ্বে এই হার প্রায় ৫০ শতাংশ (প্রায় ১৫ কোটি শিশু)। অর্থাৎ বাংলাদেশের হার উদ্বেগজনক হলেও বৈশ্বিক গড়ের চেয়ে কম।"
-  },
-  {
-   "q": "What are the findings of the report released by UNICEF?",
-   "a": "The UNICEF report, based on data from a hundred and twenty-two countries, has several findings. Half of the students aged between thirteen and fifteen — about a hundred and fifty million — face peer-to-peer violence in and around school. Students also suffer attacks in classrooms and physical punishment by teachers, and about seven hundred and twenty million children live in countries where the law does not fully protect them. Girls suffer more psychological bullying and boys more physical violence, weapons continue to claim lives in schools, and in the digital world humiliating content is spread at the click of a button.",
-   "bn": "১২২টি দেশের তথ্যভিত্তিক এই প্রতিবেদনের প্রধান ফলাফল: ১৩–১৫ বছর বয়সী অর্ধেক শিক্ষার্থী (প্রায় ১৫ কোটি) সমবয়সীদের সহিংসতার শিকার; শ্রেণিকক্ষে আক্রমণ ও শিক্ষকের শারীরিক শাস্তিও চলছে; ৭২ কোটি শিশু আইনি সুরক্ষার বাইরে; মেয়েরা মানসিক ও ছেলেরা শারীরিক সহিংসতার শিকার বেশি; অস্ত্র ও অনলাইন বুলিং নতুন উদ্বেগ।"
-  },
-  {
-   "q": "“Every day, students face multiple dangers.” — What are the dangers and what are the impacts of the dangers?",
-   "a": "According to Henrietta Fore, the dangers are many: fighting, pressure to join gangs, bullying both in person and online, violent discipline, sexual harassment and armed violence. Their impacts are of two kinds. In the short term they damage the students' learning, for a frightened child cannot concentrate on study. In the long term they may lead to depression, anxiety and even suicide. That is why she calls violence an unforgettable lesson that no child needs to learn.",
-   "bn": "হেনরিয়েটা ফোর-এর মতে বিপদগুলো হলো — মারামারি, দলে যোগ দেওয়ার চাপ, সরাসরি ও অনলাইনে উত্ত্যক্তকরণ, সহিংস শাস্তি, যৌন হয়রানি ও সশস্ত্র সহিংসতা। এর প্রভাব দুই রকম: স্বল্প মেয়াদে শেখার ক্ষতি, দীর্ঘ মেয়াদে বিষণ্নতা, উদ্বেগ ও আত্মহত্যা।"
-  }
- ],
- "table": {
-  "headers": [
-   "What / Who",
-   "Events / Occurrences",
-   "What / Where",
-   "When / How"
   ],
-  "rows": [
-   [
-    "A new report says",
-    "35 percent students aged between 13 and 15 got bullied or got involved in a physical fight",
-    "(i) @in Bangladesh",
-    "in 2014"
-   ],
-   [
-    "(ii) @Half of the students aged between 13 and 15 (around 150 million)",
-    "experienced peer-to-peer violence",
-    "(iii) @in and around school",
-    "globally / worldwide"
-   ],
-   [
-    "Students",
-    "(iv) @experience other forms of violence such as attacks in classrooms",
-    "at schools",
-    "according to the report"
-   ],
-   [
-    "720 million school-aged children",
-    "(v) @are not fully protected by law",
-    "(vi) @against forms of physical punishment at school",
-    "in the countries where they live"
-   ],
-   [
-    "(vii) @Students",
-    "face multiple dangers",
-    "(viii) @including fighting, bullying, sexual harassment and armed violence",
-    "every day"
-   ],
-   [
-    "Teachers",
-    "(ix) @give physical punishment to the students",
-    "(x) @in the classroom / at school",
-    "as a form of violence"
-   ]
+  "passage": [
+    {
+      "tag": "Paragraph 1 — The figures",
+      "s": [
+        {
+          "en": "In Bangladesh, ==35 percent== of students aged between 13 and 15 reported being ==bullied== one or more days in 30 days or involved in a physical fight at least once in 12 months in ==2014==, says a new report.",
+          "bn": "একটি নতুন প্রতিবেদন বলছে, বাংলাদেশে ১৩ থেকে ১৫ বছর বয়সী শিক্ষার্থীদের ==৩৫ শতাংশ== জানিয়েছে যে তারা ==২০১৪ সালে== ৩০ দিনের মধ্যে এক বা একাধিক দিন ==উত্ত্যক্তের (bullying) শিকার== হয়েছে অথবা ১২ মাসে অন্তত একবার শারীরিক সংঘর্ষে জড়িয়েছে।"
+        },
+        {
+          "en": "Globally, ==half of the students== aged between 13 and 15 worldwide — around ==150 million== — report having experienced ==peer-to-peer violence== such as physical fights or forms of bullying, from their ==peers== in and around school, according to the report released by ==UNICEF==.",
+          "bn": "==ইউনিসেফ== প্রকাশিত প্রতিবেদন অনুযায়ী, বিশ্বজুড়ে ১৩ থেকে ১৫ বছর বয়সী শিক্ষার্থীদের ==অর্ধেক== — প্রায় ==১৫ কোটি== — জানিয়েছে যে তারা বিদ্যালয়ে ও তার আশপাশে ==সহপাঠীদের== কাছ থেকে শারীরিক সংঘর্ষ বা নানা ধরনের উত্ত্যক্তকরণের মতো ==সমবয়সীদের সহিংসতার== শিকার হয়েছে।"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — The source of the data",
+      "s": [
+        {
+          "en": "The report is based on data from the *Health Behaviour in School-aged Children: Cross-national Study* and the *Global School-based Student Health Surveys*.",
+          "bn": "প্রতিবেদনটি তৈরি হয়েছে ‘হেলথ বিহেভিয়ার ইন স্কুল-এজড চিলড্রেন: ক্রস-ন্যাশনাল স্টাডি’ এবং ‘গ্লোবাল স্কুল-বেজড স্টুডেন্ট হেলথ সার্ভে’-এর তথ্যের ভিত্তিতে।"
+        },
+        {
+          "en": "The data include ==122 countries==, representing ==51 percent== of the global population of children between 13 and 15.",
+          "bn": "এই তথ্যে ==১২২টি দেশ== অন্তর্ভুক্ত, যা ১৩ থেকে ১৫ বছর বয়সী শিশুদের বৈশ্বিক জনসংখ্যার ==৫১ শতাংশের== প্রতিনিধিত্ব করে।"
+        },
+        {
+          "en": "The report finds that students experience other forms of violence at school, such as ==attacks in classrooms== or ==physical punishment by teachers==.",
+          "bn": "প্রতিবেদনে দেখা যায়, শিক্ষার্থীরা বিদ্যালয়ে আরও নানা ধরনের সহিংসতার শিকার হয়, যেমন ==শ্রেণিকক্ষে আক্রমণ== অথবা ==শিক্ষকের শারীরিক শাস্তি==।"
+        },
+        {
+          "en": "About ==720 million school-age children== live in countries where they are ==not fully protected by law== against forms of physical punishment at school, according to the report.",
+          "bn": "প্রতিবেদন অনুযায়ী, প্রায় ==৭২ কোটি বিদ্যালয়গামী শিশু== এমন দেশে বাস করে যেখানে বিদ্যালয়ে শারীরিক শাস্তির বিরুদ্ধে তারা ==আইন দ্বারা পুরোপুরি সুরক্ষিত নয়==।"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — What UNICEF's Executive Director said",
+      "s": [
+        {
+          "en": "“Education is the ==key to building peaceful societies==, and yet, for millions of children around the world, ==school itself is not safe==,” said UNICEF Executive Director ==Henrietta Fore==.",
+          "bn": "ইউনিসেফের নির্বাহী পরিচালক ==হেনরিয়েটা ফোর== বলেন, “শিক্ষা হলো ==শান্তিপূর্ণ সমাজ গড়ার চাবিকাঠি==, অথচ বিশ্বের লক্ষ লক্ষ শিশুর জন্য ==বিদ্যালয় নিজেই নিরাপদ নয়==।”"
+        },
+        {
+          "en": "“Every day, students face ==multiple dangers==, including fighting, pressure to join gangs, bullying — both in person and online — ==violent discipline==, ==sexual harassment== and ==armed violence==.”",
+          "bn": "“প্রতিদিন শিক্ষার্থীরা ==নানাবিধ বিপদের== মুখোমুখি হয় — মারামারি, দলে যোগ দেওয়ার চাপ, সরাসরি ও অনলাইনে উত্ত্যক্তকরণ, ==সহিংস শাস্তি==, ==যৌন হয়রানি== এবং ==সশস্ত্র সহিংসতা==।”"
+        },
+        {
+          "en": "“In the short-term this ==impacts their learning==, and in the long-term it can lead to ==depression, anxiety and even suicide==.”",
+          "bn": "“স্বল্প মেয়াদে এটি তাদের ==শেখার ওপর প্রভাব ফেলে==, আর দীর্ঘ মেয়াদে এটি ==বিষণ্নতা, উদ্বেগ, এমনকি আত্মহত্যার== দিকে নিয়ে যেতে পারে।”"
+        },
+        {
+          "en": "“Violence is an ==unforgettable lesson== that no child needs to learn.”",
+          "bn": "“সহিংসতা এমন এক ==অবিস্মরণীয় শিক্ষা==, যা কোনো শিশুরই শেখার প্রয়োজন নেই।”"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 4 — Who bullies whom",
+      "s": [
+        {
+          "en": "Globally, slightly more than ==one in three students== between 13 and 15 said they experience bullying, according to the report.",
+          "bn": "প্রতিবেদন অনুযায়ী বিশ্বজুড়ে ১৩ থেকে ১৫ বছর বয়সী শিক্ষার্থীদের ==প্রতি তিনজনের একজনেরও কিছু বেশি== জানিয়েছে যে তারা উত্ত্যক্তের শিকার হয়।"
+        },
+        {
+          "en": "About ==one in three== has been involved in physical fights.",
+          "bn": "প্রায় ==প্রতি তিনজনের একজন== শারীরিক সংঘর্ষে জড়িয়েছে।"
+        },
+        {
+          "en": "On the other hand, ==17 million== young adolescents in ==39 industrialised countries== have ==admitted bullying others== at school, according to the report.",
+          "bn": "অন্যদিকে, ==৩৯টি শিল্পোন্নত দেশের ১ কোটি ৭০ লক্ষ== কিশোর-কিশোরী স্বীকার করেছে যে তারা বিদ্যালয়ে ==অন্যদের উত্ত্যক্ত করেছে==।"
+        },
+        {
+          "en": "While girls and boys are ==equally at risk== of bullying, girls are more likely to become victims of ==psychological forms== of bullying and boys are more at risk of ==physical violence and threats==.",
+          "bn": "যদিও ছেলে ও মেয়ে ==সমানভাবে ঝুঁকিতে== থাকে, মেয়েরা বেশি শিকার হয় ==মানসিক ধরনের== উত্ত্যক্তকরণের এবং ছেলেরা বেশি ঝুঁকিতে থাকে ==শারীরিক সহিংসতা ও হুমকির==।"
+        },
+        {
+          "en": "The report notes that ==violence involving weapons== in schools, such as knives and guns, ==continues to claim lives==.",
+          "bn": "প্রতিবেদনে উল্লেখ করা হয়, বিদ্যালয়ে ছুরি ও বন্দুকের মতো ==অস্ত্রসংশ্লিষ্ট সহিংসতা== এখনো ==প্রাণ কেড়ে নিচ্ছে==।"
+        },
+        {
+          "en": "It also says that in an increasingly ==digital world==, bullies are ==disseminating== violent, hurtful and ==humiliating content== with the click of a button.",
+          "bn": "এতে আরও বলা হয়, ক্রমবর্ধমান ==ডিজিটাল দুনিয়ায়== উত্ত্যক্তকারীরা কেবল একটি বোতামের ক্লিকেই সহিংস, কষ্টদায়ক ও ==অপমানজনক বিষয়বস্তু ছড়িয়ে দিচ্ছে==।"
+        }
+      ]
+    }
   ],
-  "note": "Report-based টেবিলে ‘according to the report’, ‘globally’, ‘every day’ — এই সময়/উৎস-সূচক শব্দগুলো ঠিক কলামে বসাতে হয়।"
- },
- "flow": {
-  "title": "Types of Bullying &amp; School Violence — উত্ত্যক্তকরণের ধরনসমূহ",
-  "items": [
-   {
-    "t": "Physical fight",
-    "bn": "শারীরিক সংঘর্ষ (দেওয়া আছে)"
-   },
-   {
-    "t": "Attacks in classrooms",
-    "bn": "শ্রেণিকক্ষে আক্রমণ"
-   },
-   {
-    "t": "Physical punishment by teachers (violent discipline)",
-    "bn": "শিক্ষকের শারীরিক শাস্তি"
-   },
-   {
-    "t": "Psychological bullying — insult, rumour, humiliation",
-    "bn": "মানসিক উত্ত্যক্তকরণ (মেয়েরা বেশি শিকার)"
-   },
-   {
-    "t": "Online / cyber bullying — spreading humiliating content",
-    "bn": "অনলাইন বা সাইবার বুলিং"
-   },
-   {
-    "t": "Armed violence with knives and guns",
-    "bn": "ছুরি-বন্দুকসহ সশস্ত্র সহিংসতা"
-   }
-  ]
- },
- "extras": [
-  {
-   "title": "Numbers in the Report <span class='sub'>— প্রতিবেদনের সব সংখ্যা</span>",
-   "key": "Numbers",
-   "table": {
+  "words": [
+    {
+      "w": "bully",
+      "pos": "verb/noun",
+      "pron": "/ˈbʊli/",
+      "bn": "উত্ত্যক্ত করা; উত্ত্যক্তকারী",
+      "en": "to frighten or hurt a weaker person repeatedly",
+      "ex": "35 percent reported being bullied."
+    },
+    {
+      "w": "peer",
+      "pos": "noun",
+      "pron": "/pɪə/",
+      "bn": "সমবয়সী, সহপাঠী",
+      "en": "a person of the same age or position",
+      "ex": "violence from their peers"
+    },
+    {
+      "w": "peer-to-peer violence",
+      "pos": "phrase",
+      "pron": "/pɪə tə pɪə/",
+      "bn": "সমবয়সীদের মধ্যে সহিংসতা",
+      "en": "violence between students of the same age",
+      "ex": "They experienced peer-to-peer violence."
+    },
+    {
+      "w": "cross-national",
+      "pos": "adj",
+      "pron": "/krɒs ˈnæʃnəl/",
+      "bn": "আন্তঃদেশীয়, বহুদেশীয়",
+      "en": "involving several countries",
+      "ex": "a cross-national study"
+    },
+    {
+      "w": "physical punishment",
+      "pos": "phrase",
+      "pron": "/ˈfɪzɪkl/",
+      "bn": "শারীরিক শাস্তি",
+      "en": "punishment that hurts the body",
+      "ex": "physical punishment by teachers"
+    },
+    {
+      "w": "gang",
+      "pos": "noun",
+      "pron": "/ɡæŋ/",
+      "bn": "দল, সংঘবদ্ধ দুর্বৃত্তদল",
+      "en": "an organised group of criminals or youths",
+      "ex": "pressure to join gangs"
+    },
+    {
+      "w": "violent discipline",
+      "pos": "phrase",
+      "pron": "/ˈvaɪələnt/",
+      "bn": "সহিংস শাসন/শাস্তি",
+      "en": "controlling children by hurting them",
+      "ex": "violent discipline at school"
+    },
+    {
+      "w": "harassment",
+      "pos": "noun",
+      "pron": "/ˈhærəsmənt/",
+      "bn": "হয়রানি, উত্ত্যক্তকরণ",
+      "en": "behaviour that annoys or threatens someone",
+      "ex": "sexual harassment"
+    },
+    {
+      "w": "armed violence",
+      "pos": "phrase",
+      "pron": "/ɑːmd/",
+      "bn": "সশস্ত্র সহিংসতা",
+      "en": "violence involving weapons",
+      "ex": "students face armed violence"
+    },
+    {
+      "w": "impact",
+      "pos": "verb/noun",
+      "pron": "/ˈɪmpækt/",
+      "bn": "প্রভাব ফেলা; প্রভাব",
+      "en": "to have a strong effect on something",
+      "ex": "It impacts their learning."
+    },
+    {
+      "w": "depression",
+      "pos": "noun",
+      "pron": "/dɪˈpreʃn/",
+      "bn": "বিষণ্নতা",
+      "en": "a long feeling of sadness and hopelessness",
+      "ex": "It can lead to depression."
+    },
+    {
+      "w": "anxiety",
+      "pos": "noun",
+      "pron": "/æŋˈzaɪəti/",
+      "bn": "উদ্বেগ, দুশ্চিন্তা",
+      "en": "a feeling of worry or fear",
+      "ex": "depression, anxiety and even suicide"
+    },
+    {
+      "w": "industrialised",
+      "pos": "adj",
+      "pron": "/ɪnˈdʌstriəlaɪzd/",
+      "bn": "শিল্পোন্নত",
+      "en": "having many developed industries",
+      "ex": "39 industrialised countries"
+    },
+    {
+      "w": "claim lives",
+      "pos": "idiom",
+      "pron": "/kleɪm/",
+      "bn": "প্রাণ কেড়ে নেওয়া",
+      "en": "to cause deaths",
+      "ex": "Violence continues to claim lives."
+    },
+    {
+      "w": "disseminate",
+      "pos": "verb",
+      "pron": "/dɪˈsemɪneɪt/",
+      "bn": "ছড়িয়ে দেওয়া, প্রচার করা",
+      "en": "to spread information widely",
+      "ex": "Bullies are disseminating hurtful content."
+    },
+    {
+      "w": "humiliating",
+      "pos": "adj",
+      "pron": "/hjuːˈmɪlieɪtɪŋ/",
+      "bn": "অপমানজনক, লজ্জাজনক",
+      "en": "making someone feel ashamed",
+      "ex": "violent, hurtful and humiliating content"
+    }
+  ],
+  "synant": [
+    {
+      "w": "bully",
+      "bn": "উত্ত্যক্ত করা",
+      "syn": [
+        "intimidate",
+        "torment",
+        "harass"
+      ],
+      "ant": [
+        "protect",
+        "encourage",
+        "support"
+      ]
+    },
+    {
+      "w": "violence",
+      "bn": "সহিংসতা",
+      "syn": [
+        "brutality",
+        "aggression",
+        "force"
+      ],
+      "ant": [
+        "peace",
+        "gentleness",
+        "harmony"
+      ]
+    },
+    {
+      "w": "unforgettable",
+      "bn": "অবিস্মরণীয়",
+      "syn": [
+        "memorable",
+        "indelible",
+        "haunting"
+      ],
+      "ant": [
+        "forgettable",
+        "trivial"
+      ]
+    },
+    {
+      "w": "corporeal / physical",
+      "bn": "শারীরিক",
+      "syn": [
+        "bodily",
+        "material",
+        "tangible"
+      ],
+      "ant": [
+        "mental",
+        "spiritual",
+        "psychological"
+      ]
+    },
+    {
+      "w": "protect",
+      "bn": "রক্ষা করা",
+      "syn": [
+        "safeguard",
+        "shield",
+        "defend"
+      ],
+      "ant": [
+        "endanger",
+        "expose",
+        "harm"
+      ]
+    },
+    {
+      "w": "harassment",
+      "bn": "হয়রানি",
+      "syn": [
+        "persecution",
+        "annoyance",
+        "molestation"
+      ],
+      "ant": [
+        "respect",
+        "courtesy"
+      ]
+    },
+    {
+      "w": "disseminate",
+      "bn": "ছড়ানো",
+      "syn": [
+        "spread",
+        "circulate",
+        "broadcast"
+      ],
+      "ant": [
+        "conceal",
+        "suppress",
+        "withhold"
+      ]
+    },
+    {
+      "w": "humiliating",
+      "bn": "অপমানজনক",
+      "syn": [
+        "degrading",
+        "shameful",
+        "mortifying"
+      ],
+      "ant": [
+        "dignifying",
+        "honouring"
+      ]
+    },
+    {
+      "w": "depression",
+      "bn": "বিষণ্নতা",
+      "syn": [
+        "melancholy",
+        "despair",
+        "gloom"
+      ],
+      "ant": [
+        "cheerfulness",
+        "joy",
+        "elation"
+      ]
+    },
+    {
+      "w": "victim",
+      "bn": "ভুক্তভোগী",
+      "syn": [
+        "sufferer",
+        "prey",
+        "casualty"
+      ],
+      "ant": [
+        "victimizer",
+        "offender",
+        "attacker"
+      ]
+    },
+    {
+      "w": "peaceful",
+      "bn": "শান্তিপূর্ণ",
+      "syn": [
+        "tranquil",
+        "calm",
+        "harmonious"
+      ],
+      "ant": [
+        "violent",
+        "turbulent",
+        "chaotic"
+      ]
+    },
+    {
+      "w": "equally",
+      "bn": "সমানভাবে",
+      "syn": [
+        "alike",
+        "evenly",
+        "similarly"
+      ],
+      "ant": [
+        "unequally",
+        "disproportionately"
+      ]
+    }
+  ],
+  "summaryEn": "A new UNICEF report shows that school, which ought to be the safest place for a child, has become a place of fear. In Bangladesh thirty-five percent of students between thirteen and fifteen said in 2014 that they had been bullied within a month or had joined a physical fight within a year, while half of the students of that age in the world — about a hundred and fifty million — reported peer-to-peer violence in and around school. Drawn from two large surveys covering a hundred and twenty-two countries, the report also records attacks in classrooms and physical punishment by teachers, and notes that some seven hundred and twenty million children live where the law does not fully protect them from such punishment. The Executive Director of UNICEF, Henrietta Fore, observed that although education is the key to peaceful societies, school itself is unsafe, for students daily meet fighting, gang pressure, bullying both in person and online, violent discipline, sexual harassment and armed violence, which harm their learning at once and may later cause depression, anxiety and even suicide. Bullying, she said, is an unforgettable lesson no child needs. Girls suffer more from psychological bullying and boys from physical violence; weapons continue to claim lives; and in the digital age humiliating content can be spread at the click of a button.",
+  "summaryBn": "ইউনিসেফের একটি নতুন প্রতিবেদনে দেখা যায়, যে বিদ্যালয়ের হওয়ার কথা ছিল শিশুর সবচেয়ে নিরাপদ জায়গা, সেটিই আজ ভয়ের জায়গা হয়ে উঠেছে। বাংলাদেশে ২০১৪ সালে ১৩–১৫ বছর বয়সী শিক্ষার্থীদের ৩৫ শতাংশ জানিয়েছে যে তারা এক মাসের মধ্যে উত্ত্যক্তের শিকার হয়েছে বা এক বছরে শারীরিক সংঘর্ষে জড়িয়েছে; আর বিশ্বজুড়ে ওই বয়সের অর্ধেক শিক্ষার্থী — প্রায় ১৫ কোটি — বিদ্যালয়ে ও তার আশপাশে সমবয়সীদের সহিংসতার কথা জানিয়েছে। ১২২টি দেশের দুটি বড় জরিপের ভিত্তিতে তৈরি এই প্রতিবেদনে শ্রেণিকক্ষে আক্রমণ ও শিক্ষকের শারীরিক শাস্তির কথাও আছে এবং বলা হয়েছে, প্রায় ৭২ কোটি শিশু এমন দেশে থাকে যেখানে আইন তাদের এসব শাস্তি থেকে পুরোপুরি রক্ষা করে না। ইউনিসেফের নির্বাহী পরিচালক হেনরিয়েটা ফোর বলেন, শিক্ষা শান্তিপূর্ণ সমাজ গড়ার চাবিকাঠি হলেও বিদ্যালয় নিজেই নিরাপদ নয়; শিক্ষার্থীরা প্রতিদিন মারামারি, দলে যোগ দেওয়ার চাপ, সরাসরি ও অনলাইনে উত্ত্যক্তকরণ, সহিংস শাস্তি, যৌন হয়রানি ও সশস্ত্র সহিংসতার মুখোমুখি হয়, যা তাৎক্ষণিকভাবে শেখার ক্ষতি করে এবং পরে বিষণ্নতা, উদ্বেগ এমনকি আত্মহত্যার কারণ হতে পারে। মেয়েরা বেশি ভোগে মানসিক উত্ত্যক্তকরণে, ছেলেরা শারীরিক সহিংসতায়; অস্ত্রের সহিংসতা প্রাণ কেড়ে নিচ্ছে এবং ডিজিটাল যুগে এক ক্লিকেই ছড়িয়ে পড়ছে অপমানজনক বিষয়বস্তু।",
+  "summaryTip": "**Report-based passage:** ‘says a new report’, ‘according to the report’ — এই phrase গুলো Summary-তে একবারই লিখো। সব সংখ্যা নয়, সবচেয়ে জোরালো ৩–৪টি সংখ্যা রাখো এবং উদ্ধৃতি indirect করে লেখো।",
+  "mcq": [
+    {
+      "q": "What leads to depression, anxiety and suicide?",
+      "opts": [
+        "facebook",
+        "bullying",
+        "sports",
+        "adda"
+      ],
+      "ans": 1,
+      "why": "‘In the short-term this impacts their learning, and in the long-term it can lead to depression, anxiety and even suicide’ — এখানে ‘this’ বলতে বুলিংসহ সহিংসতাকেই বোঝানো হয়েছে।"
+    },
+    {
+      "q": "What kind of lesson is ‘violence’?",
+      "opts": [
+        "odd lesson",
+        "revengeful lesson",
+        "unforgettable lesson",
+        "meaningful lesson"
+      ],
+      "ans": 2,
+      "why": "হেনরিয়েটা ফোর-এর উক্তি — ‘Violence is an **unforgettable lesson** that no child needs to learn.’"
+    },
+    {
+      "q": "School-going adolescents are involved in ___ fight.",
+      "opts": [
+        "corporeal",
+        "eternal",
+        "dual",
+        "psychological"
+      ],
+      "ans": 0,
+      "why": "প্যাসেজে আছে ‘physical fight’; corporeal মানেই শারীরিক/দৈহিক। Psychological মানে মানসিক — বুলিংয়ের ভিন্ন ধরন।"
+    },
+    {
+      "q": "The name of the threat that is engulfing the school-going adolescents is —",
+      "opts": [
+        "snatching",
+        "bullying",
+        "extortion",
+        "nepotism"
+      ],
+      "ans": 1,
+      "why": "পুরো প্যাসেজের কেন্দ্রীয় বিষয়ই bullying — শিরোনাম-প্রশ্নের উত্তর সবসময় কেন্দ্রীয় বিষয়।"
+    },
+    {
+      "q": "Who are not fully protected by law against physical punishment at school?",
+      "opts": [
+        "school-aged boys",
+        "high school aged girls",
+        "school-aged youths",
+        "school-going children"
+      ],
+      "ans": 3,
+      "why": "‘About 720 million **school-age children** live in countries where they are not fully protected by law…’ — ছেলে বা মেয়ে আলাদা নয়, সব শিশু।"
+    },
+    {
+      "q": "What is the key to building peaceful societies?",
+      "opts": [
+        "generosity",
+        "education",
+        "sensitivity",
+        "domination"
+      ],
+      "ans": 1,
+      "why": "‘**Education** is the key to building peaceful societies’ — উদ্ধৃতির প্রথম শব্দেই উত্তর।"
+    },
+    {
+      "q": "Where do half of the students become victims of peer-to-peer violence?",
+      "opts": [
+        "in parks",
+        "in home",
+        "in playground",
+        "in and around school"
+      ],
+      "ans": 3,
+      "why": "‘…from their peers **in and around school**.’ শুধু ‘in school’ নয় — ‘and around’ অংশটুকুও উত্তরের অংশ।"
+    },
+    {
+      "q": "The most serious form of bullying is —",
+      "opts": [
+        "violence involving weapons",
+        "claiming lives",
+        "physical punishment",
+        "both (i) and (ii)"
+      ],
+      "ans": 3,
+      "why": "‘violence involving weapons… continues to **claim lives**’ — অস্ত্রের সহিংসতা ও তাতে প্রাণহানি দুটো একসাথেই সবচেয়ে গুরুতর, তাই both."
+    },
+    {
+      "q": "The report says that students aged between 13 and 15 are becoming —",
+      "opts": [
+        "innocent",
+        "violent",
+        "kind",
+        "benevolent"
+      ],
+      "ans": 1,
+      "why": "৩৯টি শিল্পোন্নত দেশের ১৭ মিলিয়ন কিশোর স্বীকার করেছে যে তারা অন্যদের বুলিং করেছে — অর্থাৎ তারা নিজেরাই সহিংস হয়ে উঠছে।"
+    },
+    {
+      "q": "___ violence has become a concern.",
+      "opts": [
+        "Facebooking",
+        "Online",
+        "Peer-to-peer",
+        "Unarmed"
+      ],
+      "ans": 2,
+      "why": "প্যাসেজের মূল উদ্বেগ ‘peer-to-peer violence’ — বিশ্বের অর্ধেক শিক্ষার্থী এর শিকার। Online bullying তার একটি ধরন মাত্র।"
+    }
+  ],
+  "shortQ": [
+    {
+      "q": "From your reading of the text, give two examples of the victim and the victimizer.",
+      "a": "The text gives clear examples of both. As victims we find the fifty percent of the world's students aged between thirteen and fifteen — about a hundred and fifty million children — who suffer peer-to-peer violence in and around school, and the thirty-five percent of Bangladeshi students of the same age who reported being bullied or beaten. As victimizers we find the seventeen million young adolescents of thirty-nine industrialised countries who have admitted bullying others at school, and the teachers who give physical punishment in the classroom.",
+      "bn": "ভুক্তভোগীর উদাহরণ: বিশ্বের ১৩–১৫ বছর বয়সী অর্ধেক শিক্ষার্থী (প্রায় ১৫ কোটি) এবং বাংলাদেশের ৩৫ শতাংশ শিক্ষার্থী। নির্যাতনকারীর উদাহরণ: ৩৯টি শিল্পোন্নত দেশের ১ কোটি ৭০ লক্ষ কিশোর, যারা অন্যদের বুলিং করার কথা স্বীকার করেছে, এবং শারীরিক শাস্তিদানকারী শিক্ষকেরা।"
+    },
+    {
+      "q": "Who are more vulnerable — boys or girls? Give reasons in favour of your answer.",
+      "a": "According to the report, girls and boys are equally at risk of bullying, so neither group is safer than the other; the difference lies only in the kind of suffering. Girls are more likely to become the victims of psychological forms of bullying, such as insults, rumours and humiliation, whose wounds are invisible but long-lasting. Boys, on the other hand, are more at risk of physical violence and threats. In my opinion girls are finally more vulnerable, because psychological injury is harder to detect and to cure.",
+      "bn": "প্রতিবেদন অনুযায়ী ছেলে ও মেয়ে সমানভাবে ঝুঁকিতে; পার্থক্য কেবল ধরনে। মেয়েরা বেশি শিকার হয় মানসিক উত্ত্যক্তকরণের, আর ছেলেরা শারীরিক সহিংসতা ও হুমকির। আমার মতে মেয়েরাই শেষ পর্যন্ত বেশি ঝুঁকিপূর্ণ, কারণ মানসিক আঘাত বাইরে থেকে বোঝা যায় না এবং সারতেও বেশি সময় লাগে।"
+    },
+    {
+      "q": "Show how the statistics of bullying vary between Bangladesh and the global context.",
+      "a": "The figures show that the problem is far wider in the world than in Bangladesh. In Bangladesh thirty-five percent of students between thirteen and fifteen reported being bullied or being involved in a physical fight in 2014. Globally, however, the rate is about fifty percent — nearly one hundred and fifty million children of the same age suffer peer-to-peer violence. Again, slightly more than one in three students worldwide say they face bullying and about one in three has joined a physical fight. So Bangladesh's rate, though alarming, is lower than the global average.",
+      "bn": "পরিসংখ্যান দেখায় সমস্যাটি বাংলাদেশের চেয়ে বিশ্বে অনেক ব্যাপক। বাংলাদেশে ২০১৪ সালে ৩৫ শতাংশ শিক্ষার্থী বুলিং বা সংঘর্ষের কথা জানিয়েছে, অথচ বিশ্বে এই হার প্রায় ৫০ শতাংশ (প্রায় ১৫ কোটি শিশু)। অর্থাৎ বাংলাদেশের হার উদ্বেগজনক হলেও বৈশ্বিক গড়ের চেয়ে কম।"
+    },
+    {
+      "q": "What are the findings of the report released by UNICEF?",
+      "a": "The UNICEF report, based on data from a hundred and twenty-two countries, has several findings. Half of the students aged between thirteen and fifteen — about a hundred and fifty million — face peer-to-peer violence in and around school. Students also suffer attacks in classrooms and physical punishment by teachers, and about seven hundred and twenty million children live in countries where the law does not fully protect them. Girls suffer more psychological bullying and boys more physical violence, weapons continue to claim lives in schools, and in the digital world humiliating content is spread at the click of a button.",
+      "bn": "১২২টি দেশের তথ্যভিত্তিক এই প্রতিবেদনের প্রধান ফলাফল: ১৩–১৫ বছর বয়সী অর্ধেক শিক্ষার্থী (প্রায় ১৫ কোটি) সমবয়সীদের সহিংসতার শিকার; শ্রেণিকক্ষে আক্রমণ ও শিক্ষকের শারীরিক শাস্তিও চলছে; ৭২ কোটি শিশু আইনি সুরক্ষার বাইরে; মেয়েরা মানসিক ও ছেলেরা শারীরিক সহিংসতার শিকার বেশি; অস্ত্র ও অনলাইন বুলিং নতুন উদ্বেগ।"
+    },
+    {
+      "q": "“Every day, students face multiple dangers.” — What are the dangers and what are the impacts of the dangers?",
+      "a": "According to Henrietta Fore, the dangers are many: fighting, pressure to join gangs, bullying both in person and online, violent discipline, sexual harassment and armed violence. Their impacts are of two kinds. In the short term they damage the students' learning, for a frightened child cannot concentrate on study. In the long term they may lead to depression, anxiety and even suicide. That is why she calls violence an unforgettable lesson that no child needs to learn.",
+      "bn": "হেনরিয়েটা ফোর-এর মতে বিপদগুলো হলো — মারামারি, দলে যোগ দেওয়ার চাপ, সরাসরি ও অনলাইনে উত্ত্যক্তকরণ, সহিংস শাস্তি, যৌন হয়রানি ও সশস্ত্র সহিংসতা। এর প্রভাব দুই রকম: স্বল্প মেয়াদে শেখার ক্ষতি, দীর্ঘ মেয়াদে বিষণ্নতা, উদ্বেগ ও আত্মহত্যা।"
+    }
+  ],
+  "table": {
     "headers": [
-     "Figure",
-     "What it stands for"
+      "What / Who",
+      "Events / Occurrences",
+      "What / Where",
+      "When / How"
     ],
     "rows": [
-     [
-      "35%",
-      "Students aged 13–15 in Bangladesh bullied or in a physical fight (2014)"
-     ],
-     [
-      "50% / 150 million",
-      "Students aged 13–15 worldwide facing peer-to-peer violence"
-     ],
-     [
-      "122 countries",
-      "Countries covered by the data"
-     ],
-     [
-      "51%",
-      "Share of the global population of children aged 13–15 represented"
-     ],
-     [
-      "720 million",
-      "School-age children not fully protected by law"
-     ],
-     [
-      "More than 1 in 3",
-      "Students worldwide who experience bullying"
-     ],
-     [
-      "About 1 in 3",
-      "Students who have been involved in physical fights"
-     ],
-     [
-      "17 million in 39 countries",
-      "Adolescents who admitted bullying others"
-     ]
-    ]
-   },
-   "note": "এই ৮টি সংখ্যা থেকেই MCQ, Table ও Short Question — তিন জায়গাতেই প্রশ্ন আসে।"
-  },
-  {
-   "title": "Short-term vs Long-term Effects <span class='sub'>— প্রভাব দুই ধরনের</span>",
-   "key": "Effects",
-   "table": {
-    "headers": [
-     "Time frame",
-     "Effect on the student"
+      [
+        "A new report says",
+        "35 percent students aged between 13 and 15 got bullied or got involved in a physical fight",
+        "(i) @in Bangladesh",
+        "in 2014"
+      ],
+      [
+        "(ii) @Half of the students aged between 13 and 15 (around 150 million)",
+        "experienced peer-to-peer violence",
+        "(iii) @in and around school",
+        "globally / worldwide"
+      ],
+      [
+        "Students",
+        "(iv) @experience other forms of violence such as attacks in classrooms",
+        "at schools",
+        "according to the report"
+      ],
+      [
+        "720 million school-aged children",
+        "(v) @are not fully protected by law",
+        "(vi) @against forms of physical punishment at school",
+        "in the countries where they live"
+      ],
+      [
+        "(vii) @Students",
+        "face multiple dangers",
+        "(viii) @including fighting, bullying, sexual harassment and armed violence",
+        "every day"
+      ],
+      [
+        "Teachers",
+        "(ix) @give physical punishment to the students",
+        "(x) @in the classroom / at school",
+        "as a form of violence"
+      ]
     ],
-    "rows": [
-     [
-      "Short term",
-      "Impacts their learning — cannot concentrate, results fall, may leave school"
-     ],
-     [
-      "Long term",
-      "Depression, anxiety and even suicide"
-     ],
-     [
-      "Social effect",
-      "Fear of school; loss of trust; violence learnt as a ‘lesson’"
-     ],
-     [
-      "Digital effect",
-      "Humiliating content spreads instantly at the click of a button"
-     ]
+    "note": "Report-based টেবিলে ‘according to the report’, ‘globally’, ‘every day’ — এই সময়/উৎস-সূচক শব্দগুলো ঠিক কলামে বসাতে হয়।"
+  },
+  "flow": {
+    "title": "Types of Bullying &amp; School Violence — উত্ত্যক্তকরণের ধরনসমূহ",
+    "items": [
+      {
+        "t": "Physical fight",
+        "bn": "শারীরিক সংঘর্ষ (দেওয়া আছে)"
+      },
+      {
+        "t": "Attacks in classrooms",
+        "bn": "শ্রেণিকক্ষে আক্রমণ"
+      },
+      {
+        "t": "Physical punishment by teachers (violent discipline)",
+        "bn": "শিক্ষকের শারীরিক শাস্তি"
+      },
+      {
+        "t": "Psychological bullying — insult, rumour, humiliation",
+        "bn": "মানসিক উত্ত্যক্তকরণ (মেয়েরা বেশি শিকার)"
+      },
+      {
+        "t": "Online / cyber bullying — spreading humiliating content",
+        "bn": "অনলাইন বা সাইবার বুলিং"
+      },
+      {
+        "t": "Armed violence with knives and guns",
+        "bn": "ছুরি-বন্দুকসহ সশস্ত্র সহিংসতা"
+      }
     ]
-   },
-   "note": "‘What are the impacts?’ প্রশ্নে **short-term ও long-term দুটোই** লিখতে হবে — একটি লিখলে অর্ধেক নম্বর।"
-  }
- ],
- "tips": [
-  {
-   "em": "📰",
-   "t": "Report passage = find the source",
-   "d": "‘says a new report’, ‘according to UNICEF’ — কে বলেছে তা চিহ্নিত করো। ‘Who said what’ ধরনের MCQ প্রায় নিশ্চিত।"
   },
-  {
-   "em": "💬",
-   "t": "Quotation = high-value lines",
-   "d": "উদ্ধৃতির ভেতরের বাক্যগুলো থেকেই সবচেয়ে বেশি MCQ হয় (‘Education is the key…’, ‘Violence is an unforgettable lesson’)। মুখস্থ রাখো।"
-  },
-  {
-   "em": "⚖️",
-   "t": "‘Equally at risk’ ≠ same suffering",
-   "d": "ছেলে-মেয়ে সমান ঝুঁকিতে, কিন্তু ধরন আলাদা — এই সূক্ষ্ম পার্থক্যটাই Short Question-এ নম্বর এনে দেয়।"
-  },
-  {
-   "em": "🔢",
-   "t": "Convert figures into words",
-   "d": "Summary-তে ‘150 million’ না লিখে ‘about a hundred and fifty million’ লেখো — ভাষা পরিণত দেখায়।"
-  },
-  {
-   "em": "🖥️",
-   "t": "Don't forget cyber bullying",
-   "type": "warn",
-   "d": "Flow chart-এ শুধু শারীরিক ধরন লিখলে ২ নম্বর কম পাবে — online bullying ও psychological bullying অবশ্যই লিখবে।"
-  },
-  {
-   "em": "✅",
-   "t": "Balanced opinion wins marks",
-   "type": "ok",
-   "d": "‘Who are more vulnerable?’ প্রশ্নে প্যাসেজের তথ্য দিয়ে দুই পক্ষ দেখিয়ে তারপর নিজের মত দাও — এটাই পূর্ণ উত্তর।"
-  }
- ],
- "recap": [
-  "বাংলাদেশে ৩৫%, বিশ্বে ৫০% (≈১৫ কোটি) শিক্ষার্থী সমবয়সীদের সহিংসতার শিকার।",
-  "তথ্যসূত্র: ১২২টি দেশের দুটি বৈশ্বিক জরিপ; প্রকাশক ইউনিসেফ।",
-  "৭২ কোটি শিশু শারীরিক শাস্তির বিরুদ্ধে আইনি সুরক্ষা পায় না।",
-  "প্রভাব: স্বল্প মেয়াদে শেখার ক্ষতি; দীর্ঘ মেয়াদে বিষণ্নতা, উদ্বেগ, আত্মহত্যা।",
-  "মেয়েরা মানসিক, ছেলেরা শারীরিক বুলিংয়ের শিকার বেশি; নতুন হুমকি — সাইবার বুলিং।"
- ],
- "homework": [
-  "প্রতিবেদনের ৮টি সংখ্যা মুখস্থ করবে।",
-  "‘What are the findings of the report?’ — উত্তরটি নিজের ভাষায় লিখবে।",
-  "Flow chart-এর ৬টি ধরন লিখে আনবে।",
-  "Summary ১৩০ শব্দে লিখবে, উদ্ধৃতি indirect করে।"
- ],
- "paper": "paper1",
- "paperName": "HSC English 1st Paper"
+  "extras": [
+    {
+      "title": "Numbers in the Report <span class='sub'>— প্রতিবেদনের সব সংখ্যা</span>",
+      "key": "Numbers",
+      "table": {
+        "headers": [
+          "Figure",
+          "What it stands for"
+        ],
+        "rows": [
+          [
+            "35%",
+            "Students aged 13–15 in Bangladesh bullied or in a physical fight (2014)"
+          ],
+          [
+            "50% / 150 million",
+            "Students aged 13–15 worldwide facing peer-to-peer violence"
+          ],
+          [
+            "122 countries",
+            "Countries covered by the data"
+          ],
+          [
+            "51%",
+            "Share of the global population of children aged 13–15 represented"
+          ],
+          [
+            "720 million",
+            "School-age children not fully protected by law"
+          ],
+          [
+            "More than 1 in 3",
+            "Students worldwide who experience bullying"
+          ],
+          [
+            "About 1 in 3",
+            "Students who have been involved in physical fights"
+          ],
+          [
+            "17 million in 39 countries",
+            "Adolescents who admitted bullying others"
+          ]
+        ]
+      },
+      "note": "এই ৮টি সংখ্যা থেকেই MCQ, Table ও Short Question — তিন জায়গাতেই প্রশ্ন আসে।"
+    },
+    {
+      "title": "Short-term vs Long-term Effects <span class='sub'>— প্রভাব দুই ধরনের</span>",
+      "key": "Effects",
+      "table": {
+        "headers": [
+          "Time frame",
+          "Effect on the student"
+        ],
+        "rows": [
+          [
+            "Short term",
+            "Impacts their learning — cannot concentrate, results fall, may leave school"
+          ],
+          [
+            "Long term",
+            "Depression, anxiety and even suicide"
+          ],
+          [
+            "Social effect",
+            "Fear of school; loss of trust; violence learnt as a ‘lesson’"
+          ],
+          [
+            "Digital effect",
+            "Humiliating content spreads instantly at the click of a button"
+          ]
+        ]
+      },
+      "note": "‘What are the impacts?’ প্রশ্নে **short-term ও long-term দুটোই** লিখতে হবে — একটি লিখলে অর্ধেক নম্বর।"
+    }
+  ],
+  "tips": [
+    {
+      "em": "📰",
+      "t": "Report passage = find the source",
+      "d": "‘says a new report’, ‘according to UNICEF’ — কে বলেছে তা চিহ্নিত করো। ‘Who said what’ ধরনের MCQ প্রায় নিশ্চিত।"
+    },
+    {
+      "em": "💬",
+      "t": "Quotation = high-value lines",
+      "d": "উদ্ধৃতির ভেতরের বাক্যগুলো থেকেই সবচেয়ে বেশি MCQ হয় (‘Education is the key…’, ‘Violence is an unforgettable lesson’)। মুখস্থ রাখো।"
+    },
+    {
+      "em": "⚖️",
+      "t": "‘Equally at risk’ ≠ same suffering",
+      "d": "ছেলে-মেয়ে সমান ঝুঁকিতে, কিন্তু ধরন আলাদা — এই সূক্ষ্ম পার্থক্যটাই Short Question-এ নম্বর এনে দেয়।"
+    },
+    {
+      "em": "🔢",
+      "t": "Convert figures into words",
+      "d": "Summary-তে ‘150 million’ না লিখে ‘about a hundred and fifty million’ লেখো — ভাষা পরিণত দেখায়।"
+    },
+    {
+      "em": "🖥️",
+      "t": "Don't forget cyber bullying",
+      "type": "warn",
+      "d": "Flow chart-এ শুধু শারীরিক ধরন লিখলে ২ নম্বর কম পাবে — online bullying ও psychological bullying অবশ্যই লিখবে।"
+    },
+    {
+      "em": "✅",
+      "t": "Balanced opinion wins marks",
+      "type": "ok",
+      "d": "‘Who are more vulnerable?’ প্রশ্নে প্যাসেজের তথ্য দিয়ে দুই পক্ষ দেখিয়ে তারপর নিজের মত দাও — এটাই পূর্ণ উত্তর।"
+    }
+  ],
+  "recap": [
+    "বাংলাদেশে ৩৫%, বিশ্বে ৫০% (≈১৫ কোটি) শিক্ষার্থী সমবয়সীদের সহিংসতার শিকার।",
+    "তথ্যসূত্র: ১২২টি দেশের দুটি বৈশ্বিক জরিপ; প্রকাশক ইউনিসেফ।",
+    "৭২ কোটি শিশু শারীরিক শাস্তির বিরুদ্ধে আইনি সুরক্ষা পায় না।",
+    "প্রভাব: স্বল্প মেয়াদে শেখার ক্ষতি; দীর্ঘ মেয়াদে বিষণ্নতা, উদ্বেগ, আত্মহত্যা।",
+    "মেয়েরা মানসিক, ছেলেরা শারীরিক বুলিংয়ের শিকার বেশি; নতুন হুমকি — সাইবার বুলিং।"
+  ],
+  "homework": [
+    "প্রতিবেদনের ৮টি সংখ্যা মুখস্থ করবে।",
+    "‘What are the findings of the report?’ — উত্তরটি নিজের ভাষায় লিখবে।",
+    "Flow chart-এর ৬টি ধরন লিখে আনবে।",
+    "Summary ১৩০ শব্দে লিখবে, উদ্ধৃতি indirect করে।"
+  ],
+  "paper": "paper1",
+  "paperName": "HSC English 1st Paper",
+  "lesson": 4
 }

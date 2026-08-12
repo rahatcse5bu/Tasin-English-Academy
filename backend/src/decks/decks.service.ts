@@ -4,6 +4,7 @@ import { Model } from 'mongoose';
 import { Deck as DeckContent, DECKS, MANIFEST } from './decks.data';
 import { Deck as DeckDoc, DeckDocument } from './schemas/deck.schema';
 import { seedDecks } from './decks.seed';
+import { PlacementDto, UnitDto } from './decks.dto';
 
 /**
  * How many things a mentor can actually teach from this chapter.
@@ -68,7 +69,7 @@ export class DecksService implements OnModuleInit {
   private async published() {
     return this.model
       .find({ isPublished: true })
-      .sort({ paperOrder: 1, unitOrder: 1, order: 1 })
+      .sort({ paperOrder: 1, unitOrder: 1, lessonNo: 1, order: 1 })
       .lean();
   }
 
@@ -98,6 +99,7 @@ export class DecksService implements OnModuleInit {
           nameBn: d.unitNameBn,
           em: d.unitEm,
           accent: d.unitAccent,
+          order: d.unitOrder,
           chapters: [],
         };
         paper.units.push(unit);
@@ -109,6 +111,9 @@ export class DecksService implements OnModuleInit {
         titleBn: d.titleBn,
         tag: d.tag,
         level: d.level,
+        lesson: d.lessonNo ?? null,
+        lessonName: d.lessonName ?? null,
+        order: d.order,
         available: true,
         minutes: d.minutes ?? null,
         marks: d.marks ?? null,
@@ -135,6 +140,7 @@ export class DecksService implements OnModuleInit {
       unit: d.unitNo,
       unitName: d.unitName,
       unitNameBn: d.unitNameBn,
+      lesson: d.lessonNo ?? null,
       em: d.unitEm,
     }));
   }
@@ -147,7 +153,16 @@ export class DecksService implements OnModuleInit {
       if (DECKS[id]) return DECKS[id];
       throw new NotFoundException('Deck not found');
     }
-    return d.content as DeckContent;
+    // the placement lives on the document, so a teacher's correction shows up in
+    // the deck's breadcrumb and cover without the content JSON being rewritten
+    return {
+      ...(d.content as DeckContent),
+      unit: d.unitNo,
+      unitName: d.unitName,
+      lesson: d.lessonNo,
+      lessonName: d.lessonName,
+      paperName: d.paperName,
+    } as DeckContent;
   }
 
   /** Previous / next chapter within the same paper, for in-deck navigation. */
@@ -161,6 +176,148 @@ export class DecksService implements OnModuleInit {
       prev: j > 0 ? samePaper[j - 1] : null,
       next: j < samePaper.length - 1 ? samePaper[j + 1] : null,
     };
+  }
+
+  /* ------------------------------------------------------------------
+     Placement editing — a mentor fixes which unit / lesson a chapter sits in
+     ------------------------------------------------------------------ */
+
+  /** "Unit 09" → 9, "Extra 01" → 1 but always after the numbered units. */
+  private static rank(unitNo: string): [number, number] {
+    const n = /(\d+)/.exec(unitNo || '');
+    return [/^extra/i.test(unitNo || '') ? 1 : 0, n ? Number(n[1]) : 0];
+  }
+
+  /**
+   * Renumber `unitOrder` across a paper so the library lists units in ascending
+   * unit number. Units whose `no` carries no number (2nd Paper uses "Part A")
+   * all rank equal and keep their current relative order.
+   */
+  private async resequence(paperId: string) {
+    const docs = await this.model.find({ paperId }).select('unitNo unitName unitOrder').lean();
+
+    const units: { no: string; name: string; order: number }[] = [];
+    for (const d of docs) {
+      if (!units.some((u) => u.no === d.unitNo && u.name === d.unitName)) {
+        units.push({ no: d.unitNo, name: d.unitName, order: d.unitOrder ?? 0 });
+      }
+    }
+
+    units.sort((a, b) => {
+      const [ax, an] = DecksService.rank(a.no);
+      const [bx, bn] = DecksService.rank(b.no);
+      return ax - bx || an - bn || a.order - b.order; // stable for "Part A" style
+    });
+
+    await Promise.all(
+      units.map((u, i) =>
+        this.model.updateMany({ paperId, unitNo: u.no, unitName: u.name }, { $set: { unitOrder: i } }),
+      ),
+    );
+    return units.length;
+  }
+
+  /** The units that currently exist — feeds the "move to unit" dropdown. */
+  async units() {
+    const docs = await this.model
+      .find()
+      .select('paperId paperName unitNo unitName unitNameBn unitEm unitAccent unitOrder lessonNo')
+      .sort({ paperOrder: 1, unitOrder: 1 })
+      .lean();
+
+    const out: any[] = [];
+    for (const d of docs) {
+      let u = out.find((x) => x.paperId === d.paperId && x.no === d.unitNo && x.name === d.unitName);
+      if (!u) {
+        u = {
+          paperId: d.paperId,
+          paperName: d.paperName,
+          no: d.unitNo,
+          name: d.unitName,
+          nameBn: d.unitNameBn ?? '',
+          em: d.unitEm ?? '',
+          accent: d.unitAccent ?? 'navy',
+          order: d.unitOrder ?? 0,
+          chapters: 0,
+          lessons: [] as number[],
+        };
+        out.push(u);
+      }
+      u.chapters++;
+      if (d.lessonNo != null && !u.lessons.includes(d.lessonNo)) u.lessons.push(d.lessonNo);
+    }
+    out.forEach((u) => u.lessons.sort((a: number, b: number) => a - b));
+    return out;
+  }
+
+  /**
+   * Move one chapter: change its unit and/or its lesson number.
+   *
+   * Only the supplied fields change. If the target unit already exists its
+   * name/emoji/accent and `unitOrder` are inherited, so a chapter dragged into
+   * "Unit 09" lands beside its siblings instead of creating a twin unit.
+   */
+  async setPlacement(slug: string, dto: PlacementDto) {
+    const deck: any = await this.model.findOne({ slug });
+    if (!deck) throw new NotFoundException('Deck not found');
+
+    if (dto.unitNo !== undefined || dto.unitName !== undefined) {
+      const no = dto.unitNo ?? deck.unitNo;
+      const name = dto.unitName ?? deck.unitName;
+
+      const sibling: any = await this.model
+        .findOne({ paperId: deck.paperId, unitNo: no, unitName: name, slug: { $ne: slug } })
+        .select('unitNameBn unitEm unitAccent unitOrder')
+        .lean();
+
+      deck.unitNo = no;
+      deck.unitName = name;
+      deck.unitNameBn = dto.unitNameBn ?? sibling?.unitNameBn ?? deck.unitNameBn;
+      deck.unitEm = dto.unitEm ?? sibling?.unitEm ?? deck.unitEm;
+      deck.unitAccent = dto.unitAccent ?? sibling?.unitAccent ?? deck.unitAccent;
+      if (sibling) deck.unitOrder = sibling.unitOrder;
+    } else {
+      if (dto.unitNameBn !== undefined) deck.unitNameBn = dto.unitNameBn;
+      if (dto.unitEm !== undefined) deck.unitEm = dto.unitEm;
+      if (dto.unitAccent !== undefined) deck.unitAccent = dto.unitAccent;
+    }
+
+    if (dto.unitOrder !== undefined) deck.unitOrder = dto.unitOrder;
+    if (dto.lessonNo !== undefined) deck.lessonNo = dto.lessonNo === null ? undefined : dto.lessonNo;
+    if (dto.lessonName !== undefined) deck.lessonName = dto.lessonName || undefined;
+    if (dto.order !== undefined) deck.order = dto.order;
+    if (dto.isPublished !== undefined) deck.isPublished = dto.isPublished;
+
+    deck.placementLocked = true; // survive the next re-seed
+    await deck.save();
+    await this.resequence(deck.paperId);
+
+    this.logger.log(`placement: ${slug} → ${deck.unitNo} / lesson ${deck.lessonNo ?? '-'}`);
+    return this.model.findOne({ slug }).select('-content').lean();
+  }
+
+  /**
+   * Rename or renumber a whole unit in one go — the case that actually comes up
+   * ("Adolescence is Unit 09, not Unit 03"). Unit fields are denormalised onto
+   * every chapter, so all of them must move together.
+   */
+  async setUnit(dto: UnitDto) {
+    const filter = { paperId: dto.paperId, unitNo: dto.unitNo, unitName: dto.unitName };
+    const found = await this.model.countDocuments(filter);
+    if (!found) throw new NotFoundException('Unit not found');
+
+    const set: Record<string, any> = { placementLocked: true };
+    if (dto.newNo !== undefined) set.unitNo = dto.newNo;
+    if (dto.newName !== undefined) set.unitName = dto.newName;
+    if (dto.nameBn !== undefined) set.unitNameBn = dto.nameBn;
+    if (dto.em !== undefined) set.unitEm = dto.em;
+    if (dto.accent !== undefined) set.unitAccent = dto.accent;
+
+    const { modifiedCount } = await this.model.updateMany(filter, { $set: set });
+    await this.resequence(dto.paperId);
+
+    this.logger.log(`unit: ${dto.unitNo} "${dto.unitName}" → ${set.unitNo ?? dto.unitNo} (${modifiedCount} chapters)`);
+    return { chapters: modifiedCount, unitNo: set.unitNo ?? dto.unitNo };
   }
 
   /** Admin/ops: re-import the bundled JSON into Mongo. */

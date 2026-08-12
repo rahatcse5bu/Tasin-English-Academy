@@ -1,6 +1,12 @@
 import { Model } from 'mongoose';
 import { DECKS, MANIFEST } from './decks.data';
 
+/** Fields a teacher can own; the seeder must not overwrite them once locked. */
+const PLACEMENT = [
+  'unitNo', 'unitName', 'unitNameBn', 'unitEm', 'unitAccent', 'unitOrder',
+  'lessonNo', 'lessonName', 'order',
+];
+
 /**
  * Loads the bundled chapter JSON into the `decks` collection.
  *
@@ -51,6 +57,9 @@ export async function seedDecks(
           unitAccent: unit.accent,
           unitOrder: u,
 
+          lessonNo: meta.lesson,
+          lessonName: meta.lessonName,
+
           title: meta.title,
           titleBn: meta.titleBn,
           tag: meta.tag,
@@ -61,10 +70,21 @@ export async function seedDecks(
           content,
         };
 
-        const existing = await model.findOne({ slug: meta.id }).select('_id').lean();
+        const existing: any = await model
+          .findOne({ slug: meta.id })
+          .select('_id placementLocked')
+          .lean();
+
+        // a teacher may have re-assigned this chapter in the app — refresh the
+        // teaching content but keep their unit/lesson placement
+        const set: Record<string, any> = { ...doc };
+        if (existing?.placementLocked) {
+          for (const k of PLACEMENT) delete set[k];
+        }
+
         await model.updateOne(
           { slug: meta.id },
-          { $set: doc, $setOnInsert: { slug: meta.id, isPublished: true } },
+          { $set: set, $setOnInsert: { slug: meta.id, isPublished: true } },
           { upsert: true },
         );
         existing ? updated++ : created++;

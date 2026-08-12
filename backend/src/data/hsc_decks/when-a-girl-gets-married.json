@@ -1,760 +1,761 @@
 {
- "id": "when-a-girl-gets-married",
- "unit": "Unit 03",
- "unitName": "Adolescence",
- "title": "When a Girl Gets Married",
- "titleBn": "বাল্যবিবাহের পরিণতি — কিশোরী ও কিশোরের অবস্থা",
- "lede": "বিয়ের পর একটি মেয়ের স্কুল ছাড়া, চলাফেরার স্বাধীনতা হারানো, অপুষ্টি-রক্তস্বল্পতা, নবজাতক মৃত্যু — এবং কিশোর ছেলেদের ঝুঁকি।",
- "qType": "Seen Passage — Q.1(a+b), 2, 3",
- "minutes": 45,
- "marks": "35",
- "objectives": [
-  {
-   "t": "Follow the two-part structure",
-   "d": "প্যাসেজের প্রথম অংশ মেয়েদের নিয়ে, শেষ অংশ ছেলেদের নিয়ে"
-  },
-  {
-   "t": "Sentence-wise Bangla meaning",
-   "d": "২০টি বাক্যের বাংলা অর্থ"
-  },
-  {
-   "t": "Vocabulary + Synonym / Antonym",
-   "d": "mobility, curtail, neonatal, undernourished…"
-  },
-  {
-   "t": "Statistics &amp; their meaning",
-   "d": "৩ in ৫, ৫০%, ২০.৩% → ২৪.৪% — কোনটা কী বোঝায়"
-  },
-  {
-   "t": "10 MCQ + 5 Short Questions",
-   "d": "ব্যাখ্যাসহ"
-  },
-  {
-   "t": "Summary, Table &amp; Flow Chart",
-   "d": "সম্পূর্ণ সমাধান"
-  }
- ],
- "passage": [
-  {
-   "tag": "Paragraph 1 — Life after marriage",
-   "s": [
+  "id": "when-a-girl-gets-married",
+  "unit": "Unit 09",
+  "unitName": "Adolescence",
+  "title": "When a Girl Gets Married",
+  "titleBn": "বাল্যবিবাহের পরিণতি — কিশোরী ও কিশোরের অবস্থা",
+  "lede": "বিয়ের পর একটি মেয়ের স্কুল ছাড়া, চলাফেরার স্বাধীনতা হারানো, অপুষ্টি-রক্তস্বল্পতা, নবজাতক মৃত্যু — এবং কিশোর ছেলেদের ঝুঁকি।",
+  "qType": "Seen Passage — Q.1(a+b), 2, 3",
+  "minutes": 45,
+  "marks": "35",
+  "objectives": [
     {
-     "en": "When a girl gets married, she usually ==drops out of school== and begins full time work in her in-laws' household.",
-     "bn": "একটি মেয়ের বিয়ে হয়ে গেলে সে সাধারণত ==স্কুল ছেড়ে দেয়== এবং শ্বশুরবাড়ির সংসারে পূর্ণকালীন কাজ শুরু করে।"
+      "t": "Follow the two-part structure",
+      "d": "প্যাসেজের প্রথম অংশ মেয়েদের নিয়ে, শেষ অংশ ছেলেদের নিয়ে"
     },
     {
-     "en": "In the in-laws' house, she is ==marginalized==.",
-     "bn": "শ্বশুরবাড়িতে তাকে ==কোণঠাসা করে রাখা হয়==।"
+      "t": "Sentence-wise Bangla meaning",
+      "d": "২০টি বাক্যের বাংলা অর্থ"
     },
     {
-     "en": "She becomes ==vulnerable== to all forms of abuse, including ==dowry related violence==.",
-     "bn": "সে সব ধরনের নির্যাতনের প্রতি ==অরক্ষিত== হয়ে পড়ে, যার মধ্যে রয়েছে ==যৌতুক-সংক্রান্ত সহিংসতা==।"
+      "t": "Vocabulary + Synonym / Antonym",
+      "d": "mobility, curtail, neonatal, undernourished…"
     },
     {
-     "en": "In Bangladesh, it is still common for a bride's family to pay ==dowry==, despite the practice being ==illegal==.",
-     "bn": "বাংলাদেশে প্রথাটি ==অবৈধ== হওয়া সত্ত্বেও কনের পরিবারের ==যৌতুক== দেওয়া এখনো সাধারণ ঘটনা।"
+      "t": "Statistics &amp; their meaning",
+      "d": "৩ in ৫, ৫০%, ২০.৩% → ২৪.৪% — কোনটা কী বোঝায়"
     },
     {
-     "en": "Dowry demands can also continue after the wedding.",
-     "bn": "যৌতুকের দাবি বিয়ের পরেও চলতে থাকতে পারে।"
+      "t": "10 MCQ + 5 Short Questions",
+      "d": "ব্যাখ্যাসহ"
     },
     {
-     "en": "For an adolescent bride, even if her in-laws are supportive, there are greater health risks in terms of ==pregnancy and child birth==.",
-     "bn": "একজন কিশোরী বধূর ক্ষেত্রে শ্বশুরবাড়ি সহায়ক হলেও ==গর্ভধারণ ও সন্তান জন্মদানে== অধিক স্বাস্থ্যঝুঁকি থাকে।"
-    },
-    {
-     "en": "The majority of adolescent brides and their families are ==uninformed or insufficiently informed== about reproductive health and contraceptives.",
-     "bn": "অধিকাংশ কিশোরী বধূ ও তাদের পরিবার প্রজনন স্বাস্থ্য ও জন্মনিয়ন্ত্রণ সম্পর্কে ==অজ্ঞ বা অপর্যাপ্তভাবে অবহিত==।"
-    },
-    {
-     "en": "The ==maternal mortality rate== for adolescents is ==double the national rate==.",
-     "bn": "কিশোরীদের ==মাতৃমৃত্যুর হার== জাতীয় হারের ==দ্বিগুণ==।"
+      "t": "Summary, Table &amp; Flow Chart",
+      "d": "সম্পূর্ণ সমাধান"
     }
-   ]
-  },
-  {
-   "tag": "Paragraph 2 — Losing mobility, health and information",
-   "s": [
-    {
-     "en": "When adolescent girls are ==pulled out of school==, either for marriage or work, they often lose their ==mobility==, their friends and ==social status==.",
-     "bn": "যখন কিশোরীদের বিয়ে বা কাজের জন্য ==স্কুল থেকে ছাড়িয়ে নেওয়া হয়==, তখন তারা প্রায়ই তাদের ==চলাফেরার স্বাধীনতা==, বন্ধুবান্ধব এবং ==সামাজিক মর্যাদা== হারায়।"
-    },
-    {
-     "en": "The lack of mobility among adolescent girls also ==curtails== their economic and ==non-formal educational== opportunities.",
-     "bn": "কিশোরীদের চলাফেরার স্বাধীনতার অভাব তাদের অর্থনৈতিক ও ==উপানুষ্ঠানিক শিক্ষার== সুযোগও ==সংকুচিত করে==।"
-    },
-    {
-     "en": "Moreover, they lack information about health issues.",
-     "bn": "অধিকন্তু, স্বাস্থ্য-সংক্রান্ত বিষয়ে তাদের তথ্যের অভাব রয়েছে।"
-    },
-    {
-     "en": "According to a study, only about ==three in five adolescents== have even heard of ==HIV==.",
-     "bn": "একটি গবেষণা অনুযায়ী, প্রতি পাঁচজন কিশোর-কিশোরীর মধ্যে মাত্র ==তিনজনই== ==এইচআইভি== সম্পর্কে শুনেছে।"
-    },
-    {
-     "en": "It is also reported that more than ==50 percent== of adolescent girls are ==undernourished== and suffer from ==anaemia==.",
-     "bn": "আরও জানা যায় যে ==৫০ শতাংশেরও বেশি== কিশোরী ==অপুষ্টিতে ভোগে== এবং ==রক্তস্বল্পতায়== আক্রান্ত।"
-    },
-    {
-     "en": "==Adolescent fertility== is also high in Bangladesh.",
-     "bn": "বাংলাদেশে ==কিশোরী প্রজননহারও== বেশি।"
-    },
-    {
-     "en": "The contribution of the adolescent fertility rate to the total fertility rate increased from ==20.3% in 1993 to 24.4% in 2007==.",
-     "bn": "মোট প্রজননহারে কিশোরী প্রজননহারের অবদান ==১৯৯৩ সালের ২০.৩% থেকে বেড়ে ২০০৭ সালে ২৪.৪%== হয়েছে।"
-    },
-    {
-     "en": "Moreover, ==neonatal mortality== is another concern for younger mothers.",
-     "bn": "তদুপরি, ==নবজাতকের মৃত্যু== অল্পবয়সী মায়েদের জন্য আরেকটি উদ্বেগের বিষয়।"
-    }
-   ]
-  },
-  {
-   "tag": "Paragraph 3 — The condition of adolescent boys",
-   "s": [
-    {
-     "en": "While the situation for adolescent boys is ==somewhat better==, many are vulnerable and lack the power to make decisions about their own lives.",
-     "bn": "কিশোর ছেলেদের অবস্থা ==কিছুটা ভালো== হলেও, তাদের অনেকেই ঝুঁকিপূর্ণ অবস্থায় থাকে এবং নিজেদের জীবন সম্পর্কে সিদ্ধান্ত নেওয়ার ক্ষমতা রাখে না।"
-    },
-    {
-     "en": "Many boys who are unable to go to school, or are unemployed, remain ==unaware== of social or health issues.",
-     "bn": "যেসব ছেলে স্কুলে যেতে পারে না বা বেকার, তাদের অনেকেই সামাজিক ও স্বাস্থ্য-বিষয়ে ==অজ্ঞ== থেকে যায়।"
-    },
-    {
-     "en": "They are at ==considerable risk of being drawn into criminal activities==.",
-     "bn": "তারা ==অপরাধমূলক কর্মকাণ্ডে জড়িয়ে পড়ার যথেষ্ট ঝুঁকিতে== থাকে।"
-    },
-    {
-     "en": "They are also more likely to get ==exposed to drugs and alcohol==.",
-     "bn": "তাদের ==মাদক ও মদের সংস্পর্শে== আসার সম্ভাবনাও বেশি।"
-    }
-   ]
-  }
- ],
- "words": [
-  {
-   "w": "marginalize",
-   "pos": "verb",
-   "pron": "/ˈmɑːdʒɪnəlaɪz/",
-   "bn": "কোণঠাসা করা, গুরুত্বহীন করে রাখা",
-   "en": "to treat someone as unimportant",
-   "ex": "In the in-laws' house, she is marginalized."
-  },
-  {
-   "w": "vulnerable",
-   "pos": "adj",
-   "pron": "/ˈvʌlnərəbl/",
-   "bn": "অরক্ষিত, সহজে আক্রান্ত",
-   "en": "easily hurt or attacked",
-   "ex": "She becomes vulnerable to all forms of abuse."
-  },
-  {
-   "w": "abuse",
-   "pos": "noun",
-   "pron": "/əˈbjuːs/",
-   "bn": "নির্যাতন, অপব্যবহার",
-   "en": "cruel or violent treatment",
-   "ex": "all forms of abuse"
-  },
-  {
-   "w": "dowry",
-   "pos": "noun",
-   "pron": "/ˈdaʊri/",
-   "bn": "যৌতুক",
-   "en": "property or money brought by a bride to her husband",
-   "ex": "dowry related violence"
-  },
-  {
-   "w": "mobility",
-   "pos": "noun",
-   "pron": "/məʊˈbɪləti/",
-   "bn": "চলাফেরার স্বাধীনতা/ক্ষমতা",
-   "en": "the ability to move freely",
-   "ex": "They often lose their mobility."
-  },
-  {
-   "w": "curtail",
-   "pos": "verb",
-   "pron": "/kɜːˈteɪl/",
-   "bn": "সংকুচিত করা, কমিয়ে দেওয়া",
-   "en": "to reduce or limit something",
-   "ex": "It curtails their economic opportunities."
-  },
-  {
-   "w": "non-formal education",
-   "pos": "phrase",
-   "pron": "/ˈnɒn ˈfɔːml/",
-   "bn": "উপানুষ্ঠানিক শিক্ষা",
-   "en": "organised learning outside the formal school system",
-   "ex": "non-formal educational opportunities"
-  },
-  {
-   "w": "undernourished",
-   "pos": "adj",
-   "pron": "/ˌʌndəˈnʌrɪʃt/",
-   "bn": "অপুষ্টিতে ভোগা",
-   "en": "not having enough food for good health",
-   "ex": "50 percent of girls are undernourished."
-  },
-  {
-   "w": "anaemia",
-   "pos": "noun",
-   "pron": "/əˈniːmiə/",
-   "bn": "রক্তস্বল্পতা",
-   "en": "a condition of having too few red blood cells",
-   "ex": "They suffer from anaemia."
-  },
-  {
-   "w": "fertility",
-   "pos": "noun",
-   "pron": "/fəˈtɪləti/",
-   "bn": "প্রজননক্ষমতা / জন্মহার",
-   "en": "the rate at which children are born",
-   "ex": "Adolescent fertility is high."
-  },
-  {
-   "w": "neonatal",
-   "pos": "adj",
-   "pron": "/ˌniːəʊˈneɪtl/",
-   "bn": "নবজাতক-সংক্রান্ত",
-   "en": "relating to a newborn baby",
-   "ex": "neonatal mortality"
-  },
-  {
-   "w": "mortality",
-   "pos": "noun",
-   "pron": "/mɔːˈtæləti/",
-   "bn": "মৃত্যুহার",
-   "en": "the number of deaths in a group",
-   "ex": "maternal mortality rate"
-  },
-  {
-   "w": "unemployed",
-   "pos": "adj",
-   "pron": "/ˌʌnɪmˈplɔɪd/",
-   "bn": "বেকার",
-   "en": "without a job",
-   "ex": "Many boys are unemployed."
-  },
-  {
-   "w": "be drawn into",
-   "pos": "phrase",
-   "pron": "/drɔːn/",
-   "bn": "জড়িয়ে পড়া",
-   "en": "to become involved in something unwillingly",
-   "ex": "drawn into criminal activities"
-  },
-  {
-   "w": "expose",
-   "pos": "verb",
-   "pron": "/ɪkˈspəʊz/",
-   "bn": "উন্মুক্ত করা, সংস্পর্শে আনা, প্রকাশ করা",
-   "en": "to make something visible or to put at risk",
-   "ex": "exposed to drugs and alcohol"
-  },
-  {
-   "w": "social status",
-   "pos": "phrase",
-   "pron": "/ˈsəʊʃl ˈsteɪtəs/",
-   "bn": "সামাজিক মর্যাদা",
-   "en": "one's position in society",
-   "ex": "They lose their social status."
-  }
- ],
- "synant": [
-  {
-   "w": "mobility",
-   "bn": "চলাফেরার স্বাধীনতা",
-   "syn": [
-    "movement",
-    "flexibility",
-    "freedom of motion"
-   ],
-   "ant": [
-    "immobility",
-    "stillness",
-    "motionlessness"
-   ]
-  },
-  {
-   "w": "illegal",
-   "bn": "অবৈধ",
-   "syn": [
-    "unlawful",
-    "banned",
-    "prohibited"
-   ],
-   "ant": [
-    "legal",
-    "lawful",
-    "legitimate"
-   ]
-  },
-  {
-   "w": "expose",
-   "bn": "উন্মুক্ত করা",
-   "syn": [
-    "disclose",
-    "reveal",
-    "uncover"
-   ],
-   "ant": [
-    "hide",
-    "conceal",
-    "suppress"
-   ]
-  },
-  {
-   "w": "curtail",
-   "bn": "সংকুচিত করা",
-   "syn": [
-    "reduce",
-    "limit",
-    "restrict"
-   ],
-   "ant": [
-    "extend",
-    "increase",
-    "expand"
-   ]
-  },
-  {
-   "w": "vulnerable",
-   "bn": "অরক্ষিত",
-   "syn": [
-    "susceptible",
-    "exposed",
-    "defenceless"
-   ],
-   "ant": [
-    "protected",
-    "secure",
-    "immune"
-   ]
-  },
-  {
-   "w": "undernourished",
-   "bn": "অপুষ্ট",
-   "syn": [
-    "malnourished",
-    "underfed"
-   ],
-   "ant": [
-    "well-fed",
-    "nourished"
-   ]
-  },
-  {
-   "w": "unaware",
-   "bn": "অজ্ঞ",
-   "syn": [
-    "ignorant",
-    "uninformed",
-    "oblivious"
-   ],
-   "ant": [
-    "aware",
-    "conscious",
-    "informed"
-   ]
-  },
-  {
-   "w": "considerable",
-   "bn": "উল্লেখযোগ্য",
-   "syn": [
-    "significant",
-    "substantial",
-    "great"
-   ],
-   "ant": [
-    "slight",
-    "negligible",
-    "trivial"
-   ]
-  },
-  {
-   "w": "neonatal",
-   "bn": "নবজাতক-সংক্রান্ত",
-   "syn": [
-    "newborn",
-    "infantile"
-   ],
-   "ant": [
-    "adult",
-    "grown-up"
-   ]
-  },
-  {
-   "w": "marginalize",
-   "bn": "কোণঠাসা করা",
-   "syn": [
-    "sideline",
-    "exclude",
-    "belittle"
-   ],
-   "ant": [
-    "include",
-    "honour",
-    "empower"
-   ]
-  },
-  {
-   "w": "supportive",
-   "bn": "সহায়ক",
-   "syn": [
-    "helpful",
-    "encouraging",
-    "caring"
-   ],
-   "ant": [
-    "hostile",
-    "unhelpful",
-    "indifferent"
-   ]
-  },
-  {
-   "w": "concern",
-   "bn": "উদ্বেগ",
-   "syn": [
-    "worry",
-    "anxiety",
-    "issue"
-   ],
-   "ant": [
-    "indifference",
-    "unconcern"
-   ]
-  }
- ],
- "summaryEn": "Marriage puts an adolescent girl in Bangladesh into a life of hardship, because she generally leaves school at once and starts full-time work in her in-laws' house, where she is pushed to the margins and becomes exposed to every kind of abuse, especially dowry violence which continues even after the wedding although dowry is illegal. Even with a kind family, she faces far greater danger in pregnancy and childbirth, since most young brides and their families know very little about reproductive health and contraception, and the maternal death rate among adolescents is twice the national rate. Being pulled out of school for marriage or work, these girls also lose their mobility, their friends and their social position, and this loss of mobility further narrows their economic and non-formal educational chances. Their ignorance of health is alarming: only three in five have even heard of HIV, over half are undernourished and anaemic, adolescent fertility keeps rising — its share of total fertility grew from 20.3 percent in 1993 to 24.4 percent in 2007 — and neonatal death is a further worry for such young mothers. Adolescent boys are somewhat better off, yet many of them cannot decide about their own lives; those who cannot attend school or find work remain ignorant of social and health matters and run a serious risk of drifting into crime, drugs and alcohol.",
- "summaryBn": "বিয়ের পর বাংলাদেশের একটি কিশোরীর জীবন দুর্ভোগে ভরে ওঠে; সে সঙ্গে সঙ্গে স্কুল ছাড়ে এবং শ্বশুরবাড়ির সংসারে পূর্ণকালীন কাজ শুরু করে, যেখানে সে কোণঠাসা হয়ে পড়ে এবং সব ধরনের নির্যাতনের, বিশেষত যৌতুক-সহিংসতার শিকার হয় — যদিও যৌতুক আইনত নিষিদ্ধ, তবু বিয়ের পরেও তার দাবি চলে। শ্বশুরবাড়ি সহায়ক হলেও গর্ভধারণ ও প্রসবে তার ঝুঁকি অনেক বেশি, কারণ অধিকাংশ কিশোরী বধূ ও তাদের পরিবার প্রজনন স্বাস্থ্য সম্পর্কে প্রায় কিছুই জানে না; ফলে কিশোরীদের মাতৃমৃত্যুর হার জাতীয় হারের দ্বিগুণ। বিয়ে বা কাজের জন্য স্কুল থেকে সরিয়ে নেওয়ায় এই মেয়েরা চলাফেরার স্বাধীনতা, বন্ধু ও সামাজিক মর্যাদাও হারায়, আর এই গতিহীনতা তাদের অর্থনৈতিক ও উপানুষ্ঠানিক শিক্ষার সুযোগ আরও সংকুচিত করে। স্বাস্থ্য-বিষয়ে তাদের অজ্ঞতা উদ্বেগজনক — প্রতি পাঁচজনে মাত্র তিনজন এইচআইভির নাম শুনেছে, অর্ধেকেরও বেশি অপুষ্ট ও রক্তস্বল্পতায় আক্রান্ত, কিশোরী প্রজননহার বেড়ে ১৯৯৩ সালের ২০.৩% থেকে ২০০৭ সালে ২৪.৪% হয়েছে এবং নবজাতকের মৃত্যু আরেকটি দুশ্চিন্তা। কিশোর ছেলেদের অবস্থা কিছুটা ভালো হলেও অনেকেই নিজের জীবনের সিদ্ধান্ত নিতে পারে না; যারা স্কুলে যেতে বা কাজ পেতে ব্যর্থ, তারা অজ্ঞ থেকে যায় এবং অপরাধ, মাদক ও মদে জড়িয়ে পড়ার গুরুতর ঝুঁকিতে থাকে।",
- "summaryTip": "**দুই-পক্ষের প্যাসেজ:** এখানে মেয়েদের কথা ১৬ বাক্যে আর ছেলেদের কথা ৪ বাক্যে আছে। Summary-তেও সেই অনুপাত রাখো — মেয়েদের জন্য ৪–৫ বাক্য, ছেলেদের জন্য ১–২ বাক্য। ছেলেদের অংশ বাদ দিলে নম্বর কাটা যাবে।",
- "mcq": [
-  {
-   "q": "What does the word ‘mobility’ in the passage refer to?",
-   "opts": [
-    "motionlessness",
-    "flexibility",
-    "stillness",
-    "immobility"
-   ],
-   "ans": 1,
-   "why": "Mobility = অবাধে চলাফেরার ক্ষমতা/স্বাধীনতা, তাই সবচেয়ে কাছাকাছি flexibility. বাকি তিনটিই (motionlessness, stillness, immobility) সরাসরি বিপরীত অর্থ।"
-  },
-  {
-   "q": "What is the common view of the girls when they get married?",
-   "opts": [
-    "They get opportunity for higher education.",
-    "They usually drop out of school and begin full-time work in their in-laws' household.",
-    "They usually help their parents.",
-    "They usually become the decision maker of their in-laws' house."
-   ],
-   "ans": 1,
-   "why": "প্যাসেজের প্রথম বাক্যেই হুবহু আছে। বাকি option গুলো বাস্তবের উল্টো চিত্র।"
-  },
-  {
-   "q": "For an adolescent bride, even if her in-laws are supportive, there are greater risks in terms of —",
-   "opts": [
-    "child bearing",
-    "nursing of the elders in her in-laws' house",
-    "sending her child to school",
-    "nurturing the child"
-   ],
-   "ans": 0,
-   "why": "‘…greater health risks in terms of **pregnancy and child birth**’ = child bearing (সন্তান ধারণ ও জন্মদান)।"
-  },
-  {
-   "q": "What does the word ‘illegal’ in the passage refer to?",
-   "opts": [
-    "lawful",
-    "authorized",
-    "unlawful",
-    "legitimate"
-   ],
-   "ans": 2,
-   "why": "Illegal = আইনবিরুদ্ধ = unlawful. বাকি তিনটি option একই অর্থে ‘বৈধ’ — অর্থাৎ বিপরীত।"
-  },
-  {
-   "q": "What does the word ‘expose’ in the passage refer to?",
-   "opts": [
-    "hide",
-    "disclose",
-    "refrain",
-    "suppress"
-   ],
-   "ans": 1,
-   "why": "Expose = উন্মুক্ত করা / প্রকাশ করা = disclose. প্যাসেজে ‘exposed to drugs’ মানে মাদকের সংস্পর্শে আসা।"
-  },
-  {
-   "q": "The word ‘neonatal’ is closely related to —",
-   "opts": [
-    "a newborn baby",
-    "a mother",
-    "an adolescent",
-    "a disease"
-   ],
-   "ans": 0,
-   "why": "neo (নতুন) + natal (জন্ম-সংক্রান্ত) = নবজাতক-সংক্রান্ত। মনে রাখো: maternal = মা-সংক্রান্ত, neonatal = নবজাতক-সংক্রান্ত।"
-  },
-  {
-   "q": "Dowry demands can also continue —",
-   "opts": [
-    "after birth",
-    "after marriage",
-    "up to death",
-    "both (ii) and (iii)"
-   ],
-   "ans": 1,
-   "why": "‘Dowry demands can also continue **after the wedding**.’ — প্যাসেজে ‘up to death’ বলা নেই, তাই (iv) নেওয়া যাবে না।"
-  },
-  {
-   "q": "The practice of dowry is ___ in Bangladesh.",
-   "opts": [
-    "legitimate",
-    "heavy",
-    "irregular",
-    "banned"
-   ],
-   "ans": 3,
-   "why": "‘despite the practice being **illegal**’ — অর্থাৎ আইন দ্বারা নিষিদ্ধ = banned. (প্রচলিত হলেও বৈধ নয় — এটাই মূল কথা।)"
-  },
-  {
-   "q": "When does a girl begin full-time work in her husband's family?",
-   "opts": [
-    "when she drops out of school",
-    "comfortable",
-    "when she gets married",
-    "when she is marginalized"
-   ],
-   "ans": 2,
-   "why": "‘**When a girl gets married**, she usually drops out of school and begins full time work…’ — কারণ বিয়ে, ফল স্কুল ছাড়া। কারণটিই উত্তর।"
-  },
-  {
-   "q": "The lack of mobility among adolescent girls results in —",
-   "opts": [
-    "enhancing economic opportunities",
-    "halting economic and educational opportunities",
-    "flourishment of economic condition",
-    "rising social position"
-   ],
-   "ans": 1,
-   "why": "‘The lack of mobility… also **curtails** their economic and non-formal educational opportunities.’ Curtail = সংকুচিত/বন্ধ করা = halting."
-  }
- ],
- "shortQ": [
-  {
-   "q": "Why are adolescent girls pulled out of school?",
-   "a": "Adolescent girls in Bangladesh are pulled out of school mainly for two reasons — either for marriage or for work. In many families marrying off a daughter early is still thought to be a duty, and once she is married she has to begin full-time work in her in-laws' household. Poorer families also withdraw their daughters so that they may earn or help at home. As a result the girls lose not only their education but also their mobility, their friends and their social status.",
-   "bn": "বাংলাদেশে কিশোরীদের স্কুল থেকে সরিয়ে নেওয়া হয় মূলত দুটি কারণে — বিয়ে অথবা কাজ। বিয়ে হয়ে গেলে তাকে শ্বশুরবাড়ির সংসারে পূর্ণকালীন কাজ শুরু করতে হয়; দরিদ্র পরিবারগুলোও উপার্জনের জন্য মেয়েদের স্কুল ছাড়ায়। ফলে তারা শিক্ষার পাশাপাশি চলাফেরার স্বাধীনতা, বন্ধু ও সামাজিক মর্যাদা হারায়।"
-  },
-  {
-   "q": "What major problems do boys face during adolescence?",
-   "a": "Though the situation of adolescent boys is somewhat better than that of girls, they too face serious problems. Many of them are vulnerable and have no power to take decisions about their own lives. Those who cannot go to school or who remain unemployed stay unaware of social and health issues. Consequently, they run a considerable risk of being drawn into criminal activities and are more likely to be exposed to drugs and alcohol.",
-   "bn": "কিশোর ছেলেদের অবস্থা মেয়েদের চেয়ে কিছুটা ভালো হলেও তারাও গুরুতর সমস্যায় পড়ে। অনেকেই নিজের জীবনের সিদ্ধান্ত নিতে পারে না; যারা স্কুলে যেতে পারে না বা বেকার, তারা সামাজিক ও স্বাস্থ্য-বিষয়ে অজ্ঞ থাকে এবং অপরাধ, মাদক ও মদে জড়িয়ে পড়ার ঝুঁকিতে থাকে।"
-  },
-  {
-   "q": "Why should all of us say ‘no’ to drugs?",
-   "a": "We should all say no to drugs because drug addiction destroys a person completely. As the passage shows, unemployed and uneducated adolescent boys easily get exposed to drugs and alcohol and are then drawn into criminal activities. Drugs ruin health, waste money, break families and turn a promising young person into a burden for society. Since adolescents are the core resource of a nation, saving them from drugs means saving the future of the country.",
-   "bn": "আমাদের সবার মাদককে ‘না’ বলা উচিত, কারণ মাদকাসক্তি একজন মানুষকে সম্পূর্ণ ধ্বংস করে দেয়। প্যাসেজ অনুযায়ী বেকার ও অশিক্ষিত কিশোররা সহজেই মাদক ও মদের সংস্পর্শে আসে এবং অপরাধে জড়িয়ে পড়ে। মাদক স্বাস্থ্য নষ্ট করে, অর্থ অপচয় করে, পরিবার ভাঙে — আর কিশোররাই যেহেতু জাতির মূল সম্পদ, তাদের বাঁচানো মানেই দেশের ভবিষ্যৎ বাঁচানো।"
-  },
-  {
-   "q": "Why are adolescent girls the worst sufferers?",
-   "a": "Adolescent girls are the worst sufferers because every problem of adolescence falls upon them twice as heavily. They are married off early, marginalized in the in-laws' house and made vulnerable to abuse including dowry violence. They lose school, mobility, friends and social status, and their economic and non-formal educational opportunities are curtailed. More than fifty percent of them are undernourished and anaemic, most know nothing of reproductive health, and their maternal mortality rate is double the national rate. Boys, by comparison, are in a somewhat better position.",
-   "bn": "কিশোরীরাই সবচেয়ে বেশি ভোগে, কারণ কৈশোরের প্রতিটি সমস্যা তাদের ওপর দ্বিগুণ হয়ে পড়ে। অল্প বয়সে বিয়ে, শ্বশুরবাড়িতে কোণঠাসা হওয়া, যৌতুক-নির্যাতন, স্কুল-বন্ধু-মর্যাদা হারানো, অর্ধেকের বেশি অপুষ্টি ও রক্তস্বল্পতায় ভোগা এবং মাতৃমৃত্যুর হার জাতীয় হারের দ্বিগুণ — সব মিলিয়ে তারাই সবচেয়ে বড় ভুক্তভোগী।"
-  },
-  {
-   "q": "What happens to a girl when she loses mobility?",
-   "a": "When a girl loses her mobility she is virtually confined within four walls. She cannot meet her friends and thus loses her social circle and social status. Her economic opportunities and her chances of non-formal education are curtailed, so she cannot earn or learn. Moreover, she remains without information about health issues — for example, only three in five adolescents have even heard of HIV — and this ignorance later endangers her life during pregnancy.",
-   "bn": "চলাফেরার স্বাধীনতা হারালে একটি মেয়ে কার্যত চার দেয়ালের মধ্যে বন্দি হয়ে পড়ে। বন্ধুদের সঙ্গে মেলামেশা বন্ধ হয়, সামাজিক মর্যাদা কমে; অর্থনৈতিক ও উপানুষ্ঠানিক শিক্ষার সুযোগ সংকুচিত হয়; স্বাস্থ্য-তথ্য থেকেও সে বঞ্চিত থাকে, যা পরে গর্ভাবস্থায় তার জীবন ঝুঁকিতে ফেলে।"
-  }
- ],
- "table": {
-  "headers": [
-   "What / Who",
-   "Source / Event",
-   "Why / What",
-   "Where / Whose"
   ],
-  "rows": [
-   [
-    "(i) @The adolescent girls",
-    "lose their mobility, their friends and (ii) @social status",
-    "because of being pulled out of school",
-    "(iii) @either for marriage or work"
-   ],
-   [
-    "(iv) @Economic and non-formal educational opportunities",
-    "decrease for the adolescent girls",
-    "due to (v) @the lack of mobility",
-    "in Bangladesh"
-   ],
-   [
-    "The adolescent girls",
-    "lack information",
-    "about (vi) @health issues",
-    "in Bangladesh"
-   ],
-   [
-    "About (vii) @two in five adolescents",
-    "according to a study",
-    "have not even heard of (viii) @HIV",
-    "in Bangladesh"
-   ],
-   [
-    "(ix) @Neonatal mortality",
-    "is another concern",
-    "in Bangladesh",
-    "(x) for @younger / adolescent mothers"
-   ]
+  "passage": [
+    {
+      "tag": "Paragraph 1 — Life after marriage",
+      "s": [
+        {
+          "en": "When a girl gets married, she usually ==drops out of school== and begins full time work in her in-laws' household.",
+          "bn": "একটি মেয়ের বিয়ে হয়ে গেলে সে সাধারণত ==স্কুল ছেড়ে দেয়== এবং শ্বশুরবাড়ির সংসারে পূর্ণকালীন কাজ শুরু করে।"
+        },
+        {
+          "en": "In the in-laws' house, she is ==marginalized==.",
+          "bn": "শ্বশুরবাড়িতে তাকে ==কোণঠাসা করে রাখা হয়==।"
+        },
+        {
+          "en": "She becomes ==vulnerable== to all forms of abuse, including ==dowry related violence==.",
+          "bn": "সে সব ধরনের নির্যাতনের প্রতি ==অরক্ষিত== হয়ে পড়ে, যার মধ্যে রয়েছে ==যৌতুক-সংক্রান্ত সহিংসতা==।"
+        },
+        {
+          "en": "In Bangladesh, it is still common for a bride's family to pay ==dowry==, despite the practice being ==illegal==.",
+          "bn": "বাংলাদেশে প্রথাটি ==অবৈধ== হওয়া সত্ত্বেও কনের পরিবারের ==যৌতুক== দেওয়া এখনো সাধারণ ঘটনা।"
+        },
+        {
+          "en": "Dowry demands can also continue after the wedding.",
+          "bn": "যৌতুকের দাবি বিয়ের পরেও চলতে থাকতে পারে।"
+        },
+        {
+          "en": "For an adolescent bride, even if her in-laws are supportive, there are greater health risks in terms of ==pregnancy and child birth==.",
+          "bn": "একজন কিশোরী বধূর ক্ষেত্রে শ্বশুরবাড়ি সহায়ক হলেও ==গর্ভধারণ ও সন্তান জন্মদানে== অধিক স্বাস্থ্যঝুঁকি থাকে।"
+        },
+        {
+          "en": "The majority of adolescent brides and their families are ==uninformed or insufficiently informed== about reproductive health and contraceptives.",
+          "bn": "অধিকাংশ কিশোরী বধূ ও তাদের পরিবার প্রজনন স্বাস্থ্য ও জন্মনিয়ন্ত্রণ সম্পর্কে ==অজ্ঞ বা অপর্যাপ্তভাবে অবহিত==।"
+        },
+        {
+          "en": "The ==maternal mortality rate== for adolescents is ==double the national rate==.",
+          "bn": "কিশোরীদের ==মাতৃমৃত্যুর হার== জাতীয় হারের ==দ্বিগুণ==।"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — Losing mobility, health and information",
+      "s": [
+        {
+          "en": "When adolescent girls are ==pulled out of school==, either for marriage or work, they often lose their ==mobility==, their friends and ==social status==.",
+          "bn": "যখন কিশোরীদের বিয়ে বা কাজের জন্য ==স্কুল থেকে ছাড়িয়ে নেওয়া হয়==, তখন তারা প্রায়ই তাদের ==চলাফেরার স্বাধীনতা==, বন্ধুবান্ধব এবং ==সামাজিক মর্যাদা== হারায়।"
+        },
+        {
+          "en": "The lack of mobility among adolescent girls also ==curtails== their economic and ==non-formal educational== opportunities.",
+          "bn": "কিশোরীদের চলাফেরার স্বাধীনতার অভাব তাদের অর্থনৈতিক ও ==উপানুষ্ঠানিক শিক্ষার== সুযোগও ==সংকুচিত করে==।"
+        },
+        {
+          "en": "Moreover, they lack information about health issues.",
+          "bn": "অধিকন্তু, স্বাস্থ্য-সংক্রান্ত বিষয়ে তাদের তথ্যের অভাব রয়েছে।"
+        },
+        {
+          "en": "According to a study, only about ==three in five adolescents== have even heard of ==HIV==.",
+          "bn": "একটি গবেষণা অনুযায়ী, প্রতি পাঁচজন কিশোর-কিশোরীর মধ্যে মাত্র ==তিনজনই== ==এইচআইভি== সম্পর্কে শুনেছে।"
+        },
+        {
+          "en": "It is also reported that more than ==50 percent== of adolescent girls are ==undernourished== and suffer from ==anaemia==.",
+          "bn": "আরও জানা যায় যে ==৫০ শতাংশেরও বেশি== কিশোরী ==অপুষ্টিতে ভোগে== এবং ==রক্তস্বল্পতায়== আক্রান্ত।"
+        },
+        {
+          "en": "==Adolescent fertility== is also high in Bangladesh.",
+          "bn": "বাংলাদেশে ==কিশোরী প্রজননহারও== বেশি।"
+        },
+        {
+          "en": "The contribution of the adolescent fertility rate to the total fertility rate increased from ==20.3% in 1993 to 24.4% in 2007==.",
+          "bn": "মোট প্রজননহারে কিশোরী প্রজননহারের অবদান ==১৯৯৩ সালের ২০.৩% থেকে বেড়ে ২০০৭ সালে ২৪.৪%== হয়েছে।"
+        },
+        {
+          "en": "Moreover, ==neonatal mortality== is another concern for younger mothers.",
+          "bn": "তদুপরি, ==নবজাতকের মৃত্যু== অল্পবয়সী মায়েদের জন্য আরেকটি উদ্বেগের বিষয়।"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — The condition of adolescent boys",
+      "s": [
+        {
+          "en": "While the situation for adolescent boys is ==somewhat better==, many are vulnerable and lack the power to make decisions about their own lives.",
+          "bn": "কিশোর ছেলেদের অবস্থা ==কিছুটা ভালো== হলেও, তাদের অনেকেই ঝুঁকিপূর্ণ অবস্থায় থাকে এবং নিজেদের জীবন সম্পর্কে সিদ্ধান্ত নেওয়ার ক্ষমতা রাখে না।"
+        },
+        {
+          "en": "Many boys who are unable to go to school, or are unemployed, remain ==unaware== of social or health issues.",
+          "bn": "যেসব ছেলে স্কুলে যেতে পারে না বা বেকার, তাদের অনেকেই সামাজিক ও স্বাস্থ্য-বিষয়ে ==অজ্ঞ== থেকে যায়।"
+        },
+        {
+          "en": "They are at ==considerable risk of being drawn into criminal activities==.",
+          "bn": "তারা ==অপরাধমূলক কর্মকাণ্ডে জড়িয়ে পড়ার যথেষ্ট ঝুঁকিতে== থাকে।"
+        },
+        {
+          "en": "They are also more likely to get ==exposed to drugs and alcohol==.",
+          "bn": "তাদের ==মাদক ও মদের সংস্পর্শে== আসার সম্ভাবনাও বেশি।"
+        }
+      ]
+    }
   ],
-  "note": "সতর্কতা: প্যাসেজে আছে ‘three in five HAVE heard of HIV’, কিন্তু টেবিলে চাওয়া হয়েছে ‘have NOT even heard of’ — তাই উত্তর two in five। এভাবেই বোর্ড ফাঁদ পাতে।"
- },
- "flow": {
-  "title": "Conditions of Adolescent Girls in Bangladesh — কিশোরীদের অবস্থা",
-  "items": [
-   {
-    "t": "Pulling out of school",
-    "bn": "স্কুল থেকে ছাড়িয়ে নেওয়া (দেওয়া আছে)"
-   },
-   {
-    "t": "Losing mobility, friends and social status",
-    "bn": "চলাফেরার স্বাধীনতা, বন্ধু ও সামাজিক মর্যাদা হারানো"
-   },
-   {
-    "t": "Curtailed economic and non-formal educational opportunities",
-    "bn": "অর্থনৈতিক ও উপানুষ্ঠানিক শিক্ষার সুযোগ সংকুচিত"
-   },
-   {
-    "t": "Lacking information about health issues",
-    "bn": "স্বাস্থ্য-তথ্যের অভাব (৫ জনে ৩ জন HIV-এর নাম শুনেছে)"
-   },
-   {
-    "t": "More than 50% undernourished and suffering from anaemia",
-    "bn": "অর্ধেকেরও বেশি অপুষ্ট ও রক্তস্বল্পতায় আক্রান্ত"
-   },
-   {
-    "t": "High adolescent fertility and neonatal mortality",
-    "bn": "কিশোরী প্রজননহার ও নবজাতক মৃত্যুহার বেশি"
-   }
-  ]
- },
- "extras": [
-  {
-   "title": "Girls vs Boys <span class='sub'>— দুই পক্ষের তুলনা (Short Question-এর জন্য)</span>",
-   "key": "Girls vs Boys",
-   "table": {
+  "words": [
+    {
+      "w": "marginalize",
+      "pos": "verb",
+      "pron": "/ˈmɑːdʒɪnəlaɪz/",
+      "bn": "কোণঠাসা করা, গুরুত্বহীন করে রাখা",
+      "en": "to treat someone as unimportant",
+      "ex": "In the in-laws' house, she is marginalized."
+    },
+    {
+      "w": "vulnerable",
+      "pos": "adj",
+      "pron": "/ˈvʌlnərəbl/",
+      "bn": "অরক্ষিত, সহজে আক্রান্ত",
+      "en": "easily hurt or attacked",
+      "ex": "She becomes vulnerable to all forms of abuse."
+    },
+    {
+      "w": "abuse",
+      "pos": "noun",
+      "pron": "/əˈbjuːs/",
+      "bn": "নির্যাতন, অপব্যবহার",
+      "en": "cruel or violent treatment",
+      "ex": "all forms of abuse"
+    },
+    {
+      "w": "dowry",
+      "pos": "noun",
+      "pron": "/ˈdaʊri/",
+      "bn": "যৌতুক",
+      "en": "property or money brought by a bride to her husband",
+      "ex": "dowry related violence"
+    },
+    {
+      "w": "mobility",
+      "pos": "noun",
+      "pron": "/məʊˈbɪləti/",
+      "bn": "চলাফেরার স্বাধীনতা/ক্ষমতা",
+      "en": "the ability to move freely",
+      "ex": "They often lose their mobility."
+    },
+    {
+      "w": "curtail",
+      "pos": "verb",
+      "pron": "/kɜːˈteɪl/",
+      "bn": "সংকুচিত করা, কমিয়ে দেওয়া",
+      "en": "to reduce or limit something",
+      "ex": "It curtails their economic opportunities."
+    },
+    {
+      "w": "non-formal education",
+      "pos": "phrase",
+      "pron": "/ˈnɒn ˈfɔːml/",
+      "bn": "উপানুষ্ঠানিক শিক্ষা",
+      "en": "organised learning outside the formal school system",
+      "ex": "non-formal educational opportunities"
+    },
+    {
+      "w": "undernourished",
+      "pos": "adj",
+      "pron": "/ˌʌndəˈnʌrɪʃt/",
+      "bn": "অপুষ্টিতে ভোগা",
+      "en": "not having enough food for good health",
+      "ex": "50 percent of girls are undernourished."
+    },
+    {
+      "w": "anaemia",
+      "pos": "noun",
+      "pron": "/əˈniːmiə/",
+      "bn": "রক্তস্বল্পতা",
+      "en": "a condition of having too few red blood cells",
+      "ex": "They suffer from anaemia."
+    },
+    {
+      "w": "fertility",
+      "pos": "noun",
+      "pron": "/fəˈtɪləti/",
+      "bn": "প্রজননক্ষমতা / জন্মহার",
+      "en": "the rate at which children are born",
+      "ex": "Adolescent fertility is high."
+    },
+    {
+      "w": "neonatal",
+      "pos": "adj",
+      "pron": "/ˌniːəʊˈneɪtl/",
+      "bn": "নবজাতক-সংক্রান্ত",
+      "en": "relating to a newborn baby",
+      "ex": "neonatal mortality"
+    },
+    {
+      "w": "mortality",
+      "pos": "noun",
+      "pron": "/mɔːˈtæləti/",
+      "bn": "মৃত্যুহার",
+      "en": "the number of deaths in a group",
+      "ex": "maternal mortality rate"
+    },
+    {
+      "w": "unemployed",
+      "pos": "adj",
+      "pron": "/ˌʌnɪmˈplɔɪd/",
+      "bn": "বেকার",
+      "en": "without a job",
+      "ex": "Many boys are unemployed."
+    },
+    {
+      "w": "be drawn into",
+      "pos": "phrase",
+      "pron": "/drɔːn/",
+      "bn": "জড়িয়ে পড়া",
+      "en": "to become involved in something unwillingly",
+      "ex": "drawn into criminal activities"
+    },
+    {
+      "w": "expose",
+      "pos": "verb",
+      "pron": "/ɪkˈspəʊz/",
+      "bn": "উন্মুক্ত করা, সংস্পর্শে আনা, প্রকাশ করা",
+      "en": "to make something visible or to put at risk",
+      "ex": "exposed to drugs and alcohol"
+    },
+    {
+      "w": "social status",
+      "pos": "phrase",
+      "pron": "/ˈsəʊʃl ˈsteɪtəs/",
+      "bn": "সামাজিক মর্যাদা",
+      "en": "one's position in society",
+      "ex": "They lose their social status."
+    }
+  ],
+  "synant": [
+    {
+      "w": "mobility",
+      "bn": "চলাফেরার স্বাধীনতা",
+      "syn": [
+        "movement",
+        "flexibility",
+        "freedom of motion"
+      ],
+      "ant": [
+        "immobility",
+        "stillness",
+        "motionlessness"
+      ]
+    },
+    {
+      "w": "illegal",
+      "bn": "অবৈধ",
+      "syn": [
+        "unlawful",
+        "banned",
+        "prohibited"
+      ],
+      "ant": [
+        "legal",
+        "lawful",
+        "legitimate"
+      ]
+    },
+    {
+      "w": "expose",
+      "bn": "উন্মুক্ত করা",
+      "syn": [
+        "disclose",
+        "reveal",
+        "uncover"
+      ],
+      "ant": [
+        "hide",
+        "conceal",
+        "suppress"
+      ]
+    },
+    {
+      "w": "curtail",
+      "bn": "সংকুচিত করা",
+      "syn": [
+        "reduce",
+        "limit",
+        "restrict"
+      ],
+      "ant": [
+        "extend",
+        "increase",
+        "expand"
+      ]
+    },
+    {
+      "w": "vulnerable",
+      "bn": "অরক্ষিত",
+      "syn": [
+        "susceptible",
+        "exposed",
+        "defenceless"
+      ],
+      "ant": [
+        "protected",
+        "secure",
+        "immune"
+      ]
+    },
+    {
+      "w": "undernourished",
+      "bn": "অপুষ্ট",
+      "syn": [
+        "malnourished",
+        "underfed"
+      ],
+      "ant": [
+        "well-fed",
+        "nourished"
+      ]
+    },
+    {
+      "w": "unaware",
+      "bn": "অজ্ঞ",
+      "syn": [
+        "ignorant",
+        "uninformed",
+        "oblivious"
+      ],
+      "ant": [
+        "aware",
+        "conscious",
+        "informed"
+      ]
+    },
+    {
+      "w": "considerable",
+      "bn": "উল্লেখযোগ্য",
+      "syn": [
+        "significant",
+        "substantial",
+        "great"
+      ],
+      "ant": [
+        "slight",
+        "negligible",
+        "trivial"
+      ]
+    },
+    {
+      "w": "neonatal",
+      "bn": "নবজাতক-সংক্রান্ত",
+      "syn": [
+        "newborn",
+        "infantile"
+      ],
+      "ant": [
+        "adult",
+        "grown-up"
+      ]
+    },
+    {
+      "w": "marginalize",
+      "bn": "কোণঠাসা করা",
+      "syn": [
+        "sideline",
+        "exclude",
+        "belittle"
+      ],
+      "ant": [
+        "include",
+        "honour",
+        "empower"
+      ]
+    },
+    {
+      "w": "supportive",
+      "bn": "সহায়ক",
+      "syn": [
+        "helpful",
+        "encouraging",
+        "caring"
+      ],
+      "ant": [
+        "hostile",
+        "unhelpful",
+        "indifferent"
+      ]
+    },
+    {
+      "w": "concern",
+      "bn": "উদ্বেগ",
+      "syn": [
+        "worry",
+        "anxiety",
+        "issue"
+      ],
+      "ant": [
+        "indifference",
+        "unconcern"
+      ]
+    }
+  ],
+  "summaryEn": "Marriage puts an adolescent girl in Bangladesh into a life of hardship, because she generally leaves school at once and starts full-time work in her in-laws' house, where she is pushed to the margins and becomes exposed to every kind of abuse, especially dowry violence which continues even after the wedding although dowry is illegal. Even with a kind family, she faces far greater danger in pregnancy and childbirth, since most young brides and their families know very little about reproductive health and contraception, and the maternal death rate among adolescents is twice the national rate. Being pulled out of school for marriage or work, these girls also lose their mobility, their friends and their social position, and this loss of mobility further narrows their economic and non-formal educational chances. Their ignorance of health is alarming: only three in five have even heard of HIV, over half are undernourished and anaemic, adolescent fertility keeps rising — its share of total fertility grew from 20.3 percent in 1993 to 24.4 percent in 2007 — and neonatal death is a further worry for such young mothers. Adolescent boys are somewhat better off, yet many of them cannot decide about their own lives; those who cannot attend school or find work remain ignorant of social and health matters and run a serious risk of drifting into crime, drugs and alcohol.",
+  "summaryBn": "বিয়ের পর বাংলাদেশের একটি কিশোরীর জীবন দুর্ভোগে ভরে ওঠে; সে সঙ্গে সঙ্গে স্কুল ছাড়ে এবং শ্বশুরবাড়ির সংসারে পূর্ণকালীন কাজ শুরু করে, যেখানে সে কোণঠাসা হয়ে পড়ে এবং সব ধরনের নির্যাতনের, বিশেষত যৌতুক-সহিংসতার শিকার হয় — যদিও যৌতুক আইনত নিষিদ্ধ, তবু বিয়ের পরেও তার দাবি চলে। শ্বশুরবাড়ি সহায়ক হলেও গর্ভধারণ ও প্রসবে তার ঝুঁকি অনেক বেশি, কারণ অধিকাংশ কিশোরী বধূ ও তাদের পরিবার প্রজনন স্বাস্থ্য সম্পর্কে প্রায় কিছুই জানে না; ফলে কিশোরীদের মাতৃমৃত্যুর হার জাতীয় হারের দ্বিগুণ। বিয়ে বা কাজের জন্য স্কুল থেকে সরিয়ে নেওয়ায় এই মেয়েরা চলাফেরার স্বাধীনতা, বন্ধু ও সামাজিক মর্যাদাও হারায়, আর এই গতিহীনতা তাদের অর্থনৈতিক ও উপানুষ্ঠানিক শিক্ষার সুযোগ আরও সংকুচিত করে। স্বাস্থ্য-বিষয়ে তাদের অজ্ঞতা উদ্বেগজনক — প্রতি পাঁচজনে মাত্র তিনজন এইচআইভির নাম শুনেছে, অর্ধেকেরও বেশি অপুষ্ট ও রক্তস্বল্পতায় আক্রান্ত, কিশোরী প্রজননহার বেড়ে ১৯৯৩ সালের ২০.৩% থেকে ২০০৭ সালে ২৪.৪% হয়েছে এবং নবজাতকের মৃত্যু আরেকটি দুশ্চিন্তা। কিশোর ছেলেদের অবস্থা কিছুটা ভালো হলেও অনেকেই নিজের জীবনের সিদ্ধান্ত নিতে পারে না; যারা স্কুলে যেতে বা কাজ পেতে ব্যর্থ, তারা অজ্ঞ থেকে যায় এবং অপরাধ, মাদক ও মদে জড়িয়ে পড়ার গুরুতর ঝুঁকিতে থাকে।",
+  "summaryTip": "**দুই-পক্ষের প্যাসেজ:** এখানে মেয়েদের কথা ১৬ বাক্যে আর ছেলেদের কথা ৪ বাক্যে আছে। Summary-তেও সেই অনুপাত রাখো — মেয়েদের জন্য ৪–৫ বাক্য, ছেলেদের জন্য ১–২ বাক্য। ছেলেদের অংশ বাদ দিলে নম্বর কাটা যাবে।",
+  "mcq": [
+    {
+      "q": "What does the word ‘mobility’ in the passage refer to?",
+      "opts": [
+        "motionlessness",
+        "flexibility",
+        "stillness",
+        "immobility"
+      ],
+      "ans": 1,
+      "why": "Mobility = অবাধে চলাফেরার ক্ষমতা/স্বাধীনতা, তাই সবচেয়ে কাছাকাছি flexibility. বাকি তিনটিই (motionlessness, stillness, immobility) সরাসরি বিপরীত অর্থ।"
+    },
+    {
+      "q": "What is the common view of the girls when they get married?",
+      "opts": [
+        "They get opportunity for higher education.",
+        "They usually drop out of school and begin full-time work in their in-laws' household.",
+        "They usually help their parents.",
+        "They usually become the decision maker of their in-laws' house."
+      ],
+      "ans": 1,
+      "why": "প্যাসেজের প্রথম বাক্যেই হুবহু আছে। বাকি option গুলো বাস্তবের উল্টো চিত্র।"
+    },
+    {
+      "q": "For an adolescent bride, even if her in-laws are supportive, there are greater risks in terms of —",
+      "opts": [
+        "child bearing",
+        "nursing of the elders in her in-laws' house",
+        "sending her child to school",
+        "nurturing the child"
+      ],
+      "ans": 0,
+      "why": "‘…greater health risks in terms of **pregnancy and child birth**’ = child bearing (সন্তান ধারণ ও জন্মদান)।"
+    },
+    {
+      "q": "What does the word ‘illegal’ in the passage refer to?",
+      "opts": [
+        "lawful",
+        "authorized",
+        "unlawful",
+        "legitimate"
+      ],
+      "ans": 2,
+      "why": "Illegal = আইনবিরুদ্ধ = unlawful. বাকি তিনটি option একই অর্থে ‘বৈধ’ — অর্থাৎ বিপরীত।"
+    },
+    {
+      "q": "What does the word ‘expose’ in the passage refer to?",
+      "opts": [
+        "hide",
+        "disclose",
+        "refrain",
+        "suppress"
+      ],
+      "ans": 1,
+      "why": "Expose = উন্মুক্ত করা / প্রকাশ করা = disclose. প্যাসেজে ‘exposed to drugs’ মানে মাদকের সংস্পর্শে আসা।"
+    },
+    {
+      "q": "The word ‘neonatal’ is closely related to —",
+      "opts": [
+        "a newborn baby",
+        "a mother",
+        "an adolescent",
+        "a disease"
+      ],
+      "ans": 0,
+      "why": "neo (নতুন) + natal (জন্ম-সংক্রান্ত) = নবজাতক-সংক্রান্ত। মনে রাখো: maternal = মা-সংক্রান্ত, neonatal = নবজাতক-সংক্রান্ত।"
+    },
+    {
+      "q": "Dowry demands can also continue —",
+      "opts": [
+        "after birth",
+        "after marriage",
+        "up to death",
+        "both (ii) and (iii)"
+      ],
+      "ans": 1,
+      "why": "‘Dowry demands can also continue **after the wedding**.’ — প্যাসেজে ‘up to death’ বলা নেই, তাই (iv) নেওয়া যাবে না।"
+    },
+    {
+      "q": "The practice of dowry is ___ in Bangladesh.",
+      "opts": [
+        "legitimate",
+        "heavy",
+        "irregular",
+        "banned"
+      ],
+      "ans": 3,
+      "why": "‘despite the practice being **illegal**’ — অর্থাৎ আইন দ্বারা নিষিদ্ধ = banned. (প্রচলিত হলেও বৈধ নয় — এটাই মূল কথা।)"
+    },
+    {
+      "q": "When does a girl begin full-time work in her husband's family?",
+      "opts": [
+        "when she drops out of school",
+        "comfortable",
+        "when she gets married",
+        "when she is marginalized"
+      ],
+      "ans": 2,
+      "why": "‘**When a girl gets married**, she usually drops out of school and begins full time work…’ — কারণ বিয়ে, ফল স্কুল ছাড়া। কারণটিই উত্তর।"
+    },
+    {
+      "q": "The lack of mobility among adolescent girls results in —",
+      "opts": [
+        "enhancing economic opportunities",
+        "halting economic and educational opportunities",
+        "flourishment of economic condition",
+        "rising social position"
+      ],
+      "ans": 1,
+      "why": "‘The lack of mobility… also **curtails** their economic and non-formal educational opportunities.’ Curtail = সংকুচিত/বন্ধ করা = halting."
+    }
+  ],
+  "shortQ": [
+    {
+      "q": "Why are adolescent girls pulled out of school?",
+      "a": "Adolescent girls in Bangladesh are pulled out of school mainly for two reasons — either for marriage or for work. In many families marrying off a daughter early is still thought to be a duty, and once she is married she has to begin full-time work in her in-laws' household. Poorer families also withdraw their daughters so that they may earn or help at home. As a result the girls lose not only their education but also their mobility, their friends and their social status.",
+      "bn": "বাংলাদেশে কিশোরীদের স্কুল থেকে সরিয়ে নেওয়া হয় মূলত দুটি কারণে — বিয়ে অথবা কাজ। বিয়ে হয়ে গেলে তাকে শ্বশুরবাড়ির সংসারে পূর্ণকালীন কাজ শুরু করতে হয়; দরিদ্র পরিবারগুলোও উপার্জনের জন্য মেয়েদের স্কুল ছাড়ায়। ফলে তারা শিক্ষার পাশাপাশি চলাফেরার স্বাধীনতা, বন্ধু ও সামাজিক মর্যাদা হারায়।"
+    },
+    {
+      "q": "What major problems do boys face during adolescence?",
+      "a": "Though the situation of adolescent boys is somewhat better than that of girls, they too face serious problems. Many of them are vulnerable and have no power to take decisions about their own lives. Those who cannot go to school or who remain unemployed stay unaware of social and health issues. Consequently, they run a considerable risk of being drawn into criminal activities and are more likely to be exposed to drugs and alcohol.",
+      "bn": "কিশোর ছেলেদের অবস্থা মেয়েদের চেয়ে কিছুটা ভালো হলেও তারাও গুরুতর সমস্যায় পড়ে। অনেকেই নিজের জীবনের সিদ্ধান্ত নিতে পারে না; যারা স্কুলে যেতে পারে না বা বেকার, তারা সামাজিক ও স্বাস্থ্য-বিষয়ে অজ্ঞ থাকে এবং অপরাধ, মাদক ও মদে জড়িয়ে পড়ার ঝুঁকিতে থাকে।"
+    },
+    {
+      "q": "Why should all of us say ‘no’ to drugs?",
+      "a": "We should all say no to drugs because drug addiction destroys a person completely. As the passage shows, unemployed and uneducated adolescent boys easily get exposed to drugs and alcohol and are then drawn into criminal activities. Drugs ruin health, waste money, break families and turn a promising young person into a burden for society. Since adolescents are the core resource of a nation, saving them from drugs means saving the future of the country.",
+      "bn": "আমাদের সবার মাদককে ‘না’ বলা উচিত, কারণ মাদকাসক্তি একজন মানুষকে সম্পূর্ণ ধ্বংস করে দেয়। প্যাসেজ অনুযায়ী বেকার ও অশিক্ষিত কিশোররা সহজেই মাদক ও মদের সংস্পর্শে আসে এবং অপরাধে জড়িয়ে পড়ে। মাদক স্বাস্থ্য নষ্ট করে, অর্থ অপচয় করে, পরিবার ভাঙে — আর কিশোররাই যেহেতু জাতির মূল সম্পদ, তাদের বাঁচানো মানেই দেশের ভবিষ্যৎ বাঁচানো।"
+    },
+    {
+      "q": "Why are adolescent girls the worst sufferers?",
+      "a": "Adolescent girls are the worst sufferers because every problem of adolescence falls upon them twice as heavily. They are married off early, marginalized in the in-laws' house and made vulnerable to abuse including dowry violence. They lose school, mobility, friends and social status, and their economic and non-formal educational opportunities are curtailed. More than fifty percent of them are undernourished and anaemic, most know nothing of reproductive health, and their maternal mortality rate is double the national rate. Boys, by comparison, are in a somewhat better position.",
+      "bn": "কিশোরীরাই সবচেয়ে বেশি ভোগে, কারণ কৈশোরের প্রতিটি সমস্যা তাদের ওপর দ্বিগুণ হয়ে পড়ে। অল্প বয়সে বিয়ে, শ্বশুরবাড়িতে কোণঠাসা হওয়া, যৌতুক-নির্যাতন, স্কুল-বন্ধু-মর্যাদা হারানো, অর্ধেকের বেশি অপুষ্টি ও রক্তস্বল্পতায় ভোগা এবং মাতৃমৃত্যুর হার জাতীয় হারের দ্বিগুণ — সব মিলিয়ে তারাই সবচেয়ে বড় ভুক্তভোগী।"
+    },
+    {
+      "q": "What happens to a girl when she loses mobility?",
+      "a": "When a girl loses her mobility she is virtually confined within four walls. She cannot meet her friends and thus loses her social circle and social status. Her economic opportunities and her chances of non-formal education are curtailed, so she cannot earn or learn. Moreover, she remains without information about health issues — for example, only three in five adolescents have even heard of HIV — and this ignorance later endangers her life during pregnancy.",
+      "bn": "চলাফেরার স্বাধীনতা হারালে একটি মেয়ে কার্যত চার দেয়ালের মধ্যে বন্দি হয়ে পড়ে। বন্ধুদের সঙ্গে মেলামেশা বন্ধ হয়, সামাজিক মর্যাদা কমে; অর্থনৈতিক ও উপানুষ্ঠানিক শিক্ষার সুযোগ সংকুচিত হয়; স্বাস্থ্য-তথ্য থেকেও সে বঞ্চিত থাকে, যা পরে গর্ভাবস্থায় তার জীবন ঝুঁকিতে ফেলে।"
+    }
+  ],
+  "table": {
     "headers": [
-     "Point",
-     "Adolescent girls",
-     "Adolescent boys"
+      "What / Who",
+      "Source / Event",
+      "Why / What",
+      "Where / Whose"
     ],
     "rows": [
-     [
-      "Overall situation",
-      "Worst sufferers",
-      "Somewhat better"
-     ],
-     [
-      "Education",
-      "Dropped out for marriage or work",
-      "Many unable to go to school"
-     ],
-     [
-      "Freedom",
-      "Lose mobility, friends, social status",
-      "Lack power to decide about their own lives"
-     ],
-     [
-      "Health",
-      "Undernourished, anaemic, high maternal mortality",
-      "Unaware of social and health issues"
-     ],
-     [
-      "Main danger",
-      "Dowry violence, early pregnancy, neonatal death",
-      "Crime, drugs and alcohol"
-     ]
-    ]
-   },
-   "note": "‘Who are more vulnerable — boys or girls?’ ধরনের প্রশ্নে এই টেবিলের যেকোনো ৩টি সারি লিখলেই পূর্ণ নম্বর।"
-  },
-  {
-   "title": "Statistics Decoder <span class='sub'>— কোন সংখ্যা কী বোঝায়</span>",
-   "key": "Statistics",
-   "table": {
-    "headers": [
-     "Figure",
-     "Meaning in the passage"
+      [
+        "(i) @The adolescent girls",
+        "lose their mobility, their friends and (ii) @social status",
+        "because of being pulled out of school",
+        "(iii) @either for marriage or work"
+      ],
+      [
+        "(iv) @Economic and non-formal educational opportunities",
+        "decrease for the adolescent girls",
+        "due to (v) @the lack of mobility",
+        "in Bangladesh"
+      ],
+      [
+        "The adolescent girls",
+        "lack information",
+        "about (vi) @health issues",
+        "in Bangladesh"
+      ],
+      [
+        "About (vii) @two in five adolescents",
+        "according to a study",
+        "have not even heard of (viii) @HIV",
+        "in Bangladesh"
+      ],
+      [
+        "(ix) @Neonatal mortality",
+        "is another concern",
+        "in Bangladesh",
+        "(x) for @younger / adolescent mothers"
+      ]
     ],
-    "rows": [
-     [
-      "3 in 5 adolescents",
-      "Have heard of HIV (so 2 in 5 have NOT)"
-     ],
-     [
-      "More than 50%",
-      "Adolescent girls who are undernourished and anaemic"
-     ],
-     [
-      "20.3% (1993) → 24.4% (2007)",
-      "Share of adolescent fertility in total fertility — it increased"
-     ],
-     [
-      "Double the national rate",
-      "Maternal mortality rate for adolescents"
-     ]
+    "note": "সতর্কতা: প্যাসেজে আছে ‘three in five HAVE heard of HIV’, কিন্তু টেবিলে চাওয়া হয়েছে ‘have NOT even heard of’ — তাই উত্তর two in five। এভাবেই বোর্ড ফাঁদ পাতে।"
+  },
+  "flow": {
+    "title": "Conditions of Adolescent Girls in Bangladesh — কিশোরীদের অবস্থা",
+    "items": [
+      {
+        "t": "Pulling out of school",
+        "bn": "স্কুল থেকে ছাড়িয়ে নেওয়া (দেওয়া আছে)"
+      },
+      {
+        "t": "Losing mobility, friends and social status",
+        "bn": "চলাফেরার স্বাধীনতা, বন্ধু ও সামাজিক মর্যাদা হারানো"
+      },
+      {
+        "t": "Curtailed economic and non-formal educational opportunities",
+        "bn": "অর্থনৈতিক ও উপানুষ্ঠানিক শিক্ষার সুযোগ সংকুচিত"
+      },
+      {
+        "t": "Lacking information about health issues",
+        "bn": "স্বাস্থ্য-তথ্যের অভাব (৫ জনে ৩ জন HIV-এর নাম শুনেছে)"
+      },
+      {
+        "t": "More than 50% undernourished and suffering from anaemia",
+        "bn": "অর্ধেকেরও বেশি অপুষ্ট ও রক্তস্বল্পতায় আক্রান্ত"
+      },
+      {
+        "t": "High adolescent fertility and neonatal mortality",
+        "bn": "কিশোরী প্রজননহার ও নবজাতক মৃত্যুহার বেশি"
+      }
     ]
-   },
-   "note": "‘increased from … to …’ দেখলেই বোঝো অবস্থার **অবনতি** হয়েছে — Short Question-এ এই ব্যাখ্যাটি লিখলে নম্বর বাড়ে।"
-  }
- ],
- "tips": [
-  {
-   "em": "🔄",
-   "t": "Positive ↔ negative flips",
-   "type": "warn",
-   "d": "‘have heard’ vs ‘have NOT heard’ — প্রশ্নে negative আছে কি না দেখে তবেই উত্তর লেখো। এই প্যাসেজে টেবিলেই এমন ফাঁদ আছে।"
   },
-  {
-   "em": "⚖️",
-   "t": "Two-sided passage = two-sided answer",
-   "d": "প্যাসেজে মেয়ে ও ছেলে দুই পক্ষ আছে। ‘Who are more vulnerable?’ প্রশ্নে দুই পক্ষের তুলনা করে তবেই সিদ্ধান্ত লেখো।"
-  },
-  {
-   "em": "📚",
-   "t": "Word roots save you",
-   "d": "neo = নতুন, natal = জন্ম, maternal = মা, mortality = মৃত্যু, fertility = জন্মদান। মূল চিনলে অচেনা শব্দেরও অর্থ বেরিয়ে আসে।"
-  },
-  {
-   "em": "💊",
-   "t": "Opinion questions need balance",
-   "d": "‘Why should we say no to drugs?’ — ব্যক্তিগত মত + প্যাসেজের তথ্য (unemployed boys → drugs → crime) দুটোই লিখতে হবে।"
-  },
-  {
-   "em": "✅",
-   "t": "Use linkers",
-   "type": "ok",
-   "d": "Moreover, As a result, Consequently, On the other hand — এই linker গুলো ব্যবহার করলে উত্তর পরিণত মনে হয় এবং নম্বর বাড়ে।"
-  },
-  {
-   "em": "⏱️",
-   "t": "Don't copy the whole line",
-   "d": "MCQ-এর ব্যাখ্যা লেখার দরকার নেই; শুধু সঠিক option-এ গোল দাও। বাঁচানো সময় Summary-তে দাও।"
-  }
- ],
- "recap": [
-  "বিয়ের পর: স্কুল ছাড়া → কোণঠাসা → যৌতুক-নির্যাতন → গর্ভধারণের ঝুঁকি।",
-  "যৌতুক অবৈধ হলেও প্রচলিত, এবং বিয়ের পরেও দাবি চলতে থাকে।",
-  "Mobility হারালে অর্থনৈতিক ও উপানুষ্ঠানিক শিক্ষার সুযোগও কমে যায়।",
-  "৫ জনে ৩ জন HIV-এর নাম শুনেছে; ৫০%-এর বেশি অপুষ্ট ও রক্তস্বল্প।",
-  "ছেলেদের অবস্থা কিছুটা ভালো, তবু ঝুঁকি — অপরাধ, মাদক ও মদ।"
- ],
- "homework": [
-  "Girls vs Boys তুলনার টেবিলটি খাতায় লিখে আনবে।",
-  "‘Why are adolescent girls the worst sufferers?’ — উত্তরটি নিজের ভাষায় লিখবে।",
-  "Flow chart-এর ৬টি ঘর পূরণ করবে।",
-  "Summary ১৩০ শব্দে লিখে আনবে (ছেলেদের অংশ বাদ দেবে না)।"
- ],
- "paper": "paper1",
- "paperName": "HSC English 1st Paper"
+  "extras": [
+    {
+      "title": "Girls vs Boys <span class='sub'>— দুই পক্ষের তুলনা (Short Question-এর জন্য)</span>",
+      "key": "Girls vs Boys",
+      "table": {
+        "headers": [
+          "Point",
+          "Adolescent girls",
+          "Adolescent boys"
+        ],
+        "rows": [
+          [
+            "Overall situation",
+            "Worst sufferers",
+            "Somewhat better"
+          ],
+          [
+            "Education",
+            "Dropped out for marriage or work",
+            "Many unable to go to school"
+          ],
+          [
+            "Freedom",
+            "Lose mobility, friends, social status",
+            "Lack power to decide about their own lives"
+          ],
+          [
+            "Health",
+            "Undernourished, anaemic, high maternal mortality",
+            "Unaware of social and health issues"
+          ],
+          [
+            "Main danger",
+            "Dowry violence, early pregnancy, neonatal death",
+            "Crime, drugs and alcohol"
+          ]
+        ]
+      },
+      "note": "‘Who are more vulnerable — boys or girls?’ ধরনের প্রশ্নে এই টেবিলের যেকোনো ৩টি সারি লিখলেই পূর্ণ নম্বর।"
+    },
+    {
+      "title": "Statistics Decoder <span class='sub'>— কোন সংখ্যা কী বোঝায়</span>",
+      "key": "Statistics",
+      "table": {
+        "headers": [
+          "Figure",
+          "Meaning in the passage"
+        ],
+        "rows": [
+          [
+            "3 in 5 adolescents",
+            "Have heard of HIV (so 2 in 5 have NOT)"
+          ],
+          [
+            "More than 50%",
+            "Adolescent girls who are undernourished and anaemic"
+          ],
+          [
+            "20.3% (1993) → 24.4% (2007)",
+            "Share of adolescent fertility in total fertility — it increased"
+          ],
+          [
+            "Double the national rate",
+            "Maternal mortality rate for adolescents"
+          ]
+        ]
+      },
+      "note": "‘increased from … to …’ দেখলেই বোঝো অবস্থার **অবনতি** হয়েছে — Short Question-এ এই ব্যাখ্যাটি লিখলে নম্বর বাড়ে।"
+    }
+  ],
+  "tips": [
+    {
+      "em": "🔄",
+      "t": "Positive ↔ negative flips",
+      "type": "warn",
+      "d": "‘have heard’ vs ‘have NOT heard’ — প্রশ্নে negative আছে কি না দেখে তবেই উত্তর লেখো। এই প্যাসেজে টেবিলেই এমন ফাঁদ আছে।"
+    },
+    {
+      "em": "⚖️",
+      "t": "Two-sided passage = two-sided answer",
+      "d": "প্যাসেজে মেয়ে ও ছেলে দুই পক্ষ আছে। ‘Who are more vulnerable?’ প্রশ্নে দুই পক্ষের তুলনা করে তবেই সিদ্ধান্ত লেখো।"
+    },
+    {
+      "em": "📚",
+      "t": "Word roots save you",
+      "d": "neo = নতুন, natal = জন্ম, maternal = মা, mortality = মৃত্যু, fertility = জন্মদান। মূল চিনলে অচেনা শব্দেরও অর্থ বেরিয়ে আসে।"
+    },
+    {
+      "em": "💊",
+      "t": "Opinion questions need balance",
+      "d": "‘Why should we say no to drugs?’ — ব্যক্তিগত মত + প্যাসেজের তথ্য (unemployed boys → drugs → crime) দুটোই লিখতে হবে।"
+    },
+    {
+      "em": "✅",
+      "t": "Use linkers",
+      "type": "ok",
+      "d": "Moreover, As a result, Consequently, On the other hand — এই linker গুলো ব্যবহার করলে উত্তর পরিণত মনে হয় এবং নম্বর বাড়ে।"
+    },
+    {
+      "em": "⏱️",
+      "t": "Don't copy the whole line",
+      "d": "MCQ-এর ব্যাখ্যা লেখার দরকার নেই; শুধু সঠিক option-এ গোল দাও। বাঁচানো সময় Summary-তে দাও।"
+    }
+  ],
+  "recap": [
+    "বিয়ের পর: স্কুল ছাড়া → কোণঠাসা → যৌতুক-নির্যাতন → গর্ভধারণের ঝুঁকি।",
+    "যৌতুক অবৈধ হলেও প্রচলিত, এবং বিয়ের পরেও দাবি চলতে থাকে।",
+    "Mobility হারালে অর্থনৈতিক ও উপানুষ্ঠানিক শিক্ষার সুযোগও কমে যায়।",
+    "৫ জনে ৩ জন HIV-এর নাম শুনেছে; ৫০%-এর বেশি অপুষ্ট ও রক্তস্বল্প।",
+    "ছেলেদের অবস্থা কিছুটা ভালো, তবু ঝুঁকি — অপরাধ, মাদক ও মদ।"
+  ],
+  "homework": [
+    "Girls vs Boys তুলনার টেবিলটি খাতায় লিখে আনবে।",
+    "‘Why are adolescent girls the worst sufferers?’ — উত্তরটি নিজের ভাষায় লিখবে।",
+    "Flow chart-এর ৬টি ঘর পূরণ করবে।",
+    "Summary ১৩০ শব্দে লিখে আনবে (ছেলেদের অংশ বাদ দেবে না)।"
+  ],
+  "paper": "paper1",
+  "paperName": "HSC English 1st Paper",
+  "lesson": 2
 }
