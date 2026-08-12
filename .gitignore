@@ -33,3 +33,6 @@ coverage/
 Thumbs.db
 .vscode/
 .idea/
+
+# source handnotes, not needed at runtime
+backend/src/data/hsc_pdfs/
