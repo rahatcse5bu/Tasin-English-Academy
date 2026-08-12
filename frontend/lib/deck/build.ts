@@ -126,7 +126,7 @@ function sPassage(D: any, lex: Lexicon | null): any[] {
   return out;
 }
 
-function sTranslation(D: any): any[] {
+function sTranslation(D: any, lex: Lexicon | null): any[] {
   var rows = [];
   (D.passage || []).forEach(function (para) {
     (para.s || []).forEach(function (s, i) { rows.push(s); });
@@ -136,7 +136,7 @@ function sTranslation(D: any): any[] {
     var html = grp.map(function (s) {
       n++;
       return '<div class="tr-row"><div class="n">' + n + '</div><div><div class="en">' +
-        fmt(s.en) + '</div><div class="bn">' + fmt(s.bn) + "</div></div></div>";
+        fmtV(s.en, lex) + '</div><div class="bn">' + fmt(s.bn) + "</div></div></div>";
     }).join("");
     return {
       kind: "translation",
@@ -499,7 +499,7 @@ function build(D: Deck): Slide[] {
   s = s.concat(sBoard(D));
   s = s.concat(sDrill(D));
   s = s.concat(sPassage(D, lex));
-  s = s.concat(sTranslation(D));
+  s = s.concat(sTranslation(D, lex));
   s = s.concat(sWords(D));
   s = s.concat(sSynAnt(D));
   s = s.concat(sSummary(D, lex));

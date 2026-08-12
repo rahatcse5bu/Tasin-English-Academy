@@ -55,8 +55,9 @@ export default function WordModal({
       >
         <header className="wm-head">
           <div>
-            <div className="wm-word">{entry.w}</div>
+            <div className={`wm-word${entry.phrase ? ' phrase' : ''}`}>{entry.w}</div>
             <div className="wm-meta">
+              {entry.phrase && <span className="wm-pos">phrase</span>}
               {entry.pos && <span className="wm-pos">{entry.pos}</span>}
               {entry.pron && <span className="wm-pron">{entry.pron}</span>}
             </div>
@@ -95,6 +96,13 @@ export default function WordModal({
                   <div className="wm-chips">{chips(entry.ant, 'ant')}</div>
                 </div>
               )}
+            </section>
+          )}
+
+          {!!entry.parts?.length && (
+            <section>
+              <h4>শব্দ ধরে ধরে</h4>
+              <div className="wm-chips">{chips(entry.parts, 'syn')}</div>
             </section>
           )}
 

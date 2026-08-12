@@ -353,6 +353,10 @@
 
 /* "বাংলা: OFF" — hides translations so learners try first; keeps word meanings visible */
 .tea-deck.hide-bn .tr-row .bn, .tea-deck.hide-bn .qa .a-bn, .tea-deck.hide-bn .sum-bn, .tea-deck.hide-bn .flow-box .bn, .tea-deck.hide-bn .bn-only { display: none !important; }
+/* The mirror of hide-bn: leave only the Bangla, so students supply the English.
+   Scoped to the places where an EN/BN pair sits together — never to the passage
+   or the questions, which would otherwise be blanked out entirely. */
+.tea-deck.hide-en .tr-row .en, .tea-deck.hide-en .sum-en, .tea-deck.hide-en .en-only { display: none !important; }
 
 
 /* ---------- 9. Tables ---------- */
@@ -750,6 +754,13 @@
 .tea-deck mark .wq,
 .tea-deck .hl .wq { border-bottom-color: var(--amber-600); }
 
+/* The whole highlight is clickable for its Bangla; words inside it keep their
+   own link, so a click lands on the word when there is one and on the phrase
+   otherwise. The phrase carries no underline of its own — the highlight is cue enough. */
+.tea-deck .wq-phrase { border-bottom: 0; cursor: help; }
+.tea-deck .wq-phrase:hover { background: transparent; }
+.tea-deck .wq-phrase:hover > :not(.wq) { text-decoration: underline dotted var(--amber-600); }
+
 /* Hover preview — the Bangla meaning, without leaving the passage.
    Fixed rather than absolute: .slide-body scrolls and clips its overflow, so a
    tooltip anchored inside the passage would be cut off on the first line. */
@@ -810,6 +821,8 @@
   color: #fff;
 }
 .tea-deck .wm-word { font-size: 26px; font-weight: 800; line-height: 1.15; }
+/* a phrase is longer than a headword, so it needs to wrap and sit smaller */
+.tea-deck .wm-word.phrase { font-size: 21px; line-height: 1.3; }
 .tea-deck .wm-meta { margin-top: 4px; display: flex; gap: 10px; flex-wrap: wrap; font-size: 13px; }
 .tea-deck .wm-pos {
   background: rgba(255, 255, 255, .2);

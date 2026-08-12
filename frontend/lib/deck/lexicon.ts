@@ -22,11 +22,23 @@ export interface WordEntry {
   ant?: string[];
   /** sentences from this passage that use the word, with their Bangla */
   uses: { en: string; bn: string }[];
+  /** true for a highlighted phrase rather than a dictionary headword */
+  phrase?: boolean;
+  /** vocabulary words that occur inside the phrase, for the jump chips */
+  parts?: string[];
 }
 
 export interface Lexicon {
   /** normalised surface form (including inflections) → entry */
   lookup: Map<string, WordEntry>;
+  /**
+   * Highlighted phrases → their Bangla, taken from the deck's own translation.
+   * The author marks the same idea in both lines — `==shackles of apartheid==`
+   * against `==বর্ণবাদের শৃঙ্খল==` — so the nth highlight of a sentence glosses
+   * the nth highlight of its translation. Kept apart from `lookup` so the words
+   * inside a phrase stay separately clickable.
+   */
+  phrases: Map<string, WordEntry>;
   /** longest entry in words, so the matcher knows how far to look ahead */
   maxLen: number;
   size: number;
@@ -157,7 +169,35 @@ export function buildLexicon(deck: Deck): Lexicon {
   let maxLen = 1;
   for (const k of lookup.keys()) maxLen = Math.max(maxLen, k.split(' ').length);
 
-  return { lookup, maxLen: Math.min(maxLen, 5), size: byWord.size };
+  /* ---- highlighted phrases, glossed from the Bangla line ---- */
+  const MARK = /==([^=]+)==/g;
+  const marks = (t: string) => {
+    const out: string[] = [];
+    MARK.lastIndex = 0;
+    for (let m = MARK.exec(String(t ?? '')); m; m = MARK.exec(String(t ?? ''))) out.push(m[1].trim());
+    return out;
+  };
+
+  const phrases = new Map<string, WordEntry>();
+  for (const para of (deck.passage as any[]) || []) {
+    for (const x of para?.s || []) {
+      const en = marks(x.en);
+      const bn = marks(x.bn);
+      // a mismatched count means the author paired them differently; a wrong
+      // gloss is worse than none, so skip the sentence entirely
+      if (!en.length || en.length !== bn.length) continue;
+
+      const use = { en: unmark(x.en), bn: unmark(x.bn) };
+      for (let i = 0; i < en.length; i++) {
+        const key = norm(en[i]);
+        if (!key || phrases.has(key)) continue;
+        const parts = [...new Set(key.split(' '))].filter((w) => lookup.has(w) && w !== key);
+        phrases.set(key, { w: en[i], bn: bn[i], uses: [use], phrase: true, parts });
+      }
+    }
+  }
+
+  return { lookup, phrases, maxLen: Math.min(maxLen, 5), size: byWord.size };
 }
 
 /* ------------------------------------------------------------------ */
@@ -218,16 +258,34 @@ function linkRun(text: string, lex: Lexicon): string {
  * `&amp;` cannot be read as the word "amp".
  */
 export function linkHtml(html: string, lex: Lexicon | null): string {
-  if (!lex || !lex.size) return html;
+  if (!lex || (!lex.size && !lex.phrases.size)) return html;
+
+  let inMark = 0;
   return html
     .split(TAG_SPLIT)
-    .map((part) =>
-      part.startsWith('<')
-        ? part
-        : part
-            .split(ENTITY_SPLIT)
-            .map((bit) => (bit.startsWith('&') ? bit : linkRun(bit, lex)))
-            .join(''),
-    )
+    .map((part) => {
+      if (part.startsWith('<')) {
+        if (/^<mark\b/i.test(part)) inMark++;
+        else if (/^<\/mark/i.test(part)) inMark = Math.max(0, inMark - 1);
+        return part;
+      }
+
+      const inner = part
+        .split(ENTITY_SPLIT)
+        .map((bit) => (bit.startsWith('&') ? bit : linkRun(bit, lex)))
+        .join('');
+
+      // the whole run of a highlight is a phrase the author already glossed
+      if (inMark) {
+        const entry = lex.phrases.get(norm(part));
+        if (entry) {
+          return (
+            '<span class="wq wq-phrase" role="button" tabindex="0" data-phrase="' + attr(norm(part)) + '"' +
+            (entry.bn ? ' data-bn="' + attr(entry.bn) + '"' : '') + '>' + inner + '</span>'
+          );
+        }
+      }
+      return inner;
+    })
     .join('');
 }

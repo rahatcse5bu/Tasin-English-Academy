@@ -48,7 +48,8 @@ const WB_SIZES = [2, 3, 4, 6, 9, 14, 22];
 type Tool = 'pen' | 'marker' | 'laser' | 'eraser';
 
 export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours }) {
-  const slides = useMemo(() => build(deck), [deck]);
+  const all = useMemo(() => build(deck), [deck]);
+
   const params = useSearchParams();
 
   const stageRef = useRef<HTMLDivElement>(null);
@@ -59,6 +60,8 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
   const [back, setBack] = useState(false);
   const [dark, setDark] = useState(false);
   const [hideBn, setHideBn] = useState(false);
+  const [hideEn, setHideEn] = useState(false);
+  const [hidePassage, setHidePassage] = useState(false);
   const [overview, setOverview] = useState(false);
   const [help, setHelp] = useState(false);
   const [wbOn, setWbOn] = useState(false);
@@ -66,6 +69,18 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
   const [color, setColor] = useState(WB_COLORS[0]);
   const [size, setSize] = useState(3);
   const [ans, setAns] = useState({ left: 0, total: 0 });
+
+  /**
+   * The slides currently in play. The English-only "The Passage" slides can be
+   * skipped, because the sentence-wise translation repeats every one of their
+   * sentences — so in revision they are dead time. Everything downstream
+   * (navigation, progress, overview, deep links) counts from this list.
+   */
+  const slides = useMemo(
+    () => (hidePassage ? all.filter((s) => s.kind !== 'passage') : all),
+    [all, hidePassage],
+  );
+
   const [word, setWord] = useState<WordEntry | null>(null);
   const [hint, setHint] = useState<{ x: number; y: number; bn: string; above: boolean } | null>(null);
 
@@ -162,7 +177,8 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
 
   const openWord = useCallback(
     (key: string) => {
-      const e = lex.lookup.get(norm(key));
+      const k = norm(key);
+      const e = lex.lookup.get(k) || lex.phrases.get(k);
       if (e) {
         setHint(null);
         setWord(e);
@@ -219,7 +235,12 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
 
   useEffect(() => {
     refit();
-  }, [hideBn, refit]);
+  }, [hideBn, hideEn, refit]);
+
+  // dropping the passage slides can leave the cursor past the end
+  useEffect(() => {
+    if (i > slides.length - 1) setI(Math.max(0, slides.length - 1));
+  }, [slides.length, i]);
 
   /* ---------------- whiteboard ---------------- */
 
@@ -381,7 +402,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
       // a focused vocabulary word opens its card instead of advancing
       if ((k === 'Enter' || k === ' ') && t?.classList?.contains('wq')) {
         e.preventDefault();
-        openWord(t.dataset.word || t.textContent || '');
+        openWord(t.dataset.phrase || t.dataset.word || t.textContent || '');
         return;
       }
       if (word) return; // the word card owns the keyboard while it is open
@@ -395,6 +416,8 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
       else if (k === 'a' || k === 'A') revealAll();
       else if (k === 'o' || k === 'O') setOverview((v) => !v);
       else if (k === 'b' || k === 'B') setHideBn((v) => !v);
+      else if (k === 'e' || k === 'E') setHideEn((v) => !v);
+      else if (k === 'p' || k === 'P') setHidePassage((v) => !v);
       else if (k === 'w' || k === 'W') setWbOn((v) => !v);
       else if (k === 'd' || k === 'D') setDark((v) => !v);
       else if (k === 'f' || k === 'F') toggleFull();
@@ -436,7 +459,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
     const w = t.closest<HTMLElement>('.wq');
     if (w) {
       e.stopPropagation();
-      openWord(w.dataset.word || w.textContent || '');
+      openWord(w.dataset.phrase || w.dataset.word || w.textContent || '');
       return;
     }
     const opt = t.closest<HTMLElement>('[data-opt]');
@@ -488,6 +511,8 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
     </footer>
   );
 
+  const hasPassage = all.some((s) => s.kind === 'passage');
+
   const answerLabel = ans.total
     ? ans.left
       ? `Answer ${ans.total - ans.left + 1}/${ans.total}`
@@ -496,7 +521,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
 
   return (
     <div
-      className={`tea-deck${hideBn ? ' hide-bn' : ''}${wbOn ? ' wb-on' : ''}`}
+      className={`tea-deck${hideBn ? ' hide-bn' : ''}${hideEn ? ' hide-en' : ''}${wbOn ? ' wb-on' : ''}`}
       data-deck-theme={dark ? 'dark' : 'light'}
     >
       <div id="deck">
@@ -522,6 +547,24 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
               <span>{answerLabel}</span>
             </button>
           )}
+          {hasPassage && (
+            <button
+              className={`tbtn${hidePassage ? '' : ' on'}`}
+              onClick={() => setHidePassage((v) => !v)}
+              title="Skip the English-only passage slides (P)"
+            >
+              <span className="ico">📄</span>
+              <span>প্যাসেজ: {hidePassage ? 'OFF' : 'ON'}</span>
+            </button>
+          )}
+          <button
+            className={`tbtn${hideEn ? '' : ' on'}`}
+            onClick={() => setHideEn((v) => !v)}
+            title="Toggle the English line on translation slides (E)"
+          >
+            <span className="ico">🔤</span>
+            <span>English: {hideEn ? 'OFF' : 'ON'}</span>
+          </button>
           <button
             className={`tbtn${hideBn ? '' : ' on'}`}
             onClick={() => setHideBn((v) => !v)}
@@ -723,6 +766,8 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
             ['ডার্ক মোড', 'D'],
             ['ফুলস্ক্রিন', 'F'],
             ['আগের উত্তর লুকাও', 'Shift+R / Backspace'],
+            ['ইংরেজি লাইন লুকাও / দেখাও', 'E'],
+            ['ইংরেজি প্যাসেজ স্লাইড বাদ দাও', 'P'],
             ['প্রথম / শেষ স্লাইড', 'Home / End'],
             ['বন্ধ করো', 'Esc'],
           ].map(([label, key]) => (
