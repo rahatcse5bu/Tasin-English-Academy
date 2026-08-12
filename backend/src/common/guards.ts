@@ -12,7 +12,7 @@ import { Reflector } from '@nestjs/core';
 export const JwtAuthGuard = AuthGuard('jwt');
 
 export const ROLES_KEY = 'roles';
-export const Roles = (...roles: ('admin' | 'student')[]) =>
+export const Roles = (...roles: ('admin' | 'teacher' | 'student')[]) =>
   SetMetadata(ROLES_KEY, roles);
 
 @Injectable()

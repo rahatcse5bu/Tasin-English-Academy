@@ -4,27 +4,31 @@ import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { api } from '@/lib/api';
+import { useAuth } from '@/lib/auth';
+import Protected from '@/components/Protected';
 import SlideDeck from '@/components/decks/SlideDeck';
 import type { Deck, Neighbours } from '@/lib/deck/types';
 
-export default function DeckPage() {
+function DeckView() {
   const { id } = useParams<{ id: string }>();
+  const { token } = useAuth();
   const [deck, setDeck] = useState<Deck | null>(null);
   const [nav, setNav] = useState<Neighbours | undefined>();
   const [err, setErr] = useState(false);
 
   useEffect(() => {
+    if (!token) return;
     let alive = true;
-    api<Deck>(`/decks/${id}`)
+    api<Deck>(`/decks/${id}`, { token })
       .then((d) => alive && setDeck(d))
       .catch(() => alive && setErr(true));
-    api<Neighbours>(`/decks/${id}/neighbours`)
+    api<Neighbours>(`/decks/${id}/neighbours`, { token })
       .then((n) => alive && setNav(n))
       .catch(() => {});
     return () => {
       alive = false;
     };
-  }, [id]);
+  }, [id, token]);
 
   if (err) {
     return (
@@ -47,4 +51,12 @@ export default function DeckPage() {
   }
 
   return <SlideDeck deck={deck} nav={nav} />;
+}
+
+export default function DeckPage() {
+  return (
+    <Protected roles={['teacher', 'admin']}>
+      <DeckView />
+    </Protected>
+  );
 }

@@ -2,11 +2,13 @@
 import React, { createContext, useCallback, useContext, useEffect, useState } from 'react';
 import { api } from './api';
 
+export type UserRole = 'admin' | 'teacher' | 'student';
+
 type User = {
   id: string;
   name: string;
   email: string;
-  role: 'admin' | 'student';
+  role: UserRole;
   phone?: string;
   level?: string;
   institution?: string;

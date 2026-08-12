@@ -1,4 +1,4 @@
-import { Body, Controller, Delete, Get, Param, Patch, UseGuards } from '@nestjs/common';
+import { Body, Controller, Delete, Get, Param, Patch, Post, UseGuards } from '@nestjs/common';
 import { UsersService } from './users.service';
 import { CurrentUser, JwtAuthGuard, Roles, RolesGuard } from '../common/guards';
 
@@ -30,6 +30,13 @@ export class UsersController {
   @Roles('admin')
   byId(@Param('id') id: string) {
     return this.users.findById(id);
+  }
+
+  /** Admin creates a staff login (role: teacher | admin). */
+  @Post('staff')
+  @Roles('admin')
+  createStaff(@Body() body: { name: string; email: string; password: string; role?: 'teacher' | 'admin' }) {
+    return this.users.createStaff(body);
   }
 
   @Patch(':id')

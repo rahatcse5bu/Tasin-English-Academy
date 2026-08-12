@@ -5,6 +5,8 @@ import { useAuth } from '@/lib/auth';
 
 export default function Navbar() {
   const { user, logout } = useAuth();
+  // slide classes are teaching material — mentors and admins only
+  const staff = user?.role === 'teacher' || user?.role === 'admin';
   const [open, setOpen] = useState(false);
   return (
     <header className="bg-white shadow-sm border-b border-slate-200 sticky top-0 z-40">
@@ -21,7 +23,9 @@ export default function Navbar() {
           <Link href="/" className="text-slate-700 hover:text-brand-700">হোম</Link>
           <Link href="/teachers" className="text-slate-700 hover:text-brand-700">শিক্ষকবৃন্দ</Link>
           <Link href="/batches" className="text-slate-700 hover:text-brand-700">ব্যাচসমূহ</Link>
-          <Link href="/decks" className="text-slate-700 hover:text-brand-700">স্লাইড ক্লাস</Link>
+          {staff && (
+            <Link href="/decks" className="text-slate-700 hover:text-brand-700">স্লাইড ক্লাস</Link>
+          )}
           <Link href="/resources" className="text-slate-700 hover:text-brand-700">রিসোর্স</Link>
           <Link href="/top-performers" className="text-slate-700 hover:text-brand-700">সেরা পারফর্মার</Link>
         </nav>
@@ -58,7 +62,7 @@ export default function Navbar() {
             <Link href="/" onClick={() => setOpen(false)}>হোম</Link>
             <Link href="/teachers" onClick={() => setOpen(false)}>শিক্ষকবৃন্দ</Link>
             <Link href="/batches" onClick={() => setOpen(false)}>ব্যাচসমূহ</Link>
-            <Link href="/decks" onClick={() => setOpen(false)}>স্লাইড ক্লাস</Link>
+            {staff && <Link href="/decks" onClick={() => setOpen(false)}>স্লাইড ক্লাস</Link>}
             <Link href="/resources" onClick={() => setOpen(false)}>রিসোর্স</Link>
             <Link href="/top-performers" onClick={() => setOpen(false)}>সেরা পারফর্মার</Link>
             {user ? (

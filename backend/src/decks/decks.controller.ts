@@ -1,9 +1,13 @@
-import { Controller, Get, Param } from '@nestjs/common';
+import { Controller, Get, Param, UseGuards } from '@nestjs/common';
 import { DecksService } from './decks.service';
+import { JwtAuthGuard, Roles, RolesGuard } from '../common/guards';
 
 /**
- * Public, read-only slide-deck API. No auth — this is free study content,
- * same policy as the Class-8 curriculum in LearningController.
+ * Slide-deck API — teaching material, restricted to staff.
+ *
+ * These decks are what a mentor projects in class (with every answer in them),
+ * so unlike the public Class-8 curriculum they require a logged-in user whose
+ * role is `teacher` or `admin`. Students get their material through /resources.
  *
  * Routes (global prefix `api`):
  *   GET /api/decks                → library: papers → units → chapters
@@ -11,6 +15,8 @@ import { DecksService } from './decks.service';
  *   GET /api/decks/:id            → one chapter's full teaching content
  *   GET /api/decks/:id/neighbours → previous / next chapter in the same paper
  */
+@UseGuards(JwtAuthGuard, RolesGuard)
+@Roles('admin', 'teacher')
 @Controller('decks')
 export class DecksController {
   constructor(private service: DecksService) {}

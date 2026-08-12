@@ -1,25 +1,34 @@
 'use client';
 import { useEffect } from 'react';
 import { useRouter } from 'next/navigation';
-import { useAuth } from '@/lib/auth';
+import { useAuth, type UserRole } from '@/lib/auth';
+
+const home = (role: UserRole) => (role === 'admin' ? '/admin' : role === 'teacher' ? '/decks' : '/dashboard');
 
 export default function Protected({
   role,
+  roles,
   children,
 }: {
-  role?: 'admin' | 'student';
+  /** single allowed role — kept for the pages that already use it */
+  role?: UserRole;
+  /** any one of these roles may enter, e.g. roles={['teacher', 'admin']} */
+  roles?: UserRole[];
   children: React.ReactNode;
 }) {
   const { user, loading } = useAuth();
   const router = useRouter();
 
+  const allowed = roles ?? (role ? [role] : null);
+  const ok = !!user && (!allowed || allowed.includes(user.role));
+
   useEffect(() => {
     if (loading) return;
     if (!user) router.replace('/login');
-    else if (role && user.role !== role) router.replace(user.role === 'admin' ? '/admin' : '/dashboard');
-  }, [user, loading, role, router]);
+    else if (!ok) router.replace(home(user.role));
+  }, [user, loading, ok, router]);
 
-  if (loading || !user || (role && user.role !== role)) {
+  if (loading || !ok) {
     return <div className="max-w-7xl mx-auto px-4 py-12 text-slate-500">লোড হচ্ছে…</div>;
   }
   return <>{children}</>;

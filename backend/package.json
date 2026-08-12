@@ -9,7 +9,8 @@
     "start:prod": "node dist/main",
     "seed": "ts-node -r tsconfig-paths/register src/seed.ts",
     "decks:index": "node scripts/build-decks-index.js",
-    "seed:decks": "ts-node -r tsconfig-paths/register src/decks/seed-decks.ts"
+    "seed:decks": "ts-node -r tsconfig-paths/register src/decks/seed-decks.ts",
+    "seed:teachers": "ts-node -r tsconfig-paths/register src/seed-teachers.ts"
   },
   "dependencies": {
     "@nestjs/common": "^10.3.0",

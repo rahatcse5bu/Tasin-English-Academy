@@ -3,6 +3,8 @@
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import { api } from '@/lib/api';
+import { useAuth } from '@/lib/auth';
+import Protected from '@/components/Protected';
 import { bnNum } from '@/lib/format';
 import { plain } from '@/lib/deck/text';
 import type { DeckCatalogue } from '@/lib/deck/types';
@@ -14,15 +16,17 @@ const LEVEL_CLASS: Record<string, string> = {
   Hard: 'bg-rose-50 text-rose-700',
 };
 
-export default function DecksPage() {
+function DecksLibrary() {
+  const { token } = useAuth();
   const [data, setData] = useState<DeckCatalogue | null>(null);
   const [err, setErr] = useState(false);
   const [paper, setPaper] = useState(0);
   const [q, setQ] = useState('');
 
   useEffect(() => {
-    api<DeckCatalogue>('/decks').then(setData).catch(() => setErr(true));
-  }, []);
+    if (!token) return;
+    api<DeckCatalogue>('/decks', { token }).then(setData).catch(() => setErr(true));
+  }, [token]);
 
   const active = data?.papers[paper];
 
@@ -171,5 +175,14 @@ export default function DecksPage() {
         </section>
       ))}
     </div>
+  );
+}
+
+export default function DecksPage() {
+  // teaching slides — mentors and admins only
+  return (
+    <Protected roles={['teacher', 'admin']}>
+      <DecksLibrary />
+    </Protected>
   );
 }

@@ -1,3 +1,4 @@
+import * as bcrypt from 'bcryptjs';
 import { Injectable, NotFoundException } from '@nestjs/common';
 import { InjectModel } from '@nestjs/mongoose';
 import { Model } from 'mongoose';
@@ -62,5 +63,24 @@ export class UsersService {
       )
       .select('-passwordHash')
       .exec();
+  }
+
+  /** Create a login for a mentor or another admin. Used by POST /api/users/staff. */
+  async createStaff(data: { name: string; email: string; password: string; role?: 'teacher' | 'admin' }) {
+    const email = data.email.toLowerCase().trim();
+    const existing = await this.findByEmail(email);
+    if (existing) {
+      // already a user — just make sure the role is right
+      existing.role = data.role || 'teacher';
+      await existing.save();
+      return { id: existing._id, email: existing.email, role: existing.role, created: false };
+    }
+    const user = await this.create({
+      name: data.name,
+      email,
+      passwordHash: await bcrypt.hash(data.password, 10),
+      role: data.role || 'teacher',
+    } as any);
+    return { id: (user as any)._id, email, role: data.role || 'teacher', created: true };
   }
 }

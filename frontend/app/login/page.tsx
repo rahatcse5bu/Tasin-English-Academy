@@ -18,7 +18,7 @@ export default function LoginPage() {
     setLoading(true);
     try {
       const u = await login(email, password);
-      router.push(u.role === 'admin' ? '/admin' : '/dashboard');
+      router.push(u.role === 'admin' ? '/admin' : u.role === 'teacher' ? '/decks' : '/dashboard');
     } catch (e: any) {
       setErr(e.message || 'লগইন ব্যর্থ হয়েছে');
     } finally {
