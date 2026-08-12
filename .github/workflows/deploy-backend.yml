@@ -1,0 +1,79 @@
+name: Deploy Backend
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'backend/**'
+      - '.github/workflows/deploy-backend.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-backend
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: backend/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Bundle into a single file (no node_modules to FTP)
+        # nest build (tsc) already emitted decorator metadata into dist/*.js,
+        # so bundling JS->JS keeps NestJS DI intact. Result: one ~3.4 MB main.js
+        # instead of 187 MB / 20k files — uploads in seconds, not hours.
+        run: npx --yes @vercel/ncc@0.44.0 build dist/main.js -o bundle -m
+
+      - name: Stage deploy artifacts
+        run: |
+          rm -rf ../deploy
+          mkdir -p ../deploy/tmp
+          cp bundle/index.js ../deploy/main.js
+          # Minimal package.json so cPanel's Node.js App manager is happy.
+          # No dependencies -> nothing for the server to install.
+          cat > ../deploy/package.json <<'JSON'
+          {
+            "name": "tasin-english-academy-backend",
+            "version": "1.0.0",
+            "main": "main.js",
+            "scripts": { "start": "node main.js" }
+          }
+          JSON
+          # Restart trigger for cPanel/Passenger after upload.
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > ../deploy/tmp/restart.txt
+
+      - name: Normalize server dir (ensure trailing slash)
+        id: dir
+        run: |
+          D="${{ secrets.FTP_BACKEND_DIR }}"
+          [ "${D: -1}" = "/" ] || D="$D/"
+          echo "path=$D" >> "$GITHUB_OUTPUT"
+
+      - name: Deploy via FTP (delta sync)
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          local-dir: ./deploy/
+          server-dir: ${{ steps.dir.outputs.path }}
+          # NEVER overwrite the server's real .env (holds DB creds / JWT secret).
+          exclude: |
+            **/.env
+            **/.env.*
