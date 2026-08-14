@@ -409,6 +409,13 @@
               "titleBn": "সাবস্টিটিউশন টেবিল",
               "tag": "Easiest 5 marks",
               "level": "Easy"
+            },
+            {
+              "id": "tag-questions",
+              "title": "Tag Questions — Complete Master Handnote",
+              "titleBn": "ট্যাগ কোয়েশ্চেন",
+              "tag": "24 rules",
+              "level": "Medium"
             }
           ]
         },
@@ -445,6 +452,13 @@
               "title": "Narrative Style — Direct ↔ Indirect Speech",
               "titleBn": "উক্তি পরিবর্তন",
               "tag": "16 rules",
+              "level": "Hard"
+            },
+            {
+              "id": "exclamatory-imperative",
+              "title": "Transformation: Exclamatory ↔ Assertive & Assertive → Imperative",
+              "titleBn": "আবেগসূচক ↔ বিবৃতিমূলক ও আদেশসূচক",
+              "tag": "15 rules",
               "level": "Hard"
             }
           ]

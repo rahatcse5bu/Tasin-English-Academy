@@ -34,6 +34,7 @@ import d_ecotourism from "../data/hsc_decks/ecotourism.json";
 import d_education_aims from "../data/hsc_decks/education-aims.json";
 import d_education_gives from "../data/hsc_decks/education-gives.json";
 import d_elizabeth_voyage from "../data/hsc_decks/elizabeth-voyage.json";
+import d_exclamatory_imperative from "../data/hsc_decks/exclamatory-imperative.json";
 import d_graph_chart from "../data/hsc_decks/graph-chart.json";
 import d_greta_thunberg from "../data/hsc_decks/greta-thunberg.json";
 import d_i_have_a_dream from "../data/hsc_decks/i-have-a-dream.json";
@@ -61,6 +62,7 @@ import d_right_form_verbs from "../data/hsc_decks/right-form-verbs.json";
 import d_shilpi_early_marriage from "../data/hsc_decks/shilpi-early-marriage.json";
 import d_substitution_table from "../data/hsc_decks/substitution-table.json";
 import d_synonym_antonym_2nd from "../data/hsc_decks/synonym-antonym-2nd.json";
+import d_tag_questions from "../data/hsc_decks/tag-questions.json";
 import d_the_orphanage from "../data/hsc_decks/the-orphanage.json";
 import d_transformation_sentences from "../data/hsc_decks/transformation-sentences.json";
 import d_voice_change from "../data/hsc_decks/voice-change.json";
@@ -134,6 +136,7 @@ export const DECKS: Record<string, Deck> = {
   "education-aims": d_education_aims as unknown as Deck,
   "education-gives": d_education_gives as unknown as Deck,
   "elizabeth-voyage": d_elizabeth_voyage as unknown as Deck,
+  "exclamatory-imperative": d_exclamatory_imperative as unknown as Deck,
   "graph-chart": d_graph_chart as unknown as Deck,
   "greta-thunberg": d_greta_thunberg as unknown as Deck,
   "i-have-a-dream": d_i_have_a_dream as unknown as Deck,
@@ -161,6 +164,7 @@ export const DECKS: Record<string, Deck> = {
   "shilpi-early-marriage": d_shilpi_early_marriage as unknown as Deck,
   "substitution-table": d_substitution_table as unknown as Deck,
   "synonym-antonym-2nd": d_synonym_antonym_2nd as unknown as Deck,
+  "tag-questions": d_tag_questions as unknown as Deck,
   "the-orphanage": d_the_orphanage as unknown as Deck,
   "transformation-sentences": d_transformation_sentences as unknown as Deck,
   "voice-change": d_voice_change as unknown as Deck,
