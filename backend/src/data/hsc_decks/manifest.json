@@ -400,7 +400,7 @@
               "id": "completing-sentences",
               "title": "Completing Sentences",
               "titleBn": "বাক্য সম্পূর্ণ করা",
-              "tag": "24 structures",
+              "tag": "35 rules",
               "level": "Medium"
             },
             {
@@ -437,21 +437,21 @@
               "id": "transformation-sentences",
               "title": "Transformation — Simple, Complex, Compound &amp; Degree",
               "titleBn": "সরল, জটিল, যৌগিক ও ডিগ্রি",
-              "tag": "14 rules",
+              "tag": "11 rules + matrix",
               "level": "Hard"
             },
             {
               "id": "voice-change",
               "title": "Voice Change — Active ↔ Passive",
               "titleBn": "বাচ্য পরিবর্তন",
-              "tag": "16 rules",
+              "tag": "35 rules",
               "level": "Medium"
             },
             {
               "id": "narrative-style",
               "title": "Narrative Style — Direct ↔ Indirect Speech",
               "titleBn": "উক্তি পরিবর্তন",
-              "tag": "16 rules",
+              "tag": "10 rules",
               "level": "Hard"
             },
             {
@@ -488,7 +488,7 @@
               "id": "preposition-gap-filling",
               "title": "Gap Filling with Clues — Prepositions",
               "titleBn": "শূন্যস্থান (সংকেতসহ)",
-              "tag": "15 rules",
+              "tag": "35 rules",
               "level": "Medium"
             },
             {
@@ -511,7 +511,7 @@
               "id": "punctuation",
               "title": "Punctuation &amp; Capitalisation",
               "titleBn": "যতিচিহ্ন ও বড় হাতের অক্ষর",
-              "tag": "15 rules",
+              "tag": "16 rules",
               "level": "Easy"
             },
             {
@@ -562,9 +562,9 @@
           "chapters": [
             {
               "id": "application-email",
-              "title": "Application, Formal Letter &amp; E-mail",
-              "titleBn": "আবেদনপত্র ও ই-মেইল",
-              "tag": "10 marks",
+              "title": "Application Writing — Master Templates",
+              "titleBn": "আবেদনপত্র লেখা",
+              "tag": "3 templates",
               "level": "Easy"
             },
             {

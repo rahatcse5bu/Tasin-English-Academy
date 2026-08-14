@@ -1,432 +1,205 @@
 {
- "id": "preposition-gap-filling",
- "paperName": "HSC English 2nd Paper",
- "unit": "Part A",
- "unitName": "Grammar — Gap Filling",
- "title": "Gap Filling with Clues — Prepositions",
- "titleBn": "শূন্যস্থান পূরণ (সংকেতসহ) — Preposition",
- "lede": "Preposition মুখস্থ করার জিনিস নয়, জোড়া চেনার জিনিস। কোন verb/adjective/noun-এর সাথে কোনটি বসে — সেই জোড়াগুলোই এখানে।",
- "qType": "Grammar — Gap Filling with Clues",
- "minutes": 50,
- "marks": "0.5×10 = 5",
- "rulesTitle": "Preposition-এর নিয়ম",
- "rulesPerSlide": 3,
- "objectives": [
-  {
-   "t": "Time prepositions: in / on / at",
-   "d": "বড় সময়ে in, নির্দিষ্ট দিনে on, ঘড়ির সময়ে at"
+  "id": "preposition-gap-filling",
+  "paper": "paper2",
+  "paperName": "English 2nd Paper",
+  "unit": "Part A",
+  "unitName": "Grammar — Modifiers & Gap Filling",
+  "title": "Prepositions — Complete Master Guide (35 Rules)",
+  "titleBn": "Preposition — শূন্যস্থান পূরণ",
+  "lede": "একাডেমির হ্যান্ডনোট অনুযায়ী ৩৫টি নিয়ম — যে জোড়াগুলো সবচেয়ে বেশি গুলিয়ে যায় সেগুলোই পাশাপাশি রেখে, প্রতিটির উদাহরণ ও বাংলা ব্যাখ্যাসহ।",
+  "qType": "Grammar — Gap Filling with Clues",
+  "minutes": 45,
+  "marks": "5",
+  "rulesTitle": "Preposition-এর ৩৫টি নিয়ম",
+  "rulesPerSlide": 2,
+
+  "objectives": [
+    { "t": "Separate the classic confusions", "d": "by/with · in/into · on/upon · between/among" },
+    { "t": "Choose the right preposition of time", "d": "in/at · since/for/from · by/before · in/within" },
+    { "t": "Know where no preposition goes", "d": "enter, discuss, order, resign" },
+    { "t": "Use the fixed word pairs", "d": "agree with/to/on · compare with/to · blind of/to" }
+  ],
+
+  "rules": [
+    { "no": "01", "tag": "Basic", "name": "By vs. With", "bn": "**By** — কাজ কার দ্বারা (Agent) · **With** — কীসের সাহায্যে (Instrument)।", "formulaLabel": "RULE", "formula": "By + agent · With + instrument", "ex": "The letter was written ==by== him. · He wrote the letter ==with== a pen." },
+    { "no": "02", "tag": "Basic", "name": "In vs. Into", "bn": "**In** — ভেতরে স্থির (Static) · **Into** — বাইরে থেকে প্রবেশ (Motion)।", "formulaLabel": "RULE", "formula": "In = স্থির · Into = গতি", "ex": "The students are sitting ==in== the classroom. · The teacher walked ==into== the classroom." },
+    { "no": "03", "tag": "Basic", "name": "On vs. Upon", "bn": "**On** — তলের উপর স্থির · **Upon** — গতিশীল অবস্থায় উপরে আসা।", "formulaLabel": "RULE", "formula": "On = স্থির · Upon = ঝাঁপিয়ে পড়া", "ex": "The laptop is ==on== the desk. · The tiger sprang ==upon== the deer." },
+    { "no": "04", "tag": "Basic", "name": "Under vs. Below", "bn": "**Under** — সরাসরি নিচে বা অধীনে · **Below** — নির্দিষ্ট লেভেল বা মানদণ্ডের নিচে।", "formulaLabel": "RULE", "formula": "Under = সরাসরি নিচে · Below = মানের নিচে", "ex": "The cat is sleeping ==under== the table. · His performance is ==below== average." },
+    { "no": "05", "tag": "Basic", "name": "Of vs. Off", "bn": "**Of** — সম্পর্ক বা মালিকানা (Connection) · **Off** — বিচ্ছিন্ন হয়ে যাওয়া (Separation)।", "formulaLabel": "RULE", "formula": "Of = সংযোগ · Off = বিচ্ছেদ", "ex": "He is a man ==of== principles. · Please turn ==off== the fan." },
+    { "no": "06", "tag": "Basic", "name": "Between vs. Among", "bn": "**Between** — দুইয়ের মধ্যে · **Among** — দুইয়ের অধিকের মধ্যে।", "formulaLabel": "RULE", "formula": "Between = ২ · Among = ২-এর বেশি", "ex": "Share the apple ==between== the two brothers. · Distribute the sweets ==among== the children." },
+    { "no": "07", "tag": "Basic", "name": "Except vs. Save / But", "bn": "**Except / But** — ব্যতীত বা ছাড়া বোঝাতে।", "formulaLabel": "RULE", "formula": "Except / But = ছাড়া", "ex": "Everyone is present today ==except== Hasan. · He has nothing ==but== a small hut." },
+    { "no": "08", "tag": "Time", "name": "In time vs. On time", "bn": "**In time** — যথেষ্ট সময় হাতে থাকতে · **On time** — কাঁটায় কাঁটায় ঠিক সময়ে।", "formulaLabel": "RULE", "formula": "In time = সময়ের আগেই · On time = ঠিক সময়ে", "ex": "I reached the exam hall ==in time==. · The train departed exactly ==on time==." },
+    { "no": "09", "tag": "Position", "name": "Across vs. Along", "bn": "**Across** — আড়াআড়ি বা পার হওয়া · **Along** — সমান্তরালে বা ধার ঘেঁষে চলা।", "formulaLabel": "RULE", "formula": "Across = আড়াআড়ি · Along = ধার ধরে", "ex": "He swam ==across== the river. · We walked ==along== the beach." },
+    { "no": "10", "tag": "Material", "name": "Made of vs. Made from", "bn": "**Made of** — মূল উপাদান দেখা যায় · **Made from** — উপাদান সম্পূর্ণ পরিবর্তিত হয়ে যায়।", "formulaLabel": "RULE", "formula": "Made of = উপাদান দৃশ্যমান · Made from = রূপান্তরিত", "ex": "This ring is made ==of== gold. · Glass is made ==from== sand." },
+    { "no": "11", "tag": "Time", "name": "By vs. Before (Time)", "bn": "**By** — নির্দিষ্ট সময়ের মধ্যে (Deadline) · **Before** — নির্দিষ্ট সময়ের আগে।", "formulaLabel": "RULE", "formula": "By = deadline · Before = তার আগে", "ex": "Submit the project ==by== Friday. · I will finish it ==before== evening." },
+    { "no": "12", "tag": "Time", "name": "In vs. At (Parts of day)", "bn": "**In** — বড় অংশ (the morning / afternoon) · **At** — ছোট অংশ (noon, dawn, night)।", "formulaLabel": "RULE", "formula": "In the morning · At night", "ex": "I read newspapers ==in== the morning. · The dogs bark ==at== night." },
+    { "no": "13", "tag": "Zero", "name": "Zero Preposition", "bn": "**Enter, Discuss, Order, Resign** ইত্যাদির পর preposition বসে না।", "formulaLabel": "RULE", "formula": "enter / discuss / order / resign + object (no preposition)", "ex": "❌ Let's discuss ==about== it. · ✅ Let's ==discuss it==." },
+    { "no": "14", "tag": "Duration", "name": "In vs. Within", "bn": "**In** — সময় শেষে · **Within** — সময়ের ভেতরেই।", "formulaLabel": "RULE", "formula": "In = শেষে · Within = ভেতরে", "ex": "I will return ==in== a month. (মাসের শেষে) · I will return ==within== a month. (মাস শেষ হওয়ার আগেই)" },
+    { "no": "15", "tag": "Duration", "name": "Since vs. For vs. From", "bn": "**Since** — শুরুর সময় · **For** — মোট সময় · **From** — যেকোনো tense-এ শুরু।", "formulaLabel": "RULE", "formula": "Since + point · For + period · From + starting point", "ex": "I have been living here ==since== 2020. · … ==for== four years. · The shop is open ==from== 9 AM." },
+    { "no": "16", "tag": "Duration", "name": "Through vs. Throughout", "bn": "**Through** — ভেতর দিয়ে · **Throughout** — সম্পূর্ণ সময়/স্থান জুড়ে।", "formulaLabel": "RULE", "formula": "Through = ভেতর দিয়ে · Throughout = পুরোটা জুড়ে", "ex": "The car went ==through== the tunnel. · He studied hard ==throughout== the year." },
+    { "no": "17", "tag": "Direction", "name": "Behind vs. After", "bn": "**Behind** — স্থির অবস্থান বা পেছনে · **After** — পরে বা ধাওয়া করা।", "formulaLabel": "RULE", "formula": "Behind = স্থির · After = ধাওয়া", "ex": "Hide ==behind== the door. · The dog ran ==after== the cat." },
+    { "no": "18", "tag": "Direction", "name": "To vs. Towards", "bn": "**To** — নির্দিষ্ট গন্তব্য · **Towards** — শুধু দিক বা অভিমুখ।", "formulaLabel": "RULE", "formula": "To = গন্তব্য · Towards = দিক", "ex": "I am going ==to== school. (গন্তব্য) · I am going ==towards== the school. (ওই দিকে)" },
+    { "no": "19", "tag": "Position", "name": "Below vs. Beneath / Underneath", "bn": "**Below** — লেভেলের নিচে · **Beneath** — নিচে চাপা পড়া বা স্পর্শ করে থাকা।", "formulaLabel": "RULE", "formula": "Below = মানের নিচে · Beneath = চাপা পড়ে", "ex": "The temperature is ==below== freezing. · I found the letter ==beneath== the books." },
+    { "no": "20", "tag": "Transport", "name": "By vs. On / In (Transport)", "bn": "**By** — সাধারণ মাধ্যম · **On / In** — article থাকলে।", "formulaLabel": "RULE", "formula": "by bus · on a bus", "ex": "We travel ==by== bus. · We are travelling ==on== a bus." },
+    { "no": "21", "tag": "Phrase", "name": "At the end vs. In the end", "bn": "**At the end** — শেষ প্রান্তে · **In the end** — অবশেষে।", "formulaLabel": "RULE", "formula": "At the end = জায়গা · In the end = অবশেষে", "ex": "Please sign ==at the end== of the document. · ==In the end==, they became good friends." },
+    { "no": "22", "tag": "Place", "name": "In vs. At (Places / Institutions)", "bn": "**In** — মূল উদ্দেশ্যে থাকা · **At** — দর্শনার্থী হিসেবে যাওয়া।", "formulaLabel": "RULE", "formula": "In = উদ্দেশ্যে · At = দর্শনার্থী", "ex": "The prisoner is ==in== jail. · I met him ==at== the jail." },
+    { "no": "23", "tag": "Amount", "name": "Over vs. Under (Amount)", "bn": "**Over** — বয়স, গতি বা পরিমাণে বেশি · **Under** — কম।", "formulaLabel": "RULE", "formula": "Over = বেশি · Under = কম", "ex": "He was driving ==over== the speed limit. · Items ==under== $10 are on sale." },
+    { "no": "24", "tag": "Tech", "name": "On vs. In (Media & Tech)", "bn": "**On** — ইন্টারনেট, টিভি, সোশ্যাল মিডিয়া · **In** — ফোল্ডার, ইমেইল।", "formulaLabel": "RULE", "formula": "on Facebook · in the email", "ex": "I saw the post ==on== Facebook. · I attached the file ==in== the email." },
+    { "no": "25", "tag": "Word", "name": "Agree with / to / on", "bn": "**With** — ব্যক্তি · **To** — প্রস্তাব · **On** — সিদ্ধান্ত।", "formulaLabel": "RULE", "formula": "agree with (person) · agree to (proposal) · agree on (decision)", "ex": "I agree ==with== you. · He agreed ==to== my plan. · They agreed ==on== the final date." },
+    { "no": "26", "tag": "Word", "name": "Compare with vs. Compare to", "bn": "**With** — সমজাতীয় তুলনা · **To** — অসমজাতীয় বা রূপক তুলনা।", "formulaLabel": "RULE", "formula": "compare with = সমজাতীয় · compare to = রূপক", "ex": "Compare your answers ==with== the key. · Life is often compared ==to== a journey." },
+    { "no": "27", "tag": "Time", "name": "Till / Until vs. By", "bn": "**Till / Until** — নির্দিষ্ট সময় পর্যন্ত কাজ চলে · **By** — সময়ের মধ্যে শেষ হওয়া।", "formulaLabel": "RULE", "formula": "until = চলতে থাকা · by = শেষ করা", "ex": "I will wait here ==until== you come back. · Send the report ==by== 5 PM." },
+    { "no": "28", "tag": "Word", "name": "On vs. About", "bn": "**On** — একাডেমিক বা সিরিয়াস বিষয় · **About** — সাধারণ আলোচনা।", "formulaLabel": "RULE", "formula": "a book on Physics · talk about sports", "ex": "He wrote a book ==on== Physics. · We talked ==about== sports." },
+    { "no": "29", "tag": "Word", "name": "Despite vs. In spite of", "bn": "**Despite**-এর পর ‘of’ বসে না, **In spite**-এর পর ‘of’ বসে।", "formulaLabel": "RULE", "formula": "Despite + noun · In spite of + noun", "ex": "==In spite of== the rain, we played football. · ==Despite== the rain, we played football." },
+    { "no": "30", "tag": "Word", "name": "Cause of vs. Reason for", "bn": "**Cause of** — খারাপ ঘটনার কারণ · **Reason for** — পেছনের যুক্তি।", "formulaLabel": "RULE", "formula": "cause of + ঘটনা · reason for + কাজ", "ex": "The cause ==of== the fire is unknown. · What is your reason ==for== leaving early?" },
+    { "no": "31", "tag": "Time", "name": "At night vs. In the night", "bn": "**At night** — সাধারণ রাত · **In the night** — নির্দিষ্ট কোনো এক রাত।", "formulaLabel": "RULE", "formula": "at night = সাধারণ · in the night = নির্দিষ্ট", "ex": "Bats fly ==at night==. · I heard a loud bang ==in the night==." },
+    { "no": "32", "tag": "Direction", "name": "Round vs. Around", "bn": "**Round** — নির্দিষ্ট বৃত্তাকার পথে · **Around** — এলোমেলো চারপাশে।", "formulaLabel": "RULE", "formula": "round = বৃত্তাকার পথ · around = চারপাশে", "ex": "The earth goes ==round== the sun. · The children are running ==around== the garden." },
+    { "no": "33", "tag": "Phrase", "name": "Hard at vs. Hard of", "bn": "**Hard at** — কাজে ব্যস্ত · **Hard of** — কানে কম শোনা।", "formulaLabel": "RULE", "formula": "hard at it · hard of hearing", "ex": "The workers are hard ==at== it. · My grandfather is hard ==of== hearing." },
+    { "no": "34", "tag": "Phrase", "name": "Part from vs. Part with", "bn": "**Part from** — ব্যক্তির কাছ থেকে বিদায় নেওয়া · **Part with** — বস্তু বা জিনিস হাতছাড়া করা।", "formulaLabel": "RULE", "formula": "part from + person · part with + thing", "ex": "He could not part ==from== his mother. · The miser cannot part ==with== his money." },
+    { "no": "35", "tag": "Phrase", "name": "Blind of vs. Blind to", "bn": "**Blind of** — শারীরিকভাবে অন্ধ · **Blind to** — স্নেহের বশে দোষের প্রতি অন্ধ।", "formulaLabel": "RULE", "formula": "blind of + অঙ্গ · blind to + দোষ", "ex": "The old man is blind ==of== one eye. · A mother is blind ==to== her son's faults." }
+  ],
+
+  "drills": [
+    {
+      "title": "Practice Set 1 — Basic Confusions (নিয়ম ১-১৩)",
+      "intro": "প্রতিটি জোড়ার পার্থক্যটি এক বাক্যে বলো, তারপর উত্তর দাও।",
+      "items": [
+        { "q": "The letter was written ______ him.", "ans": "by", "why": "কর্তা (agent) → by। (নিয়ম ০১)" },
+        { "q": "He wrote the letter ______ a pen.", "ans": "with", "why": "যন্ত্র (instrument) → with। (নিয়ম ০১)" },
+        { "q": "The teacher walked ______ the classroom.", "ans": "into", "why": "বাইরে থেকে প্রবেশ → into। (নিয়ম ০২)" },
+        { "q": "The tiger sprang ______ the deer.", "ans": "upon", "why": "গতিশীল অবস্থায় উপরে → upon। (নিয়ম ০৩)" },
+        { "q": "His performance is ______ average.", "ans": "below", "why": "মানদণ্ডের নিচে → below। (নিয়ম ০৪)" },
+        { "q": "Please turn ______ the fan.", "ans": "off", "why": "বিচ্ছিন্ন করা → off। (নিয়ম ০৫)" },
+        { "q": "Distribute the sweets ______ the children.", "ans": "among", "why": "দুইয়ের অধিক → among। (নিয়ম ০৬)" },
+        { "q": "Everyone is present today ______ Hasan.", "ans": "except", "why": "ছাড়া → except। (নিয়ম ০৭)" },
+        { "q": "The train departed exactly ______ time.", "ans": "on", "why": "কাঁটায় কাঁটায় → on time। (নিয়ম ০৮)" },
+        { "q": "He swam ______ the river.", "ans": "across", "why": "আড়াআড়ি পার হওয়া → across। (নিয়ম ০৯)" },
+        { "q": "Glass is made ______ sand.", "ans": "from", "why": "উপাদান রূপান্তরিত → made from। (নিয়ম ১০)" },
+        { "q": "Submit the project ______ Friday.", "ans": "by", "why": "Deadline → by। (নিয়ম ১১)" },
+        { "q": "The dogs bark ______ night.", "ans": "at", "why": "ছোট সময়ের অংশ → at। (নিয়ম ১২)" },
+        { "q": "Let's discuss ______ it.", "ans": "— (কোনো preposition নয়)", "why": "discuss-এর পর preposition বসে না। (নিয়ম ১৩)" }
+      ]
+    },
+    {
+      "title": "Practice Set 2 — Duration ও Direction (নিয়ম ১৪-২৪)",
+      "intro": "সময় না দিক — আগে সেটাই ঠিক করো।",
+      "items": [
+        { "q": "I will return ______ a month. (মাস শেষ হওয়ার আগেই)", "ans": "within", "why": "সময়ের ভেতরেই → within। (নিয়ম ১৪)" },
+        { "q": "I have been living here ______ 2020.", "ans": "since", "why": "শুরুর নির্দিষ্ট সময় → since। (নিয়ম ১৫)" },
+        { "q": "I have been living here ______ four years.", "ans": "for", "why": "মোট সময় → for। (নিয়ম ১৫)" },
+        { "q": "He studied hard ______ the year.", "ans": "throughout", "why": "পুরো সময় জুড়ে → throughout। (নিয়ম ১৬)" },
+        { "q": "The dog ran ______ the cat.", "ans": "after", "why": "ধাওয়া করা → after। (নিয়ম ১৭)" },
+        { "q": "I am going ______ the school. (শুধু ওই দিকে)", "ans": "towards", "why": "দিক → towards। (নিয়ম ১৮)" },
+        { "q": "I found the letter ______ the books.", "ans": "beneath", "why": "চাপা পড়া → beneath। (নিয়ম ১৯)" },
+        { "q": "We travel ______ bus.", "ans": "by", "why": "Article নেই → by। (নিয়ম ২০)" },
+        { "q": "______, they became good friends.", "ans": "In the end", "why": "অবশেষে → In the end। (নিয়ম ২১)" },
+        { "q": "The prisoner is ______ jail.", "ans": "in", "why": "মূল উদ্দেশ্যে থাকা → in। (নিয়ম ২২)" },
+        { "q": "Items ______ $10 are on sale.", "ans": "under", "why": "পরিমাণে কম → under। (নিয়ম ২৩)" },
+        { "q": "I saw the post ______ Facebook.", "ans": "on", "why": "সোশ্যাল মিডিয়া → on। (নিয়ম ২৪)" }
+      ]
+    },
+    {
+      "title": "Practice Set 3 — Fixed Pairs (নিয়ম ২৫-৩৫)",
+      "intro": "এগুলো যুক্তি নয়, মুখস্থ — কিন্তু জোড়ায় জোড়ায় মনে থাকে।",
+      "items": [
+        { "q": "He agreed ______ my plan.", "ans": "to", "why": "প্রস্তাব → agree to। (নিয়ম ২৫)" },
+        { "q": "They agreed ______ the final date.", "ans": "on", "why": "সিদ্ধান্ত → agree on। (নিয়ম ২৫)" },
+        { "q": "Life is often compared ______ a journey.", "ans": "to", "why": "রূপক তুলনা → compare to। (নিয়ম ২৬)" },
+        { "q": "I will wait here ______ you come back.", "ans": "until", "why": "কাজ চলতে থাকা → until। (নিয়ম ২৭)" },
+        { "q": "He wrote a book ______ Physics.", "ans": "on", "why": "একাডেমিক বিষয় → on। (নিয়ম ২৮)" },
+        { "q": "______ the rain, we played football. (of ছাড়া)", "ans": "Despite", "why": "Despite-এর পর of বসে না। (নিয়ম ২৯)" },
+        { "q": "What is your reason ______ leaving early?", "ans": "for", "why": "যুক্তি → reason for। (নিয়ম ৩০)" },
+        { "q": "I heard a loud bang ______ the night.", "ans": "in", "why": "নির্দিষ্ট এক রাত → in the night। (নিয়ম ৩১)" },
+        { "q": "The earth goes ______ the sun.", "ans": "round", "why": "নির্দিষ্ট বৃত্তাকার পথ → round। (নিয়ম ৩২)" },
+        { "q": "My grandfather is hard ______ hearing.", "ans": "of", "why": "কানে কম শোনা → hard of hearing। (নিয়ম ৩৩)" },
+        { "q": "The miser cannot part ______ his money.", "ans": "with", "why": "জিনিস হাতছাড়া → part with। (নিয়ম ৩৪)" },
+        { "q": "A mother is blind ______ her son's faults.", "ans": "to", "why": "দোষের প্রতি অন্ধ → blind to। (নিয়ম ৩৫)" }
+      ]
+    }
+  ],
+
+  "boardQ": {
+    "instruction": "Fill in the blanks with suitable prepositions. — উপযুক্ত preposition দিয়ে শূন্যস্থান পূরণ করো। (10 × 0.5 = 5)",
+    "items": [
+      { "q": "The letter was written ______ him ______ a pen.", "ans": "by … with", "why": "কর্তা → **by**, যন্ত্র → **with**। (নিয়ম ০১)" },
+      { "q": "Share the apple ______ the two brothers.", "ans": "between", "why": "দুইজন → **between**। (নিয়ম ০৬)" },
+      { "q": "This ring is made ______ gold.", "ans": "of", "why": "উপাদান দৃশ্যমান → **made of**। (নিয়ম ১০)" },
+      { "q": "I read newspapers ______ the morning.", "ans": "in", "why": "দিনের বড় অংশ → **in**। (নিয়ম ১২)" },
+      { "q": "Let's discuss ______ the matter.", "ans": "— (কোনো preposition নয়)", "why": "discuss-এর পর preposition **বসে না**। (নিয়ম ১৩)" },
+      { "q": "The shop is open ______ 9 AM.", "ans": "from", "why": "শুরুর বিন্দু → **from**। (নিয়ম ১৫)" },
+      { "q": "Hide ______ the door.", "ans": "behind", "why": "স্থির অবস্থান → **behind**। (নিয়ম ১৭)" },
+      { "q": "I agree ______ you.", "ans": "with", "why": "ব্যক্তি → **agree with**। (নিয়ম ২৫)" },
+      { "q": "The cause ______ the fire is unknown.", "ans": "of", "why": "খারাপ ঘটনার কারণ → **cause of**। (নিয়ম ৩০)" },
+      { "q": "The old man is blind ______ one eye.", "ans": "of", "why": "শারীরিকভাবে অন্ধ → **blind of**। (নিয়ম ৩৫)" }
+    ]
   },
-  {
-   "t": "Place prepositions: in / on / at",
-   "d": "বড় জায়গায় in, উপরিতলে on, নির্দিষ্ট বিন্দুতে at"
-  },
-  {
-   "t": "Verb + preposition pairs",
-   "d": "depend on, listen to, look after — জোড়া মুখস্থ"
-  },
-  {
-   "t": "Adjective &amp; noun + preposition",
-   "d": "fond of, afraid of, reason for…"
-  },
-  {
-   "t": "Solved board question",
-   "d": "১০টি খালিঘর, প্রতিটির যুক্তিসহ"
-  },
-  {
-   "t": "Two live practice sets",
-   "d": "শ্রেণিকক্ষে সরাসরি অনুশীলন"
-  }
- ],
- "rules": [
-  {
-   "no": "01",
-   "tag": "Time",
-   "name": "in — বড় সময়ের একক",
-   "bn": "মাস, ঋতু, বছর, শতাব্দী, সকাল/দুপুর/সন্ধ্যা — অর্থাৎ **বড় সময়ের একক** বোঝাতে **in** বসে।",
-   "formula": "in + month / year / season / morning / evening",
-   "ex": "He was born ==in== 1998. / She reads ==in== the morning."
-  },
-  {
-   "no": "02",
-   "tag": "Time",
-   "name": "on — নির্দিষ্ট দিন ও তারিখ",
-   "bn": "বার, তারিখ, বিশেষ দিন — অর্থাৎ **নির্দিষ্ট দিন** বোঝাতে **on** বসে।",
-   "formula": "on + day / date / special day",
-   "ex": "We have a test ==on== Monday. / He came ==on== 21 February."
-  },
-  {
-   "no": "03",
-   "tag": "Time",
-   "name": "at — ঘড়ির সময় ও বিন্দু-সময়",
-   "bn": "ঘড়ির নির্দিষ্ট সময়, রাত, দুপুরবেলা — অর্থাৎ **সময়ের বিন্দু** বোঝাতে **at** বসে।",
-   "formula": "at + clock time / night / noon / dawn",
-   "ex": "The class starts ==at== 9 a.m. / He returned ==at== night."
-  },
-  {
-   "no": "04",
-   "tag": "Place",
-   "name": "in / on / at — স্থান",
-   "bn": "বড় জায়গা (দেশ, শহর, ঘরের ভেতর) → **in**; উপরিতল → **on**; ছোট নির্দিষ্ট বিন্দু → **at**।",
-   "formula": "in + country/city/room · on + surface · at + point",
-   "ex": "He lives ==in== Dhaka. The book is ==on== the table. He is ==at== the door."
-  },
-  {
-   "no": "05",
-   "tag": "Time",
-   "name": "for / since — সময়ের ব্যাপ্তি",
-   "bn": "**for** + সময়ের **পরিমাণ** (দুই ঘণ্টা, তিন বছর); **since** + সময়ের **শুরুবিন্দু** (সকাল থেকে, ২০১৫ সাল থেকে)।",
-   "formula": "for + period · since + point of time",
-   "ex": "He has been ill ==for== three days. / He has been ill ==since== Monday."
-  },
-  {
-   "no": "06",
-   "tag": "Time",
-   "name": "by / within / after",
-   "bn": "**by** = নির্দিষ্ট সময়ের মধ্যেই (তার আগেই); **within** = ভেতরে; **after** = পরে।",
-   "formula": "by + deadline · within + period · after + point",
-   "ex": "Finish it ==by== Friday. / Come back ==within== an hour."
-  },
-  {
-   "no": "07",
-   "tag": "Verb",
-   "name": "Verb + on",
-   "bn": "**depend on, rely on, insist on, concentrate on, congratulate on, comment on** — এই verb গুলোর সাথে **on** বসে।",
-   "formulaLabel": "PAIRS",
-   "formula": "depend · rely · insist · concentrate · congratulate · comment + on",
-   "ex": "Success depends ==on== hard work."
-  },
-  {
-   "no": "08",
-   "tag": "Verb",
-   "name": "Verb + to",
-   "bn": "**listen to, belong to, refer to, object to, reply to, prefer … to, look forward to** — এদের সাথে **to** বসে।",
-   "formulaLabel": "PAIRS",
-   "formula": "listen · belong · refer · object · reply · prefer + to",
-   "ex": "Listen ==to== your teacher attentively."
-  },
-  {
-   "no": "09",
-   "tag": "Verb",
-   "name": "Verb + for",
-   "bn": "**wait for, look for, apply for, long for, care for, pay for, ask for** — এদের সাথে **for** বসে।",
-   "formulaLabel": "PAIRS",
-   "formula": "wait · look · apply · long · care · pay · ask + for",
-   "ex": "He applied ==for== the post of a teacher."
-  },
-  {
-   "no": "10",
-   "tag": "Verb",
-   "name": "Verb + at",
-   "bn": "**look at, laugh at, aim at, shout at, wonder at, arrive at** — এদের সাথে **at** বসে।",
-   "formulaLabel": "PAIRS",
-   "formula": "look · laugh · aim · shout · wonder · arrive + at",
-   "ex": "Don't laugh ==at== the poor."
-  },
-  {
-   "no": "11",
-   "tag": "Verb",
-   "name": "Verb + with / from / of / in",
-   "bn": "**agree with** (ব্যক্তি), **quarrel with**, **deal with**; **suffer from, differ from, prevent from**; **consist of, dispose of, think of**; **succeed in, believe in, take part in**।",
-   "formulaLabel": "PAIRS",
-   "formula": "agree/quarrel/deal + with · suffer/differ/prevent + from · consist/think + of · succeed/believe + in",
-   "ex": "He suffers ==from== fever. / She succeeded ==in== the exam."
-  },
-  {
-   "no": "12",
-   "tag": "Adjective",
-   "name": "Adjective + of",
-   "bn": "**fond of, afraid of, proud of, aware of, sure of, capable of, full of, tired of, ashamed of** — এদের সাথে **of** বসে।",
-   "formulaLabel": "PAIRS",
-   "formula": "fond · afraid · proud · aware · capable · full · tired + of",
-   "ex": "He is fond ==of== music."
-  },
-  {
-   "no": "13",
-   "tag": "Adjective",
-   "name": "Adjective + to / with / at / in",
-   "bn": "**good to** (ব্যক্তির প্রতি), **kind to, similar to, addicted to**; **angry with** (ব্যক্তি), **pleased with, satisfied with**; **angry at** (কাজ), **good at, expert in, rich in, interested in**।",
-   "formulaLabel": "PAIRS",
-   "formula": "kind/similar/addicted + to · angry/pleased/satisfied + with · good/expert + at/in",
-   "ex": "He is good ==at== mathematics. / She is angry ==with== me."
-  },
-  {
-   "no": "14",
-   "tag": "Noun",
-   "name": "Noun + preposition",
-   "bn": "**reason for, cause of, need for, demand for, solution to, answer to, key to, effect on, influence on** — এই জোড়াগুলো নিশ্চিতভাবে আসে।",
-   "formulaLabel": "PAIRS",
-   "formula": "reason/need/demand + for · cause + of · solution/answer/key + to · effect/influence + on",
-   "ex": "There is no solution ==to== this problem."
-  },
-  {
-   "no": "15",
-   "tag": "Trap",
-   "name": "যেখানে preposition বসে না",
-   "bn": "**discuss, enter, marry, reach, resemble, lack, attack, order, join** — এসব verb-এর পরে সরাসরি object বসে, কোনো preposition লাগে না।",
-   "formulaLabel": "NO PREPOSITION",
-   "formula": "discuss / enter / marry / reach / resemble / lack + object",
-   "ex": "We discussed ==the matter== (✗ discussed about). He entered ==the room== (✗ entered into).",
-   "note": "এটি বোর্ডের প্রিয় ফাঁদ — ‘discuss about’, ‘enter into the room’ লিখলেই নম্বর কাটা।"
-  }
- ],
- "boardQ": {
-  "instruction": "Fill in the blanks with suitable prepositions. — উপযুক্ত preposition দিয়ে শূন্যস্থান পূরণ করো। (0.5×10 = 5)",
-  "text": "Discipline is essential (a) ___ our life. It depends (b) ___ self-control. A student who is fond (c) ___ discipline never suffers (d) ___ failure. He is always punctual and reaches school (e) ___ time. He listens (f) ___ his teachers attentively and takes part (g) ___ different activities. He is never angry (h) ___ anybody. There is a great demand (i) ___ disciplined students in every society, and the key (j) ___ a bright future lies in discipline.",
-  "items": [
-   {
-    "ans": "in / to",
-    "why": "‘essential to/in our life’ — জীবনে অপরিহার্য। (নিয়ম ০৪)"
-   },
-   {
-    "ans": "on",
-    "why": "**depend on** — নির্দিষ্ট জোড়া। (নিয়ম ০৭)"
-   },
-   {
-    "ans": "of",
-    "why": "**fond of** — adjective + of. (নিয়ম ১২)"
-   },
-   {
-    "ans": "from",
-    "why": "**suffer from** — নির্দিষ্ট জোড়া। (নিয়ম ১১)"
-   },
-   {
-    "ans": "in",
-    "why": "‘in time’ = যথাসময়ে। (‘on time’ = ঠিক কাঁটায় কাঁটায়) (নিয়ম ০১)"
-   },
-   {
-    "ans": "to",
-    "why": "**listen to** — নির্দিষ্ট জোড়া। (নিয়ম ০৮)"
-   },
-   {
-    "ans": "in",
-    "why": "**take part in** — নির্দিষ্ট জোড়া। (নিয়ম ১১)"
-   },
-   {
-    "ans": "with",
-    "why": "**angry with** + ব্যক্তি (কাজের ক্ষেত্রে angry at)। (নিয়ম ১৩)"
-   },
-   {
-    "ans": "for",
-    "why": "**demand for** — noun + for. (নিয়ম ১৪)"
-   },
-   {
-    "ans": "to",
-    "why": "**key to** — noun + to. (নিয়ম ১৪)"
-   }
+
+  "extras": [
+    {
+      "title": "যে জোড়াগুলো সবচেয়ে বেশি গুলিয়ে যায় <span class='sub'>— এক নজরে</span>",
+      "key": "Confusion Map",
+      "table": {
+        "headers": ["জোড়া", "প্রথমটি", "দ্বিতীয়টি"],
+        "rows": [
+          ["By / With", "কর্তা — written by him", "যন্ত্র — with a pen"],
+          ["In / Into", "স্থির — sitting in the room", "গতি — walked into the room"],
+          ["On / Upon", "স্থির — on the desk", "ঝাঁপ — sprang upon the deer"],
+          ["Under / Below", "সরাসরি নিচে — under the table", "মানের নিচে — below average"],
+          ["Of / Off", "সম্পর্ক — man of principles", "বিচ্ছেদ — turn off"],
+          ["Between / Among", "দুইজন", "দুইয়ের বেশি"],
+          ["In time / On time", "সময় হাতে রেখে", "কাঁটায় কাঁটায়"],
+          ["Made of / Made from", "উপাদান দেখা যায়", "উপাদান বদলে গেছে"],
+          ["In / Within", "সময় শেষে", "সময়ের ভেতরেই"],
+          ["Since / For / From", "শুরুর সময়", "মোট সময় / শুরুর বিন্দু"],
+          ["To / Towards", "গন্তব্য", "শুধু দিক"],
+          ["At night / In the night", "সাধারণ রাত", "নির্দিষ্ট এক রাত"],
+          ["Round / Around", "বৃত্তাকার পথে", "এলোমেলো চারপাশে"],
+          ["Blind of / Blind to", "শারীরিক অন্ধত্ব", "দোষের প্রতি অন্ধ"]
+        ]
+      }
+    },
+    {
+      "title": "Fixed word pairs <span class='sub'>— মুখস্থ করার তালিকা</span>",
+      "key": "Word Pairs",
+      "table": {
+        "headers": ["শব্দ", "Preposition", "উদাহরণ"],
+        "rows": [
+          ["agree", "with (ব্যক্তি) / to (প্রস্তাব) / on (সিদ্ধান্ত)", "I agree with you."],
+          ["compare", "with (সমজাতীয়) / to (রূপক)", "Life is compared to a journey."],
+          ["cause", "of", "The cause of the fire"],
+          ["reason", "for", "reason for leaving early"],
+          ["hard", "at (ব্যস্ত) / of (কানে কম)", "hard of hearing"],
+          ["part", "from (ব্যক্তি) / with (বস্তু)", "part with his money"],
+          ["blind", "of (অঙ্গ) / to (দোষ)", "blind to her son's faults"],
+          ["book", "on (একাডেমিক) / about (সাধারণ)", "a book on Physics"],
+          ["Despite", "— (of বসে না)", "Despite the rain"],
+          ["enter / discuss / order / resign", "— (কিছুই নয়)", "Let's discuss it."]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "🚫", "t": "Zero preposition মনে রেখো", "type": "warn", "d": "==enter, discuss, order, resign== — এদের পর কিছুই বসে না। ‘discuss about’ সবচেয়ে বেশি ভুল।" },
+    { "em": "🔧", "t": "By না With", "d": "কাজটা ==কে== করল → by; ==কী দিয়ে== করল → with।" },
+    { "em": "2️⃣", "t": "Between মানেই দুই", "d": "দুইয়ের বেশি হলেই ==among==। সংখ্যা গুনে নাও।" },
+    { "em": "⏳", "t": "In vs Within", "type": "warn", "d": "‘in a month’ = মাস ==শেষে==; ‘within a month’ = মাস ==শেষ হওয়ার আগেই==। অর্থ পুরো উল্টো।" },
+    { "em": "🪞", "t": "Despite-এ of নেই", "type": "warn", "d": "==In spite of== the rain ✅ · ==Despite== the rain ✅ · ‘Despite of’ ❌।" },
+    { "em": "🧠", "t": "জোড়ায় মুখস্থ করো", "d": "একা একা নয় — ==made of / made from==, ==blind of / blind to== — জোড়া ধরে পড়লে ভুল হয় না।" }
+  ],
+
+  "recap": [
+    "By = কর্তা, With = যন্ত্র; In = স্থির, Into = গতি; On = স্থির, Upon = ঝাঁপ।",
+    "Between = ২, Among = ২-এর বেশি; Under = সরাসরি নিচে, Below = মানের নিচে।",
+    "enter, discuss, order, resign — এদের পর preposition বসে না।",
+    "Since = শুরুর সময়, For = মোট সময়, From = শুরুর বিন্দু; In = শেষে, Within = ভেতরে।",
+    "agree with/to/on · compare with/to · cause of · reason for · hard at/of · part from/with।",
+    "Despite-এর পর of বসে না; blind of (অঙ্গ) কিন্তু blind to (দোষ)।"
+  ],
+
+  "homework": [
+    "Confusion Map-এর ১৪টি জোড়া না দেখে লিখে আনবে।",
+    "Fixed word pairs-এর ১০টি সারি মুখস্থ করে আসবে।",
+    "Practice Set 3-এর ১২টি বাক্য খাতায় সমাধান করবে।",
+    "নিজে ১০টি বাক্য লিখে preposition-এর শূন্যস্থান বানাবে।"
   ]
- },
- "drills": [
-  {
-   "title": "Practice Set 1 — Verb + Preposition",
-   "intro": "জোড়াটা মনে আছে কি না দেখো — আগে বলো, তারপর **R**।",
-   "items": [
-    {
-     "q": "He is waiting ___ the bus.",
-     "ans": "for",
-     "why": "wait for. (০৯)"
-    },
-    {
-     "q": "She is looking ___ her lost pen.",
-     "ans": "for",
-     "why": "look for = খোঁজা। (০৯)"
-    },
-    {
-     "q": "Please look ___ my child.",
-     "ans": "after",
-     "why": "look after = দেখাশোনা করা।"
-    },
-    {
-     "q": "This book belongs ___ me.",
-     "ans": "to",
-     "why": "belong to. (০৮)"
-    },
-    {
-     "q": "He succeeded ___ the examination.",
-     "ans": "in",
-     "why": "succeed in. (১১)"
-    },
-    {
-     "q": "Don't laugh ___ the poor.",
-     "ans": "at",
-     "why": "laugh at. (১০)"
-    }
-   ]
-  },
-  {
-   "title": "Practice Set 2 — Adjective, Noun ও ফাঁদ",
-   "intro": "শেষ দুটিতে সাবধান — সেখানে preposition বসবে না।",
-   "items": [
-    {
-     "q": "He is proud ___ his son.",
-     "ans": "of",
-     "why": "proud of. (১২)"
-    },
-    {
-     "q": "She is good ___ English.",
-     "ans": "at / in",
-     "why": "good at (দক্ষতা)। (১৩)"
-    },
-    {
-     "q": "What is the reason ___ his failure?",
-     "ans": "for",
-     "why": "reason for. (১৪)"
-    },
-    {
-     "q": "There is no answer ___ this question.",
-     "ans": "to",
-     "why": "answer to. (১৪)"
-    },
-    {
-     "q": "We discussed ___ the matter.",
-     "ans": "(no preposition)",
-     "why": "discuss-এর পরে সরাসরি object — ‘discuss about’ ভুল। (১৫)"
-    },
-    {
-     "q": "He entered ___ the room.",
-     "ans": "(no preposition)",
-     "why": "enter-এর পরে সরাসরি object — ‘enter into’ ভুল (রূপক অর্থে ছাড়া)। (১৫)"
-    }
-   ]
-  }
- ],
- "extras": [
-  {
-   "title": "Fixed pairs to memorise <span class='sub'>— যে জোড়াগুলো প্রতি বছর আসে</span>",
-   "key": "Pairs",
-   "table": {
-    "headers": [
-     "Preposition",
-     "যাদের সাথে বসে"
-    ],
-    "rows": [
-     [
-      "on",
-      "depend, rely, insist, concentrate, congratulate, comment, effect, influence, impose"
-     ],
-     [
-      "to",
-      "listen, belong, refer, object, reply, prefer, similar, addicted, kind, solution, answer, key"
-     ],
-     [
-      "for",
-      "wait, look, apply, long, care, pay, ask, reason, need, demand, famous, sorry"
-     ],
-     [
-      "at",
-      "look, laugh, aim, shout, wonder, arrive, good, expert, angry (কাজ), surprised"
-     ],
-     [
-      "with",
-      "agree (ব্যক্তি), quarrel, deal, pleased, satisfied, angry (ব্যক্তি), busy, popular"
-     ],
-     [
-      "from",
-      "suffer, differ, prevent, refrain, escape, recover, absent, different"
-     ],
-     [
-      "of",
-      "fond, afraid, proud, aware, sure, capable, full, tired, ashamed, consist, cause, dispose"
-     ],
-     [
-      "in",
-      "succeed, believe, take part, interested, rich, weak, engaged, confidence"
-     ]
-    ]
-   },
-   "note": "**পড়ার কৌশল:** preposition ধরে ধরে পড়ো (সব ‘on’ একসাথে), শব্দ ধরে নয়। এভাবে ৮টি দলে পুরো তালিকা মুখস্থ হয়ে যায়।"
-  },
-  {
-   "title": "No preposition needed <span class='sub'>— বোর্ডের প্রিয় ফাঁদ</span>",
-   "key": "No Preposition",
-   "table": {
-    "headers": [
-     "✗ ভুল",
-     "✓ সঠিক"
-    ],
-    "rows": [
-     [
-      "discuss about the matter",
-      "==discuss the matter=="
-     ],
-     [
-      "enter into the room",
-      "==enter the room=="
-     ],
-     [
-      "marry with her",
-      "==marry her=="
-     ],
-     [
-      "reach at the station",
-      "==reach the station=="
-     ],
-     [
-      "resemble to his father",
-      "==resemble his father=="
-     ],
-     [
-      "lack of confidence (verb হিসেবে)",
-      "==lack confidence== (noun হলে: a lack **of** confidence)"
-     ],
-     [
-      "attack on the enemy (verb)",
-      "==attack the enemy== (noun হলে: an attack **on**)"
-     ],
-     [
-      "order to him",
-      "==order him=="
-     ]
-    ]
-   },
-   "note": "Verb হিসেবে preposition লাগে না, কিন্তু **noun** হিসেবে লাগে — ‘a lack of’, ‘an attack on’। এই পার্থক্যেই ফাঁদ।"
-  }
- ],
- "tips": [
-  {
-   "em": "🔗",
-   "t": "Learn pairs, not words",
-   "d": "‘depend’ একা মুখস্থ কোরো না — **depend on** জোড়া হিসেবে মুখস্থ করো। পরীক্ষায় জোড়াই কাজে লাগে।"
-  },
-  {
-   "em": "🕐",
-   "t": "Time: in → on → at (বড় থেকে ছোট)",
-   "type": "ok",
-   "d": "বছর/মাস = **in**, দিন/তারিখ = **on**, ঘড়ির সময় = **at**। স্থানেও একই ক্রম: দেশ = in, তল = on, বিন্দু = at।"
-  },
-  {
-   "em": "⚠️",
-   "t": "discuss / enter / marry / reach",
-   "type": "warn",
-   "d": "এই verb গুলোর পরে preposition বসে না। ‘discussed about’ প্রতি বছর হাজারো খাতায় ভুল হয়।"
-  },
-  {
-   "em": "🧲",
-   "t": "for vs since",
-   "d": "**for** + কতক্ষণ (three days), **since** + কখন থেকে (Monday, 2015)। Present Perfect Continuous-এ এই দুটিই আসে।"
-  },
-  {
-   "em": "😠",
-   "t": "angry with vs angry at",
-   "d": "মানুষের ওপর রাগ = angry **with**; কাজের ওপর রাগ = angry **at**। একইভাবে good **at** (দক্ষ), good **to** (দয়ালু)।"
-  },
-  {
-   "em": "✍️",
-   "t": "Read the whole sentence",
-   "d": "একই শব্দ ভিন্ন preposition নিতে পারে (good at / good to / good for)। অর্থ দেখে বাছো, মুখস্থে নয়।"
-  }
- ],
- "recap": [
-  "সময়: বড় একক in, নির্দিষ্ট দিন on, ঘড়ির সময় at।",
-  "for = সময়ের পরিমাণ, since = শুরুর বিন্দু।",
-  "জোড়া মুখস্থ: depend on, listen to, wait for, laugh at, suffer from, fond of, succeed in।",
-  "Noun-এর জোড়া: reason for, cause of, solution to, effect on, demand for।",
-  "discuss, enter, marry, reach, resemble — এদের পরে preposition বসে না।"
- ],
- "homework": [
-  "‘Fixed pairs’ ছকের ৮টি দল খাতায় লিখে মুখস্থ করবে।",
-  "‘No preposition needed’-এর ৮টি জোড়া লিখবে।",
-  "বোর্ড প্রশ্নটি না দেখে আবার পূরণ করবে।",
-  "নিজে ২০টি বাক্য লিখে তাতে শেখা জোড়াগুলো ব্যবহার করবে।"
- ],
- "paper": "paper2"
 }

@@ -1,389 +1,175 @@
 {
- "id": "application-email",
- "paperName": "HSC English 2nd Paper",
- "unit": "Part B",
- "unitName": "Composition — Writing",
- "title": "Application, Formal Letter &amp; E-mail",
- "titleBn": "আবেদনপত্র ও ই-মেইল",
- "lede": "ফরম্যাটেই অর্ধেক নম্বর। তারিখ, প্রাপক, বিষয়, সম্বোধন, মূল বক্তব্য, সমাপ্তি — ছয়টি অংশ ঠিক থাকলে ভাষা সাধারণ হলেও ভালো নম্বর।",
- "qType": "Composition — Application, Formal Letter &amp; E-mail",
- "minutes": 50,
- "marks": "10",
- "rulesTitle": "আবেদনপত্রের কাঠামো",
- "rulesPerSlide": 3,
- "objectives": [
-  {
-   "t": "The six fixed parts",
-   "d": "তারিখ, প্রাপক, বিষয়, সম্বোধন, মূল অংশ, সমাপ্তি"
+  "id": "application-email",
+  "paper": "paper2",
+  "paperName": "English 2nd Paper",
+  "unit": "Part B",
+  "unitName": "Composition — Formal Writing",
+  "title": "Application Writing — Master Templates",
+  "titleBn": "আবেদনপত্র লেখা",
+  "lede": "একাডেমির হ্যান্ডনোট অনুযায়ী তিনটি মাস্টার টেমপ্লেট — Principal-এর কাছে সুবিধা ও প্রার্থনা, আর Chairman/Mayor-এর কাছে এলাকার সমস্যা; সাথে ১৮টি বিষয়ের রেডিমেড body।",
+  "qType": "Composition — Application",
+  "minutes": 45,
+  "marks": "10",
+  "rulesTitle": "Application-এর কাঠামো ও টেমপ্লেট",
+  "rulesPerSlide": 1,
+
+  "objectives": [
+    { "t": "Lay out an application in the right order", "d": "তারিখ → প্রাপক → Sub → Dear sir → body → Yours obediently" },
+    { "t": "Reuse one opening for every topic", "d": "‘with due respect and humble submission…’" },
+    { "t": "Write the body from the topic alone", "d": "১৮টি বিষয়ের body মুখস্থ নয় — গঠন ধরে" },
+    { "t": "Pick the right addressee", "d": "কলেজের বিষয় → Principal · এলাকার বিষয় → Chairman/Mayor/DC/OC/SP" }
+  ],
+
+  "rules": [
+    {
+      "no": "01", "tag": "Format", "name": "Application-এর স্থায়ী কাঠামো",
+      "bn": "প্রতিটি আবেদনপত্রের **ছয়টি অংশ** — এগুলোর ক্রম কখনও বদলায় না। শুধু **Sub** আর **body** বিষয় অনুযায়ী বদলায়।",
+      "formulaLabel": "STRUCTURE",
+      "formula": "তারিখ → প্রাপকের পদবি ও ঠিকানা → Sub → Dear sir → Body → Yours obediently + পরিচয়",
+      "ex": "==03 June, 202–.== / The principal / X college, Barishal / ==Sub :== Prayer for ______ / ==Dear sir,== / … / ==Yours obediently,== / The students of X college."
+    },
+    {
+      "no": "02", "tag": "Opening", "name": "স্থায়ী সূচনা বাক্য",
+      "bn": "যে বিষয়েই লেখো, সূচনা একই থাকে। শুধু **I / We** বিষয় অনুযায়ী বদলাবে।",
+      "formulaLabel": "OPENING",
+      "formula": "I/We, the students of your college, with due respect and humble submission, would like to state that —",
+      "ex": "==We, the students of your college, with due respect and humble submission, would like to state that== our college is one of the first ranking colleges in the area."
+    },
+    {
+      "no": "03", "tag": "Closing", "name": "স্থায়ী সমাপ্তি বাক্য",
+      "bn": "সমাপ্তিও নির্দিষ্ট। **Yours obediently** — obediently-তে দুটি শব্দই ছোট হাতের, আর Yours-এ apostrophe **বসে না**।",
+      "formulaLabel": "CLOSING",
+      "formula": "I/We, therefore, pray and hope that you would be kind enough to grant our application and oblige thereby.",
+      "ex": "==Yours obediently,== / The students of X college, Barishal."
+    },
+    {
+      "no": "04", "tag": "Template 1", "name": "টেমপ্লেট ১ — কলেজে নতুন সুবিধা চালুর আবেদন",
+      "bn": "**বিষয়:** English Language Club, Computer Club, Debating Club, Literary Club, Multimedia Facilities। প্রাপক **The principal**। Body-তে কলেজের পরিচয় → অভাবের কথা → যুগের চাহিদা → প্রার্থনা।",
+      "formulaLabel": "BODY",
+      "formula": "কলেজ পরিচয় → ‘But it is really a pity that there is no any ______ in our college’ → ‘we feel it as a crying need to cope with the age’ → প্রার্থনা",
+      "ex": "Sub : ==Prayer for setting up/providing a/an ______== · ‘About two thousand students are at present studying at our college. But it is really a pity that there is no any ==debating club== in our college.’"
+    },
+    {
+      "no": "05", "tag": "Template 2", "name": "টেমপ্লেট ২ — Principal-এর কাছে নানা প্রার্থনা",
+      "bn": "**বিষয়:** Study Tour, Library Facilities, Sound System, Full Free Studentship, Stipend, TC, Seat in the hostel, Testimonial, Common Room Facilities, Stage a Drama। একই সূচনা ও সমাপ্তি, শুধু মাঝের কারণটি বদলায়।",
+      "formulaLabel": "BODY",
+      "formula": "সূচনা + কারণ (বিষয় অনুযায়ী) + ‘I/We, therefore, hope and pray that you kindly approve my/our appeal and oblige thereby.’",
+      "ex": "Sub : ==Prayer for ______== · ‘…would like to state that ==we want to go on a study tour to Mainamati, a historical place in Comilla==.’"
+    },
+    {
+      "no": "06", "tag": "Template 3", "name": "টেমপ্লেট ৩ — এলাকার সমস্যা নিয়ে আবেদন",
+      "bn": "**বিষয়:** রাস্তা/সেতু মেরামত বা নির্মাণ, ত্রাণ শিবির ও চিকিৎসা সহায়তা, সমাজবিরোধী কার্যকলাপ প্রতিরোধ। প্রাপক **The Chairman / Mayor / DC / OC / SP**, আর নিজের পরিচয় **the undersigned inhabitants**।",
+      "formulaLabel": "BODY",
+      "formula": "‘I/We, the undersigned inhabitants of the X village/ward under X upazila/city corporation, with due respect and humble submission, would like to state that —’ + সমস্যা + অনুরোধ",
+      "ex": "‘Therefore, I/we request you to take necessary steps ==so that the people of the area can get relief from it==.’ / ==Yours obediently,== The inhabitants of ______, Barishal."
+    }
+  ],
+
+  "drills": [
+    {
+      "title": "Practice Set 1 — টেমপ্লেট ২-এর body (Principal-এর কাছে)",
+      "intro": "বিষয় বললেই body-র মূল বাক্যটি বলো — হ্যান্ডনোটের ভাষায়।",
+      "items": [
+        { "q": "Study Tour", "ans": "…we want to go on a study tour to Mainamati, a historical place in Comilla. The tour will be very helpful for gaining knowledge on archaeology, besides it will remove our monotony.", "why": "কারণ + উপকারিতা — দুটোই লিখতে হবে। (টেমপ্লেট ২)" },
+        { "q": "Library Facilities", "ans": "…most of the books of our college library are worn out and outdated. There is no adequate books, no English dailies, no literary and science books in the library. Now it is requested to equip the library with all necessary things.", "why": "অভাবের তালিকা → অনুরোধ। (টেমপ্লেট ২)" },
+        { "q": "Sound System", "ans": "…there are many students in our college. When any teacher speaks, we can't hear clearly.", "why": "সমস্যা সরাসরি — ছোট body-ই যথেষ্ট। (টেমপ্লেট ২)" },
+        { "q": "Full Free Studentship / Stipend", "ans": "…I have a large family and my father is the only earning member. I have also another two school-going brothers. So, I need a full free studentship/stipend.", "why": "পারিবারিক অবস্থা → প্রয়োজন। এখানে ==I== ব্যবহার হবে। (টেমপ্লেট ২)" },
+        { "q": "TC / Seat in the hostel", "ans": "…my father has been transferred from here. I have no one here with whom I can stay. So, I need a TC / seat in the hostel.", "why": "কারণ একটাই, চাহিদা দুই রকম। (টেমপ্লেট ২)" },
+        { "q": "Testimonial", "ans": "…I appeared at the HSC examination in 20-- and secured GPA 5.00. Now I want to get myself admitted into a university. So, I need a testimonial.", "why": "ফলাফল → ভবিষ্যৎ পরিকল্পনা → চাহিদা। (টেমপ্লেট ২)" },
+        { "q": "Common Room Facilities", "ans": "…the number of students is increasing considerably. But our common room facilities are not sufficient. So some dailies and facilities of many indoor games should be available.", "why": "বৃদ্ধি → অপ্রতুলতা → চাহিদা। (টেমপ্লেট ২)" },
+        { "q": "Stage a Drama", "ans": "…we want to stage the drama \"Kabar\" written by Munir Chowdhury.", "why": "নাটকের নাম ও লেখক — দুটোই উল্লেখ করতে হবে। (টেমপ্লেট ২)" }
+      ]
+    },
+    {
+      "title": "Practice Set 2 — টেমপ্লেট ৩-এর body (এলাকার সমস্যা)",
+      "intro": "প্রাপক কে, আর নিজের পরিচয় কী — আগে সেটাই বলো।",
+      "items": [
+        { "q": "Repairing a road / bridge", "ans": "…the main bridge/road of our area has been collapsed/damaged badly. The people of the area are suffering a lot for this. So, repairing the road/bridge can relieve us of the problem.", "why": "ক্ষতি → দুর্ভোগ → সমাধান। (টেমপ্লেট ৩)" },
+        { "q": "Constructing a road / bridge", "ans": "…for want of a bridge/road, we are suffering a lot. It has created a constant problem for the students also. So, constructing the road/bridge can relieve us of the problem.", "why": "‘for want of’ = অভাবে — নতুন নির্মাণের ক্ষেত্রে। (টেমপ্লেট ৩)" },
+        { "q": "Opening a relief camp and medical aids", "ans": "…we are suffering terribly from the sudden outbreak of a devastating flood. In the circumstances, we are impatiently waiting for a kind help from you.", "why": "দুর্যোগ → জরুরি সাহায্যের আবেদন। (টেমপ্লেট ৩)" },
+        { "q": "Preventing anti-social activities", "ans": "…for a few days a band of anti-social elements have been operating criminal activities rampantly. They are usually active in the late hours of the night holding up and robbing unwary passers-by. In the circumstances, we are eagerly waiting for your immediate action.", "why": "কারা, কখন, কী করে — তিনটিই লিখতে হবে। (টেমপ্লেট ৩)" },
+        { "q": "এই টেমপ্লেটে প্রাপক কে হবেন?", "ans": "The Chairman / Mayor / DC / OC / SP — X union parishad / city corporation / upazila / district.", "why": "বিষয় অনুযায়ী প্রাপক বদলায়। (টেমপ্লেট ৩)" },
+        { "q": "এই টেমপ্লেটে নিজের পরিচয় কী?", "ans": "I/We, the undersigned inhabitants of the X village/ward under X upazila/city corporation …", "why": "ছাত্র নয় — ==inhabitants==। (টেমপ্লেট ৩)" }
+      ]
+    },
+    {
+      "title": "Practice Set 3 — স্থায়ী অংশগুলো",
+      "intro": "এই বাক্যগুলো প্রতিটি আবেদনপত্রে হুবহু বসবে।",
+      "items": [
+        { "q": "সূচনা বাক্যটি বলো।", "ans": "I/We, the students of your college, with due respect and humble submission, would like to state that —", "why": "সব বিষয়ে একই। (নিয়ম ০২)" },
+        { "q": "টেমপ্লেট ১-এর সমাপ্তি বাক্য?", "ans": "We, therefore, pray and hope that you would be kind enough to grant our application and oblige thereby.", "why": "সুবিধা চালুর আবেদনে। (নিয়ম ০৩)" },
+        { "q": "টেমপ্লেট ২-এর সমাপ্তি বাক্য?", "ans": "I/We, therefore, hope and pray that you kindly approve my/our appeal and oblige thereby.", "why": "প্রার্থনামূলক আবেদনে। (টেমপ্লেট ২)" },
+        { "q": "টেমপ্লেট ৩-এর সমাপ্তি বাক্য?", "ans": "Therefore, I/we request you to take necessary steps so that the people of the area can get relief from it.", "why": "এলাকার সমস্যায়। (টেমপ্লেট ৩)" },
+        { "q": "শেষে কী লিখতে হবে?", "ans": "Yours obediently, / The students of X college, Barishal. (বা The inhabitants of ______, Barishal.)", "why": "Yours-এ apostrophe নেই। (নিয়ম ০৩)" },
+        { "q": "Sub লাইনটি কীভাবে লিখবে?", "ans": "Sub : Prayer for setting up/providing a/an ______ (বা Prayer for ______)", "why": "Sub-এর পর কোলন, তারপর বিষয়। (নিয়ম ০১)" }
+      ]
+    }
+  ],
+
+  "boardQ": {
+    "instruction": "Write an application to the Principal of your college for setting up a debating club. — একটি বিতর্ক ক্লাব চালুর জন্য অধ্যক্ষের কাছে আবেদনপত্র লেখো। (10)",
+    "items": [
+      { "q": "তারিখ ও প্রাপক", "ans": "03 June, 202–.\nThe Principal\nX College, Barishal", "why": "তারিখ আগে, তারপর প্রাপকের পদবি ও ঠিকানা। (নিয়ম ০১)" },
+      { "q": "Sub লাইন", "ans": "Sub : Prayer for setting up a debating club.", "why": "টেমপ্লেট ১-এর Sub। (টেমপ্লেট ৪)" },
+      { "q": "সম্বোধন ও সূচনা", "ans": "Dear sir,\nWe, the students of your college, with due respect and humble submission, would like to state that our college is one of the first ranking colleges in the area.", "why": "স্থায়ী সূচনা বাক্য। (নিয়ম ০২)" },
+      { "q": "মূল অংশ", "ans": "About two thousand students are at present studying at our college. But it is really a pity that there is no any debating club in our college. As a student of the age, we feel it as a crying need to cope with the age. We hope that you will fill up our demand very soon.", "why": "পরিচয় → অভাব → যুগের চাহিদা → আশা। (টেমপ্লেট ১)" },
+      { "q": "সমাপ্তি ও স্বাক্ষর", "ans": "We, therefore, pray and hope that you would be kind enough to grant our application and oblige thereby.\n\nYours obediently,\nThe students of X College, Barishal.", "why": "স্থায়ী সমাপ্তি + পরিচয়। (নিয়ম ০৩)" }
+    ]
   },
-  {
-   "t": "Application vs E-mail format",
-   "d": "কোনটিতে কী বদলায়"
-  },
-  {
-   "t": "Formal language only",
-   "d": "সংক্ষিপ্ত রূপ ও কথ্য ভাষা নিষিদ্ধ"
-  },
-  {
-   "t": "A full model application",
-   "d": "অংশে অংশে বিশ্লেষণসহ"
-  },
-  {
-   "t": "Common topics",
-   "d": "ছুটি, সাহায্য, প্রশংসাপত্র, সিট, ক্যান্টিন"
-  },
-  {
-   "t": "Phrase bank",
-   "d": "যে বাক্যগুলো যেকোনো আবেদনে খাটে"
-  }
- ],
- "rules": [
-  {
-   "no": "01",
-   "tag": "Format",
-   "name": "ছয়টি অংশ — ক্রম বদলাবে না",
-   "bn": "প্রতিটি আবেদনপত্রে থাকবে: **(১) তারিখ (২) প্রাপক (৩) বিষয় (৪) সম্বোধন (৫) মূল বক্তব্য (৬) সমাপ্তি ও প্রেরকের পরিচয়**।",
-   "formula": "Date → To → Subject → Salutation → Body → Closing",
-   "ex": "এই ছয়টির যেকোনো একটি বাদ পড়লে ফরম্যাটের নম্বর কাটা যায়।"
-  },
-  {
-   "no": "02",
-   "tag": "Format",
-   "name": "তারিখ — বাঁ দিকে উপরে",
-   "bn": "তারিখ লেখা হয় পাতার **বাঁ পাশে সবার উপরে**। ফরম্যাট: ১২ আগস্ট ২০২৬ → **12 August 2026**।",
-   "formula": "12 August 2026",
-   "ex": "==12 August 2026=="
-  },
-  {
-   "no": "03",
-   "tag": "Format",
-   "name": "প্রাপক (To)",
-   "bn": "তারিখের নিচে প্রাপকের **পদবি ও ঠিকানা** লিখতে হয় — নাম নয়, পদবি।",
-   "formula": "The Headmaster / The Principal + institution + address",
-   "ex": "==The Principal==, Dhaka College, Dhaka."
-  },
-  {
-   "no": "04",
-   "tag": "Format",
-   "name": "বিষয় (Subject)",
-   "bn": "এক লাইনে আবেদনের **উদ্দেশ্য**। ছোট, স্পষ্ট ও ‘Prayer for …’ / ‘Application for …’ আকারে।",
-   "formula": "Subject: Prayer for …",
-   "ex": "==Subject: Prayer for leave of absence.=="
-  },
-  {
-   "no": "05",
-   "tag": "Format",
-   "name": "সম্বোধন ও সমাপ্তি",
-   "bn": "সম্বোধন **Sir / Madam**; সমাপ্তি **Yours obediently** (শিক্ষকের কাছে) বা **Yours faithfully** (অফিসে)।",
-   "formula": "Sir , … Yours obediently",
-   "ex": "==Sir==, … ==Yours obediently==, Rahim, Class XII"
-  },
-  {
-   "no": "06",
-   "tag": "Body",
-   "name": "মূল বক্তব্য — তিন ধাপে",
-   "bn": "**(ক)** পরিচয় ও আবেদনের কারণ, **(খ)** বিস্তারিত ব্যাখ্যা, **(গ)** বিনীত অনুরোধ — এই তিন ধাপেই যথেষ্ট।",
-   "formula": "identity → reason → request",
-   "ex": "I beg to state that … / Therefore, I pray …"
-  },
-  {
-   "no": "07",
-   "tag": "Language",
-   "name": "আনুষ্ঠানিক ভাষা",
-   "bn": "সংক্ষিপ্ত রূপ (don’t, I’m) ও কথ্য ভাষা ব্যবহার করা যাবে না। **I beg to state that**, **I would like to**, **Therefore, I pray** — এই ধরনের ভাষা ব্যবহার করো।",
-   "formula": "No contractions · polite tone",
-   "ex": "✗ I can’t come  ✓ I am unable to attend"
-  },
-  {
-   "no": "08",
-   "tag": "E-mail",
-   "name": "ই-মেইলের ফরম্যাট",
-   "bn": "ই-মেইলে তারিখ ও ঠিকানা লাগে না। থাকবে: **From, To, Subject**, তারপর সম্বোধন, মূল বক্তব্য ও নাম।",
-   "formula": "From · To · Subject · body · name",
-   "ex": "From: rahim@mail.com  To: principal@college.edu  Subject: Leave application"
-  },
-  {
-   "no": "09",
-   "tag": "Format",
-   "name": "দৈর্ঘ্য",
-   "bn": "মূল বক্তব্য **৫–৮ বাক্যেই** যথেষ্ট। আবেদনপত্র দীর্ঘ হলে ভালো নয় — সংক্ষিপ্ত ও স্পষ্টই আদর্শ।",
-   "formula": "5–8 sentences in the body",
-   "ex": "অপ্রাসঙ্গিক কথা যোগ কোরো না।"
-  },
-  {
-   "no": "10",
-   "tag": "Marks",
-   "name": "নম্বর কোথায় থাকে",
-   "bn": "১০ নম্বরের বণ্টন — **ফরম্যাট ৪, বিষয়বস্তু ৩, ভাষা ২, বানান ও যতিচিহ্ন ১**। তাই ফরম্যাটই সবচেয়ে বেশি নম্বরের।",
-   "formula": "Format 4 · Content 3 · Language 2 · Spelling 1",
-   "ex": "ভাষা সাধারণ হলেও ফরম্যাট ঠিক থাকলে ভালো নম্বর।"
-  }
- ],
- "boardQ": {
-  "instruction": "Write an application to the Principal for a seat in the college hostel. — কলেজ হোস্টেলে সিটের জন্য অধ্যক্ষের কাছে আবেদন লেখো। (10)",
-  "text": "Model application — নিচের অংশগুলো ক্রম অনুসারে সাজালেই সম্পূর্ণ আবেদনপত্র হয়ে যায়।",
-  "items": [
-   {
-    "ans": "12 August 2026",
-    "why": "**তারিখ** — বাঁ পাশে সবার উপরে। (নিয়ম ০২)"
-   },
-   {
-    "ans": "The Principal, Govt. Alekanda College, Barishal.",
-    "why": "**প্রাপক** — পদবি ও প্রতিষ্ঠানের নাম, ব্যক্তির নাম নয়। (নিয়ম ০৩)"
-   },
-   {
-    "ans": "Subject: Prayer for a seat in the college hostel.",
-    "why": "**বিষয়** — এক লাইনে উদ্দেশ্য। (নিয়ম ০৪)"
-   },
-   {
-    "ans": "Sir,",
-    "why": "**সম্বোধন** — Sir / Madam. (নিয়ম ০৫)"
-   },
-   {
-    "ans": "I have the honour to state that I am a student of class XII of your college.",
-    "why": "পরিচয় দিয়ে শুরু — **I have the honour to state that**. (নিয়ম ০৬, ০৭)"
-   },
-   {
-    "ans": "My house is about thirty kilometres away from the college.",
-    "why": "**কারণের বিস্তারিত** — কেন সিট দরকার। (নিয়ম ০৬)"
-   },
-   {
-    "ans": "It is very difficult for me to attend classes in time every day.",
-    "why": "সমস্যার ব্যাখ্যা — একটি বাক্যে যথেষ্ট। (নিয়ম ০৬)"
-   },
-   {
-    "ans": "Moreover, my parents cannot bear the extra cost of daily transport.",
-    "why": "**Moreover** দিয়ে দ্বিতীয় কারণ যোগ — ভাষার নম্বর। (নিয়ম ০৭)"
-   },
-   {
-    "ans": "Therefore, I pray and hope that you would be kind enough to allot me a seat in the college hostel.",
-    "why": "**বিনীত অনুরোধ** — Therefore, I pray and hope. (নিয়ম ০৬)"
-   },
-   {
-    "ans": "Yours obediently, Rahim Uddin, Class XII, Roll No. 15",
-    "why": "**সমাপ্তি ও পরিচয়** — Yours obediently + নাম, শ্রেণি, রোল। (নিয়ম ০৫)"
-   }
+
+  "extras": [
+    {
+      "title": "১৮টি বিষয় — কোন টেমপ্লেট <span class='sub'>— প্রশ্ন দেখেই ঠিক করো</span>",
+      "key": "Topic Bank",
+      "table": {
+        "headers": ["টেমপ্লেট", "প্রাপক", "বিষয়সমূহ"],
+        "rows": [
+          ["১ — নতুন সুবিধা চালু", "The Principal", "English Language Club · Computer Club · Debating Club · Literary Club · Multimedia Facilities"],
+          ["২ — নানা প্রার্থনা", "The Principal", "Study Tour · Library Facilities · Sound System · Full Free Studentship · Stipend · TC · Seat in the hostel · Testimonial · Common Room Facilities · Stage a Drama"],
+          ["৩ — এলাকার সমস্যা", "Chairman / Mayor / DC / OC / SP", "Repairing a road/bridge · Constructing a road/bridge · Opening a relief camp and medical aids · Preventing anti-social activities"]
+        ]
+      },
+      "note": "কলেজের ভিতরের বিষয় হলে ==Principal==, এলাকার বিষয় হলে ==Chairman/Mayor/DC/OC/SP==।"
+    },
+    {
+      "title": "স্থায়ী বাক্যগুলো <span class='sub'>— মুখস্থ করলেই অর্ধেক নম্বর</span>",
+      "key": "Fixed Lines",
+      "table": {
+        "headers": ["অংশ", "যা হুবহু লিখতে হবে"],
+        "rows": [
+          ["সূচনা", "I/We, the students of your college, with due respect and humble submission, would like to state that —"],
+          ["সূচনা (এলাকা)", "I/We, the undersigned inhabitants of the X village/ward under X upazila/city corporation, with due respect and humble submission, would like to state that —"],
+          ["সমাপ্তি ১", "We, therefore, pray and hope that you would be kind enough to grant our application and oblige thereby."],
+          ["সমাপ্তি ২", "I/We, therefore, hope and pray that you kindly approve my/our appeal and oblige thereby."],
+          ["সমাপ্তি ৩", "Therefore, I/we request you to take necessary steps so that the people of the area can get relief from it."],
+          ["স্বাক্ষর", "Yours obediently, / The students of X college, Barishal."]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "✍️", "t": "Yours obediently — apostrophe নয়", "type": "warn", "d": "==Yours== obediently ✅ · ‘Your's’ ❌। এই ছোট ভুলে নম্বর কাটে।" },
+    { "em": "👤", "t": "I না We", "type": "warn", "d": "Studentship, stipend, TC, testimonial — ==একজনের== বিষয়, তাই ==I==। ক্লাব, লাইব্রেরি, ট্যুর — ==We==।" },
+    { "em": "🏛️", "t": "প্রাপক ঠিক করো আগে", "d": "কলেজের ভিতরের কিছু → ==Principal==; রাস্তা, বন্যা, চুরি → ==Chairman/Mayor/DC/OC/SP==।" },
+    { "em": "📋", "t": "Sub লাইন বাদ দিয়ো না", "d": "==Sub :== লাইনটি না থাকলে format-এর নম্বর পুরো যায় না।" },
+    { "em": "🔁", "t": "একই কাঠামো, শুধু body বদলায়", "d": "১৮টি বিষয়ের জন্য ১৮টি চিঠি মুখস্থ কোরো না — ==একটি কাঠামো== আর ==body-র ২-৩ লাইন==।" },
+    { "em": "🗓️", "t": "তারিখের ফরম্যাট", "d": "==03 June, 202–.== — দিন, মাস, সাল; শেষে ফুলস্টপ।" }
+  ],
+
+  "recap": [
+    "ছয় অংশ: তারিখ → প্রাপক → Sub → Dear sir → body → Yours obediently + পরিচয়।",
+    "সূচনা সব বিষয়ে এক: ‘with due respect and humble submission, would like to state that…’।",
+    "টেমপ্লেট ১ — ক্লাব ও সুবিধা (৫টি বিষয়), প্রাপক Principal।",
+    "টেমপ্লেট ২ — ট্যুর, লাইব্রেরি, studentship, TC, testimonial ইত্যাদি (১০টি বিষয়)।",
+    "টেমপ্লেট ৩ — রাস্তা, বন্যা, সমাজবিরোধী কার্যকলাপ; প্রাপক Chairman/Mayor/DC/OC/SP, পরিচয় inhabitants।",
+    "একক বিষয়ে I, দলগত বিষয়ে We; শেষে সবসময় Yours obediently।"
+  ],
+
+  "homework": [
+    "তিনটি টেমপ্লেটের স্থায়ী বাক্যগুলো না দেখে লিখে আনবে।",
+    "Practice Set 1-এর যেকোনো ৪টি বিষয়ে সম্পূর্ণ আবেদনপত্র লিখবে।",
+    "Repairing a road ও Preventing anti-social activities — দুটি পূর্ণ আবেদনপত্র লিখে আনবে।",
+    "Topic Bank-এর ১৮টি বিষয় কোন টেমপ্লেটে পড়ে, তা তালিকা করে আনবে।"
   ]
- },
- "drills": [
-  {
-   "title": "Practice Set 1 — কোন অংশ কোথায়",
-   "intro": "প্রতিটি অংশ কোথায় বসবে বলো।",
-   "items": [
-    {
-     "q": "তারিখ কোথায় লিখব?",
-     "ans": "পাতার বাঁ পাশে সবার উপরে",
-     "why": "ফরম্যাটের প্রথম অংশ। (০২)"
-    },
-    {
-     "q": "প্রাপকের নাম নাকি পদবি?",
-     "ans": "পদবি — The Principal / The Headmaster",
-     "why": "ব্যক্তির নাম লেখা হয় না। (০৩)"
-    },
-    {
-     "q": "শিক্ষকের কাছে সমাপ্তি কী?",
-     "ans": "Yours obediently",
-     "why": "অফিসে হলে Yours faithfully. (০৫)"
-    },
-    {
-     "q": "ই-মেইলে তারিখ লাগে?",
-     "ans": "না — From, To, Subject-ই যথেষ্ট",
-     "why": "ই-মেইলে ঠিকানা ও তারিখ বাদ। (০৮)"
-    },
-    {
-     "q": "‘I can’t attend’ লেখা যাবে?",
-     "ans": "না — I am unable to attend",
-     "why": "সংক্ষিপ্ত রূপ নিষিদ্ধ। (০৭)"
-    },
-    {
-     "q": "মূল বক্তব্য কত বাক্য?",
-     "ans": "৫–৮ বাক্য",
-     "why": "সংক্ষিপ্ত ও স্পষ্ট। (০৯)"
-    }
-   ]
-  },
-  {
-   "title": "Practice Set 2 — বিষয় (Subject) লেখো",
-   "intro": "প্রতিটি আবেদনের জন্য এক লাইনের বিষয় বলো।",
-   "items": [
-    {
-     "q": "তিন দিনের ছুটির জন্য",
-     "ans": "Subject: Prayer for three days’ leave of absence.",
-     "why": "‘Prayer for …’ কাঠামো। (০৪)"
-    },
-    {
-     "q": "প্রশংসাপত্রের জন্য",
-     "ans": "Subject: Prayer for a testimonial.",
-     "why": "সংক্ষিপ্ত ও স্পষ্ট। (০৪)"
-    },
-    {
-     "q": "ক্যান্টিন স্থাপনের জন্য",
-     "ans": "Subject: Prayer for setting up a canteen.",
-     "why": "প্রতিষ্ঠানের সুবিধা-সংক্রান্ত। (০৪)"
-    },
-    {
-     "q": "দরিদ্র তহবিল থেকে সাহায্যের জন্য",
-     "ans": "Subject: Prayer for financial help from the poor fund.",
-     "why": "আর্থিক সাহায্য। (০৪)"
-    },
-    {
-     "q": "ছাড়পত্রের জন্য",
-     "ans": "Subject: Prayer for a transfer certificate.",
-     "why": "সাধারণ আবেদন। (০৪)"
-    },
-    {
-     "q": "খেলার মাঠ সংস্কারের জন্য",
-     "ans": "Subject: Prayer for repairing the playground.",
-     "why": "সাধারণ সুবিধা। (০৪)"
-    }
-   ]
-  }
- ],
- "extras": [
-  {
-   "title": "Application skeleton <span class='sub'>— যেকোনো আবেদনে খাটে</span>",
-   "key": "Skeleton",
-   "table": {
-    "headers": [
-     "ক্রম",
-     "অংশ",
-     "কী লিখবে"
-    ],
-    "rows": [
-     [
-      "১",
-      "@Date",
-      "12 August 2026 (বাঁ পাশে)"
-     ],
-     [
-      "২",
-      "@To",
-      "The Principal, প্রতিষ্ঠানের নাম, ঠিকানা"
-     ],
-     [
-      "৩",
-      "@Subject",
-      "Prayer for … (এক লাইন)"
-     ],
-     [
-      "৪",
-      "@Salutation",
-      "Sir, / Madam,"
-     ],
-     [
-      "৫",
-      "@Body ১",
-      "I have the honour to state that … (পরিচয় ও কারণ)"
-     ],
-     [
-      "৬",
-      "@Body ২",
-      "বিস্তারিত ব্যাখ্যা (২–৩ বাক্য)"
-     ],
-     [
-      "৭",
-      "@Body ৩",
-      "Therefore, I pray and hope … (অনুরোধ)"
-     ],
-     [
-      "৮",
-      "@Closing",
-      "Yours obediently, নাম, শ্রেণি, রোল"
-     ]
-    ]
-   },
-   "note": "**এই আটটি ঘর মুখস্থ থাকলে যেকোনো বিষয়ে আবেদন লেখা যায়** — শুধু কারণ ও অনুরোধ বদলাও।"
-  },
-  {
-   "title": "Phrase bank <span class='sub'>— আবেদনের নিরাপদ বাক্য</span>",
-   "key": "Phrases",
-   "table": {
-    "headers": [
-     "কাজ",
-     "বাক্যাংশ"
-    ],
-    "rows": [
-     [
-      "শুরু করতে",
-      "@I have the honour to state that … / I beg to state that …"
-     ],
-     [
-      "পরিচয় দিতে",
-      "@I am a student of class XII of your institution."
-     ],
-     [
-      "কারণ যোগ করতে",
-      "@Moreover, … / Besides, … / In addition, …"
-     ],
-     [
-      "অসুবিধা বোঝাতে",
-      "@It is very difficult for me to … / I am unable to …"
-     ],
-     [
-      "অনুরোধ করতে",
-      "@Therefore, I pray and hope that you would be kind enough to …"
-     ],
-     [
-      "কৃতজ্ঞতা জানাতে",
-      "@I shall be highly obliged to you. / I remain grateful to you."
-     ],
-     [
-      "শেষ করতে",
-      "@Yours obediently, (শিক্ষক) / Yours faithfully, (অফিস)"
-     ]
-    ]
-   },
-   "note": "এই বাক্যগুলো মুখস্থ থাকলে বিষয় যাই হোক, আবেদন লিখতে দুই মিনিটও লাগবে না।"
-  }
- ],
- "tips": [
-  {
-   "em": "📐",
-   "t": "Format carries 4 of 10 marks",
-   "d": "ছয়টি অংশ ঠিক জায়গায় বসালেই অর্ধেকের কাছাকাছি নম্বর নিশ্চিত — ভাষা পরে।",
-   "type": "ok"
-  },
-  {
-   "em": "🚫",
-   "t": "No contractions, no slang",
-   "d": "don’t, can’t, I’m — আনুষ্ঠানিক পত্রে নিষিদ্ধ। পূর্ণ রূপ লেখো।",
-   "type": "warn"
-  },
-  {
-   "em": "👤",
-   "t": "Post, not person",
-   "d": "প্রাপক হিসেবে ব্যক্তির নাম নয়, **পদবি** লেখো — The Principal, The Headmaster।",
-   "type": "warn"
-  },
-  {
-   "em": "✂️",
-   "t": "Keep the body short",
-   "d": "৫–৮ বাক্যই যথেষ্ট। অপ্রাসঙ্গিক আবেগ যোগ করলে নম্বর বাড়ে না।"
-  },
-  {
-   "em": "📧",
-   "t": "E-mail drops date and address",
-   "d": "ই-মেইলে From, To, Subject — তারপর সরাসরি সম্বোধন ও বক্তব্য।"
-  },
-  {
-   "em": "✍️",
-   "t": "Sign off correctly",
-   "d": "শিক্ষকের কাছে **Yours obediently**, অফিসে **Yours faithfully** — গুলিয়ে ফেলো না।",
-   "type": "ok"
-  }
- ],
- "recap": [
-  "ছয়টি অংশ: তারিখ, প্রাপক, বিষয়, সম্বোধন, মূল বক্তব্য, সমাপ্তি।",
-  "প্রাপক হিসেবে পদবি লেখো, ব্যক্তির নাম নয়।",
-  "মূল বক্তব্য তিন ধাপে: পরিচয় ও কারণ → ব্যাখ্যা → অনুরোধ।",
-  "আনুষ্ঠানিক ভাষা — সংক্ষিপ্ত রূপ ও কথ্য ভাষা নিষিদ্ধ।",
-  "নম্বর: ফরম্যাট ৪ + বিষয়বস্তু ৩ + ভাষা ২ + বানান ১।"
- ],
- "homework": [
-  "Application skeleton-এর আটটি ঘর মুখস্থ করবে।",
-  "Phrase bank-এর বাক্যগুলো খাতায় লিখবে।",
-  "হোস্টেলের সিটের আবেদনটি না দেখে লিখবে।",
-  "ছুটি ও প্রশংসাপত্রের জন্য দুটি আবেদন লিখে আনবে।"
- ],
- "paper": "paper2"
 }
