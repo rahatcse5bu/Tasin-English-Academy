@@ -889,3 +889,95 @@
   .tea-deck .wq { border-bottom: 0; }
   .tea-deck .wm-back, .tea-deck .wq-tip { display: none; }
 }
+
+/* ============================================================
+   Whiteboard text tool — notes typed straight onto the slide
+   ============================================================ */
+
+/* The layer itself must not swallow clicks: the ink canvas sits underneath and
+   still has to receive them everywhere a note is not. */
+.tea-deck .wb-notes {
+  position: absolute; inset: 0; z-index: 34;
+  pointer-events: none;
+}
+
+.tea-deck .wb-note {
+  position: absolute;
+  pointer-events: auto;
+  min-width: 60px;
+  padding: 4px 6px;
+  border: 1.5px dashed transparent;
+  border-radius: 8px;
+  font-family: var(--font-bn);
+  font-weight: 700;
+  line-height: 1.35;
+  cursor: default;
+}
+.tea-deck .wb-note:hover { border-color: rgba(148, 163, 184, .55); }
+.tea-deck .wb-note.sel {
+  border-color: var(--navy-600);
+  border-style: solid;
+  background: rgba(255, 255, 255, .06);
+}
+
+.tea-deck .wb-note-text { white-space: pre-wrap; word-break: break-word; }
+.tea-deck .wb-note textarea {
+  width: 100%;
+  background: transparent;
+  border: 0;
+  outline: none;
+  resize: none;
+  overflow: hidden;
+  font: inherit;
+  font-weight: 700;
+  line-height: 1.35;
+  white-space: pre-wrap;
+  word-break: break-word;
+  padding: 0;
+}
+.tea-deck .wb-note textarea::placeholder,
+.tea-deck .wb-note-text:empty::before { color: currentColor; opacity: .4; }
+
+/* handles — only on hover or when selected, so the slide stays clean */
+.tea-deck .wb-note-grip,
+.tea-deck .wb-note-x,
+.tea-deck .wb-note-size { opacity: 0; transition: opacity .12s; }
+.tea-deck .wb-note:hover .wb-note-grip,
+.tea-deck .wb-note:hover .wb-note-x,
+.tea-deck .wb-note:hover .wb-note-size,
+.tea-deck .wb-note.sel .wb-note-grip,
+.tea-deck .wb-note.sel .wb-note-x,
+.tea-deck .wb-note.sel .wb-note-size { opacity: 1; }
+
+.tea-deck .wb-note-grip {
+  position: absolute; left: -26px; top: -2px;
+  width: 22px; height: 22px;
+  display: grid; place-items: center;
+  border-radius: 6px;
+  background: var(--navy-700); color: #fff;
+  font-size: 13px; cursor: grab;
+  touch-action: none;
+}
+.tea-deck .wb-note-grip:active { cursor: grabbing; }
+
+.tea-deck .wb-note-x {
+  position: absolute; right: -12px; top: -12px;
+  width: 20px; height: 20px;
+  border: 0; border-radius: 50%;
+  background: var(--no); color: #fff;
+  font-size: 11px; line-height: 1; cursor: pointer;
+}
+
+.tea-deck .wb-note-size {
+  position: absolute; right: -7px; bottom: -7px;
+  width: 14px; height: 14px;
+  border: 2px solid #fff; border-radius: 3px;
+  background: var(--navy-600);
+  cursor: nwse-resize;
+  touch-action: none;
+}
+
+/* with the text tool armed, the canvas cursor should say "click to type" */
+.tea-deck.wb-text .wb-canvas { cursor: text; }
+
+@media print { .tea-deck .wb-note-grip, .tea-deck .wb-note-x, .tea-deck .wb-note-size { display: none; } }

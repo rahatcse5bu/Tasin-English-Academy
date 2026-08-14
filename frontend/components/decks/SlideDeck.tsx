@@ -21,6 +21,7 @@ import { build } from '@/lib/deck/build';
 import { plain } from '@/lib/deck/text';
 import { buildLexicon, norm, type WordEntry } from '@/lib/deck/lexicon';
 import WordModal from './WordModal';
+import TextNote, { type Note } from './TextNote';
 import type { Deck, Neighbours } from '@/lib/deck/types';
 
 const BRAND = { name: 'Tasin English Academy', phone: '01722335722' };
@@ -45,7 +46,7 @@ const SlideBody = memo(function SlideBody({ html, bare }: { html: string; bare?:
 const WB_COLORS = ['#d9242b', '#24528f', '#111827', '#0f9d58', '#d98324', '#7c3aed'];
 const WB_SIZES = [2, 3, 4, 6, 9, 14, 22];
 
-type Tool = 'pen' | 'marker' | 'laser' | 'eraser';
+type Tool = 'pen' | 'marker' | 'laser' | 'eraser' | 'text';
 
 export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours }) {
   const all = useMemo(() => build(deck), [deck]);
@@ -68,6 +69,10 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
   const [tool, setTool] = useState<Tool>('pen');
   const [color, setColor] = useState(WB_COLORS[0]);
   const [size, setSize] = useState(3);
+
+  /** Typed notes, kept per slide like the ink is. */
+  const [notes, setNotes] = useState<Record<number, Note[]>>({});
+  const [activeNote, setActiveNote] = useState<string | null>(null);
   const [ans, setAns] = useState({ left: 0, total: 0 });
 
   /**
@@ -334,6 +339,12 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
 
   const onDown = (e: React.PointerEvent) => {
     if (!wbOn) return;
+    if (tool === 'text') {
+      e.preventDefault();
+      setActiveNote(null); // clicking bare canvas deselects…
+      addNote(e); // …and drops a fresh note where the pointer landed
+      return;
+    }
     e.preventDefault();
     try {
       inkRef.current!.setPointerCapture(e.pointerId);
@@ -367,12 +378,43 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
       }, 900);
     }
   };
+  const noteList = notes[i] || [];
+
+  const patchNote = (id: string, patch: Partial<Note>) =>
+    setNotes((n) => ({ ...n, [i]: (n[i] || []).map((x) => (x.id === id ? { ...x, ...patch } : x)) }));
+
+  const dropNote = (id: string) => {
+    setNotes((n) => ({ ...n, [i]: (n[i] || []).filter((x) => x.id !== id) }));
+    setActiveNote(null);
+  };
+
+  /** Click on an empty part of the slide with the text tool → a new note there. */
+  const addNote = (e: React.PointerEvent) => {
+    const stage = stageRef.current;
+    if (!stage) return;
+    const box = stage.getBoundingClientRect();
+    const id = `n${Date.now().toString(36)}${(noteList.length + 1).toString(36)}`;
+    const note: Note = {
+      id,
+      x: ((e.clientX - box.left) / box.width) * 100,
+      y: ((e.clientY - box.top) / box.height) * 100,
+      w: 30,
+      size: 28,
+      color,
+      text: '',
+    };
+    setNotes((n) => ({ ...n, [i]: [...(n[i] || []), note] }));
+    setActiveNote(id);
+  };
+
   const wbClear = () => {
     const ink = inkRef.current!;
     const laser = laserRef.current!;
     ink.getContext('2d')!.clearRect(0, 0, ink.width, ink.height);
     laser.getContext('2d')!.clearRect(0, 0, laser.width, laser.height);
     delete wb.current.snaps[i];
+    setNotes((n) => ({ ...n, [i]: [] }));
+    setActiveNote(null);
   };
 
   useEffect(() => {
@@ -419,6 +461,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
       else if (k === 'e' || k === 'E') setHideEn((v) => !v);
       else if (k === 'p' || k === 'P') setHidePassage((v) => !v);
       else if (k === 'w' || k === 'W') setWbOn((v) => !v);
+      else if (k === 't' || k === 'T') { setWbOn(true); setTool('text'); }
       else if (k === 'd' || k === 'D') setDark((v) => !v);
       else if (k === 'f' || k === 'F') toggleFull();
       else if (k === '?' || k === '/') setHelp((v) => !v);
@@ -521,7 +564,9 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
 
   return (
     <div
-      className={`tea-deck${hideBn ? ' hide-bn' : ''}${hideEn ? ' hide-en' : ''}${wbOn ? ' wb-on' : ''}`}
+      className={`tea-deck${hideBn ? ' hide-bn' : ''}${hideEn ? ' hide-en' : ''}${wbOn ? ' wb-on' : ''}${
+        wbOn && tool === 'text' ? ' wb-text' : ''
+      }`}
       data-deck-theme={dark ? 'dark' : 'light'}
     >
       <div id="deck">
@@ -663,6 +708,25 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
             onPointerCancel={onUp}
           />
           <canvas ref={laserRef} className="wb-canvas wb-laser" />
+
+          {wbOn && !!noteList.length && (
+            <div className="wb-notes">
+              {noteList.map((nt) => (
+                <TextNote
+                  key={nt.id}
+                  note={nt}
+                  stage={stageRef.current}
+                  selected={activeNote === nt.id}
+                  onSelect={() => {
+                    setActiveNote(nt.id);
+                    setColor(nt.color);
+                  }}
+                  onChange={(patch) => patchNote(nt.id, patch)}
+                  onDelete={() => dropNote(nt.id)}
+                />
+              ))}
+            </div>
+          )}
         </main>
 
         <button
@@ -685,14 +749,14 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
 
       {/* whiteboard palette */}
       <div id="wb-palette">
-        {(['pen', 'marker', 'laser', 'eraser'] as Tool[]).map((t) => (
+        {(['pen', 'marker', 'text', 'laser', 'eraser'] as Tool[]).map((t) => (
           <button
             key={t}
             className={`wb-btn${tool === t ? ' on' : ''}`}
             onClick={() => setTool(t)}
             title={t}
           >
-            {t === 'pen' ? '✏️' : t === 'marker' ? '🖍️' : t === 'laser' ? '🔴' : '🧽'}
+            {t === 'pen' ? '✏️' : t === 'marker' ? '🖍️' : t === 'text' ? '🅣' : t === 'laser' ? '🔴' : '🧽'}
           </button>
         ))}
         <span className="wb-sep" />
@@ -702,7 +766,10 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
               key={c}
               className={`dot${color === c ? ' on' : ''}`}
               style={{ background: c }}
-              onClick={() => setColor(c)}
+              onClick={() => {
+                setColor(c);
+                if (activeNote) patchNote(activeNote, { color: c });
+              }}
               title="Colour"
             />
           ))}
@@ -768,6 +835,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
             ['আগের উত্তর লুকাও', 'Shift+R / Backspace'],
             ['ইংরেজি লাইন লুকাও / দেখাও', 'E'],
             ['ইংরেজি প্যাসেজ স্লাইড বাদ দাও', 'P'],
+            ['স্লাইডে লেখা যোগ করো', 'T'],
             ['প্রথম / শেষ স্লাইড', 'Home / End'],
             ['বন্ধ করো', 'Esc'],
           ].map(([label, key]) => (
