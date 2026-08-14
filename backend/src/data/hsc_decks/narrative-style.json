@@ -1,524 +1,219 @@
 {
- "id": "narrative-style",
- "paperName": "HSC English 2nd Paper",
- "unit": "Part A",
- "unitName": "Grammar — Narration",
- "title": "Narrative Style — Direct ↔ Indirect Speech",
- "titleBn": "উক্তি পরিবর্তন (প্রত্যক্ষ ↔ পরোক্ষ)",
- "lede": "চারটি জিনিস বদলায় — reporting verb, person, tense, আর সময়-স্থানসূচক শব্দ। বাক্যের ধরন বুঝলেই বাকিটা নিয়মে চলে।",
- "qType": "Grammar — Narrative Style",
- "minutes": 60,
- "marks": "5",
- "rulesTitle": "উক্তি পরিবর্তনের নিয়ম",
- "rulesPerSlide": 2,
- "objectives": [
-  {
-   "t": "The four changes",
-   "d": "Reporting verb · Person · Tense · Adverb — এই চারটিই বদলায়"
+  "id": "narrative-style",
+  "paper": "paper2",
+  "paperName": "English 2nd Paper",
+  "unit": "Part A",
+  "unitName": "Grammar — Transformation",
+  "title": "Narration — Direct ↔ Indirect Speech",
+  "titleBn": "উক্তি পরিবর্তন",
+  "lede": "একাডেমির হ্যান্ডনোট অনুযায়ী — Person, Tense ও নিকট্যসূচক শব্দের পরিবর্তন, এবং পাঁচ ধরনের বাক্যের নিয়ম, প্রতিটির উদাহরণসহ।",
+  "qType": "Grammar — Narration",
+  "minutes": 45,
+  "marks": "5",
+  "rulesTitle": "Narration পরিবর্তনের নিয়ম",
+  "rulesPerSlide": 2,
+
+  "objectives": [
+    { "t": "Split any direct speech into two parts", "d": "Reporting Verb + Reported Speech" },
+    { "t": "Apply the three basic changes", "d": "Person · Tense · নিকট্যসূচক শব্দ" },
+    { "t": "Pick the reporting verb by sentence type", "d": "said / asked / ordered / prayed / exclaimed" },
+    { "t": "Know when tense does NOT change", "d": "Reporting verb present বা future, আর চিরন্তন সত্য" }
+  ],
+
+  "rules": [
+    {
+      "no": "01", "tag": "Base", "name": "Narration কী, আর দুটি অংশ",
+      "bn": "বক্তার কথা অন্যের কাছে বর্ণনা করাকে **Narration বা উক্তি** বলে। **Direct Speech** — বক্তার কথা হুবহু তুলে ধরা। **Indirect Speech** — বক্তার কথা নিজের ভাষায় বর্ণনা করা।",
+      "formulaLabel": "TWO PARTS",
+      "formula": "Reporting Verb (inverted comma-র বাইরে) + Reported Speech (ভিতরে)",
+      "ex": "**D:** He said, \"I am ill.\" → **I:** He said ==that he was ill==."
+    },
+    {
+      "no": "02", "tag": "Basic", "name": "Person Change (পুরুষ পরিবর্তন)",
+      "bn": "**1st Person** (I, we, me, my, our) — Reporting Verb-এর **Subject** অনুযায়ী পরিবর্তন হবে। **2nd Person** (you, your) — Reporting Verb-এর **Object** অনুযায়ী। **3rd Person** (he, she, it, they, নাম) — **কোনো পরিবর্তন হবে না**।",
+      "formulaLabel": "SON",
+      "formula": "1st → Subject · 2nd → Object · 3rd → No change",
+      "ex": "**D:** He said to me, \"I know ==your== father.\" → **I:** He told me that he knew ==my== father."
+    },
+    {
+      "no": "03", "tag": "Basic", "name": "Tense Change (টেন্স পরিবর্তন)",
+      "bn": "Reporting Verb যদি **Past Tense** (যেমন said) হয়, তবে Reported Speech-এর tense এক ধাপ পিছিয়ে যাবে। **Present Indefinite → Past Indefinite, Present Continuous → Past Continuous, Present Perfect → Past Perfect।**",
+      "formulaLabel": "SHIFT",
+      "formula": "Present → Past · Past → Past Perfect · shall/will → would · can/may → could/might",
+      "ex": "**D:** He said, \"I ==am== ill.\" → **I:** He said that he ==was== ill."
+    },
+    {
+      "no": "04", "tag": "Basic", "name": "Tense কখন বদলায় না",
+      "bn": "Reporting Verb যদি **Present বা Future Tense**-এ থাকে, তবে ভেতরের tense-এর কোনো পরিবর্তন হয় না। **চিরন্তন সত্য বা অভ্যাস** বোঝালেও tense বদলায় না।",
+      "formulaLabel": "NO CHANGE",
+      "formula": "Reporting verb = present / future · চিরন্তন সত্য · অভ্যাস",
+      "ex": "**D:** He says, \"I am ill.\" → **I:** He says that he ==is== ill. · The teacher said, \"The sun ==rises== in the east.\" → … that the sun ==rises== in the east."
+    },
+    {
+      "no": "05", "tag": "Basic", "name": "Word Change (নিকট্যসূচক শব্দের পরিবর্তন)",
+      "bn": "নিকট্য বোঝানো শব্দগুলো দূরত্ব বোঝানো শব্দে বদলে যায়।",
+      "formulaLabel": "WORDS",
+      "formula": "this→that · these→those · here→there · now→then · today→that day",
+      "ex": "tomorrow → ==the next day== · yesterday → ==the previous day== · ago → ==before=="
+    },
+    {
+      "no": "06", "tag": "Sentence", "name": "Assertive Sentence (বিবৃতিমূলক বাক্য)",
+      "bn": "**Reporting Verb:** said বা told বসে (Object থাকলে **told** বসানো ভালো)। **Linker:** Inverted comma উঠে গিয়ে **that** বসে।",
+      "formulaLabel": "STRUCTURE",
+      "formula": "Subject + said / told + Object + that + Reported Speech",
+      "ex": "**D:** He said to me, \"I am fine today.\" → **I:** He ==told me that== he was fine ==that day==."
+    },
+    {
+      "no": "07", "tag": "Sentence", "name": "Interrogative Sentence (প্রশ্নবোধক বাক্য)",
+      "bn": "**Reporting Verb:** asked বা enquired of বসে। **Linker:** **if / whether** বসে; তবে WH Word (what, who, how, where) থাকলে সেটিই বসে। বাক্যটি **Assertive** হয়ে যায় — Subject আগে, Verb পরে।",
+      "formulaLabel": "STRUCTURE",
+      "formula": "asked + Object + if / whether / WH-word + Subject + Verb",
+      "ex": "**D:** He said to me, \"Are you reading a book?\" → **I:** He ==asked me if== I was reading a book. · \"What is your name?\" → He asked me ==what my name was==."
+    },
+    {
+      "no": "08", "tag": "Sentence", "name": "Imperative Sentence (আদেশ / উপদেশ / অনুরোধ)",
+      "bn": "**Reporting Verb:** অর্থ অনুযায়ী **ordered** (আদেশ), **requested** (অনুরোধ), **advised** (উপদেশ) বা told বসে। **Linker:** Inverted comma উঠে গিয়ে **to** বসে; negative হলে **not to** বসে।",
+      "formulaLabel": "STRUCTURE",
+      "formula": "ordered / requested / advised + Object + to + V1 (negative: not to + V1)",
+      "ex": "**D:** The teacher said to me, \"Do the work.\" → **I:** The teacher ==ordered me to do== the work. · \"Please help me.\" → He ==requested me to help== him."
+    },
+    {
+      "no": "09", "tag": "Sentence", "name": "Optative Sentence (প্রার্থনা বা ইচ্ছাসূচক বাক্য)",
+      "bn": "**Reporting Verb:** prayed (প্রার্থনা) বা wished (ইচ্ছা) বসে। **Linker:** that বসে। **Structure:** Subject + might/may + verb-এর base form।",
+      "formulaLabel": "STRUCTURE",
+      "formula": "prayed / wished + that + Subject + might + V1",
+      "ex": "**D:** Mother said to me, \"May you pass the exam.\" → **I:** Mother ==prayed that I might pass== the exam."
+    },
+    {
+      "no": "10", "tag": "Sentence", "name": "Exclamatory Sentence (আবেগ বা বিস্ময়সূচক বাক্য)",
+      "bn": "**Reporting Verb:** **exclaimed with joy** (আনন্দে), **exclaimed with sorrow** (দুঃখে), বা **exclaimed with wonder** (বিস্ময়ে) বসে। **Linker:** that। বাক্যটি Assertive হয়ে যায় এবং **very / great** যুক্ত হয়।",
+      "formulaLabel": "STRUCTURE",
+      "formula": "exclaimed with joy / sorrow / wonder + that + Assertive form",
+      "ex": "**D:** The boy said, \"Hurrah! I have won the game.\" → **I:** The boy ==exclaimed with joy that== he had won the game. · \"What a beautiful bird it is!\" → He ==exclaimed with wonder that it was a very beautiful bird==."
+    }
+  ],
+
+  "drills": [
+    {
+      "title": "Practice Set 1 — Person, Tense, Word",
+      "intro": "তিনটি পরিবর্তন — কে বলছে, কোন tense, আর কোন শব্দ।",
+      "items": [
+        { "q": "He said, \"I am ill.\"", "ans": "He said that he was ill.", "why": "1st person → subject অনুযায়ী; Present → Past। (নিয়ম ০২, ০৩)" },
+        { "q": "He said to me, \"I know your father.\"", "ans": "He told me that he knew my father.", "why": "1st → he (subject), 2nd → my (object)। (নিয়ম ০২)" },
+        { "q": "He says, \"I am ill.\"", "ans": "He says that he is ill.", "why": "Reporting verb present → tense বদলায় না। (নিয়ম ০৪)" },
+        { "q": "The teacher said, \"The sun rises in the east.\"", "ans": "The teacher said that the sun rises in the east.", "why": "চিরন্তন সত্য → tense অপরিবর্তিত। (নিয়ম ০৪)" },
+        { "q": "He said, \"I am busy today.\"", "ans": "He said that he was busy that day.", "why": "today → that day। (নিয়ম ০৫)" },
+        { "q": "He said, \"I will come tomorrow.\"", "ans": "He said that he would come the next day.", "why": "will → would; tomorrow → the next day। (নিয়ম ০৩, ০৫)" },
+        { "q": "She said, \"I saw him here yesterday.\"", "ans": "She said that she had seen him there the previous day.", "why": "Past → Past Perfect; here → there; yesterday → the previous day। (নিয়ম ০৩, ০৫)" }
+      ]
+    },
+    {
+      "title": "Practice Set 2 — পাঁচ ধরনের বাক্য",
+      "intro": "আগে বাক্যের ধরন বলো — তারপর reporting verb আর linker।",
+      "items": [
+        { "q": "He said to me, \"I am fine today.\"", "ans": "He told me that he was fine that day.", "why": "Assertive → told + that। (নিয়ম ০৬)" },
+        { "q": "He said to me, \"Are you reading a book?\"", "ans": "He asked me if I was reading a book.", "why": "Interrogative (yes/no) → asked + if। (নিয়ম ০৭)" },
+        { "q": "He said to me, \"What is your name?\"", "ans": "He asked me what my name was.", "why": "WH প্রশ্ন → WH word-ই linker; subject আগে, verb পরে। (নিয়ম ০৭)" },
+        { "q": "The teacher said to me, \"Do the work.\"", "ans": "The teacher ordered me to do the work.", "why": "আদেশ → ordered + to। (নিয়ম ০৮)" },
+        { "q": "He said to me, \"Please help me.\"", "ans": "He requested me to help him.", "why": "অনুরোধ → requested + to। (নিয়ম ০৮)" },
+        { "q": "Father said to me, \"Do not waste time.\"", "ans": "Father advised me not to waste time.", "why": "নিষেধ → not to। (নিয়ম ০৮)" },
+        { "q": "Mother said to me, \"May you pass the exam.\"", "ans": "Mother prayed that I might pass the exam.", "why": "Optative → prayed + that + might। (নিয়ম ০৯)" },
+        { "q": "The boy said, \"Hurrah! I have won the game.\"", "ans": "The boy exclaimed with joy that he had won the game.", "why": "আনন্দ → exclaimed with joy। (নিয়ম ১০)" },
+        { "q": "He said, \"What a beautiful bird it is!\"", "ans": "He exclaimed with wonder that it was a very beautiful bird.", "why": "বিস্ময় → exclaimed with wonder + very। (নিয়ম ১০)" },
+        { "q": "She said, \"Alas! I am undone.\"", "ans": "She exclaimed with sorrow that she was undone.", "why": "দুঃখ → exclaimed with sorrow। (নিয়ম ১০)" }
+      ]
+    }
+  ],
+
+  "boardQ": {
+    "instruction": "Change the following sentences into indirect speech. — নিচের বাক্যগুলো পরোক্ষ উক্তিতে পরিবর্তন করো। (5)",
+    "items": [
+      { "q": "He said, \"I am ill.\"", "ans": "He said that he was ill.", "why": "Assertive → **that**; Present → Past। (নিয়ম ০৩, ০৬)" },
+      { "q": "He said to me, \"I am fine today.\"", "ans": "He told me that he was fine that day.", "why": "Object আছে → **told**; today → **that day**। (নিয়ম ০৫, ০৬)" },
+      { "q": "He said to me, \"Are you reading a book?\"", "ans": "He asked me if I was reading a book.", "why": "Yes/no প্রশ্ন → **asked + if**। (নিয়ম ০৭)" },
+      { "q": "He said to me, \"What is your name?\"", "ans": "He asked me what my name was.", "why": "WH word-ই linker; **subject আগে, verb পরে**। (নিয়ম ০৭)" },
+      { "q": "The teacher said to me, \"Do the work.\"", "ans": "The teacher ordered me to do the work.", "why": "আদেশ → **ordered + to**। (নিয়ম ০৮)" },
+      { "q": "He said to me, \"Please help me.\"", "ans": "He requested me to help him.", "why": "Please → **requested**। (নিয়ম ০৮)" },
+      { "q": "Mother said to me, \"May you pass the exam.\"", "ans": "Mother prayed that I might pass the exam.", "why": "Optative → **prayed that … might**। (নিয়ম ০৯)" },
+      { "q": "The boy said, \"Hurrah! I have won the game.\"", "ans": "The boy exclaimed with joy that he had won the game.", "why": "Hurrah → **exclaimed with joy**। (নিয়ম ১০)" },
+      { "q": "He said, \"What a beautiful bird it is!\"", "ans": "He exclaimed with wonder that it was a very beautiful bird.", "why": "What a …! → **very** যুক্ত হয়। (নিয়ম ১০)" },
+      { "q": "The teacher said, \"The sun rises in the east.\"", "ans": "The teacher said that the sun rises in the east.", "why": "চিরন্তন সত্য → tense **অপরিবর্তিত**। (নিয়ম ০৪)" }
+    ]
   },
-  {
-   "t": "Person rule: SON",
-   "d": "Subject → Object → No change — সহজ সূত্র"
-  },
-  {
-   "t": "Five sentence types",
-   "d": "Assertive, Interrogative, Imperative, Optative, Exclamatory"
-  },
-  {
-   "t": "When tense does NOT change",
-   "d": "চিরন্তন সত্য ও reporting verb Present হলে"
-  },
-  {
-   "t": "Solved board question",
-   "d": "একটি সংলাপ, ধাপে ধাপে রূপান্তর"
-  },
-  {
-   "t": "Two live practice sets",
-   "d": "শ্রেণিকক্ষে সরাসরি অনুশীলন"
-  }
- ],
- "rules": [
-  {
-   "no": "01",
-   "tag": "Base",
-   "name": "The four things that change",
-   "bn": "উক্তি পরিবর্তনে বদলায় চারটি জিনিস — **(১) reporting verb, (২) person (সর্বনাম), (৩) tense, (৪) সময়-স্থানসূচক শব্দ**। বাকিটা প্রায় অপরিবর্তিত থাকে।",
-   "formulaLabel": "REMEMBER",
-   "formula": "Reporting verb · Person · Tense · Adverb",
-   "ex": "He said to me, “I am busy.” → He told me that he was busy."
-  },
-  {
-   "no": "02",
-   "tag": "Person",
-   "name": "Person change — the SON rule",
-   "bn": "**S-O-N সূত্র:** Reported speech-এর First Person → reporting verb-এর **S**ubject অনুযায়ী; Second Person → **O**bject অনুযায়ী; Third Person → **N**o change (অপরিবর্তিত)।",
-   "formulaLabel": "RULE",
-   "formula": "1st → Subject · 2nd → Object · 3rd → No change",
-   "ex": "He said to me, “==I== shall help ==you==.” → He told me that ==he== would help ==me==."
-  },
-  {
-   "no": "03",
-   "tag": "Tense",
-   "name": "Tense change — the backshift",
-   "bn": "Reporting verb **Past** হলে reported speech এক ধাপ পিছিয়ে যায়: Present→Past, Past→Past Perfect, Present Perfect→Past Perfect, will→would, can→could, may→might, shall→should।",
-   "formulaLabel": "BACKSHIFT",
-   "formula": "am/is→was · are→were · V1→V2 · V2→had+V3 · will→would · can→could",
-   "ex": "He said, “I ==am== ill.” → He said that he ==was== ill."
-  },
-  {
-   "no": "04",
-   "tag": "Tense",
-   "name": "When the tense does NOT change",
-   "bn": "দুই ক্ষেত্রে tense অপরিবর্তিত থাকে — **(ক)** reporting verb যদি **Present বা Future** হয়; **(খ)** reported speech যদি **চিরন্তন সত্য, অভ্যাসগত সত্য বা ঐতিহাসিক সত্য** হয়।",
-   "formulaLabel": "EXCEPTION",
-   "formula": "Present reporting verb → no change · Universal truth → no change",
-   "ex": "He says, “The earth ==moves== round the sun.” → He says that the earth ==moves== round the sun."
-  },
-  {
-   "no": "05",
-   "tag": "Adverb",
-   "name": "Adverb / word change",
-   "bn": "সময় ও স্থানসূচক শব্দ দূরত্ব বোঝাতে বদলে যায় — **now→then, today→that day, tomorrow→the next day, yesterday→the previous day, here→there, this→that, these→those, ago→before, thus→so**।",
-   "formulaLabel": "SHIFT",
-   "formula": "now→then · here→there · this→that · today→that day · tomorrow→the next day",
-   "ex": "He said, “I will come ==tomorrow==.” → He said that he would come ==the next day==."
-  },
-  {
-   "no": "06",
-   "tag": "Assertive",
-   "name": "Assertive sentence (বিবৃতিমূলক)",
-   "bn": "সাধারণ বিবৃতির ক্ষেত্রে reporting verb **said → said**, **said to → told**; সংযোজক হিসেবে **that** বসে।",
-   "formula": "sub + told + object + that + reported speech",
-   "ex": "He said to me, “I am happy.” → He ==told me that== he was happy."
-  },
-  {
-   "no": "07",
-   "tag": "Interrogative",
-   "name": "Interrogative — Wh-question",
-   "bn": "প্রশ্নবোধক বাক্যে reporting verb হয় **asked / enquired of**; wh-word নিজেই সংযোজক, তাই that বসে না। বাক্যটি **assertive গঠনে** (subject + verb) লিখতে হয় এবং শেষে দাঁড়ি।",
-   "formula": "asked + object + wh-word + sub + verb",
-   "ex": "He said to me, “Where do you live?” → He ==asked me where I lived==."
-  },
-  {
-   "no": "08",
-   "tag": "Interrogative",
-   "name": "Interrogative — Yes/No question",
-   "bn": "Wh-word না থাকলে সংযোজক হিসেবে **if / whether** বসে; বাকিটা assertive গঠনে।",
-   "formula": "asked + object + if / whether + sub + verb",
-   "ex": "He said to me, “Are you ill?” → He ==asked me if I was ill==."
-  },
-  {
-   "no": "09",
-   "tag": "Imperative",
-   "name": "Imperative — order / request / advice",
-   "bn": "আদেশ = **ordered**, অনুরোধ = **requested**, উপদেশ = **advised**, নিষেধ = **forbade / told not to**। Reported অংশ **to + V1** রূপে যায়।",
-   "formula": "ordered / requested / advised + object + to + V1",
-   "ex": "He said to me, “Go home.” → He ==ordered me to go== home."
-  },
-  {
-   "no": "10",
-   "tag": "Imperative",
-   "name": "Negative imperative",
-   "bn": "নিষেধসূচক বাক্যে **not to + V1** বসে।",
-   "formula": "told / forbade + object + not to + V1",
-   "ex": "He said to me, “Don't waste time.” → He ==told me not to waste== time."
-  },
-  {
-   "no": "11",
-   "tag": "Imperative",
-   "name": "‘Let us’ — proposal",
-   "bn": "**Let us / Let's** দিয়ে প্রস্তাব বোঝালে reporting verb হয় **proposed / suggested**, সংযোজক **that**, এবং পরে **should + V1**।",
-   "formula": "proposed / suggested + that + sub + should + V1",
-   "ex": "He said, “Let us go for a walk.” → He ==proposed that we should go== for a walk."
-  },
-  {
-   "no": "12",
-   "tag": "Optative",
-   "name": "Optative sentence (প্রার্থনা / কামনা)",
-   "bn": "ইচ্ছা বা প্রার্থনা বোঝালে reporting verb হয় **wished / prayed**, সংযোজক **that**, এবং পরে **might** বসে।",
-   "formula": "wished / prayed + that + sub + might + V1",
-   "ex": "He said, “May you live long.” → He ==prayed that I might live== long."
-  },
-  {
-   "no": "13",
-   "tag": "Exclamatory",
-   "name": "Exclamatory sentence (আবেগসূচক)",
-   "bn": "আবেগ বোঝালে reporting verb হয় **exclaimed with joy / sorrow / wonder**, সংযোজক **that**; What a / How উঠে গিয়ে **very / great** বসে।",
-   "formula": "exclaimed with joy / sorrow + that + sub + verb",
-   "ex": "He said, “What a fine bird it is!” → He ==exclaimed with wonder that it was a very fine bird==."
-  },
-  {
-   "no": "14",
-   "tag": "Mixed",
-   "name": "Sir / Madam / Friends — address words",
-   "bn": "সম্বোধনসূচক শব্দ থাকলে reporting verb-এ তা মিশে যায় — **Sir → respectfully / addressing him respectfully**, **Friends → addressing them as friends**।",
-   "formula": "addressing … respectfully + said / replied",
-   "ex": "He said, “Sir, I am innocent.” → He ==respectfully said that== he was innocent."
-  },
-  {
-   "no": "15",
-   "tag": "Mixed",
-   "name": "Two sentences of different types",
-   "bn": "একই উক্তিতে দুই ধরনের বাক্য থাকলে প্রতিটির জন্য **আলাদা reporting verb** ব্যবহার করে **and / but** দিয়ে যুক্ত করতে হয়।",
-   "formula": "…told … that … and asked … whether …",
-   "ex": "He said to me, “I am busy. Can you wait?” → He ==told me that he was busy and asked me whether I could wait==."
-  },
-  {
-   "no": "16",
-   "tag": "Mixed",
-   "name": "Yes / No in the answer",
-   "bn": "উত্তরে **Yes / No** থাকলে তা **replied in the affirmative / replied in the negative** হয়ে যায়।",
-   "formula": "replied in the affirmative / negative + that + …",
-   "ex": "He said, “Yes, I know him.” → He ==replied in the affirmative that== he knew him."
-  }
- ],
- "boardQ": {
-  "instruction": "Change the following conversation into indirect speech. — নিচের সংলাপটি পরোক্ষ উক্তিতে রূপান্তর করো। (5)",
-  "text": "Rahim said to Karim, “Where are you going now?” Karim said, “I am going to the library. Will you come with me?” Rahim said, “No, I am busy today. Please help me with my homework tomorrow.” Karim said, “Certainly. May you do well in the exam!”",
-  "items": [
-   {
-    "ans": "Rahim asked Karim where he was going then.",
-    "why": "Wh-question → **asked**; wh-word নিজেই সংযোজক; ‘now’ → **then**; are going → was going. (নিয়ম ০৭, ০৫)"
-   },
-   {
-    "ans": "Karim replied that he was going to the library",
-    "why": "Assertive → **replied/said that**; ‘I’ → he (subject অনুযায়ী); am → was. (নিয়ম ০৬, ০২, ০৩)"
-   },
-   {
-    "ans": "and asked him if he would come with him.",
-    "why": "Yes/No question → **asked … if**; will → **would**; ‘you’ → him (object অনুযায়ী)। (নিয়ম ০৮, ০২)"
-   },
-   {
-    "ans": "Rahim replied in the negative",
-    "why": "উত্তরে ‘No’ → **replied in the negative**. (নিয়ম ১৬)"
-   },
-   {
-    "ans": "and said that he was busy that day.",
-    "why": "Assertive; ‘today’ → **that day**. (নিয়ম ০৫)"
-   },
-   {
-    "ans": "He requested him to help him with his homework the next day.",
-    "why": "‘Please’ থাকায় অনুরোধ → **requested + to + V1**; tomorrow → **the next day**. (নিয়ম ০৯, ০৫)"
-   },
-   {
-    "ans": "Karim replied in the affirmative",
-    "why": "‘Certainly’ = সম্মতি → affirmative. (নিয়ম ১৬)"
-   },
-   {
-    "ans": "and wished that he might do well in the exam.",
-    "why": "‘May you…’ → Optative → **wished that … might + V1**. (নিয়ম ১২)"
-   },
-   {
-    "ans": "‘you’ → him / he — কেন?",
-    "why": "Second person reported speech-এ reporting verb-এর **object** অনুযায়ী বদলায় (SON সূত্রের O)। (নিয়ম ০২)"
-   },
-   {
-    "ans": "‘now / today / tomorrow’ কেন বদলাল?",
-    "why": "বক্তার সময় থেকে দূরত্ব বোঝাতে — now→then, today→that day, tomorrow→the next day. (নিয়ম ০৫)"
-   }
+
+  "extras": [
+    {
+      "title": "Tense পরিবর্তনের ছক <span class='sub'>— Reporting verb past হলে</span>",
+      "key": "Tense Chart",
+      "table": {
+        "headers": ["Direct Speech", "Indirect Speech"],
+        "rows": [
+          ["Present Indefinite", "Past Indefinite"],
+          ["Present Continuous", "Past Continuous"],
+          ["Present Perfect", "Past Perfect"],
+          ["Present Perfect Continuous", "Past Perfect Continuous"],
+          ["Past Indefinite", "Past Perfect"],
+          ["Past Continuous", "Past Perfect Continuous"],
+          ["Future (shall / will)", "would (বা should)"],
+          ["can / may", "could / might"]
+        ]
+      },
+      "note": "Reporting Verb ==Present বা Future== হলে, কিংবা ==চিরন্তন সত্য/অভ্যাস== বোঝালে এই ছক খাটে না।"
+    },
+    {
+      "title": "নিকট্যসূচক শব্দের পরিবর্তন <span class='sub'>— Word Change</span>",
+      "key": "Word Change",
+      "table": {
+        "headers": ["Direct Word", "Indirect Word"],
+        "rows": [
+          ["This / These", "That / Those"],
+          ["Here", "There"],
+          ["Now", "Then"],
+          ["Today", "That day"],
+          ["Tomorrow", "The next day (বা the following day)"],
+          ["Yesterday", "The previous day (বা the day before)"],
+          ["Ago", "Before"]
+        ]
+      }
+    },
+    {
+      "title": "বাক্যের ধরন → Reporting verb ও Linker <span class='sub'>— এক নজরে</span>",
+      "key": "Verb & Linker",
+      "table": {
+        "headers": ["বাক্যের ধরন", "Reporting Verb", "Linker"],
+        "rows": [
+          ["Assertive", "said / told (object থাকলে told)", "that"],
+          ["Interrogative", "asked / enquired of", "if / whether · WH word"],
+          ["Imperative", "ordered / requested / advised / told", "to (negative: not to)"],
+          ["Optative", "prayed / wished", "that + might"],
+          ["Exclamatory", "exclaimed with joy / sorrow / wonder", "that"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "🧭", "t": "আগে ধরন, তারপর নিয়ম", "d": "বাক্যটি Assertive, Interrogative, Imperative, Optative না Exclamatory — এটি ঠিক করলেই reporting verb ও linker বেরিয়ে আসে।" },
+    { "em": "👤", "t": "SON মনে রাখো", "d": "==S==ubject অনুযায়ী 1st person, ==O==bject অনুযায়ী 2nd person, 3rd person-এ ==N==o change।" },
+    { "em": "🛑", "t": "tense সবসময় বদলায় না", "type": "warn", "d": "Reporting verb ==present/future== হলে, বা ==চিরন্তন সত্য== হলে ভিতরের tense অপরিবর্তিত থাকে।" },
+    { "em": "❓", "t": "প্রশ্ন Assertive হয়ে যায়", "type": "warn", "d": "Indirect-এ ==subject আগে, verb পরে== — ‘what my name was’, ‘what was my name’ নয়।" },
+    { "em": "🙏", "t": "Please দেখলেই requested", "d": "আদেশে ==ordered==, অনুরোধে ==requested==, উপদেশে ==advised== — অর্থ দেখে verb বাছবে।" },
+    { "em": "😲", "t": "Exclamatory-তে very/great", "d": "‘What a beautiful bird!’ → ‘it was a ==very== beautiful bird’ — very যোগ করতে ভুলো না।" }
+  ],
+
+  "recap": [
+    "Narration-এর দুই অংশ: Reporting Verb ও Reported Speech।",
+    "তিনটি পরিবর্তন: Person (SON), Tense (এক ধাপ পিছিয়ে), Word (this→that, here→there)।",
+    "Reporting verb present/future বা চিরন্তন সত্য হলে tense বদলায় না।",
+    "Assertive → said/told + that; Interrogative → asked + if/whether/WH।",
+    "Imperative → ordered/requested/advised + to (negative: not to)।",
+    "Optative → prayed/wished + that + might; Exclamatory → exclaimed with joy/sorrow/wonder + that।"
+  ],
+
+  "homework": [
+    "Tense পরিবর্তনের ৮টি সারি না দেখে লিখে আনবে।",
+    "Word Change-এর ৭টি জোড়া মুখস্থ করে আসবে।",
+    "Practice Set 2-এর ১০টি বাক্য খাতায় সমাধান করবে।",
+    "বোর্ড প্রশ্নের ১০টি নিজে করে আনবে।"
   ]
- },
- "drills": [
-  {
-   "title": "Practice Set 1 — বাক্যের ধরন চেনা",
-   "intro": "আগে বলো এটি কোন ধরনের বাক্য (assertive / interrogative / imperative / optative / exclamatory), তারপর reporting verb।",
-   "items": [
-    {
-     "q": "He said to me, “I am reading a book.”",
-     "ans": "He told me that he was reading a book.",
-     "why": "Assertive → said to = told, that, am → was. (০৬, ০৩)"
-    },
-    {
-     "q": "She said to him, “What are you doing?”",
-     "ans": "She asked him what he was doing.",
-     "why": "Wh-question → asked; that বসে না; assertive গঠন। (০৭)"
-    },
-    {
-     "q": "He said to me, “Do you know him?”",
-     "ans": "He asked me if I knew him.",
-     "why": "Yes/No question → asked … if; do you know → I knew. (০৮)"
-    },
-    {
-     "q": "The teacher said to us, “Work hard.”",
-     "ans": "The teacher advised us to work hard.",
-     "why": "উপদেশমূলক imperative → advised + to + V1. (০৯)"
-    },
-    {
-     "q": "He said to me, “Don't tell a lie.”",
-     "ans": "He told me not to tell a lie.",
-     "why": "Negative imperative → not to + V1. (১০)"
-    },
-    {
-     "q": "He said, “May Allah bless you!”",
-     "ans": "He prayed that Allah might bless me.",
-     "why": "Optative → prayed that … might. (১২)"
-    }
-   ]
-  },
-  {
-   "title": "Practice Set 2 — Tense, Person ও Adverb",
-   "intro": "এই সেটে চারটি পরিবর্তনই একসাথে যাচাই হবে।",
-   "items": [
-    {
-     "q": "He said, “I went there yesterday.”",
-     "ans": "He said that he had gone there the previous day.",
-     "why": "Past → Past Perfect; yesterday → the previous day. (০৩, ০৫)"
-    },
-    {
-     "q": "He says, “The sun rises in the east.”",
-     "ans": "He says that the sun rises in the east.",
-     "why": "Reporting verb Present + চিরন্তন সত্য → tense বদলায় না। (০৪)"
-    },
-    {
-     "q": "He said to me, “I shall help you.”",
-     "ans": "He told me that he would help me.",
-     "why": "shall → would; ‘I’→he (subject), ‘you’→me (object)। (০২, ০৩)"
-    },
-    {
-     "q": "He said, “Let us play football.”",
-     "ans": "He proposed that we should play football.",
-     "why": "Let us → proposed that … should + V1. (১১)"
-    },
-    {
-     "q": "He said, “How beautiful the scenery is!”",
-     "ans": "He exclaimed with wonder that the scenery was very beautiful.",
-     "why": "Exclamatory → exclaimed with wonder that; How → very. (১৩)"
-    },
-    {
-     "q": "He said, “Sir, I am not guilty.”",
-     "ans": "He respectfully said that he was not guilty.",
-     "why": "‘Sir’ → respectfully; বাকিটা assertive. (১৪)"
-    }
-   ]
-  }
- ],
- "extras": [
-  {
-   "title": "Sentence type → Reporting verb <span class='sub'>— কোন ধরনে কোন verb ও সংযোজক</span>",
-   "key": "Type Chart",
-   "table": {
-    "headers": [
-     "বাক্যের ধরন",
-     "Reporting verb",
-     "সংযোজক",
-     "Reported অংশের রূপ"
-    ],
-    "rows": [
-     [
-      "Assertive (বিবৃতি)",
-      "@said / told",
-      "@that",
-      "subject + verb"
-     ],
-     [
-      "Interrogative — Wh",
-      "@asked / enquired of",
-      "@wh-word নিজেই",
-      "subject + verb (assertive গঠন)"
-     ],
-     [
-      "Interrogative — Yes/No",
-      "@asked",
-      "@if / whether",
-      "subject + verb"
-     ],
-     [
-      "Imperative — order",
-      "@ordered / commanded",
-      "@—",
-      "to + V1"
-     ],
-     [
-      "Imperative — request",
-      "@requested",
-      "@—",
-      "to + V1"
-     ],
-     [
-      "Imperative — advice",
-      "@advised",
-      "@—",
-      "to + V1"
-     ],
-     [
-      "Imperative — prohibition",
-      "@forbade / told not",
-      "@—",
-      "not to + V1"
-     ],
-     [
-      "Let us (proposal)",
-      "@proposed / suggested",
-      "@that",
-      "sub + should + V1"
-     ],
-     [
-      "Optative (প্রার্থনা)",
-      "@wished / prayed",
-      "@that",
-      "sub + might + V1"
-     ],
-     [
-      "Exclamatory (আবেগ)",
-      "@exclaimed with joy / sorrow / wonder",
-      "@that",
-      "sub + verb (very / great)"
-     ]
-    ]
-   },
-   "note": "**পরীক্ষার নিয়ম:** আগে বাক্যের ধরন চেনো → এই ছক থেকে reporting verb ও সংযোজক নাও → তারপর person, tense, adverb বদলাও।"
-  },
-  {
-   "title": "The change tables <span class='sub'>— Person · Tense · Adverb</span>",
-   "key": "Change Tables",
-   "table": {
-    "headers": [
-     "Direct",
-     "Indirect",
-     "নিয়ম"
-    ],
-    "rows": [
-     [
-      "I / we",
-      "@he / she / they (subject অনুযায়ী)",
-      "SON — S"
-     ],
-     [
-      "you",
-      "@me / him / her / them (object অনুযায়ী)",
-      "SON — O"
-     ],
-     [
-      "he / she / they / it",
-      "@অপরিবর্তিত",
-      "SON — N"
-     ],
-     [
-      "am / is",
-      "@was",
-      "Tense backshift"
-     ],
-     [
-      "are",
-      "@were",
-      "Tense backshift"
-     ],
-     [
-      "V1 (write)",
-      "@V2 (wrote)",
-      "Tense backshift"
-     ],
-     [
-      "V2 (wrote)",
-      "@had + V3 (had written)",
-      "Tense backshift"
-     ],
-     [
-      "have / has + V3",
-      "@had + V3",
-      "Tense backshift"
-     ],
-     [
-      "will / shall",
-      "@would / should",
-      "Tense backshift"
-     ],
-     [
-      "can / may",
-      "@could / might",
-      "Tense backshift"
-     ],
-     [
-      "now",
-      "@then",
-      "Adverb shift"
-     ],
-     [
-      "today",
-      "@that day",
-      "Adverb shift"
-     ],
-     [
-      "tomorrow",
-      "@the next day",
-      "Adverb shift"
-     ],
-     [
-      "yesterday",
-      "@the previous day",
-      "Adverb shift"
-     ],
-     [
-      "here",
-      "@there",
-      "Adverb shift"
-     ],
-     [
-      "this / these",
-      "@that / those",
-      "Adverb shift"
-     ],
-     [
-      "ago",
-      "@before",
-      "Adverb shift"
-     ],
-     [
-      "last night",
-      "@the previous night",
-      "Adverb shift"
-     ]
-    ]
-   },
-   "note": "**Tense বদলায় না** যদি reporting verb Present/Future হয়, অথবা reported speech চিরন্তন সত্য হয়।"
-  }
- ],
- "tips": [
-  {
-   "em": "1️⃣",
-   "t": "Find the sentence type first",
-   "d": "Assertive? প্রশ্ন? আদেশ? প্রার্থনা? আবেগ? — ধরন ঠিক করলেই reporting verb ও সংযোজক নির্ধারিত হয়ে যায়।"
-  },
-  {
-   "em": "🧭",
-   "t": "SON for person",
-   "type": "ok",
-   "d": "**S**ubject → **O**bject → **N**o change। First person subject অনুযায়ী, second person object অনুযায়ী, third person অপরিবর্তিত।"
-  },
-  {
-   "em": "⏳",
-   "t": "Backshift only if reporting verb is Past",
-   "type": "warn",
-   "d": "‘He says…’ হলে tense বদলাবে না। চিরন্তন সত্যেও বদলাবে না — এই দুটি ব্যতিক্রম মনে রাখো।"
-  },
-  {
-   "em": "❓",
-   "t": "Questions lose their question mark",
-   "d": "Indirect-এ প্রশ্নবোধক চিহ্ন থাকে না; বাক্যটি assertive গঠনে (subject + verb) লিখে শেষে দাঁড়ি দিতে হয়।"
-  },
-  {
-   "em": "🔗",
-   "t": "Two types → two reporting verbs",
-   "d": "একই উক্তিতে বিবৃতি ও প্রশ্ন থাকলে ‘told … that … and asked … whether …’ — দুটি আলাদা verb লাগবে।"
-  },
-  {
-   "em": "✍️",
-   "t": "Inverted commas disappear",
-   "d": "Indirect speech-এ উদ্ধৃতিচিহ্ন, কমা কিছুই থাকে না। রেখে দিলে নম্বর কাটা যায়।"
-  }
- ],
- "recap": [
-  "চারটি পরিবর্তন: reporting verb, person, tense, adverb।",
-  "Person: SON — 1st→Subject, 2nd→Object, 3rd→No change।",
-  "Tense backshift কেবল reporting verb Past হলে; চিরন্তন সত্যে নয়।",
-  "ধরন অনুযায়ী verb: told/asked/ordered/requested/advised/proposed/wished/exclaimed।",
-  "Wh-question-এ that বসে না; Yes/No প্রশ্নে if/whether বসে; প্রশ্নচিহ্ন উঠে যায়।"
- ],
- "homework": [
-  "‘Sentence type → Reporting verb’ ছকের ১০টি সারি মুখস্থ করবে।",
-  "Person · Tense · Adverb-এর ১৮টি পরিবর্তন খাতায় লিখবে।",
-  "বোর্ডের সংলাপটি না দেখে আবার রূপান্তর করবে।",
-  "নিজে একটি ৬ লাইনের সংলাপ লিখে তা indirect-এ রূপান্তর করবে।"
- ],
- "paper": "paper2"
 }

@@ -54,6 +54,7 @@ import d_nelson_mandela from "../data/hsc_decks/nelson-mandela.json";
 import d_nishat_mazumder from "../data/hsc_decks/nishat-mazumder.json";
 import d_old_man_at_the_bridge from "../data/hsc_decks/old-man-at-the-bridge.json";
 import d_paragraph_writing from "../data/hsc_decks/paragraph-writing.json";
+import d_passage_narration from "../data/hsc_decks/passage-narration.json";
 import d_polite_words_machine from "../data/hsc_decks/polite-words-machine.json";
 import d_preposition_gap_filling from "../data/hsc_decks/preposition-gap-filling.json";
 import d_punctuation from "../data/hsc_decks/punctuation.json";
@@ -156,6 +157,7 @@ export const DECKS: Record<string, Deck> = {
   "nishat-mazumder": d_nishat_mazumder as unknown as Deck,
   "old-man-at-the-bridge": d_old_man_at_the_bridge as unknown as Deck,
   "paragraph-writing": d_paragraph_writing as unknown as Deck,
+  "passage-narration": d_passage_narration as unknown as Deck,
   "polite-words-machine": d_polite_words_machine as unknown as Deck,
   "preposition-gap-filling": d_preposition_gap_filling as unknown as Deck,
   "punctuation": d_punctuation as unknown as Deck,

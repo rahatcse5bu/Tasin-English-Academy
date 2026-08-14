@@ -1,0 +1,252 @@
+{
+  "id": "passage-narration",
+  "paper": "paper2",
+  "paperName": "English 2nd Paper",
+  "unit": "Part A",
+  "unitName": "Grammar — Transformation",
+  "title": "Passage Narration — Complete Shortcut Rules & Techniques",
+  "titleBn": "প্যাসেজ ন্যারেশন",
+  "lede": "একাডেমির হ্যান্ডনোট অনুযায়ী ১৬টি শর্টকাট নিয়ম — Speaker ও Listener নির্ণয় থেকে Yes/No, Sir, সম্বোধন, শপথ, Sorry, Let's ও অসম্পূর্ণ বাক্য পর্যন্ত।",
+  "qType": "Grammar — Passage Narration",
+  "minutes": 45,
+  "marks": "5",
+  "rulesTitle": "Passage Narration-এর শর্টকাট নিয়ম",
+  "rulesPerSlide": 2,
+
+  "objectives": [
+    { "t": "Find the speaker and the listener first", "d": "Reporting verb মাঝে বা শেষে থাকলেও শুরুতে আনতে হয়" },
+    { "t": "Chain several speeches by one speaker", "d": "said → added that → further added that" },
+    { "t": "Handle the words that have their own verb", "d": "Yes/No, Sir, Thanks, Sorry, By Allah, Good night" },
+    { "t": "Drop what does not belong", "d": "Well, You see, Okay — Indirect-এ পুরোপুরি বাদ" }
+  ],
+
+  "rules": [
+    {
+      "no": "01", "tag": "Start", "name": "Speaker এবং Listener নির্ণয়",
+      "bn": "প্যাসেজটি পড়ে কে কথা বলছে (**Speaker**) এবং কার সাথে বলছে (**Listener**) তা বের করতে হবে। Reporting verb বাক্যের মাঝে বা শেষে থাকলেও, Indirect করার সময় তা **বাক্যের শুরুতে** আনতে হয়।",
+      "formulaLabel": "STEP 1",
+      "formula": "Reporting verb → বাক্যের শুরুতে",
+      "ex": "**D:** \"Where are you going?\" said the teacher to the boy. → **I:** ==The teacher asked the boy== where he was going."
+    },
+    {
+      "no": "02", "tag": "Chain", "name": "একই বক্তার একাধিক উক্তি (Consecutive Speeches)",
+      "bn": "একই বক্তা পর পর একাধিক কথা বললে বাক্যের ধরন অনুযায়ী — **Assertive:** ১ম বার said/told, ২য় বার **added that / also said that**, ৩য় বার **further added that**। **Interrogative:** ১ম বার asked, ২য় বার **also asked / again asked**।",
+      "formulaLabel": "CHAIN",
+      "formula": "said → added that → further added that · asked → also asked",
+      "ex": "He said that he was busy and ==added that== he would come later."
+    },
+    {
+      "no": "03", "tag": "Word", "name": "Yes এবং No-এর ব্যবহার",
+      "bn": "**Yes** থাকলে **replied in the affirmative and said that…**; **No** থাকলে **replied in the negative and said that…** বসে।",
+      "formulaLabel": "RULE",
+      "formula": "Yes → replied in the affirmative · No → replied in the negative",
+      "ex": "**D:** He said to me, \"Yes, I have done the work.\" → **I:** He ==replied in the affirmative and said that== he had done the work."
+    },
+    {
+      "no": "04", "tag": "Word", "name": "‘Sir’ বা সম্মানসূচক শব্দ",
+      "bn": "প্যাসেজে **Sir** শব্দটি থাকলে তার পরিবর্তে **respectfully** বা **with respect** ব্যবহার করতে হয়।",
+      "formulaLabel": "RULE",
+      "formula": "Sir → respectfully / with respect",
+      "ex": "**D:** The student said, \"Sir, please help me.\" → **I:** The student ==respectfully requested== him to help him."
+    },
+    {
+      "no": "05", "tag": "Word", "name": "কাউকে সম্বোধন করলে (Vocative Case)",
+      "bn": "ভাই, বন্ধু বা অন্য কোনো নামে সম্বোধন করলে **Addressing as + (যে নামে ডাকা হয়েছে)** দিয়ে বাক্য শুরু করতে হয়।",
+      "formulaLabel": "RULE",
+      "formula": "Addressing (Object) as + নাম, + Reporting verb …",
+      "ex": "**D:** \"Friends, listen to me,\" said the leader. → **I:** ==Addressing them as friends==, the leader urged them to listen to him."
+    },
+    {
+      "no": "06", "tag": "Word", "name": "Greetings এবং বিদায় জানানো",
+      "bn": "**Good morning / evening / Happy Birthday** — reporting verb হিসেবে **wished** বসে। **Good night / Good bye** — reporting verb হিসেবে **bade** বসে।",
+      "formulaLabel": "RULE",
+      "formula": "Greeting → wished · Farewell → bade",
+      "ex": "**D:** He said, \"Good morning, friends.\" → **I:** He ==wished== his friends good morning."
+    },
+    {
+      "no": "07", "tag": "Word", "name": "By Allah / By God থাকলে (শপথ করা)",
+      "bn": "শপথ করে কিছু বললে **Swearing by Allah / Swearing by God** লিখে বাক্য শুরু করতে হয়।",
+      "formulaLabel": "RULE",
+      "formula": "Swearing by Allah, + Subject + said that …",
+      "ex": "**D:** \"By Allah, I will not go there,\" he said. → **I:** ==Swearing by Allah==, he said that he would not go there."
+    },
+    {
+      "no": "08", "tag": "Word", "name": "Thanks বা Congratulation থাকলে",
+      "bn": "সরাসরি **thanked** বা **congratulated** ব্যবহার করতে হয়।",
+      "formulaLabel": "RULE",
+      "formula": "Thank you → thanked · Congratulations → congratulated",
+      "ex": "**D:** He said to me, \"Thank you.\" → **I:** He ==thanked== me."
+    },
+    {
+      "no": "09", "tag": "Structure", "name": "অসম্পূর্ণ বাক্য (Incomplete Sentences)",
+      "bn": "ছোট বা অসম্পূর্ণ বাক্য থাকলে **আগের বাক্যের অর্থের সাথে মিলিয়ে** পূর্ণাঙ্গ বাক্যে রূপান্তর করতে হয়।",
+      "formulaLabel": "RULE",
+      "formula": "অসম্পূর্ণ উত্তর → আগের প্রশ্ন থেকে শব্দ ধার করে পূর্ণ বাক্য",
+      "ex": "**D:** \"Are you hungry?\" said mother. \"A little bit,\" said the boy. → **I:** The mother asked the boy if he was hungry. The boy replied that he was ==a little bit hungry==."
+    },
+    {
+      "no": "10", "tag": "Word", "name": "‘Sorry’ বা ক্ষমা চাওয়া",
+      "bn": "প্যাসেজে কেউ **Sorry** বললে reporting verb হিসেবে **apologized** ব্যবহার করতে হয়।",
+      "formulaLabel": "RULE",
+      "formula": "Sorry → apologized",
+      "ex": "**D:** The boy said, \"Sorry, I will not do this again.\" → **I:** The boy ==apologized and promised== that he would not do that again."
+    },
+    {
+      "no": "11", "tag": "Drop", "name": "অপ্রয়োজনীয় শব্দ বাদ দেওয়া",
+      "bn": "কথোপকথন স্বাভাবিক করার জন্য **Well, You see, Okay** থাকলে Indirect করার সময় এগুলো **পুরোপুরি বাদ** দিতে হয়।",
+      "formulaLabel": "DROP",
+      "formula": "Well · You see · Okay → বাদ",
+      "ex": "**D:** \"Well, I will try,\" he said. → **I:** He said that he ==would try==."
+    },
+    {
+      "no": "12", "tag": "Linker", "name": "‘So’ বা ‘But’ দিয়ে বাক্য শুরু হলে",
+      "bn": "**So** থাকলে এর পরিবর্তে **That is why** বা **Therefore** বসে। **But** থাকলে **Expressing dissatisfaction** লেখা যায়, অথবা সরাসরি but conjunction হিসেবে বসে।",
+      "formulaLabel": "RULE",
+      "formula": "So → That is why / Therefore · But → Expressing dissatisfaction",
+      "ex": "**D:** \"So, I could not come,\" he said. → **I:** He said that ==that was why== he could not come."
+    },
+    {
+      "no": "13", "tag": "Word", "name": "Excuse me-এর ব্যবহার (দৃষ্টি আকর্ষণ)",
+      "bn": "দৃষ্টি আকর্ষণ করতে **Excuse me** বলা হলে, **Drawing attention** লিখে শুরু করতে হয়।",
+      "formulaLabel": "RULE",
+      "formula": "Excuse me → Drawing attention, …",
+      "ex": "**D:** \"Excuse me, where is the station?\" he said. → **I:** ==Drawing attention==, he asked where the station was."
+    },
+    {
+      "no": "14", "tag": "Let", "name": "Let's বা Let us (প্রস্তাব বোঝাতে)",
+      "bn": "Reporting verb হিসেবে **proposed** বা **suggested** বসে এবং inverted comma উঠে **that + we/they + should + verb** বসে।",
+      "formulaLabel": "STRUCTURE",
+      "formula": "proposed / suggested + that + we / they + should + V1",
+      "ex": "**D:** \"Let's practise passage narration,\" the teacher said. → **I:** The teacher ==proposed that we should practise== passage narration."
+    },
+    {
+      "no": "15", "tag": "Let", "name": "Let me / Let him / Let them (অনুমতি বোঝাতে)",
+      "bn": "Reporting verb হিসেবে **requested** বা **wished** বসে এবং **that + subject + might / might be allowed to + verb** বসে।",
+      "formulaLabel": "STRUCTURE",
+      "formula": "requested / wished + that + Subject + might (be allowed to) + V1",
+      "ex": "**D:** He said, \"Let me go home.\" → **I:** He ==requested that he might be allowed to go== home."
+    },
+    {
+      "no": "16", "tag": "Structure", "name": "Reporting verb-এর সাথে Present Participle",
+      "bn": "Reporting verb-এর পরে **ing-যুক্ত অংশ** (asking, laughing) থাকলে Indirect করার সময় এই অংশটি **অপরিবর্তিত অবস্থায়** বাক্যের শুরুতে বা মাঝে রেখে দিতে হয়।",
+      "formulaLabel": "RULE",
+      "formula": "-ing অংশ অপরিবর্তিত, বাক্যের শুরুতে",
+      "ex": "**D:** \"Are you crazy?\" asking this the man went away. → **I:** ==Asking if I was crazy==, the man went away."
+    }
+  ],
+
+  "drills": [
+    {
+      "title": "Practice Set 1 — Speaker, Listener ও Chain",
+      "intro": "প্রথমেই বলো — কে বলছে, কার সাথে বলছে।",
+      "items": [
+        { "q": "\"Where are you going?\" said the teacher to the boy.", "ans": "The teacher asked the boy where he was going.", "why": "Reporting verb শুরুতে আনতে হবে। (নিয়ম ০১)" },
+        { "q": "He said, \"I am busy. I will come later.\"", "ans": "He said that he was busy and added that he would come later.", "why": "একই বক্তার দ্বিতীয় উক্তি → added that। (নিয়ম ০২)" },
+        { "q": "He said to me, \"Yes, I have done the work.\"", "ans": "He replied in the affirmative and said that he had done the work.", "why": "Yes → replied in the affirmative। (নিয়ম ০৩)" },
+        { "q": "He said, \"No, I did not see him.\"", "ans": "He replied in the negative and said that he had not seen him.", "why": "No → replied in the negative। (নিয়ম ০৩)" },
+        { "q": "The student said, \"Sir, please help me.\"", "ans": "The student respectfully requested him to help him.", "why": "Sir → respectfully। (নিয়ম ০৪)" },
+        { "q": "\"Friends, listen to me,\" said the leader.", "ans": "Addressing them as friends, the leader urged them to listen to him.", "why": "সম্বোধন → Addressing … as …। (নিয়ম ০৫)" }
+      ]
+    },
+    {
+      "title": "Practice Set 2 — বিশেষ শব্দ ও গঠন",
+      "intro": "এই শব্দগুলোর নিজস্ব reporting verb আছে — মুখস্থ রাখলেই নম্বর।",
+      "items": [
+        { "q": "He said, \"Good morning, friends.\"", "ans": "He wished his friends good morning.", "why": "Greeting → wished। (নিয়ম ০৬)" },
+        { "q": "He said, \"Good night.\"", "ans": "He bade good night.", "why": "বিদায় → bade। (নিয়ম ০৬)" },
+        { "q": "\"By Allah, I will not go there,\" he said.", "ans": "Swearing by Allah, he said that he would not go there.", "why": "শপথ → Swearing by Allah। (নিয়ম ০৭)" },
+        { "q": "He said to me, \"Thank you.\"", "ans": "He thanked me.", "why": "Thanks → thanked। (নিয়ম ০৮)" },
+        { "q": "\"Are you hungry?\" said mother. \"A little bit,\" said the boy.", "ans": "The mother asked the boy if he was hungry. The boy replied that he was a little bit hungry.", "why": "অসম্পূর্ণ বাক্য পূর্ণ করতে হবে। (নিয়ম ০৯)" },
+        { "q": "The boy said, \"Sorry, I will not do this again.\"", "ans": "The boy apologized and promised that he would not do that again.", "why": "Sorry → apologized। (নিয়ম ১০)" },
+        { "q": "\"Well, I will try,\" he said.", "ans": "He said that he would try.", "why": "Well বাদ দিতে হবে। (নিয়ম ১১)" },
+        { "q": "\"Excuse me, where is the station?\" he said.", "ans": "Drawing attention, he asked where the station was.", "why": "Excuse me → Drawing attention। (নিয়ম ১৩)" }
+      ]
+    },
+    {
+      "title": "Practice Set 3 — Let ও Participle",
+      "intro": "Let-এর দুই অর্থ — প্রস্তাব না অনুমতি — সেটাই সব ঠিক করে দেয়।",
+      "items": [
+        { "q": "\"Let's practise passage narration,\" the teacher said.", "ans": "The teacher proposed that we should practise passage narration.", "why": "Let's = প্রস্তাব → proposed + should। (নিয়ম ১৪)" },
+        { "q": "He said, \"Let me go home.\"", "ans": "He requested that he might be allowed to go home.", "why": "Let me = অনুমতি → might be allowed to। (নিয়ম ১৫)" },
+        { "q": "\"Are you crazy?\" asking this the man went away.", "ans": "Asking if I was crazy, the man went away.", "why": "-ing অংশ অপরিবর্তিত, শুরুতে। (নিয়ম ১৬)" },
+        { "q": "\"So, I could not come,\" he said.", "ans": "He said that that was why he could not come.", "why": "So → That is why। (নিয়ম ১২)" }
+      ]
+    }
+  ],
+
+  "boardQ": {
+    "instruction": "Change the following passage into indirect speech. — নিচের অনুচ্ছেদটি পরোক্ষ উক্তিতে পরিবর্তন করো। (5)",
+    "text": "\"Where are you going?\" said the teacher to the boy. \"Sir, I am going home,\" said the boy. \"Yes, I have finished my work.\" \"Well, you may go,\" said the teacher. \"Thank you, sir,\" said the boy.",
+    "items": [
+      { "q": "প্রথম উক্তি", "ans": "The teacher asked the boy where he was going.", "why": "Reporting verb শুরুতে; WH word-ই linker। (নিয়ম ০১)" },
+      { "q": "দ্বিতীয় উক্তি", "ans": "The boy respectfully replied that he was going home", "why": "Sir → **respectfully**। (নিয়ম ০৪)" },
+      { "q": "তৃতীয় উক্তি — একই বক্তা", "ans": "and added that he had finished his work.", "why": "একই বক্তার দ্বিতীয় উক্তি → **added that**; Yes বাদ পড়েনি, ভাব রক্ষিত। (নিয়ম ০২, ০৩)" },
+      { "q": "চতুর্থ উক্তি", "ans": "The teacher said that he might go.", "why": "**Well** বাদ; may → might। (নিয়ম ১১)" },
+      { "q": "শেষ উক্তি", "ans": "The boy respectfully thanked him.", "why": "Thank you → **thanked**; sir → **respectfully**। (নিয়ম ০৪, ০৮)" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "শব্দ → Reporting verb <span class='sub'>— যেগুলো দেখলেই উত্তর জানা</span>",
+      "key": "Verb Bank",
+      "table": {
+        "headers": ["প্যাসেজে যা আছে", "Indirect-এ যা বসবে", "উদাহরণ"],
+        "rows": [
+          ["Yes", "replied in the affirmative and said that", "He replied in the affirmative and said that…"],
+          ["No", "replied in the negative and said that", "He replied in the negative and said that…"],
+          ["Sir", "respectfully / with respect", "The student respectfully requested…"],
+          ["নাম ধরে সম্বোধন", "Addressing … as …", "Addressing them as friends,…"],
+          ["Good morning / Happy Birthday", "wished", "He wished his friends good morning."],
+          ["Good night / Good bye", "bade", "He bade good night."],
+          ["By Allah / By God", "Swearing by Allah / God", "Swearing by Allah, he said…"],
+          ["Thank you", "thanked", "He thanked me."],
+          ["Congratulations", "congratulated", "He congratulated me."],
+          ["Sorry", "apologized", "The boy apologized and promised…"],
+          ["Excuse me", "Drawing attention", "Drawing attention, he asked…"],
+          ["Well / You see / Okay", "— (বাদ)", "He said that he would try."],
+          ["So", "That is why / Therefore", "He said that that was why…"],
+          ["Let's / Let us", "proposed / suggested + should", "The teacher proposed that we should…"],
+          ["Let me / him / them", "requested / wished + might be allowed to", "He requested that he might be allowed to…"]
+        ]
+      }
+    },
+    {
+      "title": "একই বক্তার পর পর উক্তি <span class='sub'>— নিয়ম ০২</span>",
+      "key": "Chain Words",
+      "table": {
+        "headers": ["ক্রম", "Assertive", "Interrogative"],
+        "rows": [
+          ["১ম বার", "said / told", "asked"],
+          ["২য় বার", "added that / also said that", "also asked / again asked"],
+          ["৩য় বার", "further added that", "—"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "🔍", "t": "প্রথম কাজ — কে, কাকে", "d": "Speaker ও Listener চিহ্নিত না করে এক লাইনও লিখো না। Reporting verb মাঝে বা শেষে থাকলেও ==শুরুতে== আনতে হবে।" },
+    { "em": "🔁", "t": "দ্বিতীয় উক্তিতে added that", "type": "warn", "d": "একই বক্তা আবার বললে ==said== পুনরায় লিখো না — ==added that== বা ==further added that== লিখবে।" },
+    { "em": "🧹", "t": "Well / You see / Okay বাদ", "d": "এগুলো কথোপকথনের শব্দ — Indirect-এ ==পুরোপুরি== বাদ যাবে, অনুবাদ করার চেষ্টা করো না।" },
+    { "em": "🙇", "t": "Sir মানেই respectfully", "d": "‘Sir’ শব্দটি Indirect-এ থাকে না; তার জায়গায় ==respectfully== বা ==with respect== বসে।" },
+    { "em": "🤝", "t": "Let-এর দুই চেহারা", "type": "warn", "d": "==Let's/Let us== = প্রস্তাব → proposed + should। ==Let me/him/them== = অনুমতি → requested + might be allowed to।" },
+    { "em": "✂️", "t": "অসম্পূর্ণ উত্তর পূর্ণ করো", "d": "‘A little bit’ → ‘he was ==a little bit hungry==’ — আগের প্রশ্ন থেকে শব্দ ধার করে বাক্য পূর্ণ করবে।" }
+  ],
+
+  "recap": [
+    "প্রথমে Speaker ও Listener নির্ণয়; reporting verb বাক্যের শুরুতে।",
+    "একই বক্তার পর পর উক্তি: said → added that → further added that।",
+    "Yes → replied in the affirmative; No → replied in the negative।",
+    "Sir → respectfully; সম্বোধন → Addressing … as …; শপথ → Swearing by Allah।",
+    "Thanks → thanked, Sorry → apologized, Excuse me → Drawing attention, Greeting → wished, বিদায় → bade।",
+    "Well/You see/Okay বাদ; Let's → proposed + should; Let me → might be allowed to।"
+  ],
+
+  "homework": [
+    "Verb Bank-এর ১৫টি সারি না দেখে লিখে আনবে।",
+    "Practice Set 2-এর ৮টি বাক্য খাতায় সমাধান করবে।",
+    "বোর্ডের অনুচ্ছেদটি সম্পূর্ণ indirect করে আনবে।",
+    "নিজে একটি ৫ লাইনের কথোপকথন লিখে indirect-এ রূপান্তর করবে।"
+  ]
+}

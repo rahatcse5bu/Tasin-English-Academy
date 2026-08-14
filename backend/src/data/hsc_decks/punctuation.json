@@ -1,445 +1,256 @@
 {
- "id": "punctuation",
- "paperName": "HSC English 2nd Paper",
- "unit": "Part A",
- "unitName": "Grammar — Punctuation",
- "title": "Punctuation &amp; Capitalisation",
- "titleBn": "যতিচিহ্ন ও বড় হাতের অক্ষর",
- "lede": "দাঁড়ি, কমা, উদ্ধৃতিচিহ্ন — ছোট ছোট চিহ্ন, কিন্তু পুরো ৫ নম্বর। কোথায় কোনটি বসে আর কোথায় বড় হাতের অক্ষর, তার সম্পূর্ণ নিয়ম।",
- "qType": "Grammar — Punctuation",
- "minutes": 45,
- "marks": "5",
- "rulesTitle": "যতিচিহ্নের নিয়ম",
- "rulesPerSlide": 3,
- "objectives": [
-  {
-   "t": "Every mark and its job",
-   "d": "কোন চিহ্ন কী কাজ করে"
+  "id": "punctuation",
+  "paper": "paper2",
+  "paperName": "English 2nd Paper",
+  "unit": "Part A",
+  "unitName": "Grammar — Punctuation & Vocabulary",
+  "title": "Punctuation & Capitalisation — Complete Detailed Guide",
+  "titleBn": "যতিচিহ্ন ও বড় হাতের অক্ষর",
+  "lede": "একাডেমির হ্যান্ডনোট অনুযায়ী — Capitalisation-এর ৬টি নিয়ম ও Punctuation-এর ৮টি চিহ্নের বিস্তারিত ব্যবহার, প্রতিটির ব্যাখ্যা ও উদাহরণসহ।",
+  "qType": "Grammar — Punctuation & Capital Letters",
+  "minutes": 40,
+  "marks": "5",
+  "rulesTitle": "Punctuation ও Capitalisation-এর নিয়ম",
+  "rulesPerSlide": 2,
+
+  "objectives": [
+    { "t": "Capitalise the six things that always take a capital", "d": "বাক্যের শুরু, proper noun, I ও God, বার-মাস, পদবি, অঞ্চল" },
+    { "t": "Place a comma for the right reason", "d": "series, vocative, appositive, FANBOYS, introductory, reporting verb, tag" },
+    { "t": "Tell a semicolon from a colon", "d": "; = দুই স্বাধীন বাক্য · : = তালিকা বা ব্যাখ্যা" },
+    { "t": "Punctuate a direct-speech passage", "d": "পরীক্ষায় প্যাসেজ প্রায়ই narration আকারে আসে" }
+  ],
+
+  "rules": [
+    {
+      "no": "01", "tag": "Capital", "name": "Beginning of Sentences & Quotes",
+      "bn": "যেকোনো বাক্যের শুরুতে এবং **Direct Speech**-এর ভিতরের প্রথম অক্ষর বড় হাতের হবে।",
+      "formulaLabel": "RULE",
+      "formula": "বাক্যের প্রথম অক্ষর + উদ্ধৃতির প্রথম অক্ষর",
+      "ex": "He said, ==\"H==onesty is the best policy.\""
+    },
+    {
+      "no": "02", "tag": "Capital", "name": "Proper Nouns (নির্দিষ্ট নাম)",
+      "bn": "মানুষ, স্থান, দেশ, নদী, সাগর, পাহাড়, প্রতিষ্ঠান, পত্রিকা ও বইয়ের নামের প্রথম অক্ষর বড় হাতের হয়।",
+      "formulaLabel": "RULE",
+      "formula": "ব্যক্তি · স্থান · প্রতিষ্ঠান · পত্রিকা · নদী",
+      "ex": "==R==akib, ==D==haka, ==T==he ==D==aily ==S==tar, ==T==he ==P==adma, ==H==arvard ==U==niversity."
+    },
+    {
+      "no": "03", "tag": "Capital", "name": "Pronoun ‘I’ and God",
+      "bn": "**I** (আমি) এবং সৃষ্টিকর্তা (God/Allah) ও তাঁর পরিবর্তে ব্যবহৃত Pronoun (He/His) সবসময় বড় হাতের হয়।",
+      "formulaLabel": "RULE",
+      "formula": "I · God / Allah · He / His / Him",
+      "ex": "==I== prayed to ==A==llah for ==H==is mercy."
+    },
+    {
+      "no": "04", "tag": "Capital", "name": "Days, Months, Holidays & Events",
+      "bn": "বার, মাস, ছুটির দিন এবং ঐতিহাসিক ঘটনার নাম বড় হাতের হয়। **তবে ঋতুর নাম ছোট হাতের হয়।**",
+      "formulaLabel": "RULE",
+      "formula": "বার · মাস · উৎসব · ঐতিহাসিক ঘটনা — কিন্তু ঋতু নয়",
+      "ex": "==F==riday, ==D==ecember, ==E==id-ul-Fitr, ==T==he ==F==rench ==R==evolution. / ==summer==, ==winter==."
+    },
+    {
+      "no": "05", "tag": "Capital", "name": "Titles and Degrees",
+      "bn": "নামের আগে বসা পদবি এবং শিক্ষাগত যোগ্যতার নামের প্রথম অক্ষর বড় হাতের হয়।",
+      "formulaLabel": "RULE",
+      "formula": "পদবি + নাম · ডিগ্রি",
+      "ex": "==D==r. Ahmed, ==P==resident Lincoln, ==B==.==A==., ==M==.==S==c."
+    },
+    {
+      "no": "06", "tag": "Capital", "name": "Directions vs Regions",
+      "bn": "দিক নির্দেশ করলে ছোট হাতের, কিন্তু কোনো **অঞ্চল/এলাকা** বোঝালে বড় হাতের হয়।",
+      "formulaLabel": "RULE",
+      "formula": "দিক → small · অঞ্চল → Capital",
+      "ex": "Go ==south==. (দিক) / He lives in the ==South==. (অঞ্চল)"
+    },
+    {
+      "no": "07", "tag": "Full Stop", "name": "Full Stop ( . ) / Period",
+      "bn": "**Assertive, Imperative ও Optative** Sentence-এর শেষে বসে। **Abbreviation** ও **Initials**-এর মাঝেও বসে (তবে আধুনিক ইংরেজিতে Mr, Dr ফুলস্টপ ছাড়াই লেখা যায়)।",
+      "formulaLabel": "USE",
+      "formula": "বাক্যের শেষে · সংক্ষিপ্ত শব্দে",
+      "ex": "We are learning grammar==.== / Open the door==.== / May you live long==.== · U==.==S==.==A==.==, M==.==A==.==, Mr==.==, Dr==.=="
+    },
+    {
+      "no": "08", "tag": "Comma", "name": "Comma — Series ও Vocative",
+      "bn": "**Series:** ৩ বা ততোধিক একই রকম Word বা Phrase-কে আলাদা করতে। **Vocative:** কাউকে নাম ধরে ডাকলে বা সম্বোধন করলে।",
+      "formulaLabel": "USE",
+      "formula": "a, b, c, and d · Name, …",
+      "ex": "I bought a pen==,== a pencil==,== a book==,== and a bag. / Tasin==,== come here. / Go there==,== my friends."
+    },
+    {
+      "no": "09", "tag": "Comma", "name": "Comma — Appositive ও FANBOYS",
+      "bn": "**Appositive:** কোনো Noun সম্পর্কে অতিরিক্ত তথ্য দিলে তার দুই পাশে কমা বসে। **FANBOYS** (For, And, Nor, But, Or, Yet, So) দ্বারা দুটি পূর্ণাঙ্গ বাক্য যুক্ত হলে conjunction-এর আগে কমা বসে।",
+      "formulaLabel": "USE",
+      "formula": "Noun, অতিরিক্ত তথ্য, … · clause + , + FANBOYS + clause",
+      "ex": "Mr. Rahim==,== our headmaster==,== is an honest man. / I was ill==,== so I could not attend the class."
+    },
+    {
+      "no": "10", "tag": "Comma", "name": "Comma — Introductory, Reporting verb, Tag",
+      "bn": "বাক্যের শুরুতে **Yes, No, Well, However, In fact** বা Adverbial clause থাকলে; **Direct Speech-এর reporting verb-এর পরে**; এবং **Tag Question-এর আগে** কমা বসে।",
+      "formulaLabel": "USE",
+      "formula": "Yes, … · If …, … · said, \"…\" · …, aren't you?",
+      "ex": "Yes==,== I will go. / If you come==,== I will go. / He said to me==,== \"I am busy.\" / You are a student==,== aren't you?"
+    },
+    {
+      "no": "11", "tag": "Semicolon", "name": "Semicolon ( ; ) — অর্ধযতি",
+      "bn": "**No Conjunction:** দুটি স্বাধীন বাক্য যখন conjunction (and, but) দ্বারা যুক্ত না থাকে। **Super Comma:** কোনো তালিকায় আগে থেকেই কমা থাকলে আইটেমগুলো আলাদা করতে।",
+      "formulaLabel": "USE",
+      "formula": "clause ; clause · item, sub ; item, sub",
+      "ex": "To err is human==;== to forgive is divine. / My friends are from Dhaka, Bangladesh==;== Tokyo, Japan==;== and London, UK."
+    },
+    {
+      "no": "12", "tag": "Colon", "name": "Colon ( : ) — দৃষ্টান্ত বা তালিকা",
+      "bn": "**List:** কোনো তালিকা শুরু করার আগে। **Explanation:** কোনো বাক্যকে ব্যাখ্যা করতে বা বড় কোটেশন দিতে।",
+      "formulaLabel": "USE",
+      "formula": "… : a, b, and c · … : \"quotation\"",
+      "ex": "I need three things==:== a pen, a book, and a scale. / Francis Bacon says==:== \"Reading maketh a full man…\""
+    },
+    {
+      "no": "13", "tag": "Apostrophe", "name": "Apostrophe ( ' ) — ঊর্ধ্বকমা",
+      "bn": "**Possession:** Singular noun-এ **'s** বসে; plural noun-এর শেষে s থাকলে শুধু **'** বসে। **Contraction:** শব্দ ছোট করতে। **Irregular plural**-এ (যেগুলো s দিয়ে বহুবচন হয় না) **'s** বসে।",
+      "formulaLabel": "USE",
+      "formula": "boy's · boys' · don't · children's",
+      "ex": "The boy==’s== pen (একজনের) / The boys==’== school (একাধিক) / Do not → Don==’==t / Children==’s== park, Men==’s== wear."
+    },
+    {
+      "no": "14", "tag": "? and !", "name": "Question Mark ( ? ) & Exclamation Mark ( ! )",
+      "bn": "**Question Mark:** সরাসরি প্রশ্ন করা হলে বসে — **Indirect প্রশ্নে বসে না**। **Exclamation Mark:** আকস্মিক আবেগ (আনন্দ, দুঃখ, বিস্ময়) প্রকাশে।",
+      "formulaLabel": "USE",
+      "formula": "Direct → ? · Indirect → . · আবেগ → !",
+      "ex": "What is your name==?== / I asked what his name was==.== / Hurrah==!== We have won the game. / What a beautiful bird it is==!=="
+    },
+    {
+      "no": "15", "tag": "Quotation", "name": "Quotation Marks ( \" \" ) — ইনভার্টেড কমা",
+      "bn": "**Direct Speech:** কারও হুবহু কথা আবদ্ধ করতে। **Titles of Short Works:** ছোট গল্প, কবিতা বা আর্টিকেলের নাম আবদ্ধ করতে।",
+      "formulaLabel": "USE",
+      "formula": "said, \"…\" · the poem \"…\"",
+      "ex": "The teacher said, ==\"Do not waste your time.\"== / Have you read the poem ==\"Daffodils\"==?"
+    },
+    {
+      "no": "16", "tag": "Hyphen/Dash", "name": "Hyphen ( - ) vs Dash ( — )",
+      "bn": "**Hyphen:** Compound word (যুক্তশব্দ) তৈরি করতে বা লাইনের শেষে জায়গা না থাকলে শব্দ ভাঙতে। **Dash:** বাক্যে হঠাৎ চিন্তা বা ভাবের পরিবর্তন বোঝাতে, বা অতিরিক্ত তথ্য যোগ করতে।",
+      "formulaLabel": "USE",
+      "formula": "mother-in-law · … — extra info — …",
+      "ex": "Mother==-==in==-==law, Twenty==-==one, Up==-==to==-==date. / He sold everything==—==his house, his car, his lands==—==to pay the debt."
+    }
+  ],
+
+  "drills": [
+    {
+      "title": "Practice Set 1 — Capitalisation",
+      "intro": "কোন শব্দটি বড় হাতের হবে আর কোনটি নয় — কারণসহ বলো।",
+      "items": [
+        { "q": "he said, \"honesty is the best policy.\"", "ans": "He said, \"Honesty is the best policy.\"", "why": "বাক্যের শুরু ও direct speech-এর প্রথম অক্ষর। (নিয়ম ০১)" },
+        { "q": "rakib reads the daily star in dhaka.", "ans": "Rakib reads The Daily Star in Dhaka.", "why": "ব্যক্তি, পত্রিকা ও স্থানের নাম। (নিয়ম ০২)" },
+        { "q": "i prayed to allah for his mercy.", "ans": "I prayed to Allah for His mercy.", "why": "I, Allah এবং তাঁর pronoun His। (নিয়ম ০৩)" },
+        { "q": "we have a holiday on friday in december.", "ans": "We have a holiday on Friday in December.", "why": "বার ও মাসের নাম। (নিয়ম ০৪)" },
+        { "q": "it rains in Summer.", "ans": "It rains in summer.", "why": "ঋতুর নাম ছোট হাতের। (নিয়ম ০৪)" },
+        { "q": "dr. ahmed has a b.a. degree.", "ans": "Dr. Ahmed has a B.A. degree.", "why": "পদবি ও ডিগ্রি। (নিয়ম ০৫)" },
+        { "q": "he lives in the south, so go South.", "ans": "He lives in the South, so go south.", "why": "অঞ্চল → বড়, দিক → ছোট। (নিয়ম ০৬)" }
+      ]
+    },
+    {
+      "title": "Practice Set 2 — Comma, Semicolon, Colon",
+      "intro": "কোন চিহ্নটি কেন — কারণটাই আসল উত্তর।",
+      "items": [
+        { "q": "I bought a pen a pencil a book and a bag.", "ans": "I bought a pen, a pencil, a book, and a bag.", "why": "Series-এ কমা। (নিয়ম ০৮)" },
+        { "q": "Tasin come here.", "ans": "Tasin, come here.", "why": "Vocative — সম্বোধনের পর কমা। (নিয়ম ০৮)" },
+        { "q": "Mr. Rahim our headmaster is an honest man.", "ans": "Mr. Rahim, our headmaster, is an honest man.", "why": "Appositive — দুই পাশে কমা। (নিয়ম ০৯)" },
+        { "q": "I was ill so I could not attend the class.", "ans": "I was ill, so I could not attend the class.", "why": "FANBOYS-এর আগে কমা। (নিয়ম ০৯)" },
+        { "q": "If you come I will go.", "ans": "If you come, I will go.", "why": "Introductory clause-এর পর কমা। (নিয়ম ১০)" },
+        { "q": "He said to me \"I am busy.\"", "ans": "He said to me, \"I am busy.\"", "why": "Reporting verb-এর পর কমা। (নিয়ম ১০)" },
+        { "q": "To err is human to forgive is divine.", "ans": "To err is human; to forgive is divine.", "why": "Conjunction ছাড়া দুই স্বাধীন বাক্য → semicolon। (নিয়ম ১১)" },
+        { "q": "I need three things a pen a book and a scale.", "ans": "I need three things: a pen, a book, and a scale.", "why": "তালিকার আগে colon। (নিয়ম ১২)" }
+      ]
+    },
+    {
+      "title": "Practice Set 3 — Apostrophe, ? ! \" \" এবং Hyphen",
+      "intro": "একটি চিহ্ন ভুল হলেই বাক্যের অর্থ বদলে যায়।",
+      "items": [
+        { "q": "The boys pen is new. (একজনের)", "ans": "The boy's pen is new.", "why": "Singular possession → 's। (নিয়ম ১৩)" },
+        { "q": "The boys school is big. (একাধিক)", "ans": "The boys' school is big.", "why": "Plural-এর শেষে s থাকলে শুধু '। (নিয়ম ১৩)" },
+        { "q": "Childrens park", "ans": "Children's park", "why": "Irregular plural → 's। (নিয়ম ১৩)" },
+        { "q": "I asked what his name was?", "ans": "I asked what his name was.", "why": "Indirect প্রশ্নে প্রশ্নবোধক চিহ্ন বসে না। (নিয়ম ১৪)" },
+        { "q": "Hurrah we have won the game.", "ans": "Hurrah! We have won the game.", "why": "আবেগে exclamation mark। (নিয়ম ১৪)" },
+        { "q": "The teacher said Do not waste your time.", "ans": "The teacher said, \"Do not waste your time.\"", "why": "Direct speech → কমা + inverted comma। (নিয়ম ১০, ১৫)" },
+        { "q": "Have you read the poem Daffodils?", "ans": "Have you read the poem \"Daffodils\"?", "why": "কবিতার নাম quotation-এ। (নিয়ম ১৫)" },
+        { "q": "My mother in law is twenty one.", "ans": "My mother-in-law is twenty-one.", "why": "Compound word → hyphen। (নিয়ম ১৬)" }
+      ]
+    }
+  ],
+
+  "boardQ": {
+    "instruction": "Punctuate the following passage. Put capital letters wherever necessary. — নিচের অনুচ্ছেদে প্রয়োজনীয় যতিচিহ্ন ও বড় হাতের অক্ষর বসাও। (5)",
+    "text": "one day a fox fell into a ditch he tried his best to get out but he failed at last a goat came there and asked him what are you doing there the fox replied i am enjoying the sweet water here",
+    "items": [
+      { "q": "প্রথম বাক্য", "ans": "One day a fox fell into a ditch.", "why": "বাক্যের শুরুতে বড় হাতের অক্ষর, শেষে full stop। (নিয়ম ০১, ০৭)" },
+      { "q": "দ্বিতীয় বাক্য", "ans": "He tried his best to get out, but he failed.", "why": "FANBOYS ‘but’-এর আগে কমা। (নিয়ম ০৯)" },
+      { "q": "তৃতীয় বাক্য — শুরু", "ans": "At last, a goat came there and asked him,", "why": "Introductory ‘At last’-এর পর কমা; reporting verb-এর পর কমা। (নিয়ম ১০)" },
+      { "q": "গরুর প্রশ্নটি", "ans": "\"What are you doing there?\"", "why": "Direct speech → inverted comma; সরাসরি প্রশ্ন → ? (নিয়ম ১৪, ১৫)" },
+      { "q": "শিয়ালের উত্তর", "ans": "The fox replied, \"I am enjoying the sweet water here.\"", "why": "Reporting verb-এর পর কমা, ‘I’ বড় হাতের, উদ্ধৃতির ভিতরে full stop। (নিয়ম ০৩, ১০, ১৫)" }
+    ]
   },
-  {
-   "t": "Capital letters — 8 places",
-   "d": "কোথায় বড় হাতের অক্ষর বাধ্যতামূলক"
-  },
-  {
-   "t": "Comma: the six rules",
-   "d": "সবচেয়ে বেশি ভুল হয় কমাতেই"
-  },
-  {
-   "t": "Punctuating direct speech",
-   "d": "উদ্ধৃতিচিহ্ন ও কমার সঠিক অবস্থান"
-  },
-  {
-   "t": "Solved board passage",
-   "d": "একটি অনুচ্ছেদ, ধাপে ধাপে সংশোধন"
-  },
-  {
-   "t": "Two live practice sets",
-   "d": "শ্রেণিকক্ষে সরাসরি অনুশীলন"
-  }
- ],
- "rules": [
-  {
-   "no": "01",
-   "tag": "Mark",
-   "name": "Full stop (.) — দাঁড়ি",
-   "bn": "বিবৃতিমূলক ও আদেশসূচক বাক্যের শেষে বসে। সংক্ষিপ্ত রূপেও ব্যবহৃত হয় (Mr., Dr., M.A.)।",
-   "formula": "Statement / Imperative + .",
-   "ex": "He is a good student==.== / Open the door==.=="
-  },
-  {
-   "no": "02",
-   "tag": "Mark",
-   "name": "Question mark (?) — প্রশ্নবোধক",
-   "bn": "প্রশ্নবোধক বাক্যের শেষে বসে। **পরোক্ষ প্রশ্নে বসে না**।",
-   "formula": "Direct question + ?",
-   "ex": "Where do you live==?== — কিন্তু: He asked me where I lived==.==",
-   "note": "Indirect question-এ প্রশ্নচিহ্ন দেওয়া সবচেয়ে সাধারণ ভুল।"
-  },
-  {
-   "no": "03",
-   "tag": "Mark",
-   "name": "Exclamation mark (!) — আবেগসূচক",
-   "bn": "আবেগ, বিস্ময়, আনন্দ বা দুঃখ প্রকাশে বসে — সম্বোধন ও interjection-এর পরেও।",
-   "formula": "Exclamatory sentence + !",
-   "ex": "What a beautiful bird it is==!== / Alas==!== he is dead."
-  },
-  {
-   "no": "04",
-   "tag": "Comma",
-   "name": "Comma (,) — তালিকায়",
-   "bn": "তিন বা ততোধিক শব্দ/শব্দগুচ্ছের তালিকায় কমা বসে; শেষটির আগে **and** থাকে।",
-   "formula": "A, B, C and D",
-   "ex": "He bought pens==,== books==,== papers and pencils."
-  },
-  {
-   "no": "05",
-   "tag": "Comma",
-   "name": "Comma — সম্বোধন ও Yes/No-এর পরে",
-   "bn": "সম্বোধনসূচক শব্দের পরে এবং Yes/No-এর পরে কমা বসে।",
-   "formula": "Name , … | Yes , … | No , …",
-   "ex": "Rahim==,== come here. / Yes==,== I know him."
-  },
-  {
-   "no": "06",
-   "tag": "Comma",
-   "name": "Comma — বাক্যের শুরুর clause-এর পরে",
-   "bn": "বাক্য যদি **if, when, though, as, since, after, before** দিয়ে শুরু হয়, তবে সেই অংশের শেষে কমা বসে।",
-   "formula": "If / When / Though + clause , main clause",
-   "ex": "If you work hard==,== you will succeed."
-  },
-  {
-   "no": "07",
-   "tag": "Comma",
-   "name": "Comma — transition word ও appositive",
-   "bn": "**However, Moreover, Therefore, In fact** ইত্যাদির পরে কমা বসে; আর appositive-এর দুই পাশে কমা বসে।",
-   "formula": "However , … | Noun , appositive , …",
-   "ex": "However==,== he is honest. / Dhaka==,== the capital of Bangladesh==,== is busy."
-  },
-  {
-   "no": "08",
-   "tag": "Mark",
-   "name": "Semicolon (;) — অর্ধ-দাঁড়ি",
-   "bn": "সম্পর্কযুক্ত দুটি স্বাধীন বাক্যকে যুক্ত করতে বসে, যেখানে দাঁড়ি খুব কঠোর আর কমা খুব দুর্বল।",
-   "formula": "Independent clause ; independent clause",
-   "ex": "He worked hard==;== he became successful."
-  },
-  {
-   "no": "09",
-   "tag": "Mark",
-   "name": "Colon (:) — বিসর্গ",
-   "bn": "তালিকা, ব্যাখ্যা বা উদ্ধৃতি **উপস্থাপনের আগে** বসে।",
-   "formula": "… : list / explanation",
-   "ex": "He bought three things==:== a pen, a book and a bag."
-  },
-  {
-   "no": "10",
-   "tag": "Mark",
-   "name": "Apostrophe (') — লোপচিহ্ন ও মালিকানা",
-   "bn": "মালিকানা বোঝাতে ও অক্ষর লোপ পেলে বসে — **Rahim's book, don't, it's (it is)**।",
-   "formula": "noun + 's | do + n't",
-   "ex": "This is Rahim==’==s book. / He does==n’==t know it.",
-   "note": "**its** = তার (মালিকানা), **it's** = it is। এই দুটি গুলিয়ো না।"
-  },
-  {
-   "no": "11",
-   "tag": "Speech",
-   "name": "Inverted commas (“ ”) — উদ্ধৃতিচিহ্ন",
-   "bn": "প্রত্যক্ষ উক্তি উদ্ধৃতিচিহ্নের ভেতরে বসে। Reporting verb-এর পরে **কমা**, উক্তির প্রথম অক্ষর **বড় হাতের**, আর শেষ চিহ্নটি উদ্ধৃতিচিহ্নের **ভেতরে**।",
-   "formula": "He said, “ Sentence. ”",
-   "ex": "He said==,== ==“==I am busy today.==”=="
-  },
-  {
-   "no": "12",
-   "tag": "Capital",
-   "name": "Capital — বাক্যের শুরু ও ‘I’",
-   "bn": "প্রতিটি বাক্যের প্রথম অক্ষর এবং সর্বনাম **I** সবসময় বড় হাতের।",
-   "formula": "First letter + I",
-   "ex": "==H==e is my friend. ==I== know him well."
-  },
-  {
-   "no": "13",
-   "tag": "Capital",
-   "name": "Capital — নাম ও স্থান",
-   "bn": "ব্যক্তি, স্থান, দেশ, নদী, প্রতিষ্ঠানের নাম (proper noun) বড় হাতের অক্ষরে শুরু হয়।",
-   "formula": "Proper noun",
-   "ex": "==R==ahim lives in ==D==haka near the ==B==uriganga."
-  },
-  {
-   "no": "14",
-   "tag": "Capital",
-   "name": "Capital — বার, মাস, ভাষা, জাতি",
-   "bn": "বার, মাস, উৎসব, ভাষা, জাতি ও ধর্মের নাম বড় হাতের অক্ষরে।",
-   "formula": "Sunday · January · Bengali · Muslim · Eid",
-   "ex": "We speak ==B==engali. The class is on ==M==onday in ==J==anuary.",
-   "note": "ঋতুর নাম (summer, winter) বড় হাতের নয়।"
-  },
-  {
-   "no": "15",
-   "tag": "Capital",
-   "name": "Capital — শিরোনাম ও উক্তির শুরু",
-   "bn": "বই/কবিতার শিরোনামের প্রধান শব্দগুলো এবং প্রত্যক্ষ উক্তির প্রথম শব্দ বড় হাতের।",
-   "formula": "Title Case | said, “First…”",
-   "ex": "He read ==G==itanjali. He said, “==I== am ready.”"
-  }
- ],
- "boardQ": {
-  "instruction": "Punctuate the following passage and use capital letters where necessary. — নিচের অনুচ্ছেদে যতিচিহ্ন ও বড় হাতের অক্ষর ব্যবহার করো। (5)",
-  "text": "rahim is a student of dhaka college he reads in class twelve one day his teacher asked him what do you want to be in life rahim replied sir i want to be a doctor the teacher said well done my boy you must work hard alas many students do not know their aim in life",
-  "items": [
-   {
-    "ans": "Rahim is a student of Dhaka College.",
-    "why": "বাক্যের শুরু ও proper noun বড় হাতের; বিবৃতির শেষে **দাঁড়ি**। (নিয়ম ১২, ১৩, ০১)"
-   },
-   {
-    "ans": "He reads in class twelve.",
-    "why": "নতুন বাক্য → বড় হাতের H, শেষে দাঁড়ি। (নিয়ম ০১, ১২)"
-   },
-   {
-    "ans": "One day his teacher asked him,",
-    "why": "Reporting verb-এর পরে **কমা**, তারপর উদ্ধৃতিচিহ্ন। (নিয়ম ১১)"
-   },
-   {
-    "ans": "“What do you want to be in life?”",
-    "why": "প্রত্যক্ষ প্রশ্ন → উদ্ধৃতিচিহ্নের ভেতরে **প্রশ্নবোধক চিহ্ন**; প্রথম অক্ষর বড়। (নিয়ম ০২, ১১)"
-   },
-   {
-    "ans": "Rahim replied, “Sir, I want to be a doctor.”",
-    "why": "সম্বোধন ‘Sir’-এর পরে **কমা**; ‘I’ সবসময় বড় হাতের। (নিয়ম ০৫, ১২)"
-   },
-   {
-    "ans": "The teacher said, “Well done, my boy!",
-    "why": "প্রশংসাসূচক আবেগ → **বিস্ময়চিহ্ন**; ‘Well done’-এর পরে কমা। (নিয়ম ০৩, ০৫)"
-   },
-   {
-    "ans": "You must work hard.”",
-    "why": "নতুন বাক্য বড় হাতের অক্ষরে; দাঁড়ি উদ্ধৃতিচিহ্নের **ভেতরে**। (নিয়ম ১১)"
-   },
-   {
-    "ans": "Alas! many students do not know their aim in life.",
-    "why": "Interjection ‘Alas’-এর পরে **বিস্ময়চিহ্ন**। (নিয়ম ০৩)"
-   },
-   {
-    "ans": "‘Dhaka College’ কেন বড় হাতের?",
-    "why": "প্রতিষ্ঠানের নাম = proper noun। (নিয়ম ১৩)"
-   },
-   {
-    "ans": "প্রশ্নচিহ্ন কোথায় বসল?",
-    "why": "প্রত্যক্ষ প্রশ্ন হওয়ায় **উদ্ধৃতিচিহ্নের ভেতরে**; পরোক্ষ হলে বসত না। (নিয়ম ০২)"
-   }
+
+  "extras": [
+    {
+      "title": "Capitalisation at a glance <span class='sub'>— ছয়টি নিয়ম</span>",
+      "key": "Capital Rules",
+      "table": {
+        "headers": ["নিয়ম", "উদাহরণ"],
+        "rows": [
+          ["বাক্যের শুরু ও direct speech", "He said, \"Honesty is the best policy.\""],
+          ["Proper noun — ব্যক্তি, স্থান, পত্রিকা, নদী", "Rakib, Dhaka, The Daily Star, The Padma"],
+          ["I এবং God / Allah ও His", "I prayed to Allah for His mercy."],
+          ["বার, মাস, উৎসব, ঐতিহাসিক ঘটনা", "Friday, December, Eid-ul-Fitr, The French Revolution"],
+          ["ঋতুর নাম — ছোট হাতের", "summer, winter"],
+          ["পদবি ও ডিগ্রি", "Dr. Ahmed, President Lincoln, B.A., M.Sc."],
+          ["অঞ্চল বড়, দিক ছোট", "He lives in the South. / Go south."]
+        ]
+      }
+    },
+    {
+      "title": "কোন চিহ্ন কোথায় <span class='sub'>— এক নজরে</span>",
+      "key": "Mark Bank",
+      "table": {
+        "headers": ["চিহ্ন", "প্রধান ব্যবহার", "উদাহরণ"],
+        "rows": [
+          [". Full stop", "বাক্যের শেষে, সংক্ষিপ্ত শব্দে", "Open the door. / M.A."],
+          [", Comma", "series, vocative, appositive, FANBOYS, introductory, reporting verb, tag", "Yes, I will go."],
+          ["; Semicolon", "conjunction ছাড়া দুই বাক্য; super comma", "To err is human; to forgive is divine."],
+          [": Colon", "তালিকা বা ব্যাখ্যা", "I need three things: a pen, a book, and a scale."],
+          ["’ Apostrophe", "মালিকানা ও সংকোচন", "The boy's pen / Don't"],
+          ["? Question mark", "সরাসরি প্রশ্নে", "What is your name?"],
+          ["! Exclamation", "আকস্মিক আবেগ", "Hurrah! We have won."],
+          ["\" \" Quotation", "direct speech, ছোট রচনার নাম", "the poem \"Daffodils\""],
+          ["- Hyphen", "যুক্তশব্দ", "mother-in-law, twenty-one"],
+          ["— Dash", "ভাবের পরিবর্তন, অতিরিক্ত তথ্য", "He sold everything—his house, his car—to pay the debt."]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "⚠️", "t": "পরীক্ষায় প্রায়ই Direct Speech", "type": "warn", "d": "Punctuation-এর প্যাসেজ সাধারণত ==narration== আকারে আসে। তাই ==inverted comma==, ==কমা== ও ==বড় হাতের অক্ষরের== সঠিক ব্যবহারের উপরই সবচেয়ে বেশি জোর দেবে।" },
+    { "em": "🔤", "t": "its vs it's", "type": "warn", "d": "==its== = ইহার (possessive, apostrophe নেই) · ==it's== = it is। এই একটি ভুলেই নম্বর যায়।" },
+    { "em": "🍂", "t": "ঋতু ছোট হাতের", "d": "বার-মাস বড় হাতের, কিন্তু ==summer, winter== ছোট হাতের — এটি খুব ধরা পড়ে।" },
+    { "em": "❓", "t": "Indirect প্রশ্নে ? নয়", "d": "‘I asked what his name ==was.==’ — এখানে full stop, প্রশ্নবোধক চিহ্ন নয়।" },
+    { "em": "🧭", "t": "দিক না অঞ্চল", "d": "‘Go ==south==’ (দিক) কিন্তু ‘the ==South==’ (অঞ্চল) — অর্থ দেখেই ঠিক করতে হবে।" },
+    { "em": "✍️", "t": "Apostrophe-এর জায়গা", "d": "==boy’s== = একজনের · ==boys’== = একাধিকের · ==children’s== = irregular plural।" }
+  ],
+
+  "recap": [
+    "Capital: বাক্যের শুরু ও উদ্ধৃতি, proper noun, I ও God/His, বার-মাস-উৎসব, পদবি-ডিগ্রি, অঞ্চল।",
+    "ঋতুর নাম ও দিক নির্দেশ ছোট হাতের।",
+    "Comma: series, vocative, appositive, FANBOYS, introductory, reporting verb, tag question।",
+    "Semicolon = conjunction ছাড়া দুই স্বাধীন বাক্য বা super comma; Colon = তালিকা বা ব্যাখ্যা।",
+    "Apostrophe: boy’s / boys’ / children’s; সংকোচনে don’t, it’s।",
+    "Direct প্রশ্নে ?, indirect-এ .; আবেগে !; direct speech-এ কমা + inverted comma।"
+  ],
+
+  "homework": [
+    "Capitalisation-এর ৭টি সারি না দেখে লিখে আনবে।",
+    "Practice Set 2-এর ৮টি বাক্য যতিচিহ্নসহ খাতায় লিখবে।",
+    "বোর্ডের অনুচ্ছেদটি সম্পূর্ণ punctuate করে আনবে।",
+    "its ও it's দিয়ে নিজে ৩টি করে বাক্য বানাবে।"
   ]
- },
- "drills": [
-  {
-   "title": "Practice Set 1 — কোন চিহ্ন বসবে?",
-   "intro": "প্রতিটি বাক্যে কোন চিহ্ন লাগবে বলো — তারপর **R**।",
-   "items": [
-    {
-     "q": "What a beautiful flower it is ___",
-     "ans": "!",
-     "why": "আবেগসূচক বাক্য → বিস্ময়চিহ্ন। (০৩)"
-    },
-    {
-     "q": "He asked me where I lived ___",
-     "ans": ".",
-     "why": "পরোক্ষ প্রশ্ন → দাঁড়ি, প্রশ্নচিহ্ন নয়। (০২)"
-    },
-    {
-     "q": "He bought pens ___ books and pencils.",
-     "ans": ",",
-     "why": "তালিকায় কমা। (০৪)"
-    },
-    {
-     "q": "Yes ___ I know him well.",
-     "ans": ",",
-     "why": "Yes/No-এর পরে কমা। (০৫)"
-    },
-    {
-     "q": "If you read attentively ___ you will learn.",
-     "ans": ",",
-     "why": "শুরুর clause-এর পরে কমা। (০৬)"
-    },
-    {
-     "q": "He worked hard ___ he became successful.",
-     "ans": "; (বা . )",
-     "why": "দুটি স্বাধীন clause → semicolon। (০৮)"
-    }
-   ]
-  },
-  {
-   "title": "Practice Set 2 — বড় হাতের অক্ষর",
-   "intro": "কোন শব্দগুলো বড় হাতের হবে বলো।",
-   "items": [
-    {
-     "q": "rahim lives in dhaka and speaks bengali.",
-     "ans": "Rahim … Dhaka … Bengali",
-     "why": "ব্যক্তি, স্থান ও ভাষার নাম → proper noun। (১৩, ১৪)"
-    },
-    {
-     "q": "the class will be held on monday in january.",
-     "ans": "The … Monday … January",
-     "why": "বাক্যের শুরু, বার ও মাসের নাম। (১২, ১৪)"
-    },
-    {
-     "q": "he said, “i am ready.”",
-     "ans": "He … “I am ready.”",
-     "why": "বাক্যের শুরু, ‘I’, ও উক্তির প্রথম অক্ষর। (১২, ১৫)"
-    },
-    {
-     "q": "we celebrate eid with joy.",
-     "ans": "We … Eid",
-     "why": "উৎসবের নাম বড় হাতের। (১৪)"
-    },
-    {
-     "q": "i read gitanjali last summer.",
-     "ans": "I … Gitanjali … summer (ছোট হাতের)",
-     "why": "বইয়ের নাম বড়, কিন্তু **ঋতুর নাম ছোট হাতের**। (১৪, ১৫)"
-    },
-    {
-     "q": "this is rahims book.",
-     "ans": "This is Rahim’s book.",
-     "why": "মালিকানায় apostrophe + s। (১০)"
-    }
-   ]
-  }
- ],
- "extras": [
-  {
-   "title": "Every mark and its job <span class='sub'>— এক নজরে সব চিহ্ন</span>",
-   "key": "Marks",
-   "table": {
-    "headers": [
-     "চিহ্ন",
-     "নাম",
-     "কোথায় বসে"
-    ],
-    "rows": [
-     [
-      ".",
-      "@Full stop / দাঁড়ি",
-      "বিবৃতি ও আদেশের শেষে, সংক্ষিপ্ত রূপে"
-     ],
-     [
-      "?",
-      "@Question mark",
-      "প্রত্যক্ষ প্রশ্নের শেষে (পরোক্ষে নয়)"
-     ],
-     [
-      "!",
-      "@Exclamation mark",
-      "আবেগ, বিস্ময়, interjection-এর পরে"
-     ],
-     [
-      ",",
-      "@Comma",
-      "তালিকা, সম্বোধন, Yes/No, শুরুর clause, transition, appositive"
-     ],
-     [
-      ";",
-      "@Semicolon",
-      "দুটি সম্পর্কযুক্ত স্বাধীন clause-এর মাঝে"
-     ],
-     [
-      ":",
-      "@Colon",
-      "তালিকা বা ব্যাখ্যা উপস্থাপনের আগে"
-     ],
-     [
-      "’",
-      "@Apostrophe",
-      "মালিকানা (Rahim’s) ও লোপ (don’t)"
-     ],
-     [
-      "“ ”",
-      "@Inverted commas",
-      "প্রত্যক্ষ উক্তির দুই পাশে"
-     ],
-     [
-      "-",
-      "@Hyphen",
-      "যুক্তশব্দে (mother-in-law, well-known)"
-     ],
-     [
-      "—",
-      "@Dash",
-      "হঠাৎ বিরতি বা ব্যাখ্যা যোগে"
-     ]
-    ]
-   },
-   "note": "**সবচেয়ে বেশি নম্বর কাটে কমায়** — তালিকা, সম্বোধন ও শুরুর clause, এই তিন জায়গা সবার আগে মুখস্থ করো।"
-  },
-  {
-   "title": "Capital letters — 8 places <span class='sub'>— বড় হাতের অক্ষর কোথায়</span>",
-   "key": "Capitals",
-   "table": {
-    "headers": [
-     "কোথায়",
-     "উদাহরণ"
-    ],
-    "rows": [
-     [
-      "বাক্যের প্রথম অক্ষর",
-      "@**H**e is my friend."
-     ],
-     [
-      "সর্বনাম I",
-      "@**I** know him."
-     ],
-     [
-      "ব্যক্তির নাম",
-      "@**R**ahim, **N**azrul"
-     ],
-     [
-      "স্থান ও প্রতিষ্ঠান",
-      "@**D**haka, **D**haka **C**ollege"
-     ],
-     [
-      "বার ও মাস",
-      "@**S**unday, **J**anuary"
-     ],
-     [
-      "ভাষা, জাতি, ধর্ম, উৎসব",
-      "@**B**engali, **M**uslim, **E**id"
-     ],
-     [
-      "বই ও কবিতার শিরোনাম",
-      "@**G**itanjali, **T**he **D**aily **S**tar"
-     ],
-     [
-      "প্রত্যক্ষ উক্তির প্রথম শব্দ",
-      "@He said, “**I** am ready.”"
-     ]
-    ]
-   },
-   "note": "**ব্যতিক্রম:** ঋতুর নাম (summer, winter), দিকের নাম সাধারণ অর্থে (east, west) — এগুলো ছোট হাতের।"
-  }
- ],
- "tips": [
-  {
-   "em": "✂️",
-   "t": "Break the passage into sentences first",
-   "d": "পুরো অনুচ্ছেদ একবার পড়ে অর্থ বুঝে নাও, তারপর কোথায় বাক্য শেষ হচ্ছে সেখানে দাঁড়ি বসাও — বাকিটা সহজ।"
-  },
-  {
-   "em": "🔠",
-   "t": "Every full stop → next letter capital",
-   "type": "ok",
-   "d": "দাঁড়ি বসানোর সঙ্গে সঙ্গে পরের শব্দের প্রথম অক্ষর বড় হাতের করো। এই দুটি সবসময় একসাথে চলে।"
-  },
-  {
-   "em": "❓",
-   "t": "Indirect questions take a full stop",
-   "type": "warn",
-   "d": "‘He asked me where I lived.’ — এখানে প্রশ্নচিহ্ন নয়, **দাঁড়ি**। প্রতি বছর এখানেই সবচেয়ে বেশি ভুল।"
-  },
-  {
-   "em": "💬",
-   "t": "Punctuation goes inside the quotes",
-   "d": "‘He said, “I am busy.”’ — দাঁড়ি/প্রশ্নচিহ্ন উদ্ধৃতিচিহ্নের **ভেতরে** বসে, বাইরে নয়।"
-  },
-  {
-   "em": "🧩",
-   "t": "its vs it's",
-   "type": "warn",
-   "d": "**its** = তার (The dog wagged **its** tail); **it's** = it is (**It's** raining)। Apostrophe থাকলেই মালিকানা নয়।"
-  },
-  {
-   "em": "✍️",
-   "t": "Rewrite the whole passage",
-   "d": "শুধু চিহ্ন বসিয়ে দিলে হবে না — পুরো অনুচ্ছেদটি নতুন করে সঠিকভাবে লিখতে হবে, নইলে নম্বর কাটা যায়।"
-  }
- ],
- "recap": [
-  "দাঁড়ি বিবৃতিতে, প্রশ্নচিহ্ন প্রত্যক্ষ প্রশ্নে, বিস্ময়চিহ্ন আবেগে।",
-  "কমা: তালিকা, সম্বোধন, Yes/No, শুরুর clause, transition word, appositive।",
-  "উক্তিতে: reporting verb-এর পরে কমা, উক্তির প্রথম অক্ষর বড়, চিহ্ন উদ্ধৃতির ভেতরে।",
-  "বড় হাতের অক্ষর ৮ জায়গায়: বাক্যের শুরু, I, নাম, স্থান, বার-মাস, ভাষা-জাতি-ধর্ম, শিরোনাম, উক্তির শুরু।",
-  "ঋতুর নাম ছোট হাতের; পরোক্ষ প্রশ্নে প্রশ্নচিহ্ন বসে না।"
- ],
- "homework": [
-  "‘Every mark and its job’ ছকের ১০টি চিহ্ন লিখে আনবে।",
-  "বড় হাতের অক্ষরের ৮টি জায়গা মুখস্থ করবে।",
-  "বোর্ডের অনুচ্ছেদটি না দেখে আবার যতিচিহ্নসহ লিখবে।",
-  "সংবাদপত্রের একটি অনুচ্ছেদ থেকে ১০টি কমার ব্যবহার খুঁজে কারণ লিখবে।"
- ],
- "paper": "paper2"
 }
