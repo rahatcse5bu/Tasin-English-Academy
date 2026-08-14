@@ -206,17 +206,22 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
     [i, slides.length],
   );
 
-  // ?s=<n> deep-links to a slide; otherwise resume where the mentor left off
+  /**
+   * A chapter always opens at its first slide. Only an explicit `?s=<n>` link
+   * starts anywhere else — a class begins at the beginning, and resuming where
+   * the last class stopped only ever surprised the mentor.
+   *
+   * Guarded by a ref rather than the effect deps: `slides.length` changes when
+   * the passage slides are toggled off mid-class, and re-running this would
+   * throw the deck back to the slide the URL originally asked for.
+   */
+  const opened = useRef<string | null>(null);
   useEffect(() => {
+    if (opened.current === deck.id) return;
+    opened.current = deck.id;
+
     const asked = parseInt(params.get('s') || '', 10);
-    if (asked >= 1 && asked <= slides.length) {
-      setI(asked - 1);
-    } else {
-      try {
-        const saved = parseInt(localStorage.getItem('tea:pos:' + deck.id) || '0', 10);
-        if (saved > 0 && saved < slides.length) setI(saved);
-      } catch {}
-    }
+    setI(asked >= 1 && asked <= slides.length ? asked - 1 : 0);
     try {
       setDark(localStorage.getItem('tea:theme') === 'dark');
     } catch {}
@@ -224,12 +229,9 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
   }, [deck.id, slides.length]);
 
   useEffect(() => {
-    try {
-      localStorage.setItem('tea:pos:' + deck.id, String(i));
-      const u = new URL(window.location.href);
-      u.searchParams.set('s', String(i + 1));
-      window.history.replaceState(null, '', u.toString());
-    } catch {}
+    /* The URL is deliberately not rewritten as the deck advances. `?s=<n>` is an
+       inbound deep link only — stamping it into history meant that coming back to
+       a chapter, from the back button or a bookmark, reopened it mid-lesson. */
     const body = slideEl()?.querySelector<HTMLElement>('.slide-body');
     if (body) body.scrollTop = 0;
     wbRestore(i);
