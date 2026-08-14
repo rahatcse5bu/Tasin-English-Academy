@@ -29,6 +29,10 @@ type Para = { tag?: string; s: Sentence[] };
 type Word = { w: string; pos?: string; pron?: string; bn?: string; en?: string; ex?: string };
 type SynAnt = { w: string; bn?: string; syn?: string[]; ant?: string[] };
 type Flow = { title?: string; items: { t: string; bn?: string }[] };
+type Rule = { no?: string; tag?: string; name: string; bn?: string; formulaLabel?: string; formula?: string; ex?: string; note?: string };
+type Answer = { q?: string; ans: string; why?: string };
+type Drill = { title: string; intro?: string; items: Answer[] };
+type BoardQ = { instruction?: string; text?: string; bank?: string; items: Answer[] };
 
 const input =
   'w-full rounded-lg border border-slate-300 px-3 py-2 text-sm focus:border-brand-500 focus:outline-none';
@@ -77,6 +81,11 @@ function DeckEditor() {
   const [words, setWords] = useState<Word[]>([]);
   const [synant, setSynant] = useState<SynAnt[]>([]);
   const [flow, setFlow] = useState<Flow>({ title: '', items: [] });
+  const [rulesTitle, setRulesTitle] = useState('');
+  const [rulesPerSlide, setRulesPerSlide] = useState(2);
+  const [rules, setRules] = useState<Rule[]>([]);
+  const [drills, setDrills] = useState<Drill[]>([]);
+  const [boardQ, setBoardQ] = useState<BoardQ>({ instruction: '', text: '', bank: '', items: [] });
 
   useEffect(() => {
     if (!token) return;
@@ -97,6 +106,12 @@ function DeckEditor() {
         setPassage(((d.passage as Para[]) || []).map((p) => ({ ...p, s: p.s.map((x) => ({ ...x })) })));
         setWords(((d.words as Word[]) || []).map((w) => ({ ...w })));
         setSynant(((d.synant as SynAnt[]) || []).map((x) => ({ ...x, syn: [...(x.syn || [])], ant: [...(x.ant || [])] })));
+        setRulesTitle(plain((d as any).rulesTitle || ''));
+        setRulesPerSlide((d as any).rulesPerSlide || 2);
+        setRules((((d as any).rules as Rule[]) || []).map((r) => ({ ...r })));
+        setDrills((((d as any).drills as Drill[]) || []).map((x) => ({ ...x, items: x.items.map((i) => ({ ...i })) })));
+        const b = (d as any).boardQ as BoardQ | undefined;
+        setBoardQ(b ? { ...b, items: b.items.map((i) => ({ ...i })) } : { instruction: '', text: '', bank: '', items: [] });
         const f = (d as any).flow as Flow | undefined;
         setFlow(
           f
@@ -115,6 +130,18 @@ function DeckEditor() {
     () => passage.reduce((n, p) => n + p.s.reduce((m, x) => m + (x.en.match(/==[^=]+==/g) || []).length, 0), 0),
     [passage],
   );
+
+  // a chapter is either a passage lesson or a grammar lesson; showing the other
+  // half's empty sections would just be noise a mentor has to scroll past
+  const grammar =
+    !!deck && (!!(deck as any).rules?.length || !!(deck as any).drills?.length || !deck.passage?.length);
+
+  const patchRule = (n: number, patch: Partial<Rule>) =>
+    setRules(rules.map((r, i) => (i === n ? { ...r, ...patch } : r)));
+  const patchDrill = (n: number, patch: Partial<Drill>) =>
+    setDrills(drills.map((d, i) => (i === n ? { ...d, ...patch } : d)));
+  const patchItem = (di: number, ii: number, patch: Partial<Answer>) =>
+    setDrills(drills.map((d, i) => (i === di ? { ...d, items: d.items.map((x, j) => (j === ii ? { ...x, ...patch } : x)) } : d)));
 
   const patchTable = (ti: number, patch: Partial<Table>) =>
     setTables(tables.map((t, i) => (i === ti ? { ...t, ...patch } : t)));
@@ -142,6 +169,15 @@ function DeckEditor() {
             .filter((p) => p.s.length),
           words: words.filter((w) => w.w.trim()),
           synant: synant.filter((x) => x.w.trim()),
+          rulesTitle,
+          rulesPerSlide,
+          rules: rules.filter((r) => r.name.trim()),
+          drills: drills
+            .filter((d) => d.title.trim())
+            .map((d) => ({ ...d, items: d.items.filter((x) => x.ans.trim()) })),
+          boardQ: boardQ.items.filter((x) => x.ans.trim()).length
+            ? { ...boardQ, items: boardQ.items.filter((x) => x.ans.trim()) }
+            : undefined,
           flow: flow.items.filter((x) => x.t.trim()).length >= 2
             ? { title: flow.title, items: flow.items.filter((x) => x.t.trim()) }
             : undefined,
@@ -188,6 +224,7 @@ function DeckEditor() {
       </p>
 
       {/* ---------------- summary ---------------- */}
+      {!grammar && (
       <Section
         title="Summary ও বাংলা অর্থ"
         hint="**গাঢ়**, ==হাইলাইট== আর *ইটালিক* লেখা যায়। বাংলা অংশটি স্লাইডে ডান পাশে দেখাবে।"
@@ -216,8 +253,10 @@ function DeckEditor() {
           onChange={(e) => setSummaryTip(e.target.value)}
         />
       </Section>
+      )}
 
       {/* ---------------- short questions ---------------- */}
+      {!grammar && (
       <Section
         title="Short Questions (১-খ)"
         count={`${shortQ.length}টি`}
@@ -269,6 +308,7 @@ function DeckEditor() {
           + প্রশ্ন যোগ করুন
         </button>
       </Section>
+      )}
 
       {/* ---------------- MCQ ---------------- */}
       <Section
@@ -343,6 +383,7 @@ function DeckEditor() {
       </Section>
 
       {/* ---------------- tables ---------------- */}
+      {!grammar && (
       <Section
         title="Information Transfer Tables"
         count={`${tables.length} টেবিল · ${blanks} ফাঁকা`}
@@ -472,8 +513,10 @@ function DeckEditor() {
           + নতুন টেবিল যোগ করুন
         </button>
       </Section>
+      )}
 
       {/* ---------------- flow chart ---------------- */}
+      {!grammar && (
       <Section
         title="Flow Chart"
         count={`${flow.items.length} ঘর`}
@@ -527,8 +570,10 @@ function DeckEditor() {
           + ঘর যোগ করুন
         </button>
       </Section>
+      )}
 
       {/* ---------------- passage & highlights ---------------- */}
+      {!grammar && (
       <Section
         title="প্যাসেজ ও হাইলাইট"
         count={`${passage.length} অনুচ্ছেদ · ${marks} হাইলাইট`}
@@ -607,8 +652,10 @@ function DeckEditor() {
           + অনুচ্ছেদ যোগ করুন
         </button>
       </Section>
+      )}
 
       {/* ---------------- vocabulary ---------------- */}
+      {!grammar && (
       <Section
         title="শব্দার্থ (Vocabulary)"
         count={`${words.length} শব্দ`}
@@ -639,8 +686,10 @@ function DeckEditor() {
           + শব্দ যোগ করুন
         </button>
       </Section>
+      )}
 
       {/* ---------------- synonyms / antonyms ---------------- */}
+      {!grammar && (
       <Section
         title="Synonym / Antonym"
         count={`${synant.length} শব্দ`}
@@ -678,6 +727,145 @@ function DeckEditor() {
           + যোগ করুন
         </button>
       </Section>
+      )}
+
+      {/* ---------------- grammar: rules ---------------- */}
+      {grammar && (
+        <Section
+          title="নিয়ম (Rules)"
+          count={`${rules.length}টি`}
+          hint="প্রতিটি নিয়ম আলাদা স্লাইডে যায়। উদাহরণে ==দুই সমান চিহ্নের ভিতরে== যেটুকু রাখবে সেটুকু হাইলাইট হয়ে দেখাবে। নম্বর ফাঁকা রাখলে সংরক্ষণের সময় ০১, ০২… করে নিজেই বসে যাবে।"
+        >
+          <div className="grid sm:grid-cols-3 gap-3">
+            <div className="sm:col-span-2">
+              <label className={label}>স্লাইডের শিরোনাম</label>
+              <input className={`${input} bn`} value={rulesTitle} onChange={(e) => setRulesTitle(e.target.value)} placeholder="Voice পরিবর্তনের নিয়ম" />
+            </div>
+            <div>
+              <label className={label}>এক স্লাইডে কয়টি নিয়ম</label>
+              <select className={input} value={rulesPerSlide} onChange={(e) => setRulesPerSlide(Number(e.target.value))}>
+                {[1, 2, 3, 4].map((n) => (<option key={n} value={n}>{n}</option>))}
+              </select>
+            </div>
+          </div>
+
+          <div className="mt-4">
+            {rules.map((r, n) => (
+              <div key={n} className="border border-slate-200 rounded-xl p-4 mb-3">
+                <div className="flex items-center gap-2 mb-2">
+                  <span className="badge bg-brand-50 text-brand-700">নিয়ম {n + 1}</span>
+                  <button
+                    className="text-xs text-slate-500 disabled:opacity-30"
+                    disabled={n === 0}
+                    onClick={() => { const a = [...rules]; [a[n - 1], a[n]] = [a[n], a[n - 1]]; setRules(a); }}
+                  >↑</button>
+                  <button
+                    className="text-xs text-slate-500 disabled:opacity-30"
+                    disabled={n === rules.length - 1}
+                    onClick={() => { const a = [...rules]; [a[n + 1], a[n]] = [a[n], a[n + 1]]; setRules(a); }}
+                  >↓</button>
+                  <button className="ml-auto text-xs text-rose-600 font-semibold" onClick={() => setRules(rules.filter((_, i) => i !== n))}>
+                    মুছুন
+                  </button>
+                </div>
+                <div className="grid sm:grid-cols-6 gap-2">
+                  <input className={input} value={r.no || ''} placeholder="নং" onChange={(e) => patchRule(n, { no: e.target.value })} />
+                  <input className={input} value={r.tag || ''} placeholder="ট্যাগ" onChange={(e) => patchRule(n, { tag: e.target.value })} />
+                  <input className={`${input} sm:col-span-4`} value={r.name} placeholder="নিয়মের নাম" onChange={(e) => patchRule(n, { name: e.target.value })} />
+                </div>
+                <textarea className={`${input} mt-2 bn`} rows={3} value={r.bn || ''} placeholder="নিয়মটি বাংলায়…" onChange={(e) => patchRule(n, { bn: e.target.value })} />
+                <div className="grid sm:grid-cols-4 gap-2 mt-2">
+                  <input className={input} value={r.formulaLabel || ''} placeholder="RULE" onChange={(e) => patchRule(n, { formulaLabel: e.target.value })} />
+                  <input className={`${input} sm:col-span-3`} value={r.formula || ''} placeholder="Structure / formula" onChange={(e) => patchRule(n, { formula: e.target.value })} />
+                </div>
+                <textarea className={`${input} mt-2`} rows={2} value={r.ex || ''} placeholder="উদাহরণ — He writes a letter. → A letter ==is written by== him." onChange={(e) => patchRule(n, { ex: e.target.value })} />
+              </div>
+            ))}
+            <button className="btn-secondary" onClick={() => setRules([...rules, { name: '', bn: '', ex: '' }])}>
+              + নিয়ম যোগ করুন
+            </button>
+          </div>
+        </Section>
+      )}
+
+      {/* ---------------- grammar: practice sets ---------------- */}
+      {grammar && (
+        <Section
+          title="অনুশীলন (Practice Sets)"
+          count={`${drills.length} সেট · ${drills.reduce((n, d) => n + d.items.length, 0)}টি প্রশ্ন`}
+          hint="প্রতিটি উত্তর ক্লাসে একটি একটি করে খুলবে। ‘কেন’ ঘরে নিয়মের নম্বরটি লিখে দিলে শিক্ষার্থী মিলিয়ে নিতে পারে।"
+        >
+          {drills.map((d, di) => (
+            <div key={di} className="border border-slate-200 rounded-xl p-4 mb-3">
+              <div className="flex items-center gap-2 mb-2">
+                <span className="badge bg-brand-50 text-brand-700">সেট {di + 1}</span>
+                <button className="ml-auto text-xs text-rose-600 font-semibold" onClick={() => setDrills(drills.filter((_, i) => i !== di))}>
+                  সেট মুছুন
+                </button>
+              </div>
+              <input className={`${input} bn`} value={d.title} placeholder="সেটের শিরোনাম" onChange={(e) => patchDrill(di, { title: e.target.value })} />
+              <input className={`${input} mt-2 bn`} value={d.intro || ''} placeholder="নির্দেশনা (ঐচ্ছিক)" onChange={(e) => patchDrill(di, { intro: e.target.value })} />
+
+              <div className="mt-3 space-y-2">
+                {d.items.map((x, ii) => (
+                  <div key={ii} className="flex gap-2 items-start">
+                    <span className="badge bg-slate-100 text-slate-500 mt-2">{ii + 1}</span>
+                    <div className="flex-1 grid sm:grid-cols-3 gap-2">
+                      <input className={input} value={x.q || ''} placeholder="প্রশ্ন" onChange={(e) => patchItem(di, ii, { q: e.target.value })} />
+                      <input className={`${input} bg-emerald-50`} value={x.ans} placeholder="উত্তর" onChange={(e) => patchItem(di, ii, { ans: e.target.value })} />
+                      <input className={`${input} bn`} value={x.why || ''} placeholder="কেন / নিয়ম নং" onChange={(e) => patchItem(di, ii, { why: e.target.value })} />
+                    </div>
+                    <button className="text-xs text-rose-600 font-semibold mt-2" onClick={() => patchDrill(di, { items: d.items.filter((_, j) => j !== ii) })}>
+                      ✕
+                    </button>
+                  </div>
+                ))}
+              </div>
+              <button className="btn-secondary mt-3" onClick={() => patchDrill(di, { items: [...d.items, { q: '', ans: '', why: '' }] })}>
+                + প্রশ্ন
+              </button>
+            </div>
+          ))}
+          <button className="btn-secondary" onClick={() => setDrills([...drills, { title: '', intro: '', items: [{ q: '', ans: '', why: '' }] }])}>
+            + নতুন সেট
+          </button>
+        </Section>
+      )}
+
+      {/* ---------------- grammar: board question ---------------- */}
+      {grammar && (
+        <Section
+          title="বোর্ড প্রশ্নের সমাধান"
+          count={`${boardQ.items.length}টি`}
+          hint="প্রশ্নপত্রে যেভাবে আসে সেভাবেই — নির্দেশনা, প্রয়োজনে প্যাসেজ ও word bank, তারপর উত্তরগুলো।"
+        >
+          <label className={label}>নির্দেশনা</label>
+          <input className={`${input} bn`} value={boardQ.instruction || ''} onChange={(e) => setBoardQ({ ...boardQ, instruction: e.target.value })} placeholder="Change the voice of the following sentences. (5)" />
+          <label className={`${label} mt-3`}>প্যাসেজ / অনুচ্ছেদ (ঐচ্ছিক)</label>
+          <textarea className={input} rows={3} value={boardQ.text || ''} onChange={(e) => setBoardQ({ ...boardQ, text: e.target.value })} />
+          <label className={`${label} mt-3`}>Word bank (ঐচ্ছিক)</label>
+          <input className={input} value={boardQ.bank || ''} onChange={(e) => setBoardQ({ ...boardQ, bank: e.target.value })} />
+
+          <div className="mt-4 space-y-2">
+            {boardQ.items.map((x, n) => (
+              <div key={n} className="flex gap-2 items-start">
+                <span className="badge bg-slate-100 text-slate-500 mt-2">{n + 1}</span>
+                <div className="flex-1 grid sm:grid-cols-3 gap-2">
+                  <input className={input} value={x.q || ''} placeholder="প্রশ্ন (ঐচ্ছিক)" onChange={(e) => setBoardQ({ ...boardQ, items: boardQ.items.map((y, i) => (i === n ? { ...y, q: e.target.value } : y)) })} />
+                  <input className={`${input} bg-emerald-50`} value={x.ans} placeholder="উত্তর" onChange={(e) => setBoardQ({ ...boardQ, items: boardQ.items.map((y, i) => (i === n ? { ...y, ans: e.target.value } : y)) })} />
+                  <input className={`${input} bn`} value={x.why || ''} placeholder="কেন / নিয়ম নং" onChange={(e) => setBoardQ({ ...boardQ, items: boardQ.items.map((y, i) => (i === n ? { ...y, why: e.target.value } : y)) })} />
+                </div>
+                <button className="text-xs text-rose-600 font-semibold mt-2" onClick={() => setBoardQ({ ...boardQ, items: boardQ.items.filter((_, i) => i !== n) })}>
+                  ✕
+                </button>
+              </div>
+            ))}
+          </div>
+          <button className="btn-secondary mt-3" onClick={() => setBoardQ({ ...boardQ, items: [...boardQ.items, { q: '', ans: '', why: '' }] })}>
+            + উত্তর যোগ করুন
+          </button>
+        </Section>
+      )}
 
       {/* ---------------- save bar ---------------- */}
       <div className="fixed bottom-0 inset-x-0 bg-white/95 backdrop-blur border-t border-slate-200 z-40">

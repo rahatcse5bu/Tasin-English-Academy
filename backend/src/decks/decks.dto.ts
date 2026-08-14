@@ -206,6 +206,85 @@ export class FlowDto {
  * Edit the teaching content of one chapter. Only the sections sent are
  * replaced, so the passage and vocabulary are never touched by accident.
  */
+/* ------------------------------------------------------------------ */
+/* 2nd Paper — grammar lessons                                         */
+/* ------------------------------------------------------------------ */
+
+/** One numbered grammar rule, as it appears on a rules slide. */
+export class RuleDto {
+  /** the printed number, e.g. "01" — kept as text so "05(a)" also works */
+  @IsOptional() @IsString()
+  no?: string;
+
+  /** short category chip, e.g. "Base", "Exc→Ass" */
+  @IsOptional() @IsString()
+  tag?: string;
+
+  @IsString() @IsNotEmpty()
+  name!: string;
+
+  /** the rule itself, in Bangla */
+  @IsOptional() @IsString()
+  bn?: string;
+
+  /** label above the formula box, e.g. "RULE", "STRUCTURE" */
+  @IsOptional() @IsString()
+  formulaLabel?: string;
+
+  @IsOptional() @IsString()
+  formula?: string;
+
+  /** worked example; ==…== marks the part the answer turns on */
+  @IsOptional() @IsString()
+  ex?: string;
+
+  @IsOptional() @IsString()
+  note?: string;
+}
+
+/** One question inside a practice set or a solved board question. */
+export class AnswerDto {
+  @IsOptional() @IsString()
+  q?: string;
+
+  @IsString() @IsNotEmpty()
+  ans!: string;
+
+  @IsOptional() @IsString()
+  why?: string;
+}
+
+/** A practice set — the answers open one at a time in class. */
+export class DrillDto {
+  @IsString() @IsNotEmpty()
+  title!: string;
+
+  @IsOptional() @IsString()
+  intro?: string;
+
+  @IsArray() @ArrayMinSize(1) @ArrayMaxSize(40)
+  @ValidateNested({ each: true }) @Type(() => AnswerDto)
+  items!: AnswerDto[];
+}
+
+/** The solved board question at the end of a grammar lesson. */
+export class BoardQDto {
+  @IsOptional() @IsString()
+  instruction?: string;
+
+  /** a passage or paragraph the questions are set on */
+  @IsOptional() @IsString()
+  text?: string;
+
+  /** word bank printed above the questions */
+  @IsOptional() @IsString()
+  bank?: string;
+
+  @IsArray() @ArrayMinSize(1) @ArrayMaxSize(40)
+  @ValidateNested({ each: true }) @Type(() => AnswerDto)
+  items!: AnswerDto[];
+}
+
 export class ContentDto {
   @IsOptional() @IsString()
   summaryEn?: string;
@@ -246,4 +325,24 @@ export class ContentDto {
 
   @IsOptional() @ValidateNested() @Type(() => FlowDto)
   flow?: FlowDto;
+
+  /* ---- 2nd Paper ---- */
+
+  @IsOptional() @IsString()
+  rulesTitle?: string;
+
+  /** how many rules share one slide; 1 or 2 reads best on a projector */
+  @IsOptional() @IsInt() @Min(1) @Max(4)
+  rulesPerSlide?: number;
+
+  @IsOptional() @IsArray() @ArrayMaxSize(60)
+  @ValidateNested({ each: true }) @Type(() => RuleDto)
+  rules?: RuleDto[];
+
+  @IsOptional() @IsArray() @ArrayMaxSize(12)
+  @ValidateNested({ each: true }) @Type(() => DrillDto)
+  drills?: DrillDto[];
+
+  @IsOptional() @ValidateNested() @Type(() => BoardQDto)
+  boardQ?: BoardQDto;
 }

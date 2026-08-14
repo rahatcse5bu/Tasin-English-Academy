@@ -1,0 +1,304 @@
+{
+  "id": "tag-questions",
+  "paper": "paper2",
+  "paperName": "English 2nd Paper",
+  "unit": "Part A",
+  "unitName": "Grammar — Sentence Structure",
+  "title": "Tag Questions — Complete Master Handnote",
+  "titleBn": "ট্যাগ কোয়েশ্চেন",
+  "lede": "একাডেমির হ্যান্ডনোট অনুযায়ী ২৪টি নিয়ম — Golden Rules, contraction table, hidden negative, imperative, indefinite pronoun থেকে proverb ও relative pronoun পর্যন্ত।",
+  "qType": "Grammar — Tag Question",
+  "minutes": 45,
+  "marks": "5",
+  "rulesTitle": "Tag Question-এর নিয়ম",
+  "rulesPerSlide": 2,
+
+  "objectives": [
+    { "t": "Say the three Golden Rules without looking", "d": "Positive→negative tag, negative→positive tag, pronoun only" },
+    { "t": "Write every contraction correctly", "d": "isn't, aren't, won't, shan't, can't, mustn't, oughtn't" },
+    { "t": "Spot a hidden negative", "d": "hardly, seldom, never, few, little → tag হবে positive" },
+    { "t": "Handle the trap sentences", "d": "I am…aren't I? · Let's…shall we? · Everybody…they" }
+  ],
+
+  "rules": [
+    {
+      "no": "01", "tag": "Base", "name": "Tag Question কী",
+      "bn": "কোনো কথা বা বাক্যের শেষে শ্রোতার **স্বীকৃতি, সমর্থন বা সম্মতি** আদায়ের জন্য যে ছোট্ট প্রশ্ন জুড়ে দেওয়া হয়, তাকেই Tag Question বলে।",
+      "formulaLabel": "STRUCTURE",
+      "formula": "Statement + , + Auxiliary/Modal + Subject-এর Pronoun + ?",
+      "ex": "You are a student, ==aren't you==? (তুমি একজন ছাত্র, তাই না?)"
+    },
+    {
+      "no": "02", "tag": "Golden", "name": "তিনটি মূল নিয়ম",
+      "bn": "**(১)** হ্যাঁ-বোধক বাক্যে Tag হবে না-বোধক। **(২)** না-বোধক বাক্যে Tag হবে হ্যাঁ-বোধক। **(৩)** Tag-এ সবসময় subject-এর **pronoun** বসবে, noun নয়।",
+      "formulaLabel": "GOLDEN",
+      "formula": "Positive → negative tag · Negative → positive tag · Pronoun only",
+      "ex": "He is playing, ==isn't he==? · He is not playing, ==is he==? · Karim is here, ==isn't he==?"
+    },
+    {
+      "no": "03", "tag": "Contraction", "name": "Negative tag-এ সংক্ষিপ্ত রূপ বাধ্যতামূলক",
+      "bn": "Negative tag-এ অবশ্যই **Auxiliary verb + not**-এর সংক্ষিপ্ত রূপ (contracted form) ব্যবহার করতে হবে — পূর্ণ রূপ লিখলে ভুল ধরা হয়।",
+      "formulaLabel": "FORMS",
+      "formula": "is not→isn't · are not→aren't · was/were not→wasn't/weren't · do/does not→don't/doesn't · did not→didn't",
+      "ex": "shall not→==shan't== · will not→==won't== · can not→==can't== · must not→==mustn't== · ought not→==oughtn't=="
+    },
+    {
+      "no": "04", "tag": "Rule 1", "name": "Auxiliary Verb না থাকলে",
+      "bn": "বাক্যে **am, is, are, was, were** ইত্যাদি auxiliary না থাকলে tense অনুযায়ী **do, does বা did** আনতে হবে।",
+      "formulaLabel": "BRING",
+      "formula": "Present → do / does · Past → did",
+      "ex": "They play football, ==don't they==? · She likes ice cream, ==doesn't she==? · He went to Dhaka, ==didn't he==?"
+    },
+    {
+      "no": "05", "tag": "Rule 2", "name": "Hidden Negative Words (লুকায়িত না-বাচক শব্দ)",
+      "bn": "**Hardly, scarcely, rarely, barely, seldom, never, neither, few, little** — এই শব্দগুলো বাক্যকে না-বোধক করে দেয়, তাই Tag হবে **positive**।",
+      "formulaLabel": "TAG",
+      "formula": "hidden negative → positive tag",
+      "ex": "He hardly comes here, ==does he==? · A barking dog seldom bites, ==does it==? · I have few friends, ==do I==?"
+    },
+    {
+      "no": "06", "tag": "Rule 3", "name": "‘I am’-এর ব্যতিক্রম",
+      "bn": "**I am** দিয়ে শুরু হ্যাঁ-বোধক বাক্যের tag হয় **aren't I** (amn't I নয়)। কিন্তু **I am not** হলে tag স্বাভাবিক নিয়মেই **am I**।",
+      "formulaLabel": "EXCEPTION",
+      "formula": "I am … , aren't I?  |  I am not … , am I?",
+      "ex": "I am right, ==aren't I==? · I am not late, ==am I==?"
+    },
+    {
+      "no": "07", "tag": "Rule 4", "name": "Imperative — আদেশ, নিষেধ, প্রস্তাব, অনুমতি",
+      "bn": "আদেশ/অনুরোধ ও নিষেধে **will you**; **Let's / Let us** (প্রস্তাব) হলে **shall we**; **Let me / Let him** (অনুমতি) হলে **will you**।",
+      "formulaLabel": "IMPERATIVE",
+      "formula": "Order / Don't → will you · Let's → shall we · Let me/him → will you",
+      "ex": "Open the door, ==will you==? · Don't waste time, ==will you==? · Let's go for a walk, ==shall we==? · Let him do it, ==will you==?"
+    },
+    {
+      "no": "08", "tag": "Rule 5-6", "name": "Indefinite Pronouns (অনির্দিষ্ট সর্বনাম)",
+      "bn": "**ব্যক্তি** বোঝালে — everybody, someone, nobody, none — tag-এ **they** বসবে। **বস্তু** বোঝালে — everything, something, nothing — tag-এ **it** বসবে।",
+      "formulaLabel": "PERSON / THING",
+      "formula": "person → they · thing → it",
+      "ex": "Everybody loves flowers, ==don't they==? · Nothing is impossible, ==is it==?"
+    },
+    {
+      "no": "09", "tag": "Rule 7-8", "name": "‘All of us’ ও Complex Sentence",
+      "bn": "**All of us / all of you** থাকলে সেই অনুযায়ী pronoun বসবে। আর Complex sentence-এ Tag সবসময় **Principal Clause** অনুযায়ী হবে, subordinate clause অনুযায়ী নয়।",
+      "formulaLabel": "PRINCIPAL",
+      "formula": "Tag follows the principal clause",
+      "ex": "All of us attended the meeting, ==didn't we==? · If you come, I will go, ==won't I==?"
+    },
+    {
+      "no": "10", "tag": "Rule 9", "name": "Exclamatory Sentences (আশ্চর্যবোধক বাক্য)",
+      "bn": "How/What দিয়ে শুরু আশ্চর্যবোধক বাক্যের ভিতরের **subject ও verb** ধরে tag বসাতে হবে। ‘What a …’ ধরনের বাক্যে **it is** লুকানো থাকে।",
+      "formulaLabel": "HIDDEN",
+      "formula": "What a … ! → (it is) … , isn't it?",
+      "ex": "How beautiful the bird is, ==isn't it==? · What a brilliant idea, ==isn't it==?"
+    },
+    {
+      "no": "11", "tag": "Rule 10-11", "name": "There, Here, This, That, These, Those",
+      "bn": "**There / Here** tag-এ অপরিবর্তিত থাকবে। **This / That** হলে tag-এ **it**, আর **These / Those** হলে tag-এ **they** বসবে।",
+      "formulaLabel": "SHIFT",
+      "formula": "There→there · Here→here · This/That→it · These/Those→they",
+      "ex": "There is no water, ==is there==? · That is my pen, ==isn't it==? · Those are your books, ==aren't they==?"
+    },
+    {
+      "no": "12", "tag": "Rule 12-13", "name": "Need, Dare, Used to, Ought to",
+      "bn": "**Need / Dare** মূল verb হিসেবে থাকলে do/does/did বসবে; modal হিসেবে থাকলে **নিজেই** বসবে। **Used to** হলে **didn't**, আর **Ought to** হলে **oughtn't**।",
+      "formulaLabel": "SPECIAL",
+      "formula": "need/dare (main) → do/does/did · need/dare (modal) → need/dare · used to → didn't · ought to → oughtn't",
+      "ex": "He needs a pen, ==doesn't he==? · He need not go there, ==need he==? · He used to swim, ==didn't he==? · We ought to respect teachers, ==oughtn't we==?"
+    },
+    {
+      "no": "13", "tag": "Rule 14-15", "name": "Joining Words ও Abstract Noun",
+      "bn": "**As well as, along with, with, together with** দিয়ে যুক্ত হলে **প্রথম subject** অনুযায়ী tag বসবে। আর mother/father ইত্যাদি দিয়ে **গুণ বা ভাব** বোঝালে tag-এ **it** বসবে।",
+      "formulaLabel": "FIRST SUBJECT",
+      "formula": "as well as / along with → first subject · abstract quality → it",
+      "ex": "Karim as well as his friends has come, ==hasn't he==? · The mother rose in her, ==didn't it==?"
+    },
+    {
+      "no": "14", "tag": "Rule 16", "name": "Greetings and Wishes",
+      "bn": "শুভেচ্ছা বা ধন্যবাদজ্ঞাপক বাক্যের ভিতরে **I** লুকানো থাকে, তাই tag হয় **don't I**।",
+      "formulaLabel": "GREETING",
+      "formula": "Thank you. / Good morning. → don't I?",
+      "ex": "Thank you, ==don't I==? · Good morning, ==don't I==?"
+    },
+    {
+      "no": "15", "tag": "Rule 17", "name": "Either…or / Neither…nor / Not only…but also",
+      "bn": "এই correlative গুলো দিয়ে দুটি subject যুক্ত হলে **দ্বিতীয় subject** অনুযায়ী tag বসবে — প্রথমটি অনুযায়ী নয়।",
+      "formulaLabel": "SECOND SUBJECT",
+      "formula": "either…or / neither…nor / not only…but also → second subject",
+      "ex": "Not only the boys but also the teacher is present, ==isn't he==?"
+    },
+    {
+      "no": "16", "tag": "Rule 18", "name": "Collective Nouns (সমষ্টিবাচক বিশেষ্য)",
+      "bn": "সমষ্টিবাচক noun **ঐক্যবদ্ধ** বোঝালে tag-এ **it**, আর **ভিন্নমত বা বিভক্ত** বোঝালে **they** বসবে।",
+      "formulaLabel": "UNITY / DIVISION",
+      "formula": "united → it · divided → they",
+      "ex": "The committee has taken its decision, ==hasn't it==? · The jury were divided, ==weren't they==?"
+    },
+    {
+      "no": "17", "tag": "Rule 19-20", "name": "Allah / Creator ও ‘One’",
+      "bn": "**Allah / God** subject হলে tag-এ **He** বসবে। **One** subject হলে tag-এও **one** বসানোই ভালো।",
+      "formulaLabel": "SPECIAL SUBJECT",
+      "formula": "Allah/God → He · One → one",
+      "ex": "Allah is almighty, ==isn't He==? · One should do one's duty, ==shouldn't one==?"
+    },
+    {
+      "no": "18", "tag": "Rule 21-22", "name": "ভগ্নাংশ / শতকরা ও ‘I think / I hope’",
+      "bn": "ভগ্নাংশ বা শতকরা থাকলে **‘of’-এর পরের noun** অনুযায়ী tag বসবে। আর ‘I think / I hope’ দিয়ে শুরু হলে tag হবে **পরের খণ্ডবাক্য** অনুযায়ী।",
+      "formulaLabel": "AFTER 'OF'",
+      "formula": "Half of the + noun → that noun · I think/hope + clause → that clause",
+      "ex": "Half of the students were absent, ==weren't they==? · I think he is an honest man, ==isn't he==?"
+    },
+    {
+      "no": "19", "tag": "Rule 23-24", "name": "প্রবাদবাক্য ও Relative Pronoun",
+      "bn": "**প্রবাদবাক্যে** মূল subject অনুযায়ী **it** বা **they** বসবে। **Relative pronoun** (who/which/that) থাকলে তার আগের noun/pronoun অনুযায়ী tag বসবে।",
+      "formulaLabel": "ANTECEDENT",
+      "formula": "proverb → it / they · relative pronoun → the noun before it",
+      "ex": "All that glitters is not gold, ==is it==? · It is I who am to blame, ==aren't I==?"
+    }
+  ],
+
+  "drills": [
+    {
+      "title": "Practice Set 1 — Golden Rules ও Auxiliary",
+      "intro": "আগে বলো auxiliary আছে কি নেই, তারপর positive না negative — তারপর পুরো tag।",
+      "items": [
+        { "q": "He is playing, ______?", "ans": "isn't he", "why": "Positive statement → negative tag। (নিয়ম ০২)" },
+        { "q": "He is not playing, ______?", "ans": "is he", "why": "Negative statement → positive tag। (নিয়ম ০২)" },
+        { "q": "Karim is here, ______?", "ans": "isn't he", "why": "Tag-এ noun নয়, pronoun বসবে। (নিয়ম ০২)" },
+        { "q": "They play football, ______?", "ans": "don't they", "why": "Auxiliary নেই → do আনতে হবে। (নিয়ম ০৪)" },
+        { "q": "She likes ice cream, ______?", "ans": "doesn't she", "why": "3rd person singular → does। (নিয়ম ০৪)" },
+        { "q": "He went to Dhaka, ______?", "ans": "didn't he", "why": "Past → did। (নিয়ম ০৪)" }
+      ]
+    },
+    {
+      "title": "Practice Set 2 — Hidden negative, I am, Imperative",
+      "intro": "এই তিনটি নিয়ম থেকেই বোর্ডে সবচেয়ে বেশি ভুল হয়।",
+      "items": [
+        { "q": "He hardly comes here, ______?", "ans": "does he", "why": "hardly = লুকায়িত না-বাচক → positive tag। (নিয়ম ০৫)" },
+        { "q": "A barking dog seldom bites, ______?", "ans": "does it", "why": "seldom = না-বাচক; dog → it। (নিয়ম ০৫)" },
+        { "q": "I have few friends, ______?", "ans": "do I", "why": "few = না-বাচক → positive tag। (নিয়ম ০৫)" },
+        { "q": "I am right, ______?", "ans": "aren't I", "why": "‘I am’-এর ব্যতিক্রম; amn't I লেখা যাবে না। (নিয়ম ০৬)" },
+        { "q": "I am not late, ______?", "ans": "am I", "why": "Negative → positive tag, স্বাভাবিক নিয়ম। (নিয়ম ০৬)" },
+        { "q": "Open the door, ______?", "ans": "will you", "why": "আদেশ/অনুরোধ → will you। (নিয়ম ০৭)" },
+        { "q": "Don't waste time, ______?", "ans": "will you", "why": "নিষেধেও will you। (নিয়ম ০৭)" },
+        { "q": "Let's go for a walk, ______?", "ans": "shall we", "why": "Let's = প্রস্তাব → shall we। (নিয়ম ০৭)" },
+        { "q": "Let him do it, ______?", "ans": "will you", "why": "Let him = অনুমতি → will you। (নিয়ম ০৭)" }
+      ]
+    },
+    {
+      "title": "Practice Set 3 — Pronoun, Exclamatory, Demonstrative",
+      "intro": "Subject-টি আসলে কী — ব্যক্তি না বস্তু, this না these — সেটাই সব।",
+      "items": [
+        { "q": "Everybody loves flowers, ______?", "ans": "don't they", "why": "ব্যক্তিবাচক indefinite pronoun → they। (নিয়ম ০৮)" },
+        { "q": "Nothing is impossible, ______?", "ans": "is it", "why": "বস্তুবাচক → it; nothing না-বাচক → positive tag। (নিয়ম ০৮)" },
+        { "q": "All of us attended the meeting, ______?", "ans": "didn't we", "why": "All of us → we; auxiliary নেই → did। (নিয়ম ০৯)" },
+        { "q": "If you come, I will go, ______?", "ans": "won't I", "why": "Tag হবে principal clause অনুযায়ী। (নিয়ম ০৯)" },
+        { "q": "How beautiful the bird is, ______?", "ans": "isn't it", "why": "ভিতরের subject the bird → it। (নিয়ম ১০)" },
+        { "q": "What a brilliant idea, ______?", "ans": "isn't it", "why": "‘it is’ লুকানো আছে। (নিয়ম ১০)" },
+        { "q": "There is no water, ______?", "ans": "is there", "why": "There অপরিবর্তিত; no = না-বাচক → positive tag। (নিয়ম ১১)" },
+        { "q": "That is my pen, ______?", "ans": "isn't it", "why": "That → it। (নিয়ম ১১)" },
+        { "q": "Those are your books, ______?", "ans": "aren't they", "why": "Those → they। (নিয়ম ১১)" }
+      ]
+    },
+    {
+      "title": "Practice Set 4 — Master Rules",
+      "intro": "শেষের নিয়মগুলো — এগুলো পারলে পুরো ৫ নম্বর নিশ্চিত।",
+      "items": [
+        { "q": "He needs a pen, ______?", "ans": "doesn't he", "why": "need এখানে মূল verb → does। (নিয়ম ১২)" },
+        { "q": "He need not go there, ______?", "ans": "need he", "why": "need এখানে modal → নিজেই বসবে। (নিয়ম ১২)" },
+        { "q": "He used to swim, ______?", "ans": "didn't he", "why": "used to → didn't। (নিয়ম ১২)" },
+        { "q": "We ought to respect teachers, ______?", "ans": "oughtn't we", "why": "ought to → oughtn't। (নিয়ম ১২)" },
+        { "q": "Karim as well as his friends has come, ______?", "ans": "hasn't he", "why": "as well as → প্রথম subject Karim। (নিয়ম ১৩)" },
+        { "q": "The mother rose in her, ______?", "ans": "didn't it", "why": "এখানে mother = গুণ/ভাব → it। (নিয়ম ১৩)" },
+        { "q": "Thank you, ______?", "ans": "don't I", "why": "শুভেচ্ছা/ধন্যবাদে লুকানো I → don't I। (নিয়ম ১৪)" },
+        { "q": "Not only the boys but also the teacher is present, ______?", "ans": "isn't he", "why": "দ্বিতীয় subject the teacher অনুযায়ী। (নিয়ম ১৫)" },
+        { "q": "The committee has taken its decision, ______?", "ans": "hasn't it", "why": "ঐক্যবদ্ধ অর্থে → it। (নিয়ম ১৬)" },
+        { "q": "The jury were divided, ______?", "ans": "weren't they", "why": "বিভক্ত অর্থে → they। (নিয়ম ১৬)" },
+        { "q": "Allah is almighty, ______?", "ans": "isn't He", "why": "Allah/God → He (বড় হাতের H)। (নিয়ম ১৭)" },
+        { "q": "One should do one's duty, ______?", "ans": "shouldn't one", "why": "One subject হলে tag-এও one। (নিয়ম ১৭)" },
+        { "q": "Half of the students were absent, ______?", "ans": "weren't they", "why": "‘of’-এর পরের noun students → they। (নিয়ম ১৮)" },
+        { "q": "I think he is an honest man, ______?", "ans": "isn't he", "why": "I think-এর পরের clause অনুযায়ী। (নিয়ম ১৮)" },
+        { "q": "All that glitters is not gold, ______?", "ans": "is it", "why": "প্রবাদবাক্য → it; ‘not’ আছে → positive tag। (নিয়ম ১৯)" },
+        { "q": "It is I who am to blame, ______?", "ans": "aren't I", "why": "Relative pronoun who-এর antecedent I। (নিয়ম ১৯)" }
+      ]
+    }
+  ],
+
+  "boardQ": {
+    "instruction": "Add tag questions to the following sentences. — নিচের বাক্যগুলোতে প্রশ্নবোধক ছোট বাক্যাংশ যোগ করো। (10 × 0.5 = 5)",
+    "items": [
+      { "q": "You are a student, ______?", "ans": "aren't you", "why": "Positive → negative tag; you অপরিবর্তিত। (নিয়ম ০১-০২)" },
+      { "q": "She never tells a lie, ______?", "ans": "does she", "why": "never = লুকায়িত না-বাচক → positive tag। (নিয়ম ০৫)" },
+      { "q": "Let us start now, ______?", "ans": "shall we", "why": "Let us = প্রস্তাব → shall we। (নিয়ম ০৭)" },
+      { "q": "Everything depends on you, ______?", "ans": "doesn't it", "why": "Everything = বস্তু → it; auxiliary নেই → does। (নিয়ম ০৮, ০৪)" },
+      { "q": "Nobody was present there, ______?", "ans": "were they", "why": "Nobody = ব্যক্তি → they; না-বাচক → positive tag। (নিয়ম ০৮)" },
+      { "q": "This is your book, ______?", "ans": "isn't it", "why": "This → it। (নিয়ম ১১)" },
+      { "q": "He dare not do it, ______?", "ans": "dare he", "why": "dare এখানে modal → নিজেই বসবে। (নিয়ম ১২)" },
+      { "q": "Neither he nor his brothers were guilty, ______?", "ans": "were they", "why": "Neither…nor → দ্বিতীয় subject his brothers → they। (নিয়ম ১৫)" },
+      { "q": "Twenty percent of the work is done, ______?", "ans": "isn't it", "why": "‘of’-এর পরের noun the work → it। (নিয়ম ১৮)" },
+      { "q": "I hope you will help me, ______?", "ans": "won't you", "why": "I hope-এর পরের clause অনুযায়ী। (নিয়ম ১৮)" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "Contraction table <span class='sub'>— negative tag-এ যে রূপগুলোই লিখতে হবে</span>",
+      "key": "Contractions",
+      "table": {
+        "headers": ["Full Form", "Contracted (Tag)", "Full Form", "Contracted (Tag)"],
+        "rows": [
+          ["am not", "aren't (ব্যতিক্রম)", "shall not", "shan't"],
+          ["is not", "isn't", "will not", "won't"],
+          ["are not", "aren't", "can not", "can't"],
+          ["was not / were not", "wasn't / weren't", "could not", "couldn't"],
+          ["do / does not", "don't / doesn't", "must not", "mustn't"],
+          ["did not", "didn't", "ought not", "oughtn't"]
+        ]
+      },
+      "note": "পূর্ণ রূপ (is not) লিখলে নম্বর কাটা যায় — tag-এ সবসময় ==সংক্ষিপ্ত রূপ==।"
+    },
+    {
+      "title": "Subject → Tag pronoun <span class='sub'>— কোন subject-এর জায়গায় কোন pronoun</span>",
+      "key": "Pronoun Map",
+      "table": {
+        "headers": ["Subject", "Tag-এ বসবে", "উদাহরণ"],
+        "rows": [
+          ["Karim / the boy", "he", "Karim is here, isn't he?"],
+          ["This / That", "it", "That is my pen, isn't it?"],
+          ["These / Those", "they", "Those are your books, aren't they?"],
+          ["There / Here", "there / here", "There is no water, is there?"],
+          ["Everybody, someone, nobody, none", "they", "Everybody loves flowers, don't they?"],
+          ["Everything, something, nothing", "it", "Nothing is impossible, is it?"],
+          ["Allah / God", "He", "Allah is almighty, isn't He?"],
+          ["One", "one", "One should do one's duty, shouldn't one?"],
+          ["Collective noun (ঐক্যবদ্ধ)", "it", "The committee has taken its decision, hasn't it?"],
+          ["Collective noun (বিভক্ত)", "they", "The jury were divided, weren't they?"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "⚡", "t": "প্রথমেই auxiliary খোঁজো", "d": "auxiliary থাকলে সেটাই tag-এ যাবে; না থাকলে tense দেখে ==do / does / did== আনো।" },
+    { "em": "🚫", "t": "hardly/seldom/never = না-বোধক", "type": "warn", "d": "বাক্যে ‘not’ না থাকলেও এগুলো থাকলে tag হবে ==positive==। সবচেয়ে বেশি ভুল এখানেই।" },
+    { "em": "🙋", "t": "aren't I — amn't I নয়", "d": "‘I am right’-এর tag ==aren't I==। কিন্তু ‘I am not’ হলে ==am I==।" },
+    { "em": "🤝", "t": "Let's ≠ Let me", "type": "warn", "d": "==Let's/Let us== (প্রস্তাব) → shall we; কিন্তু ==Let me/Let him== (অনুমতি) → will you।" },
+    { "em": "🔢", "t": "দুই subject থাকলে কোনটি?", "d": "==as well as / along with== → প্রথম subject; ==either…or / neither…nor / not only…but also== → দ্বিতীয় subject।" },
+    { "em": "✍️", "t": "কমা ও প্রশ্নবোধক চিহ্ন", "d": "Statement-এর পরে ==কমা==, আর tag-এর শেষে ==প্রশ্নবোধক চিহ্ন== — দুটোই না দিলে নম্বর কাটে।" }
+  ],
+
+  "recap": [
+    "Positive → negative tag; negative → positive tag; tag-এ সবসময় pronoun।",
+    "Auxiliary না থাকলে do/does/did; negative tag-এ সবসময় contracted form।",
+    "hardly, seldom, never, few, little = লুকায়িত না-বাচক → positive tag।",
+    "I am → aren't I; Let's → shall we; Let him → will you; আদেশ/নিষেধ → will you।",
+    "ব্যক্তি → they, বস্তু → it; This/That → it; These/Those → they; There/Here অপরিবর্তিত।",
+    "as well as → প্রথম subject; either…or/neither…nor/not only…but also → দ্বিতীয় subject।"
+  ],
+
+  "homework": [
+    "Contraction table-টি না দেখে লিখে আনবে।",
+    "Practice Set 2 ও 4-এর সব বাক্য খাতায় লিখে tag বসাবে।",
+    "লুকায়িত না-বাচক শব্দ দিয়ে নিজে ৫টি বাক্য বানিয়ে tag বসাবে।",
+    "বোর্ড প্রশ্নের ১০টি নিজে সমাধান করে আনবে।"
+  ]
+}

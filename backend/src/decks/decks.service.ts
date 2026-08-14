@@ -455,6 +455,67 @@ export class DecksService implements OnModuleInit {
       }
     }
 
+    /* ---- 2nd Paper: rules, practice sets, board question ---- */
+
+    for (const k of ['rulesTitle'] as const) {
+      const v = text(dto[k]);
+      if (v === undefined) continue;
+      v ? (content[k] = v) : delete content[k];
+    }
+    if (dto.rulesPerSlide !== undefined) content.rulesPerSlide = dto.rulesPerSlide;
+
+    if (dto.rules) {
+      content.rules = dto.rules
+        .filter((r) => r.name?.trim())
+        .map((r, i) => ({
+          // renumber on save, so deleting rule 7 does not leave a gap
+          no: r.no?.trim() || String(i + 1).padStart(2, '0'),
+          ...(r.tag?.trim() ? { tag: r.tag.trim() } : {}),
+          name: r.name.trim(),
+          ...(r.bn?.trim() ? { bn: r.bn.trim() } : {}),
+          ...(r.formulaLabel?.trim() ? { formulaLabel: r.formulaLabel.trim() } : {}),
+          ...(r.formula?.trim() ? { formula: r.formula.trim() } : {}),
+          ...(r.ex?.trim() ? { ex: r.ex.trim() } : {}),
+          ...(r.note?.trim() ? { note: r.note.trim() } : {}),
+        }));
+      if (!content.rules.length) delete content.rules;
+    }
+
+    const answers = (items: { q?: string; ans: string; why?: string }[]) =>
+      items
+        .filter((x) => x.ans?.trim())
+        .map((x) => ({
+          ...(x.q?.trim() ? { q: x.q.trim() } : {}),
+          ans: x.ans.trim(),
+          ...(x.why?.trim() ? { why: x.why.trim() } : {}),
+        }));
+
+    if (dto.drills) {
+      content.drills = dto.drills
+        .filter((d) => d.title?.trim())
+        .map((d) => ({
+          title: d.title.trim(),
+          ...(d.intro?.trim() ? { intro: d.intro.trim() } : {}),
+          items: answers(d.items || []),
+        }))
+        .filter((d) => d.items.length);
+      if (!content.drills.length) delete content.drills;
+    }
+
+    if (dto.boardQ) {
+      const items = answers(dto.boardQ.items || []);
+      if (items.length) {
+        content.boardQ = {
+          ...(dto.boardQ.instruction?.trim() ? { instruction: dto.boardQ.instruction.trim() } : {}),
+          ...(dto.boardQ.text?.trim() ? { text: dto.boardQ.text.trim() } : {}),
+          ...(dto.boardQ.bank?.trim() ? { bank: dto.boardQ.bank.trim() } : {}),
+          items,
+        };
+      } else {
+        delete content.boardQ;
+      }
+    }
+
     deck.content = content;
     deck.markModified('content'); // Mixed: mongoose cannot see inside it
     deck.contentLocked = true; // survive the next re-seed
@@ -462,7 +523,8 @@ export class DecksService implements OnModuleInit {
 
     this.logger.log(
       `content: ${slug} — ${(content.shortQ || []).length} shortQ, ${(content.mcq || []).length} MCQ, ` +
-        `${(content.tables || []).length} tables`,
+        `${(content.tables || []).length} tables, ${(content.rules || []).length} rules, ` +
+        `${(content.drills || []).reduce((n: number, d: any) => n + d.items.length, 0)} drill items`,
     );
     return { slug, stats: stats(content), answers: answerCount(content) };
   }

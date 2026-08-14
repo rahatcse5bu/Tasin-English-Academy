@@ -1,0 +1,264 @@
+{
+  "id": "exclamatory-imperative",
+  "paper": "paper2",
+  "paperName": "English 2nd Paper",
+  "unit": "Part A",
+  "unitName": "Grammar — Transformation",
+  "title": "Transformation: Exclamatory ↔ Assertive & Assertive → Imperative",
+  "titleBn": "আবেগসূচক ↔ বিবৃতিমূলক ও আদেশসূচক বাক্য",
+  "lede": "একাডেমির হ্যান্ডনোট অনুযায়ী তিন পর্ব — Exclamatory→Assertive (৫ নিয়ম), Assertive→Exclamatory (৪ নিয়ম), Assertive→Imperative (৬ নিয়ম), প্রতিটি উদাহরণ ও বাংলা অর্থসহ।",
+  "qType": "Grammar — Transformation of Sentences",
+  "minutes": 45,
+  "marks": "5",
+  "rulesTitle": "Exclamatory / Imperative রূপান্তরের নিয়ম",
+  "rulesPerSlide": 2,
+
+  "objectives": [
+    { "t": "Turn any exclamatory sentence into assertive", "d": "very / great / It is a matter of… / I wish" },
+    { "t": "Reverse the same rules", "d": "Assertive → What a…! How…! Hurrah! Alas!" },
+    { "t": "Make imperatives from should / must sentences", "d": "You should → base verb; He should → Let him" },
+    { "t": "Place ‘not’ correctly with Let", "d": "Noun-এর আগে, pronoun-এর পরে" }
+  ],
+
+  "rules": [
+    {
+      "no": "01", "tag": "Exc→Ass", "name": "‘What’ বা ‘How’ যুক্ত বাক্য",
+      "bn": "Subject + Verb + a/an (যদি থাকে) + **very/great** + Adjective/Noun। মনে রাখো — **Adjective-এর পূর্বে very** আর **Noun-এর পূর্বে great** বসে।",
+      "formulaLabel": "RULE",
+      "formula": "Subject + Verb + a/an + very (adj) / great (noun) + …",
+      "ex": "What a beautiful bird it is! → It is a ==very== beautiful bird. · What a fool I am! → I am a ==great== fool."
+    },
+    {
+      "no": "02", "tag": "Exc→Ass", "name": "Interjection যুক্ত বাক্য (Hurrah, Alas, Bravo, Fie)",
+      "bn": "আনন্দ বোঝালে **It is a matter of joy that**, দুঃখ বোঝালে **It is a matter of sorrow that**, আর লজ্জা বোঝালে **It is a matter of shame that** বসে + বাকি অংশ।",
+      "formulaLabel": "RULE",
+      "formula": "Hurrah → joy · Alas → sorrow · Fie → shame",
+      "ex": "Hurrah! We have won the game. → ==It is a matter of joy that== we have won the game."
+    },
+    {
+      "no": "03", "tag": "Exc→Ass", "name": "‘If’, ‘Had’, ‘O that’, ‘Would that’ যুক্ত বাক্য",
+      "bn": "অপূর্ণ ইচ্ছা বোঝাতে বাক্যের শুরুতে **Subject + wish** বসে।",
+      "formulaLabel": "RULE",
+      "formula": "If / Had / O that / Would that … ! → I wish …",
+      "ex": "If I were a king! → ==I wish== I were a king. · Had I the wings of a dove! → ==I wish== I had the wings of a dove."
+    },
+    {
+      "no": "04", "tag": "Exc→Ass", "name": "Subject ও Verb বিহীন Exclamatory বাক্য",
+      "bn": "বাক্যে subject ও verb না থাকলে Assertive করার সময় শুরুতে **It is** ধরে নিতে হয়।",
+      "formulaLabel": "RULE",
+      "formula": "What a …! → It is a great …",
+      "ex": "What a pity! → ==It is a great pity==. · What an idea! → ==It is a great idea==."
+    },
+    {
+      "no": "05", "tag": "Exc→Ass", "name": "‘Oh, for’ যুক্ত বাক্য (তীব্র আকাঙ্ক্ষা)",
+      "bn": "‘Oh, for’-এর পরিবর্তে **Subject + strongly desire / wish for** বসে।",
+      "formulaLabel": "RULE",
+      "formula": "Oh, for + noun ! → Subject + strongly desire for + noun",
+      "ex": "Oh, for a glass of water! → I ==strongly desire for== a glass of water."
+    },
+    {
+      "no": "06", "tag": "Ass→Exc", "name": "‘Very’ বা ‘Great’ যুক্ত বাক্য",
+      "bn": "বাক্যে **a/an থাকলে What a/an** দিয়ে শুরু হয়, আর **a/an না থাকলে How** দিয়ে শুরু হয় + Adjective + Subject + Verb + **!**",
+      "formulaLabel": "RULE",
+      "formula": "a/an আছে → What a/an … ! · a/an নেই → How … !",
+      "ex": "The scenery is very charming. → ==How== charming the scenery is! · He is a very brilliant student. → ==What a== brilliant student he is!"
+    },
+    {
+      "no": "07", "tag": "Ass→Exc", "name": "‘I wish’ যুক্ত বাক্য",
+      "bn": "**I wish** উঠে গিয়ে বাক্যের শুরুতে **If / Had / O that / Would that** বসে এবং শেষে **!** বসে।",
+      "formulaLabel": "RULE",
+      "formula": "I wish + clause → If / Had / O that / Would that + clause !",
+      "ex": "I wish I had a car. → ==If== I had a car! · I wish I could fly in the sky. → ==Would that== I could fly in the sky!"
+    },
+    {
+      "no": "08", "tag": "Ass→Exc", "name": "Joy, Sorrow বা Shame বোঝালে",
+      "bn": "**‘It is a matter of…’** উঠে গিয়ে **Hurrah / Alas / Fie** বসে।",
+      "formulaLabel": "RULE",
+      "formula": "matter of joy → Hurrah! · sorrow → Alas! · shame → Fie!",
+      "ex": "It is a matter of joy that I got GPA-5. → ==Hurrah!== I got GPA-5. · It is a matter of sorrow that he is dead. → ==Alas!== he is dead."
+    },
+    {
+      "no": "09", "tag": "Ass→Exc", "name": "‘We rejoice that’ / ‘We regret that’",
+      "bn": "**Rejoice** (আনন্দ) থাকলে **Hurrah** এবং **Regret** (অনুতাপ/দুঃখ) থাকলে **Alas** বসে।",
+      "formulaLabel": "RULE",
+      "formula": "We rejoice that → Hurrah! · We regret that → Alas!",
+      "ex": "We rejoice that we are victorious. → ==Hurrah!== we are victorious. · We regret that she failed. → ==Alas!== she failed."
+    },
+    {
+      "no": "10", "tag": "Ass→Imp", "name": "Second Person — Affirmative (হ্যাঁ-বোধক)",
+      "bn": "বাক্যের Subject (**You**) এবং Auxiliary Verb (**should, must**) বাদ যায়। সরাসরি মূল Verb-এর **Base form** দিয়ে বাক্য শুরু হয়।",
+      "formulaLabel": "RULE",
+      "formula": "You should/must + V1 … → V1 …",
+      "ex": "You should do the work. → ==Do the work==. · You must speak the truth. → ==Speak the truth==."
+    },
+    {
+      "no": "11", "tag": "Ass→Imp", "name": "Second Person — Negative (না-বোধক)",
+      "bn": "**You should not**-এর পরিবর্তে **Do not (Don't)** এবং **You must never**-এর পরিবর্তে **Never** বসে + মূল Verb।",
+      "formulaLabel": "RULE",
+      "formula": "You should not → Do not / Don't · You must never → Never",
+      "ex": "You should not waste your time. → ==Do not== waste your time. · You must never tell a lie. → ==Never== tell a lie."
+    },
+    {
+      "no": "12", "tag": "Ass→Imp", "name": "‘Always’ যুক্ত বাক্য",
+      "bn": "বাক্যে **always** থাকলে Imperative করার সময় সরাসরি **Always** দিয়ে বাক্য শুরু হয়।",
+      "formulaLabel": "RULE",
+      "formula": "You should always + V1 → Always + V1",
+      "ex": "You should always speak the truth. → ==Always== speak the truth. · You must always remember this. → ==Always== remember this."
+    },
+    {
+      "no": "13", "tag": "Ass→Imp", "name": "First & Third Person (I, He, She, We, They)",
+      "bn": "বাক্যের শুরুতে **Let** বসে + Subject-এর **Objective form** (me, him, her, us, them) + **Base Verb**।",
+      "formulaLabel": "RULE",
+      "formula": "Let + me/him/her/us/them + V1",
+      "ex": "He plays football. → ==Let him play== football. · We should go out for a walk. → ==Let us go== out for a walk."
+    },
+    {
+      "no": "14", "tag": "Ass→Imp", "name": "Let-এর সঙ্গে ‘not’ কোথায় বসবে",
+      "bn": "Subject যদি **Noun** হয় (Rahim, Mina), তবে **‘not’ Noun-এর আগে** বসে। কিন্তু **Pronoun** (him, me, her) হলে **‘not’ Pronoun-এর পরে** বসে।",
+      "formulaLabel": "POSITION",
+      "formula": "Noun → Let not + Noun + V1  |  Pronoun → Let + pronoun + not + V1",
+      "ex": "Mina does not sing. → ==Let not Mina== sing. · She does not sing. → ==Let her not== sing."
+    },
+    {
+      "no": "15", "tag": "Ass→Imp", "name": "Request ও Nobody / None / No one",
+      "bn": "**‘You are requested to’** উঠে গিয়ে **Please** বা **Kindly** বসে। আর Subject **Nobody / None / No one** হলে **Let not** দিয়ে শুরু করতে হয় (অথবা Let + anyone/anybody + not)।",
+      "formulaLabel": "RULE",
+      "formula": "You are requested to → Please / Kindly · Nobody/None/No one → Let none / Let nobody",
+      "ex": "You are requested to help me. → ==Please== help me. · Nobody should break the rules. → ==Let nobody== break the rules. · None will go there. → ==Let none== go there."
+    }
+  ],
+
+  "drills": [
+    {
+      "title": "Practice Set 1 — Exclamatory → Assertive",
+      "intro": "প্রথমে দেখো adjective না noun — তারপর very না great।",
+      "items": [
+        { "q": "What a beautiful bird it is!", "ans": "It is a very beautiful bird.", "why": "Adjective beautiful → **very**। (নিয়ম ০১)" },
+        { "q": "How sweetly the girl sings!", "ans": "The girl sings very sweetly.", "why": "Adverb sweetly → very; a/an নেই তাই How। (নিয়ম ০১)" },
+        { "q": "What a fool I am!", "ans": "I am a great fool.", "why": "Noun fool → **great**, very নয়। (নিয়ম ০১)" },
+        { "q": "Hurrah! We have won the game.", "ans": "It is a matter of joy that we have won the game.", "why": "Hurrah = আনন্দ → matter of joy। (নিয়ম ০২)" },
+        { "q": "Alas! I am undone.", "ans": "It is a matter of sorrow that I am undone.", "why": "Alas = দুঃখ → matter of sorrow। (নিয়ম ০২)" },
+        { "q": "Fie! You are a liar.", "ans": "It is a matter of shame that you are a liar.", "why": "Fie = লজ্জা → matter of shame। (নিয়ম ০২)" },
+        { "q": "If I were a king!", "ans": "I wish I were a king.", "why": "অপূর্ণ ইচ্ছা → I wish। (নিয়ম ০৩)" },
+        { "q": "Had I the wings of a dove!", "ans": "I wish I had the wings of a dove.", "why": "Had দিয়ে শুরু → I wish। (নিয়ম ০৩)" },
+        { "q": "What a pity!", "ans": "It is a great pity.", "why": "Subject ও verb নেই → It is ধরে নিতে হবে। (নিয়ম ০৪)" },
+        { "q": "What an idea!", "ans": "It is a great idea.", "why": "Noun idea → great। (নিয়ম ০৪)" },
+        { "q": "Oh, for a glass of water!", "ans": "I strongly desire for a glass of water.", "why": "Oh, for → strongly desire for। (নিয়ম ০৫)" }
+      ]
+    },
+    {
+      "title": "Practice Set 2 — Assertive → Exclamatory",
+      "intro": "a/an আছে কি নেই — এটাই What আর How-এর পার্থক্য।",
+      "items": [
+        { "q": "The scenery is very charming.", "ans": "How charming the scenery is!", "why": "a/an নেই → How। (নিয়ম ০৬)" },
+        { "q": "He is a very brilliant student.", "ans": "What a brilliant student he is!", "why": "a আছে → What a। (নিয়ম ০৬)" },
+        { "q": "I wish I had a car.", "ans": "If I had a car!", "why": "I wish উঠে গিয়ে If। (নিয়ম ০৭)" },
+        { "q": "I wish I could fly in the sky.", "ans": "Would that I could fly in the sky!", "why": "I wish → Would that। (নিয়ম ০৭)" },
+        { "q": "It is a matter of joy that I got GPA-5.", "ans": "Hurrah! I got GPA-5.", "why": "matter of joy → Hurrah। (নিয়ম ০৮)" },
+        { "q": "It is a matter of sorrow that he is dead.", "ans": "Alas! he is dead.", "why": "matter of sorrow → Alas। (নিয়ম ০৮)" },
+        { "q": "We rejoice that we are victorious.", "ans": "Hurrah! we are victorious.", "why": "rejoice = আনন্দ → Hurrah। (নিয়ম ০৯)" },
+        { "q": "We regret that she failed.", "ans": "Alas! she failed.", "why": "regret = দুঃখ → Alas। (নিয়ম ০৯)" }
+      ]
+    },
+    {
+      "title": "Practice Set 3 — Assertive → Imperative",
+      "intro": "Subject কে — You হলে verb দিয়ে শুরু, অন্য কেউ হলে Let।",
+      "items": [
+        { "q": "You should do the work.", "ans": "Do the work.", "why": "You ও should বাদ, base verb দিয়ে শুরু। (নিয়ম ১০)" },
+        { "q": "You must speak the truth.", "ans": "Speak the truth.", "why": "You ও must বাদ। (নিয়ম ১০)" },
+        { "q": "You should not waste your time.", "ans": "Do not waste your time.", "why": "should not → Do not। (নিয়ম ১১)" },
+        { "q": "You must never tell a lie.", "ans": "Never tell a lie.", "why": "must never → Never। (নিয়ম ১১)" },
+        { "q": "You should always speak the truth.", "ans": "Always speak the truth.", "why": "always থাকলে Always দিয়েই শুরু। (নিয়ম ১২)" },
+        { "q": "You must always remember this.", "ans": "Always remember this.", "why": "always অপরিবর্তিত থাকে। (নিয়ম ১২)" },
+        { "q": "He plays football.", "ans": "Let him play football.", "why": "Third person → Let + him + base verb। (নিয়ম ১৩)" },
+        { "q": "We should go out for a walk.", "ans": "Let us go out for a walk.", "why": "First person plural → Let us। (নিয়ম ১৩)" },
+        { "q": "Mina does not sing.", "ans": "Let not Mina sing.", "why": "Subject noun → not তার **আগে**। (নিয়ম ১৪)" },
+        { "q": "She does not sing.", "ans": "Let her not sing.", "why": "Subject pronoun → not তার **পরে**। (নিয়ম ১৪)" },
+        { "q": "You are requested to help me.", "ans": "Please help me.", "why": "requested to → Please/Kindly। (নিয়ম ১৫)" },
+        { "q": "Nobody should break the rules.", "ans": "Let nobody break the rules.", "why": "Nobody → Let nobody। (নিয়ম ১৫)" },
+        { "q": "None will go there.", "ans": "Let none go there.", "why": "None → Let none। (নিয়ম ১৫)" }
+      ]
+    }
+  ],
+
+  "boardQ": {
+    "instruction": "Transform the following sentences as directed. — নির্দেশ অনুযায়ী বাক্যগুলো রূপান্তর করো। (5)",
+    "items": [
+      { "q": "What a beautiful bird it is! (Assertive)", "ans": "It is a very beautiful bird.", "why": "Adjective-এর আগে **very**। (নিয়ম ০১)" },
+      { "q": "What a fool I am! (Assertive)", "ans": "I am a great fool.", "why": "Noun-এর আগে **great** — এখানেই সবচেয়ে বেশি ভুল হয়। (নিয়ম ০১)" },
+      { "q": "Alas! I am undone. (Assertive)", "ans": "It is a matter of sorrow that I am undone.", "why": "Alas → sorrow। (নিয়ম ০২)" },
+      { "q": "He is a very brilliant student. (Exclamatory)", "ans": "What a brilliant student he is!", "why": "a আছে → What a …! (নিয়ম ০৬)" },
+      { "q": "The scenery is very charming. (Exclamatory)", "ans": "How charming the scenery is!", "why": "a/an নেই → How …! (নিয়ম ০৬)" },
+      { "q": "I wish I were a king. (Exclamatory)", "ans": "If I were a king!", "why": "I wish → If / Had / Would that। (নিয়ম ০৭)" },
+      { "q": "You should not waste your time. (Imperative)", "ans": "Do not waste your time.", "why": "should not → Do not। (নিয়ম ১১)" },
+      { "q": "We should go out for a walk. (Imperative)", "ans": "Let us go out for a walk.", "why": "We → Let us। (নিয়ম ১৩)" },
+      { "q": "Mina does not sing. (Imperative)", "ans": "Let not Mina sing.", "why": "Noun-এর **আগে** not। (নিয়ম ১৪)" },
+      { "q": "You are requested to help me. (Imperative)", "ans": "Please help me.", "why": "requested to → Please। (নিয়ম ১৫)" }
+    ]
+  },
+
+  "extras": [
+    {
+      "title": "Exclamatory ↔ Assertive at a glance <span class='sub'>— দুই দিকেই একই জোড়া</span>",
+      "key": "Two-way Map",
+      "table": {
+        "headers": ["Exclamatory", "Assertive", "বাংলা অর্থ"],
+        "rows": [
+          ["What a beautiful bird it is!", "It is a very beautiful bird.", "এটি খুব সুন্দর একটি পাখি।"],
+          ["How sweetly the girl sings!", "The girl sings very sweetly.", "মেয়েটি খুব মিষ্টি করে গায়।"],
+          ["What a fool I am!", "I am a great fool.", "আমি একটি মস্ত বোকা।"],
+          ["Hurrah! We have won the game.", "It is a matter of joy that we have won the game.", "আনন্দের বিষয় যে আমরা খেলায় জিতেছি।"],
+          ["Alas! I am undone.", "It is a matter of sorrow that I am undone.", "দুঃখের বিষয় যে আমার সর্বনাশ হয়েছে।"],
+          ["Fie! You are a liar.", "It is a matter of shame that you are a liar.", "লজ্জার বিষয় যে তুমি একজন মিথ্যুক।"],
+          ["If I were a king!", "I wish I were a king.", "আমার ইচ্ছা হয় আমি যদি রাজা হতাম।"],
+          ["Had I the wings of a dove!", "I wish I had the wings of a dove.", "আমার ইচ্ছা হয় আমার যদি ঘুঘুর ডানা থাকত।"],
+          ["What a pity!", "It is a great pity.", "এটি অত্যন্ত দুঃখের বিষয়।"],
+          ["Oh, for a glass of water!", "I strongly desire for a glass of water.", "আমার এক গ্লাস পানির জন্য তীব্র আকাঙ্ক্ষা হচ্ছে।"]
+        ]
+      }
+    },
+    {
+      "title": "Assertive → Imperative <span class='sub'>— বাংলা অর্থসহ</span>",
+      "key": "Imperative Map",
+      "table": {
+        "headers": ["Assertive", "Imperative", "বাংলা অর্থ"],
+        "rows": [
+          ["You should do the work.", "Do the work.", "কাজটি করো।"],
+          ["You must speak the truth.", "Speak the truth.", "সত্য কথা বলো।"],
+          ["You should not waste your time.", "Do not waste your time.", "তোমার সময় নষ্ট করো না।"],
+          ["You must never tell a lie.", "Never tell a lie.", "কখনো মিথ্যা বলো না।"],
+          ["You should always speak the truth.", "Always speak the truth.", "সর্বদা সত্য কথা বলো।"],
+          ["He plays football.", "Let him play football.", "তাকে ফুটবল খেলতে দাও।"],
+          ["We should go out for a walk.", "Let us go out for a walk.", "চলো আমরা হাঁটতে যাই।"],
+          ["You are requested to help me.", "Please help me.", "দয়া করে আমাকে সাহায্য করুন।"],
+          ["Nobody should break the rules.", "Let nobody break the rules.", "কেউ যেন নিয়ম না ভাঙে।"],
+          ["None will go there.", "Let none go there.", "কেউ যেন সেখানে না যায়।"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "⚖️", "t": "very না great?", "type": "warn", "d": "==Adjective/Adverb== এর আগে **very**, আর ==Noun== এর আগে **great**। ‘What a fool I am!’ → a ==great== fool, very নয়।" },
+    { "em": "🅰️", "t": "What a … না How …?", "d": "বাক্যে ==a/an থাকলে What a/an==, না থাকলে ==How==। এই একটাই প্রশ্ন করলেই উত্তর বেরিয়ে আসে।" },
+    { "em": "🚫", "t": "Let-এর সঙ্গে not-এর জায়গা", "type": "warn", "d": "Noun হলে ==Let not Mina sing==, pronoun হলে ==Let her not sing== — উল্টো লিখলে ভুল।" },
+    { "em": "😀", "t": "Interjection চিনে রাখো", "d": "==Hurrah== = joy, ==Alas== = sorrow, ==Fie== = shame, ==Bravo== = প্রশংসা।" },
+    { "em": "❗", "t": "বিস্ময়চিহ্ন বাদ দিয়ো না", "d": "Exclamatory করলে শেষে ==!== আর Assertive করলে ==.== — চিহ্ন ভুল হলে নম্বর কাটে।" }
+  ],
+
+  "recap": [
+    "Exclamatory→Assertive: What/How → Subject+Verb+very (adj) / great (noun)।",
+    "Interjection: Hurrah→joy, Alas→sorrow, Fie→shame + ‘It is a matter of … that’।",
+    "If/Had/O that/Would that → I wish; Subject-verb না থাকলে ‘It is’ ধরে নাও।",
+    "Assertive→Exclamatory: a/an আছে → What a…!, নেই → How…!; I wish → If/Would that।",
+    "Assertive→Imperative: You+should/must বাদ → base verb; না-বোধক → Do not/Never।",
+    "I/He/We/They → Let + objective form; noun হলে ‘Let not + noun’, pronoun হলে ‘Let + pronoun + not’।"
+  ],
+
+  "homework": [
+    "Exclamatory ↔ Assertive টেবিলের ১০টি জোড়া মুখস্থ না করে নিজে লিখে আনবে।",
+    "Practice Set 3-এর ১৩টি বাক্য খাতায় সমাধান করবে।",
+    "very ও great দিয়ে নিজে ৫টি করে বাক্য বানাবে।",
+    "বোর্ড প্রশ্নের ১০টি নিজে করে আনবে।"
+  ]
+}
