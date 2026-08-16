@@ -627,5 +627,181 @@
         }
       ]
     }
+  ],
+  "matching": {
+    "title": "Teenagers and parents",
+    "items": [
+      {
+        "a": "Friction between teenagers and parents",
+        "match": "is very common and one of the major problems of the modern age",
+        "full": "Friction between teenagers and parents is very common and one of the major problems of the modern age."
+      },
+      {
+        "a": "One obvious reason of friction",
+        "match": "is the difficult behaviour of the adolescents",
+        "full": "One obvious reason of friction is the difficult behaviour of the adolescents."
+      },
+      {
+        "a": "Moody and sulky behaviours",
+        "match": "are the kind of behaviours which are common features of teenagers",
+        "full": "Moody and sulky behaviours are the kind of behaviours which are common features of teenagers."
+      },
+      {
+        "a": "Consequently adolescents are",
+        "match": "self-centred and want to think for themselves",
+        "full": "Consequently adolescents are self-centred and want to think for themselves."
+      },
+      {
+        "a": "They rebel against the ways",
+        "match": "and thoughts of the older generation which they think are outdated",
+        "full": "They rebel against the ways and thoughts of the older generation which they think are outdated."
+      }
+    ],
+    "note": "Column A-এর অংশটুকু পড়ে ==ব্যাকরণগতভাবে== কোনটি বসে সেটাই আগে দেখো — তারপর অর্থ মেলাও।"
+  },
+  "ordering": {
+    "heading": "The Ancient Mariner",
+    "title": "As given — এলোমেলো বাক্যগুলো",
+    "items": [
+      {
+        "key": "a",
+        "text": "Suddenly, he stopped one of the guests."
+      },
+      {
+        "key": "b",
+        "text": "The marriage ceremony was over and the guests were all going to the feast."
+      },
+      {
+        "key": "c",
+        "text": "He spoke so strangely that the guest stood still and listened to the story."
+      },
+      {
+        "key": "d",
+        "text": "He saw people walking past him."
+      },
+      {
+        "key": "e",
+        "text": "The old man told him about his last journey."
+      },
+      {
+        "key": "f",
+        "text": "The old sailor sat on a stone outside the church."
+      },
+      {
+        "key": "g",
+        "text": "He had a strange mad look in his eyes."
+      },
+      {
+        "key": "h",
+        "text": "\"There was a ship,\" the old sailor began."
+      }
+    ],
+    "order": [
+      "f",
+      "g",
+      "d",
+      "b",
+      "a",
+      "c",
+      "h",
+      "e"
+    ],
+    "note": "গল্প সাজাতে ==কে কোথায় বসে ছিল== দিয়ে শুরু করো, তারপর কে কাকে থামাল, শেষে কী বলল।"
+  },
+  "literature": [
+    {
+      "no": "৮",
+      "title": "Poems",
+      "key": "Poems",
+      "items": [
+        {
+          "q": "Why does the poet use the phrase 'O Me! O Life!' repeatedly?",
+          "a": "He repeats it as a cry of despair. Looking at the endless trains of the faithless, the cities full of the foolish, and his own weakness among them, the poet is overwhelmed by the question of what use life can be. The repetition makes the reader feel the weight of that despair before the answer comes — that the powerful play goes on, and each of us may contribute a verse.",
+          "bn": "তিনি এটিকে হতাশার আর্তনাদ হিসেবে বারবার ব্যবহার করেন। বিশ্বাসহীন মানুষের অন্তহীন সারি, নির্বোধে ভরা শহর আর তাদের মাঝে নিজের দুর্বলতা দেখে কবি জীবনের সার্থকতা নিয়ে প্রশ্নে ভারাক্রান্ত হন। পুনরাবৃত্তি পাঠককে সেই হতাশার ভার অনুভব করায় — তারপর উত্তর আসে: শক্তিশালী নাটকটি চলতেই থাকে, আর আমরা প্রত্যেকে একটি করে পঙ্‌ক্তি যোগ করতে পারি।"
+        },
+        {
+          "q": "What does the poet say about the good things that reading a book can do to you?",
+          "a": "The poet says a book can take you anywhere without moving you an inch. It can carry you to distant lands and past centuries, introduce you to people you could never meet, and teach you things no one around you knows. It costs almost nothing, waits patiently until you are ready, and never runs out — so of all the treasures a person can own, a book gives the most for the least.",
+          "bn": "কবি বলেন, বই আপনাকে এক ইঞ্চিও না নড়িয়ে যেকোনো জায়গায় নিয়ে যেতে পারে। এটি দূরদেশ ও অতীত শতাব্দীতে নিয়ে যায়, এমন মানুষের সঙ্গে পরিচয় করায় যাদের সঙ্গে কখনও দেখা হতো না, আর এমন কিছু শেখায় যা আশপাশের কেউ জানে না। এর দাম প্রায় কিছুই নয়, ধৈর্য ধরে অপেক্ষা করে, আর কখনও ফুরায় না — তাই মানুষের সব সম্পদের মধ্যে বই-ই সবচেয়ে কম দামে সবচেয়ে বেশি দেয়।"
+        },
+        {
+          "q": "\"A mother's love for her children is divine\" — do you support it? Why or why not?",
+          "a": "Yes, I support it fully. A mother's love asks for nothing in return, which is what makes it closer to divine love than any other human feeling. She gives up sleep, comfort and her own wishes without keeping an account of them, and she goes on loving even when the child gives nothing back. In 'Two Mothers Remembered' the speaker recalls two women who shaped her, and what she remembers is exactly this — care given freely.",
+          "bn": "হ্যাঁ, আমি সম্পূর্ণ সমর্থন করি। মায়ের ভালোবাসা বিনিময়ে কিছুই চায় না, আর এ কারণেই তা অন্য যেকোনো মানবিক অনুভূতির চেয়ে ঐশ্বরিক ভালোবাসার কাছাকাছি। তিনি ঘুম, আরাম ও নিজের ইচ্ছা হিসাব না রেখে ত্যাগ করেন, আর সন্তান কিছু ফিরিয়ে না দিলেও ভালোবেসে যান। 'Two Mothers Remembered' কবিতায় বক্তা যে দুই নারীর কথা স্মরণ করেন, তাঁদের সম্পর্কে ঠিক এই কথাই মনে রাখেন — নিঃস্বার্থে দেওয়া যত্ন।"
+        },
+        {
+          "q": "What task was Mary given in the poem \"The Sands of Dee\"?",
+          "a": "Mary was told to go and call the cattle home across the sands of Dee. It was an ordinary errand given by her mother, and Mary went out alone as the western wind was blowing and the tide was rising. She never returned: the creeping tide came up over the sand and drowned her, and the task that sounded so simple became the cause of her death.",
+          "bn": "মেরিকে বলা হয়েছিল ডি নদীর বালুচর পেরিয়ে গিয়ে গরুগুলোকে ঘরে ডেকে আনতে। এটি ছিল মায়ের দেওয়া সাধারণ এক কাজ, আর পশ্চিমা বাতাস বইছে ও জোয়ার বাড়ছে এমন সময়ে মেরি একাই বেরিয়ে যায়। সে আর ফেরেনি: ধীরে ধীরে এগিয়ে আসা জোয়ার বালুচর ঢেকে ফেলে তাকে ডুবিয়ে দেয়, আর যে কাজটি এত সহজ শোনাচ্ছিল সেটিই তার মৃত্যুর কারণ হয়।"
+        },
+        {
+          "q": "What is the significance of time being compared to a gypsy man?",
+          "a": "The comparison shows that time cannot be owned or held. A gypsy accepts no home, no master and no bribe; he stays one night and is gone by morning. By making time a gypsy the poet turns an idea we cannot see into a figure we can picture, and explains in one image why the speaker's silver bell, golden ring and bed of flowers are all offered in vain.",
+          "bn": "এই তুলনা দেখায় সময়কে অধিকার করা বা ধরে রাখা যায় না। যাযাবর কোনো ঘর, প্রভু বা ঘুষ মানে না; সে এক রাত থাকে, সকালেই চলে যায়। সময়কে যাযাবর বানিয়ে কবি এমন একটি ধারণাকে, যা আমরা দেখতে পাই না, দৃশ্যমান এক চরিত্রে রূপ দেন — আর একটি চিত্রেই বুঝিয়ে দেন কেন বক্তার রুপার ঘণ্টা, সোনার আংটি ও ফুলের বিছানা সবই বৃথা।"
+        },
+        {
+          "q": "How does the horse react to the poet's stopping by the woods?",
+          "a": "The little horse thinks it queer to stop where there is no farmhouse near, between the woods and the frozen lake, on the darkest evening of the year. It gives its harness bells a shake, as if to ask whether there is some mistake. The horse stands for ordinary practical sense, and its impatience is what finally reminds the speaker of the promises and the miles ahead.",
+          "bn": "ছোট ঘোড়াটি বছরের সবচেয়ে অন্ধকার সন্ধ্যায় বন ও জমে যাওয়া হ্রদের মাঝখানে, যেখানে কাছেপিঠে কোনো খামারবাড়ি নেই, সেখানে থামাকে অদ্ভুত মনে করে। সে তার ঘণ্টা ঝাঁকিয়ে যেন জিজ্ঞেস করে কোনো ভুল হলো কি না। ঘোড়াটি সাধারণ বাস্তববুদ্ধির প্রতীক, আর তার অধৈর্যই শেষ পর্যন্ত বক্তাকে প্রতিশ্রুতি ও সামনের পথের কথা মনে করিয়ে দেয়।"
+        },
+        {
+          "q": "Is there a symbolic meaning of 'contribute a verse' in the last line of \"O Me! O Life!\"?",
+          "a": "Yes. The 'powerful play' is life itself, going on with or without any one of us, and a 'verse' is the small part each person adds to it. The line does not promise that our contribution will be large or remembered — only that we get to make one. That is the poet's answer to his own despair: life is worth living because you are permitted to add something of your own to it.",
+          "bn": "হ্যাঁ। 'শক্তিশালী নাটক' বলতে জীবনকেই বোঝানো হয়েছে, যা আমাদের যে কারও থাকা বা না-থাকা নির্বিশেষে চলতে থাকে; আর 'পঙ্‌ক্তি' হলো প্রত্যেক মানুষ তাতে যে ক্ষুদ্র অংশটুকু যোগ করে। পঙ্‌ক্তিটি প্রতিশ্রুতি দেয় না যে আমাদের অবদান বিশাল হবে বা মনে রাখা হবে — শুধু বলে যে অবদান রাখার সুযোগ আমরা পাই। এটিই কবির নিজের হতাশার উত্তর: জীবন বেঁচে থাকার যোগ্য, কারণ তাতে নিজের কিছু যোগ করার অনুমতি আপনি পেয়েছেন।"
+        },
+        {
+          "q": "Why do people want to share your pleasure but not your pain?",
+          "a": "Because pleasure costs the sharer nothing and pain costs a great deal. Laughter is easy to join and gives something back, while sorrow asks for time, patience and a share of the burden. The poet observes this without bitterness but without illusion either: the world is glad to be with us when we are glad, and leaves us to face grief alone.",
+          "bn": "কারণ আনন্দ ভাগ করে নিতে অংশীদারের কিছুই খরচ হয় না, কিন্তু দুঃখে হয় অনেক কিছু। হাসিতে যোগ দেওয়া সহজ এবং তা কিছু ফিরিয়েও দেয়, অথচ শোক দাবি করে সময়, ধৈর্য ও ভার বহনের অংশীদারিত্ব। কবি এটি বিদ্বেষ ছাড়াই লক্ষ করেন, কিন্তু কোনো মোহও রাখেন না: আমরা আনন্দে থাকলে পৃথিবী আমাদের সঙ্গে থাকতে খুশি, আর শোকের মুখোমুখি হতে আমাদের একা ছেড়ে দেয়।"
+        }
+      ]
+    },
+    {
+      "no": "৯",
+      "title": "Stories",
+      "key": "Stories",
+      "items": [
+        {
+          "q": "What challenges does Sonabhan face in the story \"Mr Moti\"?",
+          "a": "Sonabhan is a poor widow raising her son alone, and every challenge she faces comes from that poverty. She has almost no money and no steady income, so she takes the risk of raising a rooster to sell at the Eid market. Her son becomes attached to the bird, which makes the decision to sell it painful as well as difficult. She must choose between her child's feelings and the family's survival.",
+          "bn": "সোনাভান একজন দরিদ্র বিধবা, একাই ছেলেকে বড় করছেন, আর তাঁর প্রতিটি সংকটই এই দারিদ্র্য থেকে আসে। তাঁর প্রায় কোনো অর্থ নেই, নিয়মিত আয়ও নেই, তাই তিনি ঈদের বাজারে বিক্রির জন্য একটি মোরগ পালার ঝুঁকি নেন। তাঁর ছেলে পাখিটির প্রতি আসক্ত হয়ে পড়ে, ফলে বিক্রির সিদ্ধান্তটি কঠিন হওয়ার পাশাপাশি বেদনাদায়কও হয়ে ওঠে। সন্তানের অনুভূতি আর পরিবারের বেঁচে থাকা — এ দুইয়ের মধ্যে তাঁকে বেছে নিতে হয়।"
+        },
+        {
+          "q": "Why is the rooster called 'Mr Moti'?",
+          "a": "The boy gives the rooster that name out of affection, and the name itself tells us how he sees the bird. 'Moti' means pearl — something precious and beautiful — and the 'Mr' treats the rooster as a person rather than an animal. Naming it turns a piece of property into a member of the family, which is exactly why selling it later becomes so hard.",
+          "bn": "ছেলেটি স্নেহবশত মোরগটির এই নাম দেয়, আর নামটিই বলে দেয় সে পাখিটিকে কীভাবে দেখে। 'মতি' মানে মুক্তা — মূল্যবান ও সুন্দর কিছু — আর 'মিস্টার' যোগ করে সে মোরগটিকে প্রাণী নয়, একজন মানুষ হিসেবেই দেখে। নাম দেওয়ার মধ্য দিয়ে একটি সম্পদ পরিবারের সদস্যে পরিণত হয়, আর ঠিক এ কারণেই পরে তাকে বিক্রি করা এত কঠিন হয়ে পড়ে।"
+        },
+        {
+          "q": "Why do you think Rosamond wanted to buy all the things she saw?",
+          "a": "She wanted them because she was a child of about seven, walking through a town full of bright shop windows for the first time with money in prospect. Everything she saw was new and shining, and she had not yet learned to ask what a thing is for. Her wants came from her eyes rather than her needs — which is precisely the habit the story sets out to correct.",
+          "bn": "সে সেগুলো চেয়েছিল কারণ সে সাত বছরের এক শিশু, প্রথমবার হাতে টাকার সম্ভাবনা নিয়ে উজ্জ্বল দোকানের জানালায় ভরা শহরে হাঁটছে। যা কিছু সে দেখেছিল সবই নতুন ও ঝলমলে, আর কোনো জিনিস কী কাজে লাগে তা জিজ্ঞেস করতে সে তখনও শেখেনি। তার চাওয়া এসেছিল চোখ থেকে, প্রয়োজন থেকে নয় — আর গল্পটি ঠিক এই অভ্যাসটিকেই শোধরাতে চায়।"
+        },
+        {
+          "q": "What did Rosamond's mother advise her about choosing what to buy?",
+          "a": "Her mother advised her to think about usefulness rather than appearance. She pointed out plainly that Rosamond's shoes were worn out and that she could not walk or go out properly without new ones, while the jar was only something to look at. She also made the terms clear: whichever she chose, she would have to be content with it for a month. The advice was not a command but a warning she was free to ignore.",
+          "bn": "তাঁর মা তাকে চেহারার বদলে উপযোগিতার কথা ভাবতে বলেন। তিনি স্পষ্ট করে দেখিয়ে দেন যে রোজামন্ডের জুতো ছিঁড়ে গেছে এবং নতুন জুতো ছাড়া সে ঠিকমতো হাঁটতে বা বাইরে যেতে পারবে না, অথচ জারটি কেবল দেখার জিনিস। শর্তটিও তিনি পরিষ্কার করে দেন: যেটিই বেছে নিক, এক মাস তাতেই সন্তুষ্ট থাকতে হবে। উপদেশটি আদেশ ছিল না, ছিল এমন এক সতর্কবাণী যা উপেক্ষা করার স্বাধীনতা তার ছিল।"
+        },
+        {
+          "q": "Why did Rosamond become disappointed?",
+          "a": "She became disappointed as soon as the purple jar was hers. Emptied of its liquid, the jar was colourless, plain and unpleasant-smelling, so the beauty she had bought had disappeared. Worse, she had to spend the whole month in her broken shoes, unable to walk comfortably or go out with her father. Her disappointment was double: the thing she chose turned out worthless, and the thing she refused turned out necessary.",
+          "bn": "বেগুনি জারটি হাতে আসতেই সে হতাশ হয়ে পড়ে। তরল ঢেলে ফেলার পর জারটি বর্ণহীন, সাদামাটা ও দুর্গন্ধযুক্ত হয়ে যায়, অর্থাৎ যে সৌন্দর্য সে কিনেছিল তা উবে যায়। তার চেয়েও খারাপ, গোটা মাসটা তাকে ছেঁড়া জুতোতেই কাটাতে হয়, স্বচ্ছন্দে হাঁটতে বা বাবার সঙ্গে বাইরে যেতে না পেরে। তার হতাশা ছিল দ্বিগুণ: যা বেছে নিয়েছিল তা মূল্যহীন প্রমাণিত হলো, আর যা প্রত্যাখ্যান করেছিল তা অপরিহার্য।"
+        },
+        {
+          "q": "What was the relationship between Antonio and Shylock?",
+          "a": "They were enemies, and the enmity ran both ways. Antonio, a Christian merchant, lent money without interest and had publicly insulted Shylock, a Jewish moneylender, spitting on his gown and calling him harsh names. Shylock in turn hated Antonio for the insults and for spoiling his business. When Antonio came to borrow, Shylock saw his chance and set the terms that led to the trial.",
+          "bn": "তাঁরা ছিলেন শত্রু, আর শত্রুতা ছিল উভয় দিক থেকেই। খ্রিস্টান বণিক অ্যান্টোনিও সুদ ছাড়া টাকা ধার দিতেন এবং ইহুদি সুদখোর শাইলককে প্রকাশ্যে অপমান করতেন — তাঁর পোশাকে থুতু ফেলতেন, কঠোর ভাষায় গালি দিতেন। শাইলকও এই অপমান ও ব্যবসার ক্ষতির জন্য অ্যান্টোনিওকে ঘৃণা করতেন। অ্যান্টোনিও ধার নিতে এলে শাইলক সুযোগ দেখতে পান এবং এমন শর্ত দেন যা শেষ পর্যন্ত বিচারসভায় গিয়ে ঠেকে।"
+        },
+        {
+          "q": "What are the three caskets and what do they symbolize?",
+          "a": "Portia's father left three caskets — one of gold, one of silver and one of lead — and whoever chose correctly would marry her. They symbolize three ways of judging. Gold stands for what most men desire, silver for what a man thinks he deserves, and lead for what is plain and asks the chooser to give and hazard all he has. Only Bassanio ignores the surface and chooses lead, so the test rewards judgement rather than greed or vanity.",
+          "bn": "পোর্শিয়ার বাবা রেখে গিয়েছিলেন তিনটি বাক্স — একটি সোনার, একটি রুপার, একটি সিসার — আর যে সঠিকটি বেছে নেবে সে-ই তাঁকে বিয়ে করবে। এগুলো তিন ধরনের বিচারবোধের প্রতীক। সোনা বোঝায় যা বেশির ভাগ মানুষ কামনা করে, রুপা বোঝায় মানুষ নিজেকে যার যোগ্য মনে করে, আর সিসা বোঝায় সাদামাটা সেই জিনিস যা নির্বাচকের কাছে সর্বস্ব দেওয়া ও বাজি রাখার দাবি করে। কেবল ব্যাসানিও বাইরের চেহারা উপেক্ষা করে সিসা বেছে নেন — তাই পরীক্ষাটি লোভ বা অহংকার নয়, বিচারবুদ্ধিকেই পুরস্কৃত করে।"
+        },
+        {
+          "q": "How did Portia save Antonio's life?",
+          "a": "Portia came to the court disguised as a young lawyer and beat Shylock with his own bond. She first begged him to show mercy, and when he refused she granted that the bond allowed him a pound of Antonio's flesh — but not one drop of blood, since blood was not written in it, and not a grain more or less than exactly a pound. Since no one can cut flesh without shedding blood, the bond became impossible to carry out, and Antonio was saved.",
+          "bn": "পোর্শিয়া তরুণ আইনজীবীর ছদ্মবেশে আদালতে আসেন এবং শাইলকের নিজের দলিল দিয়েই তাঁকে পরাস্ত করেন। প্রথমে তিনি দয়া দেখাতে অনুরোধ করেন; শাইলক অস্বীকার করলে তিনি মেনে নেন যে দলিল অনুযায়ী তিনি অ্যান্টোনিওর এক পাউন্ড মাংস পেতে পারেন — কিন্তু এক ফোঁটা রক্তও নয়, কারণ দলিলে রক্তের কথা লেখা নেই; আর ঠিক এক পাউন্ডের চেয়ে এক কণা বেশি বা কমও নয়। রক্তপাত না ঘটিয়ে যেহেতু মাংস কাটা অসম্ভব, দলিলটি কার্যকর করা অসম্ভব হয়ে পড়ে এবং অ্যান্টোনিও রক্ষা পান।"
+        }
+      ]
+    }
   ]
 }

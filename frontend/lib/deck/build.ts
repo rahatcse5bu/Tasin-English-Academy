@@ -603,6 +603,42 @@ function sOrdering(D: any): any[] {
   }];
 }
 
+/**
+ * Literature questions (SSC Q.8 poems, Q.9 stories — 2×5=10 each).
+ *
+ * These are not set on the reading passage at all; they come from the poems and
+ * stories in English For Today, and the paper prints eight of which a student
+ * answers any five. Kept as its own builder so the count in the header stays
+ * honest — a class needs to see it is choosing five from eight.
+ */
+function sLiterature(D: any): any[] {
+  var sets = (D.literature || []).filter(function (x: any) { return x && x.items && x.items.length; });
+  if (!sets.length) return [];
+
+  var out: any[] = [];
+  sets.forEach(function (set: any) {
+    var n = 0;
+    chunk(set.items, 2).forEach(function (grp: any[], gi: number, all: any[]) {
+      var html = grp.map(function (q: any) {
+        n++;
+        return '<div class="qa collapsed" data-qa><div class="q"><span class="n">' + LETTER[n - 1] +
+          "</span><span>" + fmt(q.q) + '</span><span class="marks">2</span></div>' +
+          '<div class="a">' + fmt(q.a) + "</div>" +
+          (q.bn ? '<div class="a-bn bn">' + fmt(q.bn) + "</div>" : "") + "</div>";
+      }).join("");
+      out.push({
+        kind: "literature",
+        title: esc(set.no || "৮") + " : " + esc(set.title || "Literature") +
+          " <span class='sub'>— (" + (gi + 1) + "/" + all.length + ") · any 5 of " +
+          set.items.length + " · 2×5 = 10</span>",
+        key: (set.key || "Lit") + " " + (gi + 1),
+        html: html, reveal: true
+      });
+    });
+  });
+  return out;
+}
+
 function build(D: Deck): Slide[] {
   var s: Slide[] = [];
   /* the chapter's own vocabulary, so a word in the passage can be tapped */
@@ -624,6 +660,7 @@ function build(D: Deck): Slide[] {
   s = s.concat(sFlow(D));
   s = s.concat(sMatching(D));
   s = s.concat(sOrdering(D));
+  s = s.concat(sLiterature(D));
   s = s.concat(sExtras(D));
   s = s.concat(sTips(D));
   s = s.concat(sRecap(D));

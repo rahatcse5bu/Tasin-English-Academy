@@ -663,5 +663,181 @@
         }
       ]
     }
+  ],
+  "matching": {
+    "title": "Students and mobile phones",
+    "items": [
+      {
+        "a": "Nowadays, students are getting busy",
+        "match": "passing their time on mobile phone",
+        "full": "Nowadays, students are getting busy passing their time on mobile phone, which is not expected by the parents."
+      },
+      {
+        "a": "As a result, they cannot",
+        "match": "cut a good figure in the exam",
+        "full": "As a result, they cannot cut a good figure in the exam in near future."
+      },
+      {
+        "a": "Their parents who struggle",
+        "match": "for the better future of their children are worried about the matter",
+        "full": "Their parents who struggle for the better future of their children are worried about the matter."
+      },
+      {
+        "a": "The students are now seen",
+        "match": "unaware and fall in problems",
+        "full": "The students are now seen unaware and fall in problems, indifferent to their studies."
+      },
+      {
+        "a": "Thus, they waste their valuable time",
+        "match": "with trifling matters and are seen doing nothing special",
+        "full": "Thus, they waste their valuable time with trifling matters and are seen doing nothing special."
+      }
+    ],
+    "note": "Column A-এর অংশটুকু পড়ে ==ব্যাকরণগতভাবে== কোনটি বসে সেটাই আগে দেখো — তারপর অর্থ মেলাও।"
+  },
+  "ordering": {
+    "heading": "Shamim, a self-sufficient man",
+    "title": "As given — এলোমেলো বাক্যগুলো",
+    "items": [
+      {
+        "key": "a",
+        "text": "Shamim got a lease of land in his village."
+      },
+      {
+        "key": "b",
+        "text": "Shamim's lot has changed radically."
+      },
+      {
+        "key": "c",
+        "text": "Poverty forced him to look for work."
+      },
+      {
+        "key": "d",
+        "text": "He has also been raising hybrid cows for milk as well as to produce manure."
+      },
+      {
+        "key": "e",
+        "text": "Shamim was an unemployed youth of an impoverished family."
+      },
+      {
+        "key": "f",
+        "text": "Then he joined the training programme of youth development and received training in vegetable cultivation."
+      },
+      {
+        "key": "g",
+        "text": "He is now very happy to be a self-sufficient man."
+      },
+      {
+        "key": "h",
+        "text": "He applied his new and improved knowledge for cultivating vegetables."
+      }
+    ],
+    "order": [
+      "e",
+      "c",
+      "f",
+      "a",
+      "h",
+      "d",
+      "b",
+      "g"
+    ],
+    "note": "সফলতার গল্প সাজাতে ==সমস্যা → প্রশিক্ষণ → প্রয়োগ → ফল== এই ক্রম মনে রাখো।"
+  },
+  "literature": [
+    {
+      "no": "৮",
+      "title": "Poems",
+      "key": "Poems",
+      "items": [
+        {
+          "q": "How was the weather when Mary went to bring the cattle home?",
+          "a": "The weather was rough and threatening. The western wind was blowing loud and wild across the sands of Dee, and the tide was already creeping in over the flat sand. A blinding mist came down and hid the land from sight, so that Mary could not tell water from shore. The poem makes the weather itself the danger, and Mary walks into it obeying an ordinary instruction.",
+          "bn": "আবহাওয়া ছিল রুক্ষ ও ভীতিকর। ডি নদীর বালুচরের ওপর দিয়ে পশ্চিমা বাতাস প্রবল ও উন্মত্তভাবে বইছিল, আর জোয়ার ইতিমধ্যেই সমতল বালুর ওপর দিয়ে ঢুকে পড়ছিল। এমন ঘন কুয়াশা নেমে আসে যে স্থলভাগ দৃষ্টির আড়ালে চলে যায় এবং মেরি জল ও তীরের পার্থক্য বুঝতে পারে না। কবিতাটি আবহাওয়াকেই বিপদ করে তোলে, আর একটি সাধারণ নির্দেশ পালন করতে গিয়ে মেরি তার মধ্যেই হেঁটে যায়।"
+        },
+        {
+          "q": "How are the two mothers different from each other?",
+          "a": "In 'Two Mothers Remembered' one is the speaker's birth mother and the other the mother who brought her up. They differed in almost everything — one taught her about God, the other about the practical world; one was gentle where the other was firm; their manners, their habits and their gifts to her were unlike. Yet the poem ends by saying that both were her mothers, and that she is made of the two together.",
+          "bn": "'Two Mothers Remembered' কবিতায় একজন বক্তার জন্মদাত্রী মা, অন্যজন যিনি তাঁকে লালন-পালন করেছেন। প্রায় সবকিছুতেই তাঁরা আলাদা ছিলেন — একজন তাঁকে ঈশ্বর সম্পর্কে শিখিয়েছেন, অন্যজন বাস্তব জগৎ সম্পর্কে; একজন ছিলেন কোমল, যেখানে অন্যজন দৃঢ়; তাঁদের আচরণ, অভ্যাস ও দেওয়া উপহার — সবই ছিল ভিন্ন। তবু কবিতাটি শেষ হয় এই বলে যে দুজনেই তাঁর মা, আর তিনি এই দুজনকে নিয়েই গড়া।"
+        },
+        {
+          "q": "Why does the poet call each book a magic box?",
+          "a": "Because a book gives out far more than it could possibly hold. It is small enough to carry in one hand, yet inside it are countries, centuries, crowds of people and ideas that were nowhere in the room until it was opened. Like a magician's box it produces the impossible on demand, and it will do it again for every reader who opens it.",
+          "bn": "কারণ বই তার ভেতরে যা ধরা সম্ভব তার চেয়ে অনেক বেশি বের করে দেয়। এটি এত ছোট যে এক হাতেই বহন করা যায়, অথচ এর ভেতরে আছে দেশ, শতাব্দী, মানুষের ভিড় ও নানা ভাবনা — যার কিছুই বইটি খোলার আগে ঘরে ছিল না। জাদুকরের বাক্সের মতোই এটি চাইলেই অসম্ভবকে হাজির করে, আর যে পাঠকই খুলবেন তাঁর জন্যই আবার তা করবে।"
+        },
+        {
+          "q": "Who are the three women referred to in the poem \"Two Mothers Remembered\"?",
+          "a": "The three women are the speaker herself and the two mothers she is remembering — the mother who gave her birth and the mother who raised her. The poem is built on that triangle: two very different women, each giving what the other could not, and one daughter who carries both of them in her. She closes by saying she is the woman she is because of the two of them.",
+          "bn": "তিন নারী হলেন বক্তা নিজে এবং যে দুই মাকে তিনি স্মরণ করছেন — যিনি তাঁকে জন্ম দিয়েছেন এবং যিনি তাঁকে বড় করেছেন। কবিতাটি এই ত্রিভুজের ওপরই দাঁড়ানো: সম্পূর্ণ ভিন্ন দুই নারী, যাঁদের প্রত্যেকে এমন কিছু দিয়েছেন যা অন্যজন দিতে পারতেন না, আর এক কন্যা যিনি দুজনকেই নিজের মধ্যে বহন করেন। তিনি শেষ করেন এই বলে যে এই দুজনের কারণেই তিনি আজ যে নারী, সেই নারী হয়েছেন।"
+        },
+        {
+          "q": "Who told Mary to call the cattle home?",
+          "a": "Her mother did. In the first line of the poem the mother calls Mary and tells her to go and call the cattle home across the sands of Dee. It is a small domestic errand of the sort a child is given every day, and the whole force of the poem comes from that ordinariness — the mother could not have known that she was sending her daughter to her death.",
+          "bn": "তাঁর মা বলেছিলেন। কবিতার প্রথম পঙ্‌ক্তিতে মা মেরিকে ডেকে বলেন ডি নদীর বালুচর পেরিয়ে গিয়ে গরুগুলোকে ঘরে ডেকে আনতে। এটি এমনই এক ছোট ঘরোয়া কাজ, যা শিশুকে প্রতিদিনই দেওয়া হয়; আর কবিতার পুরো শক্তি আসে এই সাধারণত্ব থেকেই — মা জানতেন না যে তিনি মেয়েকে মৃত্যুর দিকে পাঠাচ্ছেন।"
+        },
+        {
+          "q": "What is the similarity between time and a gypsy man?",
+          "a": "Neither can be made to stay. A gypsy owns no house, obeys no master and cannot be bought; he camps for a night and is gone before morning. Time is the same — it passes through Babylon, Thebes and Rome without pausing, and no silver bell, golden ring or bed of flowers can persuade it to remain. Both are travellers who take everything with them and leave nothing behind.",
+          "bn": "দুজনের কাউকেই থামিয়ে রাখা যায় না। যাযাবরের কোনো ঘর নেই, কোনো প্রভু মানে না, আর তাকে কেনা যায় না; সে এক রাতের জন্য তাঁবু ফেলে সকাল হওয়ার আগেই চলে যায়। সময়ও তাই — ব্যাবিলন, থিবস ও রোমের ভেতর দিয়ে না থেমে চলে যায়, আর রুপার ঘণ্টা, সোনার আংটি বা ফুলের বিছানা কোনোটিই তাকে থাকতে রাজি করাতে পারে না। দুজনেই এমন পরিব্রাজক যারা সব নিয়ে যায়, কিছুই রেখে যায় না।"
+        },
+        {
+          "q": "What does the dark and deep forest refer to?",
+          "a": "It refers to the pull of rest and escape — everything that invites a tired person to stop. The woods are lovely, dark and deep, and for a moment the speaker would like to stay in them; beside a frozen lake, in falling snow, they suggest silence and even death. He turns away from them because he has promises to keep, so the forest stands for the beautiful temptation that duty must overcome.",
+          "bn": "এটি বিশ্রাম ও পলায়নের আকর্ষণকে বোঝায় — যা কিছু ক্লান্ত মানুষকে থেমে যেতে ডাকে। বনটি সুন্দর, অন্ধকার ও গভীর, আর কিছুক্ষণের জন্য বক্তা সেখানে থেকে যেতে চান; জমে যাওয়া হ্রদের পাশে, তুষারপাতের মধ্যে, তা নীরবতা এমনকি মৃত্যুরও ইঙ্গিত দেয়। প্রতিশ্রুতি রক্ষার কথা মনে করে তিনি ফিরে আসেন, তাই বনটি সেই সুন্দর প্রলোভনের প্রতীক যাকে কর্তব্য দিয়ে জয় করতে হয়।"
+        },
+        {
+          "q": "What would be the speaker's advice to her children in \"Two Mothers Remembered\"?",
+          "a": "Her advice would be to value both kinds of love and not to rank them. She learned different things from each of her two mothers, and she does not say one was better; she says she is the sum of both. So she would tell her children that a mother is made by care and not only by birth, and that they should be grateful for every person who helped to shape them.",
+          "bn": "তাঁর উপদেশ হবে — দুই ধরনের ভালোবাসাকেই মূল্য দাও, তাদের মধ্যে কে বড় সে বিচার কোরো না। দুই মায়ের কাছ থেকে তিনি ভিন্ন ভিন্ন জিনিস শিখেছেন, আর কে বেশি ভালো ছিলেন তা তিনি বলেন না; বলেন তিনি দুজনেরই যোগফল। তাই তিনি সন্তানদের বলতেন যে মা তৈরি হয় যত্নে, কেবল জন্ম দিয়ে নয় — আর যাঁরা তাদের গড়ে তুলতে সাহায্য করেছেন প্রত্যেকের প্রতি কৃতজ্ঞ থাকা উচিত।"
+        }
+      ]
+    },
+    {
+      "no": "৯",
+      "title": "Stories",
+      "key": "Stories",
+      "items": [
+        {
+          "q": "What is a milliner's shop?",
+          "a": "A milliner's shop makes and sells hats, bonnets and similar trimmings, mostly for women. Rosamond passes such shops while walking through the town with her mother, and their bright windows are part of what makes her want everything she sees. The jar she finally chooses, however, is in the window of a chemist's shop, not a milliner's.",
+          "bn": "মিলিনার্স শপ হলো এমন দোকান যেখানে প্রধানত নারীদের জন্য টুপি, বনেট ও সাজসজ্জার জিনিস তৈরি ও বিক্রি হয়। মায়ের সঙ্গে শহরে হাঁটার সময় রোজামন্ড এমন দোকানের পাশ দিয়ে যায়, আর সেগুলোর উজ্জ্বল জানালাই তাকে যা দেখে তা-ই চাইতে প্ররোচিত করে। তবে সে শেষ পর্যন্ত যে জারটি বেছে নেয়, সেটি ছিল মিলিনার্স নয়, ওষুধের দোকানের জানালায়।"
+        },
+        {
+          "q": "Why was Rosamond disheartened?",
+          "a": "She was disheartened because the purple jar lost all its beauty as soon as it was hers. When the liquid was poured out the glass proved plain and colourless and the liquid smelt unpleasant, so there was nothing left of what she had admired. On top of that she had to wear her worn-out shoes for a whole month and could not go out with her father.",
+          "bn": "সে হতাশ হয়েছিল কারণ বেগুনি জারটি তার হাতে আসতেই সব সৌন্দর্য হারায়। তরল ঢেলে ফেলার পর কাচটি সাদামাটা ও বর্ণহীন প্রমাণিত হয় এবং তরলের গন্ধ ছিল অপ্রীতিকর, ফলে যা সে ভালোবেসেছিল তার কিছুই আর রইল না। তার ওপর গোটা এক মাস তাকে ছেঁড়া জুতো পরে থাকতে হয় এবং বাবার সঙ্গে বাইরে যেতে পারে না।"
+        },
+        {
+          "q": "What offer did Rosamond's mother give to her?",
+          "a": "Her mother offered her a straight choice: either a new pair of shoes, which she genuinely needed, or the purple jar she had fallen in love with — but not both. She explained the value of each honestly and warned Rosamond that she would have to be satisfied with her choice for a month. Then she left the decision entirely to the child.",
+          "bn": "তাঁর মা তাকে সরাসরি একটি বিকল্প দেন: হয় এক জোড়া নতুন জুতো, যা তার সত্যিই দরকার ছিল, নয়তো যে বেগুনি জারটির প্রেমে সে পড়েছে সেটি — কিন্তু দুটো নয়। তিনি সততার সঙ্গে প্রতিটির মূল্য বুঝিয়ে দেন এবং সতর্ক করেন যে এক মাস নিজের পছন্দ নিয়েই সন্তুষ্ট থাকতে হবে। তারপর সিদ্ধান্তটি সম্পূর্ণ শিশুটির ওপরই ছেড়ে দেন।"
+        },
+        {
+          "q": "Why is the rooster called 'Mr Moti'?",
+          "a": "The boy names it so out of love. 'Moti' means pearl, something precious and beautiful, and adding 'Mr' treats the bird as a person rather than livestock. The name shows that the rooster has stopped being property and become family, which is exactly what makes the eventual decision to sell him so painful for the boy and his mother.",
+          "bn": "ছেলেটি ভালোবেসে এই নাম দেয়। 'মতি' মানে মুক্তা — মূল্যবান ও সুন্দর কিছু — আর 'মিস্টার' যোগ করে সে পাখিটিকে গবাদিপশু নয়, একজন মানুষ হিসেবেই দেখে। নামটি দেখায় মোরগটি আর সম্পত্তি নেই, পরিবারের সদস্য হয়ে উঠেছে; আর ঠিক এ কারণেই তাকে বিক্রির সিদ্ধান্তটি ছেলেটি ও তার মায়ের জন্য এত বেদনাদায়ক হয়ে ওঠে।"
+        },
+        {
+          "q": "How does the story \"Mr Moti\" end and what is its significance?",
+          "a": "It ends with the family having to part with the rooster they had come to love, because their need for money leaves them no choice. The significance is that poverty does not only take away comfort; it takes away the right to keep what you love. The story asks the reader to see the cost of hardship in feeling rather than in figures.",
+          "bn": "গল্পটি শেষ হয় এভাবে যে পরিবারটিকে সেই মোরগটির সঙ্গে বিচ্ছেদ করতে হয় যাকে তারা ভালোবেসে ফেলেছিল, কারণ অর্থের প্রয়োজন তাদের কোনো বিকল্প রাখে না। এর তাৎপর্য হলো — দারিদ্র্য কেবল স্বাচ্ছন্দ্য কাড়ে না, যা ভালোবাসো তা রেখে দেওয়ার অধিকারও কেড়ে নেয়। গল্পটি পাঠককে কষ্টের মূল্য সংখ্যায় নয়, অনুভবে দেখতে বলে।"
+        },
+        {
+          "q": "Who is Portia?",
+          "a": "Portia is the rich and clever heiress of Belmont, bound by her dead father's will to marry whichever suitor chooses the right casket. Bassanio chooses correctly and wins her. She is far more than a bride, however: disguised as a young lawyer she goes to the Venetian court and saves Antonio's life by out-arguing Shylock, showing herself the sharpest mind in the play.",
+          "bn": "পোর্শিয়া বেলমন্টের ধনী ও বুদ্ধিমতী উত্তরাধিকারিণী, যিনি প্রয়াত বাবার উইলে বাঁধা — যে পাত্র সঠিক বাক্সটি বেছে নেবে তাকেই তাঁকে বিয়ে করতে হবে। ব্যাসানিও সঠিক বাক্সটি বেছে নিয়ে তাঁকে লাভ করেন। তবে তিনি কেবল কনে নন: তরুণ আইনজীবীর ছদ্মবেশে ভেনিসের আদালতে গিয়ে শাইলককে যুক্তিতে হারিয়ে অ্যান্টোনিওর প্রাণ বাঁচান — নাটকের তীক্ষ্ণতম বুদ্ধি তাঁরই।"
+        },
+        {
+          "q": "Why could Antonio not give three thousand ducats to Bassanio?",
+          "a": "Because his money was not in his hands. Antonio was a wealthy merchant, but his whole fortune was at sea in trading ships that had not yet returned, so he had no ready cash. Wanting to help his friend anyway, he agreed to borrow the three thousand ducats from Shylock on his own credit — and it was that loan which put his life in danger.",
+          "bn": "কারণ তাঁর টাকা হাতে ছিল না। অ্যান্টোনিও ছিলেন ধনী বণিক, কিন্তু তাঁর সমস্ত সম্পদ ছিল সমুদ্রে — এমন বাণিজ্যতরীতে যা তখনও ফেরেনি, ফলে নগদ অর্থ তাঁর ছিল না। তবু বন্ধুকে সাহায্য করতে চেয়ে তিনি নিজের জামিনে শাইলকের কাছ থেকে তিন হাজার ডুকাট ধার নিতে রাজি হন — আর সেই ঋণই তাঁর জীবন বিপন্ন করে তোলে।"
+        },
+        {
+          "q": "How did Portia save Antonio's life?",
+          "a": "Disguised as a young lawyer, Portia first appealed to Shylock for mercy, and when he refused she used the bond against him. She granted that he might take a pound of Antonio's flesh, but pointed out that the bond gave him no drop of blood and no more or less than exactly one pound. Since flesh cannot be cut without blood, the bond could not be executed, and Antonio walked free.",
+          "bn": "তরুণ আইনজীবীর ছদ্মবেশে পোর্শিয়া প্রথমে শাইলকের কাছে দয়া প্রার্থনা করেন; তিনি অস্বীকার করলে পোর্শিয়া দলিলটিকেই তাঁর বিরুদ্ধে ব্যবহার করেন। তিনি মেনে নেন যে শাইলক অ্যান্টোনিওর এক পাউন্ড মাংস নিতে পারেন, কিন্তু দেখিয়ে দেন দলিল তাঁকে এক ফোঁটা রক্তও দেয়নি এবং ঠিক এক পাউন্ডের চেয়ে বেশি বা কম কিছুই নয়। রক্ত ছাড়া যেহেতু মাংস কাটা যায় না, দলিলটি কার্যকর করা গেল না এবং অ্যান্টোনিও মুক্তি পেলেন।"
+        }
+      ]
+    }
   ]
 }

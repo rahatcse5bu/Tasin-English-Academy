@@ -122,6 +122,10 @@ export interface Deck {
     title?: string; note?: string;
     items: { a: string; match: string; full: string }[];
   };
+  literature?: {
+    no?: string; title?: string; key?: string;
+    items: { q: string; a: string; bn?: string }[];
+  }[];
   ordering?: {
     title?: string; heading?: string; note?: string;
     items: { key: string; text: string }[];
