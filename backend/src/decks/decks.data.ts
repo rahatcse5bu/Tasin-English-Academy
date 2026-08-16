@@ -61,6 +61,9 @@ import d_punctuation from "../data/hsc_decks/punctuation.json";
 import d_report_writing from "../data/hsc_decks/report-writing.json";
 import d_right_form_verbs from "../data/hsc_decks/right-form-verbs.json";
 import d_shilpi_early_marriage from "../data/hsc_decks/shilpi-early-marriage.json";
+import d_ssc_maldives from "../data/hsc_decks/ssc-maldives.json";
+import d_ssc_pritilata_waddedar from "../data/hsc_decks/ssc-pritilata-waddedar.json";
+import d_ssc_zahir_raihan from "../data/hsc_decks/ssc-zahir-raihan.json";
 import d_substitution_table from "../data/hsc_decks/substitution-table.json";
 import d_synonym_antonym_2nd from "../data/hsc_decks/synonym-antonym-2nd.json";
 import d_tag_questions from "../data/hsc_decks/tag-questions.json";
@@ -164,6 +167,9 @@ export const DECKS: Record<string, Deck> = {
   "report-writing": d_report_writing as unknown as Deck,
   "right-form-verbs": d_right_form_verbs as unknown as Deck,
   "shilpi-early-marriage": d_shilpi_early_marriage as unknown as Deck,
+  "ssc-maldives": d_ssc_maldives as unknown as Deck,
+  "ssc-pritilata-waddedar": d_ssc_pritilata_waddedar as unknown as Deck,
+  "ssc-zahir-raihan": d_ssc_zahir_raihan as unknown as Deck,
   "substitution-table": d_substitution_table as unknown as Deck,
   "synonym-antonym-2nd": d_synonym_antonym_2nd as unknown as Deck,
   "tag-questions": d_tag_questions as unknown as Deck,

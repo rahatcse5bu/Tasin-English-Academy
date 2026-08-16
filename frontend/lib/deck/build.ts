@@ -217,11 +217,25 @@ function sSummary(D: any, lex: Lexicon | null): any[] {
         : "");
     out.push({
       kind: "summary",
-      title: "Summary &amp; সারাংশ <span class='sub'>— ইংরেজি বাঁয়ে, বাংলা ডানে · Marks 10</span>",
+      title: paperMarks(D).sumNo + " : Summary <span class='sub'>— ইংরেজি বাঁয়ে, বাংলা ডানে · " + paperMarks(D).summary + "</span>",
       key: "Summary", html: html
     });
   }
   return out;
+}
+
+/**
+ * SSC and HSC set the same question types at different weights, and the slide
+ * header is what a class checks the mark against. Everything paper-specific
+ * lives here so the builders below stay identical for both.
+ */
+function paperMarks(D: any) {
+  var ssc = String(D.paper || "").indexOf("ssc") === 0;
+  return ssc
+    ? { mcq: "1×7 = 7", shortQ: "2×5 = 10", table: "1×5 = 5", flow: "1×5 = 5", summary: "Marks 10",
+        mcqNo: "১", shortNo: "২", tableNo: "৪", flowNo: "৫", sumNo: "৫" }
+    : { mcq: "0.5×10 = 5", shortQ: "3×5 = 15", table: "10×0.5 = 5", flow: "1×5 = 5", summary: "Marks 10",
+        mcqNo: "১-ক", shortNo: "১-খ", tableNo: "২", flowNo: "২ (Or)", sumNo: "৩" };
 }
 
 function sMCQ(D: any): any[] {
@@ -241,8 +255,8 @@ function sMCQ(D: any): any[] {
     }).join("");
     return {
       kind: "mcq",
-      title: "১-ক : MCQ <span class='sub'>— বহুনির্বাচনি (" + (gi + 1) + "/" + all.length + ") · " +
-        esc(D.mcqMarks || "0.5×10 = 5") + "</span>",
+      title: paperMarks(D).mcqNo + " : MCQ <span class='sub'>— বহুনির্বাচনি (" + (gi + 1) + "/" + all.length + ") · " +
+        esc(D.mcqMarks || paperMarks(D).mcq) + "</span>",
       key: "MCQ " + (gi + 1), html: html, reveal: true
     };
   });
@@ -255,13 +269,15 @@ function sShortQ(D: any): any[] {
     var html = grp.map(function (q) {
       n++;
       return '<div class="qa collapsed" data-qa><div class="q"><span class="n">' + LETTER[n - 1] +
-        "</span><span>" + fmt(q.q) + '</span><span class="marks">3</span></div>' +
+        "</span><span>" + fmt(q.q) + '</span><span class="marks">' +
+        (String(D.paper || "").indexOf("ssc") === 0 ? "2" : "3") + "</span></div>" +
         '<div class="a">' + fmt(q.a) + "</div>" +
         (q.bn ? '<div class="a-bn bn">' + fmt(q.bn) + "</div>" : "") + "</div>";
     }).join("");
     return {
       kind: "shortq",
-      title: "১-খ : Short Questions <span class='sub'>— (" + (gi + 1) + "/" + all.length + ") · 3×5 = 15</span>",
+      title: paperMarks(D).shortNo + " : Short Questions <span class='sub'>— (" + (gi + 1) + "/" + all.length + ") · " +
+        paperMarks(D).shortQ + "</span>",
       key: "Q&amp;A " + (gi + 1), html: html, reveal: true
     };
   });
@@ -297,9 +313,9 @@ function sTable(D: any): any[] {
     var many = list.length > 1;
     return {
       kind: "table",
-      title: "২ : Information Transfer <span class='sub'>— " +
+      title: paperMarks(D).tableNo + " : Information Transfer <span class='sub'>— " +
         (t.title ? esc(t.title) + " · " : "টেবিল সমাধান · ") +
-        (many ? (ti + 1) + "/" + list.length + " · " : "") + "10×0.5 = 5</span>",
+        (many ? (ti + 1) + "/" + list.length + " · " : "") + paperMarks(D).table + "</span>",
       key: many ? "Table " + (ti + 1) : "Table",
       html: html
     };
@@ -307,7 +323,9 @@ function sTable(D: any): any[] {
 }
 
 function sFlow(D: any): any[] {
-  if (!D.flow) return [];
+  // the flow chart is an HSC question (২ Or); the SSC Reading Test has no such
+  // item, so a deck that carries one by mistake must not print it
+  if (!D.flow || String(D.paper || "").indexOf("ssc") === 0) return [];
   var f = D.flow;
   var html = '<div class="flow"><div class="flow-title">' + fmt(f.title) + '</div><div class="flow-items">' +
     f.items.map(function (it, i) {
@@ -324,7 +342,7 @@ function sFlow(D: any): any[] {
     "<b>R</b> = পরের ঘর, <b>Shift+R</b> = আগেরটি আবার লুকাও।</div></div>";
   return [{
     kind: "flow",
-    title: "২ (Or) : Flow Chart <span class='sub'>— ফ্লো-চার্ট সমাধান · 1×5 = 5</span>",
+    title: paperMarks(D).flowNo + " : Flow Chart <span class='sub'>— ফ্লো-চার্ট সমাধান · " + paperMarks(D).flow + "</span>",
     key: "Flow Chart", html: html
   }];
 }
@@ -489,6 +507,102 @@ function sBoard(D: any): any[] {
    Each section appears only if the chapter supplies its data,
    so the same engine serves 1st Paper passages and 2nd Paper grammar.
    ============================================================ */
+
+/* ------------------------------------------------------------------ */
+/* SSC Reading Test — question types the HSC papers do not use         */
+/* ------------------------------------------------------------------ */
+
+/**
+ * Gap filling (SSC Q.3, 1×5=5). A short second passage is printed whole, then
+ * the summary paragraph beneath it carries the blanks. Each blank opens on its
+ * own, so the class can argue about one word at a time.
+ */
+function sGapFill(D: any): any[] {
+  var list = (D.gapFill && D.gapFill.length ? D.gapFill : D.gapFill ? [D.gapFill] : []).filter(Boolean);
+  if (!list.length) return [];
+
+  return list.map(function (g: any, gi: number) {
+    var html =
+      (g.text ? '<div class="passage"><p>' + fmt(g.text) + "</p></div>" : "") +
+      '<div class="card" style="margin-top:12px"><p class="gap-body">' + fmt(g.body || "") + "</p></div>" +
+      '<div class="tw" style="margin-top:12px"><table class="t"><thead><tr><th>Gap</th><th>Answer</th><th>কেন</th></tr></thead><tbody>' +
+      (g.items || []).map(function (it: any, i: number) {
+        return '<tr><td>(' + (it.no || "abcdefghij"[i]) + ")</td>" +
+          '<td data-rev><span class="rev-ph">— ? —</span><span class="ans rev-ans inline">' + fmt(it.ans) + "</span></td>" +
+          "<td>" + fmt(it.why || "") + "</td></tr>";
+      }).join("") +
+      "</tbody></table></div>" +
+      '<div class="callout" style="margin-top:12px"><span>✍️</span><div>' +
+      esc(g.note || "শূন্যস্থানে passage-এর শব্দ বসাবে — নিজের ভাষায় সমার্থক বসালে ঝুঁকি থাকে।") + "</div></div>";
+
+    var many = list.length > 1;
+    return {
+      kind: "gapfill",
+      title: "৩ : Gap Filling <span class='sub'>— " + (g.title ? esc(g.title) + " · " : "") +
+        (many ? gi + 1 + "/" + list.length + " · " : "") + "1×5 = 5</span>",
+      key: many ? "Gap " + (gi + 1) : "Gap Filling",
+      html: html
+    };
+  });
+}
+
+/**
+ * Matching (SSC Q.6, 1×5=5). Column A stays visible; the match and the finished
+ * sentence open together, one row at a time.
+ */
+function sMatching(D: any): any[] {
+  var m = D.matching;
+  if (!m || !m.items || !m.items.length) return [];
+
+  var html =
+    '<div class="tw"><table class="t"><thead><tr><th>Column A</th><th>মিল</th><th>পূর্ণ বাক্য</th></tr></thead><tbody>' +
+    m.items.map(function (it: any, i: number) {
+      return "<tr><td>(" + "abcdefghij"[i] + ") " + fmt(it.a) + "</td>" +
+        '<td data-rev><span class="rev-ph">— ? —</span><span class="ans rev-ans inline">' + fmt(it.match) + "</span></td>" +
+        '<td data-rev><span class="rev-ph">— ? —</span><span class="ans rev-ans inline">' + fmt(it.full) + "</span></td></tr>";
+    }).join("") +
+    "</tbody></table></div>" +
+    '<div class="callout" style="margin-top:12px"><span>🔗</span><div>' +
+    esc(m.note || "Column A-এর প্রতিটি অংশের সাথে B ও C মিলিয়ে পূর্ণ বাক্য লিখতে হবে।") + "</div></div>";
+
+  return [{
+    kind: "matching",
+    title: "৬ : Matching <span class='sub'>— " + (m.title ? esc(m.title) + " · " : "") + "1×5 = 5</span>",
+    key: "Matching", html: html
+  }];
+}
+
+/**
+ * Re-ordering (SSC Q.7, 1×8=8). The jumbled sentences are printed as given,
+ * lettered; the correct sequence is then built one step at a time.
+ */
+function sOrdering(D: any): any[] {
+  var o = D.ordering;
+  if (!o || !o.items || !o.items.length) return [];
+
+  var html =
+    '<div class="card"><div class="para-tag"><i></i>' + esc(o.title || "As given — এলোমেলো বাক্যগুলো") + "</div>" +
+    '<ol class="ord-list">' +
+    o.items.map(function (it: any) {
+      return "<li><b>(" + esc(it.key) + ")</b> " + fmt(it.text) + "</li>";
+    }).join("") +
+    "</ol></div>" +
+    '<div class="card" style="margin-top:12px"><div class="para-tag"><i></i>সঠিক ক্রম</div><div class="ord-seq">' +
+    (o.order || []).map(function (k: string, i: number) {
+      return '<span class="ord-step" data-rev><span class="n">' + (i + 1) + "</span>" +
+        '<span class="rev-ph">— ? —</span><span class="ans rev-ans inline">(' + esc(k) + ")</span></span>";
+    }).join('<span class="ord-arrow">→</span>') +
+    "</div></div>" +
+    '<div class="callout" style="margin-top:12px"><span>🔢</span><div>' +
+    esc(o.note || "শুধু অক্ষরগুলো ক্রমানুসারে লিখলেই হবে — পুরো বাক্য আবার লেখার দরকার নেই।") + "</div></div>";
+
+  return [{
+    kind: "ordering",
+    title: "৭ : Re-arrange <span class='sub'>— " + (o.heading ? esc(o.heading) + " · " : "") + "1×8 = 8</span>",
+    key: "Re-arrange", html: html
+  }];
+}
+
 function build(D: Deck): Slide[] {
   var s: Slide[] = [];
   /* the chapter's own vocabulary, so a word in the passage can be tapped */
@@ -505,8 +619,11 @@ function build(D: Deck): Slide[] {
   s = s.concat(sSummary(D, lex));
   s = s.concat(sMCQ(D));
   s = s.concat(sShortQ(D));
+  s = s.concat(sGapFill(D));
   s = s.concat(sTable(D));
   s = s.concat(sFlow(D));
+  s = s.concat(sMatching(D));
+  s = s.concat(sOrdering(D));
   s = s.concat(sExtras(D));
   s = s.concat(sTips(D));
   s = s.concat(sRecap(D));

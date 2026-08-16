@@ -1,0 +1,731 @@
+{
+  "id": "ssc-zahir-raihan",
+  "paper": "ssc1",
+  "paperName": "SSC English 1st Paper",
+  "unit": "Unit 10",
+  "unitName": "Dreams",
+  "lesson": 4,
+  "title": "Zahir Raihan — A Dreamer of a Free Country",
+  "titleBn": "জহির রায়হান",
+  "lede": "ভাষা আন্দোলন থেকে মুক্তিযুদ্ধ — এক কিংবদন্তি চলচ্চিত্রকারের গল্প। SSC Reading Test-এর প্রশ্নপত্র অনুযায়ী MCQ, short question, টেবিল ও গল্প সাজানো।",
+  "qType": "SSC Reading Test — Q.1-7",
+  "minutes": 45,
+  "marks": "50",
+  "objectives": [
+    {
+      "t": "Follow a life story in date order",
+      "d": "১৯৩৫ জন্ম → ১৯৫২ ভাষা আন্দোলন → ১৯৬৯ গণআন্দোলন → ১৯৭১ নিখোঁজ"
+    },
+    {
+      "t": "Answer all seven MCQ with reasons",
+      "d": "শব্দার্থ, তথ্য ও অনুমান — তিন ধরনের প্রশ্ন"
+    },
+    {
+      "t": "Complete a table from a second passage",
+      "d": "Yuri Gagarin — সাল, স্থান ও অর্জন"
+    },
+    {
+      "t": "Put a jumbled story in order",
+      "d": "John Keats — ৮টি বাক্য সাজানো"
+    }
+  ],
+  "passage": [
+    {
+      "tag": "Paragraph 1 — The filmmaker and the activist",
+      "s": [
+        {
+          "en": "Zahir Raihan was one of the ==most talented filmmakers== in Bangladesh.",
+          "bn": "জহির রায়হান ছিলেন বাংলাদেশের ==সবচেয়ে প্রতিভাবান চলচ্চিত্রকারদের== একজন।"
+        },
+        {
+          "en": "He was born on ==19 August 1935== in the village Majupur in ==Feni district==.",
+          "bn": "তিনি ==১৯ আগস্ট ১৯৩৫== সালে ==ফেনী জেলার== মজুপুর গ্রামে জন্মগ্রহণ করেন।"
+        },
+        {
+          "en": "He was an ==active worker of the Language Movement==.",
+          "bn": "তিনি ছিলেন ==ভাষা আন্দোলনের একজন সক্রিয় কর্মী==।"
+        },
+        {
+          "en": "He was one of the ==ten students== to go out in a procession on ==21 February 1952== despite a ==ban on such activities==.",
+          "bn": "==এমন কর্মকাণ্ডে নিষেধাজ্ঞা== থাকা সত্ত্বেও ==২১ ফেব্রুয়ারি ১৯৫২== সালে যে ==দশজন ছাত্র== মিছিল নিয়ে বেরিয়েছিলেন, তিনি তাঁদের একজন।"
+        },
+        {
+          "en": "As a result, he and many others were ==arrested and taken to prison==.",
+          "bn": "ফলে তিনি ও আরও অনেককে ==গ্রেপ্তার করে কারাগারে নেওয়া হয়==।"
+        },
+        {
+          "en": "Raihan was also present at the ==historical meeting of Amtala== on February 21, 1952.",
+          "bn": "রায়হান ১৯৫২ সালের ২১ ফেব্রুয়ারি ==আমতলার ঐতিহাসিক সভাতেও== উপস্থিত ছিলেন।"
+        },
+        {
+          "en": "He also took part in the ==mass movement in 1969==. In 1971, he ==joined the Liberation War==.",
+          "bn": "তিনি ==১৯৬৯ সালের গণআন্দোলনেও== অংশ নেন। ১৯৭১ সালে তিনি ==মুক্তিযুদ্ধে যোগ দেন==।"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — The dream and the legendary film",
+      "s": [
+        {
+          "en": "All through his life, Zahir Raihan dreamt of a ==democratic society==, a society that will ensure ==freedom of speech and will==.",
+          "bn": "সারা জীবন জহির রায়হান একটি ==গণতান্ত্রিক সমাজের== স্বপ্ন দেখেছেন — এমন সমাজ যা ==বাক ও ইচ্ছার স্বাধীনতা== নিশ্চিত করবে।"
+        },
+        {
+          "en": "He had many dreams about our film industry too.",
+          "bn": "আমাদের চলচ্চিত্র শিল্প নিয়েও তাঁর অনেক স্বপ্ন ছিল।"
+        },
+        {
+          "en": "He made a ==legendary film, \"Jibon Theke Neya\"==, based on the ==Language Movement of 1952==.",
+          "bn": "তিনি ==১৯৫২ সালের ভাষা আন্দোলনের== ওপর ভিত্তি করে ==\"জীবন থেকে নেয়া\" নামে এক কিংবদন্তি চলচ্চিত্র== নির্মাণ করেন।"
+        },
+        {
+          "en": "It was a ==revolt against the then autocratic government==.",
+          "bn": "এটি ছিল ==তৎকালীন স্বৈরাচারী সরকারের বিরুদ্ধে এক বিদ্রোহ==।"
+        },
+        {
+          "en": "The family presented in that film was a ==miniature East Pakistan== ruled by an ==autocrat== who had to go to prison for her ==conspiracy==.",
+          "bn": "ঐ চলচ্চিত্রে দেখানো পরিবারটি ছিল ==ক্ষুদ্র আকারের পূর্ব পাকিস্তান==, যা শাসন করত এক ==স্বৈরশাসক==, যাকে ==ষড়যন্ত্রের== দায়ে কারাগারে যেতে হয়।"
+        },
+        {
+          "en": "During the Liberation War, this film was shown outside Bangladesh; critics like ==Satyajit Ray, Mrinal Sen and Ritwik Ghatak== appreciated this film.",
+          "bn": "মুক্তিযুদ্ধের সময় চলচ্চিত্রটি বাংলাদেশের বাইরে প্রদর্শিত হয়; ==সত্যজিৎ রায়, মৃণাল সেন ও ঋত্বিক ঘটকের== মতো সমালোচকেরা এটির প্রশংসা করেন।"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — The sacrifice, and the brother he went to find",
+      "s": [
+        {
+          "en": "Zahir gave all his money to the ==Freedom Fighters' Trust== that he got from his film shows.",
+          "bn": "চলচ্চিত্র প্রদর্শনী থেকে পাওয়া সব অর্থ জহির ==মুক্তিযোদ্ধা ট্রাস্টে== দান করেন।"
+        },
+        {
+          "en": "Besides, his great documentary on Pakistani atrocities, ==Stop Genocide==, helped ==create world sentiment== in favour of our Liberation War.",
+          "bn": "এছাড়া পাকিস্তানি নৃশংসতা নিয়ে তাঁর মহান প্রামাণ্যচিত্র ==Stop Genocide== আমাদের মুক্তিযুদ্ধের পক্ষে ==বিশ্ব জনমত তৈরিতে== সহায়তা করে।"
+        },
+        {
+          "en": "On ==30 December 1971==, someone informed Zahir about an address somewhere at ==Mirpur==, where he might find his brother, the famous writer ==Shahidullah Kaiser==.",
+          "bn": "==৩০ ডিসেম্বর ১৯৭১== সালে কেউ একজন জহিরকে ==মিরপুরের== একটি ঠিকানার কথা জানায়, যেখানে তিনি তাঁর ভাই, বিখ্যাত লেখক ==শহীদুল্লা কায়সারকে== পেতে পারেন।"
+        },
+        {
+          "en": "Shahidullah was ==captured and killed by the Pakistani army and the local collaborators== during the last days of the war.",
+          "bn": "যুদ্ধের শেষ দিনগুলোতে ==পাকিস্তানি সেনাবাহিনী ও স্থানীয় দোসরেরা== শহীদুল্লাকে ==ধরে নিয়ে হত্যা করে==।"
+        },
+        {
+          "en": "Accordingly, Zahir left home to get his brother back and ==he never returned==.",
+          "bn": "সেই অনুযায়ী জহির ভাইকে ফিরিয়ে আনতে বাড়ি থেকে বের হন এবং ==আর কখনও ফিরে আসেননি==।"
+        },
+        {
+          "en": "Zahir's dream was fulfilled — he could see the ==inception of a free independent Bangladesh==, though he did not get back his brother.",
+          "bn": "জহিরের স্বপ্ন পূর্ণ হয়েছিল — তিনি ==স্বাধীন সার্বভৌম বাংলাদেশের জন্ম== দেখে যেতে পেরেছিলেন, যদিও ভাইকে ফিরে পাননি।"
+        },
+        {
+          "en": "And it's a pity that ==this dreamer was missing at such a time when his dream came true==.",
+          "bn": "আর এটি বেদনার যে ==ঠিক যখন তাঁর স্বপ্ন সত্যি হলো, তখনই এই স্বপ্নদ্রষ্টা নিখোঁজ হয়ে গেলেন==।"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "w": "talented",
+      "pos": "adj",
+      "pron": "/ˈtæləntɪd/",
+      "bn": "প্রতিভাবান",
+      "en": "having a natural ability to do something well",
+      "ex": "one of the most talented filmmakers"
+    },
+    {
+      "w": "procession",
+      "pos": "noun",
+      "pron": "/prəˈseʃn/",
+      "bn": "মিছিল, শোভাযাত্রা",
+      "en": "a line of people moving forward together",
+      "ex": "to go out in a procession on 21 February 1952"
+    },
+    {
+      "w": "ban",
+      "pos": "noun",
+      "pron": "/bæn/",
+      "bn": "নিষেধাজ্ঞা",
+      "en": "an official order forbidding something",
+      "ex": "despite a ban on such activities"
+    },
+    {
+      "w": "mass movement",
+      "pos": "noun",
+      "pron": "/mæs ˈmuːvmənt/",
+      "bn": "গণআন্দোলন",
+      "en": "a political movement joined by great numbers of people",
+      "ex": "He also took part in the mass movement in 1969."
+    },
+    {
+      "w": "democratic",
+      "pos": "adj",
+      "pron": "/ˌdeməˈkrætɪk/",
+      "bn": "গণতান্ত্রিক",
+      "en": "based on the principle that all people are equal",
+      "ex": "dreamt of a democratic society"
+    },
+    {
+      "w": "legendary",
+      "pos": "adj",
+      "pron": "/ˈledʒəndri/",
+      "bn": "কিংবদন্তিতুল্য",
+      "en": "very famous and admired",
+      "ex": "He made a legendary film."
+    },
+    {
+      "w": "revolt",
+      "pos": "noun",
+      "pron": "/rɪˈvəʊlt/",
+      "bn": "বিদ্রোহ",
+      "en": "a rising against authority; mutiny",
+      "ex": "It was a revolt against the then autocratic government."
+    },
+    {
+      "w": "autocratic",
+      "pos": "adj",
+      "pron": "/ˌɔːtəˈkrætɪk/",
+      "bn": "স্বৈরাচারী",
+      "en": "ruling with total power and no consultation",
+      "ex": "the then autocratic government"
+    },
+    {
+      "w": "autocrat",
+      "pos": "noun",
+      "pron": "/ˈɔːtəkræt/",
+      "bn": "স্বৈরশাসক",
+      "en": "a ruler with absolute power",
+      "ex": "ruled by an autocrat"
+    },
+    {
+      "w": "miniature",
+      "pos": "adj",
+      "pron": "/ˈmɪnətʃə(r)/",
+      "bn": "ক্ষুদ্র সংস্করণ",
+      "en": "a very small copy of something larger",
+      "ex": "a miniature East Pakistan"
+    },
+    {
+      "w": "conspiracy",
+      "pos": "noun",
+      "pron": "/kənˈspɪrəsi/",
+      "bn": "ষড়যন্ত্র",
+      "en": "a secret plan to do something harmful",
+      "ex": "who had to go to prison for her conspiracy"
+    },
+    {
+      "w": "critic",
+      "pos": "noun",
+      "pron": "/ˈkrɪtɪk/",
+      "bn": "সমালোচক",
+      "en": "a person who judges books, films or art",
+      "ex": "Critics like Satyajit Ray… appreciated this film."
+    },
+    {
+      "w": "documentary",
+      "pos": "noun",
+      "pron": "/ˌdɒkjuˈmentri/",
+      "bn": "প্রামাণ্যচিত্র",
+      "en": "a film giving facts about a real subject",
+      "ex": "his great documentary on Pakistani atrocities"
+    },
+    {
+      "w": "atrocity",
+      "pos": "noun",
+      "pron": "/əˈtrɒsəti/",
+      "bn": "নৃশংসতা",
+      "en": "a cruel and violent act, especially in war",
+      "ex": "a documentary on Pakistani atrocities"
+    },
+    {
+      "w": "genocide",
+      "pos": "noun",
+      "pron": "/ˈdʒenəsaɪd/",
+      "bn": "গণহত্যা",
+      "en": "the deliberate killing of a whole people",
+      "ex": "Stop Genocide"
+    },
+    {
+      "w": "sentiment",
+      "pos": "noun",
+      "pron": "/ˈsentɪmənt/",
+      "bn": "জনমত, অনুভূতি",
+      "en": "a general feeling or opinion",
+      "ex": "helped create world sentiment in favour of our Liberation War"
+    },
+    {
+      "w": "collaborator",
+      "pos": "noun",
+      "pron": "/kəˈlæbəreɪtə(r)/",
+      "bn": "দোসর, বিশ্বাসঘাতক সহযোগী",
+      "en": "someone who helps an enemy occupying their country",
+      "ex": "the Pakistani army and the local collaborators"
+    },
+    {
+      "w": "inception",
+      "pos": "noun",
+      "pron": "/ɪnˈsepʃn/",
+      "bn": "সূচনা, জন্ম",
+      "en": "the beginning of something",
+      "ex": "the inception of a free independent Bangladesh"
+    }
+  ],
+  "synant": [
+    {
+      "w": "talented",
+      "bn": "প্রতিভাবান",
+      "syn": [
+        "gifted",
+        "able",
+        "skilled"
+      ],
+      "ant": [
+        "untalented",
+        "inept"
+      ]
+    },
+    {
+      "w": "revolt",
+      "bn": "বিদ্রোহ",
+      "syn": [
+        "mutiny",
+        "rebellion",
+        "uprising"
+      ],
+      "ant": [
+        "obedience",
+        "submission",
+        "peace"
+      ]
+    },
+    {
+      "w": "autocratic",
+      "bn": "স্বৈরাচারী",
+      "syn": [
+        "dictatorial",
+        "despotic",
+        "tyrannical"
+      ],
+      "ant": [
+        "democratic",
+        "liberal"
+      ]
+    },
+    {
+      "w": "atrocity",
+      "bn": "নৃশংসতা",
+      "syn": [
+        "barbarity",
+        "cruelty",
+        "outrage"
+      ],
+      "ant": [
+        "kindness",
+        "mercy"
+      ]
+    },
+    {
+      "w": "collaborator",
+      "bn": "দোসর",
+      "syn": [
+        "traitor",
+        "quisling",
+        "spy"
+      ],
+      "ant": [
+        "patriot",
+        "loyalist"
+      ]
+    },
+    {
+      "w": "inception",
+      "bn": "সূচনা",
+      "syn": [
+        "beginning",
+        "start",
+        "birth"
+      ],
+      "ant": [
+        "end",
+        "conclusion"
+      ]
+    },
+    {
+      "w": "appreciate",
+      "bn": "প্রশংসা করা",
+      "syn": [
+        "admire",
+        "value",
+        "praise"
+      ],
+      "ant": [
+        "criticise",
+        "belittle"
+      ]
+    },
+    {
+      "w": "conspiracy",
+      "bn": "ষড়যন্ত্র",
+      "syn": [
+        "plot",
+        "scheme",
+        "intrigue"
+      ],
+      "ant": [
+        "honesty",
+        "openness"
+      ]
+    }
+  ],
+  "summaryEn": "Zahir Raihan, born in Feni on 19 August 1935, was one of the most talented filmmakers in Bangladesh and an active worker of the Language Movement. He was among the ten students who defied the ban and marched on 21 February 1952, for which he was arrested, and he was present at the historic Amtala meeting. He joined the mass movement of 1969 and the Liberation War of 1971. All his life he dreamt of a democratic society that would guarantee freedom of speech and will. His legendary film \"Jibon Theke Neya\", based on the Language Movement, was a revolt against the autocratic government, showing a family that stood for a miniature East Pakistan; critics such as Satyajit Ray, Mrinal Sen and Ritwik Ghatak praised it. He gave all his earnings from film shows to the Freedom Fighters' Trust, and his documentary Stop Genocide turned world opinion in favour of the war. On 30 December 1971 he left home for Mirpur to find his brother Shahidullah Kaiser, who had been killed by the Pakistani army and local collaborators, and he never came back. He saw a free Bangladesh born, but vanished just as his dream came true.",
+  "summaryBn": "জহির রায়হানের জন্ম ফেনীতে ১৯৩৫ সালের ১৯ আগস্ট; তিনি ছিলেন বাংলাদেশের অন্যতম প্রতিভাবান চলচ্চিত্রকার ও ভাষা আন্দোলনের সক্রিয় কর্মী। ১৯৫২ সালের ২১ ফেব্রুয়ারি নিষেধাজ্ঞা অমান্য করে যে দশজন ছাত্র মিছিল করেছিলেন তিনি তাঁদের একজন, এজন্য তাঁকে গ্রেপ্তার করা হয়; আমতলার ঐতিহাসিক সভাতেও তিনি ছিলেন। তিনি ১৯৬৯-এর গণআন্দোলন ও ১৯৭১-এর মুক্তিযুদ্ধে যোগ দেন। সারা জীবন তিনি এমন এক গণতান্ত্রিক সমাজের স্বপ্ন দেখেছেন যা বাক ও ইচ্ছার স্বাধীনতা নিশ্চিত করবে। ভাষা আন্দোলনভিত্তিক তাঁর কিংবদন্তি চলচ্চিত্র \"জীবন থেকে নেয়া\" ছিল স্বৈরাচারী সরকারের বিরুদ্ধে বিদ্রোহ, যেখানে পরিবারটি ছিল ক্ষুদ্র পূর্ব পাকিস্তানের প্রতীক; সত্যজিৎ রায়, মৃণাল সেন ও ঋত্বিক ঘটক এটির প্রশংসা করেন। প্রদর্শনী থেকে পাওয়া সব অর্থ তিনি মুক্তিযোদ্ধা ট্রাস্টে দান করেন, আর তাঁর প্রামাণ্যচিত্র Stop Genocide যুদ্ধের পক্ষে বিশ্ব জনমত তৈরি করে। ১৯৭১ সালের ৩০ ডিসেম্বর ভাই শহীদুল্লা কায়সারকে খুঁজতে মিরপুরে গিয়ে তিনি আর ফেরেননি। স্বাধীন বাংলাদেশের জন্ম তিনি দেখেছিলেন, কিন্তু স্বপ্ন সত্যি হওয়ার মুহূর্তেই নিখোঁজ হয়ে যান।",
+  "summaryTip": "**Biography summary-তে** জন্মসাল, দুটি বড় কাজ (চলচ্চিত্র ও প্রামাণ্যচিত্র) আর নিখোঁজ হওয়ার তারিখ — এই তিনটি বাদ দেওয়া যাবে না। ==নিজের ভাষায়== লিখবে, passage থেকে বাক্য তুলে দেবে না।",
+  "mcq": [
+    {
+      "q": "As a filmmaker Zahir Raihan was endowed with —",
+      "opts": [
+        "aesthetic talent",
+        "visual aptitude",
+        "artistic outlook",
+        "real stance"
+      ],
+      "ans": 0,
+      "why": "‘one of the most talented filmmakers’ — চলচ্চিত্র একটি শিল্প, তাই ==aesthetic talent== (নান্দনিক প্রতিভা) সবচেয়ে কাছের।"
+    },
+    {
+      "q": "The word ‘revolt’ mentioned in the passage means —",
+      "opts": [
+        "calm",
+        "harmony",
+        "mutiny",
+        "peace"
+      ],
+      "ans": 2,
+      "why": "revolt = বিদ্রোহ = ==mutiny==। বাকি তিনটি শান্তি বোঝায়, তাই বিপরীত।"
+    },
+    {
+      "q": "What does the phrase ‘local collaborator’ mean?",
+      "opts": [
+        "local eminent people",
+        "local authority",
+        "local spies",
+        "both (i) and (ii)"
+      ],
+      "ans": 2,
+      "why": "যারা শত্রুকে গোপনে সাহায্য করেছিল — ==local spies==, অর্থাৎ দোসর।"
+    },
+    {
+      "q": "Which one of the following doesn't get hindrance in a democratic society?",
+      "opts": [
+        "freedom of speech",
+        "movement",
+        "imperialism",
+        "atrocities"
+      ],
+      "ans": 0,
+      "why": "গণতন্ত্র ==freedom of speech== নিশ্চিত করে; বাকি তিনটি গণতন্ত্রে বাধাপ্রাপ্ত হয়।"
+    },
+    {
+      "q": "It was after the ______ that the news regarding Shahidullah Kaiser was received by his brother.",
+      "opts": [
+        "Liberation War",
+        "Independence Day",
+        "Mass Movement",
+        "Victory Day"
+      ],
+      "ans": 3,
+      "why": "খবরটি আসে ==৩০ ডিসেম্বর ১৯৭১==, অর্থাৎ ১৬ ডিসেম্বর বিজয় দিবসের পরে।"
+    },
+    {
+      "q": "The one who didn't work on the review of ‘Jibon Theke Neya’ was —",
+      "opts": [
+        "Satyajit Ray",
+        "Mrinal Sen",
+        "Ritwik Ghatak",
+        "Zahir Raihan"
+      ],
+      "ans": 3,
+      "why": "প্রথম তিনজন সমালোচক হিসেবে প্রশংসা করেন; ==জহির রায়হান== ছিলেন নির্মাতা, সমালোচক নন।"
+    },
+    {
+      "q": "The legendary film based on the Language Movement revealed the revolt against a/an ______ administration.",
+      "opts": [
+        "democratic",
+        "imperialist",
+        "atrocious",
+        "non-violent"
+      ],
+      "ans": 2,
+      "why": "‘revolt against the then ==autocratic== government’ — অর্থের দিক থেকে ==atrocious== (নিষ্ঠুর) সবচেয়ে কাছের; democratic ও non-violent বিপরীত।"
+    }
+  ],
+  "shortQ": [
+    {
+      "q": "What does the film ‘Jibon Theke Neya’ symbolize?",
+      "a": "It symbolizes the whole of East Pakistan under autocratic rule. Based on the Language Movement of 1952, the film was a revolt against the then autocratic government. The family presented in it was a miniature East Pakistan, ruled by an autocrat who finally had to go to prison for her conspiracy. In this way an ordinary household stood for a nation, and the family's struggle stood for the struggle of a people against oppression.",
+      "bn": "এটি স্বৈরশাসনের অধীন গোটা পূর্ব পাকিস্তানের প্রতীক। ১৯৫২ সালের ভাষা আন্দোলনের ওপর ভিত্তি করে নির্মিত এই চলচ্চিত্র ছিল তৎকালীন স্বৈরাচারী সরকারের বিরুদ্ধে বিদ্রোহ। এতে দেখানো পরিবারটি ছিল ক্ষুদ্র আকারের পূর্ব পাকিস্তান, যা শাসন করত এক স্বৈরশাসক, যাকে শেষ পর্যন্ত ষড়যন্ত্রের দায়ে কারাগারে যেতে হয়। এভাবে একটি সাধারণ পরিবার একটি জাতির প্রতীক হয়ে ওঠে এবং পরিবারের সংগ্রাম হয়ে ওঠে নিপীড়নের বিরুদ্ধে একটি জনগোষ্ঠীর সংগ্রাম।"
+    },
+    {
+      "q": "How did Zahir Raihan contribute to the Language Movement?",
+      "a": "He took part in it directly and at great risk. He was an active worker of the movement, and on 21 February 1952 he was one of only ten students who went out in a procession in spite of the government's ban on such activities. He was also present at the historic meeting of Amtala on the same day. Later he carried the movement forward in another form by making the film \"Jibon Theke Neya\", which was based on the Language Movement itself.",
+      "bn": "তিনি সরাসরি এবং অনেক ঝুঁকি নিয়ে এতে অংশ নিয়েছিলেন। তিনি ছিলেন আন্দোলনের সক্রিয় কর্মী, আর ১৯৫২ সালের ২১ ফেব্রুয়ারি সরকারের নিষেধাজ্ঞা সত্ত্বেও যে মাত্র দশজন ছাত্র মিছিল নিয়ে বেরিয়েছিলেন তিনি তাঁদের একজন। একই দিনে আমতলার ঐতিহাসিক সভাতেও তিনি উপস্থিত ছিলেন। পরে ভাষা আন্দোলনভিত্তিক \"জীবন থেকে নেয়া\" চলচ্চিত্র নির্মাণ করে তিনি আন্দোলনকে আরেক রূপে এগিয়ে নিয়ে যান।"
+    },
+    {
+      "q": "Why was Zahir imprisoned?",
+      "a": "He was imprisoned for joining the procession of 21 February 1952. The government had imposed a ban on such activities, but Zahir Raihan and nine other students defied that ban and came out in a procession in support of the Language Movement. As a result, he and many others were arrested and taken to prison. In other words, he went to jail not for any crime but for demanding the right of his mother tongue.",
+      "bn": "১৯৫২ সালের ২১ ফেব্রুয়ারির মিছিলে যোগ দেওয়ার কারণে তাঁকে কারাবরণ করতে হয়। সরকার এমন কর্মকাণ্ডে নিষেধাজ্ঞা জারি করেছিল, কিন্তু জহির রায়হান ও আরও নয়জন ছাত্র সেই নিষেধাজ্ঞা অমান্য করে ভাষা আন্দোলনের সমর্থনে মিছিলে বের হন। ফলে তাঁকে ও আরও অনেককে গ্রেপ্তার করে কারাগারে নেওয়া হয়। অর্থাৎ কোনো অপরাধে নয়, মাতৃভাষার অধিকার দাবি করার জন্যই তিনি কারাগারে যান।"
+    },
+    {
+      "q": "What was the dream of this dreamer that came true after his missing?",
+      "a": "His dream was a free and independent Bangladesh — a democratic society that would ensure freedom of speech and will. That dream came true when the country won independence, and he was able to see the inception of a free Bangladesh. But it is a pity that this dreamer went missing at exactly the time his dream was being fulfilled: he left home on 30 December 1971 to find his brother and never returned.",
+      "bn": "তাঁর স্বপ্ন ছিল একটি স্বাধীন সার্বভৌম বাংলাদেশ — এমন এক গণতান্ত্রিক সমাজ যা বাক ও ইচ্ছার স্বাধীনতা নিশ্চিত করবে। দেশ স্বাধীন হওয়ার মধ্য দিয়ে সেই স্বপ্ন সত্যি হয় এবং তিনি স্বাধীন বাংলাদেশের জন্ম দেখে যেতে পেরেছিলেন। কিন্তু বেদনার বিষয়, ঠিক যখন তাঁর স্বপ্ন পূরণ হচ্ছিল তখনই এই স্বপ্নদ্রষ্টা নিখোঁজ হয়ে যান — ১৯৭১ সালের ৩০ ডিসেম্বর ভাইকে খুঁজতে বাড়ি থেকে বেরিয়ে তিনি আর ফেরেননি।"
+    },
+    {
+      "q": "From your reading of the passage, how do you evaluate Zahir Raihan as a ‘hero of the country’?",
+      "a": "I regard him as a true hero because he served the country with everything he had — his courage, his art and finally his life. He risked arrest for the Language Movement in 1952, joined the mass movement of 1969 and the Liberation War of 1971. He used cinema as a weapon: \"Jibon Theke Neya\" was a revolt against autocracy, and Stop Genocide created world sentiment in favour of our war. He gave away all the money from his film shows to the Freedom Fighters' Trust. And at the end he walked into danger for the sake of his brother and never came back. A man who gives his talent, his wealth and his life for his country deserves to be called a hero.",
+      "bn": "আমি তাঁকে সত্যিকারের বীর মনে করি, কারণ তাঁর যা কিছু ছিল — সাহস, শিল্প এবং শেষ পর্যন্ত জীবন — সবই তিনি দেশের জন্য দিয়েছেন। ১৯৫২ সালে ভাষা আন্দোলনে গ্রেপ্তারের ঝুঁকি নিয়েছেন, ১৯৬৯-এর গণআন্দোলন ও ১৯৭১-এর মুক্তিযুদ্ধে যোগ দিয়েছেন। তিনি চলচ্চিত্রকে অস্ত্র হিসেবে ব্যবহার করেছেন: \"জীবন থেকে নেয়া\" ছিল স্বৈরাচারের বিরুদ্ধে বিদ্রোহ, আর Stop Genocide আমাদের যুদ্ধের পক্ষে বিশ্ব জনমত তৈরি করে। প্রদর্শনী থেকে পাওয়া সব অর্থ তিনি মুক্তিযোদ্ধা ট্রাস্টে দান করেন। শেষে ভাইয়ের জন্য বিপদের মুখে গিয়ে আর ফেরেননি। যিনি নিজের প্রতিভা, সম্পদ ও জীবন দেশের জন্য বিলিয়ে দেন, তিনিই বীর নামের যোগ্য।"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Yuri Gagarin (প্রশ্ন ৪)",
+      "headers": [
+        "Name of Events",
+        "Year / Time",
+        "Place",
+        "Achievement"
+      ],
+      "rows": [
+        [
+          "Born",
+          "(i) @on March 9, 1934",
+          "in Klushino village, Russia",
+          "—"
+        ],
+        [
+          "(ii) @Completed his secondary education",
+          "in 1946",
+          "at Klushino",
+          "—"
+        ],
+        [
+          "Took his bachelor degree",
+          "(iii) @in 1951",
+          "from a vocational school",
+          "—"
+        ],
+        [
+          "In 1961",
+          "on 12 April",
+          "in space",
+          "(iv) @became the first human to travel into space"
+        ],
+        [
+          "(v) @Died in a plane crash",
+          "in 1968",
+          "—",
+          "—"
+        ]
+      ],
+      "note": "দ্বিতীয় প্যাসেজ (Yuri Gagarin) থেকে ==হুবহু== তথ্য নিতে হবে — সাল ও স্থান বদলানো যাবে না।"
+    }
+  ],
+  "extras": [
+    {
+      "title": "Dates you must not mix up <span class='sub'>— যে সালগুলো প্রশ্নে আসে</span>",
+      "key": "Date Bank",
+      "table": {
+        "headers": [
+          "Date",
+          "Event",
+          "বাংলা"
+        ],
+        "rows": [
+          [
+            "19 August 1935",
+            "Born in Majupur, Feni",
+            "ফেনীর মজুপুরে জন্ম"
+          ],
+          [
+            "21 February 1952",
+            "Procession + Amtala meeting; arrested",
+            "মিছিল ও আমতলার সভা; গ্রেপ্তার"
+          ],
+          [
+            "1969",
+            "Took part in the mass movement",
+            "গণআন্দোলনে অংশগ্রহণ"
+          ],
+          [
+            "1971",
+            "Joined the Liberation War",
+            "মুক্তিযুদ্ধে যোগদান"
+          ],
+          [
+            "30 December 1971",
+            "Left for Mirpur; never returned",
+            "মিরপুরে যান; আর ফেরেননি"
+          ]
+        ]
+      }
+    }
+  ],
+  "tips": [
+    {
+      "em": "📅",
+      "t": "তিনটি ২১ ফেব্রুয়ারি নয়, একটিই",
+      "d": "মিছিল, গ্রেপ্তার ও আমতলার সভা — তিনটিই ==একই দিনে==, ২১ ফেব্রুয়ারি ১৯৫২।"
+    },
+    {
+      "em": "🎬",
+      "t": "দুটি কাজ আলাদা করো",
+      "type": "warn",
+      "d": "==Jibon Theke Neya== একটি ==চলচ্চিত্র== (ভাষা আন্দোলনভিত্তিক); ==Stop Genocide== একটি ==প্রামাণ্যচিত্র== (পাকিস্তানি নৃশংসতা নিয়ে)।"
+    },
+    {
+      "em": "👥",
+      "t": "ভাই কে ছিলেন",
+      "d": "==শহীদুল্লা কায়সার== — বিখ্যাত লেখক, জহিরের ভাই; দোসরদের হাতে নিহত।"
+    },
+    {
+      "em": "🔍",
+      "t": "MCQ-তে শব্দার্থ",
+      "d": "revolt = mutiny, collaborator = spy, autocratic = atrocious — ==সমার্থক শব্দ== ধরে উত্তর খুঁজো।"
+    },
+    {
+      "em": "✍️",
+      "t": "শেষ প্রশ্নে নিজের মত",
+      "d": "‘how do you evaluate’ — এখানে ==passage থেকে প্রমাণ== দিয়ে নিজের মূল্যায়ন লিখতে হবে, শুধু তথ্য নয়।"
+    }
+  ],
+  "recap": [
+    "জন্ম ১৯ আগস্ট ১৯৩৫, ফেনীর মজুপুর গ্রামে।",
+    "২১ ফেব্রুয়ারি ১৯৫২ — দশজনের মিছিল, আমতলার সভা, গ্রেপ্তার।",
+    "‘জীবন থেকে নেয়া’ — ভাষা আন্দোলনভিত্তিক, স্বৈরাচারের বিরুদ্ধে বিদ্রোহ; পরিবারটি ক্ষুদ্র পূর্ব পাকিস্তান।",
+    "‘Stop Genocide’ — প্রামাণ্যচিত্র, বিশ্ব জনমত তৈরি করে; সব অর্থ মুক্তিযোদ্ধা ট্রাস্টে দান।",
+    "৩০ ডিসেম্বর ১৯৭১ — ভাই শহীদুল্লা কায়সারকে খুঁজতে মিরপুরে গিয়ে নিখোঁজ।"
+  ],
+  "homework": [
+    "Date Bank-এর ৫টি তারিখ ও ঘটনা মুখস্থ করে আসবে।",
+    "৭টি MCQ-র উত্তর ব্যাখ্যাসহ খাতায় লিখবে।",
+    "Yuri Gagarin-এর টেবিলটি নিজে পূরণ করবে।",
+    "Summary ১২০-১৪০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ],
+  "gapFill": [
+    {
+      "title": "The July Revolution on Graffiti",
+      "text": "“Art should comfort the disturbed and disturb the comfortable,” writes the pseudonymous street artist Banksy — a sentiment that encapsulates the spirit of graffiti's defiance. On July 17, 2024, Abu Sayeed, an unarmed organizer of the students' movement for quota reform at Begum Rokeya University in Rangpur, was shot and killed by police as he stood with his arms stretched out. Since the 1960s, graffiti in Bangladesh has served as a powerful voice for resistance. In 1966, student activists spray-painted slogans like “Down with Ayub Khan” on walls, using graffiti as a covert means of protest against a repressive regime.",
+      "body": "The July Revolution in Bangladesh gained a crucial value **(a) ——** the active participation of students like Sayeed. One of the defining moments was the \"July Revolution on Graffiti\" where walls of campuses across the country were **(b) ——** revolutionary slogans and artwork, symbolizing the **(c) ——** of the students. Abu Sayeed, **(d) ——** as a heroic figure in this revolution, struggled for justice and transparency. The authorities wanted to stop the movement by killing this super hero, but finally a **(e) ——** victory came through the death of Abu Sayeed.",
+      "items": [
+        {
+          "no": "a",
+          "ans": "through / with",
+          "why": "‘gained value ______ the participation’ — মাধ্যম বোঝাতে through।"
+        },
+        {
+          "no": "b",
+          "ans": "filled with / covered with",
+          "why": "দেয়ালগুলো স্লোগানে ভরে গিয়েছিল।"
+        },
+        {
+          "no": "c",
+          "ans": "protest / resistance",
+          "why": "গ্রাফিতি ছিল প্রতিরোধের কণ্ঠস্বর — passage-এর ‘voice for resistance’।"
+        },
+        {
+          "no": "d",
+          "ans": "regarded / remembered",
+          "why": "‘______ as a heroic figure’ — as-এর আগে regarded/known বসে।"
+        },
+        {
+          "no": "e",
+          "ans": "great / final",
+          "why": "শেষ পর্যন্ত অর্জিত বিজয় — great বা final।"
+        }
+      ],
+      "note": "SSC-তে এই প্রশ্নে ==clue দেওয়া থাকে না==; passage-এর ভাব বুঝে উপযুক্ত শব্দ বসাতে হয়।"
+    }
+  ],
+  "matching": {
+    "title": "Democracy",
+    "items": [
+      {
+        "a": "Democracy means",
+        "match": "a system of the government",
+        "full": "Democracy means a system of the government."
+      },
+      {
+        "a": "It allows freedom",
+        "match": "of speech, religion and political opinions",
+        "full": "It allows freedom of speech, religion and political opinions."
+      },
+      {
+        "a": "It means",
+        "match": "fair and equal treatment for citizens",
+        "full": "It means fair and equal treatment for citizens."
+      },
+      {
+        "a": "People elect",
+        "match": "their representative directly",
+        "full": "People elect their representative directly."
+      },
+      {
+        "a": "Free and fair",
+        "match": "election is the precondition of democracy",
+        "full": "Free and fair election is the precondition of democracy."
+      }
+    ],
+    "note": "Column A-এর অংশটুকু পড়ে ==ব্যাকরণগতভাবে== কোনটি বসে সেটাই আগে দেখো — তারপর অর্থ মেলাও।"
+  },
+  "ordering": {
+    "heading": "John Keats",
+    "title": "As given — এলোমেলো বাক্যগুলো",
+    "items": [
+      {
+        "key": "a",
+        "text": "But his heart was not in medicine and he felt that he was born to be a poet."
+      },
+      {
+        "key": "b",
+        "text": "This great poet met a premature death on February 23, 1821."
+      },
+      {
+        "key": "c",
+        "text": "Finally, he abandoned surgery for literature."
+      },
+      {
+        "key": "d",
+        "text": "John Keats was born on October 31, 1795."
+      },
+      {
+        "key": "e",
+        "text": "He lost his father in 1804 and his mother in 1810."
+      },
+      {
+        "key": "f",
+        "text": "His finest poems like 'Ode to a Nightingale', 'Ode on a Grecian Urn', etc. were published in 1820."
+      },
+      {
+        "key": "g",
+        "text": "In 1811, Keats became an apprentice to a surgeon at Edmonton."
+      },
+      {
+        "key": "h",
+        "text": "He was the eldest son of his parents."
+      }
+    ],
+    "order": [
+      "d",
+      "h",
+      "e",
+      "g",
+      "a",
+      "c",
+      "f",
+      "b"
+    ],
+    "note": "জীবনী সাজাতে ==সাল ধরে== এগোও: 1795 → 1804/1810 → 1811 → 1820 → 1821।"
+  }
+}

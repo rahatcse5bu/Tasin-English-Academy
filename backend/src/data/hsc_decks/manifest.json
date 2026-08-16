@@ -591,6 +591,56 @@
           ]
         }
       ]
+    },
+    {
+      "id": "ssc1",
+      "name": "SSC English 1st Paper",
+      "nameBn": "এসএসসি প্রথম পত্র",
+      "blurb": "Seen passages for the SSC Reading Test — passage, বাক্যভিত্তিক বাংলা অর্থ, vocabulary, summary, MCQ, short questions, table &amp; flow chart.",
+      "units": [
+        {
+          "no": "Unit 6",
+          "name": "Our Neighbours",
+          "nameBn": "আমাদের প্রতিবেশী",
+          "em": "🏝️",
+          "accent": "teal",
+          "chapters": [
+            {
+              "id": "ssc-maldives",
+              "title": "The Republic of Maldives — A Pearl in the Indian Ocean",
+              "titleBn": "মালদ্বীপ প্রজাতন্ত্র",
+              "tag": "Informative",
+              "level": "Medium",
+              "lesson": 3
+            }
+          ]
+        },
+        {
+          "no": "Unit 10",
+          "name": "Dreams",
+          "nameBn": "স্বপ্ন",
+          "em": "💭",
+          "accent": "violet",
+          "chapters": [
+            {
+              "id": "ssc-pritilata-waddedar",
+              "title": "Pritilata Waddedar — A Dream of Freedom and Equality",
+              "titleBn": "প্রীতিলতা ওয়াদ্দেদার",
+              "tag": "Biography",
+              "level": "Medium",
+              "lesson": 3
+            },
+            {
+              "id": "ssc-zahir-raihan",
+              "title": "Zahir Raihan — A Dreamer of a Free Country",
+              "titleBn": "জহির রায়হান",
+              "tag": "Biography",
+              "level": "Medium",
+              "lesson": 4
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -113,6 +113,21 @@ export interface Deck {
   table?: { headers: string[]; rows: string[][]; note?: string };
   flow?: { title: string; items: (string | { t: string; bn?: string })[] };
 
+  /* SSC Reading Test only */
+  gapFill?: {
+    title?: string; text?: string; body?: string; note?: string;
+    items: { no?: string; ans: string; why?: string }[];
+  }[];
+  matching?: {
+    title?: string; note?: string;
+    items: { a: string; match: string; full: string }[];
+  };
+  ordering?: {
+    title?: string; heading?: string; note?: string;
+    items: { key: string; text: string }[];
+    order: string[];
+  };
+
   /* 2nd Paper — grammar lessons */
   rules?: any[];
   rulesTitle?: string;

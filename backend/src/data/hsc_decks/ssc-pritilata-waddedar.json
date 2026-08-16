@@ -1,0 +1,631 @@
+{
+  "id": "ssc-pritilata-waddedar",
+  "paper": "ssc1",
+  "paperName": "SSC English 1st Paper",
+  "unit": "Unit 10",
+  "unitName": "Dreams",
+  "lesson": 3,
+  "title": "Pritilata Waddedar — A Dream of Freedom and Equality",
+  "titleBn": "প্রীতিলতা ওয়াদ্দেদার",
+  "lede": "লিঙ্গবৈষম্যহীন সমাজ আর পরাধীনতামুক্ত মাতৃভূমি — দুটি স্বপ্ন নিয়ে বেঁচেছিলেন যিনি। SSC Reading Test অনুযায়ী MCQ, short question ও সহায়ক প্যাসেজসহ।",
+  "qType": "SSC Reading Test — Q.1-4",
+  "minutes": 45,
+  "marks": "70",
+  "objectives": [
+    {
+      "t": "Follow her life and her two dreams",
+      "d": "শিক্ষা → শিক্ষকতা → সশস্ত্র প্রতিরোধ → আত্মত্যাগ"
+    },
+    {
+      "t": "Answer the seven MCQ with reasons",
+      "d": "শব্দার্থ, phrase ও অনুমান"
+    },
+    {
+      "t": "Read the club's sign as evidence",
+      "d": "‘Dogs and Indians not allowed’ কী প্রমাণ করে"
+    },
+    {
+      "t": "Fill gaps in a linked passage",
+      "d": "গ্রিনহাউস গ্যাস — প্রশ্ন ৩"
+    }
+  ],
+  "passage": [
+    {
+      "tag": "Paragraph 1 — Education and two dreams",
+      "s": [
+        {
+          "en": "Pritilata Waddedar was born in ==Chattogram on 5 May 1911==.",
+          "bn": "প্রীতিলতা ওয়াদ্দেদার ==১৯১১ সালের ৫ মে চট্টগ্রামে== জন্মগ্রহণ করেন।"
+        },
+        {
+          "en": "She was a ==meritorious student== at Dr Khastagir Government Girls' School in Chattogram and Eden College, Dhaka.",
+          "bn": "চট্টগ্রামের ডা. খাস্তগীর সরকারি বালিকা বিদ্যালয় ও ঢাকার ইডেন কলেজে তিনি ছিলেন ==মেধাবী ছাত্রী==।"
+        },
+        {
+          "en": "She finally graduated in ==Philosophy with distinction== from ==Bethune College in Kolkata==.",
+          "bn": "শেষ পর্যন্ত ==কলকাতার বেথুন কলেজ== থেকে ==কৃতিত্বের সঙ্গে দর্শনে স্নাতক== হন।"
+        },
+        {
+          "en": "In her college days, Pritilata was an ==activist in the anti-British movement==.",
+          "bn": "কলেজজীবনে প্রীতিলতা ছিলেন ==ব্রিটিশবিরোধী আন্দোলনের একজন কর্মী==।"
+        },
+        {
+          "en": "All through her life, she dreamt of two things: a ==society without gender discrimination==, and her ==motherland free from British colonial rule==.",
+          "bn": "সারা জীবন তিনি দুটি বিষয়ের স্বপ্ন দেখেছেন: ==লিঙ্গবৈষম্যহীন একটি সমাজ==, এবং ==ব্রিটিশ ঔপনিবেশিক শাসনমুক্ত মাতৃভূমি==।"
+        },
+        {
+          "en": "So she decided to ==fight against the British rule==.",
+          "bn": "তাই তিনি ==ব্রিটিশ শাসনের বিরুদ্ধে লড়াই করার== সিদ্ধান্ত নেন।"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — From headteacher to revolutionary",
+      "s": [
+        {
+          "en": "Soon after, Pritilata became the ==headteacher of Nandankanon Aparna Charan School== in Chattogram.",
+          "bn": "এর কিছু পরেই প্রীতিলতা চট্টগ্রামের ==নন্দনকানন অপর্ণাচরণ স্কুলের প্রধান শিক্ষিকা== হন।"
+        },
+        {
+          "en": "Gradually she involved herself in ==Surja Sen's armed resistance movement==.",
+          "bn": "ধীরে ধীরে তিনি ==সূর্য সেনের সশস্ত্র প্রতিরোধ আন্দোলনে== জড়িয়ে পড়েন।"
+        },
+        {
+          "en": "Surja Sen was a famous ==anti-British movement organizer and revolutionary activist== in the Chattogram area at that time.",
+          "bn": "সূর্য সেন ছিলেন সে সময় চট্টগ্রাম অঞ্চলের একজন বিখ্যাত ==ব্রিটিশবিরোধী আন্দোলনের সংগঠক ও বিপ্লবী কর্মী==।"
+        },
+        {
+          "en": "In ==1932==, Surja Sen planned an attack on the ==Pahartali European Club==.",
+          "bn": "==১৯৩২== সালে সূর্য সেন ==পাহাড়তলী ইউরোপিয়ান ক্লাবে== হামলার পরিকল্পনা করেন।"
+        },
+        {
+          "en": "The club was well-known for its ==notorious sign== at its entrance: ==\"Dogs and Indians not allowed\"==.",
+          "bn": "ক্লাবটি এর প্রবেশপথে থাকা ==কুখ্যাত সাইনবোর্ডের== জন্য পরিচিত ছিল: ==\"কুকুর ও ভারতীয়দের প্রবেশ নিষেধ\"==।"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — The raid and the sacrifice",
+      "s": [
+        {
+          "en": "Surja Sen assigned Pritilata to ==lead a team of 10-12 men== to attack the club.",
+          "bn": "সূর্য সেন প্রীতিলতাকে ক্লাবে হামলার জন্য ==১০-১২ জনের একটি দলের নেতৃত্ব দেওয়ার== দায়িত্ব দেন।"
+        },
+        {
+          "en": "The raid was ==successful== but Pritilata, ==dressed as a man==, failed to get out of the club.",
+          "bn": "হামলা ==সফল== হয়, কিন্তু ==পুরুষের ছদ্মবেশে থাকা== প্রীতিলতা ক্লাব থেকে বেরিয়ে আসতে ব্যর্থ হন।"
+        },
+        {
+          "en": "She ==committed suicide by taking potassium cyanide== to ==avoid arrest==.",
+          "bn": "==গ্রেপ্তার এড়াতে== তিনি ==পটাশিয়াম সায়ানাইড খেয়ে আত্মহত্যা করেন==।"
+        },
+        {
+          "en": "She proved that ==women can work like men==.",
+          "bn": "তিনি প্রমাণ করেছিলেন যে ==নারীরাও পুরুষের মতো কাজ করতে পারে==।"
+        },
+        {
+          "en": "She also proved that ==women too needed to be prepared to sacrifice their lives== for freedom from British colonial rule.",
+          "bn": "তিনি আরও প্রমাণ করেন যে ব্রিটিশ ঔপনিবেশিক শাসন থেকে মুক্তির জন্য ==নারীদেরও জীবন উৎসর্গ করতে প্রস্তুত থাকতে হবে==।"
+        },
+        {
+          "en": "Her dream finally came true — the ==British rule came to an end in 1947==, though she couldn't see it during her lifetime.",
+          "bn": "শেষ পর্যন্ত তাঁর স্বপ্ন সত্যি হয় — ==১৯৪৭ সালে ব্রিটিশ শাসনের অবসান ঘটে==, যদিও জীবদ্দশায় তিনি তা দেখে যেতে পারেননি।"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "w": "meritorious",
+      "pos": "adj",
+      "pron": "/ˌmerɪˈtɔːriəs/",
+      "bn": "মেধাবী, প্রশংসনীয়",
+      "en": "deserving praise for ability or good work",
+      "ex": "She was a meritorious student."
+    },
+    {
+      "w": "distinction",
+      "pos": "noun",
+      "pron": "/dɪˈstɪŋkʃn/",
+      "bn": "কৃতিত্ব, বিশেষ সম্মান",
+      "en": "an award for very high achievement",
+      "ex": "graduated in Philosophy with distinction"
+    },
+    {
+      "w": "activist",
+      "pos": "noun",
+      "pron": "/ˈæktɪvɪst/",
+      "bn": "আন্দোলনকর্মী",
+      "en": "a person who works for political or social change",
+      "ex": "an activist in the anti-British movement"
+    },
+    {
+      "w": "discrimination",
+      "pos": "noun",
+      "pron": "/dɪˌskrɪmɪˈneɪʃn/",
+      "bn": "বৈষম্য",
+      "en": "unfair treatment of one group",
+      "ex": "a society without gender discrimination"
+    },
+    {
+      "w": "colonial",
+      "pos": "adj",
+      "pron": "/kəˈləʊniəl/",
+      "bn": "ঔপনিবেশিক",
+      "en": "relating to rule by a foreign country",
+      "ex": "free from British colonial rule"
+    },
+    {
+      "w": "colonialism",
+      "pos": "noun",
+      "pron": "/kəˈləʊniəlɪzəm/",
+      "bn": "উপনিবেশবাদ",
+      "en": "the policy of controlling another country",
+      "ex": "her motherland free from colonialism"
+    },
+    {
+      "w": "headteacher",
+      "pos": "noun",
+      "pron": "/ˌhedˈtiːtʃə(r)/",
+      "bn": "প্রধান শিক্ষক/শিক্ষিকা",
+      "en": "the teacher in charge of a school",
+      "ex": "became the headteacher of… School"
+    },
+    {
+      "w": "resistance",
+      "pos": "noun",
+      "pron": "/rɪˈzɪstəns/",
+      "bn": "প্রতিরোধ",
+      "en": "the act of fighting against something",
+      "ex": "Surja Sen's armed resistance movement"
+    },
+    {
+      "w": "revolutionary",
+      "pos": "adj",
+      "pron": "/ˌrevəˈluːʃənri/",
+      "bn": "বিপ্লবী",
+      "en": "involving a complete political change",
+      "ex": "a revolutionary activist"
+    },
+    {
+      "w": "notorious",
+      "pos": "adj",
+      "pron": "/nəʊˈtɔːriəs/",
+      "bn": "কুখ্যাত",
+      "en": "famous for something bad",
+      "ex": "its notorious sign at its entrance"
+    },
+    {
+      "w": "assign",
+      "pos": "verb",
+      "pron": "/əˈsaɪn/",
+      "bn": "দায়িত্ব দেওয়া",
+      "en": "to give someone a task",
+      "ex": "Surja Sen assigned Pritilata to lead a team."
+    },
+    {
+      "w": "raid",
+      "pos": "noun",
+      "pron": "/reɪd/",
+      "bn": "আকস্মিক আক্রমণ, হানা",
+      "en": "a sudden attack on a place",
+      "ex": "The raid was successful."
+    },
+    {
+      "w": "cyanide",
+      "pos": "noun",
+      "pron": "/ˈsaɪənaɪd/",
+      "bn": "সায়ানাইড (তীব্র বিষ)",
+      "en": "an extremely poisonous chemical",
+      "ex": "by taking potassium cyanide"
+    },
+    {
+      "w": "sacrifice",
+      "pos": "verb",
+      "pron": "/ˈsækrɪfaɪs/",
+      "bn": "উৎসর্গ করা",
+      "en": "to give up something valuable for a cause",
+      "ex": "prepared to sacrifice their lives"
+    },
+    {
+      "w": "come true",
+      "pos": "phrase",
+      "pron": "/kʌm truː/",
+      "bn": "সত্যি হওয়া",
+      "en": "to become real",
+      "ex": "Her dream finally came true."
+    }
+  ],
+  "synant": [
+    {
+      "w": "meritorious",
+      "bn": "মেধাবী",
+      "syn": [
+        "praiseworthy",
+        "deserving",
+        "commendable"
+      ],
+      "ant": [
+        "unworthy",
+        "blameworthy"
+      ]
+    },
+    {
+      "w": "notorious",
+      "bn": "কুখ্যাত",
+      "syn": [
+        "infamous",
+        "disreputable",
+        "ill-famed"
+      ],
+      "ant": [
+        "reputable",
+        "honourable"
+      ]
+    },
+    {
+      "w": "discrimination",
+      "bn": "বৈষম্য",
+      "syn": [
+        "bias",
+        "prejudice",
+        "disparity"
+      ],
+      "ant": [
+        "equality",
+        "fairness"
+      ]
+    },
+    {
+      "w": "resistance",
+      "bn": "প্রতিরোধ",
+      "syn": [
+        "opposition",
+        "defiance",
+        "struggle"
+      ],
+      "ant": [
+        "surrender",
+        "submission"
+      ]
+    },
+    {
+      "w": "sacrifice",
+      "bn": "উৎসর্গ",
+      "syn": [
+        "give up",
+        "surrender",
+        "forgo"
+      ],
+      "ant": [
+        "keep",
+        "retain"
+      ]
+    },
+    {
+      "w": "raid",
+      "bn": "হানা",
+      "syn": [
+        "attack",
+        "assault",
+        "onslaught"
+      ],
+      "ant": [
+        "retreat",
+        "defence"
+      ]
+    },
+    {
+      "w": "assign",
+      "bn": "দায়িত্ব দেওয়া",
+      "syn": [
+        "allot",
+        "entrust",
+        "appoint"
+      ],
+      "ant": [
+        "withhold",
+        "relieve"
+      ]
+    },
+    {
+      "w": "come true",
+      "bn": "সত্যি হওয়া",
+      "syn": [
+        "become real",
+        "be fulfilled",
+        "materialise"
+      ],
+      "ant": [
+        "fail",
+        "remain unfulfilled"
+      ]
+    }
+  ],
+  "summaryEn": "Pritilata Waddedar was born in Chattogram on 5 May 1911. A meritorious student at Dr Khastagir Government Girls' School and Eden College, she graduated in Philosophy with distinction from Bethune College, Kolkata. In her college days she became an activist in the anti-British movement, for all her life she dreamt of two things: a society free of gender discrimination and a motherland free of British colonial rule. She became headteacher of Nandankanon Aparna Charan School and gradually joined Surja Sen's armed resistance movement. In 1932 Surja Sen planned an attack on the Pahartali European Club, notorious for the sign at its entrance reading \"Dogs and Indians not allowed\", and assigned Pritilata to lead a team of ten to twelve men. The raid succeeded, but Pritilata, disguised as a man, could not get out, and she took potassium cyanide to avoid arrest. By her courage she proved that women can work like men and that they too must be ready to give their lives for freedom. British rule ended in 1947 — her dream came true, though she did not live to see it.",
+  "summaryBn": "প্রীতিলতা ওয়াদ্দেদারের জন্ম চট্টগ্রামে ১৯১১ সালের ৫ মে। ডা. খাস্তগীর সরকারি বালিকা বিদ্যালয় ও ইডেন কলেজের মেধাবী ছাত্রী প্রীতিলতা কলকাতার বেথুন কলেজ থেকে কৃতিত্বের সঙ্গে দর্শনে স্নাতক হন। কলেজজীবনেই তিনি ব্রিটিশবিরোধী আন্দোলনের কর্মী হয়ে ওঠেন; সারা জীবন তিনি দুটি স্বপ্ন দেখেছেন — লিঙ্গবৈষম্যহীন সমাজ এবং ব্রিটিশ ঔপনিবেশিক শাসনমুক্ত মাতৃভূমি। তিনি নন্দনকানন অপর্ণাচরণ স্কুলের প্রধান শিক্ষিকা হন এবং ক্রমে সূর্য সেনের সশস্ত্র প্রতিরোধ আন্দোলনে যোগ দেন। ১৯৩২ সালে সূর্য সেন পাহাড়তলী ইউরোপিয়ান ক্লাবে হামলার পরিকল্পনা করেন — যে ক্লাবের প্রবেশপথে লেখা ছিল কুখ্যাত বাক্যটি, \"কুকুর ও ভারতীয়দের প্রবেশ নিষেধ\" — এবং প্রীতিলতাকে ১০-১২ জনের দলের নেতৃত্ব দেন। হামলা সফল হয়, কিন্তু পুরুষের ছদ্মবেশে থাকা প্রীতিলতা বেরিয়ে আসতে পারেননি এবং গ্রেপ্তার এড়াতে পটাশিয়াম সায়ানাইড খেয়ে আত্মাহুতি দেন। তাঁর সাহস প্রমাণ করে নারীরাও পুরুষের মতো কাজ করতে পারে এবং স্বাধীনতার জন্য জীবন দিতে প্রস্তুত থাকতে পারে। ১৯৪৭ সালে ব্রিটিশ শাসনের অবসান ঘটে — তাঁর স্বপ্ন সত্যি হয়, যদিও তিনি তা দেখে যেতে পারেননি।",
+  "summaryTip": "**দুটি স্বপ্নের কথা** (লিঙ্গবৈষম্যহীন সমাজ + স্বাধীন মাতৃভূমি) এবং **১৯৩২-এর অভিযান** — এই দুটি বাদ দিলে summary অসম্পূর্ণ থাকে। ==নিজের ভাষায়== লিখবে।",
+  "mcq": [
+    {
+      "q": "Pritilata was born in the —",
+      "opts": [
+        "early 20th century",
+        "mid 20th century",
+        "last decade of the 20th century",
+        "none of them"
+      ],
+      "ans": 0,
+      "why": "১৯১১ সাল = বিশ শতকের ==শুরুর দিক==।"
+    },
+    {
+      "q": "The phrase ‘come true’ stands for —",
+      "opts": [
+        "to come about",
+        "to come to rest",
+        "to come down",
+        "to become real"
+      ],
+      "ans": 3,
+      "why": "come true = সত্যি হওয়া = ==to become real==।"
+    },
+    {
+      "q": "‘Women can work like men’ — what is meant by this statement?",
+      "opts": [
+        "Women look like men",
+        "Both men and women can work in the same role",
+        "Women are always subservient to men",
+        "Their appearance is the same"
+      ],
+      "ans": 1,
+      "why": "কথাটি ==সামর্থ্যের== কথা বলছে, চেহারার নয় — নারী-পুরুষ একই ভূমিকা পালন করতে পারে।"
+    },
+    {
+      "q": "Pritilata is an icon of —",
+      "opts": [
+        "patriotism",
+        "motherhood",
+        "humanitarianism",
+        "nature-love"
+      ],
+      "ans": 0,
+      "why": "দেশের জন্য জীবন উৎসর্গ = ==patriotism== (দেশপ্রেম)।"
+    },
+    {
+      "q": "Pritilata was against —",
+      "opts": [
+        "anti-British movement",
+        "gender disparity",
+        "gender equality",
+        "Surja Sen"
+      ],
+      "ans": 1,
+      "why": "তিনি ==লিঙ্গবৈষম্যহীন== সমাজ চেয়েছিলেন, অর্থাৎ ==gender disparity==-র বিরুদ্ধে ছিলেন।"
+    },
+    {
+      "q": "She fought against the British rule to —",
+      "opts": [
+        "end the conflict",
+        "drive away the British",
+        "avoid movement",
+        "free the country from British domination"
+      ],
+      "ans": 3,
+      "why": "তাঁর স্বপ্ন ছিল ==ঔপনিবেশিক শাসনমুক্ত মাতৃভূমি==।"
+    },
+    {
+      "q": "Pritilata wanted to see her motherland free from —",
+      "opts": [
+        "colony",
+        "colonise",
+        "colonial",
+        "colonialism"
+      ],
+      "ans": 3,
+      "why": "‘free from’-এর পরে ==noun== বসবে — colony নয়, ==colonialism== (উপনিবেশবাদ)।"
+    }
+  ],
+  "shortQ": [
+    {
+      "q": "Why did Pritilata decide to fight against the British rule?",
+      "a": "She decided to fight because of the dreams she carried all her life. She wanted a society without gender discrimination and a motherland free from British colonial rule. As a student she had already become an activist in the anti-British movement, and she could see that her country would never be free or equal while a foreign power ruled it. So she chose to join the struggle rather than wait for change.",
+      "bn": "সারা জীবন যে স্বপ্ন তিনি বহন করেছেন, তার জন্যই তিনি লড়াইয়ের সিদ্ধান্ত নেন। তিনি চেয়েছিলেন লিঙ্গবৈষম্যহীন একটি সমাজ এবং ব্রিটিশ ঔপনিবেশিক শাসনমুক্ত মাতৃভূমি। ছাত্রজীবনেই তিনি ব্রিটিশবিরোধী আন্দোলনের কর্মী হয়ে উঠেছিলেন এবং বুঝেছিলেন, বিদেশি শক্তির শাসন থাকতে দেশ কখনও স্বাধীন বা সমতাভিত্তিক হবে না। তাই তিনি অপেক্ষা না করে সংগ্রামে যোগ দেওয়াই বেছে নেন।"
+    },
+    {
+      "q": "How did Pritilata prove that women could work like men?",
+      "a": "She proved it by action, not by argument. Surja Sen assigned her to lead a team of ten to twelve men in the attack on the Pahartali European Club in 1932 — a woman commanding armed men at a time when that was unthinkable. The raid was successful. When she was trapped inside, disguised as a man, she took potassium cyanide rather than be arrested. By leading, succeeding and then giving her life, she showed that women too must be prepared to sacrifice everything for freedom.",
+      "bn": "তিনি যুক্তি দিয়ে নয়, কাজ দিয়ে তা প্রমাণ করেছেন। ১৯৩২ সালে পাহাড়তলী ইউরোপিয়ান ক্লাবে হামলায় সূর্য সেন তাঁকে ১০-১২ জন পুরুষের দলের নেতৃত্ব দেন — এমন এক সময়ে একজন নারীর সশস্ত্র পুরুষদের নেতৃত্ব দেওয়া ছিল অকল্পনীয়। হামলা সফল হয়। পুরুষের ছদ্মবেশে ভেতরে আটকা পড়ে গ্রেপ্তার বরণ না করে তিনি পটাশিয়াম সায়ানাইড গ্রহণ করেন। নেতৃত্ব দিয়ে, সফল হয়ে এবং শেষে জীবন দিয়ে তিনি দেখিয়েছেন, স্বাধীনতার জন্য নারীদেরও সবকিছু উৎসর্গ করতে প্রস্তুত থাকতে হবে।"
+    },
+    {
+      "q": "What did Pritilata dream all through her life?",
+      "a": "She dreamt of two things throughout her life. The first was a society without gender discrimination, in which women would be treated as the equals of men. The second was her motherland free from British colonial rule. These two dreams shaped every decision she made — her activism in college, her joining of Surja Sen's armed resistance, and finally her sacrifice. The second dream came true in 1947, when British rule ended, though she did not live to see it.",
+      "bn": "সারা জীবন তিনি দুটি বিষয়ের স্বপ্ন দেখেছেন। প্রথমটি ছিল লিঙ্গবৈষম্যহীন একটি সমাজ, যেখানে নারীকে পুরুষের সমান বলে গণ্য করা হবে। দ্বিতীয়টি ছিল ব্রিটিশ ঔপনিবেশিক শাসনমুক্ত মাতৃভূমি। এই দুটি স্বপ্নই তাঁর প্রতিটি সিদ্ধান্ত গড়ে দিয়েছে — কলেজজীবনের আন্দোলন, সূর্য সেনের সশস্ত্র প্রতিরোধে যোগদান এবং শেষে আত্মত্যাগ। দ্বিতীয় স্বপ্নটি ১৯৪৭ সালে সত্যি হয়, যখন ব্রিটিশ শাসনের অবসান ঘটে — যদিও তিনি তা দেখে যেতে পারেননি।"
+    },
+    {
+      "q": "Why do you think the sign \"Dogs and Indians not allowed\" was notorious?",
+      "a": "It was notorious because it insulted a whole nation in its own land. By placing Indians in the same line as dogs, the sign declared that the people of the country were not even considered human beings by their rulers. It was not a private rule of one club but a public display of racial contempt, and it made visible the humiliation that colonial rule inflicted every day. That is exactly why the Pahartali European Club became the target of the 1932 attack.",
+      "bn": "এটি কুখ্যাত ছিল কারণ এটি একটি গোটা জাতিকে তার নিজের দেশেই অপমান করেছিল। ভারতীয়দের কুকুরের সঙ্গে এক পঙ্‌ক্তিতে বসিয়ে সাইনবোর্ডটি ঘোষণা করেছিল যে শাসকদের কাছে এ দেশের মানুষ মানুষ বলেই গণ্য নয়। এটি কোনো একটি ক্লাবের ব্যক্তিগত নিয়ম ছিল না, ছিল বর্ণবিদ্বেষের প্রকাশ্য প্রদর্শনী, যা ঔপনিবেশিক শাসনের প্রতিদিনের অপমানকে দৃশ্যমান করে তুলেছিল। ঠিক এ কারণেই ১৯৩২ সালের হামলার লক্ষ্য হয় পাহাড়তলী ইউরোপিয়ান ক্লাব।"
+    },
+    {
+      "q": "How do you evaluate Pritilata as an icon of patriotism?",
+      "a": "I consider her a complete icon of patriotism. She was a brilliant student who could have chosen a safe and comfortable career; instead she became a headteacher and, at the same time, a revolutionary. She accepted the most dangerous assignment of her group, led men into an armed raid, and when capture became certain she chose death over surrender. She did not live to enjoy any reward — British rule ended fifteen years after her death. A patriotism that expects nothing in return is the purest kind, and hers was of that kind.",
+      "bn": "আমি তাঁকে দেশপ্রেমের এক পূর্ণাঙ্গ প্রতীক মনে করি। তিনি ছিলেন মেধাবী ছাত্রী, চাইলে নিরাপদ ও স্বাচ্ছন্দ্যময় পেশা বেছে নিতে পারতেন; তার বদলে তিনি প্রধান শিক্ষিকা হন এবং একই সঙ্গে বিপ্লবী হয়ে ওঠেন। দলের সবচেয়ে বিপজ্জনক দায়িত্বটি তিনি গ্রহণ করেন, সশস্ত্র হামলায় পুরুষদের নেতৃত্ব দেন, আর ধরা পড়া নিশ্চিত হলে আত্মসমর্পণের বদলে মৃত্যুকে বেছে নেন। কোনো পুরস্কার ভোগ করার সুযোগ তিনি পাননি — তাঁর মৃত্যুর পনেরো বছর পর ব্রিটিশ শাসনের অবসান ঘটে। যে দেশপ্রেম বিনিময়ে কিছুই চায় না, সেটিই সবচেয়ে বিশুদ্ধ, আর তাঁরটি ছিল সেই ধরনের।"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Pritilata's life at a glance",
+      "headers": [
+        "What / Who",
+        "Event",
+        "Where",
+        "When / Why"
+      ],
+      "rows": [
+        [
+          "Pritilata Waddedar",
+          "was born",
+          "(i) @in Chattogram",
+          "(ii) @on 5 May 1911"
+        ],
+        [
+          "She",
+          "graduated in Philosophy with distinction",
+          "(iii) @from Bethune College, Kolkata",
+          "—"
+        ],
+        [
+          "She",
+          "became the headteacher",
+          "(iv) @of Nandankanon Aparna Charan School",
+          "soon after her graduation"
+        ],
+        [
+          "Surja Sen",
+          "planned an attack",
+          "on the Pahartali European Club",
+          "(v) @in 1932"
+        ],
+        [
+          "Pritilata",
+          "(vi) @led a team of 10-12 men",
+          "into the club",
+          "as assigned by Surja Sen"
+        ],
+        [
+          "She",
+          "committed suicide",
+          "inside the club",
+          "(vii) @to avoid arrest"
+        ],
+        [
+          "British rule",
+          "came to an end",
+          "in the subcontinent",
+          "(viii) @in 1947"
+        ]
+      ],
+      "note": "সাল ও স্থান passage থেকে ==হুবহু== তুলবে; preposition (in / from / of) বাদ দিয়ো না।"
+    }
+  ],
+  "extras": [
+    {
+      "title": "Dates and names <span class='sub'>— যেগুলো প্রশ্নে আসে</span>",
+      "key": "Fact Bank",
+      "table": {
+        "headers": [
+          "তথ্য",
+          "বিবরণ"
+        ],
+        "rows": [
+          [
+            "5 May 1911",
+            "জন্ম, চট্টগ্রাম"
+          ],
+          [
+            "Bethune College, Kolkata",
+            "দর্শনে স্নাতক, কৃতিত্বসহ"
+          ],
+          [
+            "Nandankanon Aparna Charan School",
+            "প্রধান শিক্ষিকা"
+          ],
+          [
+            "Surja Sen",
+            "ব্রিটিশবিরোধী সংগঠক ও বিপ্লবী, চট্টগ্রাম"
+          ],
+          [
+            "1932",
+            "পাহাড়তলী ইউরোপিয়ান ক্লাবে হামলা"
+          ],
+          [
+            "\"Dogs and Indians not allowed\"",
+            "ক্লাবের প্রবেশপথের কুখ্যাত সাইন"
+          ],
+          [
+            "Potassium cyanide",
+            "গ্রেপ্তার এড়াতে গ্রহণ"
+          ],
+          [
+            "1947",
+            "ব্রিটিশ শাসনের অবসান"
+          ]
+        ]
+      }
+    }
+  ],
+  "tips": [
+    {
+      "em": "🎯",
+      "t": "দুটি স্বপ্ন — দুটোই লিখবে",
+      "type": "warn",
+      "d": "==লিঙ্গবৈষম্যহীন সমাজ== আর ==স্বাধীন মাতৃভূমি== — একটি লিখে অন্যটি বাদ দিলে অর্ধেক নম্বর।"
+    },
+    {
+      "em": "🚻",
+      "t": "‘like men’ মানে সামর্থ্য",
+      "d": "চেহারা নয় — নারীরাও ==একই ভূমিকা== পালন করতে পারে, এটাই বক্তব্য।"
+    },
+    {
+      "em": "📝",
+      "t": "free from + noun",
+      "d": "==colonialism== (noun) বসবে; colonial (adj) বা colonise (verb) নয়।"
+    },
+    {
+      "em": "🗓️",
+      "t": "১৯৩২ আর ১৯৪৭",
+      "d": "==১৯৩২== = ক্লাবে হামলা ও তাঁর মৃত্যু; ==১৯৪৭== = ব্রিটিশ শাসনের অবসান। দুটি গুলিয়ে ফেলো না।"
+    },
+    {
+      "em": "🪧",
+      "t": "সাইনবোর্ডটি হুবহু",
+      "d": "==\"Dogs and Indians not allowed\"== — উদ্ধৃতি চাইলে ঠিক এভাবেই লিখবে।"
+    }
+  ],
+  "recap": [
+    "জন্ম ৫ মে ১৯১১, চট্টগ্রাম; বেথুন কলেজ থেকে দর্শনে স্নাতক (কৃতিত্বসহ)।",
+    "দুটি স্বপ্ন: লিঙ্গবৈষম্যহীন সমাজ ও ব্রিটিশমুক্ত মাতৃভূমি।",
+    "নন্দনকানন অপর্ণাচরণ স্কুলের প্রধান শিক্ষিকা; সূর্য সেনের সশস্ত্র প্রতিরোধে যোগদান।",
+    "১৯৩২ — পাহাড়তলী ইউরোপিয়ান ক্লাবে হামলা; ১০-১২ জনের নেতৃত্ব; ক্লাবের সাইন ‘Dogs and Indians not allowed’।",
+    "গ্রেপ্তার এড়াতে পটাশিয়াম সায়ানাইড; ১৯৪৭-এ ব্রিটিশ শাসনের অবসান।"
+  ],
+  "homework": [
+    "Fact Bank-এর ৮টি তথ্য মুখস্থ করে আসবে।",
+    "৭টি MCQ-র উত্তর ব্যাখ্যাসহ লিখবে।",
+    "টেবিলের (i)–(viii) নিজে পূরণ করবে।",
+    "Summary ১২০-১৪০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ],
+  "gapFill": [
+    {
+      "title": "Greenhouse gases [Unit 2; Lesson 3(A)]",
+      "text": "Humans can neither change the sun's radiation nor the earth's orbit around the sun. But they can control the increase in the amount of greenhouse gases and its effect on the atmosphere. Only during the last hundred years the carbon dioxide concentration has been raised alarmingly in the atmosphere and we humans can be held responsible for this. The main cause of the increase in carbon dioxide level in the atmosphere is the burning of fossil fuels. Since the end of the 19th century, industrial activities increased rapidly, giving rise to many factories. These factories required energy, which was produced through the combustion of coal. Besides coal, other sources of energy such as mineral oil and natural gas were also burned to heat our houses, run cars and airplanes, or to produce electricity.",
+      "body": "It is true that most of the natural phenomena are beyond human's control. Yet he can **(a) ——** some aspects like the greenhouse effect by his life activities. Carbon dioxide is the main **(b) ——** of it. Carbon dioxide is being **(c) ——** in the atmosphere by the burning of fossil fuels. In fact, industrial activities have given rise to many factories where coal is **(d) ——** for energy. Moreover, mineral oil and natural gas are also used for various **(e) ——**.",
+      "items": [
+        {
+          "no": "a",
+          "ans": "control",
+          "why": "‘they can control the increase…’ — passage-এর শব্দ।"
+        },
+        {
+          "no": "b",
+          "ans": "cause",
+          "why": "‘The main cause of the increase…’।"
+        },
+        {
+          "no": "c",
+          "ans": "increased / raised",
+          "why": "‘concentration has been raised alarmingly’।"
+        },
+        {
+          "no": "d",
+          "ans": "burned",
+          "why": "‘produced through the combustion of coal’।"
+        },
+        {
+          "no": "e",
+          "ans": "purposes",
+          "why": "ঘর গরম, গাড়ি চালানো, বিদ্যুৎ — নানা কাজে।"
+        }
+      ]
+    }
+  ]
+}

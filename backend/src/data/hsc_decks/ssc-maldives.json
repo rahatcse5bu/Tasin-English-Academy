@@ -1,0 +1,667 @@
+{
+  "id": "ssc-maldives",
+  "paper": "ssc1",
+  "paperName": "SSC English 1st Paper",
+  "unit": "Unit 6",
+  "unitName": "Our Neighbours",
+  "lesson": 3,
+  "title": "The Republic of Maldives — A Pearl in the Indian Ocean",
+  "titleBn": "মালদ্বীপ প্রজাতন্ত্র",
+  "lede": "১১৯৯টি দ্বীপ, ২৬টি প্রবালবলয় আর তিন হাজার বছরের বসতির গল্প। SSC Reading Test অনুযায়ী MCQ, short question ও নোবেল পুরস্কারের টেবিলসহ।",
+  "qType": "SSC Reading Test — Q.1-4",
+  "minutes": 45,
+  "marks": "70",
+  "objectives": [
+    {
+      "t": "Define an atoll in one sentence",
+      "d": "ring-shaped coral reef বা প্রবাল দ্বীপের মালা"
+    },
+    {
+      "t": "Follow the settlement history in order",
+      "d": "৪র্থ-৫ম শতক BC → ১২শ শতক → ১৩৪৪ → ১৬শ শতক → ১৮৮৭ → ১৯৬৫ → ১৯৬৮"
+    },
+    {
+      "t": "Answer synonym-type MCQ",
+      "d": "settler, conquer — কোনটি সমার্থক নয়"
+    },
+    {
+      "t": "Complete a table from a second passage",
+      "d": "The Nobel Prize — সাল ও তথ্য"
+    }
+  ],
+  "passage": [
+    {
+      "tag": "Paragraph 1 — The islands and the atolls",
+      "s": [
+        {
+          "en": "The Republic of Maldives is an ==island country in the Indian Ocean==.",
+          "bn": "মালদ্বীপ প্রজাতন্ত্র ==ভারত মহাসাগরের একটি দ্বীপরাষ্ট্র==।"
+        },
+        {
+          "en": "It has ==1199 islands== that are clustered into ==26 major atolls==.",
+          "bn": "এখানে ==১১৯৯টি দ্বীপ== আছে, যেগুলো ==২৬টি প্রধান প্রবালবলয়ে== দলবদ্ধ।"
+        },
+        {
+          "en": "An atoll is a ==ring-shaped coral reef or a string of closely spaced coral islands==.",
+          "bn": "অ্যাটল হলো ==বলয়াকার প্রবালপ্রাচীর অথবা পাশাপাশি অবস্থিত প্রবাল দ্বীপের একটি মালা==।"
+        },
+        {
+          "en": "The natural coral reefs of the Maldives are surrounded by the sea all around and ==stand out as a pearl in the Indian Ocean==.",
+          "bn": "মালদ্বীপের প্রাকৃতিক প্রবালপ্রাচীরগুলো চারদিকে সমুদ্রবেষ্টিত এবং ==ভারত মহাসাগরে মুক্তার মতো উজ্জ্বল হয়ে আছে==।"
+        },
+        {
+          "en": "The Maldives is the ==eighth smallest country in the world== with an area of only ==300 square kilometres==.",
+          "bn": "মাত্র ==৩০০ বর্গকিলোমিটার== আয়তন নিয়ে মালদ্বীপ ==পৃথিবীর অষ্টম ক্ষুদ্রতম দেশ==।"
+        },
+        {
+          "en": "It is the ==smallest Asian country in terms of population and area==.",
+          "bn": "==জনসংখ্যা ও আয়তনের দিক থেকে এটি এশিয়ার ক্ষুদ্রতম দেশ==।"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — Who came, and when",
+      "s": [
+        {
+          "en": "People have been living on the islands of the Maldives for ==nearly 3000 years==.",
+          "bn": "==প্রায় তিন হাজার বছর ধরে== মানুষ মালদ্বীপের দ্বীপগুলোতে বসবাস করছে।"
+        },
+        {
+          "en": "They set sail from different parts of the world — Asia, Arabia, Europe and America — to come to these islands.",
+          "bn": "এশিয়া, আরব, ইউরোপ ও আমেরিকা — পৃথিবীর নানা প্রান্ত থেকে তারা পাল তুলে এই দ্বীপগুলোতে এসেছে।"
+        },
+        {
+          "en": "The ==earliest settlers== of the Maldives were probably from ==southern India and Sri Lanka==, who came to these islands in the ==fourth and fifth centuries BC==.",
+          "bn": "মালদ্বীপের ==প্রাচীনতম বসতি স্থাপনকারীরা== সম্ভবত ==দক্ষিণ ভারত ও শ্রীলঙ্কা== থেকে এসেছিল, ==খ্রিস্টপূর্ব চতুর্থ ও পঞ্চম শতকে==।"
+        },
+        {
+          "en": "In the ==12th century AD==, sailors from ==East Africa and Arab countries== came to the Maldives.",
+          "bn": "==খ্রিস্টীয় দ্বাদশ শতকে== ==পূর্ব আফ্রিকা ও আরব দেশগুলো== থেকে নাবিকেরা মালদ্বীপে আসে।"
+        },
+        {
+          "en": "As a result, the Maldivians, who were ==originally Buddhists==, were ==converted to Sunni Islam in the mid-12th century==.",
+          "bn": "ফলে ==মূলত বৌদ্ধ== মালদ্বীপবাসীরা ==দ্বাদশ শতকের মাঝামাঝি সুন্নি ইসলামে ধর্মান্তরিত হয়==।"
+        },
+        {
+          "en": "In ==1344 Ibn Batuta==, a famous ==Arab historian and scholar==, travelled around the Maldives.",
+          "bn": "==১৩৪৪ সালে ইবনে বতুতা==, একজন বিখ্যাত ==আরব ঐতিহাসিক ও পণ্ডিত==, মালদ্বীপ ঘুরে দেখেন।"
+        }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — From sultanate to republic",
+      "s": [
+        {
+          "en": "In the ==16th century, the Portuguese conquered the Maldives== and ruled the country for ==15 years==.",
+          "bn": "==ষোড়শ শতকে পর্তুগিজরা মালদ্বীপ জয় করে== এবং ==১৫ বছর== দেশটি শাসন করে।"
+        },
+        {
+          "en": "Although governed as an ==independent Islamic sultanate== for most of its history ==from 1153 to 1968==, the Maldives was a ==British colony from 1887 to 1965==.",
+          "bn": "যদিও ইতিহাসের বেশির ভাগ সময় ==১১৫৩ থেকে ১৯৬৮ পর্যন্ত== এটি একটি ==স্বাধীন ইসলামি সালতানাত== হিসেবে শাসিত হয়েছে, ==১৮৮৭ থেকে ১৯৬৫ পর্যন্ত মালদ্বীপ ছিল ব্রিটিশ উপনিবেশ==।"
+        },
+        {
+          "en": "Following ==independence from Britain in 1965==, the sultanate continued to operate for another ==3 years==.",
+          "bn": "==১৯৬৫ সালে ব্রিটেন থেকে স্বাধীনতার== পর সালতানাত আরও ==৩ বছর== টিকে ছিল।"
+        },
+        {
+          "en": "On ==November 11, 1968==, the ==sultanate was abolished and replaced by a republic==, and the country ==assumed its present name==.",
+          "bn": "==১৯৬৮ সালের ১১ নভেম্বর== ==সালতানাত বিলুপ্ত করে প্রজাতন্ত্র প্রতিষ্ঠিত হয়== এবং দেশটি ==তার বর্তমান নাম গ্রহণ করে==।"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "w": "atoll",
+      "pos": "noun",
+      "pron": "/ˈætɒl/",
+      "bn": "প্রবালবলয়, বলয়াকার প্রবালদ্বীপ",
+      "en": "a ring-shaped coral reef enclosing a lagoon",
+      "ex": "clustered into 26 major atolls"
+    },
+    {
+      "w": "cluster",
+      "pos": "verb",
+      "pron": "/ˈklʌstə(r)/",
+      "bn": "দলবদ্ধ হওয়া, গুচ্ছবদ্ধ হওয়া",
+      "en": "to form a close group",
+      "ex": "islands that are clustered into 26 major atolls"
+    },
+    {
+      "w": "coral reef",
+      "pos": "noun",
+      "pron": "/ˈkɒrəl riːf/",
+      "bn": "প্রবালপ্রাচীর",
+      "en": "a ridge of rock formed by coral in the sea",
+      "ex": "a ring-shaped coral reef"
+    },
+    {
+      "w": "surround",
+      "pos": "verb",
+      "pron": "/səˈraʊnd/",
+      "bn": "ঘিরে রাখা",
+      "en": "to be all around something",
+      "ex": "surrounded by the sea all around"
+    },
+    {
+      "w": "stand out",
+      "pos": "phrase",
+      "pron": "/stænd aʊt/",
+      "bn": "উজ্জ্বল হয়ে ওঠা, আলাদা করে চোখে পড়া",
+      "en": "to be easily noticed as special",
+      "ex": "stand out as a pearl in the Indian Ocean"
+    },
+    {
+      "w": "set sail",
+      "pos": "phrase",
+      "pron": "/set seɪl/",
+      "bn": "পাল তুলে যাত্রা করা",
+      "en": "to begin a voyage by sea",
+      "ex": "They set sail from different parts of the world."
+    },
+    {
+      "w": "settler",
+      "pos": "noun",
+      "pron": "/ˈsetlə(r)/",
+      "bn": "বসতি স্থাপনকারী",
+      "en": "a person who goes to live in a new place",
+      "ex": "The earliest settlers of the Maldives"
+    },
+    {
+      "w": "sailor",
+      "pos": "noun",
+      "pron": "/ˈseɪlə(r)/",
+      "bn": "নাবিক",
+      "en": "a person who works on a ship",
+      "ex": "sailors from East Africa and Arab countries"
+    },
+    {
+      "w": "convert",
+      "pos": "verb",
+      "pron": "/kənˈvɜːt/",
+      "bn": "ধর্মান্তরিত করা",
+      "en": "to change from one religion to another",
+      "ex": "were converted to Sunni Islam"
+    },
+    {
+      "w": "scholar",
+      "pos": "noun",
+      "pron": "/ˈskɒlə(r)/",
+      "bn": "পণ্ডিত",
+      "en": "a person who knows a subject deeply",
+      "ex": "a famous Arab historian and scholar"
+    },
+    {
+      "w": "conquer",
+      "pos": "verb",
+      "pron": "/ˈkɒŋkə(r)/",
+      "bn": "জয় করা, দখল করা",
+      "en": "to take control of a place by force",
+      "ex": "the Portuguese conquered the Maldives"
+    },
+    {
+      "w": "sultanate",
+      "pos": "noun",
+      "pron": "/ˈsʌltənət/",
+      "bn": "সালতানাত, সুলতানের শাসন",
+      "en": "a state ruled by a sultan",
+      "ex": "governed as an independent Islamic sultanate"
+    },
+    {
+      "w": "colony",
+      "pos": "noun",
+      "pron": "/ˈkɒləni/",
+      "bn": "উপনিবেশ",
+      "en": "a country controlled by another country",
+      "ex": "a British colony from 1887 to 1965"
+    },
+    {
+      "w": "abolish",
+      "pos": "verb",
+      "pron": "/əˈbɒlɪʃ/",
+      "bn": "বিলুপ্ত করা",
+      "en": "to end a law or system officially",
+      "ex": "the sultanate was abolished"
+    },
+    {
+      "w": "assume",
+      "pos": "verb",
+      "pron": "/əˈsjuːm/",
+      "bn": "গ্রহণ করা, ধারণ করা",
+      "en": "to take on a name or role",
+      "ex": "the country assumed its present name"
+    }
+  ],
+  "synant": [
+    {
+      "w": "cluster",
+      "bn": "গুচ্ছবদ্ধ হওয়া",
+      "syn": [
+        "group",
+        "gather",
+        "bunch"
+      ],
+      "ant": [
+        "scatter",
+        "disperse"
+      ]
+    },
+    {
+      "w": "settler",
+      "bn": "বসতি স্থাপনকারী",
+      "syn": [
+        "habitant",
+        "colonizer",
+        "newcomer"
+      ],
+      "ant": [
+        "native",
+        "wanderer"
+      ]
+    },
+    {
+      "w": "conquer",
+      "bn": "জয় করা",
+      "syn": [
+        "triumph",
+        "defeat",
+        "overpower"
+      ],
+      "ant": [
+        "surrender",
+        "give up",
+        "fail"
+      ]
+    },
+    {
+      "w": "abolish",
+      "bn": "বিলুপ্ত করা",
+      "syn": [
+        "end",
+        "annul",
+        "do away with"
+      ],
+      "ant": [
+        "establish",
+        "create"
+      ]
+    },
+    {
+      "w": "convert",
+      "bn": "ধর্মান্তরিত করা",
+      "syn": [
+        "change",
+        "transform",
+        "turn"
+      ],
+      "ant": [
+        "retain",
+        "keep"
+      ]
+    },
+    {
+      "w": "surround",
+      "bn": "ঘিরে রাখা",
+      "syn": [
+        "encircle",
+        "enclose",
+        "ring"
+      ],
+      "ant": [
+        "open",
+        "expose"
+      ]
+    },
+    {
+      "w": "scholar",
+      "bn": "পণ্ডিত",
+      "syn": [
+        "academic",
+        "learned person",
+        "savant"
+      ],
+      "ant": [
+        "ignoramus",
+        "illiterate"
+      ]
+    },
+    {
+      "w": "independent",
+      "bn": "স্বাধীন",
+      "syn": [
+        "free",
+        "sovereign",
+        "self-governing"
+      ],
+      "ant": [
+        "dependent",
+        "colonial"
+      ]
+    }
+  ],
+  "summaryEn": "The Republic of Maldives is an island country in the Indian Ocean made up of 1199 islands clustered into 26 major atolls, an atoll being a ring-shaped coral reef or a string of closely spaced coral islands. Surrounded by sea, its natural coral reefs stand out like a pearl. With an area of only 300 square kilometres it is the eighth smallest country in the world and the smallest in Asia in both population and area. People have lived there for nearly 3000 years, sailing in from Asia, Arabia, Europe and America. The earliest settlers, probably from southern India and Sri Lanka, arrived in the fourth and fifth centuries BC, and in the twelfth century AD sailors came from East Africa and Arab countries, so the originally Buddhist Maldivians were converted to Sunni Islam in the mid-twelfth century. Ibn Batuta, the famous Arab historian, travelled there in 1344. The Portuguese conquered the islands in the sixteenth century and ruled for fifteen years. Though an independent Islamic sultanate from 1153 to 1968, the country was a British colony from 1887 to 1965; the sultanate lasted three more years and was abolished on 11 November 1968, when the Maldives became a republic under its present name.",
+  "summaryBn": "মালদ্বীপ প্রজাতন্ত্র ভারত মহাসাগরের একটি দ্বীপরাষ্ট্র, যেখানে ১১৯৯টি দ্বীপ ২৬টি প্রধান প্রবালবলয়ে দলবদ্ধ; অ্যাটল হলো বলয়াকার প্রবালপ্রাচীর বা পাশাপাশি প্রবাল দ্বীপের মালা। চারদিকে সমুদ্রবেষ্টিত এর প্রাকৃতিক প্রবালপ্রাচীরগুলো মুক্তার মতো উজ্জ্বল। মাত্র ৩০০ বর্গকিলোমিটার আয়তন নিয়ে এটি পৃথিবীর অষ্টম ক্ষুদ্রতম এবং জনসংখ্যা ও আয়তনে এশিয়ার ক্ষুদ্রতম দেশ। প্রায় তিন হাজার বছর ধরে সেখানে মানুষ বাস করছে — এশিয়া, আরব, ইউরোপ ও আমেরিকা থেকে তারা পাল তুলে এসেছে। প্রাচীনতম বসতি স্থাপনকারীরা সম্ভবত দক্ষিণ ভারত ও শ্রীলঙ্কা থেকে খ্রিস্টপূর্ব চতুর্থ-পঞ্চম শতকে আসে; দ্বাদশ শতকে পূর্ব আফ্রিকা ও আরব দেশ থেকে নাবিকেরা আসায় মূলত বৌদ্ধ মালদ্বীপবাসীরা দ্বাদশ শতকের মাঝামাঝি সুন্নি ইসলামে ধর্মান্তরিত হয়। ১৩৪৪ সালে বিখ্যাত আরব ঐতিহাসিক ইবনে বতুতা সেখানে ভ্রমণ করেন। ষোড়শ শতকে পর্তুগিজরা দ্বীপগুলো জয় করে পনেরো বছর শাসন করে। ১১৫৩ থেকে ১৯৬৮ পর্যন্ত স্বাধীন ইসলামি সালতানাত হলেও ১৮৮৭ থেকে ১৯৬৫ পর্যন্ত দেশটি ছিল ব্রিটিশ উপনিবেশ; সালতানাত আরও তিন বছর টিকে ১৯৬৮ সালের ১১ নভেম্বর বিলুপ্ত হয় এবং মালদ্বীপ বর্তমান নামে প্রজাতন্ত্রে পরিণত হয়।",
+  "summaryTip": "**তথ্যভিত্তিক passage-এর summary-তে** সংখ্যাগুলো (১১৯৯ দ্বীপ, ২৬ অ্যাটল, ৩০০ বর্গকিমি, ৩০০০ বছর) আর তিনটি সাল (১৩৪৪, ১৯৬৫, ১৯৬৮) রাখলেই যথেষ্ট — প্রতিটি সাল লিখতে যেয়ো না।",
+  "mcq": [
+    {
+      "q": "The Maldives consist of ______ islands.",
+      "opts": [
+        "more than 1200",
+        "less than 1200",
+        "more than one hundred",
+        "a few"
+      ],
+      "ans": 1,
+      "why": "১১৯৯টি দ্বীপ — অর্থাৎ ==১২০০-এর কম==।"
+    },
+    {
+      "q": "This country is located in ______.",
+      "opts": [
+        "the Arab sea",
+        "the Bay of Bengal",
+        "the Indian Ocean",
+        "India"
+      ],
+      "ans": 2,
+      "why": "প্রথম বাক্য: ‘an island country in the ==Indian Ocean==’।"
+    },
+    {
+      "q": "Which religious belief did the original Maldivians follow?",
+      "opts": [
+        "Hinduism",
+        "Sunni Islam",
+        "the Vedas",
+        "Buddhism"
+      ],
+      "ans": 3,
+      "why": "‘the Maldivians who were ==originally Buddhists==’ — Sunni Islam পরে এসেছে।"
+    },
+    {
+      "q": "What is NOT a synonym of the word ‘settler’?",
+      "opts": [
+        "habitant",
+        "newcomer",
+        "native",
+        "colonizer"
+      ],
+      "ans": 2,
+      "why": "Settler = বাইরে থেকে এসে বসতি গড়া মানুষ; ==native== মানে ভূমিপুত্র, তাই এটি সমার্থক নয়।"
+    },
+    {
+      "q": "What is a similar word of ‘conquer’?",
+      "opts": [
+        "give up",
+        "surrender",
+        "fail",
+        "triumph"
+      ],
+      "ans": 3,
+      "why": "conquer = জয় করা = ==triumph==। বাকি তিনটি হার বোঝায়।"
+    },
+    {
+      "q": "Who was Ibn Batuta?",
+      "opts": [
+        "traveller",
+        "vlogger",
+        "historian",
+        "politician"
+      ],
+      "ans": 2,
+      "why": "‘a famous Arab ==historian== and scholar’ — passage-এ হুবহু আছে। (তিনি ভ্রমণও করেছেন, কিন্তু passage তাঁকে ঐতিহাসিক বলছে।)"
+    },
+    {
+      "q": "When did the Maldives have her official name?",
+      "opts": [
+        "1965",
+        "1868",
+        "1968",
+        "1344"
+      ],
+      "ans": 2,
+      "why": "==১১ নভেম্বর ১৯৬৮== — সালতানাত বিলুপ্ত হয়ে প্রজাতন্ত্র হয় ও বর্তমান নাম গৃহীত হয়। ১৯৬৫ ছিল স্বাধীনতার সাল।"
+    }
+  ],
+  "shortQ": [
+    {
+      "q": "What is an atoll?",
+      "a": "An atoll is a ring-shaped coral reef, or a string of coral islands lying closely spaced together. The Maldives is made up of 1199 islands that are clustered into 26 major atolls of this kind. Because these natural coral reefs are surrounded by the sea on every side, they stand out like a pearl in the Indian Ocean.",
+      "bn": "অ্যাটল হলো বলয়াকার প্রবালপ্রাচীর, অথবা পাশাপাশি অবস্থিত প্রবাল দ্বীপের একটি মালা। মালদ্বীপ এমনই ২৬টি প্রধান অ্যাটলে দলবদ্ধ ১১৯৯টি দ্বীপ নিয়ে গঠিত। এই প্রাকৃতিক প্রবালপ্রাচীরগুলো চারদিক থেকে সমুদ্রবেষ্টিত বলেই ভারত মহাসাগরে মুক্তার মতো উজ্জ্বল হয়ে আছে।"
+    },
+    {
+      "q": "Why is the Maldives called the smallest country in Asia?",
+      "a": "It is called so because it is the smallest in Asia in terms of both population and area. Its total area is only 300 square kilometres, which also makes it the eighth smallest country in the whole world. Although it has 1199 islands, most of them are tiny coral islands, so the land area remains very small.",
+      "bn": "কারণ জনসংখ্যা ও আয়তন — উভয় দিক থেকেই এটি এশিয়ার ক্ষুদ্রতম। এর মোট আয়তন মাত্র ৩০০ বর্গকিলোমিটার, যা একে গোটা পৃথিবীর অষ্টম ক্ষুদ্রতম দেশও করে তুলেছে। যদিও এখানে ১১৯৯টি দ্বীপ আছে, তার বেশির ভাগই ক্ষুদ্র প্রবাল দ্বীপ, তাই স্থলভাগ খুবই কম।"
+    },
+    {
+      "q": "How were the original Maldivians converted to Sunni Islam?",
+      "a": "The Maldivians were originally Buddhists. In the twelfth century AD, sailors from East Africa and the Arab countries began coming to the islands. Through this long contact with Arab and African seafarers, the people of the Maldives were converted to Sunni Islam in the middle of the twelfth century. In other words, the change came through trade and travel rather than through conquest.",
+      "bn": "মালদ্বীপবাসীরা মূলত বৌদ্ধ ছিল। খ্রিস্টীয় দ্বাদশ শতকে পূর্ব আফ্রিকা ও আরব দেশগুলো থেকে নাবিকেরা দ্বীপগুলোতে আসতে শুরু করে। আরব ও আফ্রিকান নাবিকদের সঙ্গে এই দীর্ঘ সংস্পর্শের মধ্য দিয়ে দ্বাদশ শতকের মাঝামাঝি মালদ্বীপের মানুষ সুন্নি ইসলামে ধর্মান্তরিত হয়। অর্থাৎ পরিবর্তনটি এসেছিল যুদ্ধজয়ের মাধ্যমে নয়, বাণিজ্য ও ভ্রমণের মাধ্যমে।"
+    },
+    {
+      "q": "Which European power ruled the Maldives?",
+      "a": "Two European powers are mentioned. The Portuguese conquered the Maldives in the sixteenth century and ruled the country for fifteen years. Much later, the Maldives became a British colony from 1887 to 1965. The country won independence from Britain in 1965, though it had been governed as an independent Islamic sultanate for most of its history, from 1153 to 1968.",
+      "bn": "দুটি ইউরোপীয় শক্তির কথা বলা হয়েছে। ষোড়শ শতকে পর্তুগিজরা মালদ্বীপ জয় করে পনেরো বছর শাসন করে। অনেক পরে, ১৮৮৭ থেকে ১৯৬৫ পর্যন্ত মালদ্বীপ ছিল ব্রিটিশ উপনিবেশ। ১৯৬৫ সালে দেশটি ব্রিটেন থেকে স্বাধীনতা লাভ করে, যদিও ইতিহাসের বেশির ভাগ সময় — ১১৫৩ থেকে ১৯৬৮ পর্যন্ত — এটি স্বাধীন ইসলামি সালতানাত হিসেবে শাসিত হয়েছে।"
+    },
+    {
+      "q": "Why does the author call the Maldives \"a pearl in the Indian Ocean\"?",
+      "a": "The author uses the phrase because of the beauty and the setting of the islands. The natural coral reefs of the Maldives are surrounded by the sea on all sides, so that they appear to lie in the ocean the way a pearl lies in its shell — small, white and precious against a vast blue background. The comparison also suggests rarity and value: the country is tiny, but it is one of the most beautiful places on earth.",
+      "bn": "দ্বীপগুলোর সৌন্দর্য ও অবস্থানের কারণেই লেখক এই উপমাটি ব্যবহার করেছেন। মালদ্বীপের প্রাকৃতিক প্রবালপ্রাচীরগুলো চারদিক থেকে সমুদ্রবেষ্টিত, তাই মনে হয় যেন ঝিনুকের ভেতরে মুক্তা — বিশাল নীল পটভূমিতে ছোট, শুভ্র ও মূল্যবান। উপমাটি বিরলতা ও মূল্যের ইঙ্গিতও দেয়: দেশটি ক্ষুদ্র, কিন্তু পৃথিবীর অন্যতম সুন্দর জায়গা।"
+    }
+  ],
+  "tables": [
+    {
+      "title": "The Nobel Prize (প্রশ্ন ৪)",
+      "headers": [
+        "Name of Events",
+        "Year / Time",
+        "Place",
+        "Achievement"
+      ],
+      "rows": [
+        [
+          "The Nobel Prize has been given",
+          "(i) @since 1901",
+          "worldwide",
+          "the world's most prestigious prize"
+        ],
+        [
+          "Economics was added to the list",
+          "(ii) @in 1969",
+          "—",
+          "for the first time"
+        ],
+        [
+          "Alfred Bernard Nobel was born",
+          "on October 21, 1833",
+          "(iii) @in Stockholm, Sweden",
+          "—"
+        ],
+        [
+          "He was educated",
+          "—",
+          "(iv) @in Russia",
+          "though a citizen of Sweden"
+        ],
+        [
+          "He invented",
+          "—",
+          "—",
+          "(v) @dynamite"
+        ]
+      ],
+      "note": "দ্বিতীয় প্যাসেজ (The Nobel Prize) থেকে তথ্য নেবে — সাল ও স্থান ==হুবহু==।"
+    },
+    {
+      "title": "The Maldives — history at a glance",
+      "headers": [
+        "Period",
+        "Event",
+        "Detail"
+      ],
+      "rows": [
+        [
+          "4th–5th centuries BC",
+          "(i) @the earliest settlers came",
+          "probably from southern India and Sri Lanka"
+        ],
+        [
+          "12th century AD",
+          "sailors came",
+          "(ii) @from East Africa and Arab countries"
+        ],
+        [
+          "Mid-12th century",
+          "(iii) @converted to Sunni Islam",
+          "the Maldivians were originally Buddhists"
+        ],
+        [
+          "1344",
+          "Ibn Batuta travelled around the Maldives",
+          "(iv) @a famous Arab historian and scholar"
+        ],
+        [
+          "16th century",
+          "the Portuguese conquered the Maldives",
+          "(v) @ruled for 15 years"
+        ],
+        [
+          "1887–1965",
+          "(vi) @a British colony",
+          "—"
+        ],
+        [
+          "11 November 1968",
+          "the sultanate was abolished",
+          "(vii) @replaced by a republic"
+        ]
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "title": "Numbers you must remember <span class='sub'>— MCQ ও টেবিলে সবচেয়ে বেশি আসে</span>",
+      "key": "Number Bank",
+      "table": {
+        "headers": [
+          "সংখ্যা",
+          "কী বোঝায়"
+        ],
+        "rows": [
+          [
+            "1199",
+            "মোট দ্বীপ (১২০০-এর কম)"
+          ],
+          [
+            "26",
+            "প্রধান অ্যাটল"
+          ],
+          [
+            "300 sq km",
+            "মোট আয়তন"
+          ],
+          [
+            "8th",
+            "পৃথিবীর ক্ষুদ্রতম দেশের ক্রমে"
+          ],
+          [
+            "3000 years",
+            "মানববসতির বয়স"
+          ],
+          [
+            "1153–1968",
+            "স্বাধীন ইসলামি সালতানাত"
+          ],
+          [
+            "1887–1965",
+            "ব্রিটিশ উপনিবেশ"
+          ],
+          [
+            "1344",
+            "ইবনে বতুতার ভ্রমণ"
+          ],
+          [
+            "11 November 1968",
+            "প্রজাতন্ত্র ও বর্তমান নাম"
+          ]
+        ]
+      }
+    }
+  ],
+  "tips": [
+    {
+      "em": "🔢",
+      "t": "1199 মানে ‘less than 1200’",
+      "type": "warn",
+      "d": "MCQ-তে ‘more than 1200’ ফাঁদ হিসেবে থাকে — সংখ্যাটি ==১১৯৯==, তাই ==কম==।"
+    },
+    {
+      "em": "☸️",
+      "t": "আগে বৌদ্ধ, পরে মুসলিম",
+      "type": "warn",
+      "d": "‘original’ শব্দটি থাকলে উত্তর ==Buddhism==; Sunni Islam এসেছে দ্বাদশ শতকের মাঝামাঝি।"
+    },
+    {
+      "em": "🆚",
+      "t": "settler-এর বিপরীত native",
+      "d": "settler = বাইরে থেকে আসা; ==native== = ভূমিপুত্র। ‘NOT a synonym’ প্রশ্নে এটাই উত্তর।"
+    },
+    {
+      "em": "🗓️",
+      "t": "১৯৬৫ না ১৯৬৮",
+      "type": "warn",
+      "d": "==১৯৬৫== = ব্রিটেন থেকে স্বাধীনতা · ==১৯৬৮== = প্রজাতন্ত্র ও বর্তমান নাম। প্রশ্ন ‘official name’ চাইলে ১৯৬৮।"
+    },
+    {
+      "em": "🦪",
+      "t": "‘a pearl’ একটি উপমা",
+      "d": "সৌন্দর্য ও ক্ষুদ্রতা — দুটোই বোঝায়। ব্যাখ্যা করতে বললে ==সমুদ্রবেষ্টিত প্রবালপ্রাচীরের== কথা বলবে।"
+    }
+  ],
+  "recap": [
+    "১১৯৯টি দ্বীপ, ২৬টি অ্যাটল; অ্যাটল = বলয়াকার প্রবালপ্রাচীর।",
+    "আয়তন ৩০০ বর্গকিমি — পৃথিবীর ৮ম ও এশিয়ার ক্ষুদ্রতম দেশ।",
+    "প্রায় ৩০০০ বছরের বসতি; প্রথম বসতি দক্ষিণ ভারত ও শ্রীলঙ্কা থেকে (৪র্থ-৫ম শতক BC)।",
+    "মূলত বৌদ্ধ → দ্বাদশ শতকের মাঝামাঝি সুন্নি ইসলাম; ১৩৪৪-এ ইবনে বতুতার ভ্রমণ।",
+    "ষোড়শ শতকে পর্তুগিজ (১৫ বছর); ১৮৮৭-১৯৬৫ ব্রিটিশ উপনিবেশ; ১১ নভেম্বর ১৯৬৮ প্রজাতন্ত্র।"
+  ],
+  "homework": [
+    "Number Bank-এর ৯টি সংখ্যা মুখস্থ করে আসবে।",
+    "৭টি MCQ-র উত্তর ব্যাখ্যাসহ লিখবে।",
+    "দুটি টেবিলই নিজে পূরণ করবে।",
+    "Summary ১৩০-১৫০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ],
+  "gapFill": [
+    {
+      "title": "Loneliness — a 2020 study",
+      "text": "You may experience loneliness for various reasons but it can stem from a major life change. A 2020 study by the University of Edinburgh suggests that the causes of loneliness differ depending on the age of the individual. Older adults experience loneliness more frequently as a result of living alone, while middle-aged individuals aren't as likely to report living alone as a cause of their loneliness. This discrepancy may happen due to the fact that older adults have retired and no longer have the community and daily interaction of work life. According to Dr Press, a clinical psychologist, older individuals are more likely to have lost friends and family members, and they also undergo medical or physical limitations that restrict their opportunities for activities and socializing.",
+      "body": "A 2020 study describes the **(a) ——** causes of loneliness. It shows the older people suffer loneliness much more than the **(b) ——**. When an old person **(c) ——** from daily work life, he gets little opportunity to interact **(d) ——** his friends and colleagues. Because of certain medical or **(e) ——** condition, his social activities become restricted, which increases the risk of their loneliness.",
+      "items": [
+        {
+          "no": "a",
+          "ans": "different / various",
+          "why": "‘the causes of loneliness differ depending on the age’।"
+        },
+        {
+          "no": "b",
+          "ans": "younger / middle-aged",
+          "why": "তুলনাটি বয়স্ক বনাম মধ্যবয়সীদের মধ্যে।"
+        },
+        {
+          "no": "c",
+          "ans": "retires",
+          "why": "‘older adults have retired’ — এখানে present tense লাগবে।"
+        },
+        {
+          "no": "d",
+          "ans": "with",
+          "why": "interact ==with== — fixed preposition।"
+        },
+        {
+          "no": "e",
+          "ans": "physical",
+          "why": "‘medical or physical limitations’।"
+        }
+      ]
+    }
+  ]
+}
