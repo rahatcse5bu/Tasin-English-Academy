@@ -81,10 +81,25 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
    * sentences — so in revision they are dead time. Everything downstream
    * (navigation, progress, overview, deep links) counts from this list.
    */
+  /**
+   * A shared copy carries the sections a mentor ticked; anything else was never
+   * meant for the student and is dropped here. The cover and roadmap always
+   * stay — they are the chapter's title page, not teaching material.
+   */
+  const shared = useMemo(() => {
+    const only = deck.shareSections;
+    if (!only) return all;
+    const keep = new Set([...only, 'cover', 'plan']);
+    return all.filter((x) => keep.has(x.kind));
+  }, [all, deck.shareSections]);
+
   const slides = useMemo(
-    () => (hidePassage ? all.filter((s) => s.kind !== 'passage') : all),
-    [all, hidePassage],
+    () => (hidePassage ? shared.filter((s) => s.kind !== 'passage') : shared),
+    [shared, hidePassage],
   );
+
+  /** The server withheld the answers, so there is nothing here to reveal. */
+  const locked = deck.answersHidden === true;
 
   const [word, setWord] = useState<WordEntry | null>(null);
   const [hint, setHint] = useState<{ x: number; y: number; bn: string; above: boolean } | null>(null);
@@ -455,9 +470,9 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
       else if (k === 'Home') { e.preventDefault(); go(0); }
       else if (k === 'End') { e.preventDefault(); go(slides.length - 1); }
       else if (k === 'Escape') { setOverview(false); setHelp(false); setWbOn(false); }
-      else if (k === 'r' || k === 'R') { e.preventDefault(); e.shiftKey ? revealPrev() : revealNext(); }
-      else if (k === 'Backspace') { e.preventDefault(); revealPrev(); }
-      else if (k === 'a' || k === 'A') revealAll();
+      else if (k === 'r' || k === 'R') { if (!locked) { e.preventDefault(); e.shiftKey ? revealPrev() : revealNext(); } }
+      else if (k === 'Backspace') { if (!locked) { e.preventDefault(); revealPrev(); } }
+      else if (k === 'a' || k === 'A') { if (!locked) revealAll(); }
       else if (k === 'o' || k === 'O') setOverview((v) => !v);
       else if (k === 'b' || k === 'B') setHideBn((v) => !v);
       else if (k === 'e' || k === 'E') setHideEn((v) => !v);
@@ -470,7 +485,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [i, slides.length, go, revealNext, revealPrev, revealAll, openWord, word]);
+  }, [i, slides.length, go, revealNext, revealPrev, revealAll, openWord, word, locked]);
 
   useEffect(() => {
     try { localStorage.setItem('tea:theme', dark ? 'dark' : 'light'); } catch {}
@@ -507,6 +522,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
       openWord(w.dataset.phrase || w.dataset.word || w.textContent || '');
       return;
     }
+    if (locked) return; // nothing to open on a questions-only copy
     const opt = t.closest<HTMLElement>('[data-opt]');
     if (opt) {
       const box = opt.closest<HTMLElement>('[data-mcq]')!;
@@ -556,7 +572,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
     </footer>
   );
 
-  const hasPassage = all.some((s) => s.kind === 'passage');
+  const hasPassage = shared.some((s) => s.kind === 'passage');
 
   const answerLabel = ans.total
     ? ans.left
@@ -583,7 +599,7 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
             &nbsp;›&nbsp; {plain(deck.unitName)} &nbsp;›&nbsp; <b>{plain(deck.title)}</b>
           </div>
           <div className="spacer" />
-          {ans.total > 0 && (
+          {ans.total > 0 && !locked && (
             <button
               className={`tbtn${ans.left === 0 ? ' on' : ''}`}
               disabled={ans.left === 0}
@@ -657,6 +673,12 @@ export default function SlideDeck({ deck, nav }: { deck: Deck; nav?: Neighbours 
             <span className="ico">?</span>
           </button>
         </header>
+
+        {locked && (
+          <div className="lock-note no-print">
+            🔒 এই কপিতে উত্তর নেই — প্রশ্নগুলো নিজে অনুশীলন করো।
+          </div>
+        )}
 
         <div className="progress no-print">
           <i style={{ width: `${(i / Math.max(1, slides.length - 1)) * 100}%` }} />

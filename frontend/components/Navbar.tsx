@@ -5,8 +5,8 @@ import { useAuth } from '@/lib/auth';
 
 export default function Navbar() {
   const { user, logout } = useAuth();
-  // slide classes are teaching material — mentors and admins only
-  const staff = user?.role === 'teacher' || user?.role === 'admin';
+  // mentors always; students once something has been shared with them
+  const staff = !!user;
   const [open, setOpen] = useState(false);
   return (
     <header className="bg-white shadow-sm border-b border-slate-200 sticky top-0 z-40">

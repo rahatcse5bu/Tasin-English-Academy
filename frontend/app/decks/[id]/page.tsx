@@ -55,7 +55,7 @@ function DeckView() {
 
 export default function DeckPage() {
   return (
-    <Protected roles={['teacher', 'admin']}>
+    <Protected roles={['teacher', 'admin', 'student']}>
       <DeckView />
     </Protected>
   );

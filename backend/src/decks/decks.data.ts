@@ -61,6 +61,8 @@ import d_punctuation from "../data/hsc_decks/punctuation.json";
 import d_report_writing from "../data/hsc_decks/report-writing.json";
 import d_right_form_verbs from "../data/hsc_decks/right-form-verbs.json";
 import d_shilpi_early_marriage from "../data/hsc_decks/shilpi-early-marriage.json";
+import d_ssc_humans from "../data/hsc_decks/ssc-humans.json";
+import d_ssc_loneliness from "../data/hsc_decks/ssc-loneliness.json";
 import d_ssc_maldives from "../data/hsc_decks/ssc-maldives.json";
 import d_ssc_pritilata_waddedar from "../data/hsc_decks/ssc-pritilata-waddedar.json";
 import d_ssc_zahir_raihan from "../data/hsc_decks/ssc-zahir-raihan.json";
@@ -85,6 +87,7 @@ export interface DeckUnit {
 }
 export interface DeckPaper {
   id: string; name: string; nameBn: string; blurb: string; units: DeckUnit[];
+  classId?: string; className?: string; classNameBn?: string; classOrder?: number;
 }
 export interface DeckManifest {
   brand: { name: string; phone: string; address: string };
@@ -167,6 +170,8 @@ export const DECKS: Record<string, Deck> = {
   "report-writing": d_report_writing as unknown as Deck,
   "right-form-verbs": d_right_form_verbs as unknown as Deck,
   "shilpi-early-marriage": d_shilpi_early_marriage as unknown as Deck,
+  "ssc-humans": d_ssc_humans as unknown as Deck,
+  "ssc-loneliness": d_ssc_loneliness as unknown as Deck,
   "ssc-maldives": d_ssc_maldives as unknown as Deck,
   "ssc-pritilata-waddedar": d_ssc_pritilata_waddedar as unknown as Deck,
   "ssc-zahir-raihan": d_ssc_zahir_raihan as unknown as Deck,

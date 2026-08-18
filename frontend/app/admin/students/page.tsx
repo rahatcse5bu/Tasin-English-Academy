@@ -2,6 +2,7 @@
 import { useEffect, useState } from 'react';
 import { useAuth } from '@/lib/auth';
 import { api } from '@/lib/api';
+import NewStudentForm from '@/components/admin/NewStudentForm';
 
 export default function AdminStudentsPage() {
   const { token } = useAuth();
@@ -32,9 +33,11 @@ export default function AdminStudentsPage() {
   return (
     <div>
       <h1 className="text-2xl font-bold mb-4">শিক্ষার্থী ব্যবস্থাপনা ({students.length})</h1>
+
+      <NewStudentForm batches={batches} onCreated={load} />
       <div className="card p-0 overflow-x-auto">
         <table className="table">
-          <thead><tr><th>নাম</th><th>ইমেইল</th><th>ফোন</th><th>স্তর</th><th>ব্যাচ</th><th>অ্যাকশন</th></tr></thead>
+          <thead><tr><th>নাম</th><th>ইমেইল</th><th>ফোন</th><th>ক্লাস</th><th>সেশন</th><th>প্রতিষ্ঠান</th><th>জেলা</th><th>ব্যাচ</th><th>অ্যাকশন</th></tr></thead>
           <tbody>
             {students.map((s) => {
               const enrolledIds = (s.enrolledBatches || []).map(String);
@@ -44,6 +47,9 @@ export default function AdminStudentsPage() {
                   <td className="text-xs">{s.email}</td>
                   <td>{s.phone || '—'}</td>
                   <td>{s.level || '—'}</td>
+                  <td>{s.session || '—'}</td>
+                  <td className="text-xs">{s.institution || '—'}</td>
+                  <td className="text-xs">{[s.district, s.division].filter(Boolean).join(', ') || '—'}</td>
                   <td>
                     <div className="flex flex-wrap gap-1">
                       {batches.filter((b) => enrolledIds.includes(String(b._id))).map((b) => (
@@ -63,7 +69,7 @@ export default function AdminStudentsPage() {
                 </tr>
               );
             })}
-            {!students.length && <tr><td colSpan={6} className="text-center text-slate-500 py-6">কোনও শিক্ষার্থী নেই।</td></tr>}
+            {!students.length && <tr><td colSpan={9} className="text-center text-slate-500 py-6">কোনও শিক্ষার্থী নেই।</td></tr>}
           </tbody>
         </table>
       </div>

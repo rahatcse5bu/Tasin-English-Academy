@@ -358,7 +358,11 @@
             }
           ]
         }
-      ]
+      ],
+      "classId": "hsc",
+      "className": "HSC",
+      "classNameBn": "এইচএসসি",
+      "classOrder": 1
     },
     {
       "id": "paper2",
@@ -590,7 +594,11 @@
             }
           ]
         }
-      ]
+      ],
+      "classId": "hsc",
+      "className": "HSC",
+      "classNameBn": "এইচএসসি",
+      "classOrder": 1
     },
     {
       "id": "ssc1",
@@ -598,6 +606,23 @@
       "nameBn": "এসএসসি প্রথম পত্র",
       "blurb": "Seen passages for the SSC Reading Test — passage, বাক্যভিত্তিক বাংলা অর্থ, vocabulary, summary, MCQ, short questions, table &amp; flow chart.",
       "units": [
+        {
+          "no": "Unit 2",
+          "name": "Climate Change",
+          "nameBn": "জলবায়ু পরিবর্তন",
+          "em": "🌡️",
+          "accent": "amber",
+          "chapters": [
+            {
+              "id": "ssc-humans",
+              "title": "Humans and the Greenhouse Effect",
+              "titleBn": "মানুষ ও গ্রিনহাউস প্রভাব",
+              "tag": "Expository",
+              "level": "Medium",
+              "lesson": 3
+            }
+          ]
+        },
         {
           "no": "Unit 6",
           "name": "Our Neighbours",
@@ -639,8 +664,29 @@
               "lesson": 4
             }
           ]
+        },
+        {
+          "no": "Unit 13",
+          "name": "Mental Health",
+          "nameBn": "মানসিক স্বাস্থ্য",
+          "em": "🧠",
+          "accent": "rose",
+          "chapters": [
+            {
+              "id": "ssc-loneliness",
+              "title": "Loneliness — A Universal Emotion",
+              "titleBn": "নিঃসঙ্গতা",
+              "tag": "Informative",
+              "level": "Medium",
+              "lesson": 1
+            }
+          ]
         }
-      ]
+      ],
+      "classId": "ssc",
+      "className": "SSC",
+      "classNameBn": "এসএসসি",
+      "classOrder": 0
     }
   ]
 }

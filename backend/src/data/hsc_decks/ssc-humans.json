@@ -1,0 +1,236 @@
+{
+  "id": "ssc-humans",
+  "paper": "ssc1",
+  "paperName": "SSC English 1st Paper",
+  "unit": "Unit 2",
+  "unitName": "Climate Change",
+  "lesson": 3,
+  "title": "Humans and the Greenhouse Effect",
+  "titleBn": "মানুষ ও গ্রিনহাউস প্রভাব",
+  "lede": "সূর্যের বিকিরণ বা পৃথিবীর কক্ষপথ বদলানো যায় না — কিন্তু গ্রিনহাউস গ্যাস নিয়ন্ত্রণ করা যায়। জীবাশ্ম জ্বালানি ও বন উজাড়ের দ্বিমুখী ক্ষতি, SSC Reading Test-এর ৯টি প্রশ্নসহ।",
+  "qType": "SSC Reading Test — Q.1-9",
+  "minutes": 45,
+  "marks": "70",
+  "objectives": [
+    { "t": "Name the one thing humans can control", "d": "সূর্য বা কক্ষপথ নয় — গ্রিনহাউস গ্যাসের পরিমাণ" },
+    { "t": "Trace carbon dioxide to its source", "d": "কারখানা → কয়লা, তেল, গ্যাস → দৈনিক ৮৫ মিলিয়ন ব্যারেল" },
+    { "t": "Explain the dual problem of deforestation", "d": "পোড়ালে CO₂ বের হয়, আর শোষণের ভাণ্ডারও নষ্ট হয়" },
+    { "t": "Answer synonym and antonym MCQ", "d": "responsible, increase, crude" }
+  ],
+
+  "passage": [
+    {
+      "tag": "Paragraph 1 — What humans can and cannot change",
+      "s": [
+        { "en": "Humans can ==neither change the sun's radiation nor the earth's orbit== around the sun.", "bn": "মানুষ ==সূর্যের বিকিরণ বা সূর্যের চারপাশে পৃথিবীর কক্ষপথ — কোনোটিই বদলাতে পারে না==।" },
+        { "en": "But they ==can control the increase in the amount of greenhouse gases== and its effect on the atmosphere.", "bn": "কিন্তু তারা ==গ্রিনহাউস গ্যাসের পরিমাণ বৃদ্ধি এবং বায়ুমণ্ডলে তার প্রভাব নিয়ন্ত্রণ করতে পারে==।" },
+        { "en": "Only during the ==last hundred years== the ==carbon dioxide concentration has been raised alarmingly== in the atmosphere, and ==we humans can be held responsible== for this.", "bn": "কেবল ==গত একশো বছরেই== বায়ুমণ্ডলে ==কার্বন ডাই-অক্সাইডের ঘনত্ব আশঙ্কাজনকভাবে বেড়েছে==, আর এর জন্য ==আমরা মানুষই দায়ী==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — Burning fossil fuels",
+      "s": [
+        { "en": "The ==main cause== of the increase in carbon dioxide level in the atmosphere is the ==burning of fossil fuels==.", "bn": "বায়ুমণ্ডলে কার্বন ডাই-অক্সাইড বৃদ্ধির ==প্রধান কারণ== হলো ==জীবাশ্ম জ্বালানি পোড়ানো==।" },
+        { "en": "Since the ==end of the 19th century==, industrial activities increased rapidly, ==giving rise to many factories==.", "bn": "==উনিশ শতকের শেষ== থেকে শিল্পকর্মকাণ্ড দ্রুত বেড়ে যায়, ==যার ফলে বহু কারখানা গড়ে ওঠে==।" },
+        { "en": "These factories required energy, which was produced through the ==combustion of coal==.", "bn": "এই কারখানাগুলোর দরকার ছিল শক্তি, যা উৎপাদিত হতো ==কয়লা দহনের মাধ্যমে==।" },
+        { "en": "Besides coal, other sources of energy such as ==mineral oil and natural gas== were also burned to ==heat our houses, run cars and airplanes or to produce electricity==.", "bn": "কয়লা ছাড়াও ==খনিজ তেল ও প্রাকৃতিক গ্যাসের== মতো অন্য শক্তির উৎসও পোড়ানো হতো ==ঘর গরম করতে, গাড়ি ও বিমান চালাতে অথবা বিদ্যুৎ উৎপাদন করতে==।" },
+        { "en": "Nowadays, about ==85 million barrels of crude oil are burned daily==.", "bn": "বর্তমানে প্রতিদিন প্রায় ==৮৫ মিলিয়ন ব্যারেল অপরিশোধিত তেল পোড়ানো হয়==।" },
+        { "en": "Every time a fossil raw material is burned, it ==releases carbon dioxide into the air==.", "bn": "প্রতিবার জীবাশ্ম কাঁচামাল পোড়ানো হলেই তা ==বাতাসে কার্বন ডাই-অক্সাইড ছাড়ে==।" },
+        { "en": "Therefore, it is clear that ==more and more greenhouse gases like carbon dioxide are being generated worldwide by humans==.", "bn": "অতএব এটি স্পষ্ট যে ==কার্বন ডাই-অক্সাইডের মতো গ্রিনহাউস গ্যাস সারা বিশ্বে মানুষের দ্বারাই আরও বেশি করে তৈরি হচ্ছে==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — Deforestation, a dual problem",
+      "s": [
+        { "en": "Moreover, we are also ==strengthening the greenhouse effect by deforestation==, which means ==cutting down trees==.", "bn": "তাছাড়া আমরা ==বন উজাড়ের মাধ্যমেও গ্রিনহাউস প্রভাবকে জোরদার করছি==, যার অর্থ ==গাছ কেটে ফেলা==।" },
+        { "en": "Every year ==enormous areas of forests are destroyed== by people to ==obtain wood==, to ==clear regions for mining== and to ==create pasture==.", "bn": "প্রতি বছর মানুষ ==কাঠ পাওয়ার==, ==খনির জন্য এলাকা পরিষ্কার করার== এবং ==চারণভূমি তৈরির== জন্য ==বিশাল বনাঞ্চল ধ্বংস করে==।" },
+        { "en": "This loss of the forest causes ==dual problems==.", "bn": "বনের এই ক্ষতি ==দ্বিমুখী সমস্যা== সৃষ্টি করে।" },
+        { "en": "Trees that are burned up ==release large volumes of carbon dioxide gas into the air==.", "bn": "যে গাছগুলো পুড়িয়ে ফেলা হয় সেগুলো ==বিপুল পরিমাণ কার্বন ডাই-অক্সাইড বাতাসে ছেড়ে দেয়==।" },
+        { "en": "On the other hand, as forests ==absorb a lot of carbon dioxide from the air and deliver oxygen instead==, we also ==destroy an important storehouse of carbon dioxide== when we clear forests.", "bn": "অন্যদিকে, বন যেহেতু ==বাতাস থেকে প্রচুর কার্বন ডাই-অক্সাইড শোষণ করে এবং বদলে অক্সিজেন দেয়==, তাই বন সাফ করলে আমরা ==কার্বন ডাই-অক্সাইডের একটি গুরুত্বপূর্ণ ভাণ্ডারও ধ্বংস করি==।" }
+      ]
+    }
+  ],
+
+  "words": [
+    { "w": "radiation", "pos": "noun", "pron": "/ˌreɪdiˈeɪʃn/", "bn": "বিকিরণ", "en": "energy sent out as rays or waves", "ex": "Humans can neither change the sun's radiation…" },
+    { "w": "orbit", "pos": "noun", "pron": "/ˈɔːbɪt/", "bn": "কক্ষপথ", "en": "the curved path of a planet round a star", "ex": "the earth's orbit around the sun" },
+    { "w": "greenhouse gas", "pos": "noun", "pron": "/ˈɡriːnhaʊs ɡæs/", "bn": "গ্রিনহাউস গ্যাস", "en": "a gas that traps heat in the atmosphere", "ex": "the increase in the amount of greenhouse gases" },
+    { "w": "concentration", "pos": "noun", "pron": "/ˌkɒnsnˈtreɪʃn/", "bn": "ঘনত্ব, গাঢ়ত্ব", "en": "the amount of a substance in a given space", "ex": "the carbon dioxide concentration has been raised" },
+    { "w": "alarmingly", "pos": "adv", "pron": "/əˈlɑːmɪŋli/", "bn": "আশঙ্কাজনকভাবে", "en": "in a way that causes worry", "ex": "raised alarmingly in the atmosphere" },
+    { "w": "responsible", "pos": "adj", "pron": "/rɪˈspɒnsəbl/", "bn": "দায়ী", "en": "being the cause of something; accountable", "ex": "we humans can be held responsible for this" },
+    { "w": "fossil fuel", "pos": "noun", "pron": "/ˈfɒsl fjuːəl/", "bn": "জীবাশ্ম জ্বালানি", "en": "fuel such as coal or oil formed from ancient remains", "ex": "the burning of fossil fuels" },
+    { "w": "combustion", "pos": "noun", "pron": "/kəmˈbʌstʃən/", "bn": "দহন, পোড়ানো", "en": "the process of burning", "ex": "produced through the combustion of coal" },
+    { "w": "mineral oil", "pos": "noun", "pron": "/ˈmɪnərəl ɔɪl/", "bn": "খনিজ তেল", "en": "oil obtained from the earth", "ex": "mineral oil and natural gas were also burned" },
+    { "w": "barrel", "pos": "noun", "pron": "/ˈbærəl/", "bn": "ব্যারেল (তেল মাপার একক)", "en": "a unit for measuring oil", "ex": "85 million barrels of crude oil" },
+    { "w": "crude", "pos": "adj", "pron": "/kruːd/", "bn": "অপরিশোধিত", "en": "in its natural state; unrefined", "ex": "crude oil are burned daily" },
+    { "w": "release", "pos": "verb", "pron": "/rɪˈliːs/", "bn": "নির্গত করা, ছেড়ে দেওয়া", "en": "to let a gas escape into the air", "ex": "it releases carbon dioxide into the air" },
+    { "w": "generate", "pos": "verb", "pron": "/ˈdʒenəreɪt/", "bn": "উৎপন্ন করা", "en": "to produce", "ex": "greenhouse gases are being generated worldwide" },
+    { "w": "deforestation", "pos": "noun", "pron": "/ˌdiːˌfɒrɪˈsteɪʃn/", "bn": "বন উজাড়করণ", "en": "the cutting down of forests", "ex": "strengthening the greenhouse effect by deforestation" },
+    { "w": "enormous", "pos": "adj", "pron": "/ɪˈnɔːməs/", "bn": "বিশাল, প্রকাণ্ড", "en": "extremely large", "ex": "enormous areas of forests are destroyed" },
+    { "w": "pasture", "pos": "noun", "pron": "/ˈpɑːstʃə(r)/", "bn": "চারণভূমি", "en": "grassland for grazing animals", "ex": "to create pasture" },
+    { "w": "absorb", "pos": "verb", "pron": "/əbˈzɔːb/", "bn": "শোষণ করা", "en": "to take in", "ex": "forests absorb a lot of carbon dioxide" },
+    { "w": "storehouse", "pos": "noun", "pron": "/ˈstɔːhaʊs/", "bn": "ভাণ্ডার", "en": "a place where something is kept in large amounts", "ex": "an important storehouse of carbon dioxide" }
+  ],
+
+  "synant": [
+    { "w": "responsible", "bn": "দায়ী", "syn": ["accountable", "answerable", "liable"], "ant": ["irresponsible", "blameless"] },
+    { "w": "increase", "bn": "বৃদ্ধি", "syn": ["rise", "growth", "upsurge"], "ant": ["decrease", "decline", "reduction"] },
+    { "w": "crude", "bn": "অপরিশোধিত", "syn": ["unrefined", "raw", "natural"], "ant": ["refined", "processed", "polished"] },
+    { "w": "alarmingly", "bn": "আশঙ্কাজনকভাবে", "syn": ["worryingly", "dangerously"], "ant": ["reassuringly", "safely"] },
+    { "w": "enormous", "bn": "বিশাল", "syn": ["immense", "vast", "huge"], "ant": ["tiny", "minute"] },
+    { "w": "absorb", "bn": "শোষণ করা", "syn": ["take in", "soak up", "assimilate"], "ant": ["release", "emit", "expel"] },
+    { "w": "destroy", "bn": "ধ্বংস করা", "syn": ["demolish", "ruin", "wipe out"], "ant": ["build", "preserve", "conserve"] },
+    { "w": "generate", "bn": "উৎপন্ন করা", "syn": ["produce", "create", "give rise to"], "ant": ["consume", "absorb"] }
+  ],
+
+  "summaryEn": "Humans cannot change the sun's radiation or the earth's orbit, but they can control how much greenhouse gas enters the atmosphere. In only the last hundred years the concentration of carbon dioxide has risen alarmingly, and humans are responsible. The main cause is the burning of fossil fuels: since the end of the nineteenth century industrial activity has multiplied factories, which needed energy produced by burning coal, and besides coal, mineral oil and natural gas are burned to heat houses, run cars and aeroplanes and generate electricity — about 85 million barrels of crude oil every day. Each time a fossil fuel burns it releases carbon dioxide. Deforestation strengthens the effect further. Every year vast forests are cleared for wood, for mining and for pasture, and this causes a dual problem: burning trees release great volumes of carbon dioxide, while clearing them destroys the storehouse that would have absorbed carbon dioxide and given back oxygen.",
+  "summaryBn": "মানুষ সূর্যের বিকিরণ বা পৃথিবীর কক্ষপথ বদলাতে পারে না, কিন্তু বায়ুমণ্ডলে কত গ্রিনহাউস গ্যাস ঢুকবে তা নিয়ন্ত্রণ করতে পারে। কেবল গত একশো বছরেই কার্বন ডাই-অক্সাইডের ঘনত্ব আশঙ্কাজনকভাবে বেড়েছে, আর এর জন্য দায়ী মানুষ। প্রধান কারণ জীবাশ্ম জ্বালানি পোড়ানো: উনিশ শতকের শেষ থেকে শিল্পকর্মকাণ্ড বেড়ে বহু কারখানা গড়ে ওঠে, যাদের শক্তি আসত কয়লা পুড়িয়ে; কয়লা ছাড়া খনিজ তেল ও প্রাকৃতিক গ্যাসও পোড়ানো হয় ঘর গরম করতে, গাড়ি-বিমান চালাতে ও বিদ্যুৎ উৎপাদনে — প্রতিদিন প্রায় ৮৫ মিলিয়ন ব্যারেল অপরিশোধিত তেল। প্রতিবার জীবাশ্ম জ্বালানি পুড়লেই কার্বন ডাই-অক্সাইড নির্গত হয়। বন উজাড় এই প্রভাবকে আরও জোরদার করে। প্রতি বছর কাঠ, খনি ও চারণভূমির জন্য বিশাল বন সাফ করা হয়, আর এতে দ্বিমুখী সমস্যা হয়: গাছ পোড়ালে বিপুল কার্বন ডাই-অক্সাইড বের হয়, আর গাছ কাটলে সেই ভাণ্ডারই নষ্ট হয় যা কার্বন ডাই-অক্সাইড শোষণ করে অক্সিজেন ফিরিয়ে দিত।",
+  "summaryTip": "**তথ্যভিত্তিক passage-এ** কারণ ও ফলের শৃঙ্খল ধরে লেখো: ==কারখানা → জ্বালানি পোড়ানো → CO₂ → বন উজাড় → দ্বিমুখী ক্ষতি==। একটিমাত্র সংখ্যা রাখলে ৮৫ মিলিয়ন ব্যারেলটিই রাখো।",
+
+  "mcq": [
+    { "q": "What has alarmingly increased in the atmosphere?", "opts": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"], "ans": 1, "why": "‘the ==carbon dioxide== concentration has been raised alarmingly’।" },
+    { "q": "What is the main source of the emission of carbon dioxide?", "opts": ["Solar energy", "Fossil fuels", "Wind power", "Hydropower"], "ans": 1, "why": "‘The main cause … is the ==burning of fossil fuels==’। বাকি তিনটি নবায়নযোগ্য, CO₂ ছাড়ে না।" },
+    { "q": "What is the synonym of the word “responsible”?", "opts": ["accountable", "valuable", "agreeable", "reliable"], "ans": 0, "why": "responsible = দায়ী = ==accountable==। reliable মানে নির্ভরযোগ্য — কাছাকাছি শোনালেও ভিন্ন।" },
+    { "q": "What is a result of deforestation?", "opts": ["Oxygen increases", "Carbon dioxide decreases", "Greenhouse effect strengthens", "The temperature decreases"], "ans": 2, "why": "‘we are also ==strengthening the greenhouse effect== by deforestation’।" },
+    { "q": "What is the antonym of the word “increase”?", "opts": ["Decrease", "upraise", "upgrade", "demolish"], "ans": 0, "why": "increase-এর বিপরীত ==decrease==। upraise ও upgrade বৃদ্ধিই বোঝায়।" },
+    { "q": "What gas do trees absorb from the atmosphere?", "opts": ["Oxygen", "carbon dioxide", "Methane", "Nitrogen"], "ans": 1, "why": "‘forests ==absorb a lot of carbon dioxide== from the air and deliver oxygen instead’ — অক্সিজেন তারা দেয়, শোষণ করে না।" },
+    { "q": "What is the similar meaning of the word “crude”?", "opts": ["refined", "unrefined", "polished", "processed"], "ans": 1, "why": "crude oil = অপরিশোধিত তেল = ==unrefined==। বাকি তিনটি বিপরীত।" }
+  ],
+
+  "shortQ": [
+    { "q": "How do industrial activities contribute to the greenhouse effect?", "a": "They contribute by burning fuel on an enormous scale. Since the end of the nineteenth century industrial activity increased rapidly and gave rise to many factories, and those factories needed energy, which was produced through the combustion of coal. Besides coal, mineral oil and natural gas were burned as well. Every time such a fossil raw material is burned it releases carbon dioxide into the air, so industry steadily raises the amount of greenhouse gas in the atmosphere.", "bn": "বিপুল পরিমাণে জ্বালানি পুড়িয়ে তারা এতে ভূমিকা রাখে। উনিশ শতকের শেষ থেকে শিল্পকর্মকাণ্ড দ্রুত বেড়ে বহু কারখানা গড়ে ওঠে, আর সেই কারখানাগুলোর দরকার ছিল শক্তি, যা উৎপাদিত হতো কয়লা দহনের মাধ্যমে। কয়লা ছাড়াও খনিজ তেল ও প্রাকৃতিক গ্যাসও পোড়ানো হতো। প্রতিবার এমন জীবাশ্ম কাঁচামাল পোড়ালেই তা বাতাসে কার্বন ডাই-অক্সাইড ছাড়ে, তাই শিল্প ক্রমাগত বায়ুমণ্ডলে গ্রিনহাউস গ্যাসের পরিমাণ বাড়ায়।" },
+    { "q": "Why is deforestation considered harmful for the environment?", "a": "Because it harms the environment twice over. When trees are burned up they release large volumes of carbon dioxide straight into the air. At the same time, forests are what absorb carbon dioxide from the air and deliver oxygen in its place, so clearing them destroys an important storehouse of carbon dioxide. The passage calls this a dual problem: more gas is released and the natural means of removing it is lost.", "bn": "কারণ এটি পরিবেশের দুইভাবে ক্ষতি করে। গাছ পুড়িয়ে ফেলা হলে সেগুলো সরাসরি বাতাসে বিপুল পরিমাণ কার্বন ডাই-অক্সাইড ছেড়ে দেয়। একই সঙ্গে, বনই বাতাস থেকে কার্বন ডাই-অক্সাইড শোষণ করে বদলে অক্সিজেন দেয়, তাই বন সাফ করলে কার্বন ডাই-অক্সাইডের একটি গুরুত্বপূর্ণ ভাণ্ডার ধ্বংস হয়। প্যাসেজে এটিকে দ্বিমুখী সমস্যা বলা হয়েছে: গ্যাস বেশি বের হয়, আর তা সরানোর প্রাকৃতিক উপায়টিও হারিয়ে যায়।" },
+    { "q": "What is the relationship between trees and carbon dioxide?", "a": "Trees are the natural check on carbon dioxide. Forests absorb a great deal of it from the air and deliver oxygen instead, which is why the passage calls a forest a storehouse of carbon dioxide. The relationship works in the opposite direction as well: if the trees are burned, all the carbon they held is released back into the air. So a standing forest removes the gas, while a destroyed forest adds to it.", "bn": "গাছই কার্বন ডাই-অক্সাইডের প্রাকৃতিক নিয়ন্ত্রক। বন বাতাস থেকে প্রচুর পরিমাণে তা শোষণ করে এবং বদলে অক্সিজেন দেয় — এ কারণেই প্যাসেজে বনকে কার্বন ডাই-অক্সাইডের ভাণ্ডার বলা হয়েছে। সম্পর্কটি উল্টো দিকেও কাজ করে: গাছ পুড়িয়ে ফেলা হলে তাতে জমা থাকা সব কার্বন আবার বাতাসে ফিরে যায়। অর্থাৎ দাঁড়িয়ে থাকা বন গ্যাস কমায়, আর ধ্বংস হওয়া বন তা বাড়ায়।" },
+    { "q": "What are responsible for releasing carbon dioxide into the atmosphere?", "a": "Two things, according to the passage, and humans are behind both. The first is the burning of fossil fuels — coal in factories, and mineral oil and natural gas used to heat houses, run cars and aeroplanes and produce electricity, amounting to some 85 million barrels of crude oil a day. The second is deforestation, since trees that are burned up release large volumes of carbon dioxide. Every time a fossil raw material burns, carbon dioxide goes into the air.", "bn": "প্যাসেজ অনুযায়ী দুটি বিষয়, আর দুটির পেছনেই মানুষ। প্রথমটি জীবাশ্ম জ্বালানি পোড়ানো — কারখানায় কয়লা, আর ঘর গরম করতে, গাড়ি-বিমান চালাতে ও বিদ্যুৎ উৎপাদনে খনিজ তেল ও প্রাকৃতিক গ্যাস, যা দৈনিক প্রায় ৮৫ মিলিয়ন ব্যারেল অপরিশোধিত তেলে গিয়ে দাঁড়ায়। দ্বিতীয়টি বন উজাড়, কারণ পুড়িয়ে ফেলা গাছ বিপুল পরিমাণ কার্বন ডাই-অক্সাইড ছাড়ে। প্রতিবার জীবাশ্ম কাঁচামাল পুড়লেই বাতাসে কার্বন ডাই-অক্সাইড যায়।" },
+    { "q": "How much oil is burned every day all over the world?", "a": "About 85 million barrels of crude oil are burned every day. The passage gives this figure to show the scale of the problem: it is not occasional burning but a continuous, worldwide consumption, and since every burning of a fossil raw material releases carbon dioxide, that daily figure translates directly into a daily addition of greenhouse gas to the atmosphere.", "bn": "প্রতিদিন প্রায় ৮৫ মিলিয়ন ব্যারেল অপরিশোধিত তেল পোড়ানো হয়। সমস্যার মাত্রা বোঝাতেই প্যাসেজে এই সংখ্যাটি দেওয়া হয়েছে: এটি মাঝেমধ্যে পোড়ানো নয়, বরং অবিরাম ও বিশ্বব্যাপী ব্যবহার; আর যেহেতু প্রতিবার জীবাশ্ম কাঁচামাল পোড়ালেই কার্বন ডাই-অক্সাইড নির্গত হয়, তাই এই দৈনিক সংখ্যাটি সরাসরি বায়ুমণ্ডলে দৈনিক গ্রিনহাউস গ্যাস যোগ হওয়ার পরিমাণেই দাঁড়ায়।" }
+  ],
+
+  "gapFill": [
+    {
+      "title": "Energy, trees and carbon dioxide",
+      "body": "To run the daily activities, the world needs to produce **(a) ——**. To get this energy, the world burns a huge amount **(b) ——** crude oil every day. This burning emits millions of tons of carbon dioxide. Trees **(c) ——** this carbon dioxide and release **(d) ——** into the atmosphere. But people are also cutting down these trees **(e) ——** random.",
+      "items": [
+        { "no": "a", "ans": "energy", "why": "পরের বাক্যেই ‘To get this energy’ আছে — তাই শূন্যস্থানে energy।" },
+        { "no": "b", "ans": "of", "why": "‘a huge amount ==of== crude oil’ — amount-এর পরে of বসে।" },
+        { "no": "c", "ans": "absorb", "why": "‘forests ==absorb== a lot of carbon dioxide’ — passage-এর শব্দ।" },
+        { "no": "d", "ans": "oxygen", "why": "‘deliver ==oxygen== instead’।" },
+        { "no": "e", "ans": "at", "why": "==at== random = এলোপাতাড়ি — নির্দিষ্ট বাগধারা।" }
+      ]
+    }
+  ],
+
+  "tables": [
+    {
+      "title": "John Milton (প্রশ্ন ৪)",
+      "headers": ["Name of events", "Place", "Year / Time", "What / Contribution"],
+      "rows": [
+        ["Born", "(i) @in London", "in 1608", "—"],
+        ["Studied from 1617–1624", "(ii) @at Star Palace School and St Paul's School", "1617–1624", "—"],
+        ["(iii) @Took his M.A. degree", "at Christ College, Cambridge", "at 24", "—"],
+        ["Famous work", "—", "1665", "(iv) @Paradise Lost"],
+        ["Milton passed away", "—", "(v) @in 1674, nine years after its publication", "—"]
+      ],
+      "note": "সাল ও স্থান passage থেকে ==হুবহু== তুলবে। শেষ সারিটি হিসাব করে বের করতে হবে: ১৬৬৫ + ৯ = ==১৬৭৪==।"
+    }
+  ],
+
+  "matching": {
+    "title": "The role of women in nation building",
+    "items": [
+      { "a": "The role of woman in nation building", "match": "cannot be denied with the progress of civilization", "full": "The role of woman in nation building cannot be denied with the progress of civilization." },
+      { "a": "It is not possible", "match": "for any nation to reach its goal without allowing the women folk to play their active role", "full": "It is not possible for any nation to reach its goal without allowing the women folk to play their active role." },
+      { "a": "There was a time", "match": "when women were looked without any dignity and honour", "full": "There was a time when women were looked upon without any dignity and honour." },
+      { "a": "They were the only instrument", "match": "to serve the family affairs", "full": "They were the only instrument to serve the family affairs." },
+      { "a": "But the outlook and attitude of the world", "match": "towards women has changed any more in the situation of the world", "full": "But the outlook and attitude of the world towards women has changed in the situation of the world." }
+    ],
+    "note": "Column A-এর অংশটুকু পড়ে ==ব্যাকরণগতভাবে== কোনটি বসে সেটাই আগে দেখো — তারপর অর্থ মেলাও।"
+  },
+
+  "ordering": {
+    "heading": "The Fox and the Grapes",
+    "title": "As given — এলোমেলো বাক্যগুলো",
+    "items": [
+      { "key": "a", "text": "The fox thought of having a good meal of the ripe grapes." },
+      { "key": "b", "text": "After a while he came to a vineyard." },
+      { "key": "c", "text": "He consoled himself by saying that the grapes were sour and he did not want them." },
+      { "key": "d", "text": "Once a hungry fox was searching for food in the forest." },
+      { "key": "e", "text": "He was tempted by the fine bunches of ripe grapes." },
+      { "key": "f", "text": "The fox became tired and went away." },
+      { "key": "g", "text": "So he jumped and jumped to reach the grapes but it was too high for the fox to reach." },
+      { "key": "h", "text": "The grapes were hanging high." }
+    ],
+    "order": ["d", "b", "e", "a", "h", "g", "f", "c"],
+    "note": "গল্প সাজাতে ==ক্ষুধা → আঙুরবাগান → লোভ → লাফ → ক্লান্তি → সান্ত্বনা== এই ক্রম মনে রাখো।"
+  },
+
+  "literature": [
+    {
+      "no": "৮", "title": "Poems", "key": "Poems",
+      "items": [
+        { "q": "How does the poet narrate the modern world in \"O Me! O Life!\"?", "a": "He narrates it as a crowd without faith or purpose. He sees endless trains of the faithless, cities filled with the foolish, and himself among them, no better than the rest — a world of empty and useless days. The picture is deliberately bleak, so that the answer at the end lands harder: the powerful play goes on, and each of us may still contribute a verse to it.", "bn": "তিনি আধুনিক পৃথিবীকে বর্ণনা করেন বিশ্বাস ও উদ্দেশ্যহীন এক ভিড় হিসেবে। তিনি দেখেন বিশ্বাসহীন মানুষের অন্তহীন সারি, নির্বোধে ভরা শহর, আর তাদের মাঝে নিজেকেও — অন্যদের চেয়ে ভালো নয়; শূন্য ও নিষ্ফল দিনের এক জগৎ। ছবিটি সচেতনভাবেই বিষণ্ন, যাতে শেষের উত্তরটি আরও জোরে আঘাত করে: শক্তিশালী নাটকটি চলতেই থাকে, আর আমরা প্রত্যেকে তাতে একটি পঙ্‌ক্তি যোগ করতে পারি।" },
+        { "q": "What does the poet mean by \"melts away\" in the poem \"Books\"?", "a": "He means that the ordinary world dissolves the moment reading begins. Once a book is opened the room, the hour and the reader's own troubles stop being felt; they melt away and are replaced by whatever the book contains. The phrase describes how completely reading takes over the attention — not that the world is destroyed, but that it quietly stops mattering while the page holds you.", "bn": "তিনি বোঝাতে চান, পড়া শুরু হওয়ার মুহূর্তেই চারপাশের সাধারণ জগৎ মিলিয়ে যায়। বই একবার খুললে ঘর, সময় আর পাঠকের নিজের দুশ্চিন্তা আর অনুভূত হয় না; সেগুলো গলে মিশে যায় এবং তার জায়গা নেয় বইয়ের ভেতরের জগৎ। কথাটি বোঝায় পড়া কতটা সম্পূর্ণভাবে মনোযোগ দখল করে নেয় — জগৎ ধ্বংস হয় না, কিন্তু পৃষ্ঠা যতক্ষণ ধরে রাখে ততক্ষণ তা নীরবে অর্থহীন হয়ে যায়।" },
+        { "q": "What is the main message of the poem \"Two Mothers Remembered\"?", "a": "The message is that a mother is made by care, not only by birth. The speaker remembers two very different women — the one who gave her life and the one who raised her — and refuses to rank them. Each taught her what the other could not, and she says plainly that she is the sum of both. The poem asks us to be grateful to everyone who helped shape us.", "bn": "বার্তাটি হলো — মা তৈরি হয় যত্নে, কেবল জন্ম দিয়ে নয়। বক্তা দুই সম্পূর্ণ ভিন্ন নারীকে স্মরণ করেন — যিনি তাঁকে জীবন দিয়েছেন এবং যিনি তাঁকে বড় করেছেন — আর তাঁদের মধ্যে কে বড় সে বিচার করতে অস্বীকার করেন। প্রত্যেকে তাঁকে এমন কিছু শিখিয়েছেন যা অন্যজন শেখাতে পারতেন না, আর তিনি স্পষ্টই বলেন তিনি দুজনেরই যোগফল। কবিতাটি আমাদের গড়ে তুলতে সাহায্য করা প্রত্যেকের প্রতি কৃতজ্ঞ থাকতে বলে।" },
+        { "q": "What imagery does the poet use to describe the sands in \"The Sands of Dee\"?", "a": "The sands are drawn as wide, flat and treacherous. The western wind blows loud and wild across them, a blinding mist rolls in and hides the land, and the creeping tide comes up over the level sand so quietly that Mary cannot tell water from shore. The imagery makes the sands look empty and harmless while behaving like a trap, which is exactly how the poem turns an ordinary errand into a death.", "bn": "বালুচরকে আঁকা হয়েছে প্রশস্ত, সমতল ও বিশ্বাসঘাতক হিসেবে। এর ওপর দিয়ে পশ্চিমা বাতাস প্রবল ও উন্মত্তভাবে বয়, ঘন কুয়াশা নেমে এসে স্থলভাগ ঢেকে দেয়, আর হামাগুড়ি দেওয়া জোয়ার সমতল বালুর ওপর এত নিঃশব্দে উঠে আসে যে মেরি জল ও তীরের পার্থক্য বুঝতে পারে না। এই চিত্রকল্প বালুচরকে দেখতে ফাঁকা ও নিরীহ করে তোলে, অথচ তা ফাঁদের মতো আচরণ করে — এভাবেই কবিতাটি একটি সাধারণ কাজকে মৃত্যুতে পরিণত করে।" },
+        { "q": "What lesson does the poet teach in \"Solitude\"?", "a": "The lesson is that the world joins you in joy but leaves you alone in sorrow. Laugh, and the world laughs with you; weep, and it turns away, because sharing pleasure costs nothing while sharing grief costs time and patience. The poet does not say this bitterly — she says it as a fact to be prepared for, and the practical lesson is to build the strength to bear your own grief.", "bn": "শিক্ষাটি হলো — আনন্দে পৃথিবী আপনার সঙ্গে যোগ দেয়, কিন্তু দুঃখে একা ছেড়ে দেয়। হাসুন, পৃথিবী আপনার সঙ্গে হাসবে; কাঁদুন, সে মুখ ফিরিয়ে নেবে — কারণ আনন্দ ভাগ করতে কিছুই খরচ হয় না, অথচ শোক ভাগ করতে সময় ও ধৈর্য লাগে। কবি এটি বিদ্বেষ নিয়ে বলেন না; বলেন এমন এক সত্য হিসেবে যার জন্য প্রস্তুত থাকতে হয়, আর ব্যবহারিক শিক্ষাটি হলো নিজের শোক বহন করার শক্তি গড়ে তোলা।" },
+        { "q": "What role does the \"village\" play in \"Stopping by Woods on a Snowy Evening\"?", "a": "The village stands for the world of people and obligations. The owner of the woods lives there, and because his house is in the village he will not see the speaker stopping — which is precisely why the speaker feels free for a moment. The village is also where the promises he must keep are waiting. So it is both what he has escaped and what he must return to.", "bn": "গ্রামটি মানুষ ও দায়িত্বের জগতের প্রতীক। বনের মালিক সেখানেই থাকেন, আর তাঁর বাড়ি গ্রামে হওয়ায় তিনি বক্তার থেমে থাকা দেখবেন না — ঠিক এ কারণেই বক্তা কিছুক্ষণের জন্য মুক্ত বোধ করেন। আবার যে প্রতিশ্রুতিগুলো তাঁকে রক্ষা করতে হবে সেগুলোও অপেক্ষা করছে ঐ গ্রামেই। অর্থাৎ গ্রামটি একই সঙ্গে তিনি যা থেকে পালিয়েছেন এবং যেখানে তাঁকে ফিরতে হবে।" },
+        { "q": "How does the poet personify time in \"Time, You Old Gipsy Man\"?", "a": "He turns time into a gypsy traveller and speaks to him directly. Time is given a caravan, a finger for a golden ring and a will of his own, and he is asked to stop for just one day. Like a gypsy he owns no home, obeys no one and cannot be bought, so he passes through Babylon, Thebes and Rome without pausing. Personifying him makes an idea we cannot see into a figure we can argue with.", "bn": "তিনি সময়কে যাযাবর পরিব্রাজকে রূপ দিয়ে সরাসরি তার সঙ্গে কথা বলেন। সময়কে দেওয়া হয় কাফেলা, সোনার আংটি পরার আঙুল আর নিজের ইচ্ছা; আর তাকে অনুরোধ করা হয় অন্তত একটি দিনের জন্য থামতে। যাযাবরের মতোই তার কোনো ঘর নেই, কারও কথা শোনে না, তাকে কেনা যায় না — তাই সে ব্যাবিলন, থিবস ও রোমের ভেতর দিয়ে না থেমেই চলে যায়। এই রূপায়ণ এমন এক ধারণাকে, যা আমরা দেখতে পাই না, এমন এক চরিত্রে পরিণত করে যার সঙ্গে তর্ক করা যায়।" },
+        { "q": "What role does nature play in \"Solitude\"?", "a": "Nature is used as the mirror of the poem's argument. The air is said to be full of gladness that echoes back joyful sounds, while sorrow dies away unanswered; the hills echo laughter but the sound of grief is lost. By putting the same rule into the natural world, the poet suggests that this is not human unkindness but simply how the world works — pleasure is amplified, pain is absorbed.", "bn": "প্রকৃতিকে ব্যবহার করা হয়েছে কবিতার যুক্তির আয়না হিসেবে। বলা হয়, বাতাস আনন্দে ভরা — তা আনন্দের শব্দ প্রতিধ্বনিত করে ফিরিয়ে দেয়, অথচ শোক উত্তরহীন থেকে মিলিয়ে যায়; পাহাড় হাসির প্রতিধ্বনি তোলে, কিন্তু কান্নার শব্দ হারিয়ে যায়। একই নিয়মকে প্রাকৃতিক জগতে বসিয়ে কবি বোঝান, এটি মানুষের নিষ্ঠুরতা নয়, বরং পৃথিবীর চলার ধরনই এমন — আনন্দ বেড়ে যায়, বেদনা শুষে নেওয়া হয়।" }
+      ]
+    },
+    {
+      "no": "৯", "title": "Stories", "key": "Stories",
+      "items": [
+        { "q": "How does Sonabhan react after burying Moti in \"Mr Moti\"?", "a": "She reacts with a grief she cannot afford to show. Sonabhan is a poor widow who had raised the rooster to sell, and losing him means losing both a companion and the money she needed. She buries him and turns back to the work that will not wait, holding her sorrow in for her son's sake. Her restraint is the point: poverty leaves her no room even to mourn properly.", "bn": "তিনি এমন এক শোকে প্রতিক্রিয়া দেখান যা প্রকাশ করার সামর্থ্য তাঁর নেই। সোনাভান দরিদ্র বিধবা, মোরগটিকে তিনি বিক্রির জন্যই পালছিলেন, আর তাকে হারানো মানে একইসঙ্গে সঙ্গী ও প্রয়োজনীয় অর্থ দুটোই হারানো। তিনি তাকে কবর দিয়ে ফিরে যান সেই কাজে যা অপেক্ষা করবে না, আর ছেলের জন্য শোকটুকু ভিতরেই চেপে রাখেন। এই সংযমই মূল কথা: দারিদ্র্য তাঁকে ঠিকমতো শোক করার অবকাশটুকুও দেয় না।" },
+        { "q": "What did Amitav Ghosh do during the cyclone to protect himself?", "a": "Caught in the storm in Delhi, he found himself in the path of a sudden and violent whirlwind. He took shelter as best he could — putting solid walls between himself and the wind, keeping away from glass and the open, and waiting for it to pass rather than trying to escape through it. His survival came from taking cover quickly, and the experience is what later made him write about how unprepared we are for such events.", "bn": "দিল্লিতে ঝড়ের মুখে পড়ে তিনি হঠাৎ ও প্রচণ্ড এক ঘূর্ণিবাতাসের পথেই নিজেকে আবিষ্কার করেন। যতটা সম্ভব আশ্রয় নেন — নিজের ও বাতাসের মাঝে শক্ত দেয়াল রাখেন, কাচ ও খোলা জায়গা থেকে দূরে থাকেন, আর তার ভেতর দিয়ে পালানোর চেষ্টা না করে অপেক্ষা করেন যতক্ষণ না তা কেটে যায়। দ্রুত আশ্রয় নেওয়াই তাঁকে বাঁচায়, আর এই অভিজ্ঞতাই পরে তাঁকে লিখতে বাধ্য করে যে এমন ঘটনার জন্য আমরা কতটা অপ্রস্তুত।" },
+        { "q": "How does Rosamond's mother teach her a lesson in \"The Purple Jar\"?", "a": "She teaches it by letting her learn it herself. She sets out the choice honestly — the shoes Rosamond truly needs or the purple jar she has fallen in love with, but not both — warns her that she must live with the result for a month, and then leaves the decision to the child. Rosamond chooses the jar, finds it colourless and foul-smelling once emptied, and spends the month in broken shoes. A forbidden jar would have taught nothing; a chosen one taught everything.", "bn": "তিনি শিক্ষাটি দেন নিজে শিখতে দিয়ে। তিনি সততার সঙ্গে বিকল্প সাজিয়ে দেন — রোজামন্ডের সত্যিকারের প্রয়োজনীয় জুতো, নাকি যে বেগুনি জারটির প্রেমে সে পড়েছে, কিন্তু দুটো নয় — সতর্ক করেন যে ফলাফল এক মাস ভোগ করতে হবে, তারপর সিদ্ধান্তটি শিশুটির হাতেই ছেড়ে দেন। রোজামন্ড জারটি বেছে নেয়, খালি করার পর দেখে তা বর্ণহীন ও দুর্গন্ধযুক্ত, আর গোটা মাস কাটায় ছেঁড়া জুতোয়। নিষিদ্ধ করা জার কিছুই শেখাত না; বেছে নেওয়া জার সবকিছু শিখিয়ে দিল।" },
+        { "q": "How does Portia's wisdom save Antonio?", "a": "She wins by reading the bond more carefully than the man who wrote it. Disguised as a young lawyer, she first begs Shylock for mercy, and when he refuses she grants his claim exactly: he may take a pound of Antonio's flesh — but the bond gives him not one drop of blood, and not a grain more or less than a pound. Since flesh cannot be cut without blood, the bond becomes impossible to carry out and Antonio goes free.", "bn": "যিনি দলিলটি লিখেছেন তাঁর চেয়েও মনোযোগ দিয়ে দলিল পড়েই তিনি জেতেন। তরুণ আইনজীবীর ছদ্মবেশে প্রথমে তিনি শাইলকের কাছে দয়া প্রার্থনা করেন; তিনি অস্বীকার করলে পোর্শিয়া তাঁর দাবিটি হুবহু মেনে নেন: তিনি অ্যান্টোনিওর এক পাউন্ড মাংস নিতে পারেন — কিন্তু দলিল তাঁকে এক ফোঁটা রক্তও দেয়নি, আর এক পাউন্ডের চেয়ে এক কণা বেশি বা কমও নয়। রক্ত ছাড়া যেহেতু মাংস কাটা যায় না, দলিলটি কার্যকর করা অসম্ভব হয়ে পড়ে এবং অ্যান্টোনিও মুক্তি পান।" },
+        { "q": "What emotions did Mrs Mallard experience when she whispered, \"Free, free, free\"?", "a": "She experienced relief and a frightening joy. Sitting alone before the open window she felt something approaching that she was at first afraid to name; when it took hold of her she whispered the word over and over. Her pulse beat fast, her body felt warm and relaxed, and she saw the coming years as her own, to be lived for herself alone. There was no guilt in it — she recognised the feeling as freedom and welcomed it.", "bn": "তিনি অনুভব করেন মুক্তির স্বস্তি আর এক ভীতিকর আনন্দ। খোলা জানালার সামনে একা বসে তিনি টের পান কিছু একটা এগিয়ে আসছে, যার নাম দিতে প্রথমে তিনি ভয় পান; সেটি তাঁকে গ্রাস করলে তিনি বারবার শব্দটি ফিসফিস করে বলতে থাকেন। তাঁর নাড়ি দ্রুত চলে, শরীর উষ্ণ ও শিথিল লাগে, আর সামনের বছরগুলোকে তিনি দেখেন নিজের বলে — কেবল নিজের জন্যই কাটাবেন। এতে কোনো অপরাধবোধ ছিল না; তিনি অনুভূতিটিকে স্বাধীনতা বলে চিনে নিয়ে স্বাগত জানান।" },
+        { "q": "What type of merchandise did Antonio's ships carry?", "a": "Antonio was a merchant of Venice whose wealth travelled by sea in trading ships, carrying valuable cargo — spices, silks and other goods — to and from distant ports. That is exactly why he had no ready money when Bassanio needed three thousand ducats: his whole fortune was at sea and none of the ships had yet returned. So he borrowed on his own credit from Shylock, and the fear that his ships were lost is what put his life in danger.", "bn": "অ্যান্টোনিও ছিলেন ভেনিসের বণিক, যাঁর সম্পদ সমুদ্রপথে বাণিজ্যতরীতে চলত — মসলা, রেশম ও অন্যান্য মূল্যবান পণ্য নিয়ে দূরের বন্দরে যাওয়া-আসা করত। ঠিক এ কারণেই ব্যাসানিওর তিন হাজার ডুকাট দরকার হলে তাঁর হাতে নগদ ছিল না: তাঁর সমস্ত সম্পদ ছিল সমুদ্রে, একটি জাহাজও তখনও ফেরেনি। তাই তিনি নিজের জামিনে শাইলকের কাছ থেকে ধার নেন, আর জাহাজগুলো হারিয়ে গেছে এই আশঙ্কাই তাঁর জীবন বিপন্ন করে তোলে।" },
+        { "q": "What was the ultimate consequence of Rosamond's decision to buy the jar?", "a": "She lost twice over. The jar, once the dark liquid was poured out, proved to be plain colourless glass with an unpleasant smell, so the beauty she had paid for simply vanished. And because she had spent her money on it she had to wear her worn-out shoes for a whole month, unable to walk comfortably or go out with her father. The thing she chose turned out worthless and the thing she refused turned out necessary.", "bn": "তার ক্ষতি হয় দুইবার। জারটি থেকে গাঢ় তরল ঢেলে ফেলার পর সেটি সাদামাটা বর্ণহীন কাচ বলে প্রমাণিত হয়, গন্ধও ছিল অপ্রীতিকর — অর্থাৎ যে সৌন্দর্যের জন্য সে মূল্য দিয়েছিল তা মিলিয়েই যায়। আর টাকাটা এতেই খরচ করায় তাকে গোটা এক মাস ছেঁড়া জুতো পরে থাকতে হয়, স্বচ্ছন্দে হাঁটতে বা বাবার সঙ্গে বাইরে যেতে না পেরে। যা সে বেছে নিয়েছিল তা মূল্যহীন প্রমাণিত হলো, আর যা প্রত্যাখ্যান করেছিল তা অপরিহার্য।" },
+        { "q": "What role does nature play in the story \"The Great Derangement\"?", "a": "Nature is not scenery here but a force that acts. The sudden Delhi whirlwind arrives without warning, behaves in a way no one expected of that city, and leaves the writer realising how little our habits and our stories have prepared us for it. Nature in this piece is the thing we have stopped taking seriously, and the derangement of the title is our own refusal to imagine that it can act on us at all.", "bn": "এখানে প্রকৃতি নিছক দৃশ্যপট নয়, বরং এক সক্রিয় শক্তি। দিল্লির আকস্মিক ঘূর্ণিবাতাস কোনো সতর্কবার্তা ছাড়াই আসে, এমন আচরণ করে যা ঐ শহরের কাছ থেকে কেউ প্রত্যাশা করেনি, আর লেখককে বুঝিয়ে দিয়ে যায় আমাদের অভ্যাস ও আমাদের গল্পগুলো এর জন্য আমাদের কত কম প্রস্তুত করেছে। এই লেখায় প্রকৃতি সেই বিষয়, যাকে আমরা আর গুরুত্ব দিই না; আর শিরোনামের ‘বিভ্রান্তি’ আসলে আমাদেরই — প্রকৃতি আমাদের ওপর কিছু করতে পারে, এটুকু কল্পনা করতেই আমাদের অস্বীকৃতি।" }
+      ]
+    }
+  ],
+
+  "extras": [
+    {
+      "title": "Cause and effect chain <span class='sub'>— প্যাসেজের যুক্তির শৃঙ্খল</span>",
+      "key": "Chain",
+      "table": {
+        "headers": ["ধাপ", "কী ঘটে", "ফল"],
+        "rows": [
+          ["১", "উনিশ শতকের শেষে শিল্পকর্মকাণ্ড বৃদ্ধি", "বহু কারখানা গড়ে ওঠে"],
+          ["২", "কারখানার শক্তির দরকার", "কয়লা দহন"],
+          ["৩", "খনিজ তেল ও প্রাকৃতিক গ্যাসও পোড়ানো", "ঘর গরম, গাড়ি-বিমান, বিদ্যুৎ"],
+          ["৪", "দৈনিক ~৮৫ মিলিয়ন ব্যারেল অপরিশোধিত তেল", "প্রতিবারই CO₂ নির্গমন"],
+          ["৫", "বন উজাড় — কাঠ, খনি, চারণভূমি", "দ্বিমুখী ক্ষতি"],
+          ["৫ক", "পোড়া গাছ", "বিপুল CO₂ নির্গত"],
+          ["৫খ", "বন ধ্বংস", "CO₂ শোষণের ভাণ্ডার হারানো"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "🚫", "t": "যা বদলানো যায় না", "type": "warn", "d": "==সূর্যের বিকিরণ== ও ==পৃথিবীর কক্ষপথ== — এই দুটি মানুষের হাতে নেই। প্রশ্নে ‘cannot change’ থাকলে উত্তর এই দুটিই।" },
+    { "em": "🌳", "t": "গাছ কী শোষণ করে, কী দেয়", "type": "warn", "d": "শোষণ করে ==কার্বন ডাই-অক্সাইড==, দেয় ==অক্সিজেন==। MCQ-তে উল্টো করে ফাঁদ পাতা হয়।" },
+    { "em": "2️⃣", "t": "dual problem মানে দুটি", "d": "==পোড়ালে CO₂ বের হয়== আর ==শোষণের ভাণ্ডার নষ্ট হয়== — দুটোই লিখলে পূর্ণ নম্বর।" },
+    { "em": "🛢️", "t": "সংখ্যাটি মনে রাখো", "d": "দৈনিক ==৮৫ মিলিয়ন ব্যারেল== অপরিশোধিত তেল — এটিই passage-এর একমাত্র বড় সংখ্যা।" },
+    { "em": "🔤", "t": "তিনটি শব্দার্থ প্রশ্ন", "d": "responsible = ==accountable== · increase-এর বিপরীত = ==decrease== · crude = ==unrefined==।" }
+  ],
+
+  "recap": [
+    "সূর্যের বিকিরণ ও কক্ষপথ বদলানো যায় না; গ্রিনহাউস গ্যাস নিয়ন্ত্রণ করা যায়।",
+    "গত একশো বছরে CO₂-এর ঘনত্ব আশঙ্কাজনকভাবে বেড়েছে — দায়ী মানুষ।",
+    "প্রধান কারণ জীবাশ্ম জ্বালানি: কারখানায় কয়লা, আর খনিজ তেল ও প্রাকৃতিক গ্যাস।",
+    "দৈনিক প্রায় ৮৫ মিলিয়ন ব্যারেল অপরিশোধিত তেল পোড়ানো হয়।",
+    "বন উজাড়ের দ্বিমুখী ক্ষতি: পোড়া গাছ CO₂ ছাড়ে, আর শোষণের ভাণ্ডারও নষ্ট হয়।"
+  ],
+
+  "homework": [
+    "Cause and effect chain-এর ৭টি ধাপ না দেখে লিখে আনবে।",
+    "৭টি MCQ-র উত্তর ব্যাখ্যাসহ খাতায় লিখবে।",
+    "Gap filling ও Milton-এর টেবিল নিজে পূরণ করবে।",
+    "Summary ১৩০-১৫০ শব্দে নিজের ভাষায় লিখে আনবে।"
+  ]
+}

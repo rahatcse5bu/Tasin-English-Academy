@@ -1,5 +1,6 @@
 import { Body, Controller, Delete, Get, Param, Patch, Post, UseGuards } from '@nestjs/common';
 import { UsersService } from './users.service';
+import { CreateStudentDto } from './users.dto';
 import { CurrentUser, JwtAuthGuard, Roles, RolesGuard } from '../common/guards';
 
 @Controller('users')
@@ -37,6 +38,13 @@ export class UsersController {
   @Roles('admin')
   createStaff(@Body() body: { name: string; email: string; password: string; role?: 'teacher' | 'admin' }) {
     return this.users.createStaff(body);
+  }
+
+  /** Admin enrols a student, with the whole record filled in at once. */
+  @Post('student')
+  @Roles('admin')
+  createStudent(@Body() dto: CreateStudentDto) {
+    return this.users.createStudent(dto);
   }
 
   @Patch(':id')

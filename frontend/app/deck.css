@@ -999,3 +999,15 @@
 .tea-deck .ord-step.revealed { border-color: var(--ok); background: var(--ok-bg); }
 .tea-deck .ord-arrow { color: var(--ink-3); font-weight: 700; }
 .tea-deck .gap-body { line-height: 1.9; font-size: 18px; }
+
+/* a student's questions-only copy says so, once, under the toolbar */
+.tea-deck .lock-note {
+  flex: 0 0 auto;
+  padding: 6px 16px;
+  background: var(--amber-100);
+  border-bottom: 1px solid var(--line);
+  color: var(--amber-600);
+  font-family: var(--font-bn);
+  font-size: 13px;
+  font-weight: 700;
+}

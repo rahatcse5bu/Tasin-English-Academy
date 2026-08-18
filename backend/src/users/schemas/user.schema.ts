@@ -23,8 +23,41 @@ export class User {
   @Prop()
   institution?: string; // school/college name
 
+  /**
+   * The class a student sits for. Named `level` since the app was built, and
+   * kept that way so existing records and the dashboard keep working; the UI
+   * calls it "ক্লাস". Matches the deck `classId` values (SSC, HSC).
+   */
   @Prop({ enum: ['SSC', 'HSC', 'Other'] })
   level?: string;
+
+  /** e.g. "2025-26" — which academic session the student was admitted for */
+  @Prop()
+  session?: string;
+
+  /** the batch as the academy writes it on a form, before enrolment is done */
+  @Prop()
+  batchName?: string;
+
+  /** admission or roll number the academy uses on paper */
+  @Prop()
+  studentId?: string;
+
+  @Prop()
+  guardianName?: string;
+
+  @Prop()
+  guardianPhone?: string;
+
+  /* ---- where the student is from ---- */
+  @Prop()
+  division?: string;
+
+  @Prop()
+  district?: string;
+
+  @Prop()
+  upazila?: string;
 
   @Prop()
   address?: string;

@@ -4,7 +4,8 @@ import { Model } from 'mongoose';
 import { Deck as DeckContent, DECKS, MANIFEST } from './decks.data';
 import { Deck as DeckDoc, DeckDocument } from './schemas/deck.schema';
 import { seedDecks } from './decks.seed';
-import { ContentDto, PlacementDto, UnitDto } from './decks.dto';
+import { ContentDto, PlacementDto, ShareDto, UnitDto } from './decks.dto';
+import { forStudent } from './decks.share';
 
 /**
  * How many things a mentor can actually teach from this chapter.
@@ -76,16 +77,22 @@ export class DecksService implements OnModuleInit {
    * chapter you cannot see is a chapter you cannot un-hide. Deleted ones are
    * excluded unless explicitly asked for.
    */
-  private async published(opts: { deleted?: boolean } = {}) {
+  private async published(opts: { deleted?: boolean; studentOnly?: boolean } = {}) {
+    const where: Record<string, any> = { isDeleted: opts.deleted ? true : { $ne: true } };
+    // a student sees a chapter only once someone has deliberately shared it
+    if (opts.studentOnly) {
+      where['share.enabled'] = true;
+      where.isPublished = true;
+    }
     return this.model
-      .find({ isDeleted: opts.deleted ? true : { $ne: true } })
-      .sort({ paperOrder: 1, unitOrder: 1, lessonNo: 1, order: 1 })
+      .find(where)
+      .sort({ classOrder: 1, paperOrder: 1, unitOrder: 1, lessonNo: 1, order: 1 })
       .lean();
   }
 
   /** The library: papers → units → chapters, each with teaching counts. */
-  async catalogue(deleted = false) {
-    const docs = await this.published({ deleted });
+  async catalogue(deleted = false, studentOnly = false) {
+    const docs = await this.published({ deleted, studentOnly });
 
     const papers: any[] = [];
     for (const d of docs) {
@@ -93,6 +100,9 @@ export class DecksService implements OnModuleInit {
       if (!paper) {
         paper = {
           id: d.paperId,
+          classId: d.classId || 'hsc',
+          className: d.className || 'HSC',
+          classNameBn: d.classNameBn,
           name: d.paperName,
           nameBn: d.paperNameBn,
           blurb: d.paperBlurb,
@@ -127,6 +137,13 @@ export class DecksService implements OnModuleInit {
         available: true,
         hidden: d.isPublished === false,
         deleted: d.isDeleted === true,
+        share: studentOnly
+          ? undefined
+          : {
+              enabled: !!d.share?.enabled,
+              sections: d.share?.sections || [],
+              withAnswers: !!d.share?.withAnswers,
+            },
         minutes: d.minutes ?? null,
         marks: d.marks ?? null,
         answers: answerCount(content),
@@ -139,8 +156,8 @@ export class DecksService implements OnModuleInit {
   }
 
   /** Flat list — handy for search boxes and for prerendering routes. */
-  async index() {
-    const docs = await this.published();
+  async index(studentOnly = false) {
+    const docs = await this.published({ studentOnly });
     return docs.map((d) => ({
       id: d.slug,
       title: d.title,
@@ -149,6 +166,8 @@ export class DecksService implements OnModuleInit {
       level: d.level,
       paper: d.paperId,
       paperName: d.paperName,
+      classId: d.classId || 'hsc',
+      className: d.className || 'HSC',
       unit: d.unitNo,
       unitName: d.unitName,
       unitNameBn: d.unitNameBn,
@@ -158,17 +177,25 @@ export class DecksService implements OnModuleInit {
   }
 
   /** The full teaching content of one chapter. */
-  async get(id: string): Promise<DeckContent> {
-    const d = await this.model.findOne({ slug: id, isDeleted: { $ne: true } }).lean();
+  async get(id: string, studentOnly = false): Promise<DeckContent> {
+    const where: Record<string, any> = { slug: id, isDeleted: { $ne: true } };
+    if (studentOnly) {
+      where['share.enabled'] = true;
+      where.isPublished = true;
+    }
+    const d = await this.model.findOne(where).lean();
     if (!d) {
       // a chapter can exist in the bundle but not yet in the DB (fresh deploy)
-      if (DECKS[id]) return DECKS[id];
+      // the bundled fallback is staff-only; an unshared chapter must 404 for a
+      // student rather than quietly fall through to the full lesson
+      if (!studentOnly && DECKS[id]) return DECKS[id];
       throw new NotFoundException('Deck not found');
     }
     // the placement lives on the document, so a teacher's correction shows up in
     // the deck's breadcrumb and cover without the content JSON being rewritten
+    const content = studentOnly ? forStudent(d.content as any, d.share) : (d.content as DeckContent);
     return {
-      ...(d.content as DeckContent),
+      ...(content as DeckContent),
       unit: d.unitNo,
       unitName: d.unitName,
       lesson: d.lessonNo,
@@ -178,8 +205,8 @@ export class DecksService implements OnModuleInit {
   }
 
   /** Previous / next chapter within the same paper, for in-deck navigation. */
-  async neighbours(id: string) {
-    const flat = await this.index();
+  async neighbours(id: string, studentOnly = false) {
+    const flat = await this.index(studentOnly);
     const i = flat.findIndex((c) => c.id === id);
     if (i < 0) throw new NotFoundException('Deck not found');
     const samePaper = flat.filter((c) => c.paper === flat[i].paper);
@@ -527,6 +554,39 @@ export class DecksService implements OnModuleInit {
         `${(content.drills || []).reduce((n: number, d: any) => n + d.items.length, 0)} drill items`,
     );
     return { slug, stats: stats(content), answers: answerCount(content) };
+  }
+
+  /* ------------------------------------------------------------------
+     Sharing with students
+     ------------------------------------------------------------------ */
+
+  /**
+   * Open a chapter to students, in part or in whole.
+   *
+   * Turning it off leaves the chosen sections recorded, so a chapter can be
+   * closed after class and reopened before the exam without setting it all up
+   * again. Sharing with no sections named shares nothing — that is deliberate,
+   * since an empty tick list should not mean "everything".
+   */
+  async setShare(slug: string, dto: ShareDto, by?: string) {
+    const deck: any = await this.model.findOne({ slug });
+    if (!deck) throw new NotFoundException('Deck not found');
+
+    const share = {
+      enabled: dto.enabled,
+      sections: dto.sections ?? deck.share?.sections ?? [],
+      withAnswers: dto.withAnswers ?? deck.share?.withAnswers ?? false,
+      sharedBy: by ?? deck.share?.sharedBy,
+      sharedAt: new Date(),
+    };
+    deck.share = share;
+    await deck.save();
+
+    this.logger.log(
+      `share: ${slug} → ${share.enabled ? 'on' : 'off'} · ` +
+        `${share.sections.length} sections · answers ${share.withAnswers ? 'shown' : 'hidden'}`,
+    );
+    return { slug, share };
   }
 
   /* ------------------------------------------------------------------

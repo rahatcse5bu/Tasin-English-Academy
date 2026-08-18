@@ -8,6 +8,7 @@ import Protected from '@/components/Protected';
 import { bnNum } from '@/lib/format';
 import { plain } from '@/lib/deck/text';
 import PlacementEditor from '@/components/decks/PlacementEditor';
+import ShareDialog from '@/components/decks/ShareDialog';
 import type { ChapterMeta, DeckCatalogue, DeckUnit, UnitSummary } from '@/lib/deck/types';
 
 const LEVEL_BN: Record<string, string> = { Easy: 'সহজ', Medium: 'মাঝারি', Hard: 'কঠিন' };
@@ -18,7 +19,8 @@ const LEVEL_CLASS: Record<string, string> = {
 };
 
 function DecksLibrary() {
-  const { token } = useAuth();
+  const { token, user } = useAuth();
+  const staff = user?.role === 'teacher' || user?.role === 'admin';
   const [data, setData] = useState<DeckCatalogue | null>(null);
   const [err, setErr] = useState(false);
   const [paper, setPaper] = useState(0);
@@ -27,6 +29,8 @@ function DecksLibrary() {
   // syllabus editing — staff correct which unit / lesson a chapter belongs to
   const [edit, setEdit] = useState(false);
   const [unitList, setUnitList] = useState<UnitSummary[]>([]);
+  const [sharing, setSharing] = useState<ChapterMeta | null>(null);
+  const [cls, setCls] = useState<string | null>(null);
   const [editing, setEditing] = useState<
     { mode: 'unit' | 'chapter'; unit: DeckUnit; chapter?: ChapterMeta } | null
   >(null);
@@ -101,6 +105,14 @@ function DecksLibrary() {
 
   const totalChapters = data.papers.reduce((n, p) => n + p.chapterCount, 0);
 
+  /** Distinct classes, in the order the API returned them. */
+  const classes = data.papers.reduce((a: { id: string; name: string }[], p) => {
+    const id = p.classId || 'hsc';
+    if (!a.some((c) => c.id === id)) a.push({ id, name: p.className || 'HSC' });
+    return a;
+  }, []);
+  const activeClass = cls ?? (active.classId || 'hsc');
+
   /** A unit's chapters grouped by lesson; units without lessons yield one group. */
   const lessons = (u: DeckUnit) => {
     const groups: { lesson: number | null; chapters: ChapterMeta[] }[] = [];
@@ -143,14 +155,16 @@ function DecksLibrary() {
             {bin ? '← ক্লাসের তালিকায় ফিরুন' : '🗑 মুছে ফেলা অধ্যায়'}
           </button>
         )}
+        {staff && (
         <button
           onClick={() => setEdit(!edit)}
           className={`badge transition ${
             edit ? 'bg-brand-600 text-white' : 'bg-white border border-slate-300 text-slate-600 hover:border-brand-400'
           }`}
         >
-          {edit ? '✓ সিলেবাস সম্পাদনা চালু' : '✎ সিলেবাস সম্পাদনা'}
+          {edit ? '✓ সম্পাদনা ও শেয়ার চালু' : '✎ সম্পাদনা ও শেয়ার'}
         </button>
+        )}
       </div>
 
       {edit && (
@@ -160,9 +174,32 @@ function DecksLibrary() {
         </p>
       )}
 
+      {/* class tabs — SSC, HSC … */}
+      {classes.length > 1 && (
+        <div className="mt-6 flex flex-wrap gap-2">
+          {classes.map((c) => (
+            <button
+              key={c.id}
+              onClick={() => {
+                setCls(c.id);
+                const first = data.papers.findIndex((p) => (p.classId || 'hsc') === c.id);
+                if (first >= 0) setPaper(first);
+              }}
+              className={`rounded-full border px-4 py-1.5 text-sm font-semibold transition ${
+                activeClass === c.id
+                  ? 'bg-slate-900 border-slate-900 text-white'
+                  : 'bg-white border-slate-300 text-slate-700 hover:border-slate-500'
+              }`}
+            >
+              {c.name}
+            </button>
+          ))}
+        </div>
+      )}
+
       {/* paper tabs */}
       <div className="mt-7 flex flex-wrap gap-2">
-        {data.papers.map((p, idx) => (
+        {data.papers.map((p, idx) => (p.classId || 'hsc') !== activeClass ? null : (
           <button
             key={p.id}
             onClick={() => setPaper(idx)}
@@ -322,6 +359,17 @@ function DecksLibrary() {
         </section>
       ))}
 
+      {sharing && (
+        <ShareDialog
+          chapter={sharing}
+          onClose={() => setSharing(null)}
+          onSaved={() => {
+            setSharing(null);
+            reload();
+          }}
+        />
+      )}
+
       {editing && (
         <PlacementEditor
           mode={editing.mode}
@@ -343,7 +391,7 @@ function DecksLibrary() {
 export default function DecksPage() {
   // teaching slides — mentors and admins only
   return (
-    <Protected roles={['teacher', 'admin']}>
+    <Protected roles={['teacher', 'admin', 'student']}>
       <DecksLibrary />
     </Protected>
   );

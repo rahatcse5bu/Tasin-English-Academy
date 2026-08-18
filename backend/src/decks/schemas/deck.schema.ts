@@ -18,6 +18,24 @@ export class Deck {
   @Prop({ required: true, unique: true, index: true })
   slug: string;
 
+  /* ---- class ---- */
+  /**
+   * SSC, HSC, … — the level the chapter is taught at. Kept apart from the paper
+   * because "1st Paper" means a different syllabus at each level, and nothing
+   * could filter by level while the two were smuggled into one id.
+   */
+  @Prop({ required: true, index: true, default: 'hsc' })
+  classId: string;
+
+  @Prop({ required: true, default: 'HSC' })
+  className: string;
+
+  @Prop()
+  classNameBn?: string;
+
+  @Prop({ default: 0 })
+  classOrder: number;
+
   /* ---- paper ---- */
   @Prop({ required: true, index: true })
   paperId: string; // paper1 | paper2
@@ -111,6 +129,33 @@ export class Deck {
   @Prop({ default: false })
   isDeleted: boolean;
 
+  /**
+   * What a student is allowed to see, if anything.
+   *
+   * `sections` names parts of the lesson (passage, mcq, summary …) rather than
+   * slide numbers, because slide numbers shift the moment a chapter is edited.
+   * `withAnswers` decides whether the answers travel at all — when it is false
+   * the server strips them out before responding, so they are never in the
+   * payload for a student to read.
+   */
+  @Prop({
+    type: {
+      enabled: { type: Boolean, default: false },
+      sections: { type: [String], default: [] },
+      withAnswers: { type: Boolean, default: false },
+      sharedBy: String,
+      sharedAt: Date,
+    },
+    default: () => ({ enabled: false, sections: [], withAnswers: false }),
+  })
+  share: {
+    enabled: boolean;
+    sections: string[];
+    withAnswers: boolean;
+    sharedBy?: string;
+    sharedAt?: Date;
+  };
+
   /** the full teaching content — shape depends on the lesson type */
   @Prop({ type: MongooseSchema.Types.Mixed, required: true })
   content: Record<string, any>;
@@ -120,4 +165,6 @@ export type DeckDocument = Deck & Document;
 export const DeckSchema = SchemaFactory.createForClass(Deck);
 
 // the library lists chapters paper → unit → chapter, so index that path
-DeckSchema.index({ paperOrder: 1, unitOrder: 1, lessonNo: 1, order: 1 });
+DeckSchema.index({ classOrder: 1, paperOrder: 1, unitOrder: 1, lessonNo: 1, order: 1 });
+// students only ever list what has been shared with them
+DeckSchema.index({ 'share.enabled': 1 });

@@ -44,6 +44,11 @@ export async function seedDecks(
         }
 
         const doc = {
+          classId: paper.classId || 'hsc',
+          className: paper.className || 'HSC',
+          classNameBn: paper.classNameBn,
+          classOrder: paper.classOrder ?? 0,
+
           paperId: paper.id,
           paperName: paper.name,
           paperNameBn: paper.nameBn,
@@ -86,7 +91,15 @@ export async function seedDecks(
 
         await model.updateOne(
           { slug: meta.id },
-          { $set: set, $setOnInsert: { slug: meta.id, isPublished: true } },
+          {
+            $set: set,
+            // a share is a decision about students, never re-derived from a seed
+            $setOnInsert: {
+              slug: meta.id,
+              isPublished: true,
+              share: { enabled: false, sections: [], withAnswers: false },
+            },
+          },
           { upsert: true },
         );
         existing ? updated++ : created++;

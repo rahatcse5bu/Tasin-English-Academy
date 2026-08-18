@@ -1,0 +1,244 @@
+{
+  "id": "ssc-loneliness",
+  "paper": "ssc1",
+  "paperName": "SSC English 1st Paper",
+  "unit": "Unit 13",
+  "unitName": "Mental Health",
+  "lesson": 1,
+  "title": "Loneliness — A Universal Emotion",
+  "titleBn": "নিঃসঙ্গতা",
+  "lede": "নিঃসঙ্গতা আর একা থাকা এক নয় — একটি অনুভূতি, অন্যটি অবস্থা। APA-র সংজ্ঞা, Cigna-র ২০২০ সমীক্ষা ও নিনা ভাসানের ব্যাখ্যা, SSC Reading Test-এর ৯টি প্রশ্নসহ।",
+  "qType": "SSC Reading Test — Q.1-9",
+  "minutes": 45,
+  "marks": "70",
+  "objectives": [
+    { "t": "Define loneliness in the APA's words", "d": "affective and cognitive discomfort from being or perceiving oneself alone" },
+    { "t": "Separate loneliness from being alone", "d": "একটি feeling, অন্যটি situation বা state of being" },
+    { "t": "Quote the study correctly", "d": "Cigna 2020 — ২০১৯-এ ৬১%, ২০১৮-এ ৫৪%" },
+    { "t": "Answer word-meaning MCQ", "d": "solitary, pervasive, uneasiness" }
+  ],
+
+  "passage": [
+    {
+      "tag": "Paragraph 1 — You are not alone in feeling it",
+      "s": [
+        { "en": "Loneliness is a ==universal emotion that most of us experience at least once during our lifetime==, although certain events, such as an ==illness or a pandemic==, can make it feel more ==pervasive==.", "bn": "নিঃসঙ্গতা এমন একটি ==সর্বজনীন অনুভূতি যা আমাদের বেশির ভাগই জীবনে অন্তত একবার অনুভব করি==, যদিও ==অসুস্থতা বা মহামারির== মতো কিছু ঘটনা এটিকে আরও ==ব্যাপক== করে তুলতে পারে।" },
+        { "en": "If you're currently experiencing feelings of loneliness, ==you aren't alone==.", "bn": "আপনি যদি এই মুহূর্তে নিঃসঙ্গতার অনুভূতির মধ্য দিয়ে যাচ্ছেন, তবে ==আপনি একা নন==।" },
+        { "en": "In fact, a ==2020 study by Cigna== found that ==61% of Americans reported being lonely in 2019==, up from ==54% in 2018==.", "bn": "প্রকৃতপক্ষে ==Cigna-র ২০২০ সালের একটি সমীক্ষায়== দেখা গেছে ==২০১৯ সালে ৬১% আমেরিকান নিজেদের নিঃসঙ্গ বলে জানিয়েছেন==, যা ==২০১৮ সালের ৫৪% থেকে বেশি==।" },
+        { "en": "No matter what events are occurring around you, ==understanding loneliness and its risks is important for recognising when you may need support==.", "bn": "আপনার চারপাশে যা-ই ঘটুক, ==নিঃসঙ্গতা ও তার ঝুঁকি বোঝা গুরুত্বপূর্ণ — কারণ তাতেই বোঝা যায় কখন আপনার সহায়তা দরকার==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 2 — What loneliness is",
+      "s": [
+        { "en": "The ==American Psychological Association (APA)== defines loneliness as the ==\"affective and cognitive discomfort or uneasiness from being or perceiving oneself to be alone or otherwise solitary.\"==", "bn": "==আমেরিকান সাইকোলজিক্যাল অ্যাসোসিয়েশন (APA)== নিঃসঙ্গতাকে সংজ্ঞায়িত করে ==\"একা থাকা বা নিজেকে একা বা বিচ্ছিন্ন মনে করার ফলে সৃষ্ট আবেগীয় ও চিন্তাগত অস্বস্তি বা অশান্তি\"== হিসেবে।" },
+        { "en": "In other words, loneliness is the ==mental or emotional discomfort== you may experience from either ==being alone or feeling as though you are alone==.", "bn": "অন্য কথায়, নিঃসঙ্গতা হলো সেই ==মানসিক বা আবেগীয় অস্বস্তি== যা আপনি অনুভব করতে পারেন ==একা থাকার কারণে, অথবা নিজেকে একা মনে হওয়ার কারণে==।" },
+        { "en": "This feeling ==stems from your social needs not being met== and/or an ==inability to get the social connection you desire==.", "bn": "এই অনুভূতির ==উৎস আপনার সামাজিক প্রয়োজনগুলো পূরণ না হওয়া==, এবং/অথবা ==আপনি যে সামাজিক সংযোগ চান তা পেতে না পারা==।" }
+      ]
+    },
+    {
+      "tag": "Paragraph 3 — Loneliness vs being alone",
+      "s": [
+        { "en": "Although loneliness and being alone are commonly confused, ==being alone doesn't necessarily mean someone is lonely==.", "bn": "যদিও নিঃসঙ্গতা ও একা থাকা প্রায়ই গুলিয়ে ফেলা হয়, ==একা থাকা মানেই কেউ নিঃসঙ্গ — তা অবশ্যম্ভাবী নয়==।" },
+        { "en": "==\"Loneliness is a feeling, while being alone is a situation or state of being, which isn't inherently negative,\"== says ==Nina Vasan==.", "bn": "==\"নিঃসঙ্গতা একটি অনুভূতি, আর একা থাকা একটি পরিস্থিতি বা অবস্থা, যা স্বভাবতই নেতিবাচক নয়,\"== বলেন ==নিনা ভাসান==।" },
+        { "en": "It is also ==possible to be alone, but not feel lonely==, she adds.", "bn": "==একা থাকা সত্ত্বেও নিঃসঙ্গ বোধ না করাও সম্ভব==, তিনি যোগ করেন।" },
+        { "en": "\"For example, if you're by yourself but ==connecting to others through good communication or activities like volunteering==, ==you don't feel lonely==.\"", "bn": "\"উদাহরণস্বরূপ, আপনি যদি একা থাকেন কিন্তু ==ভালো যোগাযোগ বা স্বেচ্ছাসেবার মতো কাজের মাধ্যমে অন্যদের সঙ্গে সংযুক্ত থাকেন==, তবে ==আপনি নিঃসঙ্গ বোধ করবেন না==।\"" }
+      ]
+    }
+  ],
+
+  "words": [
+    { "w": "loneliness", "pos": "noun", "pron": "/ˈləʊnlinəs/", "bn": "নিঃসঙ্গতা", "en": "the unhappy feeling of having no friends or company", "ex": "Loneliness is a universal emotion." },
+    { "w": "universal", "pos": "adj", "pron": "/ˌjuːnɪˈvɜːsl/", "bn": "সর্বজনীন", "en": "affecting everyone", "ex": "a universal emotion" },
+    { "w": "pervasive", "pos": "adj", "pron": "/pəˈveɪsɪv/", "bn": "ব্যাপক, সর্বত্র ছড়ানো", "en": "spreading widely through every part", "ex": "can make it feel more pervasive" },
+    { "w": "pandemic", "pos": "noun", "pron": "/pænˈdemɪk/", "bn": "মহামারি (বিশ্বজুড়ে)", "en": "a disease spreading across many countries", "ex": "such as an illness or a pandemic" },
+    { "w": "affective", "pos": "adj", "pron": "/əˈfektɪv/", "bn": "আবেগসংক্রান্ত", "en": "relating to feelings and emotions", "ex": "affective and cognitive discomfort" },
+    { "w": "cognitive", "pos": "adj", "pron": "/ˈkɒɡnətɪv/", "bn": "চিন্তা বা জ্ঞানসংক্রান্ত", "en": "relating to thinking and understanding", "ex": "affective and cognitive discomfort" },
+    { "w": "discomfort", "pos": "noun", "pron": "/dɪsˈkʌmfət/", "bn": "অস্বস্তি", "en": "a feeling of slight pain or unease", "ex": "the mental or emotional discomfort" },
+    { "w": "uneasiness", "pos": "noun", "pron": "/ʌnˈiːzinəs/", "bn": "অশান্তি, অস্বস্তি", "en": "a troubled or anxious feeling", "ex": "discomfort or uneasiness from being alone" },
+    { "w": "perceive", "pos": "verb", "pron": "/pəˈsiːv/", "bn": "উপলব্ধি করা, মনে করা", "en": "to understand or think of in a particular way", "ex": "perceiving oneself to be alone" },
+    { "w": "solitary", "pos": "adj", "pron": "/ˈsɒlətri/", "bn": "একা, নিঃসঙ্গ", "en": "alone; without companions", "ex": "to be alone or otherwise solitary" },
+    { "w": "stem from", "pos": "phrase", "pron": "/stem frɒm/", "bn": "উৎপন্ন হওয়া, উৎস হওয়া", "en": "to be caused by", "ex": "This feeling stems from your social needs not being met." },
+    { "w": "inability", "pos": "noun", "pron": "/ˌɪnəˈbɪləti/", "bn": "অক্ষমতা", "en": "being unable to do something", "ex": "an inability to get the social connection you desire" },
+    { "w": "inherently", "pos": "adv", "pron": "/ɪnˈherəntli/", "bn": "স্বভাবতই, মৌলিকভাবে", "en": "as a basic or natural quality", "ex": "which isn't inherently negative" },
+    { "w": "volunteering", "pos": "noun", "pron": "/ˌvɒlənˈtɪərɪŋ/", "bn": "স্বেচ্ছাসেবা", "en": "working without pay to help others", "ex": "activities like volunteering" },
+    { "w": "state of being", "pos": "phrase", "pron": "/steɪt əv ˈbiːɪŋ/", "bn": "অবস্থা", "en": "the condition someone is in", "ex": "being alone is a situation or state of being" }
+  ],
+
+  "synant": [
+    { "w": "pervasive", "bn": "ব্যাপক", "syn": ["widespread", "prevalent", "extensive"], "ant": ["rare", "limited", "confined"] },
+    { "w": "solitary", "bn": "একা", "syn": ["alone", "lone", "isolated"], "ant": ["crowded", "accompanied", "social"] },
+    { "w": "uneasiness", "bn": "অস্বস্তি", "syn": ["discomfort", "anxiety", "unrest"], "ant": ["peace", "calm", "ease"] },
+    { "w": "universal", "bn": "সর্বজনীন", "syn": ["global", "common", "general"], "ant": ["local", "particular", "rare"] },
+    { "w": "inability", "bn": "অক্ষমতা", "syn": ["incapacity", "powerlessness"], "ant": ["ability", "capacity"] },
+    { "w": "perceive", "bn": "মনে করা", "syn": ["regard", "consider", "sense"], "ant": ["overlook", "ignore"] },
+    { "w": "discomfort", "bn": "অস্বস্তি", "syn": ["unease", "distress"], "ant": ["comfort", "relief"] },
+    { "w": "negative", "bn": "নেতিবাচক", "syn": ["harmful", "adverse", "unfavourable"], "ant": ["positive", "beneficial"] }
+  ],
+
+  "summaryEn": "Loneliness is a universal emotion that most people feel at least once in a lifetime, and events such as an illness or a pandemic can make it feel more pervasive. Anyone experiencing it is not alone in doing so: a 2020 study by Cigna found that 61% of Americans reported being lonely in 2019, up from 54% the year before. Understanding loneliness and its risks matters because it helps a person recognise when support is needed. The American Psychological Association defines it as the affective and cognitive discomfort or uneasiness of being, or believing oneself to be, alone or otherwise solitary; it stems from social needs going unmet or from an inability to make the connections one wants. Loneliness and being alone are often confused, but they are not the same. As Nina Vasan explains, loneliness is a feeling while being alone is a situation or state of being, which is not negative in itself — a person by themselves who stays connected through good communication or activities such as volunteering need not feel lonely at all.",
+  "summaryBn": "নিঃসঙ্গতা একটি সর্বজনীন অনুভূতি, যা বেশির ভাগ মানুষ জীবনে অন্তত একবার অনুভব করে; আর অসুস্থতা বা মহামারির মতো ঘটনা এটিকে আরও ব্যাপক করে তুলতে পারে। যিনি এটি অনুভব করছেন তিনি একা নন: Cigna-র ২০২০ সালের সমীক্ষায় দেখা গেছে ২০১৯ সালে ৬১% আমেরিকান নিজেদের নিঃসঙ্গ বলে জানিয়েছেন, যা আগের বছরের ৫৪% থেকে বেশি। নিঃসঙ্গতা ও তার ঝুঁকি বোঝা জরুরি, কারণ তাতেই বোঝা যায় কখন সহায়তা দরকার। আমেরিকান সাইকোলজিক্যাল অ্যাসোসিয়েশন এটিকে সংজ্ঞায়িত করে — একা থাকা বা নিজেকে একা বা বিচ্ছিন্ন মনে করার ফলে সৃষ্ট আবেগীয় ও চিন্তাগত অস্বস্তি; এর উৎস সামাজিক প্রয়োজন পূরণ না হওয়া বা কাঙ্ক্ষিত সংযোগ গড়ে তুলতে না পারা। নিঃসঙ্গতা ও একা থাকা প্রায়ই গুলিয়ে ফেলা হয়, কিন্তু দুটি এক নয়। নিনা ভাসানের ব্যাখ্যা অনুযায়ী, নিঃসঙ্গতা একটি অনুভূতি আর একা থাকা একটি পরিস্থিতি বা অবস্থা, যা নিজে থেকে নেতিবাচক নয় — যিনি একা থেকেও ভালো যোগাযোগ বা স্বেচ্ছাসেবার মতো কাজে সংযুক্ত থাকেন, তাঁর নিঃসঙ্গ বোধ করার প্রয়োজনই নেই।",
+  "summaryTip": "**সংজ্ঞামূলক passage-এ** তিনটি জিনিস রাখতেই হবে: ==APA-র সংজ্ঞা==, ==Cigna-র সংখ্যা== আর ==feeling বনাম situation-এর পার্থক্য==। উদ্ধৃতি হুবহু না লিখে ভাব লিখলেই চলবে।",
+
+  "mcq": [
+    { "q": "Why is it important to understand loneliness?", "opts": ["To avoid physical illness", "To avoid financial problems", "To recognize when support is needed", "To promote growth"], "ans": 2, "why": "‘important for ==recognising when you may need support==’ — passage-এ হুবহু।" },
+    { "q": "What does “solitary” mean?", "opts": ["crowded", "alone", "artillery", "military"], "ans": 1, "why": "solitary = ==alone==; crowded বিপরীত, বাকি দুটি শোনায় কাছাকাছি কিন্তু সম্পর্কহীন।" },
+    { "q": "What does being alone NOT necessarily mean?", "opts": ["feeling happy", "feeling lonely", "being sad", "independent"], "ans": 1, "why": "‘being alone doesn't necessarily mean someone is ==lonely==’।" },
+    { "q": "What is the meaning of “pervasive”?", "opts": ["strong", "rare", "small", "widespread"], "ans": 3, "why": "pervasive = ==widespread==, সর্বত্র ছড়ানো; ‘rare’ ঠিক বিপরীত।" },
+    { "q": "What does the word “uneasiness” mean?", "opts": ["peace", "discomfort", "laziness", "strength"], "ans": 1, "why": "APA-র সংজ্ঞাতেই ‘==discomfort== or uneasiness’ — দুটি পাশাপাশি বসানো, অর্থ এক।" },
+    { "q": "Most of us experience loneliness ______ during lifetime.", "opts": ["twice", "not less than once", "one time at least", "at least more than once"], "ans": 1, "why": "‘==at least once==’ = ==not less than once==। ‘one time at least’ ব্যাকরণগতভাবে দুর্বল, আর ‘more than once’ ভুল।" },
+    { "q": "What does the text say about being alone?", "opts": ["Being alone always leads to loneliness", "Being alone is a negative experience", "Being alone leads to happiness", "Being alone is not always the same as being lonely"], "ans": 3, "why": "‘being alone is a situation … which ==isn't inherently negative==’ এবং একা থেকেও নিঃসঙ্গ না হওয়া সম্ভব।" }
+  ],
+
+  "shortQ": [
+    { "q": "Why is it important to understand loneliness and its risks?", "a": "It is important because it lets a person recognise when they may need support. The passage says that no matter what events are occurring around you, understanding loneliness and its risks helps you see the point at which help is required. Loneliness stems from social needs going unmet, so noticing it early means the need can be met before it deepens. Understanding is therefore the first step towards doing something about it.", "bn": "এটি গুরুত্বপূর্ণ কারণ এতে একজন মানুষ বুঝতে পারে কখন তার সহায়তা দরকার হতে পারে। প্যাসেজে বলা হয়েছে, আপনার চারপাশে যা-ই ঘটুক, নিঃসঙ্গতা ও তার ঝুঁকি বোঝা আপনাকে সেই মুহূর্তটি চিনতে সাহায্য করে যখন সাহায্য প্রয়োজন। নিঃসঙ্গতার উৎস সামাজিক প্রয়োজন পূরণ না হওয়া, তাই তা আগেভাগে টের পেলে গভীর হওয়ার আগেই প্রয়োজনটি মেটানো যায়। অর্থাৎ বোঝাই হলো কিছু করার প্রথম ধাপ।" },
+    { "q": "How can volunteering help you avoid feeling lonely?", "a": "Volunteering connects you to other people even when you are by yourself. Nina Vasan explains that it is possible to be alone without feeling lonely: if you are on your own but connecting to others through good communication or activities like volunteering, you do not feel lonely. Since loneliness stems from social needs not being met, volunteering meets those needs by giving you purpose and company at the same time.", "bn": "স্বেচ্ছাসেবা আপনাকে অন্য মানুষের সঙ্গে সংযুক্ত রাখে, এমনকি আপনি একা থাকলেও। নিনা ভাসান ব্যাখ্যা করেন যে একা থেকেও নিঃসঙ্গ বোধ না করা সম্ভব: আপনি যদি একা থাকেন কিন্তু ভালো যোগাযোগ বা স্বেচ্ছাসেবার মতো কাজের মাধ্যমে অন্যদের সঙ্গে সংযুক্ত থাকেন, তবে নিঃসঙ্গ বোধ করবেন না। যেহেতু নিঃসঙ্গতার উৎস সামাজিক প্রয়োজন পূরণ না হওয়া, স্বেচ্ছাসেবা একই সঙ্গে উদ্দেশ্য ও সঙ্গ দিয়ে সেই প্রয়োজন মিটিয়ে দেয়।" },
+    { "q": "What is loneliness?", "a": "The American Psychological Association defines it as the affective and cognitive discomfort or uneasiness that comes from being, or perceiving oneself to be, alone or otherwise solitary. Put more simply, it is the mental or emotional discomfort a person may feel either from actually being alone or from feeling as though they are alone. It stems from social needs not being met, or from an inability to get the social connection one desires.", "bn": "আমেরিকান সাইকোলজিক্যাল অ্যাসোসিয়েশন এটিকে সংজ্ঞায়িত করে — একা থাকা বা নিজেকে একা বা বিচ্ছিন্ন মনে করার ফলে সৃষ্ট আবেগীয় ও চিন্তাগত অস্বস্তি বা অশান্তি হিসেবে। আরও সহজভাবে বললে, এটি সেই মানসিক বা আবেগীয় অস্বস্তি যা একজন অনুভব করতে পারেন সত্যিই একা থাকার কারণে, অথবা নিজেকে একা মনে হওয়ার কারণে। এর উৎস সামাজিক প্রয়োজন পূরণ না হওয়া, কিংবা কাঙ্ক্ষিত সামাজিক সংযোগ পেতে না পারা।" },
+    { "q": "When do you not feel lonely even if you are by yourself?", "a": "You do not feel lonely when you remain connected to other people despite being on your own. Nina Vasan gives the example plainly: if you are by yourself but connecting to others through good communication or activities like volunteering, you do not feel lonely. Being alone is only a situation, and it is not negative in itself; loneliness appears only when the connection you want is missing.", "bn": "একা থাকা সত্ত্বেও অন্য মানুষের সঙ্গে সংযুক্ত থাকলে আপনি নিঃসঙ্গ বোধ করেন না। নিনা ভাসান উদাহরণটি স্পষ্ট করেই দেন: আপনি যদি একা থাকেন কিন্তু ভালো যোগাযোগ বা স্বেচ্ছাসেবার মতো কাজের মাধ্যমে অন্যদের সঙ্গে সংযুক্ত থাকেন, তবে নিঃসঙ্গ বোধ করবেন না। একা থাকা নিছক একটি পরিস্থিতি, নিজে থেকে তা নেতিবাচক নয়; নিঃসঙ্গতা দেখা দেয় কেবল তখনই, যখন কাঙ্ক্ষিত সংযোগটি অনুপস্থিত থাকে।" },
+    { "q": "Have you faced loneliness in your life? If so, write three or four sentences about that incident.", "a": "Yes, I have. When I changed school in class eight I knew nobody in my new class, and for the first few weeks I sat through every tiffin break by myself even though the room was full of people. That was exactly what the passage describes — I was surrounded by others and still felt alone, because the connection I wanted was missing. It ended when I joined the school's debating club: once I had something to do together with others, the loneliness went away without my noticing.", "bn": "হ্যাঁ, হয়েছি। অষ্টম শ্রেণিতে স্কুল বদলানোর পর নতুন ক্লাসে কাউকে চিনতাম না, আর প্রথম কয়েক সপ্তাহ প্রতিটি টিফিন বিরতি একাই কাটিয়েছি — যদিও ঘরটি মানুষে ভরা ছিল। প্যাসেজে ঠিক এ কথাই বলা হয়েছে — চারপাশে মানুষ থাকলেও আমি একা বোধ করছিলাম, কারণ কাঙ্ক্ষিত সংযোগটি ছিল না। এর অবসান হয় স্কুলের বিতর্ক ক্লাবে যোগ দেওয়ার পর: একসঙ্গে করার মতো কিছু পেয়ে যাওয়ার পর নিঃসঙ্গতা কখন চলে গেল টেরই পাইনি।" }
+  ],
+
+  "gapFill": [
+    {
+      "title": "Loneliness in a paragraph",
+      "body": "Loneliness is a universal emotion and we **(a) ——** it anytime of our **(b) ——**. It is the mental or emotional **(c) ——** you may experience. Loneliness and being alone are not an **(d) ——** fact. Loneliness is a feeling while being alone is a **(e) ——**.",
+      "items": [
+        { "no": "a", "ans": "experience / feel", "why": "‘most of us ==experience== at least once’ — passage-এর শব্দ।" },
+        { "no": "b", "ans": "lifetime / life", "why": "‘at least once during our ==lifetime==’।" },
+        { "no": "c", "ans": "discomfort", "why": "‘the mental or emotional ==discomfort== you may experience’ — হুবহু।" },
+        { "no": "d", "ans": "identical / same", "why": "দুটি এক নয় — ‘not an identical fact’।" },
+        { "no": "e", "ans": "situation / state of being", "why": "‘being alone is a ==situation or state of being==’।" }
+      ]
+    }
+  ],
+
+  "tables": [
+    {
+      "title": "Life of William Blake (প্রশ্ন ৪)",
+      "headers": ["Who / What", "Event / Activity", "When", "Place / Whom / Specialty"],
+      "rows": [
+        ["William Blake", "was born", "in 1757", "London — artist"],
+        ["He", "wrote verses", "(ii) @at the age of ten", "although he received no education"],
+        ["He", "(iii) @married Catherine Boucher", "in 1782", "Catherine Boucher"],
+        ["(iv) @The Poetical Sketches", "publication", "in 1783", "a collection of his early poems"],
+        ["Songs of Experience", "publication", "(v) @in 1794", "five years after Songs of Innocence"],
+        ["Book in prose", "named (i) @The Marriage of Heaven and Hell", "in 1790", "his only prose book"]
+      ],
+      "note": "শেষ সারিটি হিসাব করে বের করতে হবে: Songs of Innocence ==১৭৮৯== + ৫ বছর = ==১৭৯৪==।"
+    }
+  ],
+
+  "matching": {
+    "title": "Global warming",
+    "items": [
+      { "a": "Global warming", "match": "has already become a great threat to the living being of the world", "full": "Global warming has already become a great threat to the living beings of the world." },
+      { "a": "The main reason of global warming", "match": "is the increase of carbon dioxide in the atmosphere", "full": "The main reason of global warming is the increase of carbon dioxide in the atmosphere." },
+      { "a": "Many green parts of the world", "match": "are turning into desert due to global warming", "full": "Many green parts of the world are turning into desert due to global warming." },
+      { "a": "The icecaps", "match": "are rapidly melting in both the poles for global warming", "full": "The icecaps are rapidly melting in both the poles for global warming." },
+      { "a": "The sea level", "match": "is alarmingly rising up gradually and the lower parts of the world are going under water", "full": "The sea level is alarmingly rising up gradually and the lower parts of the world are going under water." }
+    ],
+    "note": "Column A-এর অংশটুকু পড়ে ==ব্যাকরণগতভাবে== কোনটি বসে সেটাই আগে দেখো — singular না plural, সেটাই বড় সংকেত।"
+  },
+
+  "ordering": {
+    "heading": "Hatem Tai",
+    "title": "As given — এলোমেলো বাক্যগুলো",
+    "items": [
+      { "key": "a", "text": "People praised him more than their king." },
+      { "key": "b", "text": "The guests praised the king." },
+      { "key": "c", "text": "The name of that man was Hatem Tai." },
+      { "key": "d", "text": "But the guests praised Hatem Tai also." },
+      { "key": "e", "text": "One day the king gave a dinner." },
+      { "key": "f", "text": "He was not rich but very hospitable." },
+      { "key": "g", "text": "So, the king felt happy and proud." },
+      { "key": "h", "text": "Long long ago there was a very kind and generous man in Yemen." }
+    ],
+    "order": ["h", "c", "f", "a", "e", "b", "g", "d"],
+    "note": "গল্প সাজাতে ==পরিচয় → নাম → গুণ → জনপ্রিয়তা → ভোজ → প্রশংসা → গর্ব → মোড়== এই ক্রম ধরো।"
+  },
+
+  "literature": [
+    {
+      "no": "৮", "title": "Poems", "key": "Poems",
+      "items": [
+        { "q": "What happens when you open a book, according to the poem \"Books\"?", "a": "The ordinary world around you melts away and another one takes its place. The room, the hour and your own worries stop being felt, and out of a small object come countries, centuries and crowds of people that were nowhere present a moment before. That is why the poet calls a book a magic box: it gives out far more than it could possibly hold, and it does so for anyone who opens it.", "bn": "চারপাশের সাধারণ জগৎ মিলিয়ে যায় আর তার জায়গা নেয় অন্য এক জগৎ। ঘর, সময় আর নিজের দুশ্চিন্তা আর অনুভূত হয় না; ছোট্ট একটি বস্তু থেকে বেরিয়ে আসে দেশ, শতাব্দী আর মানুষের ভিড় — যা এক মুহূর্ত আগেও কোথাও ছিল না। এ কারণেই কবি বইকে জাদুর বাক্স বলেন: এটি তার ভেতরে যা ধরা সম্ভব তার চেয়ে অনেক বেশি দেয়, আর যে-কেউ খুললেই তা পায়।" },
+        { "q": "Why does the speaker say she loves both mothers in \"Two Mothers Remembered\"?", "a": "Because each gave her something the other could not. One was the mother who gave her life and the other the mother who raised her; they differed in temperament, in what they taught and in how they showed love, and the speaker refuses to rank them. She says plainly that she is the sum of both, so loving one more than the other would mean disowning half of herself.", "bn": "কারণ প্রত্যেকে তাঁকে এমন কিছু দিয়েছেন যা অন্যজন দিতে পারতেন না। একজন তাঁকে জীবন দিয়েছেন, অন্যজন তাঁকে বড় করেছেন; স্বভাবে, শিক্ষায় ও ভালোবাসা প্রকাশের ধরনে তাঁরা আলাদা ছিলেন, আর বক্তা তাঁদের মধ্যে কে বড় সে বিচার করতে অস্বীকার করেন। তিনি স্পষ্টই বলেন তিনি দুজনেরই যোগফল, তাই একজনকে বেশি ভালোবাসা মানে নিজের অর্ধেককেই অস্বীকার করা।" },
+        { "q": "What does the rolling mist symbolize in \"The Sands of Dee\"?", "a": "It stands for the blindness that comes just before disaster. The mist rolls in and hides the land from Mary's sight, so that she cannot tell water from shore and walks on without knowing the tide is rising around her. It is nature turning from background into danger, and it makes her death feel not cruel but simply unseen — she never had the chance to know what was happening.", "bn": "এটি বিপর্যয়ের ঠিক আগের অন্ধত্বের প্রতীক। কুয়াশা নেমে এসে মেরির দৃষ্টি থেকে স্থলভাগ ঢেকে দেয়, ফলে সে জল ও তীরের পার্থক্য বুঝতে পারে না এবং চারপাশে জোয়ার বাড়ছে তা না জেনেই এগিয়ে যায়। এটি প্রকৃতির পটভূমি থেকে বিপদে রূপান্তর, আর এতে তার মৃত্যু নিষ্ঠুর নয় বরং অদেখা মনে হয় — কী ঘটছে তা জানার সুযোগই সে পায়নি।" },
+        { "q": "How does the speaker plan to honour time in \"Time, You Old Gipsy Man\"?", "a": "He offers time every reward he can think of if only it will stay a single day. He promises a silver bell to ring in the tower, a golden ring for time's finger, and all the flowers of the field to make it a bed. The offer is generous and completely useless: time owns no home, obeys no one and cannot be bought, so it passes on as it always has.", "bn": "একটিমাত্র দিনের জন্য থামলেই সময়কে তিনি যত রকম পুরস্কার সম্ভব সবই দিতে চান। তিনি প্রতিশ্রুতি দেন টাওয়ারে বাজানোর জন্য রুপার ঘণ্টা, সময়ের আঙুলের জন্য সোনার আংটি, আর বিছানা পাতার জন্য মাঠের সব ফুল। প্রস্তাবটি উদার এবং সম্পূর্ণ নিষ্ফল: সময়ের কোনো ঘর নেই, কারও কথা শোনে না, তাকে কেনাও যায় না — তাই সে চিরকালের মতোই এগিয়ে যায়।" },
+        { "q": "What is the speaker doing in \"Stopping by Woods on a Snowy Evening\"?", "a": "He is riding through the countryside on the darkest evening of the year and has stopped between the woods and a frozen lake to watch the snow fall. His little horse thinks the halt strange and shakes its harness bells. He admits the woods are lovely, dark and deep, but remembers that he has promises to keep and miles to go before he sleeps, and so he rides on.", "bn": "বছরের সবচেয়ে অন্ধকার সন্ধ্যায় তিনি গ্রামের পথ ধরে ঘোড়ায় চড়ে যাচ্ছিলেন এবং বন ও জমে যাওয়া হ্রদের মাঝখানে থেমেছেন তুষারপাত দেখতে। তাঁর ছোট ঘোড়াটি থামাকে অদ্ভুত মনে করে ঘণ্টা ঝাঁকায়। তিনি স্বীকার করেন বনটি সুন্দর, অন্ধকার ও গভীর, কিন্তু মনে পড়ে তাঁর প্রতিশ্রুতি রক্ষা করার আছে এবং ঘুমানোর আগে বহু পথ যেতে হবে — তাই তিনি এগিয়ে যান।" },
+        { "q": "What happens when you fast in \"Solitude\"?", "a": "The poem's rule is that the world shares your feast but not your fast. Feast, and your halls are crowded; fast, and the world goes by — because sharing plenty costs nothing while sharing want costs something. The poet states it without bitterness: it is simply how people behave, and the practical lesson is to be ready to bear your own lean days alone.", "bn": "কবিতার নিয়মটি হলো — পৃথিবী আপনার ভোজে ভাগ নেয়, উপবাসে নয়। ভোজ দিন, আপনার ঘর ভরে যাবে; উপবাস করুন, পৃথিবী পাশ কাটিয়ে চলে যাবে — কারণ প্রাচুর্য ভাগ করতে কিছুই খরচ হয় না, অথচ অভাব ভাগ করতে কিছু দিতে হয়। কবি এটি বিদ্বেষ ছাড়াই বলেন: মানুষ এভাবেই চলে, আর ব্যবহারিক শিক্ষাটি হলো নিজের দুর্দিন একা সইতে প্রস্তুত থাকা।" },
+        { "q": "What happens to our minds while reading books?", "a": "The mind leaves its own surroundings and lives somewhere else for a while. It stops attending to the room and the hour, takes on the thoughts of people it has never met, and travels to places it will never visit. In doing so it grows: the reader ends the book knowing and imagining more than when he began, which is why the poet treats a book as a treasure rather than an object.", "bn": "মন নিজের পরিবেশ ছেড়ে কিছুক্ষণের জন্য অন্য কোথাও বাস করে। ঘর ও সময়ের দিকে মনোযোগ দেওয়া বন্ধ করে দেয়, এমন মানুষের ভাবনা নিজের করে নেয় যাদের সঙ্গে কখনও দেখা হয়নি, আর এমন জায়গায় ভ্রমণ করে যেখানে কখনও যাওয়া হবে না। এভাবেই মন বেড়ে ওঠে: বই শেষ করে পাঠক শুরুর তুলনায় বেশি জানে ও বেশি কল্পনা করতে পারে — এ কারণেই কবি বইকে বস্তু নয়, সম্পদ হিসেবে দেখেন।" },
+        { "q": "What can you do for your mother in her old age, as per \"Two Mothers Remembered\"?", "a": "The poem suggests that what a mother needs in age is the attention she once gave. She gave time, patience and care without keeping account, so the return owed is not money but presence — listening to her, being there, and letting her know that what she taught was received. The speaker honours her mothers simply by remembering them accurately and gratefully, and that is within anyone's power.", "bn": "কবিতাটি বোঝায়, বার্ধক্যে মায়ের যা প্রয়োজন তা হলো সেই মনোযোগ যা তিনি একদিন দিয়েছিলেন। তিনি সময়, ধৈর্য ও যত্ন দিয়েছেন হিসাব না রেখে, তাই প্রতিদানে যা পাওনা তা অর্থ নয় — উপস্থিতি: তাঁর কথা শোনা, পাশে থাকা, আর তিনি যা শিখিয়েছেন তা গ্রহণ করা হয়েছে তা জানানো। বক্তা তাঁর দুই মাকে সম্মান জানান নিছক নির্ভুল ও কৃতজ্ঞ স্মরণের মধ্য দিয়ে — আর এটি যে কারও সাধ্যের মধ্যেই।" }
+      ]
+    },
+    {
+      "no": "৯", "title": "Stories", "key": "Stories",
+      "items": [
+        { "q": "Who are the main characters of the story \"The Purple Jar\"?", "a": "There are two: Rosamond, a girl of about seven, and her mother. Rosamond is the one who wants everything she sees and finally chooses the purple jar over a badly needed pair of shoes. Her mother is the one who sets the choice honestly, warns her of the consequence and then refuses to overrule her. The shopkeeper appears briefly, but the whole story turns on those two.", "bn": "প্রধান চরিত্র দুটি: রোজামন্ড, প্রায় সাত বছরের এক মেয়ে, এবং তার মা। রোজামন্ডই সেই চরিত্র যে যা দেখে তা-ই চায় এবং শেষে খুব দরকারি এক জোড়া জুতোর বদলে বেগুনি জারটি বেছে নেয়। তার মা-ই সেই চরিত্র যিনি সততার সঙ্গে বিকল্পটি সাজিয়ে দেন, পরিণতির কথা সতর্ক করেন, তারপর তার সিদ্ধান্ত বাতিল করতে অস্বীকার করেন। দোকানিকে সংক্ষেপে দেখা যায়, কিন্তু গোটা গল্পটি ঘোরে এই দুজনকে নিয়েই।" },
+        { "q": "Why did Rosamond's mother refuse to buy everything Rosamond wanted?", "a": "Because she was teaching the difference between wanting and needing. Rosamond wanted almost every bright thing in the shop windows, and her mother knew that giving her all of it would teach her nothing. So she limited the choice to one purchase and made the terms clear: the useful shoes or the pretty jar, and whichever she chose she would live with for a month. The limit was the lesson.", "bn": "কারণ তিনি চাওয়া ও প্রয়োজনের পার্থক্য শেখাচ্ছিলেন। দোকানের জানালার প্রায় প্রতিটি উজ্জ্বল জিনিসই রোজামন্ড চেয়েছিল, আর তার মা জানতেন সব দিয়ে দিলে তা তাকে কিছুই শেখাবে না। তাই তিনি পছন্দটি একটিমাত্র কেনাকাটায় সীমিত করেন এবং শর্ত পরিষ্কার করে দেন: প্রয়োজনীয় জুতো নাকি সুন্দর জার, আর যেটিই বেছে নিক তা নিয়েই এক মাস কাটাতে হবে। সীমাটিই ছিল শিক্ষা।" },
+        { "q": "What problem did Rosamond discover with her shoes?", "a": "Her shoes were worn through. The soles had given way so badly that she could not walk comfortably, and the state of them meant she could not be taken out — her mother pointed out that she would not be able to go walking with her father in such shoes. That was precisely why the mother offered new shoes as the sensible purchase, and precisely what Rosamond chose to ignore.", "bn": "তার জুতো ছিঁড়ে গিয়েছিল। তলা এতটাই নষ্ট হয়ে গিয়েছিল যে সে স্বচ্ছন্দে হাঁটতে পারত না, আর সেই অবস্থার কারণে তাকে বাইরে নেওয়াও যেত না — তার মা দেখিয়ে দেন যে এমন জুতো পরে সে বাবার সঙ্গে হাঁটতে যেতে পারবে না। ঠিক এ কারণেই মা যুক্তিসংগত কেনাকাটা হিসেবে নতুন জুতোর প্রস্তাব দেন, আর ঠিক এটিই রোজামন্ড উপেক্ষা করতে বেছে নেয়।" },
+        { "q": "What problem did Rosamond face due to not buying new shoes?", "a": "She had to spend a whole month in her broken shoes. She could not walk comfortably, and worst of all she could not go out with her father, because her mother held her to the terms she had accepted. The jar meanwhile turned out to be plain colourless glass with an unpleasant smell, so she had given up something she needed for something that was not even what it looked like.", "bn": "গোটা এক মাস তাকে ছেঁড়া জুতোতেই কাটাতে হয়। সে স্বচ্ছন্দে হাঁটতে পারত না, আর সবচেয়ে খারাপ, বাবার সঙ্গে বাইরে যেতে পারত না — কারণ মা তাকে মেনে নেওয়া শর্তেই আটকে রাখেন। এদিকে জারটি বেরিয়ে আসে সাদামাটা বর্ণহীন কাচ হিসেবে, গন্ধও অপ্রীতিকর; অর্থাৎ যা তার দরকার ছিল তা সে ছেড়ে দিয়েছিল এমন কিছুর জন্য, যা দেখতে যা মনে হয়েছিল তা-ও ছিল না।" },
+        { "q": "Who was Portia and why was she admired?", "a": "Portia was the rich and clever heiress of Belmont, bound by her father's will to marry whichever suitor chose the right casket. She was admired first for her beauty and wealth, which drew suitors from every country, but far more for her mind: disguised as a young lawyer she went to the Venetian court and saved Antonio's life by defeating Shylock with the wording of his own bond. She also pleaded for mercy before she used the law.", "bn": "পোর্শিয়া ছিলেন বেলমন্টের ধনী ও বুদ্ধিমতী উত্তরাধিকারিণী, বাবার উইলে বাঁধা — যে পাত্র সঠিক বাক্সটি বেছে নেবে তাকেই তাঁকে বিয়ে করতে হবে। প্রথমে তাঁর সৌন্দর্য ও সম্পদের জন্য তিনি প্রশংসিত ছিলেন, যা সব দেশ থেকে পাত্র টেনে আনত; কিন্তু আরও অনেক বেশি প্রশংসিত ছিলেন তাঁর বুদ্ধির জন্য: তরুণ আইনজীবীর ছদ্মবেশে তিনি ভেনিসের আদালতে গিয়ে শাইলকের নিজের দলিলের ভাষা দিয়েই তাঁকে পরাস্ত করে অ্যান্টোনিওর প্রাণ বাঁচান। আইন প্রয়োগের আগে তিনি দয়ার জন্য অনুরোধও করেছিলেন।" },
+        { "q": "Who was Antonio and what did he do for a living?", "a": "Antonio was a merchant of Venice and Bassanio's closest friend. He made his living by sea trade: his wealth travelled in ships carrying valuable cargo to and from distant ports, which is why he had no ready cash when Bassanio needed three thousand ducats. He lent money without interest, which was one reason Shylock hated him, and he borrowed on his own credit to help his friend.", "bn": "অ্যান্টোনিও ছিলেন ভেনিসের একজন বণিক এবং ব্যাসানিওর সবচেয়ে ঘনিষ্ঠ বন্ধু। তিনি জীবিকা নির্বাহ করতেন সমুদ্রবাণিজ্যের মাধ্যমে: তাঁর সম্পদ ভেসে বেড়াত মূল্যবান পণ্যবাহী জাহাজে, দূরের বন্দরে যাওয়া-আসা করে — এ কারণেই ব্যাসানিওর তিন হাজার ডুকাট দরকার হলে তাঁর হাতে নগদ ছিল না। তিনি সুদ ছাড়া টাকা ধার দিতেন, যা শাইলকের ঘৃণার একটি কারণ; আর বন্ধুকে সাহায্য করতে নিজের জামিনেই ধার নেন।" },
+        { "q": "What news disrupted Bassanio and Portia's happiness after their marriage?", "a": "A letter arrived from Venice saying that Antonio's ships had all been lost, that he could not repay Shylock, and that Shylock was demanding the pound of flesh named in the bond. Bassanio had won Portia by choosing the leaden casket, and the news came in the middle of that happiness. Portia at once gave him money to save his friend and then followed him to Venice in disguise.", "bn": "ভেনিস থেকে একটি চিঠি আসে, যাতে লেখা ছিল অ্যান্টোনিওর সব জাহাজ হারিয়ে গেছে, তিনি শাইলকের ঋণ শোধ করতে পারছেন না, আর শাইলক দলিলে উল্লিখিত এক পাউন্ড মাংস দাবি করছেন। ব্যাসানিও সিসার বাক্সটি বেছে নিয়ে পোর্শিয়াকে লাভ করেছিলেন, আর এই খবরটি আসে সেই আনন্দের মাঝেই। পোর্শিয়া সঙ্গে সঙ্গে বন্ধুকে বাঁচানোর জন্য তাঁকে অর্থ দেন এবং পরে ছদ্মবেশে নিজেও ভেনিসে যান।" },
+        { "q": "Write what you know of the three caskets.", "a": "Portia's father left three caskets — gold, silver and lead — and by his will she had to marry whichever suitor chose the right one. Each carried an inscription and each tested a different way of judging: gold promised what many men desire, silver what a man thinks he deserves, and lead asked the chooser to give and hazard all he had. The Prince of Morocco took gold and the Prince of Arragon silver, and both were wrong. Bassanio ignored the surface, chose the lead casket, and found Portia's portrait inside — so the test rewarded judgement over greed and vanity.", "bn": "পোর্শিয়ার বাবা রেখে গিয়েছিলেন তিনটি বাক্স — সোনা, রুপা ও সিসা — আর তাঁর উইল অনুযায়ী যে পাত্র সঠিকটি বেছে নেবে তাকেই তাঁকে বিয়ে করতে হবে। প্রত্যেকটিতে ছিল একটি করে লেখা, আর প্রত্যেকটি পরীক্ষা করত বিচারের ভিন্ন ভিন্ন ধরন: সোনা প্রতিশ্রুতি দিত যা বহু মানুষ কামনা করে, রুপা যা মানুষ নিজেকে যার যোগ্য মনে করে, আর সিসা নির্বাচকের কাছে দাবি করত সর্বস্ব দেওয়া ও বাজি রাখা। মরক্কোর যুবরাজ নেন সোনা, আরাগনের যুবরাজ রুপা — দুজনেই ভুল করেন। ব্যাসানিও বাইরের চেহারা উপেক্ষা করে সিসার বাক্সটি বেছে নেন এবং ভেতরে পান পোর্শিয়ার প্রতিকৃতি — অর্থাৎ পরীক্ষাটি লোভ ও অহংকারের বদলে বিচারবুদ্ধিকেই পুরস্কৃত করে।" }
+      ]
+    }
+  ],
+
+  "extras": [
+    {
+      "title": "Loneliness vs being alone <span class='sub'>— পুরো passage-এর কেন্দ্রীয় পার্থক্য</span>",
+      "key": "Contrast",
+      "table": {
+        "headers": ["Loneliness", "Being alone"],
+        "rows": [
+          ["একটি অনুভূতি (a feeling)", "একটি পরিস্থিতি বা অবস্থা (a situation or state of being)"],
+          ["স্বভাবতই অস্বস্তিকর", "স্বভাবতই নেতিবাচক নয়"],
+          ["সামাজিক প্রয়োজন পূরণ না হলে জন্মায়", "কেবল কাছে কেউ না থাকা"],
+          ["ভিড়ের মধ্যেও হতে পারে", "যোগাযোগ থাকলে নিঃসঙ্গতা ছাড়াও হতে পারে"],
+          ["সহায়তা দরকার হতে পারে", "স্বেচ্ছাসেবা বা যোগাযোগে কেটে যায়"]
+        ]
+      },
+      "note": "এই টেবিলটি মনে রাখলে MCQ (c) ও (g), আর short question (d) — তিনটিরই উত্তর বেরিয়ে আসে।"
+    },
+    {
+      "title": "Facts you must quote correctly <span class='sub'>— সংখ্যা ও নাম</span>",
+      "key": "Fact Bank",
+      "table": {
+        "headers": ["তথ্য", "বিবরণ"],
+        "rows": [
+          ["Cigna, 2020 study", "যে সমীক্ষার কথা বলা হয়েছে"],
+          ["61%", "২০১৯ সালে নিঃসঙ্গ আমেরিকান"],
+          ["54%", "২০১৮ সালে — অর্থাৎ বেড়েছে"],
+          ["APA", "American Psychological Association — সংজ্ঞা দিয়েছে"],
+          ["Nina Vasan", "feeling বনাম situation-এর পার্থক্য ব্যাখ্যা করেছেন"],
+          ["at least once", "জীবনে অন্তত একবার সবাই অনুভব করে"]
+        ]
+      }
+    }
+  ],
+
+  "tips": [
+    { "em": "⚖️", "t": "feeling না situation", "type": "warn", "d": "==Loneliness = feeling== · ==Being alone = situation/state of being==। এই এক লাইনেই তিনটি প্রশ্নের উত্তর।" },
+    { "em": "🔢", "t": "৬১% আর ৫৪% উল্টে ফেলো না", "type": "warn", "d": "==২০১৯ → ৬১%==, ==২০১৮ → ৫৪%==। বেড়েছে, কমেনি।" },
+    { "em": "🤝", "t": "একা ≠ নিঃসঙ্গ", "d": "ভালো যোগাযোগ বা ==volunteering== থাকলে একা থেকেও নিঃসঙ্গ বোধ হয় না — নিনা ভাসানের উদাহরণ।" },
+    { "em": "🔤", "t": "চারটি শব্দার্থ", "d": "solitary = ==alone== · pervasive = ==widespread== · uneasiness = ==discomfort== · at least once = ==not less than once==।" },
+    { "em": "✍️", "t": "শেষ short question-এ নিজের কথা", "d": "প্রশ্ন ২(ঙ)-তে ==নিজের অভিজ্ঞতা== চাওয়া হয়েছে — ৩-৪ বাক্যে সত্যিকারের একটি ঘটনা লিখবে, passage থেকে তুলবে না।" }
+  ],
+
+  "recap": [
+    "নিঃসঙ্গতা সর্বজনীন — বেশির ভাগ মানুষ জীবনে অন্তত একবার অনুভব করে।",
+    "Cigna-র ২০২০ সমীক্ষা: ২০১৯-এ ৬১%, ২০১৮-এ ৫৪% আমেরিকান নিঃসঙ্গ।",
+    "APA-র সংজ্ঞা: একা থাকা বা নিজেকে একা মনে করার আবেগীয় ও চিন্তাগত অস্বস্তি।",
+    "উৎস: সামাজিক প্রয়োজন পূরণ না হওয়া বা কাঙ্ক্ষিত সংযোগ না পাওয়া।",
+    "নিনা ভাসান: নিঃসঙ্গতা একটি feeling, একা থাকা একটি situation — যোগাযোগ বা স্বেচ্ছাসেবায় একা থেকেও নিঃসঙ্গ নয়।"
+  ],
+
+  "homework": [
+    "Loneliness vs being alone টেবিলটি না দেখে লিখে আনবে।",
+    "৭টি MCQ-র উত্তর ব্যাখ্যাসহ খাতায় লিখবে।",
+    "Gap filling ও William Blake-এর টেবিল নিজে পূরণ করবে।",
+    "প্রশ্ন ২(ঙ) — নিজের নিঃসঙ্গতার একটি অভিজ্ঞতা ৪ বাক্যে লিখে আনবে।"
+  ]
+}

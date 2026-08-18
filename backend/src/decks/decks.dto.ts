@@ -346,3 +346,29 @@ export class ContentDto {
   @IsOptional() @ValidateNested() @Type(() => BoardQDto)
   boardQ?: BoardQDto;
 }
+
+
+/**
+ * Which parts of a lesson a student may see. Section names, not slide numbers:
+ * a chapter edited tomorrow keeps the same sections but not the same numbering.
+ */
+export const SHARE_SECTIONS = [
+  'passage', 'translation', 'words', 'synant', 'summary',
+  'mcq', 'shortq', 'table', 'flow',
+  'gapfill', 'matching', 'ordering', 'literature',
+  'rules', 'drill', 'board',
+  'extra', 'tips', 'recap',
+] as const;
+
+export class ShareDto {
+  @IsBoolean()
+  enabled!: boolean;
+
+  @IsOptional() @IsArray() @ArrayMaxSize(20)
+  @IsIn(SHARE_SECTIONS as unknown as string[], { each: true })
+  sections?: string[];
+
+  /** false → the server removes every answer before responding */
+  @IsOptional() @IsBoolean()
+  withAnswers?: boolean;
+}

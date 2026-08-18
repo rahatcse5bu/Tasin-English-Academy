@@ -20,6 +20,8 @@ export interface ChapterMeta {
   tag: string;
   level: 'Easy' | 'Medium' | 'Hard';
   available?: boolean;
+  /** staff only — how this chapter is shared with students */
+  share?: { enabled: boolean; sections: string[]; withAnswers: boolean };
   /** taken out of the class list but not removed */
   hidden?: boolean;
   deleted?: boolean;
@@ -63,6 +65,9 @@ export interface UnitSummary {
 
 export interface DeckPaper {
   id: string;
+  classId?: string;
+  className?: string;
+  classNameBn?: string;
   name: string;
   nameBn: string;
   blurb: string;
@@ -93,6 +98,10 @@ export interface Deck {
   unitName: string;
   lesson?: number | null;
   lessonName?: string | null;
+  /** student view — the sections a mentor shared, if this is a shared copy */
+  shareSections?: string[];
+  /** student view — the server removed every answer before sending */
+  answersHidden?: boolean;
   title: string;
   titleBn?: string;
   lede?: string;
